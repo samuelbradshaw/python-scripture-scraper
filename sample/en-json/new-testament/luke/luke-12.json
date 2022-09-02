@@ -1,0 +1,428 @@
+{
+  "name": "Luke 12",
+  "abbrev": "Luke 12",
+  "number": "12",
+  "churchUri": "/scriptures/nt/luke/12",
+  "paragraphs": [
+    {
+      "slug": "luke-12-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 12",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "luke-12-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "In the mean time, when there were gathered together an innumerable multitude of people, insomuch that they trode one upon another, he began to say unto his disciples first of all, Beware ye of the leaven of the Pharisees, which is hypocrisy.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "luke-12-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "For there is nothing covered, that shall not be revealed; neither hid, that shall not be known.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "luke-12-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Therefore whatsoever ye have spoken in darkness shall be heard in the light; and that which ye have spoken in the ear in closets shall be proclaimed upon the housetops.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "luke-12-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And I say unto you my friends, Be not afraid of them that kill the body, and after that have no more that they can do.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "luke-12-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "But I will forewarn you whom ye shall fear: Fear him, which after he hath killed hath power to cast into hell; yea, I say unto you, Fear him.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "luke-12-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Are not five sparrows sold for two farthings, and not one of them is forgotten before God?",
+      "churchId": "p6"
+    },
+    {
+      "slug": "luke-12-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "But even the very hairs of your head are all numbered. Fear not therefore: ye are of more value than many sparrows.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "luke-12-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Also I say unto you, Whosoever shall confess me before men, him shall the Son of man also confess before the angels of God:",
+      "churchId": "p8"
+    },
+    {
+      "slug": "luke-12-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "But he that denieth me before men shall be denied before the angels of God.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "luke-12-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And whosoever shall speak a word against the Son of man, it shall be forgiven him: but unto him that blasphemeth against the Holy Ghost it shall not be forgiven.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "luke-12-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And when they bring you unto the synagogues, and <span class=\"clarity-word\">unto</span> magistrates, and powers, take ye no thought how or what thing ye shall answer, or what ye shall say:",
+      "churchId": "p11"
+    },
+    {
+      "slug": "luke-12-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "For the Holy Ghost shall teach you in the same hour what ye ought to say.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "luke-12-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "¶ And one of the company said unto him, Master, speak to my brother, that he divide the inheritance with me.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "luke-12-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And he said unto him, Man, who made me a judge or a divider over you?",
+      "churchId": "p14"
+    },
+    {
+      "slug": "luke-12-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And he said unto them, Take heed, and beware of covetousness: for a man’s life consisteth not in the abundance of the things which he possesseth.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "luke-12-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And he spake a parable unto them, saying, The ground of a certain rich man brought forth plentifully:",
+      "churchId": "p16"
+    },
+    {
+      "slug": "luke-12-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And he thought within himself, saying, What shall I do, because I have no room where to bestow my fruits?",
+      "churchId": "p17"
+    },
+    {
+      "slug": "luke-12-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And he said, This will I do: I will pull down my barns, and build greater; and there will I bestow all my fruits and my goods.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "luke-12-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And I will say to my soul, Soul, thou hast much goods laid up for many years; take thine ease, eat, drink, <span class=\"clarity-word\">and</span> be merry.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "luke-12-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "But God said unto him, <span class=\"clarity-word\">Thou</span> fool, this night thy soul shall be required of thee: then whose shall those things be, which thou hast provided?",
+      "churchId": "p20"
+    },
+    {
+      "slug": "luke-12-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "So <span class=\"clarity-word\">is</span> he that layeth up treasure for himself, and is not rich toward God.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "luke-12-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "¶ And he said unto his disciples, Therefore I say unto you, Take no thought for your life, what ye shall eat; neither for the body, what ye shall put on.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "luke-12-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "The life is more than meat, and the body <span class=\"clarity-word\">is more</span> than raiment.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "luke-12-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Consider the ravens: for they neither sow nor reap; which neither have storehouse nor barn; and God feedeth them: how much more are ye better than the fowls?",
+      "churchId": "p24"
+    },
+    {
+      "slug": "luke-12-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And which of you with taking thought can add to his stature one cubit?",
+      "churchId": "p25"
+    },
+    {
+      "slug": "luke-12-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "If ye then be not able to do that thing which is least, why take ye thought for the rest?",
+      "churchId": "p26"
+    },
+    {
+      "slug": "luke-12-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "Consider the lilies how they grow: they toil not, they spin not; and yet I say unto you, that Solomon in all his glory was not arrayed like one of these.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "luke-12-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "If then God so clothe the grass, which is to day in the field, and to morrow is cast into the oven; how much more <span class=\"clarity-word\">will he clothe</span> you, O ye of little faith?",
+      "churchId": "p28"
+    },
+    {
+      "slug": "luke-12-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "And seek not ye what ye shall eat, or what ye shall drink, neither be ye of doubtful mind.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "luke-12-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "For all these things do the nations of the world seek after: and your Father knoweth that ye have need of these things.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "luke-12-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "¶ But rather seek ye the kingdom of God; and all these things shall be added unto you.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "luke-12-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "Fear not, little flock; for it is your Father’s good pleasure to give you the kingdom.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "luke-12-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "Sell that ye have, and give alms; provide yourselves bags which wax not old, a treasure in the heavens that faileth not, where no thief approacheth, neither moth corrupteth.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "luke-12-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "For where your treasure is, there will your heart be also.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "luke-12-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "Let your loins be girded about, and <span class=\"clarity-word\">your</span> lights burning;",
+      "churchId": "p35"
+    },
+    {
+      "slug": "luke-12-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "And ye yourselves like unto men that wait for their lord, when he will return from the wedding; that when he cometh and knocketh, they may open unto him immediately.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "luke-12-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "Blessed <span class=\"clarity-word\">are</span> those servants, whom the lord when he cometh shall find watching: verily I say unto you, that he shall gird himself, and make them to sit down to meat, and will come forth and serve them.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "luke-12-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "And if he shall come in the second watch, or come in the third watch, and find <span class=\"clarity-word\">them</span> so, blessed are those servants.",
+      "churchId": "p38"
+    },
+    {
+      "slug": "luke-12-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "And this know, that if the goodman of the house had known what hour the thief would come, he would have watched, and not have suffered his house to be broken through.",
+      "churchId": "p39"
+    },
+    {
+      "slug": "luke-12-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "Be ye therefore ready also: for the Son of man cometh at an hour when ye think not.",
+      "churchId": "p40"
+    },
+    {
+      "slug": "luke-12-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "¶ Then Peter said unto him, Lord, speakest thou this parable unto us, or even to all?",
+      "churchId": "p41"
+    },
+    {
+      "slug": "luke-12-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "And the Lord said, Who then is that faithful and wise steward, whom <span class=\"clarity-word\">his</span> lord shall make ruler over his household, to give <span class=\"clarity-word\">them their</span> portion of meat in due season?",
+      "churchId": "p42"
+    },
+    {
+      "slug": "luke-12-p43",
+      "type": "verse",
+      "number": "43",
+      "content": "Blessed <span class=\"clarity-word\">is</span> that servant, whom his lord when he cometh shall find so doing.",
+      "churchId": "p43"
+    },
+    {
+      "slug": "luke-12-p44",
+      "type": "verse",
+      "number": "44",
+      "content": "Of a truth I say unto you, that he will make him ruler over all that he hath.",
+      "churchId": "p44"
+    },
+    {
+      "slug": "luke-12-p45",
+      "type": "verse",
+      "number": "45",
+      "content": "But and if that servant say in his heart, My lord delayeth his coming; and shall begin to beat the menservants and maidens, and to eat and drink, and to be drunken;",
+      "churchId": "p45"
+    },
+    {
+      "slug": "luke-12-p46",
+      "type": "verse",
+      "number": "46",
+      "content": "The lord of that servant will come in a day when he looketh not for <span class=\"clarity-word\">him,</span> and at an hour when he is not aware, and will cut him in sunder, and will appoint him his portion with the unbelievers.",
+      "churchId": "p46"
+    },
+    {
+      "slug": "luke-12-p47",
+      "type": "verse",
+      "number": "47",
+      "content": "And that servant, which knew his lord’s will, and prepared not <span class=\"clarity-word\">himself,</span> neither did according to his will, shall be beaten with many <span class=\"clarity-word\">stripes.</span>",
+      "churchId": "p47"
+    },
+    {
+      "slug": "luke-12-p48",
+      "type": "verse",
+      "number": "48",
+      "content": "But he that knew not, and did commit things worthy of stripes, shall be beaten with few <span class=\"clarity-word\">stripes.</span> For unto whomsoever much is given, of him shall be much required: and to whom men have committed much, of him they will ask the more.",
+      "churchId": "p48"
+    },
+    {
+      "slug": "luke-12-p49",
+      "type": "verse",
+      "number": "49",
+      "content": "¶ I am come to send fire on the earth; and what will I, if it be already kindled?",
+      "churchId": "p49"
+    },
+    {
+      "slug": "luke-12-p50",
+      "type": "verse",
+      "number": "50",
+      "content": "But I have a baptism to be baptized with; and how am I straitened till it be accomplished!",
+      "churchId": "p50"
+    },
+    {
+      "slug": "luke-12-p51",
+      "type": "verse",
+      "number": "51",
+      "content": "Suppose ye that I am come to give peace on earth? I tell you, Nay; but rather division:",
+      "churchId": "p51"
+    },
+    {
+      "slug": "luke-12-p52",
+      "type": "verse",
+      "number": "52",
+      "content": "For from henceforth there shall be five in one house divided, three against two, and two against three.",
+      "churchId": "p52"
+    },
+    {
+      "slug": "luke-12-p53",
+      "type": "verse",
+      "number": "53",
+      "content": "The father shall be divided against the son, and the son against the father; the mother against the daughter, and the daughter against the mother; the mother in law against her daughter in law, and the daughter in law against her mother in law.",
+      "churchId": "p53"
+    },
+    {
+      "slug": "luke-12-p54",
+      "type": "verse",
+      "number": "54",
+      "content": "¶ And he said also to the people, When ye see a cloud rise out of the west, straightway ye say, There cometh a shower; and so it is.",
+      "churchId": "p54"
+    },
+    {
+      "slug": "luke-12-p55",
+      "type": "verse",
+      "number": "55",
+      "content": "And when <span class=\"clarity-word\">ye see</span> the south wind blow, ye say, There will be heat; and it cometh to pass.",
+      "churchId": "p55"
+    },
+    {
+      "slug": "luke-12-p56",
+      "type": "verse",
+      "number": "56",
+      "content": "<span class=\"clarity-word\">Ye</span> hypocrites, ye can discern the face of the sky and of the earth; but how is it that ye do not discern this time?",
+      "churchId": "p56"
+    },
+    {
+      "slug": "luke-12-p57",
+      "type": "verse",
+      "number": "57",
+      "content": "Yea, and why even of yourselves judge ye not what is right?",
+      "churchId": "p57"
+    },
+    {
+      "slug": "luke-12-p58",
+      "type": "verse",
+      "number": "58",
+      "content": "¶ When thou goest with thine adversary to the magistrate, <span class=\"clarity-word\">as thou art</span> in the way, give diligence that thou mayest be delivered from him; lest he hale thee to the judge, and the judge deliver thee to the officer, and the officer cast thee into prison.",
+      "churchId": "p58"
+    },
+    {
+      "slug": "luke-12-p59",
+      "type": "verse",
+      "number": "59",
+      "content": "I tell thee, thou shalt not depart thence, till thou hast paid the very last mite.",
+      "churchId": "p59"
+    }
+  ]
+}

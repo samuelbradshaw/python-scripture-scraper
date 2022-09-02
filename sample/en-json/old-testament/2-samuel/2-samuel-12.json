@@ -1,0 +1,232 @@
+{
+  "name": "2 Samuel 12",
+  "abbrev": "2 Sam. 12",
+  "number": "12",
+  "churchUri": "/scriptures/ot/2-sam/12",
+  "paragraphs": [
+    {
+      "slug": "2-samuel-12-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 12",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "2-samuel-12-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And the <span class=\"small-caps\">Lord</span> sent Nathan unto David. And he came unto him, and said unto him, There were two men in one city; the one rich, and the other poor.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "2-samuel-12-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "The rich <span class=\"clarity-word\">man</span> had exceeding many flocks and herds:",
+      "churchId": "p2"
+    },
+    {
+      "slug": "2-samuel-12-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "But the poor <span class=\"clarity-word\">man</span> had nothing, save one little ewe lamb, which he had bought and nourished up: and it grew up together with him, and with his children; it did eat of his own meat, and drank of his own cup, and lay in his bosom, and was unto him as a daughter.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "2-samuel-12-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And there came a traveller unto the rich man, and he spared to take of his own flock and of his own herd, to dress for the wayfaring man that was come unto him; but took the poor man’s lamb, and dressed it for the man that was come to him.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "2-samuel-12-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And David’s anger was greatly kindled against the man; and he said to Nathan, <span class=\"clarity-word\">As</span> the <span class=\"small-caps\">Lord</span> liveth, the man that hath done this <span class=\"clarity-word\">thing</span> shall surely die:",
+      "churchId": "p5"
+    },
+    {
+      "slug": "2-samuel-12-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And he shall restore the lamb fourfold, because he did this thing, and because he had no pity.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "2-samuel-12-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "¶ And Nathan said to David, Thou <span class=\"clarity-word\">art</span> the man. Thus saith the <span class=\"small-caps\">Lord</span> God of Israel, I anointed thee king over Israel, and I delivered thee out of the hand of Saul;",
+      "churchId": "p7"
+    },
+    {
+      "slug": "2-samuel-12-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And I gave thee thy master’s house, and thy master’s wives into thy bosom, and gave thee the house of Israel and of Judah; and if <span class=\"clarity-word\">that had been</span> too little, I would moreover have given unto thee such and such things.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "2-samuel-12-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Wherefore hast thou despised the commandment of the <span class=\"small-caps\">Lord</span>, to do evil in his sight? thou hast killed Uriah the Hittite with the sword, and hast taken his wife <span class=\"clarity-word\">to be</span> thy wife, and hast slain him with the sword of the children of Ammon.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "2-samuel-12-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Now therefore the sword shall never depart from thine house; because thou hast despised me, and hast taken the wife of Uriah the Hittite to be thy wife.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "2-samuel-12-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Thus saith the <span class=\"small-caps\">Lord</span>, Behold, I will raise up evil against thee out of thine own house, and I will take thy wives before thine eyes, and give <span class=\"clarity-word\">them</span> unto thy neighbour, and he shall lie with thy wives in the sight of this sun.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "2-samuel-12-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "For thou didst <span class=\"clarity-word\">it</span> secretly: but I will do this thing before all Israel, and before the sun.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "2-samuel-12-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And David said unto Nathan, I have sinned against the <span class=\"small-caps\">Lord</span>. And Nathan said unto David, The <span class=\"small-caps\">Lord</span> also hath put away thy sin; thou shalt not die.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "2-samuel-12-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Howbeit, because by this deed thou hast given great occasion to the enemies of the <span class=\"small-caps\">Lord</span> to blaspheme, the child also <span class=\"clarity-word\">that is</span> born unto thee shall surely die.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "2-samuel-12-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "¶ And Nathan departed unto his house. And the <span class=\"small-caps\">Lord</span> struck the child that Uriah’s wife bare unto David, and it was very sick.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "2-samuel-12-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "David therefore besought God for the child; and David fasted, and went in, and lay all night upon the earth.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "2-samuel-12-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And the elders of his house arose, <span class=\"clarity-word\">and went</span> to him, to raise him up from the earth: but he would not, neither did he eat bread with them.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "2-samuel-12-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And it came to pass on the seventh day, that the child died. And the servants of David feared to tell him that the child was dead: for they said, Behold, while the child was yet alive, we spake unto him, and he would not hearken unto our voice: how will he then vex himself, if we tell him that the child is dead?",
+      "churchId": "p18"
+    },
+    {
+      "slug": "2-samuel-12-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "But when David saw that his servants whispered, David perceived that the child was dead: therefore David said unto his servants, Is the child dead? And they said, He is dead.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "2-samuel-12-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Then David arose from the earth, and washed, and anointed <span class=\"clarity-word\">himself,</span> and changed his apparel, and came into the house of the <span class=\"small-caps\">Lord</span>, and worshipped: then he came to his own house; and when he required, they set bread before him, and he did eat.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "2-samuel-12-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Then said his servants unto him, What thing <span class=\"clarity-word\">is</span> this that thou hast done? thou didst fast and weep for the child, <span class=\"clarity-word\">while it was</span> alive; but when the child was dead, thou didst rise and eat bread.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "2-samuel-12-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And he said, While the child was yet alive, I fasted and wept: for I said, Who can tell <span class=\"clarity-word\">whether</span> <span class=\"small-caps\">God</span> will be gracious to me, that the child may live?",
+      "churchId": "p22"
+    },
+    {
+      "slug": "2-samuel-12-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "But now he is dead, wherefore should I fast? can I bring him back again? I shall go to him, but he shall not return to me.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "2-samuel-12-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "¶ And David comforted Bath-sheba his wife, and went in unto her, and lay with her: and she bare a son, and he called his name Solomon: and the <span class=\"small-caps\">Lord</span> loved him.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "2-samuel-12-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And he sent by the hand of Nathan the prophet; and he called his name Jedidiah, because of the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "2-samuel-12-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "¶ And Joab fought against Rabbah of the children of Ammon, and took the royal city.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "2-samuel-12-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And Joab sent messengers to David, and said, I have fought against Rabbah, and have taken the city of waters.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "2-samuel-12-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "Now therefore gather the rest of the people together, and encamp against the city, and take it: lest I take the city, and it be called after my name.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "2-samuel-12-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "And David gathered all the people together, and went to Rabbah, and fought against it, and took it.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "2-samuel-12-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And he took their king’s crown from off his head, the weight whereof <span class=\"clarity-word\">was</span> a talent of gold with the precious stones: and it was <span class=\"clarity-word\">set</span> on David’s head. And he brought forth the spoil of the city in great abundance.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "2-samuel-12-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "And he brought forth the people that <span class=\"clarity-word\">were</span> therein, and put <span class=\"clarity-word\">them</span> under saws, and under harrows of iron, and under axes of iron, and made them pass through the brickkiln: and thus did he unto all the cities of the children of Ammon. So David and all the people returned unto Jerusalem.",
+      "churchId": "p31"
+    }
+  ]
+}

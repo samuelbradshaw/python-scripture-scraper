@@ -1,0 +1,316 @@
+{
+  "name": "1 Chronicles 16",
+  "abbrev": "1 Chr. 16",
+  "number": "16",
+  "churchUri": "/scriptures/ot/1-chr/16",
+  "paragraphs": [
+    {
+      "slug": "1-chronicles-16-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 16",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "1-chronicles-16-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "So they brought the ark of God, and set it in the midst of the tent that David had pitched for it: and they offered burnt sacrifices and peace offerings before God.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "1-chronicles-16-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And when David had made an end of offering the burnt offerings and the peace offerings, he blessed the people in the name of the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "1-chronicles-16-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And he dealt to every one of Israel, both man and woman, to every one a loaf of bread, and a good piece of flesh, and a flagon <span class=\"clarity-word\">of wine</span><span class=\"clarity-word\">.</span>",
+      "churchId": "p3"
+    },
+    {
+      "slug": "1-chronicles-16-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "¶ And he appointed <span class=\"clarity-word\">certain</span> of the Levites to minister before the ark of the <span class=\"small-caps\">Lord</span>, and to record, and to thank and praise the <span class=\"small-caps\">Lord</span> God of Israel:",
+      "churchId": "p4"
+    },
+    {
+      "slug": "1-chronicles-16-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Asaph the chief, and next to him Zechariah, Jeiel, and Shemiramoth, and Jehiel, and Mattithiah, and Eliab, and Benaiah, and Obed-edom: and Jeiel with psalteries and with harps; but Asaph made a sound with cymbals;",
+      "churchId": "p5"
+    },
+    {
+      "slug": "1-chronicles-16-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Benaiah also and Jahaziel the priests with trumpets continually before the ark of the covenant of God.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "1-chronicles-16-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "¶ Then on that day David delivered first <span class=\"clarity-word\">this psalm</span> to thank the <span class=\"small-caps\">Lord</span> into the hand of Asaph and his brethren.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "1-chronicles-16-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Give thanks unto the <span class=\"small-caps\">Lord</span>, call upon his name, make known his deeds among the people.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "1-chronicles-16-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Sing unto him, sing psalms unto him, talk ye of all his wondrous works.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "1-chronicles-16-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Glory ye in his holy name: let the heart of them rejoice that seek the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "1-chronicles-16-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Seek the <span class=\"small-caps\">Lord</span> and his strength, seek his face continually.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "1-chronicles-16-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Remember his marvellous works that he hath done, his wonders, and the judgments of his mouth;",
+      "churchId": "p12"
+    },
+    {
+      "slug": "1-chronicles-16-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "O ye seed of Israel his servant, ye children of Jacob, his chosen ones.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "1-chronicles-16-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "He <span class=\"clarity-word\">is</span> the <span class=\"small-caps\">Lord</span> our God; his judgments <span class=\"clarity-word\">are</span> in all the earth.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "1-chronicles-16-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Be ye mindful always of his covenant; the word <span class=\"clarity-word\">which</span> he commanded to a thousand generations;",
+      "churchId": "p15"
+    },
+    {
+      "slug": "1-chronicles-16-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "<span class=\"clarity-word\">Even of the covenant</span> which he made with Abraham, and of his oath unto Isaac;",
+      "churchId": "p16"
+    },
+    {
+      "slug": "1-chronicles-16-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And hath confirmed the same to Jacob for a law, <span class=\"clarity-word\">and</span> to Israel <span class=\"clarity-word\">for</span> an everlasting covenant,",
+      "churchId": "p17"
+    },
+    {
+      "slug": "1-chronicles-16-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Saying, Unto thee will I give the land of Canaan, the lot of your inheritance;",
+      "churchId": "p18"
+    },
+    {
+      "slug": "1-chronicles-16-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "When ye were but few, even a few, and strangers in it.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "1-chronicles-16-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And <span class=\"clarity-word\">when</span> they went from nation to nation, and from <span class=\"clarity-word\">one</span> kingdom to another people;",
+      "churchId": "p20"
+    },
+    {
+      "slug": "1-chronicles-16-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "He suffered no man to do them wrong: yea, he reproved kings for their sakes,",
+      "churchId": "p21"
+    },
+    {
+      "slug": "1-chronicles-16-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "<span class=\"clarity-word\">Saying,</span> Touch not mine anointed, and do my prophets no harm.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "1-chronicles-16-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Sing unto the <span class=\"small-caps\">Lord</span>, all the earth; shew forth from day to day his salvation.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "1-chronicles-16-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Declare his glory among the heathen; his marvellous works among all nations.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "1-chronicles-16-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "For great <span class=\"clarity-word\">is</span> the <span class=\"small-caps\">Lord</span>, and greatly to be praised: he also <span class=\"clarity-word\">is</span> to be feared above all gods.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "1-chronicles-16-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "For all the gods of the people <span class=\"clarity-word\">are</span> idols: but the <span class=\"small-caps\">Lord</span> made the heavens.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "1-chronicles-16-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "Glory and honour <span class=\"clarity-word\">are</span> in his presence; strength and gladness <span class=\"clarity-word\">are</span> in his place.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "1-chronicles-16-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "Give unto the <span class=\"small-caps\">Lord</span>, ye kindreds of the people, give unto the <span class=\"small-caps\">Lord</span> glory and strength.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "1-chronicles-16-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "Give unto the <span class=\"small-caps\">Lord</span> the glory <span class=\"clarity-word\">due</span> unto his name: bring an offering, and come before him: worship the <span class=\"small-caps\">Lord</span> in the beauty of holiness.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "1-chronicles-16-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "Fear before him, all the earth: the world also shall be stable, that it be not moved.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "1-chronicles-16-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "Let the heavens be glad, and let the earth rejoice: and let <span class=\"clarity-word\">men</span> say among the nations, The <span class=\"small-caps\">Lord</span> reigneth.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "1-chronicles-16-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "Let the sea roar, and the fulness thereof: let the fields rejoice, and all that <span class=\"clarity-word\">is</span> therein.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "1-chronicles-16-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "Then shall the trees of the wood sing out at the presence of the <span class=\"small-caps\">Lord</span>, because he cometh to judge the earth.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "1-chronicles-16-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "O give thanks unto the <span class=\"small-caps\">Lord</span>; for <span class=\"clarity-word\">he is</span> good; for his mercy <span class=\"clarity-word\">endureth</span> for ever.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "1-chronicles-16-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "And say ye, Save us, O God of our salvation, and gather us together, and deliver us from the heathen, that we may give thanks to thy holy name, <span class=\"clarity-word\">and</span> glory in thy praise.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "1-chronicles-16-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "Blessed <span class=\"clarity-word\">be</span> the <span class=\"small-caps\">Lord</span> God of Israel for ever and ever. And all the people said, Amen, and praised the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "1-chronicles-16-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "¶ So he left there before the ark of the covenant of the <span class=\"small-caps\">Lord</span> Asaph and his brethren, to minister before the ark continually, as every day’s work required:",
+      "churchId": "p37"
+    },
+    {
+      "slug": "1-chronicles-16-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "And Obed-edom with their brethren, threescore and eight; Obed-edom also the son of Jeduthun and Hosah <span class=\"clarity-word\">to be</span> porters:",
+      "churchId": "p38"
+    },
+    {
+      "slug": "1-chronicles-16-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "And Zadok the priest, and his brethren the priests, before the tabernacle of the <span class=\"small-caps\">Lord</span> in the high place that <span class=\"clarity-word\">was</span> at Gibeon,",
+      "churchId": "p39"
+    },
+    {
+      "slug": "1-chronicles-16-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "To offer burnt offerings unto the <span class=\"small-caps\">Lord</span> upon the altar of the burnt offering continually morning and evening, and <span class=\"clarity-word\">to do</span> according to all that is written in the law of the <span class=\"small-caps\">Lord</span>, which he commanded Israel;",
+      "churchId": "p40"
+    },
+    {
+      "slug": "1-chronicles-16-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "And with them Heman and Jeduthun, and the rest that were chosen, who were expressed by name, to give thanks to the <span class=\"small-caps\">Lord</span>, because his mercy <span class=\"clarity-word\">endureth</span> for ever;",
+      "churchId": "p41"
+    },
+    {
+      "slug": "1-chronicles-16-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "And with them Heman and Jeduthun with trumpets and cymbals for those that should make a sound, and with musical instruments of God. And the sons of Jeduthun <span class=\"clarity-word\">were</span> porters.",
+      "churchId": "p42"
+    },
+    {
+      "slug": "1-chronicles-16-p43",
+      "type": "verse",
+      "number": "43",
+      "content": "And all the people departed every man to his house: and David returned to bless his house.",
+      "churchId": "p43"
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "name": "Ether 11",
+  "abbrev": "Ether 11",
+  "number": "11",
+  "churchUri": "/scriptures/bofm/ether/11",
+  "paragraphs": [
+    {
+      "slug": "ether-11-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 11",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "ether-11-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And there came also in the days of Com many prophets, and prophesied of the destruction of that great people except they should repent, and turn unto the Lord, and forsake their murders and wickedness.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "ether-11-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And it came to pass that the prophets were rejected by the people, and they fled unto Com for protection, for the people sought to destroy them.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "ether-11-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And they prophesied unto Com many things; and he was blessed in all the remainder of his days.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "ether-11-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And he lived to a good old age, and begat Shiblom; and Shiblom reigned in his stead. And the brother of Shiblom rebelled against him, and there began to be an exceedingly great war in all the land.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "ether-11-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And it came to pass that the brother of Shiblom caused that all the prophets who prophesied of the destruction of the people should be put to death;",
+      "churchId": "p5"
+    },
+    {
+      "slug": "ether-11-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And there was great calamity in all the land, for they had testified that a great curse should come upon the land, and also upon the people, and that there should be a great destruction among them, such an one as never had been upon the face of the earth, and their bones should become as heaps of earth upon the face of the land except they should repent of their wickedness.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "ether-11-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And they hearkened not unto the voice of the Lord, because of their wicked combinations; wherefore, there began to be wars and contentions in all the land, and also many famines and pestilences, insomuch that there was a great destruction, such an one as never had been known upon the face of the earth; and all this came to pass in the days of Shiblom.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "ether-11-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And the people began to repent of their iniquity; and inasmuch as they did the Lord did have mercy on them.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "ether-11-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And it came to pass that Shiblom was slain, and Seth was brought into captivity, and did dwell in captivity all his days.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "ether-11-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And it came to pass that Ahah, his son, did obtain the kingdom; and he did reign over the people all his days. And he did do all manner of iniquity in his days, by which he did cause the shedding of much blood; and few were his days.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "ether-11-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And Ethem, being a descendant of Ahah, did obtain the kingdom; and he also did do that which was wicked in his days.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "ether-11-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And it came to pass that in the days of Ethem there came many prophets, and prophesied again unto the people; yea, they did prophesy that the Lord would utterly destroy them from off the face of the earth except they repented of their iniquities.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "ether-11-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And it came to pass that the people hardened their hearts, and would not hearken unto their words; and the prophets mourned and withdrew from among the people.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "ether-11-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And it came to pass that Ethem did execute judgment in wickedness all his days; and he begat Moron. And it came to pass that Moron did reign in his stead; and Moron did that which was wicked before the Lord.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "ether-11-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And it came to pass that there arose a rebellion among the people, because of that secret combination which was built up to get power and gain; and there arose a mighty man among them in iniquity, and gave battle unto Moron, in which he did overthrow the half of the kingdom; and he did maintain the half of the kingdom for many years.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "ether-11-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And it came to pass that Moron did overthrow him, and did obtain the kingdom again.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "ether-11-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And it came to pass that there arose another mighty man; and he was a descendant of the brother of Jared.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "ether-11-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And it came to pass that he did overthrow Moron and obtain the kingdom; wherefore, Moron dwelt in captivity all the remainder of his days; and he begat Coriantor.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "ether-11-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And it came to pass that Coriantor dwelt in captivity all his days.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "ether-11-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And in the days of Coriantor there also came many prophets, and prophesied of great and marvelous things, and cried repentance unto the people, and except they should repent the Lord God would execute judgment against them to their utter destruction;",
+      "churchId": "p20"
+    },
+    {
+      "slug": "ether-11-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And that the Lord God would send or bring forth another people to possess the land, by his power, after the manner by which he brought their fathers.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "ether-11-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And they did reject all the words of the prophets, because of their secret society and wicked abominations.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "ether-11-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And it came to pass that Coriantor begat Ether, and he died, having dwelt in captivity all his days.",
+      "churchId": "p23"
+    }
+  ]
+}

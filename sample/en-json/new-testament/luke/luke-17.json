@@ -1,0 +1,274 @@
+{
+  "name": "Luke 17",
+  "abbrev": "Luke 17",
+  "number": "17",
+  "churchUri": "/scriptures/nt/luke/17",
+  "paragraphs": [
+    {
+      "slug": "luke-17-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 17",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "luke-17-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Then said he unto the disciples, It is impossible but that offences will come: but woe <span class=\"clarity-word\">unto him,</span> through whom they come!",
+      "churchId": "p1"
+    },
+    {
+      "slug": "luke-17-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "It were better for him that a millstone were hanged about his neck, and he cast into the sea, than that he should offend one of these little ones.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "luke-17-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "¶ Take heed to yourselves: If thy brother trespass against thee, rebuke him; and if he repent, forgive him.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "luke-17-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And if he trespass against thee seven times in a day, and seven times in a day turn again to thee, saying, I repent; thou shalt forgive him.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "luke-17-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And the apostles said unto the Lord, Increase our faith.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "luke-17-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And the Lord said, If ye had faith as a grain of mustard seed, ye might say unto this sycamine tree, Be thou plucked up by the root, and be thou planted in the sea; and it should obey you.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "luke-17-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "But which of you, having a servant plowing or feeding cattle, will say unto him by and by, when he is come from the field, Go and sit down to meat?",
+      "churchId": "p7"
+    },
+    {
+      "slug": "luke-17-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And will not rather say unto him, Make ready wherewith I may sup, and gird thyself, and serve me, till I have eaten and drunken; and afterward thou shalt eat and drink?",
+      "churchId": "p8"
+    },
+    {
+      "slug": "luke-17-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Doth he thank that servant because he did the things that were commanded him? I trow not.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "luke-17-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "So likewise ye, when ye shall have done all those things which are commanded you, say, We are unprofitable servants: we have done that which was our duty to do.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "luke-17-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "¶ And it came to pass, as he went to Jerusalem, that he passed through the midst of Samaria and Galilee.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "luke-17-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And as he entered into a certain village, there met him ten men that were lepers, which stood afar off:",
+      "churchId": "p12"
+    },
+    {
+      "slug": "luke-17-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And they lifted up <span class=\"clarity-word\">their</span> voices, and said, Jesus, Master, have mercy on us.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "luke-17-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And when he saw <span class=\"clarity-word\">them,</span> he said unto them, Go shew yourselves unto the priests. And it came to pass, that, as they went, they were cleansed.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "luke-17-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And one of them, when he saw that he was healed, turned back, and with a loud voice glorified God,",
+      "churchId": "p15"
+    },
+    {
+      "slug": "luke-17-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And fell down on <span class=\"clarity-word\">his</span> face at his feet, giving him thanks: and he was a Samaritan.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "luke-17-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And Jesus answering said, Were there not ten cleansed? but where <span class=\"clarity-word\">are</span> the nine?",
+      "churchId": "p17"
+    },
+    {
+      "slug": "luke-17-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "There are not found that returned to give glory to God, save this stranger.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "luke-17-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And he said unto him, Arise, go thy way: thy faith hath made thee whole.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "luke-17-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "¶ And when he was demanded of the Pharisees, when the kingdom of God should come, he answered them and said, The kingdom of God cometh not with observation:",
+      "churchId": "p20"
+    },
+    {
+      "slug": "luke-17-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Neither shall they say, Lo here! or, lo there! for, behold, the kingdom of God is within you.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "luke-17-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And he said unto the disciples, The days will come, when ye shall desire to see one of the days of the Son of man, and ye shall not see <span class=\"clarity-word\">it.</span>",
+      "churchId": "p22"
+    },
+    {
+      "slug": "luke-17-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And they shall say to you, See here; or, see there: go not after <span class=\"clarity-word\">them,</span> nor follow <span class=\"clarity-word\">them.</span>",
+      "churchId": "p23"
+    },
+    {
+      "slug": "luke-17-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "For as the lightning, that lighteneth out of the one <span class=\"clarity-word\">part</span> under heaven, shineth unto the other <span class=\"clarity-word\">part</span> under heaven; so shall also the Son of man be in his day.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "luke-17-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "But first must he suffer many things, and be rejected of this generation.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "luke-17-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And as it was in the days of Noe, so shall it be also in the days of the Son of man.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "luke-17-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "They did eat, they drank, they married wives, they were given in marriage, until the day that Noe entered into the ark, and the flood came, and destroyed them all.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "luke-17-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "Likewise also as it was in the days of Lot; they did eat, they drank, they bought, they sold, they planted, they builded;",
+      "churchId": "p28"
+    },
+    {
+      "slug": "luke-17-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "But the same day that Lot went out of Sodom it rained fire and brimstone from heaven, and destroyed <span class=\"clarity-word\">them</span> all.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "luke-17-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "Even thus shall it be in the day when the Son of man is revealed.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "luke-17-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "In that day, he which shall be upon the housetop, and his stuff in the house, let him not come down to take it away: and he that is in the field, let him likewise not return back.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "luke-17-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "Remember Lot’s wife.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "luke-17-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "Whosoever shall seek to save his life shall lose it; and whosoever shall lose his life shall preserve it.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "luke-17-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "I tell you, in that night there shall be two <span class=\"clarity-word\">men</span> in one bed; the one shall be taken, and the other shall be left.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "luke-17-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "Two <span class=\"clarity-word\">women</span> shall be grinding together; the one shall be taken, and the other left.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "luke-17-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "Two <span class=\"clarity-word\">men</span> shall be in the field; the one shall be taken, and the other left.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "luke-17-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "And they answered and said unto him, Where, Lord? And he said unto them, Wheresoever the body <span class=\"clarity-word\">is,</span> thither will the eagles be gathered together.",
+      "churchId": "p37"
+    }
+  ]
+}

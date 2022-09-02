@@ -1,0 +1,176 @@
+{
+  "name": "Haggai 2",
+  "abbrev": "Hag. 2",
+  "number": "2",
+  "churchUri": "/scriptures/ot/hag/2",
+  "paragraphs": [
+    {
+      "slug": "haggai-2-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 2",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "haggai-2-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "In the seventh <span class=\"clarity-word\">month,</span> in the one and twentieth <span class=\"clarity-word\">day</span> of the month, came the word of the <span class=\"small-caps\">Lord</span> by the prophet Haggai, saying,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "haggai-2-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Speak now to Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Josedech, the high priest, and to the residue of the people, saying,",
+      "churchId": "p2"
+    },
+    {
+      "slug": "haggai-2-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Who <span class=\"clarity-word\">is</span> left among you that saw this house in her first glory? and how do ye see it now? <span class=\"clarity-word\">is it</span> not in your eyes in comparison of it as nothing?",
+      "churchId": "p3"
+    },
+    {
+      "slug": "haggai-2-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Yet now be strong, O Zerubbabel, saith the <span class=\"small-caps\">Lord</span>; and be strong, O Joshua, son of Josedech, the high priest; and be strong, all ye people of the land, saith the <span class=\"small-caps\">Lord</span>, and work: for I <span class=\"clarity-word\">am</span> with you, saith the <span class=\"small-caps\">Lord</span> of hosts:",
+      "churchId": "p4"
+    },
+    {
+      "slug": "haggai-2-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "<span class=\"clarity-word\">According to</span> the word that I covenanted with you when ye came out of Egypt, so my spirit remaineth among you: fear ye not.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "haggai-2-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "For thus saith the <span class=\"small-caps\">Lord</span> of hosts; Yet once, it <span class=\"clarity-word\">is</span> a little while, and I will shake the heavens, and the earth, and the sea, and the dry <span class=\"clarity-word\">land;</span>",
+      "churchId": "p6"
+    },
+    {
+      "slug": "haggai-2-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And I will shake all nations, and the desire of all nations shall come: and I will fill this house with glory, saith the <span class=\"small-caps\">Lord</span> of hosts.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "haggai-2-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "The silver <span class=\"clarity-word\">is</span> mine, and the gold <span class=\"clarity-word\">is</span> mine, saith the <span class=\"small-caps\">Lord</span> of hosts.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "haggai-2-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "The glory of this latter house shall be greater than of the former, saith the <span class=\"small-caps\">Lord</span> of hosts: and in this place will I give peace, saith the <span class=\"small-caps\">Lord</span> of hosts.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "haggai-2-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "¶ In the four and twentieth <span class=\"clarity-word\">day</span> of the ninth <span class=\"clarity-word\">month,</span> in the second year of Darius, came the word of the <span class=\"small-caps\">Lord</span> by Haggai the prophet, saying,",
+      "churchId": "p10"
+    },
+    {
+      "slug": "haggai-2-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Thus saith the <span class=\"small-caps\">Lord</span> of hosts; Ask now the priests <span class=\"clarity-word\">concerning</span> the law, saying,",
+      "churchId": "p11"
+    },
+    {
+      "slug": "haggai-2-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "If one bear holy flesh in the skirt of his garment, and with his skirt do touch bread, or pottage, or wine, or oil, or any meat, shall it be holy? And the priests answered and said, No.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "haggai-2-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Then said Haggai, If <span class=\"clarity-word\">one that is</span> unclean by a dead body touch any of these, shall it be unclean? And the priests answered and said, It shall be unclean.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "haggai-2-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Then answered Haggai, and said, So <span class=\"clarity-word\">is</span> this people, and so <span class=\"clarity-word\">is</span> this nation before me, saith the <span class=\"small-caps\">Lord</span>; and so <span class=\"clarity-word\">is</span> every work of their hands; and that which they offer there <span class=\"clarity-word\">is</span> unclean.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "haggai-2-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And now, I pray you, consider from this day and upward, from before a stone was laid upon a stone in the temple of the <span class=\"small-caps\">Lord</span>:",
+      "churchId": "p15"
+    },
+    {
+      "slug": "haggai-2-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Since those <span class=\"clarity-word\">days</span> were, when <span class=\"clarity-word\">one</span> came to an heap of twenty <span class=\"clarity-word\">measures,</span> there were <span class=\"clarity-word\">but</span> ten: when <span class=\"clarity-word\">one</span> came to the pressfat for to draw out fifty <span class=\"clarity-word\">vessels</span> out of the press, there were <span class=\"clarity-word\">but</span> twenty.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "haggai-2-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "I smote you with blasting and with mildew and with hail in all the labours of your hands; yet ye <span class=\"clarity-word\">turned</span> not to me, saith the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "haggai-2-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Consider now from this day and upward, from the four and twentieth day of the ninth <span class=\"clarity-word\">month, even</span> from the day that the foundation of the <span class=\"small-caps\">Lord</span>’s temple was laid, consider <span class=\"clarity-word\">it.</span>",
+      "churchId": "p18"
+    },
+    {
+      "slug": "haggai-2-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Is the seed yet in the barn? yea, as yet the vine, and the fig tree, and the pomegranate, and the olive tree, hath not brought forth: from this day will I bless <span class=\"clarity-word\">you.</span>",
+      "churchId": "p19"
+    },
+    {
+      "slug": "haggai-2-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "¶ And again the word of the <span class=\"small-caps\">Lord</span> came unto Haggai in the four and twentieth <span class=\"clarity-word\">day</span> of the month, saying,",
+      "churchId": "p20"
+    },
+    {
+      "slug": "haggai-2-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Speak to Zerubbabel, governor of Judah, saying, I will shake the heavens and the earth;",
+      "churchId": "p21"
+    },
+    {
+      "slug": "haggai-2-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And I will overthrow the throne of kingdoms, and I will destroy the strength of the kingdoms of the heathen; and I will overthrow the chariots, and those that ride in them; and the horses and their riders shall come down, every one by the sword of his brother.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "haggai-2-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "In that day, saith the <span class=\"small-caps\">Lord</span> of hosts, will I take thee, O Zerubbabel, my servant, the son of Shealtiel, saith the <span class=\"small-caps\">Lord</span>, and will make thee as a signet: for I have chosen thee, saith the <span class=\"small-caps\">Lord</span> of hosts.",
+      "churchId": "p23"
+    }
+  ]
+}

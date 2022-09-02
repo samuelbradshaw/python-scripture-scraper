@@ -1,0 +1,204 @@
+{
+  "name": "Leviticus 20",
+  "abbrev": "Lev. 20",
+  "number": "20",
+  "churchUri": "/scriptures/ot/lev/20",
+  "paragraphs": [
+    {
+      "slug": "leviticus-20-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 20",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "leviticus-20-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And the <span class=\"small-caps\">Lord</span> spake unto Moses, saying,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "leviticus-20-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Again, thou shalt say to the children of Israel, Whosoever <span class=\"clarity-word\">he be</span> of the children of Israel, or of the strangers that sojourn in Israel, that giveth <span class=\"clarity-word\">any</span> of his seed unto Molech; he shall surely be put to death: the people of the land shall stone him with stones.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "leviticus-20-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And I will set my face against that man, and will cut him off from among his people; because he hath given of his seed unto Molech, to defile my sanctuary, and to profane my holy name.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "leviticus-20-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And if the people of the land do any ways hide their eyes from the man, when he giveth of his seed unto Molech, and kill him not:",
+      "churchId": "p4"
+    },
+    {
+      "slug": "leviticus-20-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Then I will set my face against that man, and against his family, and will cut him off, and all that go a whoring after him, to commit whoredom with Molech, from among their people.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "leviticus-20-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "¶ And the soul that turneth after such as have familiar spirits, and after wizards, to go a whoring after them, I will even set my face against that soul, and will cut him off from among his people.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "leviticus-20-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "¶ Sanctify yourselves therefore, and be ye holy: for I <span class=\"clarity-word\">am</span> the <span class=\"small-caps\">Lord</span> your God.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "leviticus-20-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And ye shall keep my statutes, and do them: I <span class=\"clarity-word\">am</span> the <span class=\"small-caps\">Lord</span> which sanctify you.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "leviticus-20-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "¶ For every one that curseth his father or his mother shall be surely put to death: he hath cursed his father or his mother; his blood <span class=\"clarity-word\">shall be</span> upon him.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "leviticus-20-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "¶ And the man that committeth adultery with <span class=\"clarity-word\">another</span> man’s wife, <span class=\"clarity-word\">even he</span> that committeth adultery with his neighbour’s wife, the adulterer and the adulteress shall surely be put to death.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "leviticus-20-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And the man that lieth with his father’s wife hath uncovered his father’s nakedness: both of them shall surely be put to death; their blood <span class=\"clarity-word\">shall be</span> upon them.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "leviticus-20-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And if a man lie with his daughter in law, both of them shall surely be put to death: they have wrought confusion; their blood <span class=\"clarity-word\">shall be</span> upon them.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "leviticus-20-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "If a man also lie with mankind, as he lieth with a woman, both of them have committed an abomination: they shall surely be put to death; their blood <span class=\"clarity-word\">shall be</span> upon them.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "leviticus-20-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And if a man take a wife and her mother, it <span class=\"clarity-word\">is</span> wickedness: they shall be burnt with fire, both he and they; that there be no wickedness among you.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "leviticus-20-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And if a man lie with a beast, he shall surely be put to death: and ye shall slay the beast.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "leviticus-20-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And if a woman approach unto any beast, and lie down thereto, thou shalt kill the woman, and the beast: they shall surely be put to death; their blood <span class=\"clarity-word\">shall be</span> upon them.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "leviticus-20-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And if a man shall take his sister, his father’s daughter, or his mother’s daughter, and see her nakedness, and she see his nakedness; it <span class=\"clarity-word\">is</span> a wicked thing; and they shall be cut off in the sight of their people: he hath uncovered his sister’s nakedness; he shall bear his iniquity.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "leviticus-20-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And if a man shall lie with a woman having her sickness, and shall uncover her nakedness; he hath discovered her fountain, and she hath uncovered the fountain of her blood: and both of them shall be cut off from among their people.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "leviticus-20-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And thou shalt not uncover the nakedness of thy mother’s sister, nor of thy father’s sister: for he uncovereth his near kin: they shall bear their iniquity.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "leviticus-20-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And if a man shall lie with his uncle’s wife, he hath uncovered his uncle’s nakedness: they shall bear their sin; they shall die childless.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "leviticus-20-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And if a man shall take his brother’s wife, it <span class=\"clarity-word\">is</span> an unclean thing: he hath uncovered his brother’s nakedness; they shall be childless.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "leviticus-20-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "¶ Ye shall therefore keep all my statutes, and all my judgments, and do them: that the land, whither I bring you to dwell therein, spue you not out.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "leviticus-20-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And ye shall not walk in the manners of the nation, which I cast out before you: for they committed all these things, and therefore I abhorred them.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "leviticus-20-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "But I have said unto you, Ye shall inherit their land, and I will give it unto you to possess it, a land that floweth with milk and honey: I <span class=\"clarity-word\">am</span> the <span class=\"small-caps\">Lord</span> your God, which have separated you from <span class=\"clarity-word\">other</span> people.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "leviticus-20-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Ye shall therefore put difference between clean beasts and unclean, and between unclean fowls and clean: and ye shall not make your souls abominable by beast, or by fowl, or by any manner of living thing that creepeth on the ground, which I have separated from you as unclean.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "leviticus-20-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And ye shall be holy unto me: for I the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">am</span> holy, and have severed you from <span class=\"clarity-word\">other</span> people, that ye should be mine.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "leviticus-20-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "¶ A man also or woman that hath a familiar spirit, or that is a wizard, shall surely be put to death: they shall stone them with stones: their blood <span class=\"clarity-word\">shall be</span> upon them.",
+      "churchId": "p27"
+    }
+  ]
+}

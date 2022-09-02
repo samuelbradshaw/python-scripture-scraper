@@ -1,0 +1,106 @@
+{
+  "name": "Micah 4",
+  "abbrev": "Micah 4",
+  "number": "4",
+  "churchUri": "/scriptures/ot/micah/4",
+  "paragraphs": [
+    {
+      "slug": "micah-4-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 4",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "micah-4-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "But in the last days it shall come to pass, <span class=\"clarity-word\">that</span> the mountain of the house of the <span class=\"small-caps\">Lord</span> shall be established in the top of the mountains, and it shall be exalted above the hills; and people shall flow unto it.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "micah-4-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And many nations shall come, and say, Come, and let us go up to the mountain of the <span class=\"small-caps\">Lord</span>, and to the house of the God of Jacob; and he will teach us of his ways, and we will walk in his paths: for the law shall go forth of Zion, and the word of the <span class=\"small-caps\">Lord</span> from Jerusalem.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "micah-4-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "¶ And he shall judge among many people, and rebuke strong nations afar off; and they shall beat their swords into plowshares, and their spears into pruninghooks: nation shall not lift up a sword against nation, neither shall they learn war any more.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "micah-4-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "But they shall sit every man under his vine and under his fig tree; and none shall make <span class=\"clarity-word\">them</span> afraid: for the mouth of the <span class=\"small-caps\">Lord</span> of hosts hath spoken <span class=\"clarity-word\">it.</span>",
+      "churchId": "p4"
+    },
+    {
+      "slug": "micah-4-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "For all people will walk every one in the name of his god, and we will walk in the name of the <span class=\"small-caps\">Lord</span> our God for ever and ever.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "micah-4-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "In that day, saith the <span class=\"small-caps\">Lord</span>, will I assemble her that halteth, and I will gather her that is driven out, and her that I have afflicted;",
+      "churchId": "p6"
+    },
+    {
+      "slug": "micah-4-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And I will make her that halted a remnant, and her that was cast far off a strong nation: and the <span class=\"small-caps\">Lord</span> shall reign over them in mount Zion from henceforth, even for ever.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "micah-4-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "¶ And thou, O tower of the flock, the strong hold of the daughter of Zion, unto thee shall it come, even the first dominion; the kingdom shall come to the daughter of Jerusalem.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "micah-4-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Now why dost thou cry out aloud? <span class=\"clarity-word\">is there</span> no king in thee? is thy counsellor perished? for pangs have taken thee as a woman in travail.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "micah-4-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Be in pain, and labour to bring forth, O daughter of Zion, like a woman in travail: for now shalt thou go forth out of the city, and thou shalt dwell in the field, and thou shalt go <span class=\"clarity-word\">even</span> to Babylon; there shalt thou be delivered; there the <span class=\"small-caps\">Lord</span> shall redeem thee from the hand of thine enemies.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "micah-4-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "¶ Now also many nations are gathered against thee, that say, Let her be defiled, and let our eye look upon Zion.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "micah-4-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "But they know not the thoughts of the <span class=\"small-caps\">Lord</span>, neither understand they his counsel: for he shall gather them as the sheaves into the floor.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "micah-4-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Arise and thresh, O daughter of Zion: for I will make thine horn iron, and I will make thy hoofs brass: and thou shalt beat in pieces many people: and I will consecrate their gain unto the <span class=\"small-caps\">Lord</span>, and their substance unto the Lord of the whole earth.",
+      "churchId": "p13"
+    }
+  ]
+}

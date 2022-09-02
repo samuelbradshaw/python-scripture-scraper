@@ -1,0 +1,120 @@
+{
+  "name": "2 Corinthians 13",
+  "abbrev": "2 Cor. 13",
+  "number": "13",
+  "churchUri": "/scriptures/nt/2-cor/13",
+  "paragraphs": [
+    {
+      "slug": "2-corinthians-13-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 13",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "2-corinthians-13-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "This <span class=\"clarity-word\">is</span> the third <span class=\"clarity-word\">time</span> I am coming to you. In the mouth of two or three witnesses shall every word be established.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "2-corinthians-13-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "I told you before, and foretell you, as if I were present, the second time; and being absent now I write to them which heretofore have sinned, and to all other, that, if I come again, I will not spare:",
+      "churchId": "p2"
+    },
+    {
+      "slug": "2-corinthians-13-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Since ye seek a proof of Christ speaking in me, which to you-ward is not weak, but is mighty in you.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "2-corinthians-13-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "For though he was crucified through weakness, yet he liveth by the power of God. For we also are weak in him, but we shall live with him by the power of God toward you.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "2-corinthians-13-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Examine yourselves, whether ye be in the faith; prove your own selves. Know ye not your own selves, how that Jesus Christ is in you, except ye be reprobates?",
+      "churchId": "p5"
+    },
+    {
+      "slug": "2-corinthians-13-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "But I trust that ye shall know that we are not reprobates.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "2-corinthians-13-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Now I pray to God that ye do no evil; not that we should appear approved, but that ye should do that which is honest, though we be as reprobates.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "2-corinthians-13-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "For we can do nothing against the truth, but for the truth.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "2-corinthians-13-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "For we are glad, when we are weak, and ye are strong: and this also we wish, <span class=\"clarity-word\">even</span> your perfection.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "2-corinthians-13-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Therefore I write these things being absent, lest being present I should use sharpness, according to the power which the Lord hath given me to edification, and not to destruction.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "2-corinthians-13-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Finally, brethren, farewell. Be perfect, be of good comfort, be of one mind, live in peace; and the God of love and peace shall be with you.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "2-corinthians-13-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Greet one another with an holy kiss.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "2-corinthians-13-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "All the saints salute you.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "2-corinthians-13-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "The grace of the Lord Jesus Christ, and the love of God, and the communion of the Holy Ghost, <span class=\"clarity-word\">be</span> with you all. Amen.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "2-corinthians-13-closing1",
+      "type": "paragraph",
+      "number": null,
+      "content": "¶ The second <span class=\"clarity-word\">epistle</span> to the Corinthians was written from Philippi, <span class=\"clarity-word\">a city</span> of Macedonia, by Titus and Lucas.",
+      "churchId": "closing1"
+    }
+  ]
+}

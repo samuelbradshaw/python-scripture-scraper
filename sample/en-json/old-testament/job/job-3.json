@@ -1,0 +1,197 @@
+{
+  "name": "Job 3",
+  "abbrev": "Job 3",
+  "number": "3",
+  "churchUri": "/scriptures/ot/job/3",
+  "paragraphs": [
+    {
+      "slug": "job-3-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 3",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "job-3-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "After this opened Job his mouth, and cursed his day.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "job-3-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And Job spake, and said,",
+      "churchId": "p2"
+    },
+    {
+      "slug": "job-3-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Let the day perish wherein I was born, and the night <span class=\"clarity-word\">in which</span> it was said, There is a man child conceived.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "job-3-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Let that day be darkness; let not God regard it from above, neither let the light shine upon it.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "job-3-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Let darkness and the shadow of death stain it; let a cloud dwell upon it; let the blackness of the day terrify it.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "job-3-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "<span class=\"clarity-word\">As for</span> that night, let darkness seize upon it; let it not be joined unto the days of the year, let it not come into the number of the months.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "job-3-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Lo, let that night be solitary, let no joyful voice come therein.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "job-3-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Let them curse it that curse the day, who are ready to raise up their mourning.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "job-3-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Let the stars of the twilight thereof be dark; let it look for light, but <span class=\"clarity-word\">have</span> none; neither let it see the dawning of the day:",
+      "churchId": "p9"
+    },
+    {
+      "slug": "job-3-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Because it shut not up the doors of my <span class=\"clarity-word\">mother’s</span> womb, nor hid sorrow from mine eyes.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "job-3-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Why died I not from the womb? <span class=\"clarity-word\">why</span> did I <span class=\"clarity-word\">not</span> give up the ghost when I came out of the belly?",
+      "churchId": "p11"
+    },
+    {
+      "slug": "job-3-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Why did the knees prevent me? or why the breasts that I should suck?",
+      "churchId": "p12"
+    },
+    {
+      "slug": "job-3-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "For now should I have lain still and been quiet, I should have slept: then had I been at rest,",
+      "churchId": "p13"
+    },
+    {
+      "slug": "job-3-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "With kings and counsellors of the earth, which built desolate places for themselves;",
+      "churchId": "p14"
+    },
+    {
+      "slug": "job-3-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Or with princes that had gold, who filled their houses with silver:",
+      "churchId": "p15"
+    },
+    {
+      "slug": "job-3-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Or as an hidden untimely birth I had not been; as infants <span class=\"clarity-word\">which</span> never saw light.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "job-3-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "There the wicked cease <span class=\"clarity-word\">from</span> troubling; and there the weary be at rest.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "job-3-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "<span class=\"clarity-word\">There</span> the prisoners rest together; they hear not the voice of the oppressor.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "job-3-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "The small and great are there; and the servant <span class=\"clarity-word\">is</span> free from his master.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "job-3-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Wherefore is light given to him that is in misery, and life unto the bitter <span class=\"clarity-word\">in</span> soul;",
+      "churchId": "p20"
+    },
+    {
+      "slug": "job-3-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Which long for death, but it <span class=\"clarity-word\">cometh</span> not; and dig for it more than for hid treasures;",
+      "churchId": "p21"
+    },
+    {
+      "slug": "job-3-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Which rejoice exceedingly, <span class=\"clarity-word\">and</span> are glad, when they can find the grave?",
+      "churchId": "p22"
+    },
+    {
+      "slug": "job-3-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "<span class=\"clarity-word\">Why is light given</span> to a man whose way is hid, and whom God hath hedged in?",
+      "churchId": "p23"
+    },
+    {
+      "slug": "job-3-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "For my sighing cometh before I eat, and my roarings are poured out like the waters.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "job-3-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "For the thing which I greatly feared is come upon me, and that which I was afraid of is come unto me.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "job-3-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "I was not in safety, neither had I rest, neither was I quiet; yet trouble came.",
+      "churchId": "p26"
+    }
+  ]
+}

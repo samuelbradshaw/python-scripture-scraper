@@ -1,0 +1,246 @@
+{
+  "name": "Moses 4",
+  "abbrev": "Moses 4",
+  "number": "4",
+  "churchUri": "/scriptures/pgp/moses/4",
+  "paragraphs": [
+    {
+      "slug": "moses-4-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 4",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "moses-4-subtitle1",
+      "type": "subtitle",
+      "number": null,
+      "content": "(June–October 1830)",
+      "churchId": "subtitle1"
+    },
+    {
+      "slug": "moses-4-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And I, the Lord God, spake unto Moses, saying: That Satan, whom thou hast commanded in the name of mine Only Begotten, is the same which was from the beginning, and he came before me, saying—Behold, here am I, send me, I will be thy son, and I will redeem all mankind, that one soul shall not be lost, and surely I will do it; wherefore give me thine honor.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "moses-4-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "But, behold, my Beloved Son, which was my Beloved and Chosen from the beginning, said unto me—Father, thy will be done, and the glory be thine forever.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "moses-4-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Wherefore, because that Satan rebelled against me, and sought to destroy the agency of man, which I, the Lord God, had given him, and also, that I should give unto him mine own power; by the power of mine Only Begotten, I caused that he should be cast down;",
+      "churchId": "p3"
+    },
+    {
+      "slug": "moses-4-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And he became Satan, yea, even the devil, the father of all lies, to deceive and to blind men, and to lead them captive at his will, even as many as would not hearken unto my voice.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "moses-4-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And now the serpent was more subtle than any beast of the field which I, the Lord God, had made.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "moses-4-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And Satan put it into the heart of the serpent, (for he had drawn away many after him,) and he sought also to beguile Eve, for he knew not the mind of God, wherefore he sought to destroy the world.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "moses-4-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And he said unto the woman: Yea, hath God said—Ye shall not eat of every tree of the garden? (And he spake by the mouth of the serpent.)",
+      "churchId": "p7"
+    },
+    {
+      "slug": "moses-4-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And the woman said unto the serpent: We may eat of the fruit of the trees of the garden;",
+      "churchId": "p8"
+    },
+    {
+      "slug": "moses-4-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "But of the fruit of the tree which thou beholdest in the midst of the garden, God hath said—Ye shall not eat of it, neither shall ye touch it, lest ye die.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "moses-4-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And the serpent said unto the woman: Ye shall not surely die;",
+      "churchId": "p10"
+    },
+    {
+      "slug": "moses-4-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "moses-4-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And when the woman saw that the tree was good for food, and that it became pleasant to the eyes, and a tree to be desired to make her wise, she took of the fruit thereof, and did eat, and also gave unto her husband with her, and he did eat.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "moses-4-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And the eyes of them both were opened, and they knew that they had been naked. And they sewed fig leaves together and made themselves aprons.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "moses-4-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And they heard the voice of the Lord God, as they were walking in the garden, in the cool of the day; and Adam and his wife went to hide themselves from the presence of the Lord God amongst the trees of the garden.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "moses-4-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And I, the Lord God, called unto Adam, and said unto him: Where goest thou?",
+      "churchId": "p15"
+    },
+    {
+      "slug": "moses-4-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And he said: I heard thy voice in the garden, and I was afraid, because I beheld that I was naked, and I hid myself.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "moses-4-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And I, the Lord God, said unto Adam: Who told thee thou wast naked? Hast thou eaten of the tree whereof I commanded thee that thou shouldst not eat, if so thou shouldst surely die?",
+      "churchId": "p17"
+    },
+    {
+      "slug": "moses-4-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And the man said: The woman thou gavest me, and commandest that she should remain with me, she gave me of the fruit of the tree and I did eat.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "moses-4-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And I, the Lord God, said unto the woman: What is this thing which thou hast done? And the woman said: The serpent beguiled me, and I did eat.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "moses-4-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And I, the Lord God, said unto the serpent: Because thou hast done this thou shalt be cursed above all cattle, and above every beast of the field; upon thy belly shalt thou go, and dust shalt thou eat all the days of thy life;",
+      "churchId": "p20"
+    },
+    {
+      "slug": "moses-4-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And I will put enmity between thee and the woman, between thy seed and her seed; and he shall bruise thy head, and thou shalt bruise his heel.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "moses-4-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Unto the woman, I, the Lord God, said: I will greatly multiply thy sorrow and thy conception. In sorrow thou shalt bring forth children, and thy desire shall be to thy husband, and he shall rule over thee.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "moses-4-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And unto Adam, I, the Lord God, said: Because thou hast hearkened unto the voice of thy wife, and hast eaten of the fruit of the tree of which I commanded thee, saying—Thou shalt not eat of it, cursed shall be the ground for thy sake; in sorrow shalt thou eat of it all the days of thy life.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "moses-4-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Thorns also, and thistles shall it bring forth to thee, and thou shalt eat the herb of the field.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "moses-4-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "By the sweat of thy face shalt thou eat bread, until thou shalt return unto the ground—for thou shalt surely die—for out of it wast thou taken: for dust thou wast, and unto dust shalt thou return.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "moses-4-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And Adam called his wife’s name Eve, because she was the mother of all living; for thus have I, the Lord God, called the first of all women, which are many.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "moses-4-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "Unto Adam, and also unto his wife, did I, the Lord God, make coats of skins, and clothed them.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "moses-4-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And I, the Lord God, said unto mine Only Begotten: Behold, the man is become as one of us to know good and evil; and now lest he put forth his hand and partake also of the tree of life, and eat and live forever,",
+      "churchId": "p28"
+    },
+    {
+      "slug": "moses-4-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "Therefore I, the Lord God, will send him forth from the Garden of Eden, to till the ground from whence he was taken;",
+      "churchId": "p29"
+    },
+    {
+      "slug": "moses-4-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "For as I, the Lord God, liveth, even so my words cannot return void, for as they go forth out of my mouth they must be fulfilled.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "moses-4-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "So I drove out the man, and I placed at the east of the Garden of Eden, cherubim and a flaming sword, which turned every way to keep the way of the tree of life.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "moses-4-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "(And these are the words which I spake unto my servant Moses, and they are true even as I will; and I have spoken them unto you. See thou show them unto no man, until I command you, except to them that believe. Amen.)",
+      "churchId": "p32"
+    }
+  ]
+}

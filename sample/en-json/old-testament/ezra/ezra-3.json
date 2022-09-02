@@ -1,0 +1,106 @@
+{
+  "name": "Ezra 3",
+  "abbrev": "Ezra 3",
+  "number": "3",
+  "churchUri": "/scriptures/ot/ezra/3",
+  "paragraphs": [
+    {
+      "slug": "ezra-3-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 3",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "ezra-3-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And when the seventh month was come, and the children of Israel <span class=\"clarity-word\">were</span> in the cities, the people gathered themselves together as one man to Jerusalem.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "ezra-3-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Then stood up Jeshua the son of Jozadak, and his brethren the priests, and Zerubbabel the son of Shealtiel, and his brethren, and builded the altar of the God of Israel, to offer burnt offerings thereon, as <span class=\"clarity-word\">it is</span> written in the law of Moses the man of God.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "ezra-3-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And they set the altar upon his bases; for fear <span class=\"clarity-word\">was</span> upon them because of the people of those countries: and they offered burnt offerings thereon unto the <span class=\"small-caps\">Lord</span>, <span class=\"clarity-word\">even</span> burnt offerings morning and evening.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "ezra-3-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "They kept also the feast of tabernacles, as <span class=\"clarity-word\">it is</span> written, and <span class=\"clarity-word\">offered</span> the daily burnt offerings by number, according to the custom, as the duty of every day required;",
+      "churchId": "p4"
+    },
+    {
+      "slug": "ezra-3-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And afterward <span class=\"clarity-word\">offered</span> the continual burnt offering, both of the new moons, and of all the set feasts of the <span class=\"small-caps\">Lord</span> that were consecrated, and of every one that willingly offered a freewill offering unto the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "ezra-3-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "From the first day of the seventh month began they to offer burnt offerings unto the <span class=\"small-caps\">Lord</span>. But the foundation of the temple of the <span class=\"small-caps\">Lord</span> was not <span class=\"clarity-word\">yet</span> laid.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "ezra-3-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "They gave money also unto the masons, and to the carpenters; and meat, and drink, and oil, unto them of Zidon, and to them of Tyre, to bring cedar trees from Lebanon to the sea of Joppa, according to the grant that they had of Cyrus king of Persia.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "ezra-3-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "¶ Now in the second year of their coming unto the house of God at Jerusalem, in the second month, began Zerubbabel the son of Shealtiel, and Jeshua the son of Jozadak, and the remnant of their brethren the priests and the Levites, and all they that were come out of the captivity unto Jerusalem; and appointed the Levites, from twenty years old and upward, to set forward the work of the house of the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "ezra-3-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Then stood Jeshua <span class=\"clarity-word\">with</span> his sons and his brethren, Kadmiel and his sons, the sons of Judah, together, to set forward the workmen in the house of God: the sons of Henadad, <span class=\"clarity-word\">with</span> their sons and their brethren the Levites.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "ezra-3-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And when the builders laid the foundation of the temple of the <span class=\"small-caps\">Lord</span>, they set the priests in their apparel with trumpets, and the Levites the sons of Asaph with cymbals, to praise the <span class=\"small-caps\">Lord</span>, after the ordinance of David king of Israel.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "ezra-3-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And they sang together by course in praising and giving thanks unto the <span class=\"small-caps\">Lord</span>; because <span class=\"clarity-word\">he is</span> good, for his mercy <span class=\"clarity-word\">endureth</span> for ever toward Israel. And all the people shouted with a great shout, when they praised the <span class=\"small-caps\">Lord</span>, because the foundation of the house of the <span class=\"small-caps\">Lord</span> was laid.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "ezra-3-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "But many of the priests and Levites and chief of the fathers, <span class=\"clarity-word\">who were</span> ancient men, that had seen the first house, when the foundation of this house was laid before their eyes, wept with a loud voice; and many shouted aloud for joy:",
+      "churchId": "p12"
+    },
+    {
+      "slug": "ezra-3-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "So that the people could not discern the noise of the shout of joy from the noise of the weeping of the people: for the people shouted with a loud shout, and the noise was heard afar off.",
+      "churchId": "p13"
+    }
+  ]
+}

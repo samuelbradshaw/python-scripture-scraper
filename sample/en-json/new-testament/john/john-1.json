@@ -1,0 +1,379 @@
+{
+  "name": "John 1",
+  "abbrev": "John 1",
+  "number": "1",
+  "churchUri": "/scriptures/nt/john/1",
+  "paragraphs": [
+    {
+      "slug": "john-1-title1",
+      "type": "book-title",
+      "number": null,
+      "content": "<small>The Gospel According to </small>St John",
+      "churchId": "title1"
+    },
+    {
+      "slug": "john-1-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 1",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "john-1-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "In the beginning was the Word, and the Word was with God, and the Word was God.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "john-1-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "The same was in the beginning with God.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "john-1-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "All things were made by him; and without him was not any thing made that was made.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "john-1-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "In him was life; and the life was the light of men.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "john-1-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And the light shineth in darkness; and the darkness comprehended it not.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "john-1-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "¶ There was a man sent from God, whose name <span class=\"clarity-word\">was</span> John.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "john-1-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "The same came for a witness, to bear witness of the Light, that all <span class=\"clarity-word\">men</span> through him might believe.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "john-1-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "He was not that Light, but <span class=\"clarity-word\">was sent</span> to bear witness of that Light.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "john-1-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "<span class=\"clarity-word\">That</span> was the true Light, which lighteth every man that cometh into the world.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "john-1-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "He was in the world, and the world was made by him, and the world knew him not.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "john-1-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "He came unto his own, and his own received him not.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "john-1-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "But as many as received him, to them gave he power to become the sons of God, <span class=\"clarity-word\">even</span> to them that believe on his name:",
+      "churchId": "p12"
+    },
+    {
+      "slug": "john-1-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Which were born, not of blood, nor of the will of the flesh, nor of the will of man, but of God.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "john-1-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "john-1-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "¶ John bare witness of him, and cried, saying, This was he of whom I spake, He that cometh after me is preferred before me: for he was before me.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "john-1-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And of his fulness have all we received, and grace for grace.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "john-1-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "For the law was given by Moses, <span class=\"clarity-word\">but</span> grace and truth came by Jesus Christ.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "john-1-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "No man hath seen God at any time; the only begotten Son, which is in the bosom of the Father, he hath declared <span class=\"clarity-word\">him.</span>",
+      "churchId": "p18"
+    },
+    {
+      "slug": "john-1-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "¶ And this is the record of John, when the Jews sent priests and Levites from Jerusalem to ask him, Who art thou?",
+      "churchId": "p19"
+    },
+    {
+      "slug": "john-1-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And he confessed, and denied not; but confessed, I am not the Christ.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "john-1-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And they asked him, What then? Art thou Elias? And he saith, I am not. Art thou that prophet? And he answered, No.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "john-1-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Then said they unto him, Who art thou? that we may give an answer to them that sent us. What sayest thou of thyself?",
+      "churchId": "p22"
+    },
+    {
+      "slug": "john-1-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "He said, I <span class=\"clarity-word\">am</span> the voice of one crying in the wilderness, Make straight the way of the Lord, as said the prophet Esaias.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "john-1-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And they which were sent were of the Pharisees.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "john-1-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And they asked him, and said unto him, Why baptizest thou then, if thou be not that Christ, nor Elias, neither that prophet?",
+      "churchId": "p25"
+    },
+    {
+      "slug": "john-1-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "John answered them, saying, I baptize with water: but there standeth one among you, whom ye know not;",
+      "churchId": "p26"
+    },
+    {
+      "slug": "john-1-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "He it is, who coming after me is preferred before me, whose shoe’s latchet I am not worthy to unloose.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "john-1-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "These things were done in Bethabara beyond Jordan, where John was baptizing.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "john-1-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "¶ The next day John seeth Jesus coming unto him, and saith, Behold the Lamb of God, which taketh away the sin of the world.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "john-1-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "This is he of whom I said, After me cometh a man which is preferred before me: for he was before me.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "john-1-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "And I knew him not: but that he should be made manifest to Israel, therefore am I come baptizing with water.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "john-1-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "And John bare record, saying, I saw the Spirit descending from heaven like a dove, and it abode upon him.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "john-1-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "And I knew him not: but he that sent me to baptize with water, the same said unto me, Upon whom thou shalt see the Spirit descending, and remaining on him, the same is he which baptizeth with the Holy Ghost.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "john-1-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "And I saw, and bare record that this is the Son of God.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "john-1-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "¶ Again the next day after John stood, and two of his disciples;",
+      "churchId": "p35"
+    },
+    {
+      "slug": "john-1-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "And looking upon Jesus as he walked, he saith, Behold the Lamb of God!",
+      "churchId": "p36"
+    },
+    {
+      "slug": "john-1-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "And the two disciples heard him speak, and they followed Jesus.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "john-1-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "Then Jesus turned, and saw them following, and saith unto them, What seek ye? They said unto him, Rabbi, (which is to say, being interpreted, Master,) where dwellest thou?",
+      "churchId": "p38"
+    },
+    {
+      "slug": "john-1-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "He saith unto them, Come and see. They came and saw where he dwelt, and abode with him that day: for it was about the tenth hour.",
+      "churchId": "p39"
+    },
+    {
+      "slug": "john-1-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "One of the two which heard John <span class=\"clarity-word\">speak,</span> and followed him, was Andrew, Simon Peter’s brother.",
+      "churchId": "p40"
+    },
+    {
+      "slug": "john-1-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "He first findeth his own brother Simon, and saith unto him, We have found the Messias, which is, being interpreted, the Christ.",
+      "churchId": "p41"
+    },
+    {
+      "slug": "john-1-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "And he brought him to Jesus. And when Jesus beheld him, he said, Thou art Simon the son of Jona: thou shalt be called Cephas, which is by interpretation, A stone.",
+      "churchId": "p42"
+    },
+    {
+      "slug": "john-1-p43",
+      "type": "verse",
+      "number": "43",
+      "content": "¶ The day following Jesus would go forth into Galilee, and findeth Philip, and saith unto him, Follow me.",
+      "churchId": "p43"
+    },
+    {
+      "slug": "john-1-p44",
+      "type": "verse",
+      "number": "44",
+      "content": "Now Philip was of Bethsaida, the city of Andrew and Peter.",
+      "churchId": "p44"
+    },
+    {
+      "slug": "john-1-p45",
+      "type": "verse",
+      "number": "45",
+      "content": "Philip findeth Nathanael, and saith unto him, We have found him, of whom Moses in the law, and the prophets, did write, Jesus of Nazareth, the son of Joseph.",
+      "churchId": "p45"
+    },
+    {
+      "slug": "john-1-p46",
+      "type": "verse",
+      "number": "46",
+      "content": "And Nathanael said unto him, Can there any good thing come out of Nazareth? Philip saith unto him, Come and see.",
+      "churchId": "p46"
+    },
+    {
+      "slug": "john-1-p47",
+      "type": "verse",
+      "number": "47",
+      "content": "Jesus saw Nathanael coming to him, and saith of him, Behold an Israelite indeed, in whom is no guile!",
+      "churchId": "p47"
+    },
+    {
+      "slug": "john-1-p48",
+      "type": "verse",
+      "number": "48",
+      "content": "Nathanael saith unto him, Whence knowest thou me? Jesus answered and said unto him, Before that Philip called thee, when thou wast under the fig tree, I saw thee.",
+      "churchId": "p48"
+    },
+    {
+      "slug": "john-1-p49",
+      "type": "verse",
+      "number": "49",
+      "content": "Nathanael answered and saith unto him, Rabbi, thou art the Son of God; thou art the King of Israel.",
+      "churchId": "p49"
+    },
+    {
+      "slug": "john-1-p50",
+      "type": "verse",
+      "number": "50",
+      "content": "Jesus answered and said unto him, Because I said unto thee, I saw thee under the fig tree, believest thou? thou shalt see greater things than these.",
+      "churchId": "p50"
+    },
+    {
+      "slug": "john-1-p51",
+      "type": "verse",
+      "number": "51",
+      "content": "And he saith unto him, Verily, verily, I say unto you, Hereafter ye shall see heaven open, and the angels of God ascending and descending upon the Son of man.",
+      "churchId": "p51"
+    }
+  ]
+}

@@ -1,0 +1,344 @@
+{
+  "name": "Leviticus 11",
+  "abbrev": "Lev. 11",
+  "number": "11",
+  "churchUri": "/scriptures/ot/lev/11",
+  "paragraphs": [
+    {
+      "slug": "leviticus-11-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 11",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "leviticus-11-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And the <span class=\"small-caps\">Lord</span> spake unto Moses and to Aaron, saying unto them,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "leviticus-11-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Speak unto the children of Israel, saying, These <span class=\"clarity-word\">are</span> the beasts which ye shall eat among all the beasts that <span class=\"clarity-word\">are</span> on the earth.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "leviticus-11-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Whatsoever parteth the hoof, and is clovenfooted, <span class=\"clarity-word\">and</span> cheweth the cud, among the beasts, that shall ye eat.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "leviticus-11-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Nevertheless these shall ye not eat of them that chew the cud, or of them that divide the hoof: <span class=\"clarity-word\">as</span> the camel, because he cheweth the cud, but divideth not the hoof; he <span class=\"clarity-word\">is</span> unclean unto you.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "leviticus-11-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And the coney, because he cheweth the cud, but divideth not the hoof; he <span class=\"clarity-word\">is</span> unclean unto you.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "leviticus-11-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And the hare, because he cheweth the cud, but divideth not the hoof; he <span class=\"clarity-word\">is</span> unclean unto you.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "leviticus-11-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And the swine, though he divide the hoof, and be clovenfooted, yet he cheweth not the cud; he <span class=\"clarity-word\">is</span> unclean to you.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "leviticus-11-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Of their flesh shall ye not eat, and their carcase shall ye not touch; they <span class=\"clarity-word\">are</span> unclean to you.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "leviticus-11-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "¶ These shall ye eat of all that <span class=\"clarity-word\">are</span> in the waters: whatsoever hath fins and scales in the waters, in the seas, and in the rivers, them shall ye eat.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "leviticus-11-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And all that have not fins and scales in the seas, and in the rivers, of all that move in the waters, and of any living thing which <span class=\"clarity-word\">is</span> in the waters, they <span class=\"clarity-word\">shall be</span> an abomination unto you:",
+      "churchId": "p10"
+    },
+    {
+      "slug": "leviticus-11-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "They shall be even an abomination unto you; ye shall not eat of their flesh, but ye shall have their carcases in abomination.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "leviticus-11-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Whatsoever hath no fins nor scales in the waters, that <span class=\"clarity-word\">shall be</span> an abomination unto you.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "leviticus-11-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "¶ And these <span class=\"clarity-word\">are they which</span> ye shall have in abomination among the fowls; they shall not be eaten, they <span class=\"clarity-word\">are</span> an abomination: the eagle, and the ossifrage, and the ospray,",
+      "churchId": "p13"
+    },
+    {
+      "slug": "leviticus-11-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And the vulture, and the kite after his kind;",
+      "churchId": "p14"
+    },
+    {
+      "slug": "leviticus-11-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Every raven after his kind;",
+      "churchId": "p15"
+    },
+    {
+      "slug": "leviticus-11-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And the owl, and the night hawk, and the cuckow, and the hawk after his kind,",
+      "churchId": "p16"
+    },
+    {
+      "slug": "leviticus-11-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And the little owl, and the cormorant, and the great owl,",
+      "churchId": "p17"
+    },
+    {
+      "slug": "leviticus-11-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And the swan, and the pelican, and the gier eagle,",
+      "churchId": "p18"
+    },
+    {
+      "slug": "leviticus-11-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And the stork, the heron after her kind, and the lapwing, and the bat.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "leviticus-11-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "All fowls that creep, going upon <span class=\"clarity-word\">all</span> four, <span class=\"clarity-word\">shall be</span> an abomination unto you.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "leviticus-11-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Yet these may ye eat of every flying creeping thing that goeth upon <span class=\"clarity-word\">all</span> four, which have legs above their feet, to leap withal upon the earth;",
+      "churchId": "p21"
+    },
+    {
+      "slug": "leviticus-11-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "<span class=\"clarity-word\">Even</span> these of them ye may eat; the locust after his kind, and the bald locust after his kind, and the beetle after his kind, and the grasshopper after his kind.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "leviticus-11-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "But all <span class=\"clarity-word\">other</span> flying creeping things, which have four feet, <span class=\"clarity-word\">shall be</span> an abomination unto you.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "leviticus-11-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And for these ye shall be unclean: whosoever toucheth the carcase of them shall be unclean until the even.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "leviticus-11-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And whosoever beareth <span class=\"clarity-word\">ought</span> of the carcase of them shall wash his clothes, and be unclean until the even.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "leviticus-11-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "<span class=\"clarity-word\">The carcases</span> of every beast which divideth the hoof, and <span class=\"clarity-word\">is</span> not clovenfooted, nor cheweth the cud, <span class=\"clarity-word\">are</span> unclean unto you: every one that toucheth them shall be unclean.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "leviticus-11-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And whatsoever goeth upon his paws, among all manner of beasts that go on <span class=\"clarity-word\">all</span> four, those <span class=\"clarity-word\">are</span> unclean unto you: whoso toucheth their carcase shall be unclean until the even.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "leviticus-11-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And he that beareth the carcase of them shall wash his clothes, and be unclean until the even: they <span class=\"clarity-word\">are</span> unclean unto you.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "leviticus-11-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "¶ These also <span class=\"clarity-word\">shall be</span> unclean unto you among the creeping things that creep upon the earth; the weasel, and the mouse, and the tortoise after his kind,",
+      "churchId": "p29"
+    },
+    {
+      "slug": "leviticus-11-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And the ferret, and the chameleon, and the lizard, and the snail, and the mole.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "leviticus-11-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "These <span class=\"clarity-word\">are</span> unclean to you among all that creep: whosoever doth touch them, when they be dead, shall be unclean until the even.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "leviticus-11-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "And upon whatsoever <span class=\"clarity-word\">any</span> of them, when they are dead, doth fall, it shall be unclean; whether <span class=\"clarity-word\">it be</span> any vessel of wood, or raiment, or skin, or sack, whatsoever vessel <span class=\"clarity-word\">it be,</span> wherein <span class=\"clarity-word\">any</span> work is done, it must be put into water, and it shall be unclean until the even; so it shall be cleansed.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "leviticus-11-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "And every earthen vessel, whereinto <span class=\"clarity-word\">any</span> of them falleth, whatsoever <span class=\"clarity-word\">is</span> in it shall be unclean; and ye shall break it.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "leviticus-11-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "Of all meat which may be eaten, <span class=\"clarity-word\">that</span> on which <span class=\"clarity-word\">such</span> water cometh shall be unclean: and all drink that may be drunk in every <span class=\"clarity-word\">such</span> vessel shall be unclean.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "leviticus-11-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "And every <span class=\"clarity-word\">thing</span> whereupon <span class=\"clarity-word\">any part</span> of their carcase falleth shall be unclean; <span class=\"clarity-word\">whether it be</span> oven, or ranges for pots, they shall be broken down: <span class=\"clarity-word\">for</span> they <span class=\"clarity-word\">are</span> unclean, and shall be unclean unto you.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "leviticus-11-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "Nevertheless a fountain or pit, <span class=\"clarity-word\">wherein there is</span> plenty of water, shall be clean: but that which toucheth their carcase shall be unclean.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "leviticus-11-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "And if <span class=\"clarity-word\">any part</span> of their carcase fall upon any sowing seed which is to be sown, it <span class=\"clarity-word\">shall be</span> clean.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "leviticus-11-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "But if <span class=\"clarity-word\">any</span> water be put upon the seed, and <span class=\"clarity-word\">any part</span> of their carcase fall thereon, it <span class=\"clarity-word\">shall be</span> unclean unto you.",
+      "churchId": "p38"
+    },
+    {
+      "slug": "leviticus-11-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "And if any beast, of which ye may eat, die; he that toucheth the carcase thereof shall be unclean until the even.",
+      "churchId": "p39"
+    },
+    {
+      "slug": "leviticus-11-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "And he that eateth of the carcase of it shall wash his clothes, and be unclean until the even: he also that beareth the carcase of it shall wash his clothes, and be unclean until the even.",
+      "churchId": "p40"
+    },
+    {
+      "slug": "leviticus-11-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "And every creeping thing that creepeth upon the earth <span class=\"clarity-word\">shall be</span> an abomination; it shall not be eaten.",
+      "churchId": "p41"
+    },
+    {
+      "slug": "leviticus-11-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "Whatsoever goeth upon the belly, and whatsoever goeth upon <span class=\"clarity-word\">all</span> four, or whatsoever hath more feet among all creeping things that creep upon the earth, them ye shall not eat; for they <span class=\"clarity-word\">are</span> an abomination.",
+      "churchId": "p42"
+    },
+    {
+      "slug": "leviticus-11-p43",
+      "type": "verse",
+      "number": "43",
+      "content": "Ye shall not make yourselves abominable with any creeping thing that creepeth, neither shall ye make yourselves unclean with them, that ye should be defiled thereby.",
+      "churchId": "p43"
+    },
+    {
+      "slug": "leviticus-11-p44",
+      "type": "verse",
+      "number": "44",
+      "content": "For I <span class=\"clarity-word\">am</span> the <span class=\"small-caps\">Lord</span> your God: ye shall therefore sanctify yourselves, and ye shall be holy; for I <span class=\"clarity-word\">am</span> holy: neither shall ye defile yourselves with any manner of creeping thing that creepeth upon the earth.",
+      "churchId": "p44"
+    },
+    {
+      "slug": "leviticus-11-p45",
+      "type": "verse",
+      "number": "45",
+      "content": "For I <span class=\"clarity-word\">am</span> the <span class=\"small-caps\">Lord</span> that bringeth you up out of the land of Egypt, to be your God: ye shall therefore be holy, for I <span class=\"clarity-word\">am</span> holy.",
+      "churchId": "p45"
+    },
+    {
+      "slug": "leviticus-11-p46",
+      "type": "verse",
+      "number": "46",
+      "content": "This <span class=\"clarity-word\">is</span> the law of the beasts, and of the fowl, and of every living creature that moveth in the waters, and of every creature that creepeth upon the earth:",
+      "churchId": "p46"
+    },
+    {
+      "slug": "leviticus-11-p47",
+      "type": "verse",
+      "number": "47",
+      "content": "To make a difference between the unclean and the clean, and between the beast that may be eaten and the beast that may not be eaten.",
+      "churchId": "p47"
+    }
+  ]
+}

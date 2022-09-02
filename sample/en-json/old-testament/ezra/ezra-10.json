@@ -1,0 +1,323 @@
+{
+  "name": "Ezra 10",
+  "abbrev": "Ezra 10",
+  "number": "10",
+  "churchUri": "/scriptures/ot/ezra/10",
+  "paragraphs": [
+    {
+      "slug": "ezra-10-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 10",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "ezra-10-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Now when Ezra had prayed, and when he had confessed, weeping and casting himself down before the house of God, there assembled unto him out of Israel a very great congregation of men and women and children: for the people wept very sore.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "ezra-10-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And Shechaniah the son of Jehiel, <span class=\"clarity-word\">one</span> of the sons of Elam, answered and said unto Ezra, We have trespassed against our God, and have taken strange wives of the people of the land: yet now there is hope in Israel concerning this thing.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "ezra-10-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Now therefore let us make a covenant with our God to put away all the wives, and such as are born of them, according to the counsel of my lord, and of those that tremble at the commandment of our God; and let it be done according to the law.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "ezra-10-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Arise; for <span class=\"clarity-word\">this</span> matter <span class=\"clarity-word\">belongeth</span> unto thee: we also <span class=\"clarity-word\">will be</span> with thee: be of good courage, and do <span class=\"clarity-word\">it.</span>",
+      "churchId": "p4"
+    },
+    {
+      "slug": "ezra-10-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Then arose Ezra, and made the chief priests, the Levites, and all Israel, to swear that they should do according to this word. And they sware.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "ezra-10-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "¶ Then Ezra rose up from before the house of God, and went into the chamber of Johanan the son of Eliashib: and <span class=\"clarity-word\">when</span> he came thither, he did eat no bread, nor drink water: for he mourned because of the transgression of them that had been carried away.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "ezra-10-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And they made proclamation throughout Judah and Jerusalem unto all the children of the captivity, that they should gather themselves together unto Jerusalem;",
+      "churchId": "p7"
+    },
+    {
+      "slug": "ezra-10-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And that whosoever would not come within three days, according to the counsel of the princes and the elders, all his substance should be forfeited, and himself separated from the congregation of those that had been carried away.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "ezra-10-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "¶ Then all the men of Judah and Benjamin gathered themselves together unto Jerusalem within three days. It <span class=\"clarity-word\">was</span> the ninth month, on the twentieth <span class=\"clarity-word\">day</span> of the month; and all the people sat in the street of the house of God, trembling because of <span class=\"clarity-word\">this</span> matter, and for the great rain.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "ezra-10-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And Ezra the priest stood up, and said unto them, Ye have transgressed, and have taken strange wives, to increase the trespass of Israel.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "ezra-10-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Now therefore make confession unto the <span class=\"small-caps\">Lord</span> God of your fathers, and do his pleasure: and separate yourselves from the people of the land, and from the strange wives.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "ezra-10-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Then all the congregation answered and said with a loud voice, As thou hast said, so must we do.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "ezra-10-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "But the people <span class=\"clarity-word\">are</span> many, and <span class=\"clarity-word\">it is</span> a time of much rain, and we are not able to stand without, neither <span class=\"clarity-word\">is this</span> a work of one day or two: for we are many that have transgressed in this thing.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "ezra-10-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Let now our rulers of all the congregation stand, and let all them which have taken strange wives in our cities come at appointed times, and with them the elders of every city, and the judges thereof, until the fierce wrath of our God for this matter be turned from us.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "ezra-10-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "¶ Only Jonathan the son of Asahel and Jahaziah the son of Tikvah were employed about this <span class=\"clarity-word\">matter:</span> and Meshullam and Shabbethai the Levite helped them.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "ezra-10-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And the children of the captivity did so. And Ezra the priest, <span class=\"clarity-word\">with</span> certain chief of the fathers, after the house of their fathers, and all of them by <span class=\"clarity-word\">their</span> names, were separated, and sat down in the first day of the tenth month to examine the matter.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "ezra-10-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And they made an end with all the men that had taken strange wives by the first day of the first month.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "ezra-10-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "¶ And among the sons of the priests there were found that had taken strange wives: <span class=\"clarity-word\">namely,</span> of the sons of Jeshua the son of Jozadak, and his brethren; Maaseiah, and Eliezer, and Jarib, and Gedaliah.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "ezra-10-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And they gave their hands that they would put away their wives; and <span class=\"clarity-word\">being</span> guilty, <span class=\"clarity-word\">they offered</span> a ram of the flock for their trespass.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "ezra-10-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And of the sons of Immer; Hanani, and Zebadiah.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "ezra-10-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And of the sons of Harim; Maaseiah, and Elijah, and Shemaiah, and Jehiel, and Uzziah.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "ezra-10-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And of the sons of Pashur; Elioenai, Maaseiah, Ishmael, Nethaneel, Jozabad, and Elasah.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "ezra-10-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Also of the Levites; Jozabad, and Shimei, and Kelaiah, (the same <span class=\"clarity-word\">is</span> Kelita,) Pethahiah, Judah, and Eliezer.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "ezra-10-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Of the singers also; Eliashib: and of the porters; Shallum, and Telem, and Uri.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "ezra-10-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Moreover of Israel: of the sons of Parosh; Ramiah, and Jeziah, and Malchiah, and Miamin, and Eleazar, and Malchijah, and Benaiah.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "ezra-10-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And of the sons of Elam; Mattaniah, Zechariah, and Jehiel, and Abdi, and Jeremoth, and Eliah.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "ezra-10-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And of the sons of Zattu; Elioenai, Eliashib, Mattaniah, and Jeremoth, and Zabad, and Aziza.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "ezra-10-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "Of the sons also of Bebai; Jehohanan, Hananiah, Zabbai, <span class=\"clarity-word\">and</span> Athlai.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "ezra-10-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "And of the sons of Bani; Meshullam, Malluch, and Adaiah, Jashub, and Sheal, and Ramoth.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "ezra-10-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And of the sons of Pahath-moab; Adna, and Chelal, Benaiah, Maaseiah, Mattaniah, Bezaleel, and Binnui, and Manasseh.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "ezra-10-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "And <span class=\"clarity-word\">of</span> the sons of Harim; Eliezer, Ishijah, Malchiah, Shemaiah, Shimeon,",
+      "churchId": "p31"
+    },
+    {
+      "slug": "ezra-10-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "Benjamin, Malluch, <span class=\"clarity-word\">and</span> Shemariah.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "ezra-10-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "Of the sons of Hashum; Mattenai, Mattathah, Zabad, Eliphelet, Jeremai, Manasseh, <span class=\"clarity-word\">and</span> Shimei.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "ezra-10-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "Of the sons of Bani; Maadai, Amram, and Uel,",
+      "churchId": "p34"
+    },
+    {
+      "slug": "ezra-10-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "Benaiah, Bedeiah, Chelluh,",
+      "churchId": "p35"
+    },
+    {
+      "slug": "ezra-10-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "Vaniah, Meremoth, Eliashib,",
+      "churchId": "p36"
+    },
+    {
+      "slug": "ezra-10-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "Mattaniah, Mattenai, and Jaasau,",
+      "churchId": "p37"
+    },
+    {
+      "slug": "ezra-10-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "And Bani, and Binnui, Shimei,",
+      "churchId": "p38"
+    },
+    {
+      "slug": "ezra-10-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "And Shelemiah, and Nathan, and Adaiah,",
+      "churchId": "p39"
+    },
+    {
+      "slug": "ezra-10-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "Machnadebai, Shashai, Sharai,",
+      "churchId": "p40"
+    },
+    {
+      "slug": "ezra-10-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "Azareel, and Shelemiah, Shemariah,",
+      "churchId": "p41"
+    },
+    {
+      "slug": "ezra-10-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "Shallum, Amariah, <span class=\"clarity-word\">and</span> Joseph.",
+      "churchId": "p42"
+    },
+    {
+      "slug": "ezra-10-p43",
+      "type": "verse",
+      "number": "43",
+      "content": "Of the sons of Nebo; Jeiel, Mattithiah, Zabad, Zebina, Jadau, and Joel, Benaiah.",
+      "churchId": "p43"
+    },
+    {
+      "slug": "ezra-10-p44",
+      "type": "verse",
+      "number": "44",
+      "content": "All these had taken strange wives: and <span class=\"clarity-word\">some</span> of them had wives by whom they had children.",
+      "churchId": "p44"
+    }
+  ]
+}

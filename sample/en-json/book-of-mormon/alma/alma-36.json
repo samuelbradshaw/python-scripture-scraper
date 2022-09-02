@@ -1,0 +1,232 @@
+{
+  "name": "Alma 36",
+  "abbrev": "Alma 36",
+  "number": "36",
+  "churchUri": "/scriptures/bofm/alma/36",
+  "paragraphs": [
+    {
+      "slug": "alma-36-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "The commandments of Alma to his son Helaman.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "alma-36-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 36",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "alma-36-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "My son, give ear to my words; for I swear unto you, that inasmuch as ye shall keep the commandments of God ye shall prosper in the land.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "alma-36-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "I would that ye should do as I have done, in remembering the captivity of our fathers; for they were in bondage, and none could deliver them except it was the God of Abraham, and the God of Isaac, and the God of Jacob; and he surely did deliver them in their afflictions.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "alma-36-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And now, O my son Helaman, behold, thou art in thy youth, and therefore, I beseech of thee that thou wilt hear my words and learn of me; for I do know that whosoever shall put their trust in God shall be supported in their trials, and their troubles, and their afflictions, and shall be lifted up at the last day.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "alma-36-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And I would not that ye think that I know of myself—not of the temporal but of the spiritual, not of the carnal mind but of God.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "alma-36-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Now, behold, I say unto you, if I had not been born of God I should not have known these things; but God has, by the mouth of his holy angel, made these things known unto me, not of any worthiness of myself;",
+      "churchId": "p5"
+    },
+    {
+      "slug": "alma-36-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "For I went about with the sons of Mosiah, seeking to destroy the church of God; but behold, God sent his holy angel to stop us by the way.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "alma-36-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And behold, he spake unto us, as it were the voice of thunder, and the whole earth did tremble beneath our feet; and we all fell to the earth, for the fear of the Lord came upon us.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "alma-36-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "But behold, the voice said unto me: Arise. And I arose and stood up, and beheld the angel.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "alma-36-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And he said unto me: If thou wilt of thyself be destroyed, seek no more to destroy the church of God.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "alma-36-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And it came to pass that I fell to the earth; and it was for the space of three days and three nights that I could not open my mouth, neither had I the use of my limbs.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "alma-36-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And the angel spake more things unto me, which were heard by my brethren, but I did not hear them; for when I heard the words—If thou wilt be destroyed of thyself, seek no more to destroy the church of God—I was struck with such great fear and amazement lest perhaps I should be destroyed, that I fell to the earth and I did hear no more.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "alma-36-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "But I was racked with eternal torment, for my soul was harrowed up to the greatest degree and racked with all my sins.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "alma-36-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Yea, I did remember all my sins and iniquities, for which I was tormented with the pains of hell; yea, I saw that I had rebelled against my God, and that I had not kept his holy commandments.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "alma-36-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Yea, and I had murdered many of his children, or rather led them away unto destruction; yea, and in fine so great had been my iniquities, that the very thought of coming into the presence of my God did rack my soul with inexpressible horror.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "alma-36-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Oh, thought I, that I could be banished and become extinct both soul and body, that I might not be brought to stand in the presence of my God, to be judged of my deeds.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "alma-36-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And now, for three days and for three nights was I racked, even with the pains of a damned soul.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "alma-36-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And it came to pass that as I was thus racked with torment, while I was harrowed up by the memory of my many sins, behold, I remembered also to have heard my father prophesy unto the people concerning the coming of one Jesus Christ, a Son of God, to atone for the sins of the world.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "alma-36-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Now, as my mind caught hold upon this thought, I cried within my heart: O Jesus, thou Son of God, have mercy on me, who am in the gall of bitterness, and am encircled about by the everlasting chains of death.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "alma-36-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And now, behold, when I thought this, I could remember my pains no more; yea, I was harrowed up by the memory of my sins no more.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "alma-36-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And oh, what joy, and what marvelous light I did behold; yea, my soul was filled with joy as exceeding as was my pain!",
+      "churchId": "p20"
+    },
+    {
+      "slug": "alma-36-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Yea, I say unto you, my son, that there could be nothing so exquisite and so bitter as were my pains. Yea, and again I say unto you, my son, that on the other hand, there can be nothing so exquisite and sweet as was my joy.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "alma-36-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Yea, methought I saw, even as our father Lehi saw, God sitting upon his throne, surrounded with numberless concourses of angels, in the attitude of singing and praising their God; yea, and my soul did long to be there.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "alma-36-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "But behold, my limbs did receive their strength again, and I stood upon my feet, and did manifest unto the people that I had been born of God.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "alma-36-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Yea, and from that time even until now, I have labored without ceasing, that I might bring souls unto repentance; that I might bring them to taste of the exceeding joy of which I did taste; that they might also be born of God, and be filled with the Holy Ghost.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "alma-36-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Yea, and now behold, O my son, the Lord doth give me exceedingly great joy in the fruit of my labors;",
+      "churchId": "p25"
+    },
+    {
+      "slug": "alma-36-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "For because of the word which he has imparted unto me, behold, many have been born of God, and have tasted as I have tasted, and have seen eye to eye as I have seen; therefore they do know of these things of which I have spoken, as I do know; and the knowledge which I have is of God.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "alma-36-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And I have been supported under trials and troubles of every kind, yea, and in all manner of afflictions; yea, God has delivered me from prison, and from bonds, and from death; yea, and I do put my trust in him, and he will still deliver me.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "alma-36-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And I know that he will raise me up at the last day, to dwell with him in glory; yea, and I will praise him forever, for he has brought our fathers out of Egypt, and he has swallowed up the Egyptians in the Red Sea; and he led them by his power into the promised land; yea, and he has delivered them out of bondage and captivity from time to time.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "alma-36-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "Yea, and he has also brought our fathers out of the land of Jerusalem; and he has also, by his everlasting power, delivered them out of bondage and captivity, from time to time even down to the present day; and I have always retained in remembrance their captivity; yea, and ye also ought to retain in remembrance, as I have done, their captivity.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "alma-36-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "But behold, my son, this is not all; for ye ought to know as I do know, that inasmuch as ye shall keep the commandments of God ye shall prosper in the land; and ye ought to know also, that inasmuch as ye will not keep the commandments of God ye shall be cut off from his presence. Now this is according to his word.",
+      "churchId": "p30"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Psalm 125",
+  "abbrev": "Psalm 125",
+  "number": "125",
+  "churchUri": "/scriptures/ot/ps/125",
+  "paragraphs": [
+    {
+      "slug": "psalm-125-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 125",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-125-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "A Song of degrees.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-125-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "They that trust in the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">shall be</span> as mount Zion, <span class=\"clarity-word\">which</span> cannot be removed, <span class=\"clarity-word\">but</span> abideth for ever.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-125-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "<span class=\"clarity-word\">As</span> the mountains <span class=\"clarity-word\">are</span> round about Jerusalem, so the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">is</span> round about his people from henceforth even for ever.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-125-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "For the rod of the wicked shall not rest upon the lot of the righteous; lest the righteous put forth their hands unto iniquity.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-125-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Do good, O <span class=\"small-caps\">Lord</span>, unto <span class=\"clarity-word\">those that be</span> good, and to <span class=\"clarity-word\">them that are</span> upright in their hearts.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-125-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "As for such as turn aside unto their crooked ways, the <span class=\"small-caps\">Lord</span> shall lead them forth with the workers of iniquity: <span class=\"clarity-word\">but</span> peace <span class=\"clarity-word\">shall be</span> upon Israel.",
+      "churchId": "p5"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "name": "Isaiah 53",
+  "abbrev": "Isa. 53",
+  "number": "53",
+  "churchUri": "/scriptures/ot/isa/53",
+  "paragraphs": [
+    {
+      "slug": "isaiah-53-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 53",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "isaiah-53-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Who hath believed our report? and to whom is the arm of the <span class=\"small-caps\">Lord</span> revealed?",
+      "churchId": "p1"
+    },
+    {
+      "slug": "isaiah-53-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "For he shall grow up before him as a tender plant, and as a root out of a dry ground: he hath no form nor comeliness; and when we shall see him, <span class=\"clarity-word\">there is</span> no beauty that we should desire him.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "isaiah-53-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "He is despised and rejected of men; a man of sorrows, and acquainted with grief: and we hid as it were <span class=\"clarity-word\">our</span> faces from him; he was despised, and we esteemed him not.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "isaiah-53-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "¶ Surely he hath borne our griefs, and carried our sorrows: yet we did esteem him stricken, smitten of God, and afflicted.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "isaiah-53-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "But he <span class=\"clarity-word\">was</span> wounded for our transgressions, <span class=\"clarity-word\">he was</span> bruised for our iniquities: the chastisement of our peace <span class=\"clarity-word\">was</span> upon him; and with his stripes we are healed.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "isaiah-53-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "All we like sheep have gone astray; we have turned every one to his own way; and the <span class=\"small-caps\">Lord</span> hath laid on him the iniquity of us all.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "isaiah-53-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "He was oppressed, and he was afflicted, yet he opened not his mouth: he is brought as a lamb to the slaughter, and as a sheep before her shearers is dumb, so he openeth not his mouth.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "isaiah-53-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "He was taken from prison and from judgment: and who shall declare his generation? for he was cut off out of the land of the living: for the transgression of my people was he stricken.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "isaiah-53-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And he made his grave with the wicked, and with the rich in his death; because he had done no violence, neither <span class=\"clarity-word\">was any</span> deceit in his mouth.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "isaiah-53-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "¶ Yet it pleased the <span class=\"small-caps\">Lord</span> to bruise him; he hath put <span class=\"clarity-word\">him</span> to grief: when thou shalt make his soul an offering for sin, he shall see <span class=\"clarity-word\">his</span> seed, he shall prolong <span class=\"clarity-word\">his</span> days, and the pleasure of the <span class=\"small-caps\">Lord</span> shall prosper in his hand.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "isaiah-53-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "He shall see of the travail of his soul, <span class=\"clarity-word\">and</span> shall be satisfied: by his knowledge shall my righteous servant justify many; for he shall bear their iniquities.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "isaiah-53-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Therefore will I divide him <span class=\"clarity-word\">a portion</span> with the great, and he shall divide the spoil with the strong; because he hath poured out his soul unto death: and he was numbered with the transgressors; and he bare the sin of many, and made intercession for the transgressors.",
+      "churchId": "p12"
+    }
+  ]
+}

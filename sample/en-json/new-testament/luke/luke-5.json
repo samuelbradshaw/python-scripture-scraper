@@ -1,0 +1,288 @@
+{
+  "name": "Luke 5",
+  "abbrev": "Luke 5",
+  "number": "5",
+  "churchUri": "/scriptures/nt/luke/5",
+  "paragraphs": [
+    {
+      "slug": "luke-5-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 5",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "luke-5-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And it came to pass, that, as the people pressed upon him to hear the word of God, he stood by the lake of Gennesaret,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "luke-5-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And saw two ships standing by the lake: but the fishermen were gone out of them, and were washing <span class=\"clarity-word\">their</span> nets.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "luke-5-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And he entered into one of the ships, which was Simon’s, and prayed him that he would thrust out a little from the land. And he sat down, and taught the people out of the ship.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "luke-5-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Now when he had left speaking, he said unto Simon, Launch out into the deep, and let down your nets for a draught.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "luke-5-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And Simon answering said unto him, Master, we have toiled all the night, and have taken nothing: nevertheless at thy word I will let down the net.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "luke-5-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And when they had this done, they inclosed a great multitude of fishes: and their net brake.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "luke-5-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And they beckoned unto <span class=\"clarity-word\">their</span> partners, which were in the other ship, that they should come and help them. And they came, and filled both the ships, so that they began to sink.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "luke-5-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "When Simon Peter saw <span class=\"clarity-word\">it,</span> he fell down at Jesus’ knees, saying, Depart from me; for I am a sinful man, O Lord.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "luke-5-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "For he was astonished, and all that were with him, at the draught of the fishes which they had taken:",
+      "churchId": "p9"
+    },
+    {
+      "slug": "luke-5-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And so <span class=\"clarity-word\">was</span> also James, and John, the sons of Zebedee, which were partners with Simon. And Jesus said unto Simon, Fear not; from henceforth thou shalt catch men.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "luke-5-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And when they had brought their ships to land, they forsook all, and followed him.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "luke-5-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "¶ And it came to pass, when he was in a certain city, behold a man full of leprosy: who seeing Jesus fell on <span class=\"clarity-word\">his</span> face, and besought him, saying, Lord, if thou wilt, thou canst make me clean.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "luke-5-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And he put forth <span class=\"clarity-word\">his</span> hand, and touched him, saying, I will: be thou clean. And immediately the leprosy departed from him.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "luke-5-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And he charged him to tell no man: but go, and shew thyself to the priest, and offer for thy cleansing, according as Moses commanded, for a testimony unto them.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "luke-5-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "But so much the more went there a fame abroad of him: and great multitudes came together to hear, and to be healed by him of their infirmities.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "luke-5-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "¶ And he withdrew himself into the wilderness, and prayed.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "luke-5-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And it came to pass on a certain day, as he was teaching, that there were Pharisees and doctors of the law sitting by, which were come out of every town of Galilee, and Judæa, and Jerusalem: and the power of the Lord was <span class=\"clarity-word\">present</span> to heal them.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "luke-5-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "¶ And, behold, men brought in a bed a man which was taken with a palsy: and they sought <span class=\"clarity-word\">means</span> to bring him in, and to lay <span class=\"clarity-word\">him</span> before him.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "luke-5-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And when they could not find by what <span class=\"clarity-word\">way</span> they might bring him in because of the multitude, they went upon the housetop, and let him down through the tiling with <span class=\"clarity-word\">his</span> couch into the midst before Jesus.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "luke-5-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And when he saw their faith, he said unto him, Man, thy sins are forgiven thee.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "luke-5-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And the scribes and the Pharisees began to reason, saying, Who is this which speaketh blasphemies? Who can forgive sins, but God alone?",
+      "churchId": "p21"
+    },
+    {
+      "slug": "luke-5-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "But when Jesus perceived their thoughts, he answering said unto them, What reason ye in your hearts?",
+      "churchId": "p22"
+    },
+    {
+      "slug": "luke-5-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Whether is easier, to say, Thy sins be forgiven thee; or to say, Rise up and walk?",
+      "churchId": "p23"
+    },
+    {
+      "slug": "luke-5-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "But that ye may know that the Son of man hath power upon earth to forgive sins, (he said unto the sick of the palsy,) I say unto thee, Arise, and take up thy couch, and go into thine house.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "luke-5-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And immediately he rose up before them, and took up that whereon he lay, and departed to his own house, glorifying God.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "luke-5-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And they were all amazed, and they glorified God, and were filled with fear, saying, We have seen strange things to day.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "luke-5-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "¶ And after these things he went forth, and saw a publican, named Levi, sitting at the receipt of custom: and he said unto him, Follow me.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "luke-5-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And he left all, rose up, and followed him.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "luke-5-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "And Levi made him a great feast in his own house: and there was a great company of publicans and of others that sat down with them.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "luke-5-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "But their scribes and Pharisees murmured against his disciples, saying, Why do ye eat and drink with publicans and sinners?",
+      "churchId": "p30"
+    },
+    {
+      "slug": "luke-5-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "And Jesus answering said unto them, They that are whole need not a physician; but they that are sick.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "luke-5-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "I came not to call the righteous, but sinners to repentance.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "luke-5-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "¶ And they said unto him, Why do the disciples of John fast often, and make prayers, and likewise <span class=\"clarity-word\">the disciples</span> of the Pharisees; but thine eat and drink?",
+      "churchId": "p33"
+    },
+    {
+      "slug": "luke-5-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "And he said unto them, Can ye make the children of the bridechamber fast, while the bridegroom is with them?",
+      "churchId": "p34"
+    },
+    {
+      "slug": "luke-5-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "But the days will come, when the bridegroom shall be taken away from them, and then shall they fast in those days.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "luke-5-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "¶ And he spake also a parable unto them; No man putteth a piece of a new garment upon an old; if otherwise, then both the new maketh a rent, and the piece that was <span class=\"clarity-word\">taken</span> out of the new agreeth not with the old.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "luke-5-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "And no man putteth new wine into old bottles; else the new wine will burst the bottles, and be spilled, and the bottles shall perish.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "luke-5-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "But new wine must be put into new bottles; and both are preserved.",
+      "churchId": "p38"
+    },
+    {
+      "slug": "luke-5-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "No man also having drunk old <span class=\"clarity-word\">wine</span> straightway desireth new: for he saith, The old is better.",
+      "churchId": "p39"
+    }
+  ]
+}

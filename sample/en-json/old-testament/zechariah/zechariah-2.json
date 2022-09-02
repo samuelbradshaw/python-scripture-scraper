@@ -1,0 +1,106 @@
+{
+  "name": "Zechariah 2",
+  "abbrev": "Zech. 2",
+  "number": "2",
+  "churchUri": "/scriptures/ot/zech/2",
+  "paragraphs": [
+    {
+      "slug": "zechariah-2-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 2",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "zechariah-2-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "I lifted up mine eyes again, and looked, and behold a man with a measuring line in his hand.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "zechariah-2-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Then said I, Whither goest thou? And he said unto me, To measure Jerusalem, to see what <span class=\"clarity-word\">is</span> the breadth thereof, and what <span class=\"clarity-word\">is</span> the length thereof.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "zechariah-2-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And, behold, the angel that talked with me went forth, and another angel went out to meet him,",
+      "churchId": "p3"
+    },
+    {
+      "slug": "zechariah-2-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And said unto him, Run, speak to this young man, saying, Jerusalem shall be inhabited <span class=\"clarity-word\">as</span> towns without walls for the multitude of men and cattle therein:",
+      "churchId": "p4"
+    },
+    {
+      "slug": "zechariah-2-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "For I, saith the <span class=\"small-caps\">Lord</span>, will be unto her a wall of fire round about, and will be the glory in the midst of her.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "zechariah-2-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "¶ Ho, ho, <span class=\"clarity-word\">come forth,</span> and flee from the land of the north, saith the <span class=\"small-caps\">Lord</span>: for I have spread you abroad as the four winds of the heaven, saith the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "zechariah-2-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Deliver thyself, O Zion, that dwellest <span class=\"clarity-word\">with</span> the daughter of Babylon.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "zechariah-2-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "For thus saith the <span class=\"small-caps\">Lord</span> of hosts; After the glory hath he sent me unto the nations which spoiled you: for he that toucheth you toucheth the apple of his eye.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "zechariah-2-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "For, behold, I will shake mine hand upon them, and they shall be a spoil to their servants: and ye shall know that the <span class=\"small-caps\">Lord</span> of hosts hath sent me.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "zechariah-2-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "¶ Sing and rejoice, O daughter of Zion: for, lo, I come, and I will dwell in the midst of thee, saith the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "zechariah-2-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And many nations shall be joined to the <span class=\"small-caps\">Lord</span> in that day, and shall be my people: and I will dwell in the midst of thee, and thou shalt know that the <span class=\"small-caps\">Lord</span> of hosts hath sent me unto thee.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "zechariah-2-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And the <span class=\"small-caps\">Lord</span> shall inherit Judah his portion in the holy land, and shall choose Jerusalem again.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "zechariah-2-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Be silent, O all flesh, before the <span class=\"small-caps\">Lord</span>: for he is raised up out of his holy habitation.",
+      "churchId": "p13"
+    }
+  ]
+}

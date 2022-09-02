@@ -1,0 +1,211 @@
+{
+  "name": "Job 28",
+  "abbrev": "Job 28",
+  "number": "28",
+  "churchUri": "/scriptures/ot/job/28",
+  "paragraphs": [
+    {
+      "slug": "job-28-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 28",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "job-28-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Surely there is a vein for the silver, and a place for gold <span class=\"clarity-word\">where</span> they fine <span class=\"clarity-word\">it.</span>",
+      "churchId": "p1"
+    },
+    {
+      "slug": "job-28-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Iron is taken out of the earth, and brass <span class=\"clarity-word\">is</span> molten <span class=\"clarity-word\">out of</span> the stone.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "job-28-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "He setteth an end to darkness, and searcheth out all perfection: the stones of darkness, and the shadow of death.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "job-28-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "The flood breaketh out from the inhabitant; <span class=\"clarity-word\">even the waters</span> forgotten of the foot: they are dried up, they are gone away from men.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "job-28-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "<span class=\"clarity-word\">As for</span> the earth, out of it cometh bread: and under it is turned up as it were fire.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "job-28-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "The stones of it <span class=\"clarity-word\">are</span> the place of sapphires: and it hath dust of gold.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "job-28-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "<span class=\"clarity-word\">There is</span> a path which no fowl knoweth, and which the vulture’s eye hath not seen:",
+      "churchId": "p7"
+    },
+    {
+      "slug": "job-28-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "The lion’s whelps have not trodden it, nor the fierce lion passed by it.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "job-28-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "He putteth forth his hand upon the rock; he overturneth the mountains by the roots.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "job-28-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "He cutteth out rivers among the rocks; and his eye seeth every precious thing.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "job-28-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "He bindeth the floods from overflowing; and <span class=\"clarity-word\">the thing that is</span> hid bringeth he forth to light.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "job-28-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "But where shall wisdom be found? and where <span class=\"clarity-word\">is</span> the place of understanding?",
+      "churchId": "p12"
+    },
+    {
+      "slug": "job-28-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Man knoweth not the price thereof; neither is it found in the land of the living.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "job-28-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "The depth saith, It <span class=\"clarity-word\">is</span> not in me: and the sea saith, <span class=\"clarity-word\">It is</span> not with me.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "job-28-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "It cannot be gotten for gold, neither shall silver be weighed <span class=\"clarity-word\">for</span> the price thereof.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "job-28-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "It cannot be valued with the gold of Ophir, with the precious onyx, or the sapphire.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "job-28-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "The gold and the crystal cannot equal it: and the exchange of it <span class=\"clarity-word\">shall not be for</span> jewels of fine gold.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "job-28-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "No mention shall be made of coral, or of pearls: for the price of wisdom <span class=\"clarity-word\">is</span> above rubies.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "job-28-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "The topaz of Ethiopia shall not equal it, neither shall it be valued with pure gold.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "job-28-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Whence then cometh wisdom? and where <span class=\"clarity-word\">is</span> the place of understanding?",
+      "churchId": "p20"
+    },
+    {
+      "slug": "job-28-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Seeing it is hid from the eyes of all living, and kept close from the fowls of the air.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "job-28-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Destruction and death say, We have heard the fame thereof with our ears.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "job-28-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "God understandeth the way thereof, and he knoweth the place thereof.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "job-28-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "For he looketh to the ends of the earth, <span class=\"clarity-word\">and</span> seeth under the whole heaven;",
+      "churchId": "p24"
+    },
+    {
+      "slug": "job-28-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "To make the weight for the winds; and he weigheth the waters by measure.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "job-28-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "When he made a decree for the rain, and a way for the lightning of the thunder:",
+      "churchId": "p26"
+    },
+    {
+      "slug": "job-28-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "Then did he see it, and declare it; he prepared it, yea, and searched it out.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "job-28-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And unto man he said, Behold, the fear of the Lord, that <span class=\"clarity-word\">is</span> wisdom; and to depart from evil <span class=\"clarity-word\">is</span> understanding.",
+      "churchId": "p28"
+    }
+  ]
+}

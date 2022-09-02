@@ -1,0 +1,113 @@
+{
+  "name": "Job 26",
+  "abbrev": "Job 26",
+  "number": "26",
+  "churchUri": "/scriptures/ot/job/26",
+  "paragraphs": [
+    {
+      "slug": "job-26-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 26",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "job-26-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "But Job answered and said,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "job-26-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "How hast thou helped <span class=\"clarity-word\">him that is</span> without power? <span class=\"clarity-word\">how</span> savest thou the arm <span class=\"clarity-word\">that hath</span> no strength?",
+      "churchId": "p2"
+    },
+    {
+      "slug": "job-26-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "How hast thou counselled <span class=\"clarity-word\">him that hath</span> no wisdom? and <span class=\"clarity-word\">how</span> hast thou plentifully declared the thing as it is?",
+      "churchId": "p3"
+    },
+    {
+      "slug": "job-26-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "To whom hast thou uttered words? and whose spirit came from thee?",
+      "churchId": "p4"
+    },
+    {
+      "slug": "job-26-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Dead <span class=\"clarity-word\">things</span> are formed from under the waters, and the inhabitants thereof.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "job-26-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Hell <span class=\"clarity-word\">is</span> naked before him, and destruction hath no covering.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "job-26-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "He stretcheth out the north over the empty place, <span class=\"clarity-word\">and</span> hangeth the earth upon nothing.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "job-26-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "He bindeth up the waters in his thick clouds; and the cloud is not rent under them.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "job-26-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "He holdeth back the face of his throne, <span class=\"clarity-word\">and</span> spreadeth his cloud upon it.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "job-26-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "He hath compassed the waters with bounds, until the day and night come to an end.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "job-26-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "The pillars of heaven tremble and are astonished at his reproof.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "job-26-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "He divideth the sea with his power, and by his understanding he smiteth through the proud.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "job-26-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "By his spirit he hath garnished the heavens; his hand hath formed the crooked serpent.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "job-26-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Lo, these <span class=\"clarity-word\">are</span> parts of his ways: but how little a portion is heard of him? but the thunder of his power who can understand?",
+      "churchId": "p14"
+    }
+  ]
+}

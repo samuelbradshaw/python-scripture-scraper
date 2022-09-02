@@ -1,0 +1,190 @@
+{
+  "name": "1 Timothy 5",
+  "abbrev": "1 Tim. 5",
+  "number": "5",
+  "churchUri": "/scriptures/nt/1-tim/5",
+  "paragraphs": [
+    {
+      "slug": "1-timothy-5-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 5",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "1-timothy-5-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Rebuke not an elder, but entreat <span class=\"clarity-word\">him</span> as a father; <span class=\"clarity-word\">and</span> the younger men as brethren;",
+      "churchId": "p1"
+    },
+    {
+      "slug": "1-timothy-5-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "The elder women as mothers; the younger as sisters, with all purity.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "1-timothy-5-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Honour widows that are widows indeed.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "1-timothy-5-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "But if any widow have children or nephews, let them learn first to shew piety at home, and to requite their parents: for that is good and acceptable before God.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "1-timothy-5-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Now she that is a widow indeed, and desolate, trusteth in God, and continueth in supplications and prayers night and day.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "1-timothy-5-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "But she that liveth in pleasure is dead while she liveth.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "1-timothy-5-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And these things give in charge, that they may be blameless.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "1-timothy-5-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "But if any provide not for his own, and specially for those of his own house, he hath denied the faith, and is worse than an infidel.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "1-timothy-5-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Let not a widow be taken into the number under threescore years old, having been the wife of one man,",
+      "churchId": "p9"
+    },
+    {
+      "slug": "1-timothy-5-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Well reported of for good works; if she have brought up children, if she have lodged strangers, if she have washed the saints’ feet, if she have relieved the afflicted, if she have diligently followed every good work.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "1-timothy-5-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "But the younger widows refuse: for when they have begun to wax wanton against Christ, they will marry;",
+      "churchId": "p11"
+    },
+    {
+      "slug": "1-timothy-5-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Having damnation, because they have cast off their first faith.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "1-timothy-5-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And withal they learn <span class=\"clarity-word\">to be</span> idle, wandering about from house to house; and not only idle, but tattlers also and busybodies, speaking things which they ought not.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "1-timothy-5-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "I will therefore that the younger women marry, bear children, guide the house, give none occasion to the adversary to speak reproachfully.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "1-timothy-5-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "For some are already turned aside after Satan.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "1-timothy-5-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "If any man or woman that believeth have widows, let them relieve them, and let not the church be charged; that it may relieve them that are widows indeed.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "1-timothy-5-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Let the elders that rule well be counted worthy of double honour, especially they who labour in the word and doctrine.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "1-timothy-5-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "For the scripture saith, Thou shalt not muzzle the ox that treadeth out the corn. And, The labourer <span class=\"clarity-word\">is</span> worthy of his reward.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "1-timothy-5-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Against an elder receive not an accusation, but before two or three witnesses.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "1-timothy-5-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Them that sin rebuke before all, that others also may fear.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "1-timothy-5-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "I charge <span class=\"clarity-word\">thee</span> before God, and the Lord Jesus Christ, and the elect angels, that thou observe these things without preferring one before another, doing nothing by partiality.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "1-timothy-5-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Lay hands suddenly on no man, neither be partaker of other men’s sins: keep thyself pure.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "1-timothy-5-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Drink no longer water, but use a little wine for thy stomach’s sake and thine often infirmities.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "1-timothy-5-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Some men’s sins are open beforehand, going before to judgment; and some <span class=\"clarity-word\">men</span> they follow after.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "1-timothy-5-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Likewise also the good works <span class=\"clarity-word\">of some</span> are manifest beforehand; and they that are otherwise cannot be hid.",
+      "churchId": "p25"
+    }
+  ]
+}

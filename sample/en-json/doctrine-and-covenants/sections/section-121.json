@@ -1,0 +1,337 @@
+{
+  "name": "Doctrine and Covenants 121",
+  "abbrev": "D&C 121",
+  "number": "121",
+  "churchUri": "/scriptures/dc-testament/dc/121",
+  "paragraphs": [
+    {
+      "slug": "section-121-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Section 121",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "section-121-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "O God, where art thou? And where is the pavilion that covereth thy hiding place?",
+      "churchId": "p1"
+    },
+    {
+      "slug": "section-121-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "How long shall thy hand be stayed, and thine eye, yea thy pure eye, behold from the eternal heavens the wrongs of thy people and of thy servants, and thine ear be penetrated with their cries?",
+      "churchId": "p2"
+    },
+    {
+      "slug": "section-121-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Yea, O Lord, how long shall they suffer these wrongs and unlawful oppressions, before thine heart shall be softened toward them, and thy bowels be moved with compassion toward them?",
+      "churchId": "p3"
+    },
+    {
+      "slug": "section-121-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "O Lord God Almighty, maker of heaven, earth, and seas, and of all things that in them are, and who controllest and subjectest the devil, and the dark and benighted dominion of Sheol—stretch forth thy hand; let thine eye pierce; let thy pavilion be taken up; let thy hiding place no longer be covered; let thine ear be inclined; let thine heart be softened, and thy bowels moved with compassion toward us.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "section-121-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Let thine anger be kindled against our enemies; and, in the fury of thine heart, with thy sword avenge us of our wrongs.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "section-121-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Remember thy suffering saints, O our God; and thy servants will rejoice in thy name forever.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "section-121-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "My son, peace be unto thy soul; thine adversity and thine afflictions shall be but a small moment;",
+      "churchId": "p7"
+    },
+    {
+      "slug": "section-121-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And then, if thou endure it well, God shall exalt thee on high; thou shalt triumph over all thy foes.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "section-121-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Thy friends do stand by thee, and they shall hail thee again with warm hearts and friendly hands.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "section-121-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Thou art not yet as Job; thy friends do not contend against thee, neither charge thee with transgression, as they did Job.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "section-121-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And they who do charge thee with transgression, their hope shall be blasted, and their prospects shall melt away as the hoar frost melteth before the burning rays of the rising sun;",
+      "churchId": "p11"
+    },
+    {
+      "slug": "section-121-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And also that God hath set his hand and seal to change the times and seasons, and to blind their minds, that they may not understand his marvelous workings; that he may prove them also and take them in their own craftiness;",
+      "churchId": "p12"
+    },
+    {
+      "slug": "section-121-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Also because their hearts are corrupted, and the things which they are willing to bring upon others, and love to have others suffer, may come upon themselves to the very uttermost;",
+      "churchId": "p13"
+    },
+    {
+      "slug": "section-121-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "That they may be disappointed also, and their hopes may be cut off;",
+      "churchId": "p14"
+    },
+    {
+      "slug": "section-121-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And not many years hence, that they and their posterity shall be swept from under heaven, saith God, that not one of them is left to stand by the wall.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "section-121-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Cursed are all those that shall lift up the heel against mine anointed, saith the Lord, and cry they have sinned when they have not sinned before me, saith the Lord, but have done that which was meet in mine eyes, and which I commanded them.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "section-121-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "But those who cry transgression do it because they are the servants of sin, and are the children of disobedience themselves.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "section-121-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And those who swear falsely against my servants, that they might bring them into bondage and death—",
+      "churchId": "p18"
+    },
+    {
+      "slug": "section-121-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Wo unto them; because they have offended my little ones they shall be severed from the ordinances of mine house.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "section-121-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Their basket shall not be full, their houses and their barns shall perish, and they themselves shall be despised by those that flattered them.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "section-121-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "They shall not have right to the priesthood, nor their posterity after them from generation to generation.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "section-121-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "It had been better for them that a millstone had been hanged about their necks, and they drowned in the depth of the sea.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "section-121-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Wo unto all those that discomfort my people, and drive, and murder, and testify against them, saith the Lord of Hosts; a generation of vipers shall not escape the damnation of hell.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "section-121-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Behold, mine eyes see and know all their works, and I have in reserve a swift judgment in the season thereof, for them all;",
+      "churchId": "p24"
+    },
+    {
+      "slug": "section-121-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "For there is a time appointed for every man, according as his works shall be.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "section-121-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "God shall give unto you knowledge by his Holy Spirit, yea, by the unspeakable gift of the Holy Ghost, that has not been revealed since the world was until now;",
+      "churchId": "p26"
+    },
+    {
+      "slug": "section-121-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "Which our forefathers have awaited with anxious expectation to be revealed in the last times, which their minds were pointed to by the angels, as held in reserve for the fulness of their glory;",
+      "churchId": "p27"
+    },
+    {
+      "slug": "section-121-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "A time to come in the which nothing shall be withheld, whether there be one God or many gods, they shall be manifest.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "section-121-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "All thrones and dominions, principalities and powers, shall be revealed and set forth upon all who have endured valiantly for the gospel of Jesus Christ.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "section-121-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And also, if there be bounds set to the heavens or to the seas, or to the dry land, or to the sun, moon, or stars—",
+      "churchId": "p30"
+    },
+    {
+      "slug": "section-121-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "All the times of their revolutions, all the appointed days, months, and years, and all the days of their days, months, and years, and all their glories, laws, and set times, shall be revealed in the days of the dispensation of the fulness of times—",
+      "churchId": "p31"
+    },
+    {
+      "slug": "section-121-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "According to that which was ordained in the midst of the Council of the Eternal God of all other gods before this world was, that should be reserved unto the finishing and the end thereof, when every man shall enter into his eternal presence and into his immortal rest.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "section-121-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "How long can rolling waters remain impure? What power shall stay the heavens? As well might man stretch forth his puny arm to stop the Missouri river in its decreed course, or to turn it up stream, as to hinder the Almighty from pouring down knowledge from heaven upon the heads of the Latter-day Saints.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "section-121-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "Behold, there are many called, but few are chosen. And why are they not chosen?",
+      "churchId": "p34"
+    },
+    {
+      "slug": "section-121-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "Because their hearts are set so much upon the things of this world, and aspire to the honors of men, that they do not learn this one lesson—",
+      "churchId": "p35"
+    },
+    {
+      "slug": "section-121-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "That the rights of the priesthood are inseparably connected with the powers of heaven, and that the powers of heaven cannot be controlled nor handled only upon the principles of righteousness.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "section-121-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "That they may be conferred upon us, it is true; but when we undertake to cover our sins, or to gratify our pride, our vain ambition, or to exercise control or dominion or compulsion upon the souls of the children of men, in any degree of unrighteousness, behold, the heavens withdraw themselves; the Spirit of the Lord is grieved; and when it is withdrawn, Amen to the priesthood or the authority of that man.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "section-121-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "Behold, ere he is aware, he is left unto himself, to kick against the pricks, to persecute the saints, and to fight against God.",
+      "churchId": "p38"
+    },
+    {
+      "slug": "section-121-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "We have learned by sad experience that it is the nature and disposition of almost all men, as soon as they get a little authority, as they suppose, they will immediately begin to exercise unrighteous dominion.",
+      "churchId": "p39"
+    },
+    {
+      "slug": "section-121-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "Hence many are called, but few are chosen.",
+      "churchId": "p40"
+    },
+    {
+      "slug": "section-121-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "No power or influence can or ought to be maintained by virtue of the priesthood, only by persuasion, by long-suffering, by gentleness and meekness, and by love unfeigned;",
+      "churchId": "p41"
+    },
+    {
+      "slug": "section-121-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "By kindness, and pure knowledge, which shall greatly enlarge the soul without hypocrisy, and without guile—",
+      "churchId": "p42"
+    },
+    {
+      "slug": "section-121-p43",
+      "type": "verse",
+      "number": "43",
+      "content": "Reproving betimes with sharpness, when moved upon by the Holy Ghost; and then showing forth afterwards an increase of love toward him whom thou hast reproved, lest he esteem thee to be his enemy;",
+      "churchId": "p43"
+    },
+    {
+      "slug": "section-121-p44",
+      "type": "verse",
+      "number": "44",
+      "content": "That he may know that thy faithfulness is stronger than the cords of death.",
+      "churchId": "p44"
+    },
+    {
+      "slug": "section-121-p45",
+      "type": "verse",
+      "number": "45",
+      "content": "Let thy bowels also be full of charity towards all men, and to the household of faith, and let virtue garnish thy thoughts unceasingly; then shall thy confidence wax strong in the presence of God; and the doctrine of the priesthood shall distil upon thy soul as the dews from heaven.",
+      "churchId": "p45"
+    },
+    {
+      "slug": "section-121-p46",
+      "type": "verse",
+      "number": "46",
+      "content": "The Holy Ghost shall be thy constant companion, and thy scepter an unchanging scepter of righteousness and truth; and thy dominion shall be an everlasting dominion, and without compulsory means it shall flow unto thee forever and ever.",
+      "churchId": "p46"
+    }
+  ]
+}

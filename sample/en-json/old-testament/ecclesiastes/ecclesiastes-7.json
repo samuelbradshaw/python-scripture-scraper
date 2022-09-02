@@ -1,0 +1,218 @@
+{
+  "name": "Ecclesiastes 7",
+  "abbrev": "Eccl. 7",
+  "number": "7",
+  "churchUri": "/scriptures/ot/eccl/7",
+  "paragraphs": [
+    {
+      "slug": "ecclesiastes-7-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 7",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "ecclesiastes-7-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "A good name <span class=\"clarity-word\">is</span> better than precious ointment; and the day of death than the day of one’s birth.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "ecclesiastes-7-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "¶ <span class=\"clarity-word\">It is</span> better to go to the house of mourning, than to go to the house of feasting: for that <span class=\"clarity-word\">is</span> the end of all men; and the living will lay <span class=\"clarity-word\">it</span> to his heart.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "ecclesiastes-7-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Sorrow <span class=\"clarity-word\">is</span> better than laughter: for by the sadness of the countenance the heart is made better.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "ecclesiastes-7-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "The heart of the wise <span class=\"clarity-word\">is</span> in the house of mourning; but the heart of fools <span class=\"clarity-word\">is</span> in the house of mirth.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "ecclesiastes-7-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "<span class=\"clarity-word\">It is</span> better to hear the rebuke of the wise, than for a man to hear the song of fools.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "ecclesiastes-7-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "For as the crackling of thorns under a pot, so <span class=\"clarity-word\">is</span> the laughter of the fool: this also <span class=\"clarity-word\">is</span> vanity.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "ecclesiastes-7-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "¶ Surely oppression maketh a wise man mad; and a gift destroyeth the heart.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "ecclesiastes-7-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Better <span class=\"clarity-word\">is</span> the end of a thing than the beginning thereof: <span class=\"clarity-word\">and</span> the patient in spirit <span class=\"clarity-word\">is</span> better than the proud in spirit.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "ecclesiastes-7-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Be not hasty in thy spirit to be angry: for anger resteth in the bosom of fools.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "ecclesiastes-7-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Say not thou, What is <span class=\"clarity-word\">the cause</span> that the former days were better than these? for thou dost not inquire wisely concerning this.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "ecclesiastes-7-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "¶ Wisdom <span class=\"clarity-word\">is</span> good with an inheritance: and <span class=\"clarity-word\">by it there is</span> profit to them that see the sun.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "ecclesiastes-7-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "For wisdom <span class=\"clarity-word\">is</span> a defence, <span class=\"clarity-word\">and</span> money <span class=\"clarity-word\">is</span> a defence: but the excellency of knowledge <span class=\"clarity-word\">is, that</span> wisdom giveth life to them that have it.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "ecclesiastes-7-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Consider the work of God: for who can make <span class=\"clarity-word\">that</span> straight, which he hath made crooked?",
+      "churchId": "p13"
+    },
+    {
+      "slug": "ecclesiastes-7-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "In the day of prosperity be joyful, but in the day of adversity consider: God also hath set the one over against the other, to the end that man should find nothing after him.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "ecclesiastes-7-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "All <span class=\"clarity-word\">things</span> have I seen in the days of my vanity: there is a just <span class=\"clarity-word\">man</span> that perisheth in his righteousness, and there is a wicked <span class=\"clarity-word\">man</span> that prolongeth <span class=\"clarity-word\">his life</span> in his wickedness.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "ecclesiastes-7-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Be not righteous over much; neither make thyself over wise: why shouldest thou destroy thyself?",
+      "churchId": "p16"
+    },
+    {
+      "slug": "ecclesiastes-7-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Be not over much wicked, neither be thou foolish: why shouldest thou die before thy time?",
+      "churchId": "p17"
+    },
+    {
+      "slug": "ecclesiastes-7-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "<span class=\"clarity-word\">It is</span> good that thou shouldest take hold of this; yea, also from this withdraw not thine hand: for he that feareth God shall come forth of them all.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "ecclesiastes-7-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Wisdom strengtheneth the wise more than ten mighty <span class=\"clarity-word\">men</span> which are in the city.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "ecclesiastes-7-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "For <span class=\"clarity-word\">there is</span> not a just man upon earth, that doeth good, and sinneth not.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "ecclesiastes-7-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Also take no heed unto all words that are spoken; lest thou hear thy servant curse thee:",
+      "churchId": "p21"
+    },
+    {
+      "slug": "ecclesiastes-7-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "For oftentimes also thine own heart knoweth that thou thyself likewise hast cursed others.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "ecclesiastes-7-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "¶ All this have I proved by wisdom: I said, I will be wise; but it <span class=\"clarity-word\">was</span> far from me.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "ecclesiastes-7-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "That which is far off, and exceeding deep, who can find it out?",
+      "churchId": "p24"
+    },
+    {
+      "slug": "ecclesiastes-7-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "I applied mine heart to know, and to search, and to seek out wisdom, and the reason <span class=\"clarity-word\">of things,</span> and to know the wickedness of folly, even of foolishness <span class=\"clarity-word\">and</span> madness:",
+      "churchId": "p25"
+    },
+    {
+      "slug": "ecclesiastes-7-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And I find more bitter than death the woman, whose heart <span class=\"clarity-word\">is</span> snares and nets, <span class=\"clarity-word\">and</span> her hands <span class=\"clarity-word\">as</span> bands: whoso pleaseth God shall escape from her; but the sinner shall be taken by her.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "ecclesiastes-7-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "Behold, this have I found, saith the preacher, <span class=\"clarity-word\">counting</span> one by one, to find out the account:",
+      "churchId": "p27"
+    },
+    {
+      "slug": "ecclesiastes-7-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "Which yet my soul seeketh, but I find not: one man among a thousand have I found; but a woman among all those have I not found.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "ecclesiastes-7-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "Lo, this only have I found, that God hath made man upright; but they have sought out many inventions.",
+      "churchId": "p29"
+    }
+  ]
+}

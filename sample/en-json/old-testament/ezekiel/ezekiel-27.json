@@ -1,0 +1,267 @@
+{
+  "name": "Ezekiel 27",
+  "abbrev": "Ezek. 27",
+  "number": "27",
+  "churchUri": "/scriptures/ot/ezek/27",
+  "paragraphs": [
+    {
+      "slug": "ezekiel-27-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 27",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "ezekiel-27-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "The word of the <span class=\"small-caps\">Lord</span> came again unto me, saying,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "ezekiel-27-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Now, thou son of man, take up a lamentation for Tyrus;",
+      "churchId": "p2"
+    },
+    {
+      "slug": "ezekiel-27-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And say unto Tyrus, O thou that art situate at the entry of the sea, <span class=\"clarity-word\">which art</span> a merchant of the people for many isles, Thus saith the Lord <span class=\"small-caps\">God</span>; O Tyrus, thou hast said, I <span class=\"clarity-word\">am</span> of perfect beauty.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "ezekiel-27-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Thy borders <span class=\"clarity-word\">are</span> in the midst of the seas, thy builders have perfected thy beauty.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "ezekiel-27-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "They have made all thy <span class=\"clarity-word\">ship</span> boards of fir trees of Senir: they have taken cedars from Lebanon to make masts for thee.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "ezekiel-27-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "<span class=\"clarity-word\">Of</span> the oaks of Bashan have they made thine oars; the company of the Ashurites have made thy benches <span class=\"clarity-word\">of</span> ivory, <span class=\"clarity-word\">brought</span> out of the isles of Chittim.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "ezekiel-27-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Fine linen with broidered work from Egypt was that which thou spreadest forth to be thy sail; blue and purple from the isles of Elishah was that which covered thee.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "ezekiel-27-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "The inhabitants of Zidon and Arvad were thy mariners: thy wise <span class=\"clarity-word\">men,</span> O Tyrus, <span class=\"clarity-word\">that</span> were in thee, were thy pilots.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "ezekiel-27-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "The ancients of Gebal and the wise <span class=\"clarity-word\">men</span> thereof were in thee thy calkers: all the ships of the sea with their mariners were in thee to occupy thy merchandise.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "ezekiel-27-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "They of Persia and of Lud and of Phut were in thine army, thy men of war: they hanged the shield and helmet in thee; they set forth thy comeliness.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "ezekiel-27-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "The men of Arvad with thine army <span class=\"clarity-word\">were</span> upon thy walls round about, and the Gammadims were in thy towers: they hanged their shields upon thy walls round about; they have made thy beauty perfect.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "ezekiel-27-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Tarshish <span class=\"clarity-word\">was</span> thy merchant by reason of the multitude of all <span class=\"clarity-word\">kind of</span> riches; with silver, iron, tin, and lead, they traded in thy fairs.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "ezekiel-27-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Javan, Tubal, and Meshech, they <span class=\"clarity-word\">were</span> thy merchants: they traded the persons of men and vessels of brass in thy market.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "ezekiel-27-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "They of the house of Togarmah traded in thy fairs with horses and horsemen and mules.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "ezekiel-27-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "The men of Dedan <span class=\"clarity-word\">were</span> thy merchants; many isles <span class=\"clarity-word\">were</span> the merchandise of thine hand: they brought thee <span class=\"clarity-word\">for</span> a present horns of ivory and ebony.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "ezekiel-27-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Syria <span class=\"clarity-word\">was</span> thy merchant by reason of the multitude of the wares of thy making: they occupied in thy fairs with emeralds, purple, and broidered work, and fine linen, and coral, and agate.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "ezekiel-27-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Judah, and the land of Israel, they <span class=\"clarity-word\">were</span> thy merchants: they traded in thy market wheat of Minnith, and Pannag, and honey, and oil, and balm.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "ezekiel-27-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Damascus <span class=\"clarity-word\">was</span> thy merchant in the multitude of the wares of thy making, for the multitude of all riches; in the wine of Helbon, and white wool.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "ezekiel-27-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Dan also and Javan going to and fro occupied in thy fairs: bright iron, cassia, and calamus, were in thy market.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "ezekiel-27-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Dedan <span class=\"clarity-word\">was</span> thy merchant in precious clothes for chariots.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "ezekiel-27-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Arabia, and all the princes of Kedar, they occupied with thee in lambs, and rams, and goats: in these <span class=\"clarity-word\">were they</span> thy merchants.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "ezekiel-27-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "The merchants of Sheba and Raamah, they <span class=\"clarity-word\">were</span> thy merchants: they occupied in thy fairs with chief of all spices, and with all precious stones, and gold.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "ezekiel-27-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Haran, and Canneh, and Eden, the merchants of Sheba, Asshur, <span class=\"clarity-word\">and</span> Chilmad, <span class=\"clarity-word\">were</span> thy merchants.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "ezekiel-27-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "These <span class=\"clarity-word\">were</span> thy merchants in all sorts <span class=\"clarity-word\">of things,</span> in blue clothes, and broidered work, and in chests of rich apparel, bound with cords, and made of cedar, among thy merchandise.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "ezekiel-27-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "The ships of Tarshish did sing of thee in thy market: and thou wast replenished, and made very glorious in the midst of the seas.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "ezekiel-27-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "¶ Thy rowers have brought thee into great waters: the east wind hath broken thee in the midst of the seas.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "ezekiel-27-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "Thy riches, and thy fairs, thy merchandise, thy mariners, and thy pilots, thy calkers, and the occupiers of thy merchandise, and all thy men of war, that <span class=\"clarity-word\">are</span> in thee, and in all thy company which <span class=\"clarity-word\">is</span> in the midst of thee, shall fall into the midst of the seas in the day of thy ruin.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "ezekiel-27-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "The suburbs shall shake at the sound of the cry of thy pilots.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "ezekiel-27-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "And all that handle the oar, the mariners, <span class=\"clarity-word\">and</span> all the pilots of the sea, shall come down from their ships, they shall stand upon the land;",
+      "churchId": "p29"
+    },
+    {
+      "slug": "ezekiel-27-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And shall cause their voice to be heard against thee, and shall cry bitterly, and shall cast up dust upon their heads, they shall wallow themselves in the ashes:",
+      "churchId": "p30"
+    },
+    {
+      "slug": "ezekiel-27-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "And they shall make themselves utterly bald for thee, and gird them with sackcloth, and they shall weep for thee with bitterness of heart <span class=\"clarity-word\">and</span> bitter wailing.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "ezekiel-27-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "And in their wailing they shall take up a lamentation for thee, and lament over thee, <span class=\"clarity-word\">saying,</span> What <span class=\"clarity-word\">city is</span> like Tyrus, like the destroyed in the midst of the sea?",
+      "churchId": "p32"
+    },
+    {
+      "slug": "ezekiel-27-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "When thy wares went forth out of the seas, thou filledst many people; thou didst enrich the kings of the earth with the multitude of thy riches and of thy merchandise.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "ezekiel-27-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "In the time <span class=\"clarity-word\">when</span> thou shalt be broken by the seas in the depths of the waters thy merchandise and all thy company in the midst of thee shall fall.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "ezekiel-27-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "All the inhabitants of the isles shall be astonished at thee, and their kings shall be sore afraid, they shall be troubled in <span class=\"clarity-word\">their</span> countenance.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "ezekiel-27-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "The merchants among the people shall hiss at thee; thou shalt be a terror, and never <span class=\"clarity-word\">shalt be</span> any more.",
+      "churchId": "p36"
+    }
+  ]
+}

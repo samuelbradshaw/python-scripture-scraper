@@ -1,0 +1,232 @@
+{
+  "name": "John 14",
+  "abbrev": "John 14",
+  "number": "14",
+  "churchUri": "/scriptures/nt/john/14",
+  "paragraphs": [
+    {
+      "slug": "john-14-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 14",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "john-14-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Let not your heart be troubled: ye believe in God, believe also in me.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "john-14-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "In my Father’s house are many mansions: if <span class=\"clarity-word\">it were</span> not <span class=\"clarity-word\">so,</span> I would have told you. I go to prepare a place for you.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "john-14-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And if I go and prepare a place for you, I will come again, and receive you unto myself; that where I am, <span class=\"clarity-word\">there</span> ye may be also.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "john-14-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And whither I go ye know, and the way ye know.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "john-14-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Thomas saith unto him, Lord, we know not whither thou goest; and how can we know the way?",
+      "churchId": "p5"
+    },
+    {
+      "slug": "john-14-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "john-14-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "If ye had known me, ye should have known my Father also: and from henceforth ye know him, and have seen him.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "john-14-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Philip saith unto him, Lord, shew us the Father, and it sufficeth us.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "john-14-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Jesus saith unto him, Have I been so long time with you, and yet hast thou not known me, Philip? he that hath seen me hath seen the Father; and how sayest thou <span class=\"clarity-word\">then,</span> Shew us the Father?",
+      "churchId": "p9"
+    },
+    {
+      "slug": "john-14-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Believest thou not that I am in the Father, and the Father in me? the words that I speak unto you I speak not of myself: but the Father that dwelleth in me, he doeth the works.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "john-14-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Believe me that I <span class=\"clarity-word\">am</span> in the Father, and the Father in me: or else believe me for the very works’ sake.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "john-14-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Verily, verily, I say unto you, He that believeth on me, the works that I do shall he do also; and greater <span class=\"clarity-word\">works</span> than these shall he do; because I go unto my Father.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "john-14-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And whatsoever ye shall ask in my name, that will I do, that the Father may be glorified in the Son.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "john-14-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "If ye shall ask any thing in my name, I will do <span class=\"clarity-word\">it.</span>",
+      "churchId": "p14"
+    },
+    {
+      "slug": "john-14-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "¶ If ye love me, keep my commandments.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "john-14-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And I will pray the Father, and he shall give you another Comforter, that he may abide with you for ever;",
+      "churchId": "p16"
+    },
+    {
+      "slug": "john-14-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "<span class=\"clarity-word\">Even</span> the Spirit of truth; whom the world cannot receive, because it seeth him not, neither knoweth him: but ye know him; for he dwelleth with you, and shall be in you.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "john-14-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "I will not leave you comfortless: I will come to you.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "john-14-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Yet a little while, and the world seeth me no more; but ye see me: because I live, ye shall live also.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "john-14-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "At that day ye shall know that I <span class=\"clarity-word\">am</span> in my Father, and ye in me, and I in you.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "john-14-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "He that hath my commandments, and keepeth them, he it is that loveth me: and he that loveth me shall be loved of my Father, and I will love him, and will manifest myself to him.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "john-14-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Judas saith unto him, not Iscariot, Lord, how is it that thou wilt manifest thyself unto us, and not unto the world?",
+      "churchId": "p22"
+    },
+    {
+      "slug": "john-14-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Jesus answered and said unto him, If a man love me, he will keep my words: and my Father will love him, and we will come unto him, and make our abode with him.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "john-14-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "He that loveth me not keepeth not my sayings: and the word which ye hear is not mine, but the Father’s which sent me.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "john-14-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "These things have I spoken unto you, being <span class=\"clarity-word\">yet</span> present with you.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "john-14-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "But the Comforter, <span class=\"clarity-word\">which is</span> the Holy Ghost, whom the Father will send in my name, he shall teach you all things, and bring all things to your remembrance, whatsoever I have said unto you.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "john-14-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "Peace I leave with you, my peace I give unto you: not as the world giveth, give I unto you. Let not your heart be troubled, neither let it be afraid.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "john-14-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "Ye have heard how I said unto you, I go away, and come <span class=\"clarity-word\">again</span> unto you. If ye loved me, ye would rejoice, because I said, I go unto the Father: for my Father is greater than I.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "john-14-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "And now I have told you before it come to pass, that, when it is come to pass, ye might believe.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "john-14-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "Hereafter I will not talk much with you: for the prince of this world cometh, and hath nothing in me.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "john-14-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "But that the world may know that I love the Father; and as the Father gave me commandment, even so I do. Arise, let us go hence.",
+      "churchId": "p31"
+    }
+  ]
+}

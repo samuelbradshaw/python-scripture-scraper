@@ -1,0 +1,323 @@
+{
+  "name": "1 Samuel 25",
+  "abbrev": "1 Sam. 25",
+  "number": "25",
+  "churchUri": "/scriptures/ot/1-sam/25",
+  "paragraphs": [
+    {
+      "slug": "1-samuel-25-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 25",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "1-samuel-25-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And Samuel died; and all the Israelites were gathered together, and lamented him, and buried him in his house at Ramah. And David arose, and went down to the wilderness of Paran.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "1-samuel-25-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And <span class=\"clarity-word\">there was</span> a man in Maon, whose possessions <span class=\"clarity-word\">were</span> in Carmel; and the man <span class=\"clarity-word\">was</span> very great, and he had three thousand sheep, and a thousand goats: and he was shearing his sheep in Carmel.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "1-samuel-25-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Now the name of the man <span class=\"clarity-word\">was</span> Nabal; and the name of his wife Abigail: and <span class=\"clarity-word\">she was</span> a woman of good understanding, and of a beautiful countenance: but the man <span class=\"clarity-word\">was</span> churlish and evil in his doings; and he <span class=\"clarity-word\">was</span> of the house of Caleb.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "1-samuel-25-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "¶ And David heard in the wilderness that Nabal did shear his sheep.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "1-samuel-25-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And David sent out ten young men, and David said unto the young men, Get you up to Carmel, and go to Nabal, and greet him in my name:",
+      "churchId": "p5"
+    },
+    {
+      "slug": "1-samuel-25-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And thus shall ye say to him that liveth <span class=\"clarity-word\">in prosperity,</span> Peace <span class=\"clarity-word\">be</span> both to thee, and peace <span class=\"clarity-word\">be</span> to thine house, and peace <span class=\"clarity-word\">be</span> unto all that thou hast.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "1-samuel-25-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And now I have heard that thou hast shearers: now thy shepherds which were with us, we hurt them not, neither was there ought missing unto them, all the while they were in Carmel.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "1-samuel-25-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Ask thy young men, and they will shew thee. Wherefore let the young men find favour in thine eyes: for we come in a good day: give, I pray thee, whatsoever cometh to thine hand unto thy servants, and to thy son David.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "1-samuel-25-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And when David’s young men came, they spake to Nabal according to all those words in the name of David, and ceased.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "1-samuel-25-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "¶ And Nabal answered David’s servants, and said, Who <span class=\"clarity-word\">is</span> David? and who <span class=\"clarity-word\">is</span> the son of Jesse? there be many servants now a days that break away every man from his master.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "1-samuel-25-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Shall I then take my bread, and my water, and my flesh that I have killed for my shearers, and give <span class=\"clarity-word\">it</span> unto men, whom I know not whence they <span class=\"clarity-word\">be?</span>",
+      "churchId": "p11"
+    },
+    {
+      "slug": "1-samuel-25-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "So David’s young men turned their way, and went again, and came and told him all those sayings.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "1-samuel-25-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And David said unto his men, Gird ye on every man his sword. And they girded on every man his sword; and David also girded on his sword: and there went up after David about four hundred men; and two hundred abode by the stuff.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "1-samuel-25-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "¶ But one of the young men told Abigail, Nabal’s wife, saying, Behold, David sent messengers out of the wilderness to salute our master; and he railed on them.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "1-samuel-25-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "But the men <span class=\"clarity-word\">were</span> very good unto us, and we were not hurt, neither missed we any thing, as long as we were conversant with them, when we were in the fields:",
+      "churchId": "p15"
+    },
+    {
+      "slug": "1-samuel-25-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "They were a wall unto us both by night and day, all the while we were with them keeping the sheep.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "1-samuel-25-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Now therefore know and consider what thou wilt do; for evil is determined against our master, and against all his household: for he <span class=\"clarity-word\">is such</span> a son of Belial, that <span class=\"clarity-word\">a man</span> cannot speak to him.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "1-samuel-25-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "¶ Then Abigail made haste, and took two hundred loaves, and two bottles of wine, and five sheep ready dressed, and five measures of parched <span class=\"clarity-word\">corn,</span> and an hundred clusters of raisins, and two hundred cakes of figs, and laid <span class=\"clarity-word\">them</span> on asses.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "1-samuel-25-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And she said unto her servants, Go on before me; behold, I come after you. But she told not her husband Nabal.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "1-samuel-25-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And it was <span class=\"clarity-word\">so, as</span> she rode on the ass, that she came down by the covert of the hill, and, behold, David and his men came down against her; and she met them.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "1-samuel-25-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Now David had said, Surely in vain have I kept all that this <span class=\"clarity-word\">fellow</span> hath in the wilderness, so that nothing was missed of all that <span class=\"clarity-word\">pertained</span> unto him: and he hath requited me evil for good.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "1-samuel-25-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "So and more also do God unto the enemies of David, if I leave of all that <span class=\"clarity-word\">pertain</span> to him by the morning light any that pisseth against the wall.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "1-samuel-25-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And when Abigail saw David, she hasted, and lighted off the ass, and fell before David on her face, and bowed herself to the ground,",
+      "churchId": "p23"
+    },
+    {
+      "slug": "1-samuel-25-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And fell at his feet, and said, Upon me, my lord, <span class=\"clarity-word\">upon</span> me <span class=\"clarity-word\">let this</span> iniquity <span class=\"clarity-word\">be:</span> and let thine handmaid, I pray thee, speak in thine audience, and hear the words of thine handmaid.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "1-samuel-25-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Let not my lord, I pray thee, regard this man of Belial, <span class=\"clarity-word\">even</span> Nabal: for as his name <span class=\"clarity-word\">is,</span> so <span class=\"clarity-word\">is</span> he; Nabal <span class=\"clarity-word\">is</span> his name, and folly <span class=\"clarity-word\">is</span> with him: but I thine handmaid saw not the young men of my lord, whom thou didst send.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "1-samuel-25-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "Now therefore, my lord, <span class=\"clarity-word\">as</span> the <span class=\"small-caps\">Lord</span> liveth, and <span class=\"clarity-word\">as</span> thy soul liveth, seeing the <span class=\"small-caps\">Lord</span> hath withholden thee from coming to <span class=\"clarity-word\">shed</span> blood, and from avenging thyself with thine own hand, now let thine enemies, and they that seek evil to my lord, be as Nabal.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "1-samuel-25-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And now this blessing which thine handmaid hath brought unto my lord, let it even be given unto the young men that follow my lord.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "1-samuel-25-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "I pray thee, forgive the trespass of thine handmaid: for the <span class=\"small-caps\">Lord</span> will certainly make my lord a sure house; because my lord fighteth the battles of the <span class=\"small-caps\">Lord</span>, and evil hath not been found in thee <span class=\"clarity-word\">all</span> thy days.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "1-samuel-25-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "Yet a man is risen to pursue thee, and to seek thy soul: but the soul of my lord shall be bound in the bundle of life with the <span class=\"small-caps\">Lord</span> thy God; and the souls of thine enemies, them shall he sling out, <span class=\"clarity-word\">as out</span> of the middle of a sling.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "1-samuel-25-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And it shall come to pass, when the <span class=\"small-caps\">Lord</span> shall have done to my lord according to all the good that he hath spoken concerning thee, and shall have appointed thee ruler over Israel;",
+      "churchId": "p30"
+    },
+    {
+      "slug": "1-samuel-25-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "That this shall be no grief unto thee, nor offence of heart unto my lord, either that thou hast shed blood causeless, or that my lord hath avenged himself: but when the <span class=\"small-caps\">Lord</span> shall have dealt well with my lord, then remember thine handmaid.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "1-samuel-25-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "¶ And David said to Abigail, Blessed <span class=\"clarity-word\">be</span> the <span class=\"small-caps\">Lord</span> God of Israel, which sent thee this day to meet me:",
+      "churchId": "p32"
+    },
+    {
+      "slug": "1-samuel-25-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "And blessed <span class=\"clarity-word\">be</span> thy advice, and blessed <span class=\"clarity-word\">be</span> thou, which hast kept me this day from coming to <span class=\"clarity-word\">shed</span> blood, and from avenging myself with mine own hand.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "1-samuel-25-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "For in very deed, <span class=\"clarity-word\">as</span> the <span class=\"small-caps\">Lord</span> God of Israel liveth, which hath kept me back from hurting thee, except thou hadst hasted and come to meet me, surely there had not been left unto Nabal by the morning light any that pisseth against the wall.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "1-samuel-25-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "So David received of her hand <span class=\"clarity-word\">that</span> which she had brought him, and said unto her, Go up in peace to thine house; see, I have hearkened to thy voice, and have accepted thy person.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "1-samuel-25-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "¶ And Abigail came to Nabal; and, behold, he held a feast in his house, like the feast of a king; and Nabal’s heart <span class=\"clarity-word\">was</span> merry within him, for he <span class=\"clarity-word\">was</span> very drunken: wherefore she told him nothing, less or more, until the morning light.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "1-samuel-25-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "But it came to pass in the morning, when the wine was gone out of Nabal, and his wife had told him these things, that his heart died within him, and he became <span class=\"clarity-word\">as</span> a stone.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "1-samuel-25-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "And it came to pass about ten days <span class=\"clarity-word\">after,</span> that the <span class=\"small-caps\">Lord</span> smote Nabal, that he died.",
+      "churchId": "p38"
+    },
+    {
+      "slug": "1-samuel-25-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "¶ And when David heard that Nabal was dead, he said, Blessed <span class=\"clarity-word\">be</span> the <span class=\"small-caps\">Lord</span>, that hath pleaded the cause of my reproach from the hand of Nabal, and hath kept his servant from evil: for the <span class=\"small-caps\">Lord</span> hath returned the wickedness of Nabal upon his own head. And David sent and communed with Abigail, to take her to him to wife.",
+      "churchId": "p39"
+    },
+    {
+      "slug": "1-samuel-25-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "And when the servants of David were come to Abigail to Carmel, they spake unto her, saying, David sent us unto thee, to take thee to him to wife.",
+      "churchId": "p40"
+    },
+    {
+      "slug": "1-samuel-25-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "And she arose, and bowed herself on <span class=\"clarity-word\">her</span> face to the earth, and said, Behold, <span class=\"clarity-word\">let</span> thine handmaid <span class=\"clarity-word\">be</span> a servant to wash the feet of the servants of my lord.",
+      "churchId": "p41"
+    },
+    {
+      "slug": "1-samuel-25-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "And Abigail hasted, and arose, and rode upon an ass, with five damsels of hers that went after her; and she went after the messengers of David, and became his wife.",
+      "churchId": "p42"
+    },
+    {
+      "slug": "1-samuel-25-p43",
+      "type": "verse",
+      "number": "43",
+      "content": "David also took Ahinoam of Jezreel; and they were also both of them his wives.",
+      "churchId": "p43"
+    },
+    {
+      "slug": "1-samuel-25-p44",
+      "type": "verse",
+      "number": "44",
+      "content": "¶ But Saul had given Michal his daughter, David’s wife, to Phalti the son of Laish, which <span class=\"clarity-word\">was</span> of Gallim.",
+      "churchId": "p44"
+    }
+  ]
+}

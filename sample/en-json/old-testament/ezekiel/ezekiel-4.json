@@ -1,0 +1,134 @@
+{
+  "name": "Ezekiel 4",
+  "abbrev": "Ezek. 4",
+  "number": "4",
+  "churchUri": "/scriptures/ot/ezek/4",
+  "paragraphs": [
+    {
+      "slug": "ezekiel-4-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 4",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "ezekiel-4-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Thou also, son of man, take thee a tile, and lay it before thee, and portray upon it the city, <span class=\"clarity-word\">even</span> Jerusalem:",
+      "churchId": "p1"
+    },
+    {
+      "slug": "ezekiel-4-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And lay siege against it, and build a fort against it, and cast a mount against it; set the camp also against it, and set <span class=\"clarity-word\">battering</span> rams against it round about.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "ezekiel-4-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Moreover take thou unto thee an iron pan, and set it <span class=\"clarity-word\">for</span> a wall of iron between thee and the city: and set thy face against it, and it shall be besieged, and thou shalt lay siege against it. This <span class=\"clarity-word\">shall be</span> a sign to the house of Israel.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "ezekiel-4-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Lie thou also upon thy left side, and lay the iniquity of the house of Israel upon it: <span class=\"clarity-word\">according</span> to the number of the days that thou shalt lie upon it thou shalt bear their iniquity.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "ezekiel-4-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "For I have laid upon thee the years of their iniquity, according to the number of the days, three hundred and ninety days: so shalt thou bear the iniquity of the house of Israel.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "ezekiel-4-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And when thou hast accomplished them, lie again on thy right side, and thou shalt bear the iniquity of the house of Judah forty days: I have appointed thee each day for a year.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "ezekiel-4-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Therefore thou shalt set thy face toward the siege of Jerusalem, and thine arm <span class=\"clarity-word\">shall be</span> uncovered, and thou shalt prophesy against it.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "ezekiel-4-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And, behold, I will lay bands upon thee, and thou shalt not turn thee from one side to another, till thou hast ended the days of thy siege.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "ezekiel-4-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "¶ Take thou also unto thee wheat, and barley, and beans, and lentiles, and millet, and fitches, and put them in one vessel, and make thee bread thereof, <span class=\"clarity-word\">according</span> to the number of the days that thou shalt lie upon thy side, three hundred and ninety days shalt thou eat thereof.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "ezekiel-4-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And thy meat which thou shalt eat <span class=\"clarity-word\">shall be</span> by weight, twenty shekels a day: from time to time shalt thou eat it.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "ezekiel-4-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Thou shalt drink also water by measure, the sixth part of an hin: from time to time shalt thou drink.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "ezekiel-4-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And thou shalt eat it <span class=\"clarity-word\">as</span> barley cakes, and thou shalt bake it with dung that cometh out of man, in their sight.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "ezekiel-4-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And the <span class=\"small-caps\">Lord</span> said, Even thus shall the children of Israel eat their defiled bread among the Gentiles, whither I will drive them.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "ezekiel-4-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Then said I, Ah Lord <span class=\"small-caps\">God</span>! behold, my soul hath not been polluted: for from my youth up even till now have I not eaten of that which dieth of itself, or is torn in pieces; neither came there abominable flesh into my mouth.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "ezekiel-4-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Then he said unto me, Lo, I have given thee cow’s dung for man’s dung, and thou shalt prepare thy bread therewith.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "ezekiel-4-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Moreover he said unto me, Son of man, behold, I will break the staff of bread in Jerusalem: and they shall eat bread by weight, and with care; and they shall drink water by measure, and with astonishment:",
+      "churchId": "p16"
+    },
+    {
+      "slug": "ezekiel-4-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "That they may want bread and water, and be astonied one with another, and consume away for their iniquity.",
+      "churchId": "p17"
+    }
+  ]
+}

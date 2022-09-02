@@ -1,0 +1,134 @@
+{
+  "name": "Revelation 12",
+  "abbrev": "Rev. 12",
+  "number": "12",
+  "churchUri": "/scriptures/nt/rev/12",
+  "paragraphs": [
+    {
+      "slug": "revelation-12-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 12",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "revelation-12-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And there appeared a great wonder in heaven; a woman clothed with the sun, and the moon under her feet, and upon her head a crown of twelve stars:",
+      "churchId": "p1"
+    },
+    {
+      "slug": "revelation-12-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And she being with child cried, travailing in birth, and pained to be delivered.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "revelation-12-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And there appeared another wonder in heaven; and behold a great red dragon, having seven heads and ten horns, and seven crowns upon his heads.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "revelation-12-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And his tail drew the third part of the stars of heaven, and did cast them to the earth: and the dragon stood before the woman which was ready to be delivered, for to devour her child as soon as it was born.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "revelation-12-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And she brought forth a man child, who was to rule all nations with a rod of iron: and her child was caught up unto God, and <span class=\"clarity-word\">to</span> his throne.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "revelation-12-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And the woman fled into the wilderness, where she hath a place prepared of God, that they should feed her there a thousand two hundred <span class=\"clarity-word\">and</span> threescore days.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "revelation-12-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And there was war in heaven: Michael and his angels fought against the dragon; and the dragon fought and his angels,",
+      "churchId": "p7"
+    },
+    {
+      "slug": "revelation-12-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And prevailed not; neither was their place found any more in heaven.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "revelation-12-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And the great dragon was cast out, that old serpent, called the Devil, and Satan, which deceiveth the whole world: he was cast out into the earth, and his angels were cast out with him.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "revelation-12-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And I heard a loud voice saying in heaven, Now is come salvation, and strength, and the kingdom of our God, and the power of his Christ: for the accuser of our brethren is cast down, which accused them before our God day and night.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "revelation-12-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And they overcame him by the blood of the Lamb, and by the word of their testimony; and they loved not their lives unto the death.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "revelation-12-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Therefore rejoice, <span class=\"clarity-word\">ye</span> heavens, and ye that dwell in them. Woe to the inhabiters of the earth and of the sea! for the devil is come down unto you, having great wrath, because he knoweth that he hath but a short time.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "revelation-12-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And when the dragon saw that he was cast unto the earth, he persecuted the woman which brought forth the man <span class=\"clarity-word\">child.</span>",
+      "churchId": "p13"
+    },
+    {
+      "slug": "revelation-12-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And to the woman were given two wings of a great eagle, that she might fly into the wilderness, into her place, where she is nourished for a time, and times, and half a time, from the face of the serpent.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "revelation-12-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And the serpent cast out of his mouth water as a flood after the woman, that he might cause her to be carried away of the flood.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "revelation-12-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And the earth helped the woman, and the earth opened her mouth, and swallowed up the flood which the dragon cast out of his mouth.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "revelation-12-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And the dragon was wroth with the woman, and went to make war with the remnant of her seed, which keep the commandments of God, and have the testimony of Jesus Christ.",
+      "churchId": "p17"
+    }
+  ]
+}

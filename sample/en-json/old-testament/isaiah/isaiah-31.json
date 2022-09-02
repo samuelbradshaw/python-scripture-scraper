@@ -1,0 +1,78 @@
+{
+  "name": "Isaiah 31",
+  "abbrev": "Isa. 31",
+  "number": "31",
+  "churchUri": "/scriptures/ot/isa/31",
+  "paragraphs": [
+    {
+      "slug": "isaiah-31-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 31",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "isaiah-31-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Woe to them that go down to Egypt for help; and stay on horses, and trust in chariots, because <span class=\"clarity-word\">they are</span> many; and in horsemen, because they are very strong; but they look not unto the Holy One of Israel, neither seek the <span class=\"small-caps\">Lord</span>!",
+      "churchId": "p1"
+    },
+    {
+      "slug": "isaiah-31-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Yet he also <span class=\"clarity-word\">is</span> wise, and will bring evil, and will not call back his words: but will arise against the house of the evildoers, and against the help of them that work iniquity.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "isaiah-31-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Now the Egyptians <span class=\"clarity-word\">are</span> men, and not God; and their horses flesh, and not spirit. When the <span class=\"small-caps\">Lord</span> shall stretch out his hand, both he that helpeth shall fall, and he that is holpen shall fall down, and they all shall fail together.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "isaiah-31-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "For thus hath the <span class=\"small-caps\">Lord</span> spoken unto me, Like as the lion and the young lion roaring on his prey, when a multitude of shepherds is called forth against him, <span class=\"clarity-word\">he</span> will not be afraid of their voice, nor abase himself for the noise of them: so shall the <span class=\"small-caps\">Lord</span> of hosts come down to fight for mount Zion, and for the hill thereof.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "isaiah-31-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "As birds flying, so will the <span class=\"small-caps\">Lord</span> of hosts defend Jerusalem; defending also he will deliver <span class=\"clarity-word\">it; and</span> passing over he will preserve <span class=\"clarity-word\">it.</span>",
+      "churchId": "p5"
+    },
+    {
+      "slug": "isaiah-31-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "¶ Turn ye unto <span class=\"clarity-word\">him from</span> whom the children of Israel have deeply revolted.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "isaiah-31-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "For in that day every man shall cast away his idols of silver, and his idols of gold, which your own hands have made unto you <span class=\"clarity-word\">for</span> a sin.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "isaiah-31-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "¶ Then shall the Assyrian fall with the sword, not of a mighty man; and the sword, not of a mean man, shall devour him: but he shall flee from the sword, and his young men shall be discomfited.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "isaiah-31-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And he shall pass over to his strong hold for fear, and his princes shall be afraid of the ensign, saith the <span class=\"small-caps\">Lord</span>, whose fire <span class=\"clarity-word\">is</span> in Zion, and his furnace in Jerusalem.",
+      "churchId": "p9"
+    }
+  ]
+}

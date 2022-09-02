@@ -1,0 +1,99 @@
+{
+  "name": "1 Samuel 27",
+  "abbrev": "1 Sam. 27",
+  "number": "27",
+  "churchUri": "/scriptures/ot/1-sam/27",
+  "paragraphs": [
+    {
+      "slug": "1-samuel-27-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 27",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "1-samuel-27-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And David said in his heart, I shall now perish one day by the hand of Saul: <span class=\"clarity-word\">there is</span> nothing better for me than that I should speedily escape into the land of the Philistines; and Saul shall despair of me, to seek me any more in any coast of Israel: so shall I escape out of his hand.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "1-samuel-27-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And David arose, and he passed over with the six hundred men that <span class=\"clarity-word\">were</span> with him unto Achish, the son of Maoch, king of Gath.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "1-samuel-27-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And David dwelt with Achish at Gath, he and his men, every man with his household, <span class=\"clarity-word\">even</span> David with his two wives, Ahinoam the Jezreelitess, and Abigail the Carmelitess, Nabal’s wife.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "1-samuel-27-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And it was told Saul that David was fled to Gath: and he sought no more again for him.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "1-samuel-27-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "¶ And David said unto Achish, If I have now found grace in thine eyes, let them give me a place in some town in the country, that I may dwell there: for why should thy servant dwell in the royal city with thee?",
+      "churchId": "p5"
+    },
+    {
+      "slug": "1-samuel-27-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Then Achish gave him Ziklag that day: wherefore Ziklag pertaineth unto the kings of Judah unto this day.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "1-samuel-27-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And the time that David dwelt in the country of the Philistines was a full year and four months.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "1-samuel-27-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "¶ And David and his men went up, and invaded the Geshurites, and the Gezrites, and the Amalekites: for those <span class=\"clarity-word\">nations were</span> of old the inhabitants of the land, as thou goest to Shur, even unto the land of Egypt.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "1-samuel-27-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And David smote the land, and left neither man nor woman alive, and took away the sheep, and the oxen, and the asses, and the camels, and the apparel, and returned, and came to Achish.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "1-samuel-27-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And Achish said, Whither have ye made a road to day? And David said, Against the south of Judah, and against the south of the Jerahmeelites, and against the south of the Kenites.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "1-samuel-27-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And David saved neither man nor woman alive, to bring <span class=\"clarity-word\">tidings</span> to Gath, saying, Lest they should tell on us, saying, So did David, and so <span class=\"clarity-word\">will be</span> his manner all the while he dwelleth in the country of the Philistines.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "1-samuel-27-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And Achish believed David, saying, He hath made his people Israel utterly to abhor him; therefore he shall be my servant for ever.",
+      "churchId": "p12"
+    }
+  ]
+}

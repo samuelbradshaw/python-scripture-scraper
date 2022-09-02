@@ -1,0 +1,260 @@
+{
+  "name": "Proverbs 23",
+  "abbrev": "Prov. 23",
+  "number": "23",
+  "churchUri": "/scriptures/ot/prov/23",
+  "paragraphs": [
+    {
+      "slug": "proverbs-23-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 23",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "proverbs-23-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "When thou sittest to eat with a ruler, consider diligently what <span class=\"clarity-word\">is</span> before thee:",
+      "churchId": "p1"
+    },
+    {
+      "slug": "proverbs-23-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And put a knife to thy throat, if thou <span class=\"clarity-word\">be</span> a man given to appetite.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "proverbs-23-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Be not desirous of his dainties: for they <span class=\"clarity-word\">are</span> deceitful meat.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "proverbs-23-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Labour not to be rich: cease from thine own wisdom.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "proverbs-23-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Wilt thou set thine eyes upon that which is not? for <span class=\"clarity-word\">riches</span> certainly make themselves wings; they fly away as an eagle toward heaven.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "proverbs-23-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Eat thou not the bread of <span class=\"clarity-word\">him that hath</span> an evil eye, neither desire thou his dainty meats:",
+      "churchId": "p6"
+    },
+    {
+      "slug": "proverbs-23-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "For as he thinketh in his heart, so <span class=\"clarity-word\">is</span> he: Eat and drink, saith he to thee; but his heart <span class=\"clarity-word\">is</span> not with thee.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "proverbs-23-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "The morsel <span class=\"clarity-word\">which</span> thou hast eaten shalt thou vomit up, and lose thy sweet words.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "proverbs-23-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Speak not in the ears of a fool: for he will despise the wisdom of thy words.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "proverbs-23-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Remove not the old landmark; and enter not into the fields of the fatherless:",
+      "churchId": "p10"
+    },
+    {
+      "slug": "proverbs-23-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "For their redeemer <span class=\"clarity-word\">is</span> mighty; he shall plead their cause with thee.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "proverbs-23-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Apply thine heart unto instruction, and thine ears to the words of knowledge.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "proverbs-23-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Withhold not correction from the child: for <span class=\"clarity-word\">if</span> thou beatest him with the rod, he shall not die.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "proverbs-23-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Thou shalt beat him with the rod, and shalt deliver his soul from hell.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "proverbs-23-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "My son, if thine heart be wise, my heart shall rejoice, even mine.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "proverbs-23-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Yea, my reins shall rejoice, when thy lips speak right things.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "proverbs-23-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Let not thine heart envy sinners: but <span class=\"clarity-word\">be thou</span> in the fear of the <span class=\"small-caps\">Lord</span> all the day long.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "proverbs-23-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "For surely there is an end; and thine expectation shall not be cut off.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "proverbs-23-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Hear thou, my son, and be wise, and guide thine heart in the way.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "proverbs-23-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Be not among winebibbers; among riotous eaters of flesh:",
+      "churchId": "p20"
+    },
+    {
+      "slug": "proverbs-23-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "For the drunkard and the glutton shall come to poverty: and drowsiness shall clothe <span class=\"clarity-word\">a man</span> with rags.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "proverbs-23-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Hearken unto thy father that begat thee, and despise not thy mother when she is old.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "proverbs-23-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Buy the truth, and sell <span class=\"clarity-word\">it</span> not; <span class=\"clarity-word\">also</span> wisdom, and instruction, and understanding.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "proverbs-23-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "The father of the righteous shall greatly rejoice: and he that begetteth a wise <span class=\"clarity-word\">child</span> shall have joy of him.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "proverbs-23-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Thy father and thy mother shall be glad, and she that bare thee shall rejoice.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "proverbs-23-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "My son, give me thine heart, and let thine eyes observe my ways.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "proverbs-23-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "For a whore <span class=\"clarity-word\">is</span> a deep ditch; and a strange woman <span class=\"clarity-word\">is</span> a narrow pit.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "proverbs-23-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "She also lieth in wait as <span class=\"clarity-word\">for</span> a prey, and increaseth the transgressors among men.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "proverbs-23-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "Who hath woe? who hath sorrow? who hath contentions? who hath babbling? who hath wounds without cause? who hath redness of eyes?",
+      "churchId": "p29"
+    },
+    {
+      "slug": "proverbs-23-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "They that tarry long at the wine; they that go to seek mixed wine.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "proverbs-23-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "Look not thou upon the wine when it is red, when it giveth his colour in the cup, <span class=\"clarity-word\">when</span> it moveth itself aright.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "proverbs-23-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "At the last it biteth like a serpent, and stingeth like an adder.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "proverbs-23-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "Thine eyes shall behold strange women, and thine heart shall utter perverse things.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "proverbs-23-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "Yea, thou shalt be as he that lieth down in the midst of the sea, or as he that lieth upon the top of a mast.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "proverbs-23-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "They have stricken me, <span class=\"clarity-word\">shalt thou say, and</span> I was not sick; they have beaten me, <span class=\"clarity-word\">and</span> I felt <span class=\"clarity-word\">it</span> not: when shall I awake? I will seek it yet again.",
+      "churchId": "p35"
+    }
+  ]
+}

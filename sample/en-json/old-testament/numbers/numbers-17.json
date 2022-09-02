@@ -1,0 +1,106 @@
+{
+  "name": "Numbers 17",
+  "abbrev": "Num. 17",
+  "number": "17",
+  "churchUri": "/scriptures/ot/num/17",
+  "paragraphs": [
+    {
+      "slug": "numbers-17-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 17",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "numbers-17-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And the <span class=\"small-caps\">Lord</span> spake unto Moses, saying,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "numbers-17-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Speak unto the children of Israel, and take of every one of them a rod according to the house of <span class=\"clarity-word\">their</span> fathers, of all their princes according to the house of their fathers twelve rods: write thou every man’s name upon his rod.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "numbers-17-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And thou shalt write Aaron’s name upon the rod of Levi: for one rod <span class=\"clarity-word\">shall be</span> for the head of the house of their fathers.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "numbers-17-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And thou shalt lay them up in the tabernacle of the congregation before the testimony, where I will meet with you.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "numbers-17-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And it shall come to pass, <span class=\"clarity-word\">that</span> the man’s rod, whom I shall choose, shall blossom: and I will make to cease from me the murmurings of the children of Israel, whereby they murmur against you.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "numbers-17-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "¶ And Moses spake unto the children of Israel, and every one of their princes gave him a rod apiece, for each prince one, according to their fathers’ houses, <span class=\"clarity-word\">even</span> twelve rods: and the rod of Aaron <span class=\"clarity-word\">was</span> among their rods.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "numbers-17-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And Moses laid up the rods before the <span class=\"small-caps\">Lord</span> in the tabernacle of witness.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "numbers-17-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And it came to pass, that on the morrow Moses went into the tabernacle of witness; and, behold, the rod of Aaron for the house of Levi was budded, and brought forth buds, and bloomed blossoms, and yielded almonds.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "numbers-17-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And Moses brought out all the rods from before the <span class=\"small-caps\">Lord</span> unto all the children of Israel: and they looked, and took every man his rod.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "numbers-17-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "¶ And the <span class=\"small-caps\">Lord</span> said unto Moses, Bring Aaron’s rod again before the testimony, to be kept for a token against the rebels; and thou shalt quite take away their murmurings from me, that they die not.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "numbers-17-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And Moses did <span class=\"clarity-word\">so:</span> as the <span class=\"small-caps\">Lord</span> commanded him, so did he.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "numbers-17-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And the children of Israel spake unto Moses, saying, Behold, we die, we perish, we all perish.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "numbers-17-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Whosoever cometh any thing near unto the tabernacle of the <span class=\"small-caps\">Lord</span> shall die: shall we be consumed with dying?",
+      "churchId": "p13"
+    }
+  ]
+}

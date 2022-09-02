@@ -1,0 +1,78 @@
+{
+  "name": "Isaiah 15",
+  "abbrev": "Isa. 15",
+  "number": "15",
+  "churchUri": "/scriptures/ot/isa/15",
+  "paragraphs": [
+    {
+      "slug": "isaiah-15-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 15",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "isaiah-15-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "The burden of Moab. Because in the night Ar of Moab is laid waste, <span class=\"clarity-word\">and</span> brought to silence; because in the night Kir of Moab is laid waste, <span class=\"clarity-word\">and</span> brought to silence;",
+      "churchId": "p1"
+    },
+    {
+      "slug": "isaiah-15-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "He is gone up to Bajith, and to Dibon, the high places, to weep: Moab shall howl over Nebo, and over Medeba: on all their heads <span class=\"clarity-word\">shall be</span> baldness, <span class=\"clarity-word\">and</span> every beard cut off.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "isaiah-15-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "In their streets they shall gird themselves with sackcloth: on the tops of their houses, and in their streets, every one shall howl, weeping abundantly.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "isaiah-15-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And Heshbon shall cry, and Elealeh: their voice shall be heard <span class=\"clarity-word\">even</span> unto Jahaz: therefore the armed soldiers of Moab shall cry out; his life shall be grievous unto him.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "isaiah-15-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "My heart shall cry out for Moab; his fugitives <span class=\"clarity-word\">shall flee</span> unto Zoar, an heifer of three years old: for by the mounting up of Luhith with weeping shall they go it up; for in the way of Horonaim they shall raise up a cry of destruction.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "isaiah-15-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "For the waters of Nimrim shall be desolate: for the hay is withered away, the grass faileth, there is no green thing.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "isaiah-15-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Therefore the abundance they have gotten, and that which they have laid up, shall they carry away to the brook of the willows.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "isaiah-15-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "For the cry is gone round about the borders of Moab; the howling thereof unto Eglaim, and the howling thereof unto Beer-elim.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "isaiah-15-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "For the waters of Dimon shall be full of blood: for I will bring more upon Dimon, lions upon him that escapeth of Moab, and upon the remnant of the land.",
+      "churchId": "p9"
+    }
+  ]
+}

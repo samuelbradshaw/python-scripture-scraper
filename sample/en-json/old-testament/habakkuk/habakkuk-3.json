@@ -1,0 +1,148 @@
+{
+  "name": "Habakkuk 3",
+  "abbrev": "Hab. 3",
+  "number": "3",
+  "churchUri": "/scriptures/ot/hab/3",
+  "paragraphs": [
+    {
+      "slug": "habakkuk-3-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 3",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "habakkuk-3-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "A prayer of Habakkuk the prophet upon Shigionoth.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "habakkuk-3-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "O <span class=\"small-caps\">Lord</span>, I have heard thy speech, <span class=\"clarity-word\">and</span> was afraid: O <span class=\"small-caps\">Lord</span>, revive thy work in the midst of the years, in the midst of the years make known; in wrath remember mercy.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "habakkuk-3-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "God came from Teman, and the Holy One from mount Paran. Selah. His glory covered the heavens, and the earth was full of his praise.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "habakkuk-3-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And <span class=\"clarity-word\">his</span> brightness was as the light; he had horns <span class=\"clarity-word\">coming</span> out of his hand: and there <span class=\"clarity-word\">was</span> the hiding of his power.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "habakkuk-3-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Before him went the pestilence, and burning coals went forth at his feet.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "habakkuk-3-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "He stood, and measured the earth: he beheld, and drove asunder the nations; and the everlasting mountains were scattered, the perpetual hills did bow: his ways <span class=\"clarity-word\">are</span> everlasting.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "habakkuk-3-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "I saw the tents of Cushan in affliction: <span class=\"clarity-word\">and</span> the curtains of the land of Midian did tremble.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "habakkuk-3-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Was the <span class=\"small-caps\">Lord</span> displeased against the rivers? <span class=\"clarity-word\">was</span> thine anger against the rivers? <span class=\"clarity-word\">was</span> thy wrath against the sea, that thou didst ride upon thine horses <span class=\"clarity-word\">and</span> thy chariots of salvation?",
+      "churchId": "p8"
+    },
+    {
+      "slug": "habakkuk-3-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Thy bow was made quite naked, <span class=\"clarity-word\">according</span> to the oaths of the tribes, <span class=\"clarity-word\">even thy</span> word. Selah. Thou didst cleave the earth with rivers.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "habakkuk-3-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "The mountains saw thee, <span class=\"clarity-word\">and</span> they trembled: the overflowing of the water passed by: the deep uttered his voice, <span class=\"clarity-word\">and</span> lifted up his hands on high.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "habakkuk-3-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "The sun <span class=\"clarity-word\">and</span> moon stood still in their habitation: at the light of thine arrows they went, <span class=\"clarity-word\">and</span> at the shining of thy glittering spear.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "habakkuk-3-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Thou didst march through the land in indignation, thou didst thresh the heathen in anger.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "habakkuk-3-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Thou wentest forth for the salvation of thy people, <span class=\"clarity-word\">even</span> for salvation with thine anointed; thou woundedst the head out of the house of the wicked, by discovering the foundation unto the neck. Selah.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "habakkuk-3-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Thou didst strike through with his staves the head of his villages: they came out as a whirlwind to scatter me: their rejoicing <span class=\"clarity-word\">was</span> as to devour the poor secretly.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "habakkuk-3-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Thou didst walk through the sea with thine horses, <span class=\"clarity-word\">through</span> the heap of great waters.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "habakkuk-3-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "When I heard, my belly trembled; my lips quivered at the voice: rottenness entered into my bones, and I trembled in myself, that I might rest in the day of trouble: when he cometh up unto the people, he will invade them with his troops.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "habakkuk-3-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "¶ Although the fig tree shall not blossom, neither <span class=\"clarity-word\">shall</span> fruit <span class=\"clarity-word\">be</span> in the vines; the labour of the olive shall fail, and the fields shall yield no meat; the flock shall be cut off from the fold, and <span class=\"clarity-word\">there shall be</span> no herd in the stalls:",
+      "churchId": "p17"
+    },
+    {
+      "slug": "habakkuk-3-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Yet I will rejoice in the <span class=\"small-caps\">Lord</span>, I will joy in the God of my salvation.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "habakkuk-3-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "The <span class=\"small-caps\">Lord</span> God <span class=\"clarity-word\">is</span> my strength, and he will make my feet like hinds’ <span class=\"clarity-word\">feet,</span> and he will make me to walk upon mine high places. To the chief singer on my stringed instruments.",
+      "churchId": "p19"
+    }
+  ]
+}

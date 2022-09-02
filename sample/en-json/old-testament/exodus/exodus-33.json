@@ -1,0 +1,176 @@
+{
+  "name": "Exodus 33",
+  "abbrev": "Ex. 33",
+  "number": "33",
+  "churchUri": "/scriptures/ot/ex/33",
+  "paragraphs": [
+    {
+      "slug": "exodus-33-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 33",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "exodus-33-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And the <span class=\"small-caps\">Lord</span> said unto Moses, Depart, <span class=\"clarity-word\">and</span> go up hence, thou and the people which thou hast brought up out of the land of Egypt, unto the land which I sware unto Abraham, to Isaac, and to Jacob, saying, Unto thy seed will I give it:",
+      "churchId": "p1"
+    },
+    {
+      "slug": "exodus-33-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And I will send an angel before thee; and I will drive out the Canaanite, the Amorite, and the Hittite, and the Perizzite, the Hivite, and the Jebusite:",
+      "churchId": "p2"
+    },
+    {
+      "slug": "exodus-33-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Unto a land flowing with milk and honey: for I will not go up in the midst of thee; for thou <span class=\"clarity-word\">art</span> a stiffnecked people: lest I consume thee in the way.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "exodus-33-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "¶ And when the people heard these evil tidings, they mourned: and no man did put on him his ornaments.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "exodus-33-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "For the <span class=\"small-caps\">Lord</span> had said unto Moses, Say unto the children of Israel, Ye <span class=\"clarity-word\">are</span> a stiffnecked people: I will come up into the midst of thee in a moment, and consume thee: therefore now put off thy ornaments from thee, that I may know what to do unto thee.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "exodus-33-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And the children of Israel stripped themselves of their ornaments by the mount Horeb.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "exodus-33-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And Moses took the tabernacle, and pitched it without the camp, afar off from the camp, and called it the Tabernacle of the congregation. And it came to pass, <span class=\"clarity-word\">that</span> every one which sought the <span class=\"small-caps\">Lord</span> went out unto the tabernacle of the congregation, which <span class=\"clarity-word\">was</span> without the camp.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "exodus-33-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And it came to pass, when Moses went out unto the tabernacle, <span class=\"clarity-word\">that</span> all the people rose up, and stood every man <span class=\"clarity-word\">at</span> his tent door, and looked after Moses, until he was gone into the tabernacle.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "exodus-33-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And it came to pass, as Moses entered into the tabernacle, the cloudy pillar descended, and stood <span class=\"clarity-word\">at</span> the door of the tabernacle, and <span class=\"clarity-word\">the <span class=\"small-caps\">Lord</span></span> talked with Moses.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "exodus-33-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And all the people saw the cloudy pillar stand <span class=\"clarity-word\">at</span> the tabernacle door: and all the people rose up and worshipped, every man <span class=\"clarity-word\">in</span> his tent door.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "exodus-33-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And the <span class=\"small-caps\">Lord</span> spake unto Moses face to face, as a man speaketh unto his friend. And he turned again into the camp: but his servant Joshua, the son of Nun, a young man, departed not out of the tabernacle.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "exodus-33-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "¶ And Moses said unto the <span class=\"small-caps\">Lord</span>, See, thou sayest unto me, Bring up this people: and thou hast not let me know whom thou wilt send with me. Yet thou hast said, I know thee by name, and thou hast also found grace in my sight.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "exodus-33-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Now therefore, I pray thee, if I have found grace in thy sight, shew me now thy way, that I may know thee, that I may find grace in thy sight: and consider that this nation <span class=\"clarity-word\">is</span> thy people.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "exodus-33-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And he said, My presence shall go <span class=\"clarity-word\">with thee,</span> and I will give thee rest.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "exodus-33-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And he said unto him, If thy presence go not <span class=\"clarity-word\">with me,</span> carry us not up hence.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "exodus-33-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "For wherein shall it be known here that I and thy people have found grace in thy sight? <span class=\"clarity-word\">is it</span> not in that thou goest with us? so shall we be separated, I and thy people, from all the people that <span class=\"clarity-word\">are</span> upon the face of the earth.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "exodus-33-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And the <span class=\"small-caps\">Lord</span> said unto Moses, I will do this thing also that thou hast spoken: for thou hast found grace in my sight, and I know thee by name.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "exodus-33-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And he said, I beseech thee, shew me thy glory.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "exodus-33-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And he said, I will make all my goodness pass before thee, and I will proclaim the name of the <span class=\"small-caps\">Lord</span> before thee; and will be gracious to whom I will be gracious, and will shew mercy on whom I will shew mercy.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "exodus-33-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And he said, Thou canst not see my face: for there shall no man see me, and live.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "exodus-33-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And the <span class=\"small-caps\">Lord</span> said, Behold, <span class=\"clarity-word\">there is</span> a place by me, and thou shalt stand upon a rock:",
+      "churchId": "p21"
+    },
+    {
+      "slug": "exodus-33-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And it shall come to pass, while my glory passeth by, that I will put thee in a clift of the rock, and will cover thee with my hand while I pass by:",
+      "churchId": "p22"
+    },
+    {
+      "slug": "exodus-33-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And I will take away mine hand, and thou shalt see my back parts: but my face shall not be seen.",
+      "churchId": "p23"
+    }
+  ]
+}

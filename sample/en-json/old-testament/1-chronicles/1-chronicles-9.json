@@ -1,0 +1,323 @@
+{
+  "name": "1 Chronicles 9",
+  "abbrev": "1 Chr. 9",
+  "number": "9",
+  "churchUri": "/scriptures/ot/1-chr/9",
+  "paragraphs": [
+    {
+      "slug": "1-chronicles-9-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 9",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "1-chronicles-9-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "So all Israel were reckoned by genealogies; and, behold, they <span class=\"clarity-word\">were</span> written in the book of the kings of Israel and Judah, <span class=\"clarity-word\">who</span> were carried away to Babylon for their transgression.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "1-chronicles-9-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "¶ Now the first inhabitants that <span class=\"clarity-word\">dwelt</span> in their possessions in their cities <span class=\"clarity-word\">were,</span> the Israelites, the priests, Levites, and the Nethinims.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "1-chronicles-9-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And in Jerusalem dwelt of the children of Judah, and of the children of Benjamin, and of the children of Ephraim, and Manasseh;",
+      "churchId": "p3"
+    },
+    {
+      "slug": "1-chronicles-9-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Uthai the son of Ammihud, the son of Omri, the son of Imri, the son of Bani, of the children of Pharez the son of Judah.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "1-chronicles-9-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And of the Shilonites; Asaiah the firstborn, and his sons.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "1-chronicles-9-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And of the sons of Zerah; Jeuel, and their brethren, six hundred and ninety.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "1-chronicles-9-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And of the sons of Benjamin; Sallu the son of Meshullam, the son of Hodaviah, the son of Hasenuah,",
+      "churchId": "p7"
+    },
+    {
+      "slug": "1-chronicles-9-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And Ibneiah the son of Jeroham, and Elah the son of Uzzi, the son of Michri, and Meshullam the son of Shephathiah, the son of Reuel, the son of Ibnijah;",
+      "churchId": "p8"
+    },
+    {
+      "slug": "1-chronicles-9-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And their brethren, according to their generations, nine hundred and fifty and six. All these men <span class=\"clarity-word\">were</span> chief of the fathers in the house of their fathers.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "1-chronicles-9-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "¶ And of the priests; Jedaiah, and Jehoiarib, and Jachin,",
+      "churchId": "p10"
+    },
+    {
+      "slug": "1-chronicles-9-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And Azariah the son of Hilkiah, the son of Meshullam, the son of Zadok, the son of Meraioth, the son of Ahitub, the ruler of the house of God;",
+      "churchId": "p11"
+    },
+    {
+      "slug": "1-chronicles-9-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And Adaiah the son of Jeroham, the son of Pashur, the son of Malchijah, and Maasiai the son of Adiel, the son of Jahzerah, the son of Meshullam, the son of Meshillemith, the son of Immer;",
+      "churchId": "p12"
+    },
+    {
+      "slug": "1-chronicles-9-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And their brethren, heads of the house of their fathers, a thousand and seven hundred and threescore; very able men for the work of the service of the house of God.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "1-chronicles-9-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And of the Levites; Shemaiah the son of Hasshub, the son of Azrikam, the son of Hashabiah, of the sons of Merari;",
+      "churchId": "p14"
+    },
+    {
+      "slug": "1-chronicles-9-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And Bakbakkar, Heresh, and Galal, and Mattaniah the son of Micah, the son of Zichri, the son of Asaph;",
+      "churchId": "p15"
+    },
+    {
+      "slug": "1-chronicles-9-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And Obadiah the son of Shemaiah, the son of Galal, the son of Jeduthun, and Berechiah the son of Asa, the son of Elkanah, that dwelt in the villages of the Netophathites.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "1-chronicles-9-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And the porters <span class=\"clarity-word\">were,</span> Shallum, and Akkub, and Talmon, and Ahiman, and their brethren: Shallum <span class=\"clarity-word\">was</span> the chief;",
+      "churchId": "p17"
+    },
+    {
+      "slug": "1-chronicles-9-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Who hitherto <span class=\"clarity-word\">waited</span> in the king’s gate eastward: they <span class=\"clarity-word\">were</span> porters in the companies of the children of Levi.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "1-chronicles-9-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And Shallum the son of Kore, the son of Ebiasaph, the son of Korah, and his brethren, of the house of his father, the Korahites, <span class=\"clarity-word\">were</span> over the work of the service, keepers of the gates of the tabernacle: and their fathers, <span class=\"clarity-word\">being</span> over the host of the <span class=\"small-caps\">Lord</span>, <span class=\"clarity-word\">were</span> keepers of the entry.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "1-chronicles-9-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And Phinehas the son of Eleazar was the ruler over them in time past, <span class=\"clarity-word\">and</span> the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">was</span> with him.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "1-chronicles-9-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "<span class=\"clarity-word\">And</span> Zechariah the son of Meshelemiah <span class=\"clarity-word\">was</span> porter of the door of the tabernacle of the congregation.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "1-chronicles-9-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "All these <span class=\"clarity-word\">which were</span> chosen to be porters in the gates <span class=\"clarity-word\">were</span> two hundred and twelve. These were reckoned by their genealogy in their villages, whom David and Samuel the seer did ordain in their set office.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "1-chronicles-9-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "So they and their children <span class=\"clarity-word\">had</span> the oversight of the gates of the house of the <span class=\"small-caps\">Lord</span>, <span class=\"clarity-word\">namely,</span> the house of the tabernacle, by wards.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "1-chronicles-9-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "In four quarters were the porters, toward the east, west, north, and south.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "1-chronicles-9-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And their brethren, <span class=\"clarity-word\">which were</span> in their villages, <span class=\"clarity-word\">were</span> to come after seven days from time to time with them.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "1-chronicles-9-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "For these Levites, the four chief porters, were in <span class=\"clarity-word\">their</span> set office, and were over the chambers and treasuries of the house of God.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "1-chronicles-9-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "¶ And they lodged round about the house of God, because the charge <span class=\"clarity-word\">was</span> upon them, and the opening thereof every morning <span class=\"clarity-word\">pertained</span> to them.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "1-chronicles-9-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And <span class=\"clarity-word\">certain</span> of them had the charge of the ministering vessels, that they should bring them in and out by tale.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "1-chronicles-9-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "<span class=\"clarity-word\">Some</span> of them also <span class=\"clarity-word\">were</span> appointed to oversee the vessels, and all the instruments of the sanctuary, and the fine flour, and the wine, and the oil, and the frankincense, and the spices.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "1-chronicles-9-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And <span class=\"clarity-word\">some</span> of the sons of the priests made the ointment of the spices.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "1-chronicles-9-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "And Mattithiah, <span class=\"clarity-word\">one</span> of the Levites, who <span class=\"clarity-word\">was</span> the firstborn of Shallum the Korahite, had the set office over the things that were made in the pans.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "1-chronicles-9-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "And <span class=\"clarity-word\">other</span> of their brethren, of the sons of the Kohathites, <span class=\"clarity-word\">were</span> over the shewbread, to prepare <span class=\"clarity-word\">it</span> every sabbath.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "1-chronicles-9-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "And these <span class=\"clarity-word\">are</span> the singers, chief of the fathers of the Levites, <span class=\"clarity-word\">who remaining</span> in the chambers <span class=\"clarity-word\">were</span> free: for they were employed in <span class=\"clarity-word\">that</span> work day and night.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "1-chronicles-9-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "These chief fathers of the Levites <span class=\"clarity-word\">were</span> chief throughout their generations; these dwelt at Jerusalem.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "1-chronicles-9-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "¶ And in Gibeon dwelt the father of Gibeon, Jehiel, whose wife’s name <span class=\"clarity-word\">was</span> Maachah:",
+      "churchId": "p35"
+    },
+    {
+      "slug": "1-chronicles-9-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "And his firstborn son Abdon, then Zur, and Kish, and Baal, and Ner, and Nadab,",
+      "churchId": "p36"
+    },
+    {
+      "slug": "1-chronicles-9-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "And Gedor, and Ahio, and Zechariah, and Mikloth.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "1-chronicles-9-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "And Mikloth begat Shimeam. And they also dwelt with their brethren at Jerusalem, over against their brethren.",
+      "churchId": "p38"
+    },
+    {
+      "slug": "1-chronicles-9-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "And Ner begat Kish; and Kish begat Saul; and Saul begat Jonathan, and Malchi-shua, and Abinadab, and Esh-baal.",
+      "churchId": "p39"
+    },
+    {
+      "slug": "1-chronicles-9-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "And the son of Jonathan <span class=\"clarity-word\">was</span> Merib-baal: and Merib-baal begat Micah.",
+      "churchId": "p40"
+    },
+    {
+      "slug": "1-chronicles-9-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "And the sons of Micah <span class=\"clarity-word\">were,</span> Pithon, and Melech, and Tahrea, <span class=\"clarity-word\">and Ahaz.</span>",
+      "churchId": "p41"
+    },
+    {
+      "slug": "1-chronicles-9-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "And Ahaz begat Jarah; and Jarah begat Alemeth, and Azmaveth, and Zimri; and Zimri begat Moza;",
+      "churchId": "p42"
+    },
+    {
+      "slug": "1-chronicles-9-p43",
+      "type": "verse",
+      "number": "43",
+      "content": "And Moza begat Binea; and Rephaiah his son, Eleasah his son, Azel his son.",
+      "churchId": "p43"
+    },
+    {
+      "slug": "1-chronicles-9-p44",
+      "type": "verse",
+      "number": "44",
+      "content": "And Azel had six sons, whose names <span class=\"clarity-word\">are</span> these, Azrikam, Bocheru, and Ishmael, and Sheariah, and Obadiah, and Hanan: these <span class=\"clarity-word\">were</span> the sons of Azel.",
+      "churchId": "p44"
+    }
+  ]
+}

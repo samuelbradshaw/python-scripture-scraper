@@ -1,0 +1,106 @@
+{
+  "name": "Psalm 30",
+  "abbrev": "Psalm 30",
+  "number": "30",
+  "churchUri": "/scriptures/ot/ps/30",
+  "paragraphs": [
+    {
+      "slug": "psalm-30-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 30",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-30-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "A Psalm <span class=\"clarity-word\">and</span> Song <span class=\"clarity-word\">at</span> the dedication of the house of David.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-30-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "I will extol thee, O <span class=\"small-caps\">Lord</span>; for thou hast lifted me up, and hast not made my foes to rejoice over me.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-30-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "O <span class=\"small-caps\">Lord</span> my God, I cried unto thee, and thou hast healed me.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-30-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "O <span class=\"small-caps\">Lord</span>, thou hast brought up my soul from the grave: thou hast kept me alive, that I should not go down to the pit.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-30-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Sing unto the <span class=\"small-caps\">Lord</span>, O ye saints of his, and give thanks at the remembrance of his holiness.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-30-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "For his anger <span class=\"clarity-word\">endureth but</span> a moment; in his favour <span class=\"clarity-word\">is</span> life: weeping may endure for a night, but joy <span class=\"clarity-word\">cometh</span> in the morning.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-30-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And in my prosperity I said, I shall never be moved.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-30-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "<span class=\"small-caps\">Lord</span>, by thy favour thou hast made my mountain to stand strong: thou didst hide thy face, <span class=\"clarity-word\">and</span> I was troubled.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-30-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "I cried to thee, O <span class=\"small-caps\">Lord</span>; and unto the <span class=\"small-caps\">Lord</span> I made supplication.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "psalm-30-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "What profit <span class=\"clarity-word\">is there</span> in my blood, when I go down to the pit? Shall the dust praise thee? shall it declare thy truth?",
+      "churchId": "p9"
+    },
+    {
+      "slug": "psalm-30-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Hear, O <span class=\"small-caps\">Lord</span>, and have mercy upon me: <span class=\"small-caps\">Lord</span>, be thou my helper.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "psalm-30-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Thou hast turned for me my mourning into dancing: thou hast put off my sackcloth, and girded me with gladness;",
+      "churchId": "p11"
+    },
+    {
+      "slug": "psalm-30-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "To the end that <span class=\"clarity-word\">my</span> glory may sing praise to thee, and not be silent. O <span class=\"small-caps\">Lord</span> my God, I will give thanks unto thee for ever.",
+      "churchId": "p12"
+    }
+  ]
+}

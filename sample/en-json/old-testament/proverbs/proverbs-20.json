@@ -1,0 +1,225 @@
+{
+  "name": "Proverbs 20",
+  "abbrev": "Prov. 20",
+  "number": "20",
+  "churchUri": "/scriptures/ot/prov/20",
+  "paragraphs": [
+    {
+      "slug": "proverbs-20-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 20",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "proverbs-20-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Wine <span class=\"clarity-word\">is</span> a mocker, strong drink <span class=\"clarity-word\">is</span> raging: and whosoever is deceived thereby is not wise.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "proverbs-20-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "The fear of a king <span class=\"clarity-word\">is</span> as the roaring of a lion: <span class=\"clarity-word\">whoso</span> provoketh him to anger sinneth <span class=\"clarity-word\">against</span> his own soul.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "proverbs-20-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "<span class=\"clarity-word\">It is</span> an honour for a man to cease from strife: but every fool will be meddling.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "proverbs-20-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "The sluggard will not plow by reason of the cold; <span class=\"clarity-word\">therefore</span> shall he beg in harvest, and <span class=\"clarity-word\">have</span> nothing.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "proverbs-20-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Counsel in the heart of man <span class=\"clarity-word\">is like</span> deep water; but a man of understanding will draw it out.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "proverbs-20-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Most men will proclaim every one his own goodness: but a faithful man who can find?",
+      "churchId": "p6"
+    },
+    {
+      "slug": "proverbs-20-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "The just <span class=\"clarity-word\">man</span> walketh in his integrity: his children <span class=\"clarity-word\">are</span> blessed after him.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "proverbs-20-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "A king that sitteth in the throne of judgment scattereth away all evil with his eyes.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "proverbs-20-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Who can say, I have made my heart clean, I am pure from my sin?",
+      "churchId": "p9"
+    },
+    {
+      "slug": "proverbs-20-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Divers weights, <span class=\"clarity-word\">and</span> divers measures, both of them <span class=\"clarity-word\">are</span> alike abomination to the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "proverbs-20-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Even a child is known by his doings, whether his work <span class=\"clarity-word\">be</span> pure, and whether <span class=\"clarity-word\">it be</span> right.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "proverbs-20-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "The hearing ear, and the seeing eye, the <span class=\"small-caps\">Lord</span> hath made even both of them.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "proverbs-20-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Love not sleep, lest thou come to poverty; open thine eyes, <span class=\"clarity-word\">and</span> thou shalt be satisfied with bread.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "proverbs-20-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "<span class=\"clarity-word\">It is</span> naught, <span class=\"clarity-word\">it is</span> naught, saith the buyer: but when he is gone his way, then he boasteth.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "proverbs-20-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "There is gold, and a multitude of rubies: but the lips of knowledge <span class=\"clarity-word\">are</span> a precious jewel.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "proverbs-20-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Take his garment that is surety <span class=\"clarity-word\">for</span> a stranger: and take a pledge of him for a strange woman.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "proverbs-20-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Bread of deceit <span class=\"clarity-word\">is</span> sweet to a man; but afterwards his mouth shall be filled with gravel.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "proverbs-20-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "<span class=\"clarity-word\">Every</span> purpose is established by counsel: and with good advice make war.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "proverbs-20-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "He that goeth about <span class=\"clarity-word\">as</span> a talebearer revealeth secrets: therefore meddle not with him that flattereth with his lips.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "proverbs-20-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Whoso curseth his father or his mother, his lamp shall be put out in obscure darkness.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "proverbs-20-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "An inheritance <span class=\"clarity-word\">may be</span> gotten hastily at the beginning; but the end thereof shall not be blessed.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "proverbs-20-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Say not thou, I will recompense evil; <span class=\"clarity-word\">but</span> wait on the <span class=\"small-caps\">Lord</span>, and he shall save thee.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "proverbs-20-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Divers weights <span class=\"clarity-word\">are</span> an abomination unto the <span class=\"small-caps\">Lord</span>; and a false balance <span class=\"clarity-word\">is</span> not good.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "proverbs-20-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Man’s goings <span class=\"clarity-word\">are</span> of the <span class=\"small-caps\">Lord</span>; how can a man then understand his own way?",
+      "churchId": "p24"
+    },
+    {
+      "slug": "proverbs-20-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "<span class=\"clarity-word\">It is</span> a snare to the man <span class=\"clarity-word\">who</span> devoureth <span class=\"clarity-word\">that which is</span> holy, and after vows to make inquiry.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "proverbs-20-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "A wise king scattereth the wicked, and bringeth the wheel over them.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "proverbs-20-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "The spirit of man <span class=\"clarity-word\">is</span> the candle of the <span class=\"small-caps\">Lord</span>, searching all the inward parts of the belly.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "proverbs-20-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "Mercy and truth preserve the king: and his throne is upholden by mercy.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "proverbs-20-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "The glory of young men <span class=\"clarity-word\">is</span> their strength: and the beauty of old men <span class=\"clarity-word\">is</span> the gray head.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "proverbs-20-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "The blueness of a wound cleanseth away evil: so <span class=\"clarity-word\">do</span> stripes the inward parts of the belly.",
+      "churchId": "p30"
+    }
+  ]
+}

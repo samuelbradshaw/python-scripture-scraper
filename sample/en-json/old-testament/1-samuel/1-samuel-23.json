@@ -1,0 +1,218 @@
+{
+  "name": "1 Samuel 23",
+  "abbrev": "1 Sam. 23",
+  "number": "23",
+  "churchUri": "/scriptures/ot/1-sam/23",
+  "paragraphs": [
+    {
+      "slug": "1-samuel-23-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 23",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "1-samuel-23-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Then they told David, saying, Behold, the Philistines fight against Keilah, and they rob the threshingfloors.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "1-samuel-23-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Therefore David inquired of the <span class=\"small-caps\">Lord</span>, saying, Shall I go and smite these Philistines? And the <span class=\"small-caps\">Lord</span> said unto David, Go, and smite the Philistines, and save Keilah.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "1-samuel-23-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And David’s men said unto him, Behold, we be afraid here in Judah: how much more then if we come to Keilah against the armies of the Philistines?",
+      "churchId": "p3"
+    },
+    {
+      "slug": "1-samuel-23-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Then David inquired of the <span class=\"small-caps\">Lord</span> yet again. And the <span class=\"small-caps\">Lord</span> answered him and said, Arise, go down to Keilah; for I will deliver the Philistines into thine hand.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "1-samuel-23-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "So David and his men went to Keilah, and fought with the Philistines, and brought away their cattle, and smote them with a great slaughter. So David saved the inhabitants of Keilah.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "1-samuel-23-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And it came to pass, when Abiathar the son of Ahimelech fled to David to Keilah, <span class=\"clarity-word\">that</span> he came down <span class=\"clarity-word\">with</span> an ephod in his hand.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "1-samuel-23-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "¶ And it was told Saul that David was come to Keilah. And Saul said, God hath delivered him into mine hand; for he is shut in, by entering into a town that hath gates and bars.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "1-samuel-23-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And Saul called all the people together to war, to go down to Keilah, to besiege David and his men.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "1-samuel-23-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "¶ And David knew that Saul secretly practised mischief against him; and he said to Abiathar the priest, Bring hither the ephod.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "1-samuel-23-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Then said David, O <span class=\"small-caps\">Lord</span> God of Israel, thy servant hath certainly heard that Saul seeketh to come to Keilah, to destroy the city for my sake.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "1-samuel-23-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Will the men of Keilah deliver me up into his hand? will Saul come down, as thy servant hath heard? O <span class=\"small-caps\">Lord</span> God of Israel, I beseech thee, tell thy servant. And the <span class=\"small-caps\">Lord</span> said, He will come down.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "1-samuel-23-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Then said David, Will the men of Keilah deliver me and my men into the hand of Saul? And the <span class=\"small-caps\">Lord</span> said, They will deliver <span class=\"clarity-word\">thee</span> up.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "1-samuel-23-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "¶ Then David and his men, <span class=\"clarity-word\">which were</span> about six hundred, arose and departed out of Keilah, and went whithersoever they could go. And it was told Saul that David was escaped from Keilah; and he forbare to go forth.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "1-samuel-23-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And David abode in the wilderness in strong holds, and remained in a mountain in the wilderness of Ziph. And Saul sought him every day, but God delivered him not into his hand.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "1-samuel-23-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And David saw that Saul was come out to seek his life: and David <span class=\"clarity-word\">was</span> in the wilderness of Ziph in a wood.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "1-samuel-23-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "¶ And Jonathan Saul’s son arose, and went to David into the wood, and strengthened his hand in God.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "1-samuel-23-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And he said unto him, Fear not: for the hand of Saul my father shall not find thee; and thou shalt be king over Israel, and I shall be next unto thee; and that also Saul my father knoweth.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "1-samuel-23-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And they two made a covenant before the <span class=\"small-caps\">Lord</span>: and David abode in the wood, and Jonathan went to his house.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "1-samuel-23-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "¶ Then came up the Ziphites to Saul to Gibeah, saying, Doth not David hide himself with us in strong holds in the wood, in the hill of Hachilah, which <span class=\"clarity-word\">is</span> on the south of Jeshimon?",
+      "churchId": "p19"
+    },
+    {
+      "slug": "1-samuel-23-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Now therefore, O king, come down according to all the desire of thy soul to come down; and our part <span class=\"clarity-word\">shall be</span> to deliver him into the king’s hand.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "1-samuel-23-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And Saul said, Blessed <span class=\"clarity-word\">be</span> ye of the <span class=\"small-caps\">Lord</span>; for ye have compassion on me.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "1-samuel-23-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Go, I pray you, prepare yet, and know and see his place where his haunt is, <span class=\"clarity-word\">and</span> who hath seen him there: for it is told me <span class=\"clarity-word\">that</span> he dealeth very subtilly.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "1-samuel-23-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "See therefore, and take knowledge of all the lurking places where he hideth himself, and come ye again to me with the certainty, and I will go with you: and it shall come to pass, if he be in the land, that I will search him out throughout all the thousands of Judah.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "1-samuel-23-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And they arose, and went to Ziph before Saul: but David and his men <span class=\"clarity-word\">were</span> in the wilderness of Maon, in the plain on the south of Jeshimon.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "1-samuel-23-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Saul also and his men went to seek <span class=\"clarity-word\">him.</span> And they told David: wherefore he came down into a rock, and abode in the wilderness of Maon. And when Saul heard <span class=\"clarity-word\">that,</span> he pursued after David in the wilderness of Maon.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "1-samuel-23-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And Saul went on this side of the mountain, and David and his men on that side of the mountain: and David made haste to get away for fear of Saul; for Saul and his men compassed David and his men round about to take them.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "1-samuel-23-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "¶ But there came a messenger unto Saul, saying, Haste thee, and come; for the Philistines have invaded the land.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "1-samuel-23-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "Wherefore Saul returned from pursuing after David, and went against the Philistines: therefore they called that place Sela-hammahlekoth.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "1-samuel-23-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "¶ And David went up from thence, and dwelt in strong holds at En-gedi.",
+      "churchId": "p29"
+    }
+  ]
+}

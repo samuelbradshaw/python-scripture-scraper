@@ -1,0 +1,113 @@
+{
+  "name": "Facsimile 1",
+  "abbrev": "Facsimile 1",
+  "number": "fac-1",
+  "churchUri": "/scriptures/pgp/abr/fac-1",
+  "paragraphs": [
+    {
+      "slug": "abraham-fac-1-title1",
+      "type": "book-title",
+      "number": null,
+      "content": "A Facsimile from the Book of Abraham",
+      "churchId": "title1"
+    },
+    {
+      "slug": "abraham-fac-1-subtitle1",
+      "type": "subtitle",
+      "number": null,
+      "content": "No. 1",
+      "churchId": "subtitle1"
+    },
+    {
+      "slug": "abraham-fac-1-figure1_title1",
+      "type": "paragraph",
+      "number": null,
+      "content": "Explanation",
+      "churchId": "figure1_title1"
+    },
+    {
+      "slug": "abraham-fac-1-figure1_p1",
+      "type": "paragraph",
+      "number": null,
+      "content": "Fig. 1. The Angel of the Lord.",
+      "churchId": "figure1_p1"
+    },
+    {
+      "slug": "abraham-fac-1-figure1_p2",
+      "type": "paragraph",
+      "number": null,
+      "content": "Fig. 2. Abraham fastened upon an altar.",
+      "churchId": "figure1_p2"
+    },
+    {
+      "slug": "abraham-fac-1-figure1_p3",
+      "type": "paragraph",
+      "number": null,
+      "content": "Fig. 3. The idolatrous priest of Elkenah attempting to offer up Abraham as a sacrifice.",
+      "churchId": "figure1_p3"
+    },
+    {
+      "slug": "abraham-fac-1-figure1_p4",
+      "type": "paragraph",
+      "number": null,
+      "content": "Fig. 4. The altar for sacrifice by the idolatrous priests, standing before the gods of Elkenah, Libnah, Mahmackrah, Korash, and Pharaoh.",
+      "churchId": "figure1_p4"
+    },
+    {
+      "slug": "abraham-fac-1-figure1_p5",
+      "type": "paragraph",
+      "number": null,
+      "content": "Fig. 5. The idolatrous god of Elkenah.",
+      "churchId": "figure1_p5"
+    },
+    {
+      "slug": "abraham-fac-1-figure1_p6",
+      "type": "paragraph",
+      "number": null,
+      "content": "Fig. 6. The idolatrous god of Libnah.",
+      "churchId": "figure1_p6"
+    },
+    {
+      "slug": "abraham-fac-1-figure1_p7",
+      "type": "paragraph",
+      "number": null,
+      "content": "Fig. 7. The idolatrous god of Mahmackrah.",
+      "churchId": "figure1_p7"
+    },
+    {
+      "slug": "abraham-fac-1-figure1_p8",
+      "type": "paragraph",
+      "number": null,
+      "content": "Fig. 8. The idolatrous god of Korash.",
+      "churchId": "figure1_p8"
+    },
+    {
+      "slug": "abraham-fac-1-figure1_p9",
+      "type": "paragraph",
+      "number": null,
+      "content": "Fig. 9. The idolatrous god of Pharaoh.",
+      "churchId": "figure1_p9"
+    },
+    {
+      "slug": "abraham-fac-1-figure1_p10",
+      "type": "paragraph",
+      "number": null,
+      "content": "Fig. 10. Abraham in Egypt.",
+      "churchId": "figure1_p10"
+    },
+    {
+      "slug": "abraham-fac-1-figure1_p11",
+      "type": "paragraph",
+      "number": null,
+      "content": "Fig. 11. Designed to represent the pillars of heaven, as understood by the Egyptians.",
+      "churchId": "figure1_p11"
+    },
+    {
+      "slug": "abraham-fac-1-figure1_p12",
+      "type": "paragraph",
+      "number": null,
+      "content": "Fig. 12. Raukeeyang, signifying expanse, or the firmament over our heads; but in this case, in relation to this subject, the Egyptians meant it to signify Shaumau, to be high, or the heavens, answering to the Hebrew word, Shaumahyeem.",
+      "churchId": "figure1_p12"
+    }
+  ]
+}

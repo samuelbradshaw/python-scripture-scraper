@@ -1,0 +1,470 @@
+{
+  "name": "Numbers 26",
+  "abbrev": "Num. 26",
+  "number": "26",
+  "churchUri": "/scriptures/ot/num/26",
+  "paragraphs": [
+    {
+      "slug": "numbers-26-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 26",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "numbers-26-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And it came to pass after the plague, that the <span class=\"small-caps\">Lord</span> spake unto Moses and unto Eleazar the son of Aaron the priest, saying,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "numbers-26-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Take the sum of all the congregation of the children of Israel, from twenty years old and upward, throughout their fathers’ house, all that are able to go to war in Israel.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "numbers-26-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And Moses and Eleazar the priest spake with them in the plains of Moab by Jordan <span class=\"clarity-word\">near</span> Jericho, saying,",
+      "churchId": "p3"
+    },
+    {
+      "slug": "numbers-26-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "<span class=\"clarity-word\">Take the sum of the people,</span> from twenty years old and upward; as the <span class=\"small-caps\">Lord</span> commanded Moses and the children of Israel, which went forth out of the land of Egypt.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "numbers-26-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "¶ Reuben, the eldest son of Israel: the children of Reuben; Hanoch, <span class=\"clarity-word\">of whom cometh</span> the family of the Hanochites: of Pallu, the family of the Palluites:",
+      "churchId": "p5"
+    },
+    {
+      "slug": "numbers-26-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Of Hezron, the family of the Hezronites: of Carmi, the family of the Carmites.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "numbers-26-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "These <span class=\"clarity-word\">are</span> the families of the Reubenites: and they that were numbered of them were forty and three thousand and seven hundred and thirty.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "numbers-26-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And the sons of Pallu; Eliab.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "numbers-26-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And the sons of Eliab; Nemuel, and Dathan, and Abiram. This <span class=\"clarity-word\">is that</span> Dathan and Abiram, <span class=\"clarity-word\">which were</span> famous in the congregation, who strove against Moses and against Aaron in the company of Korah, when they strove against the <span class=\"small-caps\">Lord</span>:",
+      "churchId": "p9"
+    },
+    {
+      "slug": "numbers-26-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And the earth opened her mouth, and swallowed them up together with Korah, when that company died, what time the fire devoured two hundred and fifty men: and they became a sign.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "numbers-26-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Notwithstanding the children of Korah died not.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "numbers-26-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "¶ The sons of Simeon after their families: of Nemuel, the family of the Nemuelites: of Jamin, the family of the Jaminites: of Jachin, the family of the Jachinites:",
+      "churchId": "p12"
+    },
+    {
+      "slug": "numbers-26-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Of Zerah, the family of the Zarhites: of Shaul, the family of the Shaulites.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "numbers-26-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "These <span class=\"clarity-word\">are</span> the families of the Simeonites, twenty and two thousand and two hundred.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "numbers-26-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "¶ The children of Gad after their families: of Zephon, the family of the Zephonites: of Haggi, the family of the Haggites: of Shuni, the family of the Shunites:",
+      "churchId": "p15"
+    },
+    {
+      "slug": "numbers-26-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Of Ozni, the family of the Oznites: of Eri, the family of the Erites:",
+      "churchId": "p16"
+    },
+    {
+      "slug": "numbers-26-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Of Arod, the family of the Arodites: of Areli, the family of the Arelites.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "numbers-26-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "These <span class=\"clarity-word\">are</span> the families of the children of Gad according to those that were numbered of them, forty thousand and five hundred.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "numbers-26-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "¶ The sons of Judah <span class=\"clarity-word\">were</span> Er and Onan: and Er and Onan died in the land of Canaan.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "numbers-26-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And the sons of Judah after their families were; of Shelah, the family of the Shelanites: of Pharez, the family of the Pharzites: of Zerah, the family of the Zarhites.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "numbers-26-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And the sons of Pharez were; of Hezron, the family of the Hezronites: of Hamul, the family of the Hamulites.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "numbers-26-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "These <span class=\"clarity-word\">are</span> the families of Judah according to those that were numbered of them, threescore and sixteen thousand and five hundred.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "numbers-26-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "¶ <span class=\"clarity-word\">Of</span> the sons of Issachar after their families: <span class=\"clarity-word\">of</span> Tola, the family of the Tolaites: of Pua, the family of the Punites:",
+      "churchId": "p23"
+    },
+    {
+      "slug": "numbers-26-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Of Jashub, the family of the Jashubites: of Shimron, the family of the Shimronites.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "numbers-26-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "These <span class=\"clarity-word\">are</span> the families of Issachar according to those that were numbered of them, threescore and four thousand and three hundred.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "numbers-26-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "¶ <span class=\"clarity-word\">Of</span> the sons of Zebulun after their families: of Sered, the family of the Sardites: of Elon, the family of the Elonites: of Jahleel, the family of the Jahleelites.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "numbers-26-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "These <span class=\"clarity-word\">are</span> the families of the Zebulunites according to those that were numbered of them, threescore thousand and five hundred.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "numbers-26-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "¶ The sons of Joseph after their families <span class=\"clarity-word\">were</span> Manasseh and Ephraim.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "numbers-26-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "Of the sons of Manasseh: of Machir, the family of the Machirites: and Machir begat Gilead: of Gilead <span class=\"clarity-word\">come</span> the family of the Gileadites.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "numbers-26-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "These <span class=\"clarity-word\">are</span> the sons of Gilead: <span class=\"clarity-word\">of</span> Jeezer, the family of the Jeezerites: of Helek, the family of the Helekites:",
+      "churchId": "p30"
+    },
+    {
+      "slug": "numbers-26-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "And <span class=\"clarity-word\">of</span> Asriel, the family of the Asrielites: and <span class=\"clarity-word\">of</span> Shechem, the family of the Shechemites:",
+      "churchId": "p31"
+    },
+    {
+      "slug": "numbers-26-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "And <span class=\"clarity-word\">of</span> Shemida, the family of the Shemidaites: and <span class=\"clarity-word\">of</span> Hepher, the family of the Hepherites.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "numbers-26-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "¶ And Zelophehad the son of Hepher had no sons, but daughters: and the names of the daughters of Zelophehad <span class=\"clarity-word\">were</span> Mahlah, and Noah, Hoglah, Milcah, and Tirzah.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "numbers-26-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "These <span class=\"clarity-word\">are</span> the families of Manasseh, and those that were numbered of them, fifty and two thousand and seven hundred.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "numbers-26-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "¶ These <span class=\"clarity-word\">are</span> the sons of Ephraim after their families: of Shuthelah, the family of the Shuthalhites: of Becher, the family of the Bachrites: of Tahan, the family of the Tahanites.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "numbers-26-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "And these <span class=\"clarity-word\">are</span> the sons of Shuthelah: of Eran, the family of the Eranites.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "numbers-26-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "These <span class=\"clarity-word\">are</span> the families of the sons of Ephraim according to those that were numbered of them, thirty and two thousand and five hundred. These <span class=\"clarity-word\">are</span> the sons of Joseph after their families.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "numbers-26-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "¶ The sons of Benjamin after their families: of Bela, the family of the Belaites: of Ashbel, the family of the Ashbelites: of Ahiram, the family of the Ahiramites:",
+      "churchId": "p38"
+    },
+    {
+      "slug": "numbers-26-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "Of Shupham, the family of the Shuphamites: of Hupham, the family of the Huphamites.",
+      "churchId": "p39"
+    },
+    {
+      "slug": "numbers-26-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "And the sons of Bela were Ard and Naaman: <span class=\"clarity-word\">of Ard,</span> the family of the Ardites: <span class=\"clarity-word\">and</span> of Naaman, the family of the Naamites.",
+      "churchId": "p40"
+    },
+    {
+      "slug": "numbers-26-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "These <span class=\"clarity-word\">are</span> the sons of Benjamin after their families: and they that were numbered of them <span class=\"clarity-word\">were</span> forty and five thousand and six hundred.",
+      "churchId": "p41"
+    },
+    {
+      "slug": "numbers-26-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "¶ These <span class=\"clarity-word\">are</span> the sons of Dan after their families: of Shuham, the family of the Shuhamites. These <span class=\"clarity-word\">are</span> the families of Dan after their families.",
+      "churchId": "p42"
+    },
+    {
+      "slug": "numbers-26-p43",
+      "type": "verse",
+      "number": "43",
+      "content": "All the families of the Shuhamites, according to those that were numbered of them, <span class=\"clarity-word\">were</span> threescore and four thousand and four hundred.",
+      "churchId": "p43"
+    },
+    {
+      "slug": "numbers-26-p44",
+      "type": "verse",
+      "number": "44",
+      "content": "¶ <span class=\"clarity-word\">Of</span> the children of Asher after their families: of Jimna, the family of the Jimnites: of Jesui, the family of the Jesuites: of Beriah, the family of the Beriites.",
+      "churchId": "p44"
+    },
+    {
+      "slug": "numbers-26-p45",
+      "type": "verse",
+      "number": "45",
+      "content": "Of the sons of Beriah: of Heber, the family of the Heberites: of Malchiel, the family of the Malchielites.",
+      "churchId": "p45"
+    },
+    {
+      "slug": "numbers-26-p46",
+      "type": "verse",
+      "number": "46",
+      "content": "And the name of the daughter of Asher <span class=\"clarity-word\">was</span> Sarah.",
+      "churchId": "p46"
+    },
+    {
+      "slug": "numbers-26-p47",
+      "type": "verse",
+      "number": "47",
+      "content": "These <span class=\"clarity-word\">are</span> the families of the sons of Asher according to those that were numbered of them; <span class=\"clarity-word\">who were</span> fifty and three thousand and four hundred.",
+      "churchId": "p47"
+    },
+    {
+      "slug": "numbers-26-p48",
+      "type": "verse",
+      "number": "48",
+      "content": "¶ <span class=\"clarity-word\">Of</span> the sons of Naphtali after their families: of Jahzeel, the family of the Jahzeelites: of Guni, the family of the Gunites:",
+      "churchId": "p48"
+    },
+    {
+      "slug": "numbers-26-p49",
+      "type": "verse",
+      "number": "49",
+      "content": "Of Jezer, the family of the Jezerites: of Shillem, the family of the Shillemites.",
+      "churchId": "p49"
+    },
+    {
+      "slug": "numbers-26-p50",
+      "type": "verse",
+      "number": "50",
+      "content": "These <span class=\"clarity-word\">are</span> the families of Naphtali according to their families: and they that were numbered of them <span class=\"clarity-word\">were</span> forty and five thousand and four hundred.",
+      "churchId": "p50"
+    },
+    {
+      "slug": "numbers-26-p51",
+      "type": "verse",
+      "number": "51",
+      "content": "These <span class=\"clarity-word\">were</span> the numbered of the children of Israel, six hundred thousand and a thousand seven hundred and thirty.",
+      "churchId": "p51"
+    },
+    {
+      "slug": "numbers-26-p52",
+      "type": "verse",
+      "number": "52",
+      "content": "¶ And the <span class=\"small-caps\">Lord</span> spake unto Moses, saying,",
+      "churchId": "p52"
+    },
+    {
+      "slug": "numbers-26-p53",
+      "type": "verse",
+      "number": "53",
+      "content": "Unto these the land shall be divided for an inheritance according to the number of names.",
+      "churchId": "p53"
+    },
+    {
+      "slug": "numbers-26-p54",
+      "type": "verse",
+      "number": "54",
+      "content": "To many thou shalt give the more inheritance, and to few thou shalt give the less inheritance: to every one shall his inheritance be given according to those that were numbered of him.",
+      "churchId": "p54"
+    },
+    {
+      "slug": "numbers-26-p55",
+      "type": "verse",
+      "number": "55",
+      "content": "Notwithstanding the land shall be divided by lot: according to the names of the tribes of their fathers they shall inherit.",
+      "churchId": "p55"
+    },
+    {
+      "slug": "numbers-26-p56",
+      "type": "verse",
+      "number": "56",
+      "content": "According to the lot shall the possession thereof be divided between many and few.",
+      "churchId": "p56"
+    },
+    {
+      "slug": "numbers-26-p57",
+      "type": "verse",
+      "number": "57",
+      "content": "¶ And these <span class=\"clarity-word\">are</span> they that were numbered of the Levites after their families: of Gershon, the family of the Gershonites: of Kohath, the family of the Kohathites: of Merari, the family of the Merarites.",
+      "churchId": "p57"
+    },
+    {
+      "slug": "numbers-26-p58",
+      "type": "verse",
+      "number": "58",
+      "content": "These <span class=\"clarity-word\">are</span> the families of the Levites: the family of the Libnites, the family of the Hebronites, the family of the Mahlites, the family of the Mushites, the family of the Korathites. And Kohath begat Amram.",
+      "churchId": "p58"
+    },
+    {
+      "slug": "numbers-26-p59",
+      "type": "verse",
+      "number": "59",
+      "content": "And the name of Amram’s wife <span class=\"clarity-word\">was</span> Jochebed, the daughter of Levi, whom <span class=\"clarity-word\">her mother</span> bare to Levi in Egypt: and she bare unto Amram Aaron and Moses, and Miriam their sister.",
+      "churchId": "p59"
+    },
+    {
+      "slug": "numbers-26-p60",
+      "type": "verse",
+      "number": "60",
+      "content": "And unto Aaron was born Nadab, and Abihu, Eleazar, and Ithamar.",
+      "churchId": "p60"
+    },
+    {
+      "slug": "numbers-26-p61",
+      "type": "verse",
+      "number": "61",
+      "content": "And Nadab and Abihu died, when they offered strange fire before the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p61"
+    },
+    {
+      "slug": "numbers-26-p62",
+      "type": "verse",
+      "number": "62",
+      "content": "And those that were numbered of them were twenty and three thousand, all males from a month old and upward: for they were not numbered among the children of Israel, because there was no inheritance given them among the children of Israel.",
+      "churchId": "p62"
+    },
+    {
+      "slug": "numbers-26-p63",
+      "type": "verse",
+      "number": "63",
+      "content": "¶ These <span class=\"clarity-word\">are</span> they that were numbered by Moses and Eleazar the priest, who numbered the children of Israel in the plains of Moab by Jordan <span class=\"clarity-word\">near</span> Jericho.",
+      "churchId": "p63"
+    },
+    {
+      "slug": "numbers-26-p64",
+      "type": "verse",
+      "number": "64",
+      "content": "But among these there was not a man of them whom Moses and Aaron the priest numbered, when they numbered the children of Israel in the wilderness of Sinai.",
+      "churchId": "p64"
+    },
+    {
+      "slug": "numbers-26-p65",
+      "type": "verse",
+      "number": "65",
+      "content": "For the <span class=\"small-caps\">Lord</span> had said of them, They shall surely die in the wilderness. And there was not left a man of them, save Caleb the son of Jephunneh, and Joshua the son of Nun.",
+      "churchId": "p65"
+    }
+  ]
+}

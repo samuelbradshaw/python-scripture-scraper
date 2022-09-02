@@ -1,0 +1,155 @@
+{
+  "name": "Deuteronomy 17",
+  "abbrev": "Deut. 17",
+  "number": "17",
+  "churchUri": "/scriptures/ot/deut/17",
+  "paragraphs": [
+    {
+      "slug": "deuteronomy-17-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 17",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "deuteronomy-17-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Thou shalt not sacrifice unto the <span class=\"small-caps\">Lord</span> thy God <span class=\"clarity-word\">any</span> bullock, or sheep, wherein is blemish, <span class=\"clarity-word\">or</span> any evilfavouredness: for that <span class=\"clarity-word\">is</span> an abomination unto the <span class=\"small-caps\">Lord</span> thy God.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "deuteronomy-17-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "¶ If there be found among you, within any of thy gates which the <span class=\"small-caps\">Lord</span> thy God giveth thee, man or woman, that hath wrought wickedness in the sight of the <span class=\"small-caps\">Lord</span> thy God, in transgressing his covenant,",
+      "churchId": "p2"
+    },
+    {
+      "slug": "deuteronomy-17-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And hath gone and served other gods, and worshipped them, either the sun, or moon, or any of the host of heaven, which I have not commanded;",
+      "churchId": "p3"
+    },
+    {
+      "slug": "deuteronomy-17-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And it be told thee, and thou hast heard <span class=\"clarity-word\">of it,</span> and inquired diligently, and, behold, <span class=\"clarity-word\">it be</span> true, <span class=\"clarity-word\">and</span> the thing certain, <span class=\"clarity-word\">that</span> such abomination is wrought in Israel:",
+      "churchId": "p4"
+    },
+    {
+      "slug": "deuteronomy-17-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Then shalt thou bring forth that man or that woman, which have committed that wicked thing, unto thy gates, <span class=\"clarity-word\">even</span> that man or that woman, and shalt stone them with stones, till they die.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "deuteronomy-17-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "At the mouth of two witnesses, or three witnesses, shall he that is worthy of death be put to death; <span class=\"clarity-word\">but</span> at the mouth of one witness he shall not be put to death.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "deuteronomy-17-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "The hands of the witnesses shall be first upon him to put him to death, and afterward the hands of all the people. So thou shalt put the evil away from among you.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "deuteronomy-17-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "¶ If there arise a matter too hard for thee in judgment, between blood and blood, between plea and plea, and between stroke and stroke, <span class=\"clarity-word\">being</span> matters of controversy within thy gates: then shalt thou arise, and get thee up into the place which the <span class=\"small-caps\">Lord</span> thy God shall choose;",
+      "churchId": "p8"
+    },
+    {
+      "slug": "deuteronomy-17-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And thou shalt come unto the priests the Levites, and unto the judge that shall be in those days, and inquire; and they shall shew thee the sentence of judgment:",
+      "churchId": "p9"
+    },
+    {
+      "slug": "deuteronomy-17-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And thou shalt do according to the sentence, which they of that place which the <span class=\"small-caps\">Lord</span> shall choose shall shew thee; and thou shalt observe to do according to all that they inform thee:",
+      "churchId": "p10"
+    },
+    {
+      "slug": "deuteronomy-17-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "According to the sentence of the law which they shall teach thee, and according to the judgment which they shall tell thee, thou shalt do: thou shalt not decline from the sentence which they shall shew thee, <span class=\"clarity-word\">to</span> the right hand, nor <span class=\"clarity-word\">to</span> the left.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "deuteronomy-17-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And the man that will do presumptuously, and will not hearken unto the priest that standeth to minister there before the <span class=\"small-caps\">Lord</span> thy God, or unto the judge, even that man shall die: and thou shalt put away the evil from Israel.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "deuteronomy-17-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And all the people shall hear, and fear, and do no more presumptuously.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "deuteronomy-17-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "¶ When thou art come unto the land which the <span class=\"small-caps\">Lord</span> thy God giveth thee, and shalt possess it, and shalt dwell therein, and shalt say, I will set a king over me, like as all the nations that <span class=\"clarity-word\">are</span> about me;",
+      "churchId": "p14"
+    },
+    {
+      "slug": "deuteronomy-17-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Thou shalt in any wise set <span class=\"clarity-word\">him</span> king over thee, whom the <span class=\"small-caps\">Lord</span> thy God shall choose: <span class=\"clarity-word\">one</span> from among thy brethren shalt thou set king over thee: thou mayest not set a stranger over thee, which <span class=\"clarity-word\">is</span> not thy brother.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "deuteronomy-17-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "But he shall not multiply horses to himself, nor cause the people to return to Egypt, to the end that he should multiply horses: forasmuch as the <span class=\"small-caps\">Lord</span> hath said unto you, Ye shall henceforth return no more that way.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "deuteronomy-17-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Neither shall he multiply wives to himself, that his heart turn not away: neither shall he greatly multiply to himself silver and gold.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "deuteronomy-17-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And it shall be, when he sitteth upon the throne of his kingdom, that he shall write him a copy of this law in a book out of <span class=\"clarity-word\">that which is</span> before the priests the Levites:",
+      "churchId": "p18"
+    },
+    {
+      "slug": "deuteronomy-17-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And it shall be with him, and he shall read therein all the days of his life: that he may learn to fear the <span class=\"small-caps\">Lord</span> his God, to keep all the words of this law and these statutes, to do them:",
+      "churchId": "p19"
+    },
+    {
+      "slug": "deuteronomy-17-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "That his heart be not lifted up above his brethren, and that he turn not aside from the commandment, <span class=\"clarity-word\">to</span> the right hand, or <span class=\"clarity-word\">to</span> the left: to the end that he may prolong <span class=\"clarity-word\">his</span> days in his kingdom, he, and his children, in the midst of Israel.",
+      "churchId": "p20"
+    }
+  ]
+}

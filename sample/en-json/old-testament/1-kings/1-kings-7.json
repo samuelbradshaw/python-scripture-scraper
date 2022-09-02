@@ -1,0 +1,372 @@
+{
+  "name": "1 Kings 7",
+  "abbrev": "1 Kgs. 7",
+  "number": "7",
+  "churchUri": "/scriptures/ot/1-kgs/7",
+  "paragraphs": [
+    {
+      "slug": "1-kings-7-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 7",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "1-kings-7-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "But Solomon was building his own house thirteen years, and he finished all his house.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "1-kings-7-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "¶ He built also the house of the forest of Lebanon; the length thereof <span class=\"clarity-word\">was</span> an hundred cubits, and the breadth thereof fifty cubits, and the height thereof thirty cubits, upon four rows of cedar pillars, with cedar beams upon the pillars.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "1-kings-7-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And <span class=\"clarity-word\">it was</span> covered with cedar above upon the beams, that <span class=\"clarity-word\">lay</span> on forty five pillars, fifteen <span class=\"clarity-word\">in</span> a row.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "1-kings-7-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And <span class=\"clarity-word\">there were</span> windows <span class=\"clarity-word\">in</span> three rows, and light <span class=\"clarity-word\">was</span> against light <span class=\"clarity-word\">in</span> three ranks.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "1-kings-7-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And all the doors and posts <span class=\"clarity-word\">were</span> square, with the windows: and light <span class=\"clarity-word\">was</span> against light <span class=\"clarity-word\">in</span> three ranks.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "1-kings-7-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "¶ And he made a porch of pillars; the length thereof <span class=\"clarity-word\">was</span> fifty cubits, and the breadth thereof thirty cubits: and the porch <span class=\"clarity-word\">was</span> before them: and the <span class=\"clarity-word\">other</span> pillars and the thick beam <span class=\"clarity-word\">were</span> before them.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "1-kings-7-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "¶ Then he made a porch for the throne where he might judge, <span class=\"clarity-word\">even</span> the porch of judgment: and <span class=\"clarity-word\">it was</span> covered with cedar from one side of the floor to the other.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "1-kings-7-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "¶ And his house where he dwelt <span class=\"clarity-word\">had</span> another court within the porch, <span class=\"clarity-word\">which</span> was of the like work. Solomon made also an house for Pharaoh’s daughter, whom he had taken <span class=\"clarity-word\">to wife,</span> like unto this porch.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "1-kings-7-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "All these <span class=\"clarity-word\">were of</span> costly stones, according to the measures of hewed stones, sawed with saws, within and without, even from the foundation unto the coping, and <span class=\"clarity-word\">so</span> on the outside toward the great court.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "1-kings-7-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And the foundation <span class=\"clarity-word\">was of</span> costly stones, even great stones, stones of ten cubits, and stones of eight cubits.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "1-kings-7-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And above <span class=\"clarity-word\">were</span> costly stones, after the measures of hewed stones, and cedars.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "1-kings-7-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And the great court round about <span class=\"clarity-word\">was</span> with three rows of hewed stones, and a row of cedar beams, both for the inner court of the house of the <span class=\"small-caps\">Lord</span>, and for the porch of the house.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "1-kings-7-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "¶ And king Solomon sent and fetched Hiram out of Tyre.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "1-kings-7-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "He <span class=\"clarity-word\">was</span> a widow’s son of the tribe of Naphtali, and his father <span class=\"clarity-word\">was</span> a man of Tyre, a worker in brass: and he was filled with wisdom, and understanding, and cunning to work all works in brass. And he came to king Solomon, and wrought all his work.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "1-kings-7-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "For he cast two pillars of brass, of eighteen cubits high apiece: and a line of twelve cubits did compass either of them about.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "1-kings-7-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And he made two chapiters <span class=\"clarity-word\">of</span> molten brass, to set upon the tops of the pillars: the height of the one chapiter <span class=\"clarity-word\">was</span> five cubits, and the height of the other chapiter <span class=\"clarity-word\">was</span> five cubits:",
+      "churchId": "p16"
+    },
+    {
+      "slug": "1-kings-7-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "<span class=\"clarity-word\">And</span> nets of checker work, and wreaths of chain work, for the chapiters which <span class=\"clarity-word\">were</span> upon the top of the pillars; seven for the one chapiter, and seven for the other chapiter.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "1-kings-7-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And he made the pillars, and two rows round about upon the one network, to cover the chapiters that <span class=\"clarity-word\">were</span> upon the top, with pomegranates: and so did he for the other chapiter.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "1-kings-7-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And the chapiters that <span class=\"clarity-word\">were</span> upon the top of the pillars <span class=\"clarity-word\">were</span> of lily work in the porch, four cubits.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "1-kings-7-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And the chapiters upon the two pillars <span class=\"clarity-word\">had pomegranates</span> also above, over against the belly which <span class=\"clarity-word\">was</span> by the network: and the pomegranates <span class=\"clarity-word\">were</span> two hundred in rows round about upon the other chapiter.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "1-kings-7-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And he set up the pillars in the porch of the temple: and he set up the right pillar, and called the name thereof Jachin: and he set up the left pillar, and called the name thereof Boaz.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "1-kings-7-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And upon the top of the pillars <span class=\"clarity-word\">was</span> lily work: so was the work of the pillars finished.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "1-kings-7-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "¶ And he made a molten sea, ten cubits from the one brim to the other: <span class=\"clarity-word\">it was</span> round all about, and his height <span class=\"clarity-word\">was</span> five cubits: and a line of thirty cubits did compass it round about.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "1-kings-7-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And under the brim of it round about <span class=\"clarity-word\">there were</span> knops compassing it, ten in a cubit, compassing the sea round about: the knops <span class=\"clarity-word\">were</span> cast in two rows, when it was cast.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "1-kings-7-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "It stood upon twelve oxen, three looking toward the north, and three looking toward the west, and three looking toward the south, and three looking toward the east: and the sea <span class=\"clarity-word\">was set</span> above upon them, and all their hinder parts <span class=\"clarity-word\">were</span> inward.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "1-kings-7-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And it <span class=\"clarity-word\">was</span> an hand breadth thick, and the brim thereof was wrought like the brim of a cup, with flowers of lilies: it contained two thousand baths.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "1-kings-7-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "¶ And he made ten bases of brass; four cubits <span class=\"clarity-word\">was</span> the length of one base, and four cubits the breadth thereof, and three cubits the height of it.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "1-kings-7-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And the work of the bases <span class=\"clarity-word\">was</span> on this <span class=\"clarity-word\">manner:</span> they had borders, and the borders <span class=\"clarity-word\">were</span> between the ledges:",
+      "churchId": "p28"
+    },
+    {
+      "slug": "1-kings-7-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "And on the borders that <span class=\"clarity-word\">were</span> between the ledges <span class=\"clarity-word\">were</span> lions, oxen, and cherubims: and upon the ledges <span class=\"clarity-word\">there was</span> a base above: and beneath the lions and oxen <span class=\"clarity-word\">were</span> certain additions made of thin work.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "1-kings-7-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And every base had four brasen wheels, and plates of brass: and the four corners thereof had undersetters: under the laver <span class=\"clarity-word\">were</span> undersetters molten, at the side of every addition.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "1-kings-7-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "And the mouth of it within the chapiter and above <span class=\"clarity-word\">was</span> a cubit: but the mouth thereof <span class=\"clarity-word\">was</span> round <span class=\"clarity-word\">after</span> the work of the base, a cubit and an half: and also upon the mouth of it <span class=\"clarity-word\">were</span> gravings with their borders, foursquare, not round.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "1-kings-7-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "And under the borders <span class=\"clarity-word\">were</span> four wheels; and the axletrees of the wheels <span class=\"clarity-word\">were joined</span> to the base: and the height of a wheel <span class=\"clarity-word\">was</span> a cubit and half a cubit.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "1-kings-7-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "And the work of the wheels <span class=\"clarity-word\">was</span> like the work of a chariot wheel: their axletrees, and their naves, and their felloes, and their spokes, <span class=\"clarity-word\">were</span> all molten.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "1-kings-7-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "And <span class=\"clarity-word\">there were</span> four undersetters to the four corners of one base: <span class=\"clarity-word\">and</span> the undersetters <span class=\"clarity-word\">were</span> of the very base itself.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "1-kings-7-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "And in the top of the base <span class=\"clarity-word\">was there</span> a round compass of half a cubit high: and on the top of the base the ledges thereof and the borders thereof <span class=\"clarity-word\">were</span> of the same.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "1-kings-7-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "For on the plates of the ledges thereof, and on the borders thereof, he graved cherubims, lions, and palm trees, according to the proportion of every one, and additions round about.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "1-kings-7-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "After this <span class=\"clarity-word\">manner</span> he made the ten bases: all of them had one casting, one measure, <span class=\"clarity-word\">and</span> one size.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "1-kings-7-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "¶ Then made he ten lavers of brass: one laver contained forty baths: <span class=\"clarity-word\">and</span> every laver was four cubits: <span class=\"clarity-word\">and</span> upon every one of the ten bases one laver.",
+      "churchId": "p38"
+    },
+    {
+      "slug": "1-kings-7-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "And he put five bases on the right side of the house, and five on the left side of the house: and he set the sea on the right side of the house eastward over against the south.",
+      "churchId": "p39"
+    },
+    {
+      "slug": "1-kings-7-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "¶ And Hiram made the lavers, and the shovels, and the basins. So Hiram made an end of doing all the work that he made king Solomon for the house of the <span class=\"small-caps\">Lord</span>:",
+      "churchId": "p40"
+    },
+    {
+      "slug": "1-kings-7-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "The two pillars, and the <span class=\"clarity-word\">two</span> bowls of the chapiters that <span class=\"clarity-word\">were</span> on the top of the two pillars; and the two networks, to cover the two bowls of the chapiters which <span class=\"clarity-word\">were</span> upon the top of the pillars;",
+      "churchId": "p41"
+    },
+    {
+      "slug": "1-kings-7-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "And four hundred pomegranates for the two networks, <span class=\"clarity-word\">even</span> two rows of pomegranates for one network, to cover the two bowls of the chapiters that <span class=\"clarity-word\">were</span> upon the pillars;",
+      "churchId": "p42"
+    },
+    {
+      "slug": "1-kings-7-p43",
+      "type": "verse",
+      "number": "43",
+      "content": "And the ten bases, and ten lavers on the bases;",
+      "churchId": "p43"
+    },
+    {
+      "slug": "1-kings-7-p44",
+      "type": "verse",
+      "number": "44",
+      "content": "And one sea, and twelve oxen under the sea;",
+      "churchId": "p44"
+    },
+    {
+      "slug": "1-kings-7-p45",
+      "type": "verse",
+      "number": "45",
+      "content": "And the pots, and the shovels, and the basins: and all these vessels, which Hiram made to king Solomon for the house of the <span class=\"small-caps\">Lord</span>, <span class=\"clarity-word\">were of</span> bright brass.",
+      "churchId": "p45"
+    },
+    {
+      "slug": "1-kings-7-p46",
+      "type": "verse",
+      "number": "46",
+      "content": "In the plain of Jordan did the king cast them, in the clay ground between Succoth and Zarthan.",
+      "churchId": "p46"
+    },
+    {
+      "slug": "1-kings-7-p47",
+      "type": "verse",
+      "number": "47",
+      "content": "And Solomon left all the vessels <span class=\"clarity-word\">unweighed,</span> because they were exceeding many: neither was the weight of the brass found out.",
+      "churchId": "p47"
+    },
+    {
+      "slug": "1-kings-7-p48",
+      "type": "verse",
+      "number": "48",
+      "content": "And Solomon made all the vessels that <span class=\"clarity-word\">pertained</span> unto the house of the <span class=\"small-caps\">Lord</span>: the altar of gold, and the table of gold, whereupon the shewbread <span class=\"clarity-word\">was,</span>",
+      "churchId": "p48"
+    },
+    {
+      "slug": "1-kings-7-p49",
+      "type": "verse",
+      "number": "49",
+      "content": "And the candlesticks of pure gold, five on the right <span class=\"clarity-word\">side,</span> and five on the left, before the oracle, with the flowers, and the lamps, and the tongs <span class=\"clarity-word\">of</span> gold,",
+      "churchId": "p49"
+    },
+    {
+      "slug": "1-kings-7-p50",
+      "type": "verse",
+      "number": "50",
+      "content": "And the bowls, and the snuffers, and the basins, and the spoons, and the censers <span class=\"clarity-word\">of</span> pure gold; and the hinges <span class=\"clarity-word\">of</span> gold, <span class=\"clarity-word\">both</span> for the doors of the inner house, the most holy <span class=\"clarity-word\">place</span><span class=\"clarity-word\">, and</span> for the doors of the house, <span class=\"clarity-word\">to wit,</span> of the temple.",
+      "churchId": "p50"
+    },
+    {
+      "slug": "1-kings-7-p51",
+      "type": "verse",
+      "number": "51",
+      "content": "So was ended all the work that king Solomon made for the house of the <span class=\"small-caps\">Lord</span>. And Solomon brought in the things which David his father had dedicated; <span class=\"clarity-word\">even</span> the silver, and the gold, and the vessels, did he put among the treasures of the house of the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p51"
+    }
+  ]
+}

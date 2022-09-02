@@ -1,0 +1,127 @@
+{
+  "name": "Hosea 13",
+  "abbrev": "Hosea 13",
+  "number": "13",
+  "churchUri": "/scriptures/ot/hosea/13",
+  "paragraphs": [
+    {
+      "slug": "hosea-13-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 13",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "hosea-13-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "When Ephraim spake trembling, he exalted himself in Israel; but when he offended in Baal, he died.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "hosea-13-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And now they sin more and more, and have made them molten images of their silver, <span class=\"clarity-word\">and</span> idols according to their own understanding, all of it the work of the craftsmen: they say of them, Let the men that sacrifice kiss the calves.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "hosea-13-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Therefore they shall be as the morning cloud, and as the early dew that passeth away, as the chaff <span class=\"clarity-word\">that</span> is driven with the whirlwind out of the floor, and as the smoke out of the chimney.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "hosea-13-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Yet I <span class=\"clarity-word\">am</span> the <span class=\"small-caps\">Lord</span> thy God from the land of Egypt, and thou shalt know no god but me: for <span class=\"clarity-word\">there is</span> no saviour beside me.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "hosea-13-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "¶ I did know thee in the wilderness, in the land of great drought.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "hosea-13-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "According to their pasture, so were they filled; they were filled, and their heart was exalted; therefore have they forgotten me.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "hosea-13-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Therefore I will be unto them as a lion: as a leopard by the way will I observe <span class=\"clarity-word\">them:</span>",
+      "churchId": "p7"
+    },
+    {
+      "slug": "hosea-13-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "I will meet them as a bear <span class=\"clarity-word\">that is</span> bereaved <span class=\"clarity-word\">of her whelps,</span> and will rend the caul of their heart, and there will I devour them like a lion: the wild beast shall tear them.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "hosea-13-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "¶ O Israel, thou hast destroyed thyself; but in me <span class=\"clarity-word\">is</span> thine help.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "hosea-13-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "I will be thy king: where <span class=\"clarity-word\">is any other</span> that may save thee in all thy cities? and thy judges of whom thou saidst, Give me a king and princes?",
+      "churchId": "p10"
+    },
+    {
+      "slug": "hosea-13-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "I gave thee a king in mine anger, and took <span class=\"clarity-word\">him</span> away in my wrath.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "hosea-13-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "The iniquity of Ephraim <span class=\"clarity-word\">is</span> bound up; his sin <span class=\"clarity-word\">is</span> hid.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "hosea-13-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "The sorrows of a travailing woman shall come upon him: he <span class=\"clarity-word\">is</span> an unwise son; for he should not stay long in <span class=\"clarity-word\">the place of</span> the breaking forth of children.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "hosea-13-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "I will ransom them from the power of the grave; I will redeem them from death: O death, I will be thy plagues; O grave, I will be thy destruction: repentance shall be hid from mine eyes.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "hosea-13-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "¶ Though he be fruitful among <span class=\"clarity-word\">his</span> brethren, an east wind shall come, the wind of the <span class=\"small-caps\">Lord</span> shall come up from the wilderness, and his spring shall become dry, and his fountain shall be dried up: he shall spoil the treasure of all pleasant vessels.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "hosea-13-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Samaria shall become desolate; for she hath rebelled against her God: they shall fall by the sword: their infants shall be dashed in pieces, and their women with child shall be ripped up.",
+      "churchId": "p16"
+    }
+  ]
+}

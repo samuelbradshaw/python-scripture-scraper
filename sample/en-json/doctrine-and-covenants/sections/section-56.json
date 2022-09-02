@@ -1,0 +1,155 @@
+{
+  "name": "Doctrine and Covenants 56",
+  "abbrev": "D&C 56",
+  "number": "56",
+  "churchUri": "/scriptures/dc-testament/dc/56",
+  "paragraphs": [
+    {
+      "slug": "section-56-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Section 56",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "section-56-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Hearken, O ye people who profess my name, saith the Lord your God; for behold, mine anger is kindled against the rebellious, and they shall know mine arm and mine indignation, in the day of visitation and of wrath upon the nations.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "section-56-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And he that will not take up his cross and follow me, and keep my commandments, the same shall not be saved.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "section-56-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Behold, I, the Lord, command; and he that will not obey shall be cut off in mine own due time, after I have commanded and the commandment is broken.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "section-56-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Wherefore I, the Lord, command and revoke, as it seemeth me good; and all this to be answered upon the heads of the rebellious, saith the Lord.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "section-56-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Wherefore, I revoke the commandment which was given unto my servants Thomas B. Marsh and Ezra Thayre, and give a new commandment unto my servant Thomas, that he shall take up his journey speedily to the land of Missouri, and my servant Selah J. Griffin shall also go with him.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "section-56-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "For behold, I revoke the commandment which was given unto my servants Selah J. Griffin and Newel Knight, in consequence of the stiffneckedness of my people which are in Thompson, and their rebellions.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "section-56-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Wherefore, let my servant Newel Knight remain with them; and as many as will go may go, that are contrite before me, and be led by him to the land which I have appointed.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "section-56-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And again, verily I say unto you, that my servant Ezra Thayre must repent of his pride, and of his selfishness, and obey the former commandment which I have given him concerning the place upon which he lives.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "section-56-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And if he will do this, as there shall be no divisions made upon the land, he shall be appointed still to go to the land of Missouri;",
+      "churchId": "p9"
+    },
+    {
+      "slug": "section-56-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Otherwise he shall receive the money which he has paid, and shall leave the place, and shall be cut off out of my church, saith the Lord God of hosts;",
+      "churchId": "p10"
+    },
+    {
+      "slug": "section-56-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And though the heaven and the earth pass away, these words shall not pass away, but shall be fulfilled.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "section-56-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And if my servant Joseph Smith, Jun., must needs pay the money, behold, I, the Lord, will pay it unto him again in the land of Missouri, that those of whom he shall receive may be rewarded again according to that which they do;",
+      "churchId": "p12"
+    },
+    {
+      "slug": "section-56-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "For according to that which they do they shall receive, even in lands for their inheritance.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "section-56-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Behold, thus saith the Lord unto my people—you have many things to do and to repent of; for behold, your sins have come up unto me, and are not pardoned, because you seek to counsel in your own ways.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "section-56-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And your hearts are not satisfied. And ye obey not the truth, but have pleasure in unrighteousness.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "section-56-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Wo unto you rich men, that will not give your substance to the poor, for your riches will canker your souls; and this shall be your lamentation in the day of visitation, and of judgment, and of indignation: The harvest is past, the summer is ended, and my soul is not saved!",
+      "churchId": "p16"
+    },
+    {
+      "slug": "section-56-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Wo unto you poor men, whose hearts are not broken, whose spirits are not contrite, and whose bellies are not satisfied, and whose hands are not stayed from laying hold upon other men’s goods, whose eyes are full of greediness, and who will not labor with your own hands!",
+      "churchId": "p17"
+    },
+    {
+      "slug": "section-56-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "But blessed are the poor who are pure in heart, whose hearts are broken, and whose spirits are contrite, for they shall see the kingdom of God coming in power and great glory unto their deliverance; for the fatness of the earth shall be theirs.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "section-56-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "For behold, the Lord shall come, and his recompense shall be with him, and he shall reward every man, and the poor shall rejoice;",
+      "churchId": "p19"
+    },
+    {
+      "slug": "section-56-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And their generations shall inherit the earth from generation to generation, forever and ever. And now I make an end of speaking unto you. Even so. Amen.",
+      "churchId": "p20"
+    }
+  ]
+}

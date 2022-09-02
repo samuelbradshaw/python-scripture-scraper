@@ -1,0 +1,246 @@
+{
+  "name": "Romans 15",
+  "abbrev": "Rom. 15",
+  "number": "15",
+  "churchUri": "/scriptures/nt/rom/15",
+  "paragraphs": [
+    {
+      "slug": "romans-15-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 15",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "romans-15-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "We then that are strong ought to bear the infirmities of the weak, and not to please ourselves.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "romans-15-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Let every one of us please <span class=\"clarity-word\">his</span> neighbour for <span class=\"clarity-word\">his</span> good to edification.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "romans-15-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "For even Christ pleased not himself; but, as it is written, The reproaches of them that reproached thee fell on me.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "romans-15-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "For whatsoever things were written aforetime were written for our learning, that we through patience and comfort of the scriptures might have hope.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "romans-15-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Now the God of patience and consolation grant you to be likeminded one toward another according to Christ Jesus:",
+      "churchId": "p5"
+    },
+    {
+      "slug": "romans-15-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "That ye may with one mind <span class=\"clarity-word\">and</span> one mouth glorify God, even the Father of our Lord Jesus Christ.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "romans-15-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Wherefore receive ye one another, as Christ also received us to the glory of God.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "romans-15-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Now I say that Jesus Christ was a minister of the circumcision for the truth of God, to confirm the promises <span class=\"clarity-word\">made</span> unto the fathers:",
+      "churchId": "p8"
+    },
+    {
+      "slug": "romans-15-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And that the Gentiles might glorify God for <span class=\"clarity-word\">his</span> mercy; as it is written, For this cause I will confess to thee among the Gentiles, and sing unto thy name.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "romans-15-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And again he saith, Rejoice, ye Gentiles, with his people.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "romans-15-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And again, Praise the Lord, all ye Gentiles; and laud him, all ye people.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "romans-15-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And again, Esaias saith, There shall be a root of Jesse, and he that shall rise to reign over the Gentiles; in him shall the Gentiles trust.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "romans-15-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Now the God of hope fill you with all joy and peace in believing, that ye may abound in hope, through the power of the Holy Ghost.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "romans-15-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And I myself also am persuaded of you, my brethren, that ye also are full of goodness, filled with all knowledge, able also to admonish one another.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "romans-15-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Nevertheless, brethren, I have written the more boldly unto you in some sort, as putting you in mind, because of the grace that is given to me of God,",
+      "churchId": "p15"
+    },
+    {
+      "slug": "romans-15-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "That I should be the minister of Jesus Christ to the Gentiles, ministering the gospel of God, that the offering up of the Gentiles might be acceptable, being sanctified by the Holy Ghost.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "romans-15-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "I have therefore whereof I may glory through Jesus Christ in those things which pertain to God.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "romans-15-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "For I will not dare to speak of any of those things which Christ hath not wrought by me, to make the Gentiles obedient, by word and deed,",
+      "churchId": "p18"
+    },
+    {
+      "slug": "romans-15-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Through mighty signs and wonders, by the power of the Spirit of God; so that from Jerusalem, and round about unto Illyricum, I have fully preached the gospel of Christ.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "romans-15-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Yea, so have I strived to preach the gospel, not where Christ was named, lest I should build upon another man’s foundation:",
+      "churchId": "p20"
+    },
+    {
+      "slug": "romans-15-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "But as it is written, To whom he was not spoken of, they shall see: and they that have not heard shall understand.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "romans-15-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "For which cause also I have been much hindered from coming to you.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "romans-15-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "But now having no more place in these parts, and having a great desire these many years to come unto you;",
+      "churchId": "p23"
+    },
+    {
+      "slug": "romans-15-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Whensoever I take my journey into Spain, I will come to you: for I trust to see you in my journey, and to be brought on my way thitherward by you, if first I be somewhat filled with your <span class=\"clarity-word\">company.</span>",
+      "churchId": "p24"
+    },
+    {
+      "slug": "romans-15-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "But now I go unto Jerusalem to minister unto the saints.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "romans-15-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "For it hath pleased them of Macedonia and Achaia to make a certain contribution for the poor saints which are at Jerusalem.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "romans-15-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "It hath pleased them verily; and their debtors they are. For if the Gentiles have been made partakers of their spiritual things, their duty is also to minister unto them in carnal things.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "romans-15-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "When therefore I have performed this, and have sealed to them this fruit, I will come by you into Spain.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "romans-15-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "And I am sure that, when I come unto you, I shall come in the fulness of the blessing of the gospel of Christ.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "romans-15-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "Now I beseech you, brethren, for the Lord Jesus Christ’s sake, and for the love of the Spirit, that ye strive together with me in <span class=\"clarity-word\">your</span> prayers to God for me;",
+      "churchId": "p30"
+    },
+    {
+      "slug": "romans-15-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "That I may be delivered from them that do not believe in Judæa; and that my service which <span class=\"clarity-word\">I have</span> for Jerusalem may be accepted of the saints;",
+      "churchId": "p31"
+    },
+    {
+      "slug": "romans-15-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "That I may come unto you with joy by the will of God, and may with you be refreshed.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "romans-15-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "Now the God of peace <span class=\"clarity-word\">be</span> with you all. Amen.",
+      "churchId": "p33"
+    }
+  ]
+}

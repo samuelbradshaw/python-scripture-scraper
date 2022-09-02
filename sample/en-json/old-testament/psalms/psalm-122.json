@@ -1,0 +1,85 @@
+{
+  "name": "Psalm 122",
+  "abbrev": "Psalm 122",
+  "number": "122",
+  "churchUri": "/scriptures/ot/ps/122",
+  "paragraphs": [
+    {
+      "slug": "psalm-122-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 122",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-122-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "A Song of degrees of David.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-122-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "I was glad when they said unto me, Let us go into the house of the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-122-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Our feet shall stand within thy gates, O Jerusalem.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-122-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Jerusalem is builded as a city that is compact together:",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-122-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Whither the tribes go up, the tribes of the <span class=\"small-caps\">Lord</span>, unto the testimony of Israel, to give thanks unto the name of the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-122-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "For there are set thrones of judgment, the thrones of the house of David.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-122-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Pray for the peace of Jerusalem: they shall prosper that love thee.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-122-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Peace be within thy walls, <span class=\"clarity-word\">and</span> prosperity within thy palaces.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-122-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "For my brethren and companions’ sakes, I will now say, Peace <span class=\"clarity-word\">be</span> within thee.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "psalm-122-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Because of the house of the <span class=\"small-caps\">Lord</span> our God I will seek thy good.",
+      "churchId": "p9"
+    }
+  ]
+}

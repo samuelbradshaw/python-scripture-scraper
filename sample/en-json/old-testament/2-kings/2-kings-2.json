@@ -1,0 +1,190 @@
+{
+  "name": "2 Kings 2",
+  "abbrev": "2 Kgs. 2",
+  "number": "2",
+  "churchUri": "/scriptures/ot/2-kgs/2",
+  "paragraphs": [
+    {
+      "slug": "2-kings-2-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 2",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "2-kings-2-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And it came to pass, when the <span class=\"small-caps\">Lord</span> would take up Elijah into heaven by a whirlwind, that Elijah went with Elisha from Gilgal.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "2-kings-2-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And Elijah said unto Elisha, Tarry here, I pray thee; for the <span class=\"small-caps\">Lord</span> hath sent me to Beth-el. And Elisha said <span class=\"clarity-word\">unto him, As</span> the <span class=\"small-caps\">Lord</span> liveth, and <span class=\"clarity-word\">as</span> thy soul liveth, I will not leave thee. So they went down to Beth-el.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "2-kings-2-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And the sons of the prophets that <span class=\"clarity-word\">were</span> at Beth-el came forth to Elisha, and said unto him, Knowest thou that the <span class=\"small-caps\">Lord</span> will take away thy master from thy head to day? And he said, Yea, I know <span class=\"clarity-word\">it;</span> hold ye your peace.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "2-kings-2-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And Elijah said unto him, Elisha, tarry here, I pray thee; for the <span class=\"small-caps\">Lord</span> hath sent me to Jericho. And he said, <span class=\"clarity-word\">As</span> the <span class=\"small-caps\">Lord</span> liveth, and <span class=\"clarity-word\">as</span> thy soul liveth, I will not leave thee. So they came to Jericho.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "2-kings-2-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And the sons of the prophets that <span class=\"clarity-word\">were</span> at Jericho came to Elisha, and said unto him, Knowest thou that the <span class=\"small-caps\">Lord</span> will take away thy master from thy head to day? And he answered, Yea, I know <span class=\"clarity-word\">it;</span> hold ye your peace.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "2-kings-2-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And Elijah said unto him, Tarry, I pray thee, here; for the <span class=\"small-caps\">Lord</span> hath sent me to Jordan. And he said, <span class=\"clarity-word\">As</span> the <span class=\"small-caps\">Lord</span> liveth, and <span class=\"clarity-word\">as</span> thy soul liveth, I will not leave thee. And they two went on.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "2-kings-2-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And fifty men of the sons of the prophets went, and stood to view afar off: and they two stood by Jordan.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "2-kings-2-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And Elijah took his mantle, and wrapped <span class=\"clarity-word\">it</span> together, and smote the waters, and they were divided hither and thither, so that they two went over on dry ground.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "2-kings-2-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "¶ And it came to pass, when they were gone over, that Elijah said unto Elisha, Ask what I shall do for thee, before I be taken away from thee. And Elisha said, I pray thee, let a double portion of thy spirit be upon me.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "2-kings-2-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And he said, Thou hast asked a hard thing: <span class=\"clarity-word\">nevertheless,</span> if thou see me <span class=\"clarity-word\">when I am</span> taken from thee, it shall be so unto thee; but if not, it shall not be <span class=\"clarity-word\">so.</span>",
+      "churchId": "p10"
+    },
+    {
+      "slug": "2-kings-2-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And it came to pass, as they still went on, and talked, that, behold, <span class=\"clarity-word\">there appeared</span> a chariot of fire, and horses of fire, and parted them both asunder; and Elijah went up by a whirlwind into heaven.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "2-kings-2-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "¶ And Elisha saw <span class=\"clarity-word\">it,</span> and he cried, My father, my father, the chariot of Israel, and the horsemen thereof. And he saw him no more: and he took hold of his own clothes, and rent them in two pieces.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "2-kings-2-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "He took up also the mantle of Elijah that fell from him, and went back, and stood by the bank of Jordan;",
+      "churchId": "p13"
+    },
+    {
+      "slug": "2-kings-2-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And he took the mantle of Elijah that fell from him, and smote the waters, and said, Where <span class=\"clarity-word\">is</span> the <span class=\"small-caps\">Lord</span> God of Elijah? and when he also had smitten the waters, they parted hither and thither: and Elisha went over.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "2-kings-2-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And when the sons of the prophets which <span class=\"clarity-word\">were</span> to view at Jericho saw him, they said, The spirit of Elijah doth rest on Elisha. And they came to meet him, and bowed themselves to the ground before him.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "2-kings-2-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "¶ And they said unto him, Behold now, there be with thy servants fifty strong men; let them go, we pray thee, and seek thy master: lest peradventure the Spirit of the <span class=\"small-caps\">Lord</span> hath taken him up, and cast him upon some mountain, or into some valley. And he said, Ye shall not send.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "2-kings-2-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And when they urged him till he was ashamed, he said, Send. They sent therefore fifty men; and they sought three days, but found him not.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "2-kings-2-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And when they came again to him, (for he tarried at Jericho,) he said unto them, Did I not say unto you, Go not?",
+      "churchId": "p18"
+    },
+    {
+      "slug": "2-kings-2-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "¶ And the men of the city said unto Elisha, Behold, I pray thee, the situation of this city <span class=\"clarity-word\">is</span> pleasant, as my lord seeth: but the water <span class=\"clarity-word\">is</span> naught, and the ground barren.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "2-kings-2-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And he said, Bring me a new cruse, and put salt therein. And they brought <span class=\"clarity-word\">it</span> to him.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "2-kings-2-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And he went forth unto the spring of the waters, and cast the salt in there, and said, Thus saith the <span class=\"small-caps\">Lord</span>, I have healed these waters; there shall not be from thence any more death or barren <span class=\"clarity-word\">land.</span>",
+      "churchId": "p21"
+    },
+    {
+      "slug": "2-kings-2-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "So the waters were healed unto this day, according to the saying of Elisha which he spake.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "2-kings-2-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "¶ And he went up from thence unto Beth-el: and as he was going up by the way, there came forth little children out of the city, and mocked him, and said unto him, Go up, thou bald head; go up, thou bald head.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "2-kings-2-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And he turned back, and looked on them, and cursed them in the name of the <span class=\"small-caps\">Lord</span>. And there came forth two she bears out of the wood, and tare forty and two children of them.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "2-kings-2-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And he went from thence to mount Carmel, and from thence he returned to Samaria.",
+      "churchId": "p25"
+    }
+  ]
+}

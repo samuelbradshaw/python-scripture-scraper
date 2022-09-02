@@ -1,0 +1,155 @@
+{
+  "name": "Nehemiah 2",
+  "abbrev": "Neh. 2",
+  "number": "2",
+  "churchUri": "/scriptures/ot/neh/2",
+  "paragraphs": [
+    {
+      "slug": "nehemiah-2-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 2",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "nehemiah-2-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And it came to pass in the month Nisan, in the twentieth year of Artaxerxes the king, <span class=\"clarity-word\">that</span> wine <span class=\"clarity-word\">was</span> before him: and I took up the wine, and gave <span class=\"clarity-word\">it</span> unto the king. Now I had not been <span class=\"clarity-word\">beforetime</span> sad in his presence.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "nehemiah-2-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Wherefore the king said unto me, Why <span class=\"clarity-word\">is</span> thy countenance sad, seeing thou <span class=\"clarity-word\">art</span> not sick? this <span class=\"clarity-word\">is</span> nothing <span class=\"clarity-word\">else</span> but sorrow of heart. Then I was very sore afraid,",
+      "churchId": "p2"
+    },
+    {
+      "slug": "nehemiah-2-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And said unto the king, Let the king live for ever: why should not my countenance be sad, when the city, the place of my fathers’ sepulchres, <span class=\"clarity-word\">lieth</span> waste, and the gates thereof are consumed with fire?",
+      "churchId": "p3"
+    },
+    {
+      "slug": "nehemiah-2-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Then the king said unto me, For what dost thou make request? So I prayed to the God of heaven.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "nehemiah-2-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And I said unto the king, If it please the king, and if thy servant have found favour in thy sight, that thou wouldest send me unto Judah, unto the city of my fathers’ sepulchres, that I may build it.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "nehemiah-2-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And the king said unto me, (the queen also sitting by him,) For how long shall thy journey be? and when wilt thou return? So it pleased the king to send me; and I set him a time.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "nehemiah-2-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Moreover I said unto the king, If it please the king, let letters be given me to the governors beyond the river, that they may convey me over till I come into Judah;",
+      "churchId": "p7"
+    },
+    {
+      "slug": "nehemiah-2-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And a letter unto Asaph the keeper of the king’s forest, that he may give me timber to make beams for the gates of the palace which <span class=\"clarity-word\">appertained</span> to the house, and for the wall of the city, and for the house that I shall enter into. And the king granted me, according to the good hand of my God upon me.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "nehemiah-2-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "¶ Then I came to the governors beyond the river, and gave them the king’s letters. Now the king had sent captains of the army and horsemen with me.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "nehemiah-2-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "When Sanballat the Horonite, and Tobiah the servant, the Ammonite, heard <span class=\"clarity-word\">of it,</span> it grieved them exceedingly that there was come a man to seek the welfare of the children of Israel.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "nehemiah-2-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "So I came to Jerusalem, and was there three days.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "nehemiah-2-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "¶ And I arose in the night, I and some few men with me; neither told I <span class=\"clarity-word\">any</span> man what my God had put in my heart to do at Jerusalem: neither <span class=\"clarity-word\">was there any</span> beast with me, save the beast that I rode upon.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "nehemiah-2-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And I went out by night by the gate of the valley, even before the dragon well, and to the dung port, and viewed the walls of Jerusalem, which were broken down, and the gates thereof were consumed with fire.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "nehemiah-2-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Then I went on to the gate of the fountain, and to the king’s pool: but <span class=\"clarity-word\">there was</span> no place for the beast <span class=\"clarity-word\">that was</span> under me to pass.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "nehemiah-2-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Then went I up in the night by the brook, and viewed the wall, and turned back, and entered by the gate of the valley, and <span class=\"clarity-word\">so</span> returned.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "nehemiah-2-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And the rulers knew not whither I went, or what I did; neither had I as yet told <span class=\"clarity-word\">it</span> to the Jews, nor to the priests, nor to the nobles, nor to the rulers, nor to the rest that did the work.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "nehemiah-2-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "¶ Then said I unto them, Ye see the distress that we <span class=\"clarity-word\">are</span> in, how Jerusalem <span class=\"clarity-word\">lieth</span> waste, and the gates thereof are burned with fire: come, and let us build up the wall of Jerusalem, that we be no more a reproach.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "nehemiah-2-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Then I told them of the hand of my God which was good upon me; as also the king’s words that he had spoken unto me. And they said, Let us rise up and build. So they strengthened their hands for <span class=\"clarity-word\">this</span> good <span class=\"clarity-word\">work.</span>",
+      "churchId": "p18"
+    },
+    {
+      "slug": "nehemiah-2-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "But when Sanballat the Horonite, and Tobiah the servant, the Ammonite, and Geshem the Arabian, heard <span class=\"clarity-word\">it,</span> they laughed us to scorn, and despised us, and said, What <span class=\"clarity-word\">is</span> this thing that ye do? will ye rebel against the king?",
+      "churchId": "p19"
+    },
+    {
+      "slug": "nehemiah-2-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Then answered I them, and said unto them, The God of heaven, he will prosper us; therefore we his servants will arise and build: but ye have no portion, nor right, nor memorial, in Jerusalem.",
+      "churchId": "p20"
+    }
+  ]
+}

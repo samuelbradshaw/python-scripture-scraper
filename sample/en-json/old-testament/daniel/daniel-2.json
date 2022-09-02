@@ -1,0 +1,358 @@
+{
+  "name": "Daniel 2",
+  "abbrev": "Dan. 2",
+  "number": "2",
+  "churchUri": "/scriptures/ot/dan/2",
+  "paragraphs": [
+    {
+      "slug": "daniel-2-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 2",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "daniel-2-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And in the second year of the reign of Nebuchadnezzar Nebuchadnezzar dreamed dreams, wherewith his spirit was troubled, and his sleep brake from him.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "daniel-2-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Then the king commanded to call the magicians, and the astrologers, and the sorcerers, and the Chaldeans, for to shew the king his dreams. So they came and stood before the king.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "daniel-2-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And the king said unto them, I have dreamed a dream, and my spirit was troubled to know the dream.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "daniel-2-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Then spake the Chaldeans to the king in Syriack, O king, live for ever: tell thy servants the dream, and we will shew the interpretation.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "daniel-2-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "The king answered and said to the Chaldeans, The thing is gone from me: if ye will not make known unto me the dream, with the interpretation thereof, ye shall be cut in pieces, and your houses shall be made a dunghill.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "daniel-2-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "But if ye shew the dream, and the interpretation thereof, ye shall receive of me gifts and rewards and great honour: therefore shew me the dream, and the interpretation thereof.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "daniel-2-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "They answered again and said, Let the king tell his servants the dream, and we will shew the interpretation of it.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "daniel-2-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "The king answered and said, I know of certainty that ye would gain the time, because ye see the thing is gone from me.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "daniel-2-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "But if ye will not make known unto me the dream, <span class=\"clarity-word\">there is but</span> one decree for you: for ye have prepared lying and corrupt words to speak before me, till the time be changed: therefore tell me the dream, and I shall know that ye can shew me the interpretation thereof.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "daniel-2-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "¶ The Chaldeans answered before the king, and said, There is not a man upon the earth that can shew the king’s matter: therefore <span class=\"clarity-word\">there is</span> no king, lord, nor ruler, <span class=\"clarity-word\">that</span> asked such things at any magician, or astrologer, or Chaldean.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "daniel-2-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And <span class=\"clarity-word\">it is</span> a rare thing that the king requireth, and there is none other that can shew it before the king, except the gods, whose dwelling is not with flesh.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "daniel-2-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "For this cause the king was angry and very furious, and commanded to destroy all the wise <span class=\"clarity-word\">men</span> of Babylon.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "daniel-2-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And the decree went forth that the wise <span class=\"clarity-word\">men</span> should be slain; and they sought Daniel and his fellows to be slain.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "daniel-2-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "¶ Then Daniel answered with counsel and wisdom to Arioch the captain of the king’s guard, which was gone forth to slay the wise <span class=\"clarity-word\">men</span> of Babylon:",
+      "churchId": "p14"
+    },
+    {
+      "slug": "daniel-2-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "He answered and said to Arioch the king’s captain, Why <span class=\"clarity-word\">is</span> the decree <span class=\"clarity-word\">so</span> hasty from the king? Then Arioch made the thing known to Daniel.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "daniel-2-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Then Daniel went in, and desired of the king that he would give him time, and that he would shew the king the interpretation.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "daniel-2-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Then Daniel went to his house, and made the thing known to Hananiah, Mishael, and Azariah, his companions:",
+      "churchId": "p17"
+    },
+    {
+      "slug": "daniel-2-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "That they would desire mercies of the God of heaven concerning this secret; that Daniel and his fellows should not perish with the rest of the wise <span class=\"clarity-word\">men</span> of Babylon.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "daniel-2-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "¶ Then was the secret revealed unto Daniel in a night vision. Then Daniel blessed the God of heaven.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "daniel-2-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Daniel answered and said, Blessed be the name of God for ever and ever: for wisdom and might are his:",
+      "churchId": "p20"
+    },
+    {
+      "slug": "daniel-2-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And he changeth the times and the seasons: he removeth kings, and setteth up kings: he giveth wisdom unto the wise, and knowledge to them that know understanding:",
+      "churchId": "p21"
+    },
+    {
+      "slug": "daniel-2-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "He revealeth the deep and secret things: he knoweth what <span class=\"clarity-word\">is</span> in the darkness, and the light dwelleth with him.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "daniel-2-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "I thank thee, and praise thee, O thou God of my fathers, who hast given me wisdom and might, and hast made known unto me now what we desired of thee: for thou hast <span class=\"clarity-word\">now</span> made known unto us the king’s matter.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "daniel-2-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "¶ Therefore Daniel went in unto Arioch, whom the king had ordained to destroy the wise <span class=\"clarity-word\">men</span> of Babylon: he went and said thus unto him; Destroy not the wise <span class=\"clarity-word\">men</span> of Babylon: bring me in before the king, and I will shew unto the king the interpretation.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "daniel-2-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Then Arioch brought in Daniel before the king in haste, and said thus unto him, I have found a man of the captives of Judah, that will make known unto the king the interpretation.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "daniel-2-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "The king answered and said to Daniel, whose name <span class=\"clarity-word\">was</span> Belteshazzar, Art thou able to make known unto me the dream which I have seen, and the interpretation thereof?",
+      "churchId": "p26"
+    },
+    {
+      "slug": "daniel-2-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "Daniel answered in the presence of the king, and said, The secret which the king hath demanded cannot the wise <span class=\"clarity-word\">men,</span> the astrologers, the magicians, the soothsayers, shew unto the king;",
+      "churchId": "p27"
+    },
+    {
+      "slug": "daniel-2-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "But there is a God in heaven that revealeth secrets, and maketh known to the king Nebuchadnezzar what shall be in the latter days. Thy dream, and the visions of thy head upon thy bed, are these;",
+      "churchId": "p28"
+    },
+    {
+      "slug": "daniel-2-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "As for thee, O king, thy thoughts came <span class=\"clarity-word\">into thy mind</span> upon thy bed, what should come to pass hereafter: and he that revealeth secrets maketh known to thee what shall come to pass.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "daniel-2-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "But as for me, this secret is not revealed to me for <span class=\"clarity-word\">any</span> wisdom that I have more than any living, but for <span class=\"clarity-word\">their</span> sakes that shall make known the interpretation to the king, and that thou mightest know the thoughts of thy heart.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "daniel-2-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "¶ Thou, O king, sawest, and behold a great image. This great image, whose brightness <span class=\"clarity-word\">was</span> excellent, stood before thee; and the form thereof <span class=\"clarity-word\">was</span> terrible.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "daniel-2-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "This image’s head <span class=\"clarity-word\">was</span> of fine gold, his breast and his arms of silver, his belly and his thighs of brass,",
+      "churchId": "p32"
+    },
+    {
+      "slug": "daniel-2-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "His legs of iron, his feet part of iron and part of clay.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "daniel-2-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "Thou sawest till that a stone was cut out without hands, which smote the image upon his feet <span class=\"clarity-word\">that were</span> of iron and clay, and brake them to pieces.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "daniel-2-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "Then was the iron, the clay, the brass, the silver, and the gold, broken to pieces together, and became like the chaff of the summer threshingfloors; and the wind carried them away, that no place was found for them: and the stone that smote the image became a great mountain, and filled the whole earth.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "daniel-2-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "¶ This <span class=\"clarity-word\">is</span> the dream; and we will tell the interpretation thereof before the king.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "daniel-2-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "Thou, O king, <span class=\"clarity-word\">art</span> a king of kings: for the God of heaven hath given thee a kingdom, power, and strength, and glory.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "daniel-2-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "And wheresoever the children of men dwell, the beasts of the field and the fowls of the heaven hath he given into thine hand, and hath made thee ruler over them all. Thou <span class=\"clarity-word\">art</span> this head of gold.",
+      "churchId": "p38"
+    },
+    {
+      "slug": "daniel-2-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "And after thee shall arise another kingdom inferior to thee, and another third kingdom of brass, which shall bear rule over all the earth.",
+      "churchId": "p39"
+    },
+    {
+      "slug": "daniel-2-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "And the fourth kingdom shall be strong as iron: forasmuch as iron breaketh in pieces and subdueth all <span class=\"clarity-word\">things:</span> and as iron that breaketh all these, shall it break in pieces and bruise.",
+      "churchId": "p40"
+    },
+    {
+      "slug": "daniel-2-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "And whereas thou sawest the feet and toes, part of potters’ clay, and part of iron, the kingdom shall be divided; but there shall be in it of the strength of the iron, forasmuch as thou sawest the iron mixed with miry clay.",
+      "churchId": "p41"
+    },
+    {
+      "slug": "daniel-2-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "And <span class=\"clarity-word\">as</span> the toes of the feet <span class=\"clarity-word\">were</span> part of iron, and part of clay, <span class=\"clarity-word\">so</span> the kingdom shall be partly strong, and partly broken.",
+      "churchId": "p42"
+    },
+    {
+      "slug": "daniel-2-p43",
+      "type": "verse",
+      "number": "43",
+      "content": "And whereas thou sawest iron mixed with miry clay, they shall mingle themselves with the seed of men: but they shall not cleave one to another, even as iron is not mixed with clay.",
+      "churchId": "p43"
+    },
+    {
+      "slug": "daniel-2-p44",
+      "type": "verse",
+      "number": "44",
+      "content": "And in the days of these kings shall the God of heaven set up a kingdom, which shall never be destroyed: and the kingdom shall not be left to other people, <span class=\"clarity-word\">but</span> it shall break in pieces and consume all these kingdoms, and it shall stand for ever.",
+      "churchId": "p44"
+    },
+    {
+      "slug": "daniel-2-p45",
+      "type": "verse",
+      "number": "45",
+      "content": "Forasmuch as thou sawest that the stone was cut out of the mountain without hands, and that it brake in pieces the iron, the brass, the clay, the silver, and the gold; the great God hath made known to the king what shall come to pass hereafter: and the dream <span class=\"clarity-word\">is</span> certain, and the interpretation thereof sure.",
+      "churchId": "p45"
+    },
+    {
+      "slug": "daniel-2-p46",
+      "type": "verse",
+      "number": "46",
+      "content": "¶ Then the king Nebuchadnezzar fell upon his face, and worshipped Daniel, and commanded that they should offer an oblation and sweet odours unto him.",
+      "churchId": "p46"
+    },
+    {
+      "slug": "daniel-2-p47",
+      "type": "verse",
+      "number": "47",
+      "content": "The king answered unto Daniel, and said, Of a truth <span class=\"clarity-word\">it is,</span> that your God <span class=\"clarity-word\">is</span> a God of gods, and a Lord of kings, and a revealer of secrets, seeing thou couldest reveal this secret.",
+      "churchId": "p47"
+    },
+    {
+      "slug": "daniel-2-p48",
+      "type": "verse",
+      "number": "48",
+      "content": "Then the king made Daniel a great man, and gave him many great gifts, and made him ruler over the whole province of Babylon, and chief of the governors over all the wise <span class=\"clarity-word\">men</span> of Babylon.",
+      "churchId": "p48"
+    },
+    {
+      "slug": "daniel-2-p49",
+      "type": "verse",
+      "number": "49",
+      "content": "Then Daniel requested of the king, and he set Shadrach, Meshach, and Abed-nego, over the affairs of the province of Babylon: but Daniel <span class=\"clarity-word\">sat</span> in the gate of the king.",
+      "churchId": "p49"
+    }
+  ]
+}

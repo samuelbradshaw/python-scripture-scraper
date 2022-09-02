@@ -1,0 +1,295 @@
+{
+  "name": "Mosiah 23",
+  "abbrev": "Mosiah 23",
+  "number": "23",
+  "churchUri": "/scriptures/bofm/mosiah/23",
+  "paragraphs": [
+    {
+      "slug": "mosiah-23-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "An account of Alma and the people of the Lord, who were driven into the wilderness by the people of King Noah.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "mosiah-23-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 23",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "mosiah-23-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Now Alma, having been warned of the Lord that the armies of king Noah would come upon them, and having made it known to his people, therefore they gathered together their flocks, and took of their grain, and departed into the wilderness before the armies of king Noah.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "mosiah-23-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And the Lord did strengthen them, that the people of king Noah could not overtake them to destroy them.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "mosiah-23-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And they fled eight days’ journey into the wilderness.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "mosiah-23-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And they came to a land, yea, even a very beautiful and pleasant land, a land of pure water.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "mosiah-23-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And they pitched their tents, and began to till the ground, and began to build buildings; yea, they were industrious, and did labor exceedingly.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "mosiah-23-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And the people were desirous that Alma should be their king, for he was beloved by his people.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "mosiah-23-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "But he said unto them: Behold, it is not expedient that we should have a king; for thus saith the Lord: Ye shall not esteem one flesh above another, or one man shall not think himself above another; therefore I say unto you it is not expedient that ye should have a king.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "mosiah-23-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Nevertheless, if it were possible that ye could always have just men to be your kings it would be well for you to have a king.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "mosiah-23-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "But remember the iniquity of king Noah and his priests; and I myself was caught in a snare, and did many things which were abominable in the sight of the Lord, which caused me sore repentance;",
+      "churchId": "p9"
+    },
+    {
+      "slug": "mosiah-23-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Nevertheless, after much tribulation, the Lord did hear my cries, and did answer my prayers, and has made me an instrument in his hands in bringing so many of you to a knowledge of his truth.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "mosiah-23-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Nevertheless, in this I do not glory, for I am unworthy to glory of myself.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "mosiah-23-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And now I say unto you, ye have been oppressed by king Noah, and have been in bondage to him and his priests, and have been brought into iniquity by them; therefore ye were bound with the bands of iniquity.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "mosiah-23-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And now as ye have been delivered by the power of God out of these bonds; yea, even out of the hands of king Noah and his people, and also from the bonds of iniquity, even so I desire that ye should stand fast in this liberty wherewith ye have been made free, and that ye trust no man to be a king over you.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "mosiah-23-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And also trust no one to be your teacher nor your minister, except he be a man of God, walking in his ways and keeping his commandments.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "mosiah-23-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Thus did Alma teach his people, that every man should love his neighbor as himself, that there should be no contention among them.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "mosiah-23-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And now, Alma was their high priest, he being the founder of their church.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "mosiah-23-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And it came to pass that none received authority to preach or to teach except it were by him from God. Therefore he consecrated all their priests and all their teachers; and none were consecrated except they were just men.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "mosiah-23-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Therefore they did watch over their people, and did nourish them with things pertaining to righteousness.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "mosiah-23-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And it came to pass that they began to prosper exceedingly in the land; and they called the land Helam.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "mosiah-23-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And it came to pass that they did multiply and prosper exceedingly in the land of Helam; and they built a city, which they called the city of Helam.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "mosiah-23-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Nevertheless the Lord seeth fit to chasten his people; yea, he trieth their patience and their faith.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "mosiah-23-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Nevertheless—whosoever putteth his trust in him the same shall be lifted up at the last day. Yea, and thus it was with this people.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "mosiah-23-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "For behold, I will show unto you that they were brought into bondage, and none could deliver them but the Lord their God, yea, even the God of Abraham and Isaac and of Jacob.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "mosiah-23-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And it came to pass that he did deliver them, and he did show forth his mighty power unto them, and great were their rejoicings.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "mosiah-23-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "For behold, it came to pass that while they were in the land of Helam, yea, in the city of Helam, while tilling the land round about, behold an army of the Lamanites was in the borders of the land.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "mosiah-23-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "Now it came to pass that the brethren of Alma fled from their fields, and gathered themselves together in the city of Helam; and they were much frightened because of the appearance of the Lamanites.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "mosiah-23-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "But Alma went forth and stood among them, and exhorted them that they should not be frightened, but that they should remember the Lord their God and he would deliver them.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "mosiah-23-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "Therefore they hushed their fears, and began to cry unto the Lord that he would soften the hearts of the Lamanites, that they would spare them, and their wives, and their children.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "mosiah-23-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "And it came to pass that the Lord did soften the hearts of the Lamanites. And Alma and his brethren went forth and delivered themselves up into their hands; and the Lamanites took possession of the land of Helam.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "mosiah-23-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "Now the armies of the Lamanites, which had followed after the people of king Limhi, had been lost in the wilderness for many days.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "mosiah-23-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "And behold, they had found those priests of king Noah, in a place which they called Amulon; and they had begun to possess the land of Amulon and had begun to till the ground.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "mosiah-23-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "Now the name of the leader of those priests was Amulon.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "mosiah-23-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "And it came to pass that Amulon did plead with the Lamanites; and he also sent forth their wives, who were the daughters of the Lamanites, to plead with their brethren, that they should not destroy their husbands.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "mosiah-23-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "And the Lamanites had compassion on Amulon and his brethren, and did not destroy them, because of their wives.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "mosiah-23-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "And Amulon and his brethren did join the Lamanites, and they were traveling in the wilderness in search of the land of Nephi when they discovered the land of Helam, which was possessed by Alma and his brethren.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "mosiah-23-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "And it came to pass that the Lamanites promised unto Alma and his brethren, that if they would show them the way which led to the land of Nephi that they would grant unto them their lives and their liberty.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "mosiah-23-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "But after Alma had shown them the way that led to the land of Nephi the Lamanites would not keep their promise; but they set guards round about the land of Helam, over Alma and his brethren.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "mosiah-23-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "And the remainder of them went to the land of Nephi; and a part of them returned to the land of Helam, and also brought with them the wives and the children of the guards who had been left in the land.",
+      "churchId": "p38"
+    },
+    {
+      "slug": "mosiah-23-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "And the king of the Lamanites had granted unto Amulon that he should be a king and a ruler over his people, who were in the land of Helam; nevertheless he should have no power to do anything contrary to the will of the king of the Lamanites.",
+      "churchId": "p39"
+    }
+  ]
+}

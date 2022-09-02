@@ -1,0 +1,253 @@
+{
+  "name": "Job 41",
+  "abbrev": "Job 41",
+  "number": "41",
+  "churchUri": "/scriptures/ot/job/41",
+  "paragraphs": [
+    {
+      "slug": "job-41-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 41",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "job-41-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Canst thou draw out leviathan with an hook? or his tongue with a cord <span class=\"clarity-word\">which</span> thou lettest down?",
+      "churchId": "p1"
+    },
+    {
+      "slug": "job-41-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Canst thou put an hook into his nose? or bore his jaw through with a thorn?",
+      "churchId": "p2"
+    },
+    {
+      "slug": "job-41-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Will he make many supplications unto thee? will he speak soft <span class=\"clarity-word\">words</span> unto thee?",
+      "churchId": "p3"
+    },
+    {
+      "slug": "job-41-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Will he make a covenant with thee? wilt thou take him for a servant for ever?",
+      "churchId": "p4"
+    },
+    {
+      "slug": "job-41-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Wilt thou play with him as <span class=\"clarity-word\">with</span> a bird? or wilt thou bind him for thy maidens?",
+      "churchId": "p5"
+    },
+    {
+      "slug": "job-41-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Shall the companions make a banquet of him? shall they part him among the merchants?",
+      "churchId": "p6"
+    },
+    {
+      "slug": "job-41-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Canst thou fill his skin with barbed irons? or his head with fish spears?",
+      "churchId": "p7"
+    },
+    {
+      "slug": "job-41-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Lay thine hand upon him, remember the battle, do no more.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "job-41-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Behold, the hope of him is in vain: shall not <span class=\"clarity-word\">one</span> be cast down even at the sight of him?",
+      "churchId": "p9"
+    },
+    {
+      "slug": "job-41-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "None <span class=\"clarity-word\">is so</span> fierce that dare stir him up: who then is able to stand before me?",
+      "churchId": "p10"
+    },
+    {
+      "slug": "job-41-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Who hath prevented me, that I should repay <span class=\"clarity-word\">him? whatsoever is</span> under the whole heaven is mine.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "job-41-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "I will not conceal his parts, nor his power, nor his comely proportion.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "job-41-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Who can discover the face of his garment? <span class=\"clarity-word\">or</span> who can come <span class=\"clarity-word\">to him</span> with his double bridle?",
+      "churchId": "p13"
+    },
+    {
+      "slug": "job-41-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Who can open the doors of his face? his teeth <span class=\"clarity-word\">are</span> terrible round about.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "job-41-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "<span class=\"clarity-word\">His</span> scales <span class=\"clarity-word\">are his</span> pride, shut up together <span class=\"clarity-word\">as with</span> a close seal.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "job-41-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "One is so near to another, that no air can come between them.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "job-41-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "They are joined one to another, they stick together, that they cannot be sundered.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "job-41-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "By his neesings a light doth shine, and his eyes <span class=\"clarity-word\">are</span> like the eyelids of the morning.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "job-41-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Out of his mouth go burning lamps, <span class=\"clarity-word\">and</span> sparks of fire leap out.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "job-41-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Out of his nostrils goeth smoke, as <span class=\"clarity-word\">out</span> of a seething pot or caldron.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "job-41-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "His breath kindleth coals, and a flame goeth out of his mouth.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "job-41-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "In his neck remaineth strength, and sorrow is turned into joy before him.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "job-41-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "The flakes of his flesh are joined together: they are firm in themselves; they cannot be moved.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "job-41-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "His heart is as firm as a stone; yea, as hard as a piece of the nether <span class=\"clarity-word\">millstone.</span>",
+      "churchId": "p24"
+    },
+    {
+      "slug": "job-41-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "When he raiseth up himself, the mighty are afraid: by reason of breakings they purify themselves.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "job-41-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "The sword of him that layeth at him cannot hold: the spear, the dart, nor the habergeon.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "job-41-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "He esteemeth iron as straw, <span class=\"clarity-word\">and</span> brass as rotten wood.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "job-41-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "The arrow cannot make him flee: slingstones are turned with him into stubble.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "job-41-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "Darts are counted as stubble: he laugheth at the shaking of a spear.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "job-41-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "Sharp stones <span class=\"clarity-word\">are</span> under him: he spreadeth sharp pointed things upon the mire.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "job-41-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "He maketh the deep to boil like a pot: he maketh the sea like a pot of ointment.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "job-41-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "He maketh a path to shine after him; <span class=\"clarity-word\">one</span> would think the deep <span class=\"clarity-word\">to be</span> hoary.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "job-41-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "Upon earth there is not his like, who is made without fear.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "job-41-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "He beholdeth all high <span class=\"clarity-word\">things:</span> he <span class=\"clarity-word\">is</span> a king over all the children of pride.",
+      "churchId": "p34"
+    }
+  ]
+}

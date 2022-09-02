@@ -1,0 +1,78 @@
+{
+  "name": "Doctrine and Covenants 12",
+  "abbrev": "D&C 12",
+  "number": "12",
+  "churchUri": "/scriptures/dc-testament/dc/12",
+  "paragraphs": [
+    {
+      "slug": "section-12-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Section 12",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "section-12-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "A great and marvelous work is about to come forth among the children of men.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "section-12-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Behold, I am God; give heed to my word, which is quick and powerful, sharper than a two-edged sword, to the dividing asunder of both joints and marrow; therefore, give heed unto my word.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "section-12-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Behold, the field is white already to harvest; therefore, whoso desireth to reap let him thrust in his sickle with his might, and reap while the day lasts, that he may treasure up for his soul everlasting salvation in the kingdom of God.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "section-12-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Yea, whosoever will thrust in his sickle and reap, the same is called of God.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "section-12-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Therefore, if you will ask of me you shall receive; if you will knock it shall be opened unto you.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "section-12-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Now, as you have asked, behold, I say unto you, keep my commandments, and seek to bring forth and establish the cause of Zion.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "section-12-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Behold, I speak unto you, and also to all those who have desires to bring forth and establish this work;",
+      "churchId": "p7"
+    },
+    {
+      "slug": "section-12-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And no one can assist in this work except he shall be humble and full of love, having faith, hope, and charity, being temperate in all things, whatsoever shall be entrusted to his care.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "section-12-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Behold, I am the light and the life of the world, that speak these words, therefore give heed with your might, and then you are called. Amen.",
+      "churchId": "p9"
+    }
+  ]
+}

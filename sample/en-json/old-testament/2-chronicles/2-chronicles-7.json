@@ -1,0 +1,169 @@
+{
+  "name": "2 Chronicles 7",
+  "abbrev": "2 Chr. 7",
+  "number": "7",
+  "churchUri": "/scriptures/ot/2-chr/7",
+  "paragraphs": [
+    {
+      "slug": "2-chronicles-7-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 7",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "2-chronicles-7-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Now when Solomon had made an end of praying, the fire came down from heaven, and consumed the burnt offering and the sacrifices; and the glory of the <span class=\"small-caps\">Lord</span> filled the house.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "2-chronicles-7-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And the priests could not enter into the house of the <span class=\"small-caps\">Lord</span>, because the glory of the <span class=\"small-caps\">Lord</span> had filled the <span class=\"small-caps\">Lord</span>’s house.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "2-chronicles-7-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And when all the children of Israel saw how the fire came down, and the glory of the <span class=\"small-caps\">Lord</span> upon the house, they bowed themselves with their faces to the ground upon the pavement, and worshipped, and praised the <span class=\"small-caps\">Lord</span>, <span class=\"clarity-word\">saying,</span> For <span class=\"clarity-word\">he is</span> good; for his mercy <span class=\"clarity-word\">endureth</span> for ever.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "2-chronicles-7-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "¶ Then the king and all the people offered sacrifices before the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "2-chronicles-7-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And king Solomon offered a sacrifice of twenty and two thousand oxen, and an hundred and twenty thousand sheep: so the king and all the people dedicated the house of God.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "2-chronicles-7-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And the priests waited on their offices: the Levites also with instruments of musick of the <span class=\"small-caps\">Lord</span>, which David the king had made to praise the <span class=\"small-caps\">Lord</span>, because his mercy <span class=\"clarity-word\">endureth</span> for ever, when David praised by their ministry; and the priests sounded trumpets before them, and all Israel stood.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "2-chronicles-7-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Moreover Solomon hallowed the middle of the court that <span class=\"clarity-word\">was</span> before the house of the <span class=\"small-caps\">Lord</span>: for there he offered burnt offerings, and the fat of the peace offerings, because the brasen altar which Solomon had made was not able to receive the burnt offerings, and the meat offerings, and the fat.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "2-chronicles-7-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "¶ Also at the same time Solomon kept the feast seven days, and all Israel with him, a very great congregation, from the entering in of Hamath unto the river of Egypt.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "2-chronicles-7-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And in the eighth day they made a solemn assembly: for they kept the dedication of the altar seven days, and the feast seven days.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "2-chronicles-7-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And on the three and twentieth day of the seventh month he sent the people away into their tents, glad and merry in heart for the goodness that the <span class=\"small-caps\">Lord</span> had shewed unto David, and to Solomon, and to Israel his people.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "2-chronicles-7-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Thus Solomon finished the house of the <span class=\"small-caps\">Lord</span>, and the king’s house: and all that came into Solomon’s heart to make in the house of the <span class=\"small-caps\">Lord</span>, and in his own house, he prosperously effected.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "2-chronicles-7-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "¶ And the <span class=\"small-caps\">Lord</span> appeared to Solomon by night, and said unto him, I have heard thy prayer, and have chosen this place to myself for an house of sacrifice.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "2-chronicles-7-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "If I shut up heaven that there be no rain, or if I command the locusts to devour the land, or if I send pestilence among my people;",
+      "churchId": "p13"
+    },
+    {
+      "slug": "2-chronicles-7-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "If my people, which are called by my name, shall humble themselves, and pray, and seek my face, and turn from their wicked ways; then will I hear from heaven, and will forgive their sin, and will heal their land.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "2-chronicles-7-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Now mine eyes shall be open, and mine ears attent unto the prayer <span class=\"clarity-word\">that is made</span> in this place.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "2-chronicles-7-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "For now have I chosen and sanctified this house, that my name may be there for ever: and mine eyes and mine heart shall be there perpetually.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "2-chronicles-7-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And as for thee, if thou wilt walk before me, as David thy father walked, and do according to all that I have commanded thee, and shalt observe my statutes and my judgments;",
+      "churchId": "p17"
+    },
+    {
+      "slug": "2-chronicles-7-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Then will I stablish the throne of thy kingdom, according as I have covenanted with David thy father, saying, There shall not fail thee a man <span class=\"clarity-word\">to be</span> ruler in Israel.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "2-chronicles-7-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "But if ye turn away, and forsake my statutes and my commandments, which I have set before you, and shall go and serve other gods, and worship them;",
+      "churchId": "p19"
+    },
+    {
+      "slug": "2-chronicles-7-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Then will I pluck them up by the roots out of my land which I have given them; and this house, which I have sanctified for my name, will I cast out of my sight, and will make it <span class=\"clarity-word\">to be</span> a proverb and a byword among all nations.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "2-chronicles-7-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And this house, which is high, shall be an astonishment to every one that passeth by it; so that he shall say, Why hath the <span class=\"small-caps\">Lord</span> done thus unto this land, and unto this house?",
+      "churchId": "p21"
+    },
+    {
+      "slug": "2-chronicles-7-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And it shall be answered, Because they forsook the <span class=\"small-caps\">Lord</span> God of their fathers, which brought them forth out of the land of Egypt, and laid hold on other gods, and worshipped them, and served them: therefore hath he brought all this evil upon them.",
+      "churchId": "p22"
+    }
+  ]
+}

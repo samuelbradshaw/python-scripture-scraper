@@ -1,0 +1,113 @@
+{
+  "name": "Isaiah 17",
+  "abbrev": "Isa. 17",
+  "number": "17",
+  "churchUri": "/scriptures/ot/isa/17",
+  "paragraphs": [
+    {
+      "slug": "isaiah-17-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 17",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "isaiah-17-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "The burden of Damascus. Behold, Damascus is taken away from <span class=\"clarity-word\">being</span> a city, and it shall be a ruinous heap.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "isaiah-17-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "The cities of Aroer <span class=\"clarity-word\">are</span> forsaken: they shall be for flocks, which shall lie down, and none shall make <span class=\"clarity-word\">them</span> afraid.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "isaiah-17-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "The fortress also shall cease from Ephraim, and the kingdom from Damascus, and the remnant of Syria: they shall be as the glory of the children of Israel, saith the <span class=\"small-caps\">Lord</span> of hosts.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "isaiah-17-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And in that day it shall come to pass, <span class=\"clarity-word\">that</span> the glory of Jacob shall be made thin, and the fatness of his flesh shall wax lean.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "isaiah-17-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And it shall be as when the harvestman gathereth the corn, and reapeth the ears with his arm; and it shall be as he that gathereth ears in the valley of Rephaim.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "isaiah-17-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "¶ Yet gleaning grapes shall be left in it, as the shaking of an olive tree, two <span class=\"clarity-word\">or</span> three berries in the top of the uppermost bough, four <span class=\"clarity-word\">or</span> five in the outmost fruitful branches thereof, saith the <span class=\"small-caps\">Lord</span> God of Israel.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "isaiah-17-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "At that day shall a man look to his Maker, and his eyes shall have respect to the Holy One of Israel.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "isaiah-17-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And he shall not look to the altars, the work of his hands, neither shall respect <span class=\"clarity-word\">that</span> which his fingers have made, either the groves, or the images.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "isaiah-17-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "¶ In that day shall his strong cities be as a forsaken bough, and an uppermost branch, which they left because of the children of Israel: and there shall be desolation.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "isaiah-17-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Because thou hast forgotten the God of thy salvation, and hast not been mindful of the rock of thy strength, therefore shalt thou plant pleasant plants, and shalt set it with strange slips:",
+      "churchId": "p10"
+    },
+    {
+      "slug": "isaiah-17-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "In the day shalt thou make thy plant to grow, and in the morning shalt thou make thy seed to flourish: <span class=\"clarity-word\">but</span> the harvest <span class=\"clarity-word\">shall be</span> a heap in the day of grief and of desperate sorrow.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "isaiah-17-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "¶ Woe to the multitude of many people, <span class=\"clarity-word\">which</span> make a noise like the noise of the seas; and to the rushing of nations, <span class=\"clarity-word\">that</span> make a rushing like the rushing of mighty waters!",
+      "churchId": "p12"
+    },
+    {
+      "slug": "isaiah-17-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "The nations shall rush like the rushing of many waters: but <span class=\"clarity-word\">God</span> shall rebuke them, and they shall flee far off, and shall be chased as the chaff of the mountains before the wind, and like a rolling thing before the whirlwind.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "isaiah-17-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And behold at eveningtide trouble; <span class=\"clarity-word\">and</span> before the morning he <span class=\"clarity-word\">is</span> not. This <span class=\"clarity-word\">is</span> the portion of them that spoil us, and the lot of them that rob us.",
+      "churchId": "p14"
+    }
+  ]
+}

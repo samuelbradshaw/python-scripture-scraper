@@ -1,0 +1,372 @@
+{
+  "name": "Numbers 3",
+  "abbrev": "Num. 3",
+  "number": "3",
+  "churchUri": "/scriptures/ot/num/3",
+  "paragraphs": [
+    {
+      "slug": "numbers-3-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 3",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "numbers-3-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "These also <span class=\"clarity-word\">are</span> the generations of Aaron and Moses in the day <span class=\"clarity-word\">that</span> the <span class=\"small-caps\">Lord</span> spake with Moses in mount Sinai.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "numbers-3-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And these <span class=\"clarity-word\">are</span> the names of the sons of Aaron; Nadab the firstborn, and Abihu, Eleazar, and Ithamar.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "numbers-3-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "These <span class=\"clarity-word\">are</span> the names of the sons of Aaron, the priests which were anointed, whom he consecrated to minister in the priest’s office.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "numbers-3-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And Nadab and Abihu died before the <span class=\"small-caps\">Lord</span>, when they offered strange fire before the <span class=\"small-caps\">Lord</span>, in the wilderness of Sinai, and they had no children: and Eleazar and Ithamar ministered in the priest’s office in the sight of Aaron their father.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "numbers-3-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "¶ And the <span class=\"small-caps\">Lord</span> spake unto Moses, saying,",
+      "churchId": "p5"
+    },
+    {
+      "slug": "numbers-3-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Bring the tribe of Levi near, and present them before Aaron the priest, that they may minister unto him.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "numbers-3-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And they shall keep his charge, and the charge of the whole congregation before the tabernacle of the congregation, to do the service of the tabernacle.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "numbers-3-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And they shall keep all the instruments of the tabernacle of the congregation, and the charge of the children of Israel, to do the service of the tabernacle.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "numbers-3-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And thou shalt give the Levites unto Aaron and to his sons: they <span class=\"clarity-word\">are</span> wholly given unto him out of the children of Israel.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "numbers-3-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And thou shalt appoint Aaron and his sons, and they shall wait on their priest’s office: and the stranger that cometh nigh shall be put to death.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "numbers-3-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And the <span class=\"small-caps\">Lord</span> spake unto Moses, saying,",
+      "churchId": "p11"
+    },
+    {
+      "slug": "numbers-3-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And I, behold, I have taken the Levites from among the children of Israel instead of all the firstborn that openeth the matrix among the children of Israel: therefore the Levites shall be mine;",
+      "churchId": "p12"
+    },
+    {
+      "slug": "numbers-3-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Because all the firstborn <span class=\"clarity-word\">are</span> mine; <span class=\"clarity-word\">for</span> on the day that I smote all the firstborn in the land of Egypt I hallowed unto me all the firstborn in Israel, both man and beast: mine shall they be: I <span class=\"clarity-word\">am</span> the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "numbers-3-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "¶ And the <span class=\"small-caps\">Lord</span> spake unto Moses in the wilderness of Sinai, saying,",
+      "churchId": "p14"
+    },
+    {
+      "slug": "numbers-3-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Number the children of Levi after the house of their fathers, by their families: every male from a month old and upward shalt thou number them.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "numbers-3-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And Moses numbered them according to the word of the <span class=\"small-caps\">Lord</span>, as he was commanded.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "numbers-3-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And these were the sons of Levi by their names; Gershon, and Kohath, and Merari.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "numbers-3-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And these <span class=\"clarity-word\">are</span> the names of the sons of Gershon by their families; Libni, and Shimei.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "numbers-3-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And the sons of Kohath by their families; Amram, and Izehar, Hebron, and Uzziel.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "numbers-3-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And the sons of Merari by their families; Mahli, and Mushi. These <span class=\"clarity-word\">are</span> the families of the Levites according to the house of their fathers.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "numbers-3-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Of Gershon <span class=\"clarity-word\">was</span> the family of the Libnites, and the family of the Shimites: these <span class=\"clarity-word\">are</span> the families of the Gershonites.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "numbers-3-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Those that were numbered of them, according to the number of all the males, from a month old and upward, <span class=\"clarity-word\">even</span> those that were numbered of them <span class=\"clarity-word\">were</span> seven thousand and five hundred.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "numbers-3-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "The families of the Gershonites shall pitch behind the tabernacle westward.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "numbers-3-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And the chief of the house of the father of the Gershonites <span class=\"clarity-word\">shall be</span> Eliasaph the son of Lael.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "numbers-3-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And the charge of the sons of Gershon in the tabernacle of the congregation <span class=\"clarity-word\">shall be</span> the tabernacle, and the tent, the covering thereof, and the hanging for the door of the tabernacle of the congregation,",
+      "churchId": "p25"
+    },
+    {
+      "slug": "numbers-3-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And the hangings of the court, and the curtain for the door of the court, which <span class=\"clarity-word\">is</span> by the tabernacle, and by the altar round about, and the cords of it for all the service thereof.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "numbers-3-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "¶ And of Kohath <span class=\"clarity-word\">was</span> the family of the Amramites, and the family of the Izeharites, and the family of the Hebronites, and the family of the Uzzielites: these <span class=\"clarity-word\">are</span> the families of the Kohathites.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "numbers-3-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "In the number of all the males, from a month old and upward, <span class=\"clarity-word\">were</span> eight thousand and six hundred, keeping the charge of the sanctuary.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "numbers-3-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "The families of the sons of Kohath shall pitch on the side of the tabernacle southward.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "numbers-3-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And the chief of the house of the father of the families of the Kohathites <span class=\"clarity-word\">shall be</span> Elizaphan the son of Uzziel.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "numbers-3-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "And their charge <span class=\"clarity-word\">shall be</span> the ark, and the table, and the candlestick, and the altars, and the vessels of the sanctuary wherewith they minister, and the hanging, and all the service thereof.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "numbers-3-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "And Eleazar the son of Aaron the priest <span class=\"clarity-word\">shall be</span> chief over the chief of the Levites, <span class=\"clarity-word\">and have</span> the oversight of them that keep the charge of the sanctuary.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "numbers-3-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "¶ Of Merari <span class=\"clarity-word\">was</span> the family of the Mahlites, and the family of the Mushites: these <span class=\"clarity-word\">are</span> the families of Merari.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "numbers-3-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "And those that were numbered of them, according to the number of all the males, from a month old and upward, <span class=\"clarity-word\">were</span> six thousand and two hundred.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "numbers-3-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "And the chief of the house of the father of the families of Merari <span class=\"clarity-word\">was</span> Zuriel the son of Abihail: <span class=\"clarity-word\">these</span> shall pitch on the side of the tabernacle northward.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "numbers-3-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "And <span class=\"clarity-word\">under</span> the custody and charge of the sons of Merari <span class=\"clarity-word\">shall be</span> the boards of the tabernacle, and the bars thereof, and the pillars thereof, and the sockets thereof, and all the vessels thereof, and all that serveth thereto,",
+      "churchId": "p36"
+    },
+    {
+      "slug": "numbers-3-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "And the pillars of the court round about, and their sockets, and their pins, and their cords.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "numbers-3-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "¶ But those that encamp before the tabernacle toward the east, <span class=\"clarity-word\">even</span> before the tabernacle of the congregation eastward, <span class=\"clarity-word\">shall be</span> Moses, and Aaron and his sons, keeping the charge of the sanctuary for the charge of the children of Israel; and the stranger that cometh nigh shall be put to death.",
+      "churchId": "p38"
+    },
+    {
+      "slug": "numbers-3-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "All that were numbered of the Levites, which Moses and Aaron numbered at the commandment of the <span class=\"small-caps\">Lord</span>, throughout their families, all the males from a month old and upward, <span class=\"clarity-word\">were</span> twenty and two thousand.",
+      "churchId": "p39"
+    },
+    {
+      "slug": "numbers-3-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "¶ And the <span class=\"small-caps\">Lord</span> said unto Moses, Number all the firstborn of the males of the children of Israel from a month old and upward, and take the number of their names.",
+      "churchId": "p40"
+    },
+    {
+      "slug": "numbers-3-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "And thou shalt take the Levites for me (I <span class=\"clarity-word\">am</span> the <span class=\"small-caps\">Lord</span>) instead of all the firstborn among the children of Israel; and the cattle of the Levites instead of all the firstlings among the cattle of the children of Israel.",
+      "churchId": "p41"
+    },
+    {
+      "slug": "numbers-3-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "And Moses numbered, as the <span class=\"small-caps\">Lord</span> commanded him, all the firstborn among the children of Israel.",
+      "churchId": "p42"
+    },
+    {
+      "slug": "numbers-3-p43",
+      "type": "verse",
+      "number": "43",
+      "content": "And all the firstborn males by the number of names, from a month old and upward, of those that were numbered of them, were twenty and two thousand two hundred and threescore and thirteen.",
+      "churchId": "p43"
+    },
+    {
+      "slug": "numbers-3-p44",
+      "type": "verse",
+      "number": "44",
+      "content": "¶ And the <span class=\"small-caps\">Lord</span> spake unto Moses, saying,",
+      "churchId": "p44"
+    },
+    {
+      "slug": "numbers-3-p45",
+      "type": "verse",
+      "number": "45",
+      "content": "Take the Levites instead of all the firstborn among the children of Israel, and the cattle of the Levites instead of their cattle; and the Levites shall be mine: I <span class=\"clarity-word\">am</span> the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p45"
+    },
+    {
+      "slug": "numbers-3-p46",
+      "type": "verse",
+      "number": "46",
+      "content": "And for those that are to be redeemed of the two hundred and threescore and thirteen of the firstborn of the children of Israel, which are more than the Levites;",
+      "churchId": "p46"
+    },
+    {
+      "slug": "numbers-3-p47",
+      "type": "verse",
+      "number": "47",
+      "content": "Thou shalt even take five shekels apiece by the poll, after the shekel of the sanctuary shalt thou take <span class=\"clarity-word\">them:</span> (the shekel <span class=\"clarity-word\">is</span> twenty gerahs:)",
+      "churchId": "p47"
+    },
+    {
+      "slug": "numbers-3-p48",
+      "type": "verse",
+      "number": "48",
+      "content": "And thou shalt give the money, wherewith the odd number of them is to be redeemed, unto Aaron and to his sons.",
+      "churchId": "p48"
+    },
+    {
+      "slug": "numbers-3-p49",
+      "type": "verse",
+      "number": "49",
+      "content": "And Moses took the redemption money of them that were over and above them that were redeemed by the Levites:",
+      "churchId": "p49"
+    },
+    {
+      "slug": "numbers-3-p50",
+      "type": "verse",
+      "number": "50",
+      "content": "Of the firstborn of the children of Israel took he the money; a thousand three hundred and threescore and five <span class=\"clarity-word\">shekels,</span> after the shekel of the sanctuary:",
+      "churchId": "p50"
+    },
+    {
+      "slug": "numbers-3-p51",
+      "type": "verse",
+      "number": "51",
+      "content": "And Moses gave the money of them that were redeemed unto Aaron and to his sons, according to the word of the <span class=\"small-caps\">Lord</span>, as the <span class=\"small-caps\">Lord</span> commanded Moses.",
+      "churchId": "p51"
+    }
+  ]
+}

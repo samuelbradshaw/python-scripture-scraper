@@ -1,0 +1,190 @@
+{
+  "name": "1 Corinthians 16",
+  "abbrev": "1 Cor. 16",
+  "number": "16",
+  "churchUri": "/scriptures/nt/1-cor/16",
+  "paragraphs": [
+    {
+      "slug": "1-corinthians-16-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 16",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "1-corinthians-16-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Now concerning the collection for the saints, as I have given order to the churches of Galatia, even so do ye.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "1-corinthians-16-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Upon the first <span class=\"clarity-word\">day</span> of the week let every one of you lay by him in store, as <span class=\"clarity-word\">God</span> hath prospered him, that there be no gatherings when I come.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "1-corinthians-16-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And when I come, whomsoever ye shall approve by <span class=\"clarity-word\">your</span> letters, them will I send to bring your liberality unto Jerusalem.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "1-corinthians-16-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And if it be meet that I go also, they shall go with me.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "1-corinthians-16-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Now I will come unto you, when I shall pass through Macedonia: for I do pass through Macedonia.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "1-corinthians-16-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And it may be that I will abide, yea, and winter with you, that ye may bring me on my journey whithersoever I go.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "1-corinthians-16-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "For I will not see you now by the way; but I trust to tarry a while with you, if the Lord permit.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "1-corinthians-16-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "But I will tarry at Ephesus until Pentecost.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "1-corinthians-16-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "For a great door and effectual is opened unto me, and <span class=\"clarity-word\">there are</span> many adversaries.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "1-corinthians-16-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Now if Timotheus come, see that he may be with you without fear: for he worketh the work of the Lord, as I also <span class=\"clarity-word\">do.</span>",
+      "churchId": "p10"
+    },
+    {
+      "slug": "1-corinthians-16-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Let no man therefore despise him: but conduct him forth in peace, that he may come unto me: for I look for him with the brethren.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "1-corinthians-16-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "As touching <span class=\"clarity-word\">our</span> brother Apollos, I greatly desired him to come unto you with the brethren: but his will was not at all to come at this time; but he will come when he shall have convenient time.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "1-corinthians-16-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Watch ye, stand fast in the faith, quit you like men, be strong.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "1-corinthians-16-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Let all your things be done with charity.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "1-corinthians-16-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "I beseech you, brethren, (ye know the house of Stephanas, that it is the firstfruits of Achaia, and <span class=\"clarity-word\">that</span> they have addicted themselves to the ministry of the saints,)",
+      "churchId": "p15"
+    },
+    {
+      "slug": "1-corinthians-16-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "That ye submit yourselves unto such, and to every one that helpeth with <span class=\"clarity-word\">us,</span> and laboureth.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "1-corinthians-16-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "I am glad of the coming of Stephanas and Fortunatus and Achaicus: for that which was lacking on your part they have supplied.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "1-corinthians-16-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "For they have refreshed my spirit and yours: therefore acknowledge ye them that are such.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "1-corinthians-16-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "The churches of Asia salute you. Aquila and Priscilla salute you much in the Lord, with the church that is in their house.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "1-corinthians-16-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "All the brethren greet you. Greet ye one another with an holy kiss.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "1-corinthians-16-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "The salutation of <span class=\"clarity-word\">me</span> Paul with mine own hand.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "1-corinthians-16-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "If any man love not the Lord Jesus Christ, let him be Anathema Maran-atha.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "1-corinthians-16-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "The grace of our Lord Jesus Christ <span class=\"clarity-word\">be</span> with you.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "1-corinthians-16-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "My love <span class=\"clarity-word\">be</span> with you all in Christ Jesus. Amen.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "1-corinthians-16-closing1",
+      "type": "paragraph",
+      "number": null,
+      "content": "¶ The first <span class=\"clarity-word\">epistle</span> to the Corinthians was written from Philippi by Stephanas, and Fortunatus, and Achaicus, and Timotheus.",
+      "churchId": "closing1"
+    }
+  ]
+}

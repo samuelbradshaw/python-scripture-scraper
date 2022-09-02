@@ -1,0 +1,113 @@
+{
+  "name": "Doctrine and Covenants 9",
+  "abbrev": "D&C 9",
+  "number": "9",
+  "churchUri": "/scriptures/dc-testament/dc/9",
+  "paragraphs": [
+    {
+      "slug": "section-9-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Section 9",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "section-9-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Behold, I say unto you, my son, that because you did not translate according to that which you desired of me, and did commence again to write for my servant, Joseph Smith, Jun., even so I would that ye should continue until you have finished this record, which I have entrusted unto him.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "section-9-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And then, behold, other records have I, that I will give unto you power that you may assist to translate.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "section-9-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Be patient, my son, for it is wisdom in me, and it is not expedient that you should translate at this present time.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "section-9-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Behold, the work which you are called to do is to write for my servant Joseph.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "section-9-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And, behold, it is because that you did not continue as you commenced, when you began to translate, that I have taken away this privilege from you.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "section-9-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Do not murmur, my son, for it is wisdom in me that I have dealt with you after this manner.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "section-9-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Behold, you have not understood; you have supposed that I would give it unto you, when you took no thought save it was to ask me.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "section-9-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "But, behold, I say unto you, that you must study it out in your mind; then you must ask me if it be right, and if it is right I will cause that your bosom shall burn within you; therefore, you shall feel that it is right.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "section-9-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "But if it be not right you shall have no such feelings, but you shall have a stupor of thought that shall cause you to forget the thing which is wrong; therefore, you cannot write that which is sacred save it be given you from me.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "section-9-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Now, if you had known this you could have translated; nevertheless, it is not expedient that you should translate now.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "section-9-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Behold, it was expedient when you commenced; but you feared, and the time is past, and it is not expedient now;",
+      "churchId": "p11"
+    },
+    {
+      "slug": "section-9-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "For, do you not behold that I have given unto my servant Joseph sufficient strength, whereby it is made up? And neither of you have I condemned.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "section-9-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Do this thing which I have commanded you, and you shall prosper. Be faithful, and yield to no temptation.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "section-9-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Stand fast in the work wherewith I have called you, and a hair of your head shall not be lost, and you shall be lifted up at the last day. Amen.",
+      "churchId": "p14"
+    }
+  ]
+}

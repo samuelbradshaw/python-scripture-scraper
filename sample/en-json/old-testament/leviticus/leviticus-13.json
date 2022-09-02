@@ -1,0 +1,428 @@
+{
+  "name": "Leviticus 13",
+  "abbrev": "Lev. 13",
+  "number": "13",
+  "churchUri": "/scriptures/ot/lev/13",
+  "paragraphs": [
+    {
+      "slug": "leviticus-13-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 13",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "leviticus-13-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And the <span class=\"small-caps\">Lord</span> spake unto Moses and Aaron, saying,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "leviticus-13-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "When a man shall have in the skin of his flesh a rising, a scab, or bright spot, and it be in the skin of his flesh <span class=\"clarity-word\">like</span> the plague of leprosy; then he shall be brought unto Aaron the priest, or unto one of his sons the priests:",
+      "churchId": "p2"
+    },
+    {
+      "slug": "leviticus-13-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And the priest shall look on the plague in the skin of the flesh: and <span class=\"clarity-word\">when</span> the hair in the plague is turned white, and the plague in sight <span class=\"clarity-word\">be</span> deeper than the skin of his flesh, it <span class=\"clarity-word\">is</span> a plague of leprosy: and the priest shall look on him, and pronounce him unclean.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "leviticus-13-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "If the bright spot <span class=\"clarity-word\">be</span> white in the skin of his flesh, and in sight <span class=\"clarity-word\">be</span> not deeper than the skin, and the hair thereof be not turned white; then the priest shall shut up <span class=\"clarity-word\">him that hath</span> the plague seven days:",
+      "churchId": "p4"
+    },
+    {
+      "slug": "leviticus-13-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And the priest shall look on him the seventh day: and, behold, <span class=\"clarity-word\">if</span> the plague in his sight be at a stay, <span class=\"clarity-word\">and</span> the plague spread not in the skin; then the priest shall shut him up seven days more:",
+      "churchId": "p5"
+    },
+    {
+      "slug": "leviticus-13-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And the priest shall look on him again the seventh day: and, behold, <span class=\"clarity-word\">if</span> the plague <span class=\"clarity-word\">be</span> somewhat dark, <span class=\"clarity-word\">and</span> the plague spread not in the skin, the priest shall pronounce him clean: it <span class=\"clarity-word\">is but</span> a scab: and he shall wash his clothes, and be clean.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "leviticus-13-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "But if the scab spread much abroad in the skin, after that he hath been seen of the priest for his cleansing, he shall be seen of the priest again:",
+      "churchId": "p7"
+    },
+    {
+      "slug": "leviticus-13-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And <span class=\"clarity-word\">if</span> the priest see that, behold, the scab spreadeth in the skin, then the priest shall pronounce him unclean: it <span class=\"clarity-word\">is</span> a leprosy.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "leviticus-13-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "¶ When the plague of leprosy is in a man, then he shall be brought unto the priest;",
+      "churchId": "p9"
+    },
+    {
+      "slug": "leviticus-13-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And the priest shall see <span class=\"clarity-word\">him:</span> and, behold, <span class=\"clarity-word\">if</span> the rising <span class=\"clarity-word\">be</span> white in the skin, and it have turned the hair white, and <span class=\"clarity-word\">there be</span> quick raw flesh in the rising;",
+      "churchId": "p10"
+    },
+    {
+      "slug": "leviticus-13-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "It <span class=\"clarity-word\">is</span> an old leprosy in the skin of his flesh, and the priest shall pronounce him unclean, and shall not shut him up: for he <span class=\"clarity-word\">is</span> unclean.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "leviticus-13-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And if a leprosy break out abroad in the skin, and the leprosy cover all the skin of <span class=\"clarity-word\">him that hath</span> the plague from his head even to his foot, wheresoever the priest looketh;",
+      "churchId": "p12"
+    },
+    {
+      "slug": "leviticus-13-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Then the priest shall consider: and, behold, <span class=\"clarity-word\">if</span> the leprosy have covered all his flesh, he shall pronounce <span class=\"clarity-word\">him</span> clean <span class=\"clarity-word\">that hath</span> the plague: it is all turned white: he <span class=\"clarity-word\">is</span> clean.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "leviticus-13-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "But when raw flesh appeareth in him, he shall be unclean.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "leviticus-13-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And the priest shall see the raw flesh, and pronounce him to be unclean: <span class=\"clarity-word\">for</span> the raw flesh <span class=\"clarity-word\">is</span> unclean: it <span class=\"clarity-word\">is</span> a leprosy.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "leviticus-13-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Or if the raw flesh turn again, and be changed unto white, he shall come unto the priest;",
+      "churchId": "p16"
+    },
+    {
+      "slug": "leviticus-13-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And the priest shall see him: and, behold, <span class=\"clarity-word\">if</span> the plague be turned into white; then the priest shall pronounce <span class=\"clarity-word\">him</span> clean <span class=\"clarity-word\">that hath</span> the plague: he <span class=\"clarity-word\">is</span> clean.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "leviticus-13-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "¶ The flesh also, in which, <span class=\"clarity-word\">even</span> in the skin thereof, was a boil, and is healed,",
+      "churchId": "p18"
+    },
+    {
+      "slug": "leviticus-13-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And in the place of the boil there be a white rising, or a bright spot, white, and somewhat reddish, and it be shewed to the priest;",
+      "churchId": "p19"
+    },
+    {
+      "slug": "leviticus-13-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And if, when the priest seeth it, behold, it <span class=\"clarity-word\">be</span> in sight lower than the skin, and the hair thereof be turned white; the priest shall pronounce him unclean: it <span class=\"clarity-word\">is</span> a plague of leprosy broken out of the boil.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "leviticus-13-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "But if the priest look on it, and, behold, <span class=\"clarity-word\">there be</span> no white hairs therein, and <span class=\"clarity-word\">if</span> it <span class=\"clarity-word\">be</span> not lower than the skin, but <span class=\"clarity-word\">be</span> somewhat dark; then the priest shall shut him up seven days:",
+      "churchId": "p21"
+    },
+    {
+      "slug": "leviticus-13-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And if it spread much abroad in the skin, then the priest shall pronounce him unclean: it <span class=\"clarity-word\">is</span> a plague.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "leviticus-13-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "But if the bright spot stay in his place, <span class=\"clarity-word\">and</span> spread not, it <span class=\"clarity-word\">is</span> a burning boil; and the priest shall pronounce him clean.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "leviticus-13-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "¶ Or if there be <span class=\"clarity-word\">any</span> flesh, in the skin whereof <span class=\"clarity-word\">there is</span> a hot burning, and the quick <span class=\"clarity-word\">flesh</span> that burneth have a white bright spot, somewhat reddish, or white;",
+      "churchId": "p24"
+    },
+    {
+      "slug": "leviticus-13-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Then the priest shall look upon it: and, behold, <span class=\"clarity-word\">if</span> the hair in the bright spot be turned white, and it <span class=\"clarity-word\">be in</span> sight deeper than the skin; it <span class=\"clarity-word\">is</span> a leprosy broken out of the burning: wherefore the priest shall pronounce him unclean: it <span class=\"clarity-word\">is</span> the plague of leprosy.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "leviticus-13-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "But if the priest look on it, and, behold, <span class=\"clarity-word\">there be</span> no white hair in the bright spot, and it <span class=\"clarity-word\">be</span> no lower than the <span class=\"clarity-word\">other</span> skin, but <span class=\"clarity-word\">be</span> somewhat dark; then the priest shall shut him up seven days:",
+      "churchId": "p26"
+    },
+    {
+      "slug": "leviticus-13-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And the priest shall look upon him the seventh day: <span class=\"clarity-word\">and</span> if it be spread much abroad in the skin, then the priest shall pronounce him unclean: it <span class=\"clarity-word\">is</span> the plague of leprosy.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "leviticus-13-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And if the bright spot stay in his place, <span class=\"clarity-word\">and</span> spread not in the skin, but it <span class=\"clarity-word\">be</span> somewhat dark; it <span class=\"clarity-word\">is</span> a rising of the burning, and the priest shall pronounce him clean: for it <span class=\"clarity-word\">is</span> an inflammation of the burning.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "leviticus-13-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "¶ If a man or woman have a plague upon the head or the beard;",
+      "churchId": "p29"
+    },
+    {
+      "slug": "leviticus-13-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "Then the priest shall see the plague: and, behold, if it <span class=\"clarity-word\">be</span> in sight deeper than the skin; <span class=\"clarity-word\">and there be</span> in it a yellow thin hair; then the priest shall pronounce him unclean: it <span class=\"clarity-word\">is</span> a dry scall, <span class=\"clarity-word\">even</span> a leprosy upon the head or beard.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "leviticus-13-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "And if the priest look on the plague of the scall, and, behold, it <span class=\"clarity-word\">be</span> not in sight deeper than the skin, and <span class=\"clarity-word\">that there is</span> no black hair in it; then the priest shall shut up <span class=\"clarity-word\">him that hath</span> the plague of the scall seven days:",
+      "churchId": "p31"
+    },
+    {
+      "slug": "leviticus-13-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "And in the seventh day the priest shall look on the plague: and, behold, <span class=\"clarity-word\">if</span> the scall spread not, and there be in it no yellow hair, and the scall <span class=\"clarity-word\">be</span> not in sight deeper than the skin;",
+      "churchId": "p32"
+    },
+    {
+      "slug": "leviticus-13-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "He shall be shaven, but the scall shall he not shave; and the priest shall shut up <span class=\"clarity-word\">him that hath</span> the scall seven days more:",
+      "churchId": "p33"
+    },
+    {
+      "slug": "leviticus-13-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "And in the seventh day the priest shall look on the scall: and, behold, <span class=\"clarity-word\">if</span> the scall be not spread in the skin, nor <span class=\"clarity-word\">be</span> in sight deeper than the skin; then the priest shall pronounce him clean: and he shall wash his clothes, and be clean.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "leviticus-13-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "But if the scall spread much in the skin after his cleansing;",
+      "churchId": "p35"
+    },
+    {
+      "slug": "leviticus-13-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "Then the priest shall look on him: and, behold, if the scall be spread in the skin, the priest shall not seek for yellow hair; he <span class=\"clarity-word\">is</span> unclean.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "leviticus-13-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "But if the scall be in his sight at a stay, and <span class=\"clarity-word\">that</span> there is black hair grown up therein; the scall is healed, he <span class=\"clarity-word\">is</span> clean: and the priest shall pronounce him clean.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "leviticus-13-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "¶ If a man also or a woman have in the skin of their flesh bright spots, <span class=\"clarity-word\">even</span> white bright spots;",
+      "churchId": "p38"
+    },
+    {
+      "slug": "leviticus-13-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "Then the priest shall look: and, behold, <span class=\"clarity-word\">if</span> the bright spots in the skin of their flesh <span class=\"clarity-word\">be</span> darkish white; it <span class=\"clarity-word\">is</span> a freckled spot <span class=\"clarity-word\">that</span> groweth in the skin; he <span class=\"clarity-word\">is</span> clean.",
+      "churchId": "p39"
+    },
+    {
+      "slug": "leviticus-13-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "And the man whose hair is fallen off his head, he <span class=\"clarity-word\">is</span> bald; <span class=\"clarity-word\">yet is</span> he clean.",
+      "churchId": "p40"
+    },
+    {
+      "slug": "leviticus-13-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "And he that hath his hair fallen off from the part of his head toward his face, he <span class=\"clarity-word\">is</span> forehead bald: <span class=\"clarity-word\">yet is</span> he clean.",
+      "churchId": "p41"
+    },
+    {
+      "slug": "leviticus-13-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "And if there be in the bald head, or bald forehead, a white reddish sore; it <span class=\"clarity-word\">is</span> a leprosy sprung up in his bald head, or his bald forehead.",
+      "churchId": "p42"
+    },
+    {
+      "slug": "leviticus-13-p43",
+      "type": "verse",
+      "number": "43",
+      "content": "Then the priest shall look upon it: and, behold, <span class=\"clarity-word\">if</span> the rising of the sore <span class=\"clarity-word\">be</span> white reddish in his bald head, or in his bald forehead, as the leprosy appeareth in the skin of the flesh;",
+      "churchId": "p43"
+    },
+    {
+      "slug": "leviticus-13-p44",
+      "type": "verse",
+      "number": "44",
+      "content": "He is a leprous man, he <span class=\"clarity-word\">is</span> unclean: the priest shall pronounce him utterly unclean; his plague <span class=\"clarity-word\">is</span> in his head.",
+      "churchId": "p44"
+    },
+    {
+      "slug": "leviticus-13-p45",
+      "type": "verse",
+      "number": "45",
+      "content": "And the leper in whom the plague <span class=\"clarity-word\">is,</span> his clothes shall be rent, and his head bare, and he shall put a covering upon his upper lip, and shall cry, Unclean, unclean.",
+      "churchId": "p45"
+    },
+    {
+      "slug": "leviticus-13-p46",
+      "type": "verse",
+      "number": "46",
+      "content": "All the days wherein the plague <span class=\"clarity-word\">shall be</span> in him he shall be defiled; he <span class=\"clarity-word\">is</span> unclean: he shall dwell alone; without the camp <span class=\"clarity-word\">shall</span> his habitation <span class=\"clarity-word\">be.</span>",
+      "churchId": "p46"
+    },
+    {
+      "slug": "leviticus-13-p47",
+      "type": "verse",
+      "number": "47",
+      "content": "¶ The garment also that the plague of leprosy is in, <span class=\"clarity-word\">whether it be</span> a woollen garment, or a linen garment;",
+      "churchId": "p47"
+    },
+    {
+      "slug": "leviticus-13-p48",
+      "type": "verse",
+      "number": "48",
+      "content": "Whether <span class=\"clarity-word\">it be</span> in the warp, or woof; of linen, or of woollen; whether in a skin, or in any thing made of skin;",
+      "churchId": "p48"
+    },
+    {
+      "slug": "leviticus-13-p49",
+      "type": "verse",
+      "number": "49",
+      "content": "And if the plague be greenish or reddish in the garment, or in the skin, either in the warp, or in the woof, or in any thing of skin; it <span class=\"clarity-word\">is</span> a plague of leprosy, and shall be shewed unto the priest:",
+      "churchId": "p49"
+    },
+    {
+      "slug": "leviticus-13-p50",
+      "type": "verse",
+      "number": "50",
+      "content": "And the priest shall look upon the plague, and shut up <span class=\"clarity-word\">it that hath</span> the plague seven days:",
+      "churchId": "p50"
+    },
+    {
+      "slug": "leviticus-13-p51",
+      "type": "verse",
+      "number": "51",
+      "content": "And he shall look on the plague on the seventh day: if the plague be spread in the garment, either in the warp, or in the woof, or in a skin, <span class=\"clarity-word\">or</span> in any work that is made of skin; the plague <span class=\"clarity-word\">is</span> a fretting leprosy; it <span class=\"clarity-word\">is</span> unclean.",
+      "churchId": "p51"
+    },
+    {
+      "slug": "leviticus-13-p52",
+      "type": "verse",
+      "number": "52",
+      "content": "He shall therefore burn that garment, whether warp or woof, in woollen or in linen, or any thing of skin, wherein the plague is: for it <span class=\"clarity-word\">is</span> a fretting leprosy; it shall be burnt in the fire.",
+      "churchId": "p52"
+    },
+    {
+      "slug": "leviticus-13-p53",
+      "type": "verse",
+      "number": "53",
+      "content": "And if the priest shall look, and, behold, the plague be not spread in the garment, either in the warp, or in the woof, or in any thing of skin;",
+      "churchId": "p53"
+    },
+    {
+      "slug": "leviticus-13-p54",
+      "type": "verse",
+      "number": "54",
+      "content": "Then the priest shall command that they wash <span class=\"clarity-word\">the thing</span> wherein the plague <span class=\"clarity-word\">is,</span> and he shall shut it up seven days more:",
+      "churchId": "p54"
+    },
+    {
+      "slug": "leviticus-13-p55",
+      "type": "verse",
+      "number": "55",
+      "content": "And the priest shall look on the plague, after that it is washed: and, behold, <span class=\"clarity-word\">if</span> the plague have not changed his colour, and the plague be not spread; it <span class=\"clarity-word\">is</span> unclean; thou shalt burn it in the fire; it <span class=\"clarity-word\">is</span> fret inward, <span class=\"clarity-word\">whether</span> it <span class=\"clarity-word\">be</span> bare within or without.",
+      "churchId": "p55"
+    },
+    {
+      "slug": "leviticus-13-p56",
+      "type": "verse",
+      "number": "56",
+      "content": "And if the priest look, and, behold, the plague <span class=\"clarity-word\">be</span> somewhat dark after the washing of it; then he shall rend it out of the garment, or out of the skin, or out of the warp, or out of the woof:",
+      "churchId": "p56"
+    },
+    {
+      "slug": "leviticus-13-p57",
+      "type": "verse",
+      "number": "57",
+      "content": "And if it appear still in the garment, either in the warp, or in the woof, or in any thing of skin; it <span class=\"clarity-word\">is</span> a spreading <span class=\"clarity-word\">plague:</span> thou shalt burn that wherein the plague <span class=\"clarity-word\">is</span> with fire.",
+      "churchId": "p57"
+    },
+    {
+      "slug": "leviticus-13-p58",
+      "type": "verse",
+      "number": "58",
+      "content": "And the garment, either warp, or woof, or whatsoever thing of skin <span class=\"clarity-word\">it be,</span> which thou shalt wash, if the plague be departed from them, then it shall be washed the second time, and shall be clean.",
+      "churchId": "p58"
+    },
+    {
+      "slug": "leviticus-13-p59",
+      "type": "verse",
+      "number": "59",
+      "content": "This <span class=\"clarity-word\">is</span> the law of the plague of leprosy in a garment of woollen or linen, either in the warp, or woof, or any thing of skins, to pronounce it clean, or to pronounce it unclean.",
+      "churchId": "p59"
+    }
+  ]
+}

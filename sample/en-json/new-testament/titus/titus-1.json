@@ -1,0 +1,134 @@
+{
+  "name": "Titus 1",
+  "abbrev": "Titus 1",
+  "number": "1",
+  "churchUri": "/scriptures/nt/titus/1",
+  "paragraphs": [
+    {
+      "slug": "titus-1-title1",
+      "type": "book-title",
+      "number": null,
+      "content": "<small>The Epistle of Paul to </small>Titus",
+      "churchId": "title1"
+    },
+    {
+      "slug": "titus-1-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 1",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "titus-1-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Paul, a servant of God, and an apostle of Jesus Christ, according to the faith of God’s elect, and the acknowledging of the truth which is after godliness;",
+      "churchId": "p1"
+    },
+    {
+      "slug": "titus-1-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "In hope of eternal life, which God, that cannot lie, promised before the world began;",
+      "churchId": "p2"
+    },
+    {
+      "slug": "titus-1-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "But hath in due times manifested his word through preaching, which is committed unto me according to the commandment of God our Saviour;",
+      "churchId": "p3"
+    },
+    {
+      "slug": "titus-1-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "To Titus, <span class=\"clarity-word\">mine</span> own son after the common faith: Grace, mercy, <span class=\"clarity-word\">and</span> peace, from God the Father and the Lord Jesus Christ our Saviour.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "titus-1-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "For this cause left I thee in Crete, that thou shouldest set in order the things that are wanting, and ordain elders in every city, as I had appointed thee:",
+      "churchId": "p5"
+    },
+    {
+      "slug": "titus-1-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "If any be blameless, the husband of one wife, having faithful children not accused of riot or unruly.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "titus-1-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "For a bishop must be blameless, as the steward of God; not selfwilled, not soon angry, not given to wine, no striker, not given to filthy lucre;",
+      "churchId": "p7"
+    },
+    {
+      "slug": "titus-1-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "But a lover of hospitality, a lover of good men, sober, just, holy, temperate;",
+      "churchId": "p8"
+    },
+    {
+      "slug": "titus-1-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Holding fast the faithful word as he hath been taught, that he may be able by sound doctrine both to exhort and to convince the gainsayers.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "titus-1-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "For there are many unruly and vain talkers and deceivers, specially they of the circumcision:",
+      "churchId": "p10"
+    },
+    {
+      "slug": "titus-1-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Whose mouths must be stopped, who subvert whole houses, teaching things which they ought not, for filthy lucre’s sake.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "titus-1-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "One of themselves, <span class=\"clarity-word\">even</span> a prophet of their own, said, The Cretians <span class=\"clarity-word\">are</span> alway liars, evil beasts, slow bellies.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "titus-1-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "This witness is true. Wherefore rebuke them sharply, that they may be sound in the faith;",
+      "churchId": "p13"
+    },
+    {
+      "slug": "titus-1-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Not giving heed to Jewish fables, and commandments of men, that turn from the truth.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "titus-1-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Unto the pure all things <span class=\"clarity-word\">are</span> pure: but unto them that are defiled and unbelieving <span class=\"clarity-word\">is</span> nothing pure; but even their mind and conscience is defiled.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "titus-1-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "They profess that they know God; but in works they deny <span class=\"clarity-word\">him,</span> being abominable, and disobedient, and unto every good work reprobate.",
+      "churchId": "p16"
+    }
+  ]
+}

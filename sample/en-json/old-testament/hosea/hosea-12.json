@@ -1,0 +1,113 @@
+{
+  "name": "Hosea 12",
+  "abbrev": "Hosea 12",
+  "number": "12",
+  "churchUri": "/scriptures/ot/hosea/12",
+  "paragraphs": [
+    {
+      "slug": "hosea-12-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 12",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "hosea-12-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Ephraim feedeth on wind, and followeth after the east wind: he daily increaseth lies and desolation; and they do make a covenant with the Assyrians, and oil is carried into Egypt.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "hosea-12-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "The <span class=\"small-caps\">Lord</span> hath also a controversy with Judah, and will punish Jacob according to his ways; according to his doings will he recompense him.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "hosea-12-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "¶ He took his brother by the heel in the womb, and by his strength he had power with God:",
+      "churchId": "p3"
+    },
+    {
+      "slug": "hosea-12-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Yea, he had power over the angel, and prevailed: he wept, and made supplication unto him: he found him <span class=\"clarity-word\">in</span> Beth-el, and there he spake with us;",
+      "churchId": "p4"
+    },
+    {
+      "slug": "hosea-12-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Even the <span class=\"small-caps\">Lord</span> God of hosts; the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">is</span> his memorial.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "hosea-12-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Therefore turn thou to thy God: keep mercy and judgment, and wait on thy God continually.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "hosea-12-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "¶ <span class=\"clarity-word\">He is</span> a merchant, the balances of deceit <span class=\"clarity-word\">are</span> in his hand: he loveth to oppress.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "hosea-12-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And Ephraim said, Yet I am become rich, I have found me out substance: <span class=\"clarity-word\">in</span> all my labours they shall find none iniquity in me that <span class=\"clarity-word\">were</span> sin.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "hosea-12-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And I <span class=\"clarity-word\">that am</span> the <span class=\"small-caps\">Lord</span> thy God from the land of Egypt will yet make thee to dwell in tabernacles, as in the days of the solemn feast.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "hosea-12-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "I have also spoken by the prophets, and I have multiplied visions, and used similitudes, by the ministry of the prophets.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "hosea-12-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "<span class=\"clarity-word\">Is there</span> iniquity <span class=\"clarity-word\">in</span> Gilead? surely they are vanity: they sacrifice bullocks in Gilgal; yea, their altars <span class=\"clarity-word\">are</span> as heaps in the furrows of the fields.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "hosea-12-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And Jacob fled into the country of Syria, and Israel served for a wife, and for a wife he kept <span class=\"clarity-word\">sheep.</span>",
+      "churchId": "p12"
+    },
+    {
+      "slug": "hosea-12-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And by a prophet the <span class=\"small-caps\">Lord</span> brought Israel out of Egypt, and by a prophet was he preserved.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "hosea-12-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Ephraim provoked <span class=\"clarity-word\">him</span> to anger most bitterly: therefore shall he leave his blood upon him, and his reproach shall his Lord return unto him.",
+      "churchId": "p14"
+    }
+  ]
+}

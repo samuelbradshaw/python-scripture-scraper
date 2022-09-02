@@ -1,0 +1,190 @@
+{
+  "name": "Acts 12",
+  "abbrev": "Acts 12",
+  "number": "12",
+  "churchUri": "/scriptures/nt/acts/12",
+  "paragraphs": [
+    {
+      "slug": "acts-12-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 12",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "acts-12-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Now about that time Herod the king stretched forth <span class=\"clarity-word\">his</span> hands to vex certain of the church.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "acts-12-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And he killed James the brother of John with the sword.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "acts-12-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And because he saw it pleased the Jews, he proceeded further to take Peter also. (Then were the days of unleavened bread.)",
+      "churchId": "p3"
+    },
+    {
+      "slug": "acts-12-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And when he had apprehended him, he put <span class=\"clarity-word\">him</span> in prison, and delivered <span class=\"clarity-word\">him</span> to four quaternions of soldiers to keep him; intending after Easter to bring him forth to the people.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "acts-12-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Peter therefore was kept in prison: but prayer was made without ceasing of the church unto God for him.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "acts-12-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And when Herod would have brought him forth, the same night Peter was sleeping between two soldiers, bound with two chains: and the keepers before the door kept the prison.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "acts-12-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And, behold, the angel of the Lord came upon <span class=\"clarity-word\">him,</span> and a light shined in the prison: and he smote Peter on the side, and raised him up, saying, Arise up quickly. And his chains fell off from <span class=\"clarity-word\">his</span> hands.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "acts-12-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And the angel said unto him, Gird thyself, and bind on thy sandals. And so he did. And he saith unto him, Cast thy garment about thee, and follow me.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "acts-12-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And he went out, and followed him; and wist not that it was true which was done by the angel; but thought he saw a vision.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "acts-12-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "When they were past the first and the second ward, they came unto the iron gate that leadeth unto the city; which opened to them of his own accord: and they went out, and passed on through one street; and forthwith the angel departed from him.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "acts-12-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And when Peter was come to himself, he said, Now I know of a surety, that the Lord hath sent his angel, and hath delivered me out of the hand of Herod, and <span class=\"clarity-word\">from</span> all the expectation of the people of the Jews.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "acts-12-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And when he had considered <span class=\"clarity-word\">the thing,</span> he came to the house of Mary the mother of John, whose surname was Mark; where many were gathered together praying.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "acts-12-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And as Peter knocked at the door of the gate, a damsel came to hearken, named Rhoda.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "acts-12-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And when she knew Peter’s voice, she opened not the gate for gladness, but ran in, and told how Peter stood before the gate.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "acts-12-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And they said unto her, Thou art mad. But she constantly affirmed that it was even so. Then said they, It is his angel.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "acts-12-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "But Peter continued knocking: and when they had opened <span class=\"clarity-word\">the door,</span> and saw him, they were astonished.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "acts-12-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "But he, beckoning unto them with the hand to hold their peace, declared unto them how the Lord had brought him out of the prison. And he said, Go shew these things unto James, and to the brethren. And he departed, and went into another place.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "acts-12-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Now as soon as it was day, there was no small stir among the soldiers, what was become of Peter.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "acts-12-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And when Herod had sought for him, and found him not, he examined the keepers, and commanded that <span class=\"clarity-word\">they</span> should be put to death. And he went down from Judæa to Cæsarea, and <span class=\"clarity-word\">there</span> abode.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "acts-12-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "¶ And Herod was highly displeased with them of Tyre and Sidon: but they came with one accord to him, and, having made Blastus the king’s chamberlain their friend, desired peace; because their country was nourished by the king’s <span class=\"clarity-word\">country.</span>",
+      "churchId": "p20"
+    },
+    {
+      "slug": "acts-12-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And upon a set day Herod, arrayed in royal apparel, sat upon his throne, and made an oration unto them.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "acts-12-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And the people gave a shout, <span class=\"clarity-word\">saying, It is</span> the voice of a god, and not of a man.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "acts-12-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And immediately the angel of the Lord smote him, because he gave not God the glory: and he was eaten of worms, and gave up the ghost.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "acts-12-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "¶ But the word of God grew and multiplied.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "acts-12-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And Barnabas and Saul returned from Jerusalem, when they had fulfilled <span class=\"clarity-word\">their</span> ministry, and took with them John, whose surname was Mark.",
+      "churchId": "p25"
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "name": "Judges 8",
+  "abbrev": "Judg. 8",
+  "number": "8",
+  "churchUri": "/scriptures/ot/judg/8",
+  "paragraphs": [
+    {
+      "slug": "judges-8-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 8",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "judges-8-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And the men of Ephraim said unto him, Why hast thou served us thus, that thou calledst us not, when thou wentest to fight with the Midianites? And they did chide with him sharply.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "judges-8-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And he said unto them, What have I done now in comparison of you? <span class=\"clarity-word\">Is</span> not the gleaning of the grapes of Ephraim better than the vintage of Abi-ezer?",
+      "churchId": "p2"
+    },
+    {
+      "slug": "judges-8-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "God hath delivered into your hands the princes of Midian, Oreb and Zeeb: and what was I able to do in comparison of you? Then their anger was abated toward him, when he had said that.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "judges-8-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "¶ And Gideon came to Jordan, <span class=\"clarity-word\">and</span> passed over, he, and the three hundred men that <span class=\"clarity-word\">were</span> with him, faint, yet pursuing <span class=\"clarity-word\">them.</span>",
+      "churchId": "p4"
+    },
+    {
+      "slug": "judges-8-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And he said unto the men of Succoth, Give, I pray you, loaves of bread unto the people that follow me; for they <span class=\"clarity-word\">be</span> faint, and I am pursuing after Zebah and Zalmunna, kings of Midian.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "judges-8-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "¶ And the princes of Succoth said, <span class=\"clarity-word\">Are</span> the hands of Zebah and Zalmunna now in thine hand, that we should give bread unto thine army?",
+      "churchId": "p6"
+    },
+    {
+      "slug": "judges-8-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And Gideon said, Therefore when the <span class=\"small-caps\">Lord</span> hath delivered Zebah and Zalmunna into mine hand, then I will tear your flesh with the thorns of the wilderness and with briers.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "judges-8-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "¶ And he went up thence to Penuel, and spake unto them likewise: and the men of Penuel answered him as the men of Succoth had answered <span class=\"clarity-word\">him.</span>",
+      "churchId": "p8"
+    },
+    {
+      "slug": "judges-8-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And he spake also unto the men of Penuel, saying, When I come again in peace, I will break down this tower.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "judges-8-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "¶ Now Zebah and Zalmunna <span class=\"clarity-word\">were</span> in Karkor, and their hosts with them, about fifteen thousand <span class=\"clarity-word\">men,</span> all that were left of all the hosts of the children of the east: for there fell an hundred and twenty thousand men that drew sword.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "judges-8-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "¶ And Gideon went up by the way of them that dwelt in tents on the east of Nobah and Jogbehah, and smote the host: for the host was secure.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "judges-8-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And when Zebah and Zalmunna fled, he pursued after them, and took the two kings of Midian, Zebah and Zalmunna, and discomfited all the host.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "judges-8-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "¶ And Gideon the son of Joash returned from battle before the sun <span class=\"clarity-word\">was up,</span>",
+      "churchId": "p13"
+    },
+    {
+      "slug": "judges-8-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And caught a young man of the men of Succoth, and inquired of him: and he described unto him the princes of Succoth, and the elders thereof, <span class=\"clarity-word\">even</span> threescore and seventeen men.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "judges-8-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And he came unto the men of Succoth, and said, Behold Zebah and Zalmunna, with whom ye did upbraid me, saying, <span class=\"clarity-word\">Are</span> the hands of Zebah and Zalmunna now in thine hand, that we should give bread unto thy men <span class=\"clarity-word\">that are</span> weary?",
+      "churchId": "p15"
+    },
+    {
+      "slug": "judges-8-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And he took the elders of the city, and thorns of the wilderness and briers, and with them he taught the men of Succoth.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "judges-8-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And he beat down the tower of Penuel, and slew the men of the city.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "judges-8-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "¶ Then said he unto Zebah and Zalmunna, What manner of men <span class=\"clarity-word\">were they</span> whom ye slew at Tabor? And they answered, As thou <span class=\"clarity-word\">art,</span> so <span class=\"clarity-word\">were</span> they; each one resembled the children of a king.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "judges-8-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And he said, They <span class=\"clarity-word\">were</span> my brethren, <span class=\"clarity-word\">even</span> the sons of my mother: <span class=\"clarity-word\">as</span> the <span class=\"small-caps\">Lord</span> liveth, if ye had saved them alive, I would not slay you.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "judges-8-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And he said unto Jether his firstborn, Up, <span class=\"clarity-word\">and</span> slay them. But the youth drew not his sword: for he feared, because he <span class=\"clarity-word\">was</span> yet a youth.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "judges-8-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Then Zebah and Zalmunna said, Rise thou, and fall upon us: for as the man <span class=\"clarity-word\">is, so is</span> his strength. And Gideon arose, and slew Zebah and Zalmunna, and took away the ornaments that <span class=\"clarity-word\">were</span> on their camels’ necks.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "judges-8-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "¶ Then the men of Israel said unto Gideon, Rule thou over us, both thou, and thy son, and thy son’s son also: for thou hast delivered us from the hand of Midian.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "judges-8-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And Gideon said unto them, I will not rule over you, neither shall my son rule over you: the <span class=\"small-caps\">Lord</span> shall rule over you.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "judges-8-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "¶ And Gideon said unto them, I would desire a request of you, that ye would give me every man the earrings of his prey. (For they had golden earrings, because they <span class=\"clarity-word\">were</span> Ishmaelites.)",
+      "churchId": "p24"
+    },
+    {
+      "slug": "judges-8-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And they answered, We will willingly give <span class=\"clarity-word\">them.</span> And they spread a garment, and did cast therein every man the earrings of his prey.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "judges-8-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And the weight of the golden earrings that he requested was a thousand and seven hundred <span class=\"clarity-word\">shekels</span> of gold; beside ornaments, and collars, and purple raiment that <span class=\"clarity-word\">was</span> on the kings of Midian, and beside the chains that <span class=\"clarity-word\">were</span> about their camels’ necks.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "judges-8-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And Gideon made an ephod thereof, and put it in his city, <span class=\"clarity-word\">even</span> in Ophrah: and all Israel went thither a whoring after it: which thing became a snare unto Gideon, and to his house.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "judges-8-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "¶ Thus was Midian subdued before the children of Israel, so that they lifted up their heads no more. And the country was in quietness forty years in the days of Gideon.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "judges-8-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "¶ And Jerubbaal the son of Joash went and dwelt in his own house.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "judges-8-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And Gideon had threescore and ten sons of his body begotten: for he had many wives.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "judges-8-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "And his concubine that <span class=\"clarity-word\">was</span> in Shechem, she also bare him a son, whose name he called Abimelech.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "judges-8-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "¶ And Gideon the son of Joash died in a good old age, and was buried in the sepulchre of Joash his father, in Ophrah of the Abi-ezrites.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "judges-8-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "And it came to pass, as soon as Gideon was dead, that the children of Israel turned again, and went a whoring after Baalim, and made Baal-berith their god.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "judges-8-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "And the children of Israel remembered not the <span class=\"small-caps\">Lord</span> their God, who had delivered them out of the hands of all their enemies on every side:",
+      "churchId": "p34"
+    },
+    {
+      "slug": "judges-8-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "Neither shewed they kindness to the house of Jerubbaal, <span class=\"clarity-word\">namely,</span> Gideon, according to all the goodness which he had shewed unto Israel.",
+      "churchId": "p35"
+    }
+  ]
+}

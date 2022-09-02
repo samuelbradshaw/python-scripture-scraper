@@ -1,0 +1,274 @@
+{
+  "name": "Mark 13",
+  "abbrev": "Mark 13",
+  "number": "13",
+  "churchUri": "/scriptures/nt/mark/13",
+  "paragraphs": [
+    {
+      "slug": "mark-13-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 13",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "mark-13-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And as he went out of the temple, one of his disciples saith unto him, Master, see what manner of stones and what buildings <span class=\"clarity-word\">are here!</span>",
+      "churchId": "p1"
+    },
+    {
+      "slug": "mark-13-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And Jesus answering said unto him, Seest thou these great buildings? there shall not be left one stone upon another, that shall not be thrown down.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "mark-13-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And as he sat upon the mount of Olives over against the temple, Peter and James and John and Andrew asked him privately,",
+      "churchId": "p3"
+    },
+    {
+      "slug": "mark-13-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Tell us, when shall these things be? and what <span class=\"clarity-word\">shall be</span> the sign when all these things shall be fulfilled?",
+      "churchId": "p4"
+    },
+    {
+      "slug": "mark-13-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And Jesus answering them began to say, Take heed lest any <span class=\"clarity-word\">man</span> deceive you:",
+      "churchId": "p5"
+    },
+    {
+      "slug": "mark-13-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "For many shall come in my name, saying, I am <span class=\"clarity-word\">Christ;</span> and shall deceive many.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "mark-13-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And when ye shall hear of wars and rumours of wars, be ye not troubled: for <span class=\"clarity-word\">such things</span> must needs be; but the end <span class=\"clarity-word\">shall</span> not <span class=\"clarity-word\">be</span> yet.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "mark-13-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "For nation shall rise against nation, and kingdom against kingdom: and there shall be earthquakes in divers places, and there shall be famines and troubles: these <span class=\"clarity-word\">are</span> the beginnings of sorrows.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "mark-13-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "¶ But take heed to yourselves: for they shall deliver you up to councils; and in the synagogues ye shall be beaten: and ye shall be brought before rulers and kings for my sake, for a testimony against them.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "mark-13-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And the gospel must first be published among all nations.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "mark-13-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "But when they shall lead <span class=\"clarity-word\">you,</span> and deliver you up, take no thought beforehand what ye shall speak, neither do ye premeditate: but whatsoever shall be given you in that hour, that speak ye: for it is not ye that speak, but the Holy Ghost.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "mark-13-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Now the brother shall betray the brother to death, and the father the son; and children shall rise up against <span class=\"clarity-word\">their</span> parents, and shall cause them to be put to death.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "mark-13-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And ye shall be hated of all <span class=\"clarity-word\">men</span> for my name’s sake: but he that shall endure unto the end, the same shall be saved.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "mark-13-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "¶ But when ye shall see the abomination of desolation, spoken of by Daniel the prophet, standing where it ought not, (let him that readeth understand,) then let them that be in Judæa flee to the mountains:",
+      "churchId": "p14"
+    },
+    {
+      "slug": "mark-13-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And let him that is on the housetop not go down into the house, neither enter <span class=\"clarity-word\">therein,</span> to take any thing out of his house:",
+      "churchId": "p15"
+    },
+    {
+      "slug": "mark-13-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And let him that is in the field not turn back again for to take up his garment.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "mark-13-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "But woe to them that are with child, and to them that give suck in those days!",
+      "churchId": "p17"
+    },
+    {
+      "slug": "mark-13-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And pray ye that your flight be not in the winter.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "mark-13-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "For <span class=\"clarity-word\">in</span> those days shall be affliction, such as was not from the beginning of the creation which God created unto this time, neither shall be.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "mark-13-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And except that the Lord had shortened those days, no flesh should be saved: but for the elect’s sake, whom he hath chosen, he hath shortened the days.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "mark-13-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And then if any man shall say to you, Lo, here <span class=\"clarity-word\">is</span> Christ; or, lo, <span class=\"clarity-word\">he is</span> there; believe <span class=\"clarity-word\">him</span> not:",
+      "churchId": "p21"
+    },
+    {
+      "slug": "mark-13-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "For false Christs and false prophets shall rise, and shall shew signs and wonders, to seduce, if <span class=\"clarity-word\">it were</span> possible, even the elect.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "mark-13-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "But take ye heed: behold, I have foretold you all things.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "mark-13-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "¶ But in those days, after that tribulation, the sun shall be darkened, and the moon shall not give her light,",
+      "churchId": "p24"
+    },
+    {
+      "slug": "mark-13-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And the stars of heaven shall fall, and the powers that are in heaven shall be shaken.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "mark-13-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And then shall they see the Son of man coming in the clouds with great power and glory.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "mark-13-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And then shall he send his angels, and shall gather together his elect from the four winds, from the uttermost part of the earth to the uttermost part of heaven.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "mark-13-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "Now learn a parable of the fig tree; When her branch is yet tender, and putteth forth leaves, ye know that summer is near:",
+      "churchId": "p28"
+    },
+    {
+      "slug": "mark-13-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "So ye in like manner, when ye shall see these things come to pass, know that it is nigh, <span class=\"clarity-word\">even</span> at the doors.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "mark-13-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "Verily I say unto you, that this generation shall not pass, till all these things be done.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "mark-13-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "Heaven and earth shall pass away: but my words shall not pass away.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "mark-13-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "¶ But of that day and <span class=\"clarity-word\">that</span> hour knoweth no man, no, not the angels which are in heaven, neither the Son, but the Father.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "mark-13-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "Take ye heed, watch and pray: for ye know not when the time is.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "mark-13-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "<span class=\"clarity-word\">For the Son of man is</span> as a man taking a far journey, who left his house, and gave authority to his servants, and to every man his work, and commanded the porter to watch.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "mark-13-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "Watch ye therefore: for ye know not when the master of the house cometh, at even, or at midnight, or at the cockcrowing, or in the morning:",
+      "churchId": "p35"
+    },
+    {
+      "slug": "mark-13-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "Lest coming suddenly he find you sleeping.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "mark-13-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "And what I say unto you I say unto all, Watch.",
+      "churchId": "p37"
+    }
+  ]
+}

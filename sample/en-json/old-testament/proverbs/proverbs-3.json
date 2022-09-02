@@ -1,0 +1,260 @@
+{
+  "name": "Proverbs 3",
+  "abbrev": "Prov. 3",
+  "number": "3",
+  "churchUri": "/scriptures/ot/prov/3",
+  "paragraphs": [
+    {
+      "slug": "proverbs-3-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 3",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "proverbs-3-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "My son, forget not my law; but let thine heart keep my commandments:",
+      "churchId": "p1"
+    },
+    {
+      "slug": "proverbs-3-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "For length of days, and long life, and peace, shall they add to thee.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "proverbs-3-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Let not mercy and truth forsake thee: bind them about thy neck; write them upon the table of thine heart:",
+      "churchId": "p3"
+    },
+    {
+      "slug": "proverbs-3-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "So shalt thou find favour and good understanding in the sight of God and man.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "proverbs-3-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "¶ Trust in the <span class=\"small-caps\">Lord</span> with all thine heart; and lean not unto thine own understanding.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "proverbs-3-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "In all thy ways acknowledge him, and he shall direct thy paths.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "proverbs-3-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "¶ Be not wise in thine own eyes: fear the <span class=\"small-caps\">Lord</span>, and depart from evil.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "proverbs-3-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "It shall be health to thy navel, and marrow to thy bones.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "proverbs-3-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Honour the <span class=\"small-caps\">Lord</span> with thy substance, and with the firstfruits of all thine increase:",
+      "churchId": "p9"
+    },
+    {
+      "slug": "proverbs-3-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "So shall thy barns be filled with plenty, and thy presses shall burst out with new wine.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "proverbs-3-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "¶ My son, despise not the chastening of the <span class=\"small-caps\">Lord</span>; neither be weary of his correction:",
+      "churchId": "p11"
+    },
+    {
+      "slug": "proverbs-3-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "For whom the <span class=\"small-caps\">Lord</span> loveth he correcteth; even as a father the son <span class=\"clarity-word\">in whom</span> he delighteth.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "proverbs-3-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "¶ Happy <span class=\"clarity-word\">is</span> the man <span class=\"clarity-word\">that</span> findeth wisdom, and the man <span class=\"clarity-word\">that</span> getteth understanding.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "proverbs-3-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "For the merchandise of it <span class=\"clarity-word\">is</span> better than the merchandise of silver, and the gain thereof than fine gold.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "proverbs-3-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "She <span class=\"clarity-word\">is</span> more precious than rubies: and all the things thou canst desire are not to be compared unto her.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "proverbs-3-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Length of days <span class=\"clarity-word\">is</span> in her right hand; <span class=\"clarity-word\">and</span> in her left hand riches and honour.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "proverbs-3-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Her ways <span class=\"clarity-word\">are</span> ways of pleasantness, and all her paths <span class=\"clarity-word\">are</span> peace.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "proverbs-3-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "She <span class=\"clarity-word\">is</span> a tree of life to them that lay hold upon her: and happy <span class=\"clarity-word\">is every one</span> that retaineth her.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "proverbs-3-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "The <span class=\"small-caps\">Lord</span> by wisdom hath founded the earth; by understanding hath he established the heavens.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "proverbs-3-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "By his knowledge the depths are broken up, and the clouds drop down the dew.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "proverbs-3-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "¶ My son, let not them depart from thine eyes: keep sound wisdom and discretion:",
+      "churchId": "p21"
+    },
+    {
+      "slug": "proverbs-3-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "So shall they be life unto thy soul, and grace to thy neck.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "proverbs-3-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Then shalt thou walk in thy way safely, and thy foot shall not stumble.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "proverbs-3-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "When thou liest down, thou shalt not be afraid: yea, thou shalt lie down, and thy sleep shall be sweet.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "proverbs-3-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Be not afraid of sudden fear, neither of the desolation of the wicked, when it cometh.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "proverbs-3-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "For the <span class=\"small-caps\">Lord</span> shall be thy confidence, and shall keep thy foot from being taken.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "proverbs-3-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "¶ Withhold not good from them to whom it is due, when it is in the power of thine hand to do <span class=\"clarity-word\">it.</span>",
+      "churchId": "p27"
+    },
+    {
+      "slug": "proverbs-3-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "Say not unto thy neighbour, Go, and come again, and to morrow I will give; when thou hast it by thee.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "proverbs-3-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "Devise not evil against thy neighbour, seeing he dwelleth securely by thee.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "proverbs-3-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "¶ Strive not with a man without cause, if he have done thee no harm.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "proverbs-3-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "¶ Envy thou not the oppressor, and choose none of his ways.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "proverbs-3-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "For the froward <span class=\"clarity-word\">is</span> abomination to the <span class=\"small-caps\">Lord</span>: but his secret <span class=\"clarity-word\">is</span> with the righteous.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "proverbs-3-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "¶ The curse of the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">is</span> in the house of the wicked: but he blesseth the habitation of the just.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "proverbs-3-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "Surely he scorneth the scorners: but he giveth grace unto the lowly.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "proverbs-3-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "The wise shall inherit glory: but shame shall be the promotion of fools.",
+      "churchId": "p35"
+    }
+  ]
+}

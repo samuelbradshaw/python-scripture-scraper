@@ -1,0 +1,218 @@
+{
+  "name": "Psalm 102",
+  "abbrev": "Psalm 102",
+  "number": "102",
+  "churchUri": "/scriptures/ot/ps/102",
+  "paragraphs": [
+    {
+      "slug": "psalm-102-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 102",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-102-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "A Prayer of the afflicted, when he is overwhelmed, and poureth out his complaint before the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-102-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Hear my prayer, O <span class=\"small-caps\">Lord</span>, and let my cry come unto thee.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-102-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Hide not thy face from me in the day <span class=\"clarity-word\">when</span> I am in trouble; incline thine ear unto me: in the day <span class=\"clarity-word\">when</span> I call answer me speedily.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-102-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "For my days are consumed like smoke, and my bones are burned as an hearth.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-102-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "My heart is smitten, and withered like grass; so that I forget to eat my bread.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-102-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "By reason of the voice of my groaning my bones cleave to my skin.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-102-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "I am like a pelican of the wilderness: I am like an owl of the desert.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-102-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "I watch, and am as a sparrow alone upon the house top.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-102-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Mine enemies reproach me all the day; <span class=\"clarity-word\">and</span> they that are mad against me are sworn against me.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "psalm-102-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "For I have eaten ashes like bread, and mingled my drink with weeping,",
+      "churchId": "p9"
+    },
+    {
+      "slug": "psalm-102-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Because of thine indignation and thy wrath: for thou hast lifted me up, and cast me down.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "psalm-102-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "My days <span class=\"clarity-word\">are</span> like a shadow that declineth; and I am withered like grass.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "psalm-102-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "But thou, O <span class=\"small-caps\">Lord</span>, shalt endure for ever; and thy remembrance unto all generations.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "psalm-102-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Thou shalt arise, <span class=\"clarity-word\">and</span> have mercy upon Zion: for the time to favour her, yea, the set time, is come.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "psalm-102-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "For thy servants take pleasure in her stones, and favour the dust thereof.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "psalm-102-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "So the heathen shall fear the name of the <span class=\"small-caps\">Lord</span>, and all the kings of the earth thy glory.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "psalm-102-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "When the <span class=\"small-caps\">Lord</span> shall build up Zion, he shall appear in his glory.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "psalm-102-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "He will regard the prayer of the destitute, and not despise their prayer.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "psalm-102-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "This shall be written for the generation to come: and the people which shall be created shall praise the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "psalm-102-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "For he hath looked down from the height of his sanctuary; from heaven did the <span class=\"small-caps\">Lord</span> behold the earth;",
+      "churchId": "p19"
+    },
+    {
+      "slug": "psalm-102-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "To hear the groaning of the prisoner; to loose those that are appointed to death;",
+      "churchId": "p20"
+    },
+    {
+      "slug": "psalm-102-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "To declare the name of the <span class=\"small-caps\">Lord</span> in Zion, and his praise in Jerusalem;",
+      "churchId": "p21"
+    },
+    {
+      "slug": "psalm-102-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "When the people are gathered together, and the kingdoms, to serve the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "psalm-102-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "He weakened my strength in the way; he shortened my days.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "psalm-102-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "I said, O my God, take me not away in the midst of my days: thy years <span class=\"clarity-word\">are</span> throughout all generations.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "psalm-102-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Of old hast thou laid the foundation of the earth: and the heavens <span class=\"clarity-word\">are</span> the work of thy hands.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "psalm-102-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "They shall perish, but thou shalt endure: yea, all of them shall wax old like a garment; as a vesture shalt thou change them, and they shall be changed:",
+      "churchId": "p26"
+    },
+    {
+      "slug": "psalm-102-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "But thou <span class=\"clarity-word\">art</span> the same, and thy years shall have no end.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "psalm-102-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "The children of thy servants shall continue, and their seed shall be established before thee.",
+      "churchId": "p28"
+    }
+  ]
+}

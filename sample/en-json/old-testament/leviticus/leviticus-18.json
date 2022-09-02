@@ -1,0 +1,225 @@
+{
+  "name": "Leviticus 18",
+  "abbrev": "Lev. 18",
+  "number": "18",
+  "churchUri": "/scriptures/ot/lev/18",
+  "paragraphs": [
+    {
+      "slug": "leviticus-18-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 18",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "leviticus-18-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And the <span class=\"small-caps\">Lord</span> spake unto Moses, saying,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "leviticus-18-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Speak unto the children of Israel, and say unto them, I am the <span class=\"small-caps\">Lord</span> your God.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "leviticus-18-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "After the doings of the land of Egypt, wherein ye dwelt, shall ye not do: and after the doings of the land of Canaan, whither I bring you, shall ye not do: neither shall ye walk in their ordinances.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "leviticus-18-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Ye shall do my judgments, and keep mine ordinances, to walk therein: I <span class=\"clarity-word\">am</span> the <span class=\"small-caps\">Lord</span> your God.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "leviticus-18-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Ye shall therefore keep my statutes, and my judgments: which if a man do, he shall live in them: I <span class=\"clarity-word\">am</span> the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "leviticus-18-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "¶ None of you shall approach to any that is near of kin to him, to uncover <span class=\"clarity-word\">their</span> nakedness: I <span class=\"clarity-word\">am</span> the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "leviticus-18-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "The nakedness of thy father, or the nakedness of thy mother, shalt thou not uncover: she <span class=\"clarity-word\">is</span> thy mother; thou shalt not uncover her nakedness.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "leviticus-18-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "The nakedness of thy father’s wife shalt thou not uncover: it <span class=\"clarity-word\">is</span> thy father’s nakedness.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "leviticus-18-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "The nakedness of thy sister, the daughter of thy father, or daughter of thy mother, <span class=\"clarity-word\">whether she be</span> born at home, or born abroad, <span class=\"clarity-word\">even</span> their nakedness thou shalt not uncover.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "leviticus-18-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "The nakedness of thy son’s daughter, or of thy daughter’s daughter, <span class=\"clarity-word\">even</span> their nakedness thou shalt not uncover: for theirs <span class=\"clarity-word\">is</span> thine own nakedness.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "leviticus-18-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "The nakedness of thy father’s wife’s daughter, begotten of thy father, she <span class=\"clarity-word\">is</span> thy sister, thou shalt not uncover her nakedness.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "leviticus-18-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Thou shalt not uncover the nakedness of thy father’s sister: she <span class=\"clarity-word\">is</span> thy father’s near kinswoman.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "leviticus-18-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Thou shalt not uncover the nakedness of thy mother’s sister: for she <span class=\"clarity-word\">is</span> thy mother’s near kinswoman.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "leviticus-18-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Thou shalt not uncover the nakedness of thy father’s brother, thou shalt not approach to his wife: she <span class=\"clarity-word\">is</span> thine aunt.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "leviticus-18-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Thou shalt not uncover the nakedness of thy daughter in law: she <span class=\"clarity-word\">is</span> thy son’s wife; thou shalt not uncover her nakedness.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "leviticus-18-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Thou shalt not uncover the nakedness of thy brother’s wife: it <span class=\"clarity-word\">is</span> thy brother’s nakedness.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "leviticus-18-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Thou shalt not uncover the nakedness of a woman and her daughter, neither shalt thou take her son’s daughter, or her daughter’s daughter, to uncover her nakedness; <span class=\"clarity-word\">for</span> they <span class=\"clarity-word\">are</span> her near kinswomen: it <span class=\"clarity-word\">is</span> wickedness.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "leviticus-18-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Neither shalt thou take a wife to her sister, to vex <span class=\"clarity-word\">her,</span> to uncover her nakedness, beside the other in her life <span class=\"clarity-word\">time.</span>",
+      "churchId": "p18"
+    },
+    {
+      "slug": "leviticus-18-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Also thou shalt not approach unto a woman to uncover her nakedness, as long as she is put apart for her uncleanness.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "leviticus-18-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Moreover thou shalt not lie carnally with thy neighbour’s wife, to defile thyself with her.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "leviticus-18-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And thou shalt not let any of thy seed pass through <span class=\"clarity-word\">the fire</span> to Molech, neither shalt thou profane the name of thy God: I <span class=\"clarity-word\">am</span> the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "leviticus-18-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Thou shalt not lie with mankind, as with womankind: it <span class=\"clarity-word\">is</span> abomination.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "leviticus-18-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Neither shalt thou lie with any beast to defile thyself therewith: neither shall any woman stand before a beast to lie down thereto: it <span class=\"clarity-word\">is</span> confusion.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "leviticus-18-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Defile not ye yourselves in any of these things: for in all these the nations are defiled which I cast out before you:",
+      "churchId": "p24"
+    },
+    {
+      "slug": "leviticus-18-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And the land is defiled: therefore I do visit the iniquity thereof upon it, and the land itself vomiteth out her inhabitants.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "leviticus-18-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "Ye shall therefore keep my statutes and my judgments, and shall not commit <span class=\"clarity-word\">any</span> of these abominations; <span class=\"clarity-word\">neither</span> any of your own nation, nor any stranger that sojourneth among you:",
+      "churchId": "p26"
+    },
+    {
+      "slug": "leviticus-18-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "(For all these abominations have the men of the land done, which <span class=\"clarity-word\">were</span> before you, and the land is defiled;)",
+      "churchId": "p27"
+    },
+    {
+      "slug": "leviticus-18-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "That the land spue not you out also, when ye defile it, as it spued out the nations that <span class=\"clarity-word\">were</span> before you.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "leviticus-18-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "For whosoever shall commit any of these abominations, even the souls that commit <span class=\"clarity-word\">them</span> shall be cut off from among their people.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "leviticus-18-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "Therefore shall ye keep mine ordinance, that <span class=\"clarity-word\">ye</span> commit not <span class=\"clarity-word\">any one</span> of these abominable customs, which were committed before you, and that ye defile not yourselves therein: I <span class=\"clarity-word\">am</span> the <span class=\"small-caps\">Lord</span> your God.",
+      "churchId": "p30"
+    }
+  ]
+}

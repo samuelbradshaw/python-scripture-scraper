@@ -1,0 +1,400 @@
+{
+  "name": "Genesis 31",
+  "abbrev": "Gen. 31",
+  "number": "31",
+  "churchUri": "/scriptures/ot/gen/31",
+  "paragraphs": [
+    {
+      "slug": "genesis-31-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 31",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "genesis-31-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And he heard the words of Laban’s sons, saying, Jacob hath taken away all that <span class=\"clarity-word\">was</span> our father’s; and of <span class=\"clarity-word\">that</span> which <span class=\"clarity-word\">was</span> our father’s hath he gotten all this glory.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "genesis-31-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And Jacob beheld the countenance of Laban, and, behold, it <span class=\"clarity-word\">was</span> not toward him as before.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "genesis-31-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And the <span class=\"small-caps\">Lord</span> said unto Jacob, Return unto the land of thy fathers, and to thy kindred; and I will be with thee.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "genesis-31-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And Jacob sent and called Rachel and Leah to the field unto his flock,",
+      "churchId": "p4"
+    },
+    {
+      "slug": "genesis-31-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And said unto them, I see your father’s countenance, that it <span class=\"clarity-word\">is</span> not toward me as before; but the God of my father hath been with me.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "genesis-31-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And ye know that with all my power I have served your father.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "genesis-31-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And your father hath deceived me, and changed my wages ten times; but God suffered him not to hurt me.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "genesis-31-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "If he said thus, The speckled shall be thy wages; then all the cattle bare speckled: and if he said thus, The ringstraked shall be thy hire; then bare all the cattle ringstraked.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "genesis-31-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Thus God hath taken away the cattle of your father, and given <span class=\"clarity-word\">them</span> to me.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "genesis-31-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And it came to pass at the time that the cattle conceived, that I lifted up mine eyes, and saw in a dream, and, behold, the rams which leaped upon the cattle <span class=\"clarity-word\">were</span> ringstraked, speckled, and grisled.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "genesis-31-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And the angel of God spake unto me in a dream, <span class=\"clarity-word\">saying,</span> Jacob: And I said, Here <span class=\"clarity-word\">am</span> I.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "genesis-31-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And he said, Lift up now thine eyes, and see, all the rams which leap upon the cattle <span class=\"clarity-word\">are</span> ringstraked, speckled, and grisled: for I have seen all that Laban doeth unto thee.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "genesis-31-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "I <span class=\"clarity-word\">am</span> the God of Beth-el, where thou anointedst the pillar, <span class=\"clarity-word\">and</span> where thou vowedst a vow unto me: now arise, get thee out from this land, and return unto the land of thy kindred.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "genesis-31-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And Rachel and Leah answered and said unto him, <span class=\"clarity-word\">Is there</span> yet any portion or inheritance for us in our father’s house?",
+      "churchId": "p14"
+    },
+    {
+      "slug": "genesis-31-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Are we not counted of him strangers? for he hath sold us, and hath quite devoured also our money.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "genesis-31-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "For all the riches which God hath taken from our father, that <span class=\"clarity-word\">is</span> ours, and our children’s: now then, whatsoever God hath said unto thee, do.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "genesis-31-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "¶ Then Jacob rose up, and set his sons and his wives upon camels;",
+      "churchId": "p17"
+    },
+    {
+      "slug": "genesis-31-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And he carried away all his cattle, and all his goods which he had gotten, the cattle of his getting, which he had gotten in Padan-aram, for to go to Isaac his father in the land of Canaan.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "genesis-31-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And Laban went to shear his sheep: and Rachel had stolen the images that <span class=\"clarity-word\">were</span> her father’s.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "genesis-31-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And Jacob stole away unawares to Laban the Syrian, in that he told him not that he fled.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "genesis-31-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "So he fled with all that he had; and he rose up, and passed over the river, and set his face <span class=\"clarity-word\">toward</span> the mount Gilead.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "genesis-31-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And it was told Laban on the third day that Jacob was fled.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "genesis-31-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And he took his brethren with him, and pursued after him seven days’ journey; and they overtook him in the mount Gilead.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "genesis-31-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And God came to Laban the Syrian in a dream by night, and said unto him, Take heed that thou speak not to Jacob either good or bad.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "genesis-31-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "¶ Then Laban overtook Jacob. Now Jacob had pitched his tent in the mount: and Laban with his brethren pitched in the mount of Gilead.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "genesis-31-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And Laban said to Jacob, What hast thou done, that thou hast stolen away unawares to me, and carried away my daughters, as captives <span class=\"clarity-word\">taken</span> with the sword?",
+      "churchId": "p26"
+    },
+    {
+      "slug": "genesis-31-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "Wherefore didst thou flee away secretly, and steal away from me; and didst not tell me, that I might have sent thee away with mirth, and with songs, with tabret, and with harp?",
+      "churchId": "p27"
+    },
+    {
+      "slug": "genesis-31-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And hast not suffered me to kiss my sons and my daughters? thou hast now done foolishly in <span class=\"clarity-word\">so</span> doing.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "genesis-31-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "It is in the power of my hand to do you hurt: but the God of your father spake unto me yesternight, saying, Take thou heed that thou speak not to Jacob either good or bad.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "genesis-31-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And now, <span class=\"clarity-word\">though</span> thou wouldest needs be gone, because thou sore longedst after thy father’s house, <span class=\"clarity-word\">yet</span> wherefore hast thou stolen my gods?",
+      "churchId": "p30"
+    },
+    {
+      "slug": "genesis-31-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "And Jacob answered and said to Laban, Because I was afraid: for I said, Peradventure thou wouldest take by force thy daughters from me.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "genesis-31-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "With whomsoever thou findest thy gods, let him not live: before our brethren discern thou what <span class=\"clarity-word\">is</span> thine with me, and take <span class=\"clarity-word\">it</span> to thee. For Jacob knew not that Rachel had stolen them.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "genesis-31-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "And Laban went into Jacob’s tent, and into Leah’s tent, and into the two maidservants’ tents; but he found <span class=\"clarity-word\">them</span> not. Then went he out of Leah’s tent, and entered into Rachel’s tent.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "genesis-31-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "Now Rachel had taken the images, and put them in the camel’s furniture, and sat upon them. And Laban searched all the tent, but found <span class=\"clarity-word\">them</span> not.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "genesis-31-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "And she said to her father, Let it not displease my lord that I cannot rise up before thee; for the custom of women <span class=\"clarity-word\">is</span> upon me. And he searched, but found not the images.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "genesis-31-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "¶ And Jacob was wroth, and chode with Laban: and Jacob answered and said to Laban, What <span class=\"clarity-word\">is</span> my trespass? what <span class=\"clarity-word\">is</span> my sin, that thou hast so hotly pursued after me?",
+      "churchId": "p36"
+    },
+    {
+      "slug": "genesis-31-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "Whereas thou hast searched all my stuff, what hast thou found of all thy household stuff? set <span class=\"clarity-word\">it</span> here before my brethren and thy brethren, that they may judge betwixt us both.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "genesis-31-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "This twenty years <span class=\"clarity-word\">have</span> I <span class=\"clarity-word\">been</span> with thee; thy ewes and thy she goats have not cast their young, and the rams of thy flock have I not eaten.",
+      "churchId": "p38"
+    },
+    {
+      "slug": "genesis-31-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "That which was torn <span class=\"clarity-word\">of beasts</span> I brought not unto thee; I bare the loss of it; of my hand didst thou require it, <span class=\"clarity-word\">whether</span> stolen by day, or stolen by night.",
+      "churchId": "p39"
+    },
+    {
+      "slug": "genesis-31-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "<span class=\"clarity-word\">Thus</span> I was; in the day the drought consumed me, and the frost by night; and my sleep departed from mine eyes.",
+      "churchId": "p40"
+    },
+    {
+      "slug": "genesis-31-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "Thus have I been twenty years in thy house; I served thee fourteen years for thy two daughters, and six years for thy cattle: and thou hast changed my wages ten times.",
+      "churchId": "p41"
+    },
+    {
+      "slug": "genesis-31-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "Except the God of my father, the God of Abraham, and the fear of Isaac, had been with me, surely thou hadst sent me away now empty. God hath seen mine affliction and the labour of my hands, and rebuked <span class=\"clarity-word\">thee</span> yesternight.",
+      "churchId": "p42"
+    },
+    {
+      "slug": "genesis-31-p43",
+      "type": "verse",
+      "number": "43",
+      "content": "¶ And Laban answered and said unto Jacob, <span class=\"clarity-word\">These</span> daughters <span class=\"clarity-word\">are</span> my daughters, and <span class=\"clarity-word\">these</span> children <span class=\"clarity-word\">are</span> my children, and <span class=\"clarity-word\">these</span> cattle <span class=\"clarity-word\">are</span> my cattle, and all that thou seest <span class=\"clarity-word\">is</span> mine: and what can I do this day unto these my daughters, or unto their children which they have born?",
+      "churchId": "p43"
+    },
+    {
+      "slug": "genesis-31-p44",
+      "type": "verse",
+      "number": "44",
+      "content": "Now therefore come thou, let us make a covenant, I and thou; and let it be for a witness between me and thee.",
+      "churchId": "p44"
+    },
+    {
+      "slug": "genesis-31-p45",
+      "type": "verse",
+      "number": "45",
+      "content": "And Jacob took a stone, and set it up <span class=\"clarity-word\">for</span> a pillar.",
+      "churchId": "p45"
+    },
+    {
+      "slug": "genesis-31-p46",
+      "type": "verse",
+      "number": "46",
+      "content": "And Jacob said unto his brethren, Gather stones; and they took stones, and made an heap: and they did eat there upon the heap.",
+      "churchId": "p46"
+    },
+    {
+      "slug": "genesis-31-p47",
+      "type": "verse",
+      "number": "47",
+      "content": "And Laban called it Jegar-sahadutha: but Jacob called it Galeed.",
+      "churchId": "p47"
+    },
+    {
+      "slug": "genesis-31-p48",
+      "type": "verse",
+      "number": "48",
+      "content": "And Laban said, This heap <span class=\"clarity-word\">is</span> a witness between me and thee this day. Therefore was the name of it called Galeed;",
+      "churchId": "p48"
+    },
+    {
+      "slug": "genesis-31-p49",
+      "type": "verse",
+      "number": "49",
+      "content": "And Mizpah; for he said, The <span class=\"small-caps\">Lord</span> watch between me and thee, when we are absent one from another.",
+      "churchId": "p49"
+    },
+    {
+      "slug": "genesis-31-p50",
+      "type": "verse",
+      "number": "50",
+      "content": "If thou shalt afflict my daughters, or if thou shalt take <span class=\"clarity-word\">other</span> wives beside my daughters, no man <span class=\"clarity-word\">is</span> with us; see, God <span class=\"clarity-word\">is</span> witness betwixt me and thee.",
+      "churchId": "p50"
+    },
+    {
+      "slug": "genesis-31-p51",
+      "type": "verse",
+      "number": "51",
+      "content": "And Laban said to Jacob, Behold this heap, and behold <span class=\"clarity-word\">this</span> pillar, which I have cast betwixt me and thee;",
+      "churchId": "p51"
+    },
+    {
+      "slug": "genesis-31-p52",
+      "type": "verse",
+      "number": "52",
+      "content": "This heap <span class=\"clarity-word\">be</span> witness, and <span class=\"clarity-word\">this</span> pillar <span class=\"clarity-word\">be</span> witness, that I will not pass over this heap to thee, and that thou shalt not pass over this heap and this pillar unto me, for harm.",
+      "churchId": "p52"
+    },
+    {
+      "slug": "genesis-31-p53",
+      "type": "verse",
+      "number": "53",
+      "content": "The God of Abraham, and the God of Nahor, the God of their father, judge betwixt us. And Jacob sware by the fear of his father Isaac.",
+      "churchId": "p53"
+    },
+    {
+      "slug": "genesis-31-p54",
+      "type": "verse",
+      "number": "54",
+      "content": "Then Jacob offered sacrifice upon the mount, and called his brethren to eat bread: and they did eat bread, and tarried all night in the mount.",
+      "churchId": "p54"
+    },
+    {
+      "slug": "genesis-31-p55",
+      "type": "verse",
+      "number": "55",
+      "content": "And early in the morning Laban rose up, and kissed his sons and his daughters, and blessed them: and Laban departed, and returned unto his place.",
+      "churchId": "p55"
+    }
+  ]
+}

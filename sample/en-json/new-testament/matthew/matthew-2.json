@@ -1,0 +1,176 @@
+{
+  "name": "Matthew 2",
+  "abbrev": "Matt. 2",
+  "number": "2",
+  "churchUri": "/scriptures/nt/matt/2",
+  "paragraphs": [
+    {
+      "slug": "matthew-2-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 2",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "matthew-2-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Now when Jesus was born in Bethlehem of Judæa in the days of Herod the king, behold, there came wise men from the east to Jerusalem,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "matthew-2-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Saying, Where is he that is born King of the Jews? for we have seen his star in the east, and are come to worship him.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "matthew-2-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "When Herod the king had heard <span class=\"clarity-word\">these things,</span> he was troubled, and all Jerusalem with him.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "matthew-2-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And when he had gathered all the chief priests and scribes of the people together, he demanded of them where Christ should be born.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "matthew-2-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And they said unto him, In Bethlehem of Judæa: for thus it is written by the prophet,",
+      "churchId": "p5"
+    },
+    {
+      "slug": "matthew-2-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And thou Bethlehem, <span class=\"clarity-word\">in</span> the land of Juda, art not the least among the princes of Juda: for out of thee shall come a Governor, that shall rule my people Israel.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "matthew-2-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Then Herod, when he had privily called the wise men, inquired of them diligently what time the star appeared.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "matthew-2-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And he sent them to Bethlehem, and said, Go and search diligently for the young child; and when ye have found <span class=\"clarity-word\">him,</span> bring me word again, that I may come and worship him also.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "matthew-2-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "When they had heard the king, they departed; and, lo, the star, which they saw in the east, went before them, till it came and stood over where the young child was.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "matthew-2-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "When they saw the star, they rejoiced with exceeding great joy.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "matthew-2-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "¶ And when they were come into the house, they saw the young child with Mary his mother, and fell down, and worshipped him: and when they had opened their treasures, they presented unto him gifts; gold, and frankincense, and myrrh.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "matthew-2-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And being warned of God in a dream that they should not return to Herod, they departed into their own country another way.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "matthew-2-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And when they were departed, behold, the angel of the Lord appeareth to Joseph in a dream, saying, Arise, and take the young child and his mother, and flee into Egypt, and be thou there until I bring thee word: for Herod will seek the young child to destroy him.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "matthew-2-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "When he arose, he took the young child and his mother by night, and departed into Egypt:",
+      "churchId": "p14"
+    },
+    {
+      "slug": "matthew-2-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And was there until the death of Herod: that it might be fulfilled which was spoken of the Lord by the prophet, saying, Out of Egypt have I called my son.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "matthew-2-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "¶ Then Herod, when he saw that he was mocked of the wise men, was exceeding wroth, and sent forth, and slew all the children that were in Bethlehem, and in all the coasts thereof, from two years old and under, according to the time which he had diligently inquired of the wise men.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "matthew-2-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Then was fulfilled that which was spoken by Jeremy the prophet, saying,",
+      "churchId": "p17"
+    },
+    {
+      "slug": "matthew-2-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "In Rama was there a voice heard, lamentation, and weeping, and great mourning, Rachel weeping <span class=\"clarity-word\">for</span> her children, and would not be comforted, because they are not.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "matthew-2-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "¶ But when Herod was dead, behold, an angel of the Lord appeareth in a dream to Joseph in Egypt,",
+      "churchId": "p19"
+    },
+    {
+      "slug": "matthew-2-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Saying, Arise, and take the young child and his mother, and go into the land of Israel: for they are dead which sought the young child’s life.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "matthew-2-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And he arose, and took the young child and his mother, and came into the land of Israel.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "matthew-2-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "But when he heard that Archelaus did reign in Judæa in the room of his father Herod, he was afraid to go thither: notwithstanding, being warned of God in a dream, he turned aside into the parts of Galilee:",
+      "churchId": "p22"
+    },
+    {
+      "slug": "matthew-2-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And he came and dwelt in a city called Nazareth: that it might be fulfilled which was spoken by the prophets, He shall be called a Nazarene.",
+      "churchId": "p23"
+    }
+  ]
+}

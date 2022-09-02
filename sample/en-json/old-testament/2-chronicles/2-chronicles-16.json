@@ -1,0 +1,113 @@
+{
+  "name": "2 Chronicles 16",
+  "abbrev": "2 Chr. 16",
+  "number": "16",
+  "churchUri": "/scriptures/ot/2-chr/16",
+  "paragraphs": [
+    {
+      "slug": "2-chronicles-16-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 16",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "2-chronicles-16-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "In the six and thirtieth year of the reign of Asa Baasha king of Israel came up against Judah, and built Ramah, to the intent that he might let none go out or come in to Asa king of Judah.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "2-chronicles-16-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Then Asa brought out silver and gold out of the treasures of the house of the <span class=\"small-caps\">Lord</span> and of the king’s house, and sent to Ben-hadad king of Syria, that dwelt at Damascus, saying,",
+      "churchId": "p2"
+    },
+    {
+      "slug": "2-chronicles-16-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "<span class=\"clarity-word\">There is</span> a league between me and thee, as <span class=\"clarity-word\">there was</span> between my father and thy father: behold, I have sent thee silver and gold; go, break thy league with Baasha king of Israel, that he may depart from me.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "2-chronicles-16-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And Ben-hadad hearkened unto king Asa, and sent the captains of his armies against the cities of Israel; and they smote Ijon, and Dan, and Abel-maim, and all the store cities of Naphtali.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "2-chronicles-16-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And it came to pass, when Baasha heard <span class=\"clarity-word\">it,</span> that he left off building of Ramah, and let his work cease.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "2-chronicles-16-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Then Asa the king took all Judah; and they carried away the stones of Ramah, and the timber thereof, wherewith Baasha was building; and he built therewith Geba and Mizpah.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "2-chronicles-16-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "¶ And at that time Hanani the seer came to Asa king of Judah, and said unto him, Because thou hast relied on the king of Syria, and not relied on the <span class=\"small-caps\">Lord</span> thy God, therefore is the host of the king of Syria escaped out of thine hand.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "2-chronicles-16-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Were not the Ethiopians and the Lubims a huge host, with very many chariots and horsemen? yet, because thou didst rely on the <span class=\"small-caps\">Lord</span>, he delivered them into thine hand.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "2-chronicles-16-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "For the eyes of the <span class=\"small-caps\">Lord</span> run to and fro throughout the whole earth, to shew himself strong in the behalf of <span class=\"clarity-word\">them</span> whose heart <span class=\"clarity-word\">is</span> perfect toward him. Herein thou hast done foolishly: therefore from henceforth thou shalt have wars.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "2-chronicles-16-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Then Asa was wroth with the seer, and put him in a prison house; for <span class=\"clarity-word\">he was</span> in a rage with him because of this <span class=\"clarity-word\">thing.</span> And Asa oppressed <span class=\"clarity-word\">some</span> of the people the same time.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "2-chronicles-16-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "¶ And, behold, the acts of Asa, first and last, lo, they <span class=\"clarity-word\">are</span> written in the book of the kings of Judah and Israel.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "2-chronicles-16-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And Asa in the thirty and ninth year of his reign was diseased in his feet, until his disease <span class=\"clarity-word\">was</span> exceeding <span class=\"clarity-word\">great:</span> yet in his disease he sought not to the <span class=\"small-caps\">Lord</span>, but to the physicians.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "2-chronicles-16-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "¶ And Asa slept with his fathers, and died in the one and fortieth year of his reign.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "2-chronicles-16-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And they buried him in his own sepulchres, which he had made for himself in the city of David, and laid him in the bed which was filled with sweet odours and divers kinds <span class=\"clarity-word\">of spices</span> prepared by the apothecaries’ art: and they made a very great burning for him.",
+      "churchId": "p14"
+    }
+  ]
+}

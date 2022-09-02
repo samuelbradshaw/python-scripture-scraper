@@ -1,0 +1,85 @@
+{
+  "name": "Psalm 111",
+  "abbrev": "Psalm 111",
+  "number": "111",
+  "churchUri": "/scriptures/ot/ps/111",
+  "paragraphs": [
+    {
+      "slug": "psalm-111-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 111",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-111-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Praise ye the <span class=\"small-caps\">Lord</span>. I will praise the <span class=\"small-caps\">Lord</span> with <span class=\"clarity-word\">my</span> whole heart, in the assembly of the upright, and <span class=\"clarity-word\">in</span> the congregation.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-111-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "The works of the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">are</span> great, sought out of all them that have pleasure therein.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-111-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "His work <span class=\"clarity-word\">is</span> honourable and glorious: and his righteousness endureth for ever.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-111-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "He hath made his wonderful works to be remembered: the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">is</span> gracious and full of compassion.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-111-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "He hath given meat unto them that fear him: he will ever be mindful of his covenant.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-111-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "He hath shewed his people the power of his works, that he may give them the heritage of the heathen.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-111-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "The works of his hands <span class=\"clarity-word\">are</span> verity and judgment; all his commandments <span class=\"clarity-word\">are</span> sure.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-111-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "They stand fast for ever and ever, <span class=\"clarity-word\">and are</span> done in truth and uprightness.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "psalm-111-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "He sent redemption unto his people: he hath commanded his covenant for ever: holy and reverend <span class=\"clarity-word\">is</span> his name.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "psalm-111-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "The fear of the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">is</span> the beginning of wisdom: a good understanding have all they that do <span class=\"clarity-word\">his commandments:</span> his praise endureth for ever.",
+      "churchId": "p10"
+    }
+  ]
+}

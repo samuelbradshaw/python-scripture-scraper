@@ -1,0 +1,141 @@
+{
+  "name": "James 3",
+  "abbrev": "James 3",
+  "number": "3",
+  "churchUri": "/scriptures/nt/james/3",
+  "paragraphs": [
+    {
+      "slug": "james-3-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 3",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "james-3-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "My brethren, be not many masters, knowing that we shall receive the greater condemnation.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "james-3-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "For in many things we offend all. If any man offend not in word, the same <span class=\"clarity-word\">is</span> a perfect man, <span class=\"clarity-word\">and</span> able also to bridle the whole body.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "james-3-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Behold, we put bits in the horses’ mouths, that they may obey us; and we turn about their whole body.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "james-3-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Behold also the ships, which though <span class=\"clarity-word\">they be</span> so great, and <span class=\"clarity-word\">are</span> driven of fierce winds, yet are they turned about with a very small helm, whithersoever the governor listeth.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "james-3-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Even so the tongue is a little member, and boasteth great things. Behold, how great a matter a little fire kindleth!",
+      "churchId": "p5"
+    },
+    {
+      "slug": "james-3-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And the tongue <span class=\"clarity-word\">is</span> a fire, a world of iniquity: so is the tongue among our members, that it defileth the whole body, and setteth on fire the course of nature; and it is set on fire of hell.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "james-3-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "For every kind of beasts, and of birds, and of serpents, and of things in the sea, is tamed, and hath been tamed of mankind:",
+      "churchId": "p7"
+    },
+    {
+      "slug": "james-3-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "But the tongue can no man tame; <span class=\"clarity-word\">it is</span> an unruly evil, full of deadly poison.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "james-3-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Therewith bless we God, even the Father; and therewith curse we men, which are made after the similitude of God.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "james-3-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Out of the same mouth proceedeth blessing and cursing. My brethren, these things ought not so to be.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "james-3-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Doth a fountain send forth at the same place sweet <span class=\"clarity-word\">water</span> and bitter?",
+      "churchId": "p11"
+    },
+    {
+      "slug": "james-3-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Can the fig tree, my brethren, bear olive berries? either a vine, figs? so <span class=\"clarity-word\">can</span> no fountain both yield salt water and fresh.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "james-3-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Who <span class=\"clarity-word\">is</span> a wise man and endued with knowledge among you? let him shew out of a good conversation his works with meekness of wisdom.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "james-3-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "But if ye have bitter envying and strife in your hearts, glory not, and lie not against the truth.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "james-3-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "This wisdom descendeth not from above, but <span class=\"clarity-word\">is</span> earthly, sensual, devilish.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "james-3-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "For where envying and strife <span class=\"clarity-word\">is,</span> there <span class=\"clarity-word\">is</span> confusion and every evil work.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "james-3-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "But the wisdom that is from above is first pure, then peaceable, gentle, <span class=\"clarity-word\">and</span> easy to be entreated, full of mercy and good fruits, without partiality, and without hypocrisy.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "james-3-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And the fruit of righteousness is sown in peace of them that make peace.",
+      "churchId": "p18"
+    }
+  ]
+}

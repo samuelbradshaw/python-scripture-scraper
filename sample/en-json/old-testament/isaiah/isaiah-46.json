@@ -1,0 +1,106 @@
+{
+  "name": "Isaiah 46",
+  "abbrev": "Isa. 46",
+  "number": "46",
+  "churchUri": "/scriptures/ot/isa/46",
+  "paragraphs": [
+    {
+      "slug": "isaiah-46-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 46",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "isaiah-46-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Bel boweth down, Nebo stoopeth, their idols were upon the beasts, and upon the cattle: your carriages <span class=\"clarity-word\">were</span> heavy loaden; <span class=\"clarity-word\">they are</span> a burden to the weary <span class=\"clarity-word\">beast.</span>",
+      "churchId": "p1"
+    },
+    {
+      "slug": "isaiah-46-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "They stoop, they bow down together; they could not deliver the burden, but themselves are gone into captivity.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "isaiah-46-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "¶ Hearken unto me, O house of Jacob, and all the remnant of the house of Israel, which are borne <span class=\"clarity-word\">by me</span> from the belly, which are carried from the womb:",
+      "churchId": "p3"
+    },
+    {
+      "slug": "isaiah-46-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And <span class=\"clarity-word\">even</span> to <span class=\"clarity-word\">your</span> old age I <span class=\"clarity-word\">am</span> he; and <span class=\"clarity-word\">even</span> to hoar hairs will I carry <span class=\"clarity-word\">you:</span> I have made, and I will bear; even I will carry, and will deliver <span class=\"clarity-word\">you.</span>",
+      "churchId": "p4"
+    },
+    {
+      "slug": "isaiah-46-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "¶ To whom will ye liken me, and make <span class=\"clarity-word\">me</span> equal, and compare me, that we may be like?",
+      "churchId": "p5"
+    },
+    {
+      "slug": "isaiah-46-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "They lavish gold out of the bag, and weigh silver in the balance, <span class=\"clarity-word\">and</span> hire a goldsmith; and he maketh it a god: they fall down, yea, they worship.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "isaiah-46-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "They bear him upon the shoulder, they carry him, and set him in his place, and he standeth; from his place shall he not remove: yea, <span class=\"clarity-word\">one</span> shall cry unto him, yet can he not answer, nor save him out of his trouble.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "isaiah-46-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Remember this, and shew yourselves men: bring <span class=\"clarity-word\">it</span> again to mind, O ye transgressors.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "isaiah-46-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Remember the former things of old: for I <span class=\"clarity-word\">am</span> God, and <span class=\"clarity-word\">there is</span> none else; <span class=\"clarity-word\">I am</span> God, and <span class=\"clarity-word\">there is</span> none like me,",
+      "churchId": "p9"
+    },
+    {
+      "slug": "isaiah-46-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Declaring the end from the beginning, and from ancient times <span class=\"clarity-word\">the things</span> that are not <span class=\"clarity-word\">yet</span> done, saying, My counsel shall stand, and I will do all my pleasure:",
+      "churchId": "p10"
+    },
+    {
+      "slug": "isaiah-46-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Calling a ravenous bird from the east, the man that executeth my counsel from a far country: yea, I have spoken <span class=\"clarity-word\">it,</span> I will also bring it to pass; I have purposed <span class=\"clarity-word\">it,</span> I will also do it.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "isaiah-46-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "¶ Hearken unto me, ye stouthearted, that <span class=\"clarity-word\">are</span> far from righteousness:",
+      "churchId": "p12"
+    },
+    {
+      "slug": "isaiah-46-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "I bring near my righteousness; it shall not be far off, and my salvation shall not tarry: and I will place salvation in Zion for Israel my glory.",
+      "churchId": "p13"
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "name": "Psalm 22",
+  "abbrev": "Psalm 22",
+  "number": "22",
+  "churchUri": "/scriptures/ot/ps/22",
+  "paragraphs": [
+    {
+      "slug": "psalm-22-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 22",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-22-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "To the chief Musician upon Aijeleth Shahar, A Psalm of David.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-22-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "My God, my God, why hast thou forsaken me? <span class=\"clarity-word\">why art thou so</span> far from helping me, <span class=\"clarity-word\">and from</span> the words of my roaring?",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-22-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "O my God, I cry in the daytime, but thou hearest not; and in the night season, and am not silent.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-22-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "But thou <span class=\"clarity-word\">art</span> holy, <span class=\"clarity-word\">O thou</span> that inhabitest the praises of Israel.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-22-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Our fathers trusted in thee: they trusted, and thou didst deliver them.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-22-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "They cried unto thee, and were delivered: they trusted in thee, and were not confounded.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-22-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "But I <span class=\"clarity-word\">am</span> a worm, and no man; a reproach of men, and despised of the people.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-22-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "All they that see me laugh me to scorn: they shoot out the lip, they shake the head, <span class=\"clarity-word\">saying,</span>",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-22-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "He trusted on the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">that</span> he would deliver him: let him deliver him, seeing he delighted in him.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "psalm-22-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "But thou <span class=\"clarity-word\">art</span> he that took me out of the womb: thou didst make me hope <span class=\"clarity-word\">when I was</span> upon my mother’s breasts.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "psalm-22-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "I was cast upon thee from the womb: thou <span class=\"clarity-word\">art</span> my God from my mother’s belly.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "psalm-22-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Be not far from me; for trouble <span class=\"clarity-word\">is</span> near; for <span class=\"clarity-word\">there is</span> none to help.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "psalm-22-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Many bulls have compassed me: strong <span class=\"clarity-word\">bulls</span> of Bashan have beset me round.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "psalm-22-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "They gaped upon me <span class=\"clarity-word\">with</span> their mouths, <span class=\"clarity-word\">as</span> a ravening and a roaring lion.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "psalm-22-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "I am poured out like water, and all my bones are out of joint: my heart is like wax; it is melted in the midst of my bowels.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "psalm-22-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "My strength is dried up like a potsherd; and my tongue cleaveth to my jaws; and thou hast brought me into the dust of death.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "psalm-22-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "For dogs have compassed me: the assembly of the wicked have inclosed me: they pierced my hands and my feet.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "psalm-22-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "I may tell all my bones: they look <span class=\"clarity-word\">and</span> stare upon me.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "psalm-22-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "They part my garments among them, and cast lots upon my vesture.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "psalm-22-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "But be not thou far from me, O <span class=\"small-caps\">Lord</span>: O my strength, haste thee to help me.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "psalm-22-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Deliver my soul from the sword; my darling from the power of the dog.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "psalm-22-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Save me from the lion’s mouth: for thou hast heard me from the horns of the unicorns.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "psalm-22-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "I will declare thy name unto my brethren: in the midst of the congregation will I praise thee.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "psalm-22-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Ye that fear the <span class=\"small-caps\">Lord</span>, praise him; all ye the seed of Jacob, glorify him; and fear him, all ye the seed of Israel.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "psalm-22-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "For he hath not despised nor abhorred the affliction of the afflicted; neither hath he hid his face from him; but when he cried unto him, he heard.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "psalm-22-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "My praise <span class=\"clarity-word\">shall be</span> of thee in the great congregation: I will pay my vows before them that fear him.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "psalm-22-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "The meek shall eat and be satisfied: they shall praise the <span class=\"small-caps\">Lord</span> that seek him: your heart shall live for ever.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "psalm-22-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "All the ends of the world shall remember and turn unto the <span class=\"small-caps\">Lord</span>: and all the kindreds of the nations shall worship before thee.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "psalm-22-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "For the kingdom <span class=\"clarity-word\">is</span> the <span class=\"small-caps\">Lord</span>’s: and he <span class=\"clarity-word\">is</span> the governor among the nations.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "psalm-22-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "All <span class=\"clarity-word\">they that be</span> fat upon earth shall eat and worship: all they that go down to the dust shall bow before him: and none can keep alive his own soul.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "psalm-22-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "A seed shall serve him; it shall be accounted to the Lord for a generation.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "psalm-22-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "They shall come, and shall declare his righteousness unto a people that shall be born, that he hath done <span class=\"clarity-word\">this.</span>",
+      "churchId": "p31"
+    }
+  ]
+}

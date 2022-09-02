@@ -1,0 +1,113 @@
+{
+  "name": "Psalm 56",
+  "abbrev": "Psalm 56",
+  "number": "56",
+  "churchUri": "/scriptures/ot/ps/56",
+  "paragraphs": [
+    {
+      "slug": "psalm-56-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 56",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-56-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "To the chief Musician upon Jonath-elem-rechokim, Michtam of David, when the Philistines took him in Gath.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-56-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Be merciful unto me, O God: for man would swallow me up; he fighting daily oppresseth me.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-56-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Mine enemies would daily swallow <span class=\"clarity-word\">me</span> up: for <span class=\"clarity-word\">they be</span> many that fight against me, O thou most High.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-56-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "What time I am afraid, I will trust in thee.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-56-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "In God I will praise his word, in God I have put my trust; I will not fear what flesh can do unto me.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-56-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Every day they wrest my words: all their thoughts <span class=\"clarity-word\">are</span> against me for evil.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-56-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "They gather themselves together, they hide themselves, they mark my steps, when they wait for my soul.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-56-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Shall they escape by iniquity? in <span class=\"clarity-word\">thine</span> anger cast down the people, O God.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-56-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Thou tellest my wanderings: put thou my tears into thy bottle: <span class=\"clarity-word\">are they</span> not in thy book?",
+      "churchId": "p8"
+    },
+    {
+      "slug": "psalm-56-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "When I cry <span class=\"clarity-word\">unto thee,</span> then shall mine enemies turn back: this I know; for God <span class=\"clarity-word\">is</span> for me.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "psalm-56-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "In God will I praise <span class=\"clarity-word\">his</span> word: in the <span class=\"small-caps\">Lord</span> will I praise <span class=\"clarity-word\">his</span> word.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "psalm-56-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "In God have I put my trust: I will not be afraid what man can do unto me.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "psalm-56-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Thy vows <span class=\"clarity-word\">are</span> upon me, O God: I will render praises unto thee.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "psalm-56-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "For thou hast delivered my soul from death: <span class=\"clarity-word\">wilt</span> not <span class=\"clarity-word\">thou deliver</span> my feet from falling, that I may walk before God in the light of the living?",
+      "churchId": "p13"
+    }
+  ]
+}

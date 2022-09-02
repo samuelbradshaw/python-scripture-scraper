@@ -1,0 +1,302 @@
+{
+  "name": "Acts 19",
+  "abbrev": "Acts 19",
+  "number": "19",
+  "churchUri": "/scriptures/nt/acts/19",
+  "paragraphs": [
+    {
+      "slug": "acts-19-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 19",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "acts-19-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And it came to pass, that, while Apollos was at Corinth, Paul having passed through the upper coasts came to Ephesus: and finding certain disciples,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "acts-19-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "He said unto them, Have ye received the Holy Ghost since ye believed? And they said unto him, We have not so much as heard whether there be any Holy Ghost.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "acts-19-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And he said unto them, Unto what then were ye baptized? And they said, Unto John’s baptism.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "acts-19-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Then said Paul, John verily baptized with the baptism of repentance, saying unto the people, that they should believe on him which should come after him, that is, on Christ Jesus.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "acts-19-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "When they heard <span class=\"clarity-word\">this,</span> they were baptized in the name of the Lord Jesus.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "acts-19-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And when Paul had laid <span class=\"clarity-word\">his</span> hands upon them, the Holy Ghost came on them; and they spake with tongues, and prophesied.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "acts-19-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And all the men were about twelve.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "acts-19-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And he went into the synagogue, and spake boldly for the space of three months, disputing and persuading the things concerning the kingdom of God.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "acts-19-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "But when divers were hardened, and believed not, but spake evil of that way before the multitude, he departed from them, and separated the disciples, disputing daily in the school of one Tyrannus.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "acts-19-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And this continued by the space of two years; so that all they which dwelt in Asia heard the word of the Lord Jesus, both Jews and Greeks.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "acts-19-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And God wrought special miracles by the hands of Paul:",
+      "churchId": "p11"
+    },
+    {
+      "slug": "acts-19-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "So that from his body were brought unto the sick handkerchiefs or aprons, and the diseases departed from them, and the evil spirits went out of them.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "acts-19-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "¶ Then certain of the vagabond Jews, exorcists, took upon them to call over them which had evil spirits the name of the Lord Jesus, saying, We adjure you by Jesus whom Paul preacheth.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "acts-19-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And there were seven sons of <span class=\"clarity-word\">one</span> Sceva, a Jew, <span class=\"clarity-word\">and</span> chief of the priests, which did so.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "acts-19-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And the evil spirit answered and said, Jesus I know, and Paul I know; but who are ye?",
+      "churchId": "p15"
+    },
+    {
+      "slug": "acts-19-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And the man in whom the evil spirit was leaped on them, and overcame them, and prevailed against them, so that they fled out of that house naked and wounded.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "acts-19-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And this was known to all the Jews and Greeks also dwelling at Ephesus; and fear fell on them all, and the name of the Lord Jesus was magnified.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "acts-19-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And many that believed came, and confessed, and shewed their deeds.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "acts-19-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Many of them also which used curious arts brought their books together, and burned them before all <span class=\"clarity-word\">men:</span> and they counted the price of them, and found <span class=\"clarity-word\">it</span> fifty thousand <span class=\"clarity-word\">pieces</span> of silver.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "acts-19-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "So mightily grew the word of God and prevailed.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "acts-19-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "¶ After these things were ended, Paul purposed in the spirit, when he had passed through Macedonia and Achaia, to go to Jerusalem, saying, After I have been there, I must also see Rome.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "acts-19-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "So he sent into Macedonia two of them that ministered unto him, Timotheus and Erastus; but he himself stayed in Asia for a season.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "acts-19-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And the same time there arose no small stir about that way.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "acts-19-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "For a certain <span class=\"clarity-word\">man</span> named Demetrius, a silversmith, which made silver shrines for Diana, brought no small gain unto the craftsmen;",
+      "churchId": "p24"
+    },
+    {
+      "slug": "acts-19-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Whom he called together with the workmen of like occupation, and said, Sirs, ye know that by this craft we have our wealth.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "acts-19-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "Moreover ye see and hear, that not alone at Ephesus, but almost throughout all Asia, this Paul hath persuaded and turned away much people, saying that they be no gods, which are made with hands:",
+      "churchId": "p26"
+    },
+    {
+      "slug": "acts-19-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "So that not only this our craft is in danger to be set at nought; but also that the temple of the great goddess Diana should be despised, and her magnificence should be destroyed, whom all Asia and the world worshippeth.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "acts-19-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And when they heard <span class=\"clarity-word\">these sayings,</span> they were full of wrath, and cried out, saying, Great <span class=\"clarity-word\">is</span> Diana of the Ephesians.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "acts-19-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "And the whole city was filled with confusion: and having caught Gaius and Aristarchus, men of Macedonia, Paul’s companions in travel, they rushed with one accord into the theatre.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "acts-19-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And when Paul would have entered in unto the people, the disciples suffered him not.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "acts-19-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "And certain of the chief of Asia, which were his friends, sent unto him, desiring <span class=\"clarity-word\">him</span> that he would not adventure himself into the theatre.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "acts-19-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "Some therefore cried one thing, and some another: for the assembly was confused; and the more part knew not wherefore they were come together.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "acts-19-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "And they drew Alexander out of the multitude, the Jews putting him forward. And Alexander beckoned with the hand, and would have made his defence unto the people.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "acts-19-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "But when they knew that he was a Jew, all with one voice about the space of two hours cried out, Great <span class=\"clarity-word\">is</span> Diana of the Ephesians.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "acts-19-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "And when the townclerk had appeased the people, he said, <span class=\"clarity-word\">Ye</span> men of Ephesus, what man is there that knoweth not how that the city of the Ephesians is a worshipper of the great goddess Diana, and of the <span class=\"clarity-word\">image</span> which fell down from Jupiter?",
+      "churchId": "p35"
+    },
+    {
+      "slug": "acts-19-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "Seeing then that these things cannot be spoken against, ye ought to be quiet, and to do nothing rashly.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "acts-19-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "For ye have brought hither these men, which are neither robbers of churches, nor yet blasphemers of your goddess.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "acts-19-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "Wherefore if Demetrius, and the craftsmen which are with him, have a matter against any man, the law is open, and there are deputies: let them implead one another.",
+      "churchId": "p38"
+    },
+    {
+      "slug": "acts-19-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "But if ye inquire any thing concerning other matters, it shall be determined in a lawful assembly.",
+      "churchId": "p39"
+    },
+    {
+      "slug": "acts-19-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "For we are in danger to be called in question for this day’s uproar, there being no cause whereby we may give an account of this concourse.",
+      "churchId": "p40"
+    },
+    {
+      "slug": "acts-19-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "And when he had thus spoken, he dismissed the assembly.",
+      "churchId": "p41"
+    }
+  ]
+}

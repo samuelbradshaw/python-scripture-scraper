@@ -1,0 +1,113 @@
+{
+  "name": "Hebrews 5",
+  "abbrev": "Heb. 5",
+  "number": "5",
+  "churchUri": "/scriptures/nt/heb/5",
+  "paragraphs": [
+    {
+      "slug": "hebrews-5-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 5",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "hebrews-5-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "For every high priest taken from among men is ordained for men in things <span class=\"clarity-word\">pertaining</span> to God, that he may offer both gifts and sacrifices for sins:",
+      "churchId": "p1"
+    },
+    {
+      "slug": "hebrews-5-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Who can have compassion on the ignorant, and on them that are out of the way; for that he himself also is compassed with infirmity.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "hebrews-5-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And by reason hereof he ought, as for the people, so also for himself, to offer for sins.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "hebrews-5-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And no man taketh this honour unto himself, but he that is called of God, as <span class=\"clarity-word\">was</span> Aaron.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "hebrews-5-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "So also Christ glorified not himself to be made an high priest; but he that said unto him, Thou art my Son, to day have I begotten thee.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "hebrews-5-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "As he saith also in another <span class=\"clarity-word\">place,</span> Thou <span class=\"clarity-word\">art</span> a priest for ever after the order of Melchisedec.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "hebrews-5-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Who in the days of his flesh, when he had offered up prayers and supplications with strong crying and tears unto him that was able to save him from death, and was heard in that he feared;",
+      "churchId": "p7"
+    },
+    {
+      "slug": "hebrews-5-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Though he were a Son, yet learned he obedience by the things which he suffered;",
+      "churchId": "p8"
+    },
+    {
+      "slug": "hebrews-5-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And being made perfect, he became the author of eternal salvation unto all them that obey him;",
+      "churchId": "p9"
+    },
+    {
+      "slug": "hebrews-5-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Called of God an high priest after the order of Melchisedec.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "hebrews-5-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Of whom we have many things to say, and hard to be uttered, seeing ye are dull of hearing.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "hebrews-5-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "For when for the time ye ought to be teachers, ye have need that one teach you again which <span class=\"clarity-word\">be</span> the first principles of the oracles of God; and are become such as have need of milk, and not of strong meat.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "hebrews-5-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "For every one that useth milk <span class=\"clarity-word\">is</span> unskilful in the word of righteousness: for he is a babe.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "hebrews-5-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "But strong meat belongeth to them that are of full age, <span class=\"clarity-word\">even</span> those who by reason of use have their senses exercised to discern both good and evil.",
+      "churchId": "p14"
+    }
+  ]
+}

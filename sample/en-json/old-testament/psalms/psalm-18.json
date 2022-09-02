@@ -1,0 +1,372 @@
+{
+  "name": "Psalm 18",
+  "abbrev": "Psalm 18",
+  "number": "18",
+  "churchUri": "/scriptures/ot/ps/18",
+  "paragraphs": [
+    {
+      "slug": "psalm-18-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 18",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-18-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "To the chief Musician, <span class=\"clarity-word\">A Psalm</span> of David, the servant of the <span class=\"small-caps\">Lord</span>, who spake unto the <span class=\"small-caps\">Lord</span> the words of this song in the day <span class=\"clarity-word\">that</span> the <span class=\"small-caps\">Lord</span> delivered him from the hand of all his enemies, and from the hand of Saul: And he said,",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-18-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "I will love thee, O <span class=\"small-caps\">Lord</span>, my strength.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-18-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "The <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">is</span> my rock, and my fortress, and my deliverer; my God, my strength, in whom I will trust; my buckler, and the horn of my salvation, <span class=\"clarity-word\">and</span> my high tower.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-18-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "I will call upon the <span class=\"small-caps\">Lord</span>, <span class=\"clarity-word\">who is worthy</span> to be praised: so shall I be saved from mine enemies.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-18-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "The sorrows of death compassed me, and the floods of ungodly men made me afraid.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-18-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "The sorrows of hell compassed me about: the snares of death prevented me.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-18-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "In my distress I called upon the <span class=\"small-caps\">Lord</span>, and cried unto my God: he heard my voice out of his temple, and my cry came before him, <span class=\"clarity-word\">even</span> into his ears.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-18-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Then the earth shook and trembled; the foundations also of the hills moved and were shaken, because he was wroth.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-18-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "There went up a smoke out of his nostrils, and fire out of his mouth devoured: coals were kindled by it.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "psalm-18-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "He bowed the heavens also, and came down: and darkness <span class=\"clarity-word\">was</span> under his feet.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "psalm-18-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And he rode upon a cherub, and did fly: yea, he did fly upon the wings of the wind.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "psalm-18-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "He made darkness his secret place; his pavilion round about him <span class=\"clarity-word\">were</span> dark waters <span class=\"clarity-word\">and</span> thick clouds of the skies.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "psalm-18-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "At the brightness <span class=\"clarity-word\">that was</span> before him his thick clouds passed, hail <span class=\"clarity-word\">stones</span> and coals of fire.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "psalm-18-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "The <span class=\"small-caps\">Lord</span> also thundered in the heavens, and the Highest gave his voice; hail <span class=\"clarity-word\">stones</span> and coals of fire.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "psalm-18-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Yea, he sent out his arrows, and scattered them; and he shot out lightnings, and discomfited them.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "psalm-18-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Then the channels of waters were seen, and the foundations of the world were discovered at thy rebuke, O <span class=\"small-caps\">Lord</span>, at the blast of the breath of thy nostrils.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "psalm-18-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "He sent from above, he took me, he drew me out of many waters.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "psalm-18-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "He delivered me from my strong enemy, and from them which hated me: for they were too strong for me.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "psalm-18-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "They prevented me in the day of my calamity: but the <span class=\"small-caps\">Lord</span> was my stay.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "psalm-18-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "He brought me forth also into a large place; he delivered me, because he delighted in me.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "psalm-18-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "The <span class=\"small-caps\">Lord</span> rewarded me according to my righteousness; according to the cleanness of my hands hath he recompensed me.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "psalm-18-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "For I have kept the ways of the <span class=\"small-caps\">Lord</span>, and have not wickedly departed from my God.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "psalm-18-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "For all his judgments <span class=\"clarity-word\">were</span> before me, and I did not put away his statutes from me.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "psalm-18-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "I was also upright before him, and I kept myself from mine iniquity.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "psalm-18-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Therefore hath the <span class=\"small-caps\">Lord</span> recompensed me according to my righteousness, according to the cleanness of my hands in his eyesight.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "psalm-18-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "With the merciful thou wilt shew thyself merciful; with an upright man thou wilt shew thyself upright;",
+      "churchId": "p25"
+    },
+    {
+      "slug": "psalm-18-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "With the pure thou wilt shew thyself pure; and with the froward thou wilt shew thyself froward.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "psalm-18-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "For thou wilt save the afflicted people; but wilt bring down high looks.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "psalm-18-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "For thou wilt light my candle: the <span class=\"small-caps\">Lord</span> my God will enlighten my darkness.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "psalm-18-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "For by thee I have run through a troop; and by my God have I leaped over a wall.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "psalm-18-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "<span class=\"clarity-word\">As for</span> God, his way <span class=\"clarity-word\">is</span> perfect: the word of the <span class=\"small-caps\">Lord</span> is tried: he <span class=\"clarity-word\">is</span> a buckler to all those that trust in him.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "psalm-18-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "For who <span class=\"clarity-word\">is</span> God save the <span class=\"small-caps\">Lord</span>? or who <span class=\"clarity-word\">is</span> a rock save our God?",
+      "churchId": "p31"
+    },
+    {
+      "slug": "psalm-18-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "<span class=\"clarity-word\">It is</span> God that girdeth me with strength, and maketh my way perfect.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "psalm-18-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "He maketh my feet like hinds’ <span class=\"clarity-word\">feet</span><span class=\"clarity-word\">,</span> and setteth me upon my high places.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "psalm-18-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "He teacheth my hands to war, so that a bow of steel is broken by mine arms.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "psalm-18-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "Thou hast also given me the shield of thy salvation: and thy right hand hath holden me up, and thy gentleness hath made me great.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "psalm-18-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "Thou hast enlarged my steps under me, that my feet did not slip.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "psalm-18-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "I have pursued mine enemies, and overtaken them: neither did I turn again till they were consumed.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "psalm-18-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "I have wounded them that they were not able to rise: they are fallen under my feet.",
+      "churchId": "p38"
+    },
+    {
+      "slug": "psalm-18-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "For thou hast girded me with strength unto the battle: thou hast subdued under me those that rose up against me.",
+      "churchId": "p39"
+    },
+    {
+      "slug": "psalm-18-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "Thou hast also given me the necks of mine enemies; that I might destroy them that hate me.",
+      "churchId": "p40"
+    },
+    {
+      "slug": "psalm-18-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "They cried, but <span class=\"clarity-word\">there was</span> none to save <span class=\"clarity-word\">them: even</span> unto the <span class=\"small-caps\">Lord</span>, but he answered them not.",
+      "churchId": "p41"
+    },
+    {
+      "slug": "psalm-18-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "Then did I beat them small as the dust before the wind: I did cast them out as the dirt in the streets.",
+      "churchId": "p42"
+    },
+    {
+      "slug": "psalm-18-p43",
+      "type": "verse",
+      "number": "43",
+      "content": "Thou hast delivered me from the strivings of the people; <span class=\"clarity-word\">and</span> thou hast made me the head of the heathen: a people <span class=\"clarity-word\">whom</span> I have not known shall serve me.",
+      "churchId": "p43"
+    },
+    {
+      "slug": "psalm-18-p44",
+      "type": "verse",
+      "number": "44",
+      "content": "As soon as they hear of me, they shall obey me: the strangers shall submit themselves unto me.",
+      "churchId": "p44"
+    },
+    {
+      "slug": "psalm-18-p45",
+      "type": "verse",
+      "number": "45",
+      "content": "The strangers shall fade away, and be afraid out of their close places.",
+      "churchId": "p45"
+    },
+    {
+      "slug": "psalm-18-p46",
+      "type": "verse",
+      "number": "46",
+      "content": "The <span class=\"small-caps\">Lord</span> liveth; and blessed <span class=\"clarity-word\">be</span> my rock; and let the God of my salvation be exalted.",
+      "churchId": "p46"
+    },
+    {
+      "slug": "psalm-18-p47",
+      "type": "verse",
+      "number": "47",
+      "content": "<span class=\"clarity-word\">It is</span> God that avengeth me, and subdueth the people under me.",
+      "churchId": "p47"
+    },
+    {
+      "slug": "psalm-18-p48",
+      "type": "verse",
+      "number": "48",
+      "content": "He delivereth me from mine enemies: yea, thou liftest me up above those that rise up against me: thou hast delivered me from the violent man.",
+      "churchId": "p48"
+    },
+    {
+      "slug": "psalm-18-p49",
+      "type": "verse",
+      "number": "49",
+      "content": "Therefore will I give thanks unto thee, O <span class=\"small-caps\">Lord</span>, among the heathen, and sing praises unto thy name.",
+      "churchId": "p49"
+    },
+    {
+      "slug": "psalm-18-p50",
+      "type": "verse",
+      "number": "50",
+      "content": "Great deliverance giveth he to his king; and sheweth mercy to his anointed, to David, and to his seed for evermore.",
+      "churchId": "p50"
+    }
+  ]
+}

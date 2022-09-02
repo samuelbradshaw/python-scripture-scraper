@@ -1,0 +1,120 @@
+{
+  "name": "Hosea 5",
+  "abbrev": "Hosea 5",
+  "number": "5",
+  "churchUri": "/scriptures/ot/hosea/5",
+  "paragraphs": [
+    {
+      "slug": "hosea-5-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 5",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "hosea-5-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Hear ye this, O priests; and hearken, ye house of Israel; and give ye ear, O house of the king; for judgment <span class=\"clarity-word\">is</span> toward you, because ye have been a snare on Mizpah, and a net spread upon Tabor.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "hosea-5-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And the revolters are profound to make slaughter, though I <span class=\"clarity-word\">have been</span> a rebuker of them all.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "hosea-5-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "I know Ephraim, and Israel is not hid from me: for now, O Ephraim, thou committest whoredom, <span class=\"clarity-word\">and</span> Israel is defiled.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "hosea-5-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "They will not frame their doings to turn unto their God: for the spirit of whoredoms <span class=\"clarity-word\">is</span> in the midst of them, and they have not known the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "hosea-5-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And the pride of Israel doth testify to his face: therefore shall Israel and Ephraim fall in their iniquity; Judah also shall fall with them.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "hosea-5-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "They shall go with their flocks and with their herds to seek the <span class=\"small-caps\">Lord</span>; but they shall not find <span class=\"clarity-word\">him;</span> he hath withdrawn himself from them.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "hosea-5-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "They have dealt treacherously against the <span class=\"small-caps\">Lord</span>: for they have begotten strange children: now shall a month devour them with their portions.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "hosea-5-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Blow ye the cornet in Gibeah, <span class=\"clarity-word\">and</span> the trumpet in Ramah: cry aloud <span class=\"clarity-word\">at</span> Beth-aven, after thee, O Benjamin.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "hosea-5-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Ephraim shall be desolate in the day of rebuke: among the tribes of Israel have I made known that which shall surely be.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "hosea-5-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "The princes of Judah were like them that remove the bound: <span class=\"clarity-word\">therefore</span> I will pour out my wrath upon them like water.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "hosea-5-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Ephraim <span class=\"clarity-word\">is</span> oppressed <span class=\"clarity-word\">and</span> broken in judgment, because he willingly walked after the commandment.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "hosea-5-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Therefore <span class=\"clarity-word\">will</span> I <span class=\"clarity-word\">be</span> unto Ephraim as a moth, and to the house of Judah as rottenness.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "hosea-5-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "When Ephraim saw his sickness, and Judah <span class=\"clarity-word\">saw</span> his wound, then went Ephraim to the Assyrian, and sent to king Jareb: yet could he not heal you, nor cure you of your wound.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "hosea-5-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "For I <span class=\"clarity-word\">will be</span> unto Ephraim as a lion, and as a young lion to the house of Judah: I, <span class=\"clarity-word\">even</span> I, will tear and go away; I will take away, and none shall rescue <span class=\"clarity-word\">him.</span>",
+      "churchId": "p14"
+    },
+    {
+      "slug": "hosea-5-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "¶ I will go <span class=\"clarity-word\">and</span> return to my place, till they acknowledge their offence, and seek my face: in their affliction they will seek me early.",
+      "churchId": "p15"
+    }
+  ]
+}

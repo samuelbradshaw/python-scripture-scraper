@@ -1,0 +1,204 @@
+{
+  "name": "Job 5",
+  "abbrev": "Job 5",
+  "number": "5",
+  "churchUri": "/scriptures/ot/job/5",
+  "paragraphs": [
+    {
+      "slug": "job-5-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 5",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "job-5-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Call now, if there be any that will answer thee; and to which of the saints wilt thou turn?",
+      "churchId": "p1"
+    },
+    {
+      "slug": "job-5-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "For wrath killeth the foolish man, and envy slayeth the silly one.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "job-5-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "I have seen the foolish taking root: but suddenly I cursed his habitation.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "job-5-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "His children are far from safety, and they are crushed in the gate, neither <span class=\"clarity-word\">is there</span> any to deliver <span class=\"clarity-word\">them.</span>",
+      "churchId": "p4"
+    },
+    {
+      "slug": "job-5-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Whose harvest the hungry eateth up, and taketh it even out of the thorns, and the robber swalloweth up their substance.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "job-5-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Although affliction cometh not forth of the dust, neither doth trouble spring out of the ground;",
+      "churchId": "p6"
+    },
+    {
+      "slug": "job-5-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Yet man is born unto trouble, as the sparks fly upward.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "job-5-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "I would seek unto God, and unto God would I commit my cause:",
+      "churchId": "p8"
+    },
+    {
+      "slug": "job-5-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Which doeth great things and unsearchable; marvellous things without number:",
+      "churchId": "p9"
+    },
+    {
+      "slug": "job-5-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Who giveth rain upon the earth, and sendeth waters upon the fields:",
+      "churchId": "p10"
+    },
+    {
+      "slug": "job-5-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "To set up on high those that be low; that those which mourn may be exalted to safety.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "job-5-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "He disappointeth the devices of the crafty, so that their hands cannot perform <span class=\"clarity-word\">their</span> enterprise.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "job-5-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "He taketh the wise in their own craftiness: and the counsel of the froward is carried headlong.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "job-5-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "They meet with darkness in the daytime, and grope in the noonday as in the night.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "job-5-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "But he saveth the poor from the sword, from their mouth, and from the hand of the mighty.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "job-5-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "So the poor hath hope, and iniquity stoppeth her mouth.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "job-5-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Behold, happy <span class=\"clarity-word\">is</span> the man whom God correcteth: therefore despise not thou the chastening of the Almighty:",
+      "churchId": "p17"
+    },
+    {
+      "slug": "job-5-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "For he maketh sore, and bindeth up: he woundeth, and his hands make whole.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "job-5-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "He shall deliver thee in six troubles: yea, in seven there shall no evil touch thee.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "job-5-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "In famine he shall redeem thee from death: and in war from the power of the sword.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "job-5-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Thou shalt be hid from the scourge of the tongue: neither shalt thou be afraid of destruction when it cometh.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "job-5-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "At destruction and famine thou shalt laugh: neither shalt thou be afraid of the beasts of the earth.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "job-5-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "For thou shalt be in league with the stones of the field: and the beasts of the field shall be at peace with thee.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "job-5-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And thou shalt know that thy tabernacle <span class=\"clarity-word\">shall be</span> in peace; and thou shalt visit thy habitation, and shalt not sin.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "job-5-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Thou shalt know also that thy seed <span class=\"clarity-word\">shall be</span> great, and thine offspring as the grass of the earth.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "job-5-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "Thou shalt come to <span class=\"clarity-word\">thy</span> grave in a full age, like as a shock of corn cometh in in his season.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "job-5-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "Lo this, we have searched it, so it <span class=\"clarity-word\">is;</span> hear it, and know thou <span class=\"clarity-word\">it</span> for thy good.",
+      "churchId": "p27"
+    }
+  ]
+}

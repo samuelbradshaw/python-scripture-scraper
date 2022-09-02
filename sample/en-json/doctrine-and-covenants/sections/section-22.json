@@ -1,0 +1,43 @@
+{
+  "name": "Doctrine and Covenants 22",
+  "abbrev": "D&C 22",
+  "number": "22",
+  "churchUri": "/scriptures/dc-testament/dc/22",
+  "paragraphs": [
+    {
+      "slug": "section-22-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Section 22",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "section-22-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Behold, I say unto you that all old covenants have I caused to be done away in this thing; and this is a new and an everlasting covenant, even that which was from the beginning.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "section-22-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Wherefore, although a man should be baptized an hundred times it availeth him nothing, for you cannot enter in at the strait gate by the law of Moses, neither by your dead works.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "section-22-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "For it is because of your dead works that I have caused this last covenant and this church to be built up unto me, even as in days of old.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "section-22-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Wherefore, enter ye in at the gate, as I have commanded, and seek not to counsel your God. Amen.",
+      "churchId": "p4"
+    }
+  ]
+}

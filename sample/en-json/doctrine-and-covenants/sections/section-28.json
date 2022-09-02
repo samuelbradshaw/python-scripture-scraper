@@ -1,0 +1,127 @@
+{
+  "name": "Doctrine and Covenants 28",
+  "abbrev": "D&C 28",
+  "number": "28",
+  "churchUri": "/scriptures/dc-testament/dc/28",
+  "paragraphs": [
+    {
+      "slug": "section-28-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Section 28",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "section-28-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Behold, I say unto thee, Oliver, that it shall be given unto thee that thou shalt be heard by the church in all things whatsoever thou shalt teach them by the Comforter, concerning the revelations and commandments which I have given.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "section-28-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "But, behold, verily, verily, I say unto thee, no one shall be appointed to receive commandments and revelations in this church excepting my servant Joseph Smith, Jun., for he receiveth them even as Moses.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "section-28-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And thou shalt be obedient unto the things which I shall give unto him, even as Aaron, to declare faithfully the commandments and the revelations, with power and authority unto the church.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "section-28-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And if thou art led at any time by the Comforter to speak or teach, or at all times by the way of commandment unto the church, thou mayest do it.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "section-28-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "But thou shalt not write by way of commandment, but by wisdom;",
+      "churchId": "p5"
+    },
+    {
+      "slug": "section-28-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And thou shalt not command him who is at thy head, and at the head of the church;",
+      "churchId": "p6"
+    },
+    {
+      "slug": "section-28-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "For I have given him the keys of the mysteries, and the revelations which are sealed, until I shall appoint unto them another in his stead.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "section-28-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And now, behold, I say unto you that you shall go unto the Lamanites and preach my gospel unto them; and inasmuch as they receive thy teachings thou shalt cause my church to be established among them; and thou shalt have revelations, but write them not by way of commandment.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "section-28-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And now, behold, I say unto you that it is not revealed, and no man knoweth where the city Zion shall be built, but it shall be given hereafter. Behold, I say unto you that it shall be on the borders by the Lamanites.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "section-28-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Thou shalt not leave this place until after the conference; and my servant Joseph shall be appointed to preside over the conference by the voice of it, and what he saith to thee thou shalt tell.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "section-28-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And again, thou shalt take thy brother, Hiram Page, between him and thee alone, and tell him that those things which he hath written from that stone are not of me and that Satan deceiveth him;",
+      "churchId": "p11"
+    },
+    {
+      "slug": "section-28-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "For, behold, these things have not been appointed unto him, neither shall anything be appointed unto any of this church contrary to the church covenants.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "section-28-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "For all things must be done in order, and by common consent in the church, by the prayer of faith.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "section-28-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And thou shalt assist to settle all these things, according to the covenants of the church, before thou shalt take thy journey among the Lamanites.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "section-28-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And it shall be given thee from the time thou shalt go, until the time thou shalt return, what thou shalt do.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "section-28-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And thou must open thy mouth at all times, declaring my gospel with the sound of rejoicing. Amen.",
+      "churchId": "p16"
+    }
+  ]
+}

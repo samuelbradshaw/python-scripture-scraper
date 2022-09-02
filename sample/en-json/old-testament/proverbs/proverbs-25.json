@@ -1,0 +1,211 @@
+{
+  "name": "Proverbs 25",
+  "abbrev": "Prov. 25",
+  "number": "25",
+  "churchUri": "/scriptures/ot/prov/25",
+  "paragraphs": [
+    {
+      "slug": "proverbs-25-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 25",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "proverbs-25-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "These <span class=\"clarity-word\">are</span> also proverbs of Solomon, which the men of Hezekiah king of Judah copied out.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "proverbs-25-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "<span class=\"clarity-word\">It is</span> the glory of God to conceal a thing: but the honour of kings <span class=\"clarity-word\">is</span> to search out a matter.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "proverbs-25-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "The heaven for height, and the earth for depth, and the heart of kings <span class=\"clarity-word\">is</span> unsearchable.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "proverbs-25-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Take away the dross from the silver, and there shall come forth a vessel for the finer.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "proverbs-25-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Take away the wicked <span class=\"clarity-word\">from</span> before the king, and his throne shall be established in righteousness.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "proverbs-25-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Put not forth thyself in the presence of the king, and stand not in the place of great <span class=\"clarity-word\">men:</span>",
+      "churchId": "p6"
+    },
+    {
+      "slug": "proverbs-25-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "For better <span class=\"clarity-word\">it is</span> that it be said unto thee, Come up hither; than that thou shouldest be put lower in the presence of the prince whom thine eyes have seen.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "proverbs-25-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Go not forth hastily to strive, lest <span class=\"clarity-word\">thou know not</span> what to do in the end thereof, when thy neighbour hath put thee to shame.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "proverbs-25-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Debate thy cause with thy neighbour <span class=\"clarity-word\">himself;</span> and discover not a secret to another:",
+      "churchId": "p9"
+    },
+    {
+      "slug": "proverbs-25-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Lest he that heareth <span class=\"clarity-word\">it</span> put thee to shame, and thine infamy turn not away.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "proverbs-25-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "A word fitly spoken <span class=\"clarity-word\">is like</span> apples of gold in pictures of silver.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "proverbs-25-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "<span class=\"clarity-word\">As</span> an earring of gold, and an ornament of fine gold, <span class=\"clarity-word\">so is</span> a wise reprover upon an obedient ear.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "proverbs-25-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "As the cold of snow in the time of harvest, <span class=\"clarity-word\">so is</span> a faithful messenger to them that send him: for he refresheth the soul of his masters.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "proverbs-25-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Whoso boasteth himself of a false gift <span class=\"clarity-word\">is like</span> clouds and wind without rain.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "proverbs-25-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "By long forbearing is a prince persuaded, and a soft tongue breaketh the bone.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "proverbs-25-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Hast thou found honey? eat so much as is sufficient for thee, lest thou be filled therewith, and vomit it.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "proverbs-25-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Withdraw thy foot from thy neighbour’s house; lest he be weary of thee, and <span class=\"clarity-word\">so</span> hate thee.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "proverbs-25-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "A man that beareth false witness against his neighbour <span class=\"clarity-word\">is</span> a maul, and a sword, and a sharp arrow.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "proverbs-25-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Confidence in an unfaithful man in time of trouble <span class=\"clarity-word\">is like</span> a broken tooth, and a foot out of joint.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "proverbs-25-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "<span class=\"clarity-word\">As</span> he that taketh away a garment in cold weather, <span class=\"clarity-word\">and as</span> vinegar upon nitre, so <span class=\"clarity-word\">is</span> he that singeth songs to an heavy heart.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "proverbs-25-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "If thine enemy be hungry, give him bread to eat; and if he be thirsty, give him water to drink:",
+      "churchId": "p21"
+    },
+    {
+      "slug": "proverbs-25-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "For thou shalt heap coals of fire upon his head, and the <span class=\"small-caps\">Lord</span> shall reward thee.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "proverbs-25-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "The north wind driveth away rain: so <span class=\"clarity-word\">doth</span> an angry countenance a backbiting tongue.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "proverbs-25-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "<span class=\"clarity-word\">It is</span> better to dwell in the corner of the housetop, than with a brawling woman and in a wide house.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "proverbs-25-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "<span class=\"clarity-word\">As</span> cold waters to a thirsty soul, so <span class=\"clarity-word\">is</span> good news from a far country.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "proverbs-25-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "A righteous man falling down before the wicked <span class=\"clarity-word\">is as</span> a troubled fountain, and a corrupt spring.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "proverbs-25-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "<span class=\"clarity-word\">It is</span> not good to eat much honey: so <span class=\"clarity-word\">for men</span> to search their own glory <span class=\"clarity-word\">is not</span> glory.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "proverbs-25-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "He that <span class=\"clarity-word\">hath</span> no rule over his own spirit <span class=\"clarity-word\">is like</span> a city <span class=\"clarity-word\">that is</span> broken down, <span class=\"clarity-word\">and</span> without walls.",
+      "churchId": "p28"
+    }
+  ]
+}

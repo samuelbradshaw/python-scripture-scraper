@@ -1,0 +1,183 @@
+{
+  "name": "Genesis 3",
+  "abbrev": "Gen. 3",
+  "number": "3",
+  "churchUri": "/scriptures/ot/gen/3",
+  "paragraphs": [
+    {
+      "slug": "genesis-3-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 3",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "genesis-3-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Now the serpent was more subtil than any beast of the field which the <span class=\"small-caps\">Lord</span> God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden?",
+      "churchId": "p1"
+    },
+    {
+      "slug": "genesis-3-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And the woman said unto the serpent, We may eat of the fruit of the trees of the garden:",
+      "churchId": "p2"
+    },
+    {
+      "slug": "genesis-3-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "But of the fruit of the tree which <span class=\"clarity-word\">is</span> in the midst of the garden, God hath said, Ye shall not eat of it, neither shall ye touch it, lest ye die.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "genesis-3-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And the serpent said unto the woman, Ye shall not surely die:",
+      "churchId": "p4"
+    },
+    {
+      "slug": "genesis-3-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "genesis-3-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And when the woman saw that the tree <span class=\"clarity-word\">was</span> good for food, and that it <span class=\"clarity-word\">was</span> pleasant to the eyes, and a tree to be desired to make <span class=\"clarity-word\">one</span> wise, she took of the fruit thereof, and did eat, and gave also unto her husband with her; and he did eat.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "genesis-3-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And the eyes of them both were opened, and they knew that they <span class=\"clarity-word\">were</span> naked; and they sewed fig leaves together, and made themselves aprons.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "genesis-3-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And they heard the voice of the <span class=\"small-caps\">Lord</span> God walking in the garden in the cool of the day: and Adam and his wife hid themselves from the presence of the <span class=\"small-caps\">Lord</span> God amongst the trees of the garden.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "genesis-3-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And the <span class=\"small-caps\">Lord</span> God called unto Adam, and said unto him, Where <span class=\"clarity-word\">art</span> thou?",
+      "churchId": "p9"
+    },
+    {
+      "slug": "genesis-3-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And he said, I heard thy voice in the garden, and I was afraid, because I <span class=\"clarity-word\">was</span> naked; and I hid myself.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "genesis-3-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And he said, Who told thee that thou <span class=\"clarity-word\">wast</span> naked? Hast thou eaten of the tree, whereof I commanded thee that thou shouldest not eat?",
+      "churchId": "p11"
+    },
+    {
+      "slug": "genesis-3-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And the man said, The woman whom thou gavest <span class=\"clarity-word\">to be</span> with me, she gave me of the tree, and I did eat.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "genesis-3-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And the <span class=\"small-caps\">Lord</span> God said unto the woman, What <span class=\"clarity-word\">is</span> this <span class=\"clarity-word\">that</span> thou hast done? And the woman said, The serpent beguiled me, and I did eat.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "genesis-3-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And the <span class=\"small-caps\">Lord</span> God said unto the serpent, Because thou hast done this, thou <span class=\"clarity-word\">art</span> cursed above all cattle, and above every beast of the field; upon thy belly shalt thou go, and dust shalt thou eat all the days of thy life:",
+      "churchId": "p14"
+    },
+    {
+      "slug": "genesis-3-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "genesis-3-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Unto the woman he said, I will greatly multiply thy sorrow and thy conception; in sorrow thou shalt bring forth children; and thy desire <span class=\"clarity-word\">shall be</span> to thy husband, and he shall rule over thee.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "genesis-3-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And unto Adam he said, Because thou hast hearkened unto the voice of thy wife, and hast eaten of the tree, of which I commanded thee, saying, Thou shalt not eat of it: cursed <span class=\"clarity-word\">is</span> the ground for thy sake; in sorrow shalt thou eat <span class=\"clarity-word\">of</span> it all the days of thy life;",
+      "churchId": "p17"
+    },
+    {
+      "slug": "genesis-3-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Thorns also and thistles shall it bring forth to thee; and thou shalt eat the herb of the field;",
+      "churchId": "p18"
+    },
+    {
+      "slug": "genesis-3-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "In the sweat of thy face shalt thou eat bread, till thou return unto the ground; for out of it wast thou taken: for dust thou <span class=\"clarity-word\">art,</span> and unto dust shalt thou return.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "genesis-3-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And Adam called his wife’s name Eve; because she was the mother of all living.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "genesis-3-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Unto Adam also and to his wife did the <span class=\"small-caps\">Lord</span> God make coats of skins, and clothed them.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "genesis-3-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "¶ And the <span class=\"small-caps\">Lord</span> God said, Behold, the man is become as one of us, to know good and evil: and now, lest he put forth his hand, and take also of the tree of life, and eat, and live for ever:",
+      "churchId": "p22"
+    },
+    {
+      "slug": "genesis-3-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Therefore the <span class=\"small-caps\">Lord</span> God sent him forth from the garden of Eden, to till the ground from whence he was taken.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "genesis-3-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "So he drove out the man; and he placed at the east of the garden of Eden Cherubims, and a flaming sword which turned every way, to keep the way of the tree of life.",
+      "churchId": "p24"
+    }
+  ]
+}

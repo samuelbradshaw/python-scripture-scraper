@@ -1,0 +1,127 @@
+{
+  "name": "2 Corinthians 7",
+  "abbrev": "2 Cor. 7",
+  "number": "7",
+  "churchUri": "/scriptures/nt/2-cor/7",
+  "paragraphs": [
+    {
+      "slug": "2-corinthians-7-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 7",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "2-corinthians-7-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Having therefore these promises, dearly beloved, let us cleanse ourselves from all filthiness of the flesh and spirit, perfecting holiness in the fear of God.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "2-corinthians-7-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Receive us; we have wronged no man, we have corrupted no man, we have defrauded no man.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "2-corinthians-7-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "I speak not <span class=\"clarity-word\">this</span> to condemn <span class=\"clarity-word\">you:</span> for I have said before, that ye are in our hearts to die and live with <span class=\"clarity-word\">you.</span>",
+      "churchId": "p3"
+    },
+    {
+      "slug": "2-corinthians-7-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Great <span class=\"clarity-word\">is</span> my boldness of speech toward you, great <span class=\"clarity-word\">is</span> my glorying of you: I am filled with comfort, I am exceeding joyful in all our tribulation.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "2-corinthians-7-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "For, when we were come into Macedonia, our flesh had no rest, but we were troubled on every side; without <span class=\"clarity-word\">were</span> fightings, within <span class=\"clarity-word\">were</span> fears.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "2-corinthians-7-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Nevertheless God, that comforteth those that are cast down, comforted us by the coming of Titus;",
+      "churchId": "p6"
+    },
+    {
+      "slug": "2-corinthians-7-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And not by his coming only, but by the consolation wherewith he was comforted in you, when he told us your earnest desire, your mourning, your fervent mind toward me; so that I rejoiced the more.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "2-corinthians-7-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "For though I made you sorry with a letter, I do not repent, though I did repent: for I perceive that the same epistle hath made you sorry, though <span class=\"clarity-word\">it were</span> but for a season.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "2-corinthians-7-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Now I rejoice, not that ye were made sorry, but that ye sorrowed to repentance: for ye were made sorry after a godly manner, that ye might receive damage by us in nothing.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "2-corinthians-7-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "For godly sorrow worketh repentance to salvation not to be repented of: but the sorrow of the world worketh death.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "2-corinthians-7-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "For behold this selfsame thing, that ye sorrowed after a godly sort, what carefulness it wrought in you, yea, <span class=\"clarity-word\">what</span> clearing of yourselves, yea, <span class=\"clarity-word\">what</span> indignation, yea, <span class=\"clarity-word\">what</span> fear, yea, <span class=\"clarity-word\">what</span> vehement desire, yea, <span class=\"clarity-word\">what</span> zeal, yea, <span class=\"clarity-word\">what</span> revenge! In all <span class=\"clarity-word\">things</span> ye have approved yourselves to be clear in this matter.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "2-corinthians-7-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Wherefore, though I wrote unto you, <span class=\"clarity-word\">I did it</span> not for his cause that had done the wrong, nor for his cause that suffered wrong, but that our care for you in the sight of God might appear unto you.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "2-corinthians-7-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Therefore we were comforted in your comfort: yea, and exceedingly the more joyed we for the joy of Titus, because his spirit was refreshed by you all.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "2-corinthians-7-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "For if I have boasted any thing to him of you, I am not ashamed; but as we spake all things to you in truth, even so our boasting, which <span class=\"clarity-word\">I made</span> before Titus, is found a truth.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "2-corinthians-7-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And his inward affection is more abundant toward you, whilst he remembereth the obedience of you all, how with fear and trembling ye received him.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "2-corinthians-7-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "I rejoice therefore that I have confidence in you in all <span class=\"clarity-word\">things.</span>",
+      "churchId": "p16"
+    }
+  ]
+}

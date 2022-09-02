@@ -1,0 +1,484 @@
+{
+  "name": "Genesis 24",
+  "abbrev": "Gen. 24",
+  "number": "24",
+  "churchUri": "/scriptures/ot/gen/24",
+  "paragraphs": [
+    {
+      "slug": "genesis-24-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 24",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "genesis-24-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And Abraham was old, <span class=\"clarity-word\">and</span> well stricken in age: and the <span class=\"small-caps\">Lord</span> had blessed Abraham in all things.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "genesis-24-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And Abraham said unto his eldest servant of his house, that ruled over all that he had, Put, I pray thee, thy hand under my thigh:",
+      "churchId": "p2"
+    },
+    {
+      "slug": "genesis-24-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And I will make thee swear by the <span class=\"small-caps\">Lord</span>, the God of heaven, and the God of the earth, that thou shalt not take a wife unto my son of the daughters of the Canaanites, among whom I dwell:",
+      "churchId": "p3"
+    },
+    {
+      "slug": "genesis-24-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "But thou shalt go unto my country, and to my kindred, and take a wife unto my son Isaac.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "genesis-24-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And the servant said unto him, Peradventure the woman will not be willing to follow me unto this land: must I needs bring thy son again unto the land from whence thou camest?",
+      "churchId": "p5"
+    },
+    {
+      "slug": "genesis-24-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And Abraham said unto him, Beware thou that thou bring not my son thither again.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "genesis-24-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "¶ The <span class=\"small-caps\">Lord</span> God of heaven, which took me from my father’s house, and from the land of my kindred, and which spake unto me, and that sware unto me, saying, Unto thy seed will I give this land; he shall send his angel before thee, and thou shalt take a wife unto my son from thence.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "genesis-24-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And if the woman will not be willing to follow thee, then thou shalt be clear from this my oath: only bring not my son thither again.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "genesis-24-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And the servant put his hand under the thigh of Abraham his master, and sware to him concerning that matter.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "genesis-24-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "¶ And the servant took ten camels of the camels of his master, and departed; for all the goods of his master <span class=\"clarity-word\">were</span> in his hand: and he arose, and went to Mesopotamia, unto the city of Nahor.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "genesis-24-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And he made his camels to kneel down without the city by a well of water at the time of the evening, <span class=\"clarity-word\">even</span> the time that women go out to draw <span class=\"clarity-word\">water.</span>",
+      "churchId": "p11"
+    },
+    {
+      "slug": "genesis-24-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And he said, O <span class=\"small-caps\">Lord</span> God of my master Abraham, I pray thee, send me good speed this day, and shew kindness unto my master Abraham.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "genesis-24-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Behold, I stand <span class=\"clarity-word\">here</span> by the well of water; and the daughters of the men of the city come out to draw water:",
+      "churchId": "p13"
+    },
+    {
+      "slug": "genesis-24-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And let it come to pass, that the damsel to whom I shall say, Let down thy pitcher, I pray thee, that I may drink; and she shall say, Drink, and I will give thy camels drink also: <span class=\"clarity-word\">let the same be</span> she <span class=\"clarity-word\">that</span> thou hast appointed for thy servant Isaac; and thereby shall I know that thou hast shewed kindness unto my master.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "genesis-24-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "¶ And it came to pass, before he had done speaking, that, behold, Rebekah came out, who was born to Bethuel, son of Milcah, the wife of Nahor, Abraham’s brother, with her pitcher upon her shoulder.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "genesis-24-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And the damsel <span class=\"clarity-word\">was</span> very fair to look upon, a virgin, neither had any man known her: and she went down to the well, and filled her pitcher, and came up.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "genesis-24-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And the servant ran to meet her, and said, Let me, I pray thee, drink a little water of thy pitcher.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "genesis-24-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And she said, Drink, my lord: and she hasted, and let down her pitcher upon her hand, and gave him drink.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "genesis-24-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And when she had done giving him drink, she said, I will draw <span class=\"clarity-word\">water</span> for thy camels also, until they have done drinking.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "genesis-24-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And she hasted, and emptied her pitcher into the trough, and ran again unto the well to draw <span class=\"clarity-word\">water,</span> and drew for all his camels.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "genesis-24-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And the man wondering at her held his peace, to wit whether the <span class=\"small-caps\">Lord</span> had made his journey prosperous or not.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "genesis-24-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And it came to pass, as the camels had done drinking, that the man took a golden earring of half a shekel weight, and two bracelets for her hands of ten <span class=\"clarity-word\">shekels</span> weight of gold;",
+      "churchId": "p22"
+    },
+    {
+      "slug": "genesis-24-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And said, Whose daughter <span class=\"clarity-word\">art</span> thou? tell me, I pray thee: is there room <span class=\"clarity-word\">in</span> thy father’s house for us to lodge in?",
+      "churchId": "p23"
+    },
+    {
+      "slug": "genesis-24-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And she said unto him, I <span class=\"clarity-word\">am</span> the daughter of Bethuel the son of Milcah, which she bare unto Nahor.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "genesis-24-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "She said moreover unto him, We have both straw and provender enough, and room to lodge in.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "genesis-24-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And the man bowed down his head, and worshipped the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "genesis-24-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And he said, Blessed <span class=\"clarity-word\">be</span> the <span class=\"small-caps\">Lord</span> God of my master Abraham, who hath not left destitute my master of his mercy and his truth: I <span class=\"clarity-word\">being</span> in the way, the <span class=\"small-caps\">Lord</span> led me to the house of my master’s brethren.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "genesis-24-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And the damsel ran, and told <span class=\"clarity-word\">them of</span> her mother’s house these things.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "genesis-24-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "¶ And Rebekah had a brother, and his name <span class=\"clarity-word\">was</span> Laban: and Laban ran out unto the man, unto the well.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "genesis-24-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And it came to pass, when he saw the earring and bracelets upon his sister’s hands, and when he heard the words of Rebekah his sister, saying, Thus spake the man unto me; that he came unto the man; and, behold, he stood by the camels at the well.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "genesis-24-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "And he said, Come in, thou blessed of the <span class=\"small-caps\">Lord</span>; wherefore standest thou without? for I have prepared the house, and room for the camels.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "genesis-24-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "¶ And the man came into the house: and he ungirded his camels, and gave straw and provender for the camels, and water to wash his feet, and the men’s feet that <span class=\"clarity-word\">were</span> with him.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "genesis-24-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "And there was set <span class=\"clarity-word\">meat</span> before him to eat: but he said, I will not eat, until I have told mine errand. And he said, Speak on.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "genesis-24-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "And he said, I <span class=\"clarity-word\">am</span> Abraham’s servant.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "genesis-24-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "And the <span class=\"small-caps\">Lord</span> hath blessed my master greatly; and he is become great: and he hath given him flocks, and herds, and silver, and gold, and menservants, and maidservants, and camels, and asses.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "genesis-24-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "And Sarah my master’s wife bare a son to my master when she was old: and unto him hath he given all that he hath.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "genesis-24-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "And my master made me swear, saying, Thou shalt not take a wife to my son of the daughters of the Canaanites, in whose land I dwell:",
+      "churchId": "p37"
+    },
+    {
+      "slug": "genesis-24-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "But thou shalt go unto my father’s house, and to my kindred, and take a wife unto my son.",
+      "churchId": "p38"
+    },
+    {
+      "slug": "genesis-24-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "And I said unto my master, Peradventure the woman will not follow me.",
+      "churchId": "p39"
+    },
+    {
+      "slug": "genesis-24-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "And he said unto me, The <span class=\"small-caps\">Lord</span>, before whom I walk, will send his angel with thee, and prosper thy way; and thou shalt take a wife for my son of my kindred, and of my father’s house:",
+      "churchId": "p40"
+    },
+    {
+      "slug": "genesis-24-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "Then shalt thou be clear from <span class=\"clarity-word\">this</span> my oath, when thou comest to my kindred; and if they give not thee <span class=\"clarity-word\">one,</span> thou shalt be clear from my oath.",
+      "churchId": "p41"
+    },
+    {
+      "slug": "genesis-24-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "And I came this day unto the well, and said, O <span class=\"small-caps\">Lord</span> God of my master Abraham, if now thou do prosper my way which I go:",
+      "churchId": "p42"
+    },
+    {
+      "slug": "genesis-24-p43",
+      "type": "verse",
+      "number": "43",
+      "content": "Behold, I stand by the well of water; and it shall come to pass, that when the virgin cometh forth to draw <span class=\"clarity-word\">water,</span> and I say to her, Give me, I pray thee, a little water of thy pitcher to drink;",
+      "churchId": "p43"
+    },
+    {
+      "slug": "genesis-24-p44",
+      "type": "verse",
+      "number": "44",
+      "content": "And she say to me, Both drink thou, and I will also draw for thy camels: <span class=\"clarity-word\">let</span> the same <span class=\"clarity-word\">be</span> the woman whom the <span class=\"small-caps\">Lord</span> hath appointed out for my master’s son.",
+      "churchId": "p44"
+    },
+    {
+      "slug": "genesis-24-p45",
+      "type": "verse",
+      "number": "45",
+      "content": "And before I had done speaking in mine heart, behold, Rebekah came forth with her pitcher on her shoulder; and she went down unto the well, and drew <span class=\"clarity-word\">water:</span> and I said unto her, Let me drink, I pray thee.",
+      "churchId": "p45"
+    },
+    {
+      "slug": "genesis-24-p46",
+      "type": "verse",
+      "number": "46",
+      "content": "And she made haste, and let down her pitcher from her <span class=\"clarity-word\">shoulder,</span> and said, Drink, and I will give thy camels drink also: so I drank, and she made the camels drink also.",
+      "churchId": "p46"
+    },
+    {
+      "slug": "genesis-24-p47",
+      "type": "verse",
+      "number": "47",
+      "content": "And I asked her, and said, Whose daughter <span class=\"clarity-word\">art</span> thou? And she said, The daughter of Bethuel, Nahor’s son, whom Milcah bare unto him: and I put the earring upon her face, and the bracelets upon her hands.",
+      "churchId": "p47"
+    },
+    {
+      "slug": "genesis-24-p48",
+      "type": "verse",
+      "number": "48",
+      "content": "And I bowed down my head, and worshipped the <span class=\"small-caps\">Lord</span>, and blessed the <span class=\"small-caps\">Lord</span> God of my master Abraham, which had led me in the right way to take my master’s brother’s daughter unto his son.",
+      "churchId": "p48"
+    },
+    {
+      "slug": "genesis-24-p49",
+      "type": "verse",
+      "number": "49",
+      "content": "And now if ye will deal kindly and truly with my master, tell me: and if not, tell me; that I may turn to the right hand, or to the left.",
+      "churchId": "p49"
+    },
+    {
+      "slug": "genesis-24-p50",
+      "type": "verse",
+      "number": "50",
+      "content": "Then Laban and Bethuel answered and said, The thing proceedeth from the <span class=\"small-caps\">Lord</span>: we cannot speak unto thee bad or good.",
+      "churchId": "p50"
+    },
+    {
+      "slug": "genesis-24-p51",
+      "type": "verse",
+      "number": "51",
+      "content": "Behold, Rebekah <span class=\"clarity-word\">is</span> before thee, take <span class=\"clarity-word\">her,</span> and go, and let her be thy master’s son’s wife, as the <span class=\"small-caps\">Lord</span> hath spoken.",
+      "churchId": "p51"
+    },
+    {
+      "slug": "genesis-24-p52",
+      "type": "verse",
+      "number": "52",
+      "content": "And it came to pass, that, when Abraham’s servant heard their words, he worshipped the <span class=\"small-caps\">Lord</span>, <span class=\"clarity-word\">bowing himself</span> to the earth.",
+      "churchId": "p52"
+    },
+    {
+      "slug": "genesis-24-p53",
+      "type": "verse",
+      "number": "53",
+      "content": "And the servant brought forth jewels of silver, and jewels of gold, and raiment, and gave <span class=\"clarity-word\">them</span> to Rebekah: he gave also to her brother and to her mother precious things.",
+      "churchId": "p53"
+    },
+    {
+      "slug": "genesis-24-p54",
+      "type": "verse",
+      "number": "54",
+      "content": "And they did eat and drink, he and the men that <span class=\"clarity-word\">were</span> with him, and tarried all night; and they rose up in the morning, and he said, Send me away unto my master.",
+      "churchId": "p54"
+    },
+    {
+      "slug": "genesis-24-p55",
+      "type": "verse",
+      "number": "55",
+      "content": "And her brother and her mother said, Let the damsel abide with us <span class=\"clarity-word\">a few</span> days, at the least ten; after that she shall go.",
+      "churchId": "p55"
+    },
+    {
+      "slug": "genesis-24-p56",
+      "type": "verse",
+      "number": "56",
+      "content": "And he said unto them, Hinder me not, seeing the <span class=\"small-caps\">Lord</span> hath prospered my way; send me away that I may go to my master.",
+      "churchId": "p56"
+    },
+    {
+      "slug": "genesis-24-p57",
+      "type": "verse",
+      "number": "57",
+      "content": "And they said, We will call the damsel, and inquire at her mouth.",
+      "churchId": "p57"
+    },
+    {
+      "slug": "genesis-24-p58",
+      "type": "verse",
+      "number": "58",
+      "content": "And they called Rebekah, and said unto her, Wilt thou go with this man? And she said, I will go.",
+      "churchId": "p58"
+    },
+    {
+      "slug": "genesis-24-p59",
+      "type": "verse",
+      "number": "59",
+      "content": "And they sent away Rebekah their sister, and her nurse, and Abraham’s servant, and his men.",
+      "churchId": "p59"
+    },
+    {
+      "slug": "genesis-24-p60",
+      "type": "verse",
+      "number": "60",
+      "content": "And they blessed Rebekah, and said unto her, Thou <span class=\"clarity-word\">art</span> our sister, be thou <span class=\"clarity-word\">the mother</span> of thousands of millions, and let thy seed possess the gate of those which hate them.",
+      "churchId": "p60"
+    },
+    {
+      "slug": "genesis-24-p61",
+      "type": "verse",
+      "number": "61",
+      "content": "¶ And Rebekah arose, and her damsels, and they rode upon the camels, and followed the man: and the servant took Rebekah, and went his way.",
+      "churchId": "p61"
+    },
+    {
+      "slug": "genesis-24-p62",
+      "type": "verse",
+      "number": "62",
+      "content": "And Isaac came from the way of the well Lahai-roi; for he dwelt in the south country.",
+      "churchId": "p62"
+    },
+    {
+      "slug": "genesis-24-p63",
+      "type": "verse",
+      "number": "63",
+      "content": "And Isaac went out to meditate in the field at the eventide: and he lifted up his eyes, and saw, and, behold, the camels <span class=\"clarity-word\">were</span> coming.",
+      "churchId": "p63"
+    },
+    {
+      "slug": "genesis-24-p64",
+      "type": "verse",
+      "number": "64",
+      "content": "And Rebekah lifted up her eyes, and when she saw Isaac, she lighted off the camel.",
+      "churchId": "p64"
+    },
+    {
+      "slug": "genesis-24-p65",
+      "type": "verse",
+      "number": "65",
+      "content": "For she <span class=\"clarity-word\">had</span> said unto the servant, What man <span class=\"clarity-word\">is</span> this that walketh in the field to meet us? And the servant <span class=\"clarity-word\">had</span> said, It <span class=\"clarity-word\">is</span> my master: therefore she took a veil, and covered herself.",
+      "churchId": "p65"
+    },
+    {
+      "slug": "genesis-24-p66",
+      "type": "verse",
+      "number": "66",
+      "content": "And the servant told Isaac all things that he had done.",
+      "churchId": "p66"
+    },
+    {
+      "slug": "genesis-24-p67",
+      "type": "verse",
+      "number": "67",
+      "content": "And Isaac brought her into his mother Sarah’s tent, and took Rebekah, and she became his wife; and he loved her: and Isaac was comforted after his mother’s <span class=\"clarity-word\">death.</span>",
+      "churchId": "p67"
+    }
+  ]
+}

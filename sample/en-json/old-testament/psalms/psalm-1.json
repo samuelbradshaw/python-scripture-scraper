@@ -1,0 +1,64 @@
+{
+  "name": "Psalm 1",
+  "abbrev": "Psalm 1",
+  "number": "1",
+  "churchUri": "/scriptures/ot/ps/1",
+  "paragraphs": [
+    {
+      "slug": "psalm-1-title1",
+      "type": "book-title",
+      "number": null,
+      "content": "<small>The Book of </small>Psalms",
+      "churchId": "title1"
+    },
+    {
+      "slug": "psalm-1-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 1",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-1-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Blessed <span class=\"clarity-word\">is</span> the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-1-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "But his delight <span class=\"clarity-word\">is</span> in the law of the <span class=\"small-caps\">Lord</span>; and in his law doth he meditate day and night.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-1-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And he shall be like a tree planted by the rivers of water, that bringeth forth his fruit in his season; his leaf also shall not wither; and whatsoever he doeth shall prosper.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-1-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "The ungodly <span class=\"clarity-word\">are</span> not so: but <span class=\"clarity-word\">are</span> like the chaff which the wind driveth away.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-1-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Therefore the ungodly shall not stand in the judgment, nor sinners in the congregation of the righteous.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-1-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "For the <span class=\"small-caps\">Lord</span> knoweth the way of the righteous: but the way of the ungodly shall perish.",
+      "churchId": "p6"
+    }
+  ]
+}

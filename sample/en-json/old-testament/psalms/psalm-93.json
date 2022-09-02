@@ -1,0 +1,50 @@
+{
+  "name": "Psalm 93",
+  "abbrev": "Psalm 93",
+  "number": "93",
+  "churchUri": "/scriptures/ot/ps/93",
+  "paragraphs": [
+    {
+      "slug": "psalm-93-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 93",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-93-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "The <span class=\"small-caps\">Lord</span> reigneth, he is clothed with majesty; the <span class=\"small-caps\">Lord</span> is clothed with strength, <span class=\"clarity-word\">wherewith</span> he hath girded himself: the world also is stablished, that it cannot be moved.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-93-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Thy throne <span class=\"clarity-word\">is</span> established of old: thou <span class=\"clarity-word\">art</span> from everlasting.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-93-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "The floods have lifted up, O <span class=\"small-caps\">Lord</span>, the floods have lifted up their voice; the floods lift up their waves.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-93-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "The <span class=\"small-caps\">Lord</span> on high <span class=\"clarity-word\">is</span> mightier than the noise of many waters, <span class=\"clarity-word\">yea, than</span> the mighty waves of the sea.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-93-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Thy testimonies are very sure: holiness becometh thine house, O <span class=\"small-caps\">Lord</span>, for ever.",
+      "churchId": "p5"
+    }
+  ]
+}

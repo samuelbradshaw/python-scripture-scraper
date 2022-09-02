@@ -1,0 +1,50 @@
+{
+  "name": "Hosea 3",
+  "abbrev": "Hosea 3",
+  "number": "3",
+  "churchUri": "/scriptures/ot/hosea/3",
+  "paragraphs": [
+    {
+      "slug": "hosea-3-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 3",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "hosea-3-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Then said the <span class=\"small-caps\">Lord</span> unto me, Go yet, love a woman beloved of <span class=\"clarity-word\">her</span> friend, yet an adulteress, according to the love of the <span class=\"small-caps\">Lord</span> toward the children of Israel, who look to other gods, and love flagons of wine.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "hosea-3-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "So I bought her to me for fifteen <span class=\"clarity-word\">pieces</span> of silver, and <span class=\"clarity-word\">for</span> an homer of barley, and an half homer of barley:",
+      "churchId": "p2"
+    },
+    {
+      "slug": "hosea-3-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And I said unto her, Thou shalt abide for me many days; thou shalt not play the harlot, and thou shalt not be for <span class=\"clarity-word\">another</span> man: so <span class=\"clarity-word\">will</span> I also <span class=\"clarity-word\">be</span> for thee.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "hosea-3-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "For the children of Israel shall abide many days without a king, and without a prince, and without a sacrifice, and without an image, and without an ephod, and <span class=\"clarity-word\">without</span> teraphim:",
+      "churchId": "p4"
+    },
+    {
+      "slug": "hosea-3-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Afterward shall the children of Israel return, and seek the <span class=\"small-caps\">Lord</span> their God, and David their king; and shall fear the <span class=\"small-caps\">Lord</span> and his goodness in the latter days.",
+      "churchId": "p5"
+    }
+  ]
+}

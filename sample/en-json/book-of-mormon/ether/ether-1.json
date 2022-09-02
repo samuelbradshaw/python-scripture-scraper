@@ -1,0 +1,323 @@
+{
+  "name": "Ether 1",
+  "abbrev": "Ether 1",
+  "number": "1",
+  "churchUri": "/scriptures/bofm/ether/1",
+  "paragraphs": [
+    {
+      "slug": "ether-1-title1",
+      "type": "book-title",
+      "number": null,
+      "content": "The Book of Ether",
+      "churchId": "title1"
+    },
+    {
+      "slug": "ether-1-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 1",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "ether-1-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And now I, Moroni, proceed to give an account of those ancient inhabitants who were destroyed by the hand of the Lord upon the face of this north country.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "ether-1-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And I take mine account from the twenty and four plates which were found by the people of Limhi, which is called the Book of Ether.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "ether-1-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And as I suppose that the first part of this record, which speaks concerning the creation of the world, and also of Adam, and an account from that time even to the great tower, and whatsoever things transpired among the children of men until that time, is had among the Jews—",
+      "churchId": "p3"
+    },
+    {
+      "slug": "ether-1-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Therefore I do not write those things which transpired from the days of Adam until that time; but they are had upon the plates; and whoso findeth them, the same will have power that he may get the full account.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "ether-1-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "But behold, I give not the full account, but a part of the account I give, from the tower down until they were destroyed.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "ether-1-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And on this wise do I give the account. He that wrote this record was Ether, and he was a descendant of Coriantor.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "ether-1-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Coriantor was the son of Moron.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "ether-1-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And Moron was the son of Ethem.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "ether-1-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And Ethem was the son of Ahah.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "ether-1-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And Ahah was the son of Seth.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "ether-1-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And Seth was the son of Shiblon.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "ether-1-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And Shiblon was the son of Com.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "ether-1-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And Com was the son of Coriantum.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "ether-1-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And Coriantum was the son of Amnigaddah.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "ether-1-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And Amnigaddah was the son of Aaron.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "ether-1-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And Aaron was a descendant of Heth, who was the son of Hearthom.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "ether-1-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And Hearthom was the son of Lib.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "ether-1-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And Lib was the son of Kish.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "ether-1-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And Kish was the son of Corom.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "ether-1-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And Corom was the son of Levi.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "ether-1-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And Levi was the son of Kim.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "ether-1-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And Kim was the son of Morianton.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "ether-1-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And Morianton was a descendant of Riplakish.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "ether-1-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And Riplakish was the son of Shez.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "ether-1-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And Shez was the son of Heth.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "ether-1-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And Heth was the son of Com.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "ether-1-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And Com was the son of Coriantum.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "ether-1-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And Coriantum was the son of Emer.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "ether-1-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "And Emer was the son of Omer.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "ether-1-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And Omer was the son of Shule.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "ether-1-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "And Shule was the son of Kib.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "ether-1-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "And Kib was the son of Orihah, who was the son of Jared;",
+      "churchId": "p32"
+    },
+    {
+      "slug": "ether-1-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "Which Jared came forth with his brother and their families, with some others and their families, from the great tower, at the time the Lord confounded the language of the people, and swore in his wrath that they should be scattered upon all the face of the earth; and according to the word of the Lord the people were scattered.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "ether-1-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "And the brother of Jared being a large and mighty man, and a man highly favored of the Lord, Jared, his brother, said unto him: Cry unto the Lord, that he will not confound us that we may not understand our words.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "ether-1-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "And it came to pass that the brother of Jared did cry unto the Lord, and the Lord had compassion upon Jared; therefore he did not confound the language of Jared; and Jared and his brother were not confounded.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "ether-1-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "Then Jared said unto his brother: Cry again unto the Lord, and it may be that he will turn away his anger from them who are our friends, that he confound not their language.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "ether-1-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "And it came to pass that the brother of Jared did cry unto the Lord, and the Lord had compassion upon their friends and their families also, that they were not confounded.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "ether-1-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "And it came to pass that Jared spake again unto his brother, saying: Go and inquire of the Lord whether he will drive us out of the land, and if he will drive us out of the land, cry unto him whither we shall go. And who knoweth but the Lord will carry us forth into a land which is choice above all the earth? And if it so be, let us be faithful unto the Lord, that we may receive it for our inheritance.",
+      "churchId": "p38"
+    },
+    {
+      "slug": "ether-1-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "And it came to pass that the brother of Jared did cry unto the Lord according to that which had been spoken by the mouth of Jared.",
+      "churchId": "p39"
+    },
+    {
+      "slug": "ether-1-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "And it came to pass that the Lord did hear the brother of Jared, and had compassion upon him, and said unto him:",
+      "churchId": "p40"
+    },
+    {
+      "slug": "ether-1-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "Go to and gather together thy flocks, both male and female, of every kind; and also of the seed of the earth of every kind; and thy families; and also Jared thy brother and his family; and also thy friends and their families, and the friends of Jared and their families.",
+      "churchId": "p41"
+    },
+    {
+      "slug": "ether-1-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "And when thou hast done this thou shalt go at the head of them down into the valley which is northward. And there will I meet thee, and I will go before thee into a land which is choice above all the lands of the earth.",
+      "churchId": "p42"
+    },
+    {
+      "slug": "ether-1-p43",
+      "type": "verse",
+      "number": "43",
+      "content": "And there will I bless thee and thy seed, and raise up unto me of thy seed, and of the seed of thy brother, and they who shall go with thee, a great nation. And there shall be none greater than the nation which I will raise up unto me of thy seed, upon all the face of the earth. And thus I will do unto thee because this long time ye have cried unto me.",
+      "churchId": "p43"
+    }
+  ]
+}

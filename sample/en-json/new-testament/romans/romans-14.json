@@ -1,0 +1,176 @@
+{
+  "name": "Romans 14",
+  "abbrev": "Rom. 14",
+  "number": "14",
+  "churchUri": "/scriptures/nt/rom/14",
+  "paragraphs": [
+    {
+      "slug": "romans-14-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 14",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "romans-14-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Him that is weak in the faith receive ye, <span class=\"clarity-word\">but</span> not to doubtful disputations.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "romans-14-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "For one believeth that he may eat all things: another, who is weak, eateth herbs.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "romans-14-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Let not him that eateth despise him that eateth not; and let not him which eateth not judge him that eateth: for God hath received him.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "romans-14-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Who art thou that judgest another man’s servant? to his own master he standeth or falleth. Yea, he shall be holden up: for God is able to make him stand.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "romans-14-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "One man esteemeth one day above another: another esteemeth every day <span class=\"clarity-word\">alike.</span> Let every man be fully persuaded in his own mind.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "romans-14-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "He that regardeth the day, regardeth <span class=\"clarity-word\">it</span> unto the Lord; and he that regardeth not the day, to the Lord he doth not regard <span class=\"clarity-word\">it.</span> He that eateth, eateth to the Lord, for he giveth God thanks; and he that eateth not, to the Lord he eateth not, and giveth God thanks.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "romans-14-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "For none of us liveth to himself, and no man dieth to himself.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "romans-14-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "For whether we live, we live unto the Lord; and whether we die, we die unto the Lord: whether we live therefore, or die, we are the Lord’s.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "romans-14-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "For to this end Christ both died, and rose, and revived, that he might be Lord both of the dead and living.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "romans-14-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "But why dost thou judge thy brother? or why dost thou set at nought thy brother? for we shall all stand before the judgment seat of Christ.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "romans-14-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "For it is written, <span class=\"clarity-word\">As</span> I live, saith the Lord, every knee shall bow to me, and every tongue shall confess to God.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "romans-14-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "So then every one of us shall give account of himself to God.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "romans-14-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Let us not therefore judge one another any more: but judge this rather, that no man put a stumblingblock or an occasion to fall in <span class=\"clarity-word\">his</span> brother’s way.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "romans-14-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "I know, and am persuaded by the Lord Jesus, that <span class=\"clarity-word\">there is</span> nothing unclean of itself: but to him that esteemeth any thing to be unclean, to him <span class=\"clarity-word\">it is</span> unclean.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "romans-14-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "But if thy brother be grieved with <span class=\"clarity-word\">thy</span> meat, now walkest thou not charitably. Destroy not him with thy meat, for whom Christ died.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "romans-14-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Let not then your good be evil spoken of:",
+      "churchId": "p16"
+    },
+    {
+      "slug": "romans-14-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "For the kingdom of God is not meat and drink; but righteousness, and peace, and joy in the Holy Ghost.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "romans-14-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "For he that in these things serveth Christ <span class=\"clarity-word\">is</span> acceptable to God, and approved of men.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "romans-14-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Let us therefore follow after the things which make for peace, and things wherewith one may edify another.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "romans-14-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "For meat destroy not the work of God. All things indeed <span class=\"clarity-word\">are</span> pure; but <span class=\"clarity-word\">it is</span> evil for that man who eateth with offence.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "romans-14-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "<span class=\"clarity-word\">It is</span> good neither to eat flesh, nor to drink wine, nor <span class=\"clarity-word\">any thing</span> whereby thy brother stumbleth, or is offended, or is made weak.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "romans-14-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Hast thou faith? have <span class=\"clarity-word\">it</span> to thyself before God. Happy <span class=\"clarity-word\">is</span> he that condemneth not himself in that thing which he alloweth.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "romans-14-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And he that doubteth is damned if he eat, because <span class=\"clarity-word\">he eateth</span> not of faith: for whatsoever <span class=\"clarity-word\">is</span> not of faith is sin.",
+      "churchId": "p23"
+    }
+  ]
+}

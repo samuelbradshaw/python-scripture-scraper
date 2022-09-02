@@ -1,0 +1,155 @@
+{
+  "name": "Deuteronomy 8",
+  "abbrev": "Deut. 8",
+  "number": "8",
+  "churchUri": "/scriptures/ot/deut/8",
+  "paragraphs": [
+    {
+      "slug": "deuteronomy-8-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 8",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "deuteronomy-8-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "All the commandments which I command thee this day shall ye observe to do, that ye may live, and multiply, and go in and possess the land which the <span class=\"small-caps\">Lord</span> sware unto your fathers.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "deuteronomy-8-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And thou shalt remember all the way which the <span class=\"small-caps\">Lord</span> thy God led thee these forty years in the wilderness, to humble thee, <span class=\"clarity-word\">and</span> to prove thee, to know what <span class=\"clarity-word\">was</span> in thine heart, whether thou wouldest keep his commandments, or no.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "deuteronomy-8-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And he humbled thee, and suffered thee to hunger, and fed thee with manna, which thou knewest not, neither did thy fathers know; that he might make thee know that man doth not live by bread only, but by every <span class=\"clarity-word\">word</span> that proceedeth out of the mouth of the <span class=\"small-caps\">Lord</span> doth man live.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "deuteronomy-8-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Thy raiment waxed not old upon thee, neither did thy foot swell, these forty years.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "deuteronomy-8-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Thou shalt also consider in thine heart, that, as a man chasteneth his son, <span class=\"clarity-word\">so</span> the <span class=\"small-caps\">Lord</span> thy God chasteneth thee.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "deuteronomy-8-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Therefore thou shalt keep the commandments of the <span class=\"small-caps\">Lord</span> thy God, to walk in his ways, and to fear him.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "deuteronomy-8-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "For the <span class=\"small-caps\">Lord</span> thy God bringeth thee into a good land, a land of brooks of water, of fountains and depths that spring out of valleys and hills;",
+      "churchId": "p7"
+    },
+    {
+      "slug": "deuteronomy-8-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "A land of wheat, and barley, and vines, and fig trees, and pomegranates; a land of oil olive, and honey;",
+      "churchId": "p8"
+    },
+    {
+      "slug": "deuteronomy-8-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "A land wherein thou shalt eat bread without scarceness, thou shalt not lack any <span class=\"clarity-word\">thing</span> in it; a land whose stones <span class=\"clarity-word\">are</span> iron, and out of whose hills thou mayest dig brass.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "deuteronomy-8-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "When thou hast eaten and art full, then thou shalt bless the <span class=\"small-caps\">Lord</span> thy God for the good land which he hath given thee.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "deuteronomy-8-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Beware that thou forget not the <span class=\"small-caps\">Lord</span> thy God, in not keeping his commandments, and his judgments, and his statutes, which I command thee this day:",
+      "churchId": "p11"
+    },
+    {
+      "slug": "deuteronomy-8-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Lest <span class=\"clarity-word\">when</span> thou hast eaten and art full, and hast built goodly houses, and dwelt <span class=\"clarity-word\">therein;</span>",
+      "churchId": "p12"
+    },
+    {
+      "slug": "deuteronomy-8-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And <span class=\"clarity-word\">when</span> thy herds and thy flocks multiply, and thy silver and thy gold is multiplied, and all that thou hast is multiplied;",
+      "churchId": "p13"
+    },
+    {
+      "slug": "deuteronomy-8-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Then thine heart be lifted up, and thou forget the <span class=\"small-caps\">Lord</span> thy God, which brought thee forth out of the land of Egypt, from the house of bondage;",
+      "churchId": "p14"
+    },
+    {
+      "slug": "deuteronomy-8-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Who led thee through that great and terrible wilderness, <span class=\"clarity-word\">wherein were</span> fiery serpents, and scorpions, and drought, where <span class=\"clarity-word\">there was</span> no water; who brought thee forth water out of the rock of flint;",
+      "churchId": "p15"
+    },
+    {
+      "slug": "deuteronomy-8-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Who fed thee in the wilderness with manna, which thy fathers knew not, that he might humble thee, and that he might prove thee, to do thee good at thy latter end;",
+      "churchId": "p16"
+    },
+    {
+      "slug": "deuteronomy-8-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And thou say in thine heart, My power and the might of <span class=\"clarity-word\">mine</span> hand hath gotten me this wealth.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "deuteronomy-8-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "But thou shalt remember the <span class=\"small-caps\">Lord</span> thy God: for <span class=\"clarity-word\">it is</span> he that giveth thee power to get wealth, that he may establish his covenant which he sware unto thy fathers, as <span class=\"clarity-word\">it is</span> this day.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "deuteronomy-8-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And it shall be, if thou do at all forget the <span class=\"small-caps\">Lord</span> thy God, and walk after other gods, and serve them, and worship them, I testify against you this day that ye shall surely perish.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "deuteronomy-8-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "As the nations which the <span class=\"small-caps\">Lord</span> destroyeth before your face, so shall ye perish; because ye would not be obedient unto the voice of the <span class=\"small-caps\">Lord</span> your God.",
+      "churchId": "p20"
+    }
+  ]
+}

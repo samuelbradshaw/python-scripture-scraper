@@ -1,0 +1,239 @@
+{
+  "name": "1 Chronicles 23",
+  "abbrev": "1 Chr. 23",
+  "number": "23",
+  "churchUri": "/scriptures/ot/1-chr/23",
+  "paragraphs": [
+    {
+      "slug": "1-chronicles-23-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 23",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "1-chronicles-23-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "So when David was old and full of days, he made Solomon his son king over Israel.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "1-chronicles-23-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "¶ And he gathered together all the princes of Israel, with the priests and the Levites.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "1-chronicles-23-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Now the Levites were numbered from the age of thirty years and upward: and their number by their polls, man by man, was thirty and eight thousand.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "1-chronicles-23-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Of which, twenty and four thousand <span class=\"clarity-word\">were</span> to set forward the work of the house of the <span class=\"small-caps\">Lord</span>; and six thousand <span class=\"clarity-word\">were</span> officers and judges:",
+      "churchId": "p4"
+    },
+    {
+      "slug": "1-chronicles-23-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Moreover four thousand <span class=\"clarity-word\">were</span> porters; and four thousand praised the <span class=\"small-caps\">Lord</span> with the instruments which I made, <span class=\"clarity-word\">said David,</span> to praise <span class=\"clarity-word\">therewith.</span>",
+      "churchId": "p5"
+    },
+    {
+      "slug": "1-chronicles-23-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And David divided them into courses among the sons of Levi, <span class=\"clarity-word\">namely,</span> Gershon, Kohath, and Merari.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "1-chronicles-23-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "¶ Of the Gershonites <span class=\"clarity-word\">were,</span> Laadan, and Shimei.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "1-chronicles-23-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "The sons of Laadan; the chief <span class=\"clarity-word\">was</span> Jehiel, and Zetham, and Joel, three.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "1-chronicles-23-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "The sons of Shimei; Shelomith, and Haziel, and Haran, three. These <span class=\"clarity-word\">were</span> the chief of the fathers of Laadan.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "1-chronicles-23-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And the sons of Shimei <span class=\"clarity-word\">were,</span> Jahath, Zina, and Jeush, and Beriah. These four <span class=\"clarity-word\">were</span> the sons of Shimei.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "1-chronicles-23-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And Jahath was the chief, and Zizah the second: but Jeush and Beriah had not many sons; therefore they were in one reckoning, according to <span class=\"clarity-word\">their</span> father’s house.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "1-chronicles-23-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "¶ The sons of Kohath; Amram, Izhar, Hebron, and Uzziel, four.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "1-chronicles-23-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "The sons of Amram; Aaron and Moses: and Aaron was separated, that he should sanctify the most holy things, he and his sons for ever, to burn incense before the <span class=\"small-caps\">Lord</span>, to minister unto him, and to bless in his name for ever.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "1-chronicles-23-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Now <span class=\"clarity-word\">concerning</span> Moses the man of God, his sons were named of the tribe of Levi.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "1-chronicles-23-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "The sons of Moses <span class=\"clarity-word\">were,</span> Gershom, and Eliezer.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "1-chronicles-23-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Of the sons of Gershom, Shebuel <span class=\"clarity-word\">was</span> the chief.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "1-chronicles-23-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And the sons of Eliezer <span class=\"clarity-word\">were,</span> Rehabiah the chief. And Eliezer had none other sons; but the sons of Rehabiah were very many.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "1-chronicles-23-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Of the sons of Izhar; Shelomith the chief.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "1-chronicles-23-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Of the sons of Hebron; Jeriah the first, Amariah the second, Jahaziel the third, and Jekameam the fourth.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "1-chronicles-23-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Of the sons of Uzziel; Michah the first, and Jesiah the second.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "1-chronicles-23-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "¶ The sons of Merari; Mahli, and Mushi. The sons of Mahli; Eleazar, and Kish.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "1-chronicles-23-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And Eleazar died, and had no sons, but daughters: and their brethren the sons of Kish took them.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "1-chronicles-23-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "The sons of Mushi; Mahli, and Eder, and Jeremoth, three.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "1-chronicles-23-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "¶ These <span class=\"clarity-word\">were</span> the sons of Levi after the house of their fathers; <span class=\"clarity-word\">even</span> the chief of the fathers, as they were counted by number of names by their polls, that did the work for the service of the house of the <span class=\"small-caps\">Lord</span>, from the age of twenty years and upward.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "1-chronicles-23-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "For David said, The <span class=\"small-caps\">Lord</span> God of Israel hath given rest unto his people, that they may dwell in Jerusalem for ever:",
+      "churchId": "p25"
+    },
+    {
+      "slug": "1-chronicles-23-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And also unto the Levites; they shall no <span class=\"clarity-word\">more</span> carry the tabernacle, nor any vessels of it for the service thereof.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "1-chronicles-23-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "For by the last words of David the Levites <span class=\"clarity-word\">were</span> numbered from twenty years old and above:",
+      "churchId": "p27"
+    },
+    {
+      "slug": "1-chronicles-23-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "Because their office <span class=\"clarity-word\">was</span> to wait on the sons of Aaron for the service of the house of the <span class=\"small-caps\">Lord</span>, in the courts, and in the chambers, and in the purifying of all holy things, and the work of the service of the house of God;",
+      "churchId": "p28"
+    },
+    {
+      "slug": "1-chronicles-23-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "Both for the shewbread, and for the fine flour for meat offering, and for the unleavened cakes, and for <span class=\"clarity-word\">that which is baked in</span> the pan, and for that which is fried, and for all manner of measure and size;",
+      "churchId": "p29"
+    },
+    {
+      "slug": "1-chronicles-23-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And to stand every morning to thank and praise the <span class=\"small-caps\">Lord</span>, and likewise at even;",
+      "churchId": "p30"
+    },
+    {
+      "slug": "1-chronicles-23-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "And to offer all burnt sacrifices unto the <span class=\"small-caps\">Lord</span> in the sabbaths, in the new moons, and on the set feasts, by number, according to the order commanded unto them, continually before the <span class=\"small-caps\">Lord</span>:",
+      "churchId": "p31"
+    },
+    {
+      "slug": "1-chronicles-23-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "And that they should keep the charge of the tabernacle of the congregation, and the charge of the holy <span class=\"clarity-word\">place,</span> and the charge of the sons of Aaron their brethren, in the service of the house of the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p32"
+    }
+  ]
+}

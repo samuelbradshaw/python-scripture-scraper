@@ -1,0 +1,358 @@
+{
+  "name": "Luke 6",
+  "abbrev": "Luke 6",
+  "number": "6",
+  "churchUri": "/scriptures/nt/luke/6",
+  "paragraphs": [
+    {
+      "slug": "luke-6-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 6",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "luke-6-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And it came to pass on the second sabbath after the first, that he went through the corn fields; and his disciples plucked the ears of corn, and did eat, rubbing <span class=\"clarity-word\">them</span> in <span class=\"clarity-word\">their</span> hands.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "luke-6-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And certain of the Pharisees said unto them, Why do ye that which is not lawful to do on the sabbath days?",
+      "churchId": "p2"
+    },
+    {
+      "slug": "luke-6-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And Jesus answering them said, Have ye not read so much as this, what David did, when himself was an hungred, and they which were with him;",
+      "churchId": "p3"
+    },
+    {
+      "slug": "luke-6-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "How he went into the house of God, and did take and eat the shewbread, and gave also to them that were with him; which it is not lawful to eat but for the priests alone?",
+      "churchId": "p4"
+    },
+    {
+      "slug": "luke-6-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And he said unto them, That the Son of man is Lord also of the sabbath.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "luke-6-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And it came to pass also on another sabbath, that he entered into the synagogue and taught: and there was a man whose right hand was withered.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "luke-6-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And the scribes and Pharisees watched him, whether he would heal on the sabbath day; that they might find an accusation against him.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "luke-6-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "But he knew their thoughts, and said to the man which had the withered hand, Rise up, and stand forth in the midst. And he arose and stood forth.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "luke-6-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Then said Jesus unto them, I will ask you one thing; Is it lawful on the sabbath days to do good, or to do evil? to save life, or to destroy <span class=\"clarity-word\">it?</span>",
+      "churchId": "p9"
+    },
+    {
+      "slug": "luke-6-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And looking round about upon them all, he said unto the man, Stretch forth thy hand. And he did so: and his hand was restored whole as the other.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "luke-6-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And they were filled with madness; and communed one with another what they might do to Jesus.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "luke-6-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And it came to pass in those days, that he went out into a mountain to pray, and continued all night in prayer to God.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "luke-6-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "¶ And when it was day, he called <span class=\"clarity-word\">unto him</span> his disciples: and of them he chose twelve, whom also he named apostles;",
+      "churchId": "p13"
+    },
+    {
+      "slug": "luke-6-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Simon, (whom he also named Peter,) and Andrew his brother, James and John, Philip and Bartholomew,",
+      "churchId": "p14"
+    },
+    {
+      "slug": "luke-6-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Matthew and Thomas, James the <span class=\"clarity-word\">son</span> of Alphæus, and Simon called Zelotes,",
+      "churchId": "p15"
+    },
+    {
+      "slug": "luke-6-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And Judas <span class=\"clarity-word\">the brother</span> of James, and Judas Iscariot, which also was the traitor.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "luke-6-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "¶ And he came down with them, and stood in the plain, and the company of his disciples, and a great multitude of people out of all Judæa and Jerusalem, and from the sea coast of Tyre and Sidon, which came to hear him, and to be healed of their diseases;",
+      "churchId": "p17"
+    },
+    {
+      "slug": "luke-6-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And they that were vexed with unclean spirits: and they were healed.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "luke-6-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And the whole multitude sought to touch him: for there went virtue out of him, and healed <span class=\"clarity-word\">them</span> all.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "luke-6-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "¶ And he lifted up his eyes on his disciples, and said, Blessed <span class=\"clarity-word\">be ye</span> poor: for yours is the kingdom of God.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "luke-6-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Blessed <span class=\"clarity-word\">are ye</span> that hunger now: for ye shall be filled. Blessed <span class=\"clarity-word\">are ye</span> that weep now: for ye shall laugh.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "luke-6-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Blessed are ye, when men shall hate you, and when they shall separate you <span class=\"clarity-word\">from their company,</span> and shall reproach <span class=\"clarity-word\">you,</span> and cast out your name as evil, for the Son of man’s sake.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "luke-6-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Rejoice ye in that day, and leap for joy: for, behold, your reward <span class=\"clarity-word\">is</span> great in heaven: for in the like manner did their fathers unto the prophets.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "luke-6-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "But woe unto you that are rich! for ye have received your consolation.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "luke-6-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Woe unto you that are full! for ye shall hunger. Woe unto you that laugh now! for ye shall mourn and weep.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "luke-6-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "Woe unto you, when all men shall speak well of you! for so did their fathers to the false prophets.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "luke-6-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "¶ But I say unto you which hear, Love your enemies, do good to them which hate you,",
+      "churchId": "p27"
+    },
+    {
+      "slug": "luke-6-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "Bless them that curse you, and pray for them which despitefully use you.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "luke-6-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "And unto him that smiteth thee on the <span class=\"clarity-word\">one</span> cheek offer also the other; and him that taketh away thy cloak forbid not <span class=\"clarity-word\">to take thy</span> coat also.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "luke-6-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "Give to every man that asketh of thee; and of him that taketh away thy goods ask <span class=\"clarity-word\">them</span> not again.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "luke-6-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "And as ye would that men should do to you, do ye also to them likewise.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "luke-6-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "For if ye love them which love you, what thank have ye? for sinners also love those that love them.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "luke-6-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "And if ye do good to them which do good to you, what thank have ye? for sinners also do even the same.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "luke-6-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "And if ye lend <span class=\"clarity-word\">to them</span> of whom ye hope to receive, what thank have ye? for sinners also lend to sinners, to receive as much again.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "luke-6-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "But love ye your enemies, and do good, and lend, hoping for nothing again; and your reward shall be great, and ye shall be the children of the Highest: for he is kind unto the unthankful and <span class=\"clarity-word\">to</span> the evil.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "luke-6-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "Be ye therefore merciful, as your Father also is merciful.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "luke-6-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "Judge not, and ye shall not be judged: condemn not, and ye shall not be condemned: forgive, and ye shall be forgiven:",
+      "churchId": "p37"
+    },
+    {
+      "slug": "luke-6-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "Give, and it shall be given unto you; good measure, pressed down, and shaken together, and running over, shall men give into your bosom. For with the same measure that ye mete withal it shall be measured to you again.",
+      "churchId": "p38"
+    },
+    {
+      "slug": "luke-6-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "And he spake a parable unto them, Can the blind lead the blind? shall they not both fall into the ditch?",
+      "churchId": "p39"
+    },
+    {
+      "slug": "luke-6-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "The disciple is not above his master: but every one that is perfect shall be as his master.",
+      "churchId": "p40"
+    },
+    {
+      "slug": "luke-6-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "And why beholdest thou the mote that is in thy brother’s eye, but perceivest not the beam that is in thine own eye?",
+      "churchId": "p41"
+    },
+    {
+      "slug": "luke-6-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "Either how canst thou say to thy brother, Brother, let me pull out the mote that is in thine eye, when thou thyself beholdest not the beam that is in thine own eye? Thou hypocrite, cast out first the beam out of thine own eye, and then shalt thou see clearly to pull out the mote that is in thy brother’s eye.",
+      "churchId": "p42"
+    },
+    {
+      "slug": "luke-6-p43",
+      "type": "verse",
+      "number": "43",
+      "content": "For a good tree bringeth not forth corrupt fruit; neither doth a corrupt tree bring forth good fruit.",
+      "churchId": "p43"
+    },
+    {
+      "slug": "luke-6-p44",
+      "type": "verse",
+      "number": "44",
+      "content": "For every tree is known by his own fruit. For of thorns men do not gather figs, nor of a bramble bush gather they grapes.",
+      "churchId": "p44"
+    },
+    {
+      "slug": "luke-6-p45",
+      "type": "verse",
+      "number": "45",
+      "content": "A good man out of the good treasure of his heart bringeth forth that which is good; and an evil man out of the evil treasure of his heart bringeth forth that which is evil: for of the abundance of the heart his mouth speaketh.",
+      "churchId": "p45"
+    },
+    {
+      "slug": "luke-6-p46",
+      "type": "verse",
+      "number": "46",
+      "content": "¶ And why call ye me, Lord, Lord, and do not the things which I say?",
+      "churchId": "p46"
+    },
+    {
+      "slug": "luke-6-p47",
+      "type": "verse",
+      "number": "47",
+      "content": "Whosoever cometh to me, and heareth my sayings, and doeth them, I will shew you to whom he is like:",
+      "churchId": "p47"
+    },
+    {
+      "slug": "luke-6-p48",
+      "type": "verse",
+      "number": "48",
+      "content": "He is like a man which built an house, and digged deep, and laid the foundation on a rock: and when the flood arose, the stream beat vehemently upon that house, and could not shake it: for it was founded upon a rock.",
+      "churchId": "p48"
+    },
+    {
+      "slug": "luke-6-p49",
+      "type": "verse",
+      "number": "49",
+      "content": "But he that heareth, and doeth not, is like a man that without a foundation built an house upon the earth; against which the stream did beat vehemently, and immediately it fell; and the ruin of that house was great.",
+      "churchId": "p49"
+    }
+  ]
+}

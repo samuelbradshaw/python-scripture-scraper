@@ -1,0 +1,78 @@
+{
+  "name": "Doctrine and Covenants 129",
+  "abbrev": "D&C 129",
+  "number": "129",
+  "churchUri": "/scriptures/dc-testament/dc/129",
+  "paragraphs": [
+    {
+      "slug": "section-129-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Section 129",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "section-129-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "There are two kinds of beings in heaven, namely: Angels, who are resurrected personages, having bodies of flesh and bones—",
+      "churchId": "p1"
+    },
+    {
+      "slug": "section-129-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "For instance, Jesus said: <em>Handle me and see, for a spirit hath not flesh and bones, as ye see me have.</em>",
+      "churchId": "p2"
+    },
+    {
+      "slug": "section-129-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Secondly: the spirits of just men made perfect, they who are not resurrected, but inherit the same glory.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "section-129-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "When a messenger comes saying he has a message from God, offer him your hand and request him to shake hands with you.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "section-129-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "If he be an angel he will do so, and you will feel his hand.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "section-129-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "If he be the spirit of a just man made perfect he will come in his glory; for that is the only way he can appear—",
+      "churchId": "p6"
+    },
+    {
+      "slug": "section-129-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Ask him to shake hands with you, but he will not move, because it is contrary to the order of heaven for a just man to deceive; but he will still deliver his message.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "section-129-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "If it be the devil as an angel of light, when you ask him to shake hands he will offer you his hand, and you will not feel anything; you may therefore detect him.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "section-129-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "These are three grand keys whereby you may know whether any administration is from God.",
+      "churchId": "p9"
+    }
+  ]
+}

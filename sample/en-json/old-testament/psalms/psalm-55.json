@@ -1,0 +1,183 @@
+{
+  "name": "Psalm 55",
+  "abbrev": "Psalm 55",
+  "number": "55",
+  "churchUri": "/scriptures/ot/ps/55",
+  "paragraphs": [
+    {
+      "slug": "psalm-55-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 55",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-55-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "To the chief Musician on Neginoth, Maschil, <span class=\"clarity-word\">A Psalm</span> of David.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-55-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Give ear to my prayer, O God; and hide not thyself from my supplication.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-55-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Attend unto me, and hear me: I mourn in my complaint, and make a noise;",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-55-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Because of the voice of the enemy, because of the oppression of the wicked: for they cast iniquity upon me, and in wrath they hate me.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-55-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "My heart is sore pained within me: and the terrors of death are fallen upon me.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-55-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Fearfulness and trembling are come upon me, and horror hath overwhelmed me.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-55-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And I said, Oh that I had wings like a dove! <span class=\"clarity-word\">for then</span> would I fly away, and be at rest.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-55-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Lo, <span class=\"clarity-word\">then</span> would I wander far off, <span class=\"clarity-word\">and</span> remain in the wilderness. Selah.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-55-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "I would hasten my escape from the windy storm <span class=\"clarity-word\">and</span> tempest.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "psalm-55-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Destroy, O Lord, <span class=\"clarity-word\">and</span> divide their tongues: for I have seen violence and strife in the city.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "psalm-55-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Day and night they go about it upon the walls thereof: mischief also and sorrow <span class=\"clarity-word\">are</span> in the midst of it.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "psalm-55-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Wickedness <span class=\"clarity-word\">is</span> in the midst thereof: deceit and guile depart not from her streets.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "psalm-55-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "For <span class=\"clarity-word\">it was</span> not an enemy <span class=\"clarity-word\">that</span> reproached me; then I could have borne <span class=\"clarity-word\">it:</span> neither <span class=\"clarity-word\">was it</span> he that hated me <span class=\"clarity-word\">that</span> did magnify <span class=\"clarity-word\">himself</span> against me; then I would have hid myself from him:",
+      "churchId": "p12"
+    },
+    {
+      "slug": "psalm-55-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "But <span class=\"clarity-word\">it was</span> thou, a man mine equal, my guide, and mine acquaintance.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "psalm-55-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "We took sweet counsel together, <span class=\"clarity-word\">and</span> walked unto the house of God in company.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "psalm-55-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Let death seize upon them, <span class=\"clarity-word\">and</span> let them go down quick into hell: for wickedness <span class=\"clarity-word\">is</span> in their dwellings, <span class=\"clarity-word\">and</span> among them.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "psalm-55-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "As for me, I will call upon God; and the <span class=\"small-caps\">Lord</span> shall save me.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "psalm-55-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Evening, and morning, and at noon, will I pray, and cry aloud: and he shall hear my voice.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "psalm-55-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "He hath delivered my soul in peace from the battle <span class=\"clarity-word\">that was</span> against me: for there were many with me.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "psalm-55-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "God shall hear, and afflict them, even he that abideth of old. Selah. Because they have no changes, therefore they fear not God.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "psalm-55-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "He hath put forth his hands against such as be at peace with him: he hath broken his covenant.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "psalm-55-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "<span class=\"clarity-word\">The words</span> of his mouth were smoother than butter, but war <span class=\"clarity-word\">was</span> in his heart: his words were softer than oil, yet <span class=\"clarity-word\">were</span> they drawn swords.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "psalm-55-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Cast thy burden upon the <span class=\"small-caps\">Lord</span>, and he shall sustain thee: he shall never suffer the righteous to be moved.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "psalm-55-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "But thou, O God, shalt bring them down into the pit of destruction: bloody and deceitful men shall not live out half their days; but I will trust in thee.",
+      "churchId": "p23"
+    }
+  ]
+}

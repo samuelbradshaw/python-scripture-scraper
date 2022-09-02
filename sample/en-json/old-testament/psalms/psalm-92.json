@@ -1,0 +1,127 @@
+{
+  "name": "Psalm 92",
+  "abbrev": "Psalm 92",
+  "number": "92",
+  "churchUri": "/scriptures/ot/ps/92",
+  "paragraphs": [
+    {
+      "slug": "psalm-92-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 92",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-92-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "A Psalm <span class=\"clarity-word\">or</span> Song for the sabbath day.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-92-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "<span class=\"clarity-word\">It is a</span> good <span class=\"clarity-word\">thing</span> to give thanks unto the <span class=\"small-caps\">Lord</span>, and to sing praises unto thy name, O most High:",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-92-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "To shew forth thy lovingkindness in the morning, and thy faithfulness every night,",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-92-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Upon an instrument of ten strings, and upon the psaltery; upon the harp with a solemn sound.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-92-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "For thou, <span class=\"small-caps\">Lord</span>, hast made me glad through thy work: I will triumph in the works of thy hands.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-92-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "O <span class=\"small-caps\">Lord</span>, how great are thy works! <span class=\"clarity-word\">and</span> thy thoughts are very deep.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-92-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "A brutish man knoweth not; neither doth a fool understand this.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-92-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "When the wicked spring as the grass, and when all the workers of iniquity do flourish; <span class=\"clarity-word\">it is</span> that they shall be destroyed for ever:",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-92-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "But thou, <span class=\"small-caps\">Lord</span>, <span class=\"clarity-word\">art most</span> high for evermore.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "psalm-92-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "For, lo, thine enemies, O <span class=\"small-caps\">Lord</span>, for, lo, thine enemies shall perish; all the workers of iniquity shall be scattered.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "psalm-92-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "But my horn shalt thou exalt like <span class=\"clarity-word\">the horn of</span> an unicorn: I shall be anointed with fresh oil.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "psalm-92-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Mine eye also shall see <span class=\"clarity-word\">my desire</span> on mine enemies, <span class=\"clarity-word\">and</span> mine ears shall hear <span class=\"clarity-word\">my desire</span> of the wicked that rise up against me.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "psalm-92-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "The righteous shall flourish like the palm tree: he shall grow like a cedar in Lebanon.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "psalm-92-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Those that be planted in the house of the <span class=\"small-caps\">Lord</span> shall flourish in the courts of our God.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "psalm-92-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "They shall still bring forth fruit in old age; they shall be fat and flourishing;",
+      "churchId": "p14"
+    },
+    {
+      "slug": "psalm-92-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "To shew that the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">is</span> upright: <span class=\"clarity-word\">he is</span> my rock, and <span class=\"clarity-word\">there is</span> no unrighteousness in him.",
+      "churchId": "p15"
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "name": "Jeremiah 4",
+  "abbrev": "Jer. 4",
+  "number": "4",
+  "churchUri": "/scriptures/ot/jer/4",
+  "paragraphs": [
+    {
+      "slug": "jeremiah-4-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 4",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "jeremiah-4-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "If thou wilt return, O Israel, saith the <span class=\"small-caps\">Lord</span>, return unto me: and if thou wilt put away thine abominations out of my sight, then shalt thou not remove.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "jeremiah-4-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And thou shalt swear, The <span class=\"small-caps\">Lord</span> liveth, in truth, in judgment, and in righteousness; and the nations shall bless themselves in him, and in him shall they glory.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "jeremiah-4-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "¶ For thus saith the <span class=\"small-caps\">Lord</span> to the men of Judah and Jerusalem, Break up your fallow ground, and sow not among thorns.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "jeremiah-4-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Circumcise yourselves to the <span class=\"small-caps\">Lord</span>, and take away the foreskins of your heart, ye men of Judah and inhabitants of Jerusalem: lest my fury come forth like fire, and burn that none can quench <span class=\"clarity-word\">it,</span> because of the evil of your doings.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "jeremiah-4-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Declare ye in Judah, and publish in Jerusalem; and say, Blow ye the trumpet in the land: cry, gather together, and say, Assemble yourselves, and let us go into the defenced cities.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "jeremiah-4-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Set up the standard toward Zion: retire, stay not: for I will bring evil from the north, and a great destruction.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "jeremiah-4-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "The lion is come up from his thicket, and the destroyer of the Gentiles is on his way; he is gone forth from his place to make thy land desolate; <span class=\"clarity-word\">and</span> thy cities shall be laid waste, without an inhabitant.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "jeremiah-4-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "For this gird you with sackcloth, lament and howl: for the fierce anger of the <span class=\"small-caps\">Lord</span> is not turned back from us.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "jeremiah-4-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And it shall come to pass at that day, saith the <span class=\"small-caps\">Lord</span>, <span class=\"clarity-word\">that</span> the heart of the king shall perish, and the heart of the princes; and the priests shall be astonished, and the prophets shall wonder.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "jeremiah-4-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Then said I, Ah, Lord <span class=\"small-caps\">God</span>! surely thou hast greatly deceived this people and Jerusalem, saying, Ye shall have peace; whereas the sword reacheth unto the soul.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "jeremiah-4-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "At that time shall it be said to this people and to Jerusalem, A dry wind of the high places in the wilderness toward the daughter of my people, not to fan, nor to cleanse,",
+      "churchId": "p11"
+    },
+    {
+      "slug": "jeremiah-4-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "<span class=\"clarity-word\">Even</span> a full wind from those <span class=\"clarity-word\">places</span> shall come unto me: now also will I give sentence against them.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "jeremiah-4-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Behold, he shall come up as clouds, and his chariots <span class=\"clarity-word\">shall be</span> as a whirlwind: his horses are swifter than eagles. Woe unto us! for we are spoiled.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "jeremiah-4-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "O Jerusalem, wash thine heart from wickedness, that thou mayest be saved. How long shall thy vain thoughts lodge within thee?",
+      "churchId": "p14"
+    },
+    {
+      "slug": "jeremiah-4-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "For a voice declareth from Dan, and publisheth affliction from mount Ephraim.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "jeremiah-4-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Make ye mention to the nations; behold, publish against Jerusalem, <span class=\"clarity-word\">that</span> watchers come from a far country, and give out their voice against the cities of Judah.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "jeremiah-4-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "As keepers of a field, are they against her round about; because she hath been rebellious against me, saith the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "jeremiah-4-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Thy way and thy doings have procured these <span class=\"clarity-word\">things</span> unto thee; this <span class=\"clarity-word\">is</span> thy wickedness, because it is bitter, because it reacheth unto thine heart.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "jeremiah-4-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "¶ My bowels, my bowels! I am pained at my very heart; my heart maketh a noise in me; I cannot hold my peace, because thou hast heard, O my soul, the sound of the trumpet, the alarm of war.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "jeremiah-4-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Destruction upon destruction is cried; for the whole land is spoiled: suddenly are my tents spoiled, <span class=\"clarity-word\">and</span> my curtains in a moment.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "jeremiah-4-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "How long shall I see the standard, <span class=\"clarity-word\">and</span> hear the sound of the trumpet?",
+      "churchId": "p21"
+    },
+    {
+      "slug": "jeremiah-4-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "For my people <span class=\"clarity-word\">is</span> foolish, they have not known me; they <span class=\"clarity-word\">are</span> sottish children, and they have none understanding: they <span class=\"clarity-word\">are</span> wise to do evil, but to do good they have no knowledge.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "jeremiah-4-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "I beheld the earth, and, lo, <span class=\"clarity-word\">it was</span> without form, and void; and the heavens, and they <span class=\"clarity-word\">had</span> no light.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "jeremiah-4-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "I beheld the mountains, and, lo, they trembled, and all the hills moved lightly.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "jeremiah-4-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "I beheld, and, lo, <span class=\"clarity-word\">there was</span> no man, and all the birds of the heavens were fled.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "jeremiah-4-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "I beheld, and, lo, the fruitful place <span class=\"clarity-word\">was</span> a wilderness, and all the cities thereof were broken down at the presence of the <span class=\"small-caps\">Lord</span>, <span class=\"clarity-word\">and</span> by his fierce anger.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "jeremiah-4-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "For thus hath the <span class=\"small-caps\">Lord</span> said, The whole land shall be desolate; yet will I not make a full end.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "jeremiah-4-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "For this shall the earth mourn, and the heavens above be black: because I have spoken <span class=\"clarity-word\">it,</span> I have purposed <span class=\"clarity-word\">it,</span> and will not repent, neither will I turn back from it.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "jeremiah-4-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "The whole city shall flee for the noise of the horsemen and bowmen; they shall go into thickets, and climb up upon the rocks: every city <span class=\"clarity-word\">shall be</span> forsaken, and not a man dwell therein.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "jeremiah-4-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And <span class=\"clarity-word\">when</span> thou <span class=\"clarity-word\">art</span> spoiled, what wilt thou do? Though thou clothest thyself with crimson, though thou deckest thee with ornaments of gold, though thou rentest thy face with painting, in vain shalt thou make thyself fair; <span class=\"clarity-word\">thy</span> lovers will despise thee, they will seek thy life.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "jeremiah-4-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "For I have heard a voice as of a woman in travail, <span class=\"clarity-word\">and</span> the anguish as of her that bringeth forth her first child, the voice of the daughter of Zion, <span class=\"clarity-word\">that</span> bewaileth herself, <span class=\"clarity-word\">that</span> spreadeth her hands, <span class=\"clarity-word\">saying,</span> Woe <span class=\"clarity-word\">is</span> me now! for my soul is wearied because of murderers.",
+      "churchId": "p31"
+    }
+  ]
+}

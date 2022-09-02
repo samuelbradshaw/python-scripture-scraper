@@ -1,0 +1,435 @@
+{
+  "name": "Acts 7",
+  "abbrev": "Acts 7",
+  "number": "7",
+  "churchUri": "/scriptures/nt/acts/7",
+  "paragraphs": [
+    {
+      "slug": "acts-7-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 7",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "acts-7-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Then said the high priest, Are these things so?",
+      "churchId": "p1"
+    },
+    {
+      "slug": "acts-7-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And he said, Men, brethren, and fathers, hearken; The God of glory appeared unto our father Abraham, when he was in Mesopotamia, before he dwelt in Charran,",
+      "churchId": "p2"
+    },
+    {
+      "slug": "acts-7-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And said unto him, Get thee out of thy country, and from thy kindred, and come into the land which I shall shew thee.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "acts-7-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Then came he out of the land of the Chaldæans, and dwelt in Charran: and from thence, when his father was dead, he removed him into this land, wherein ye now dwell.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "acts-7-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And he gave him none inheritance in it, no, not <span class=\"clarity-word\">so much as</span> to set his foot on: yet he promised that he would give it to him for a possession, and to his seed after him, when <span class=\"clarity-word\">as yet</span> he had no child.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "acts-7-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And God spake on this wise, That his seed should sojourn in a strange land; and that they should bring them into bondage, and entreat <span class=\"clarity-word\">them</span> evil four hundred years.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "acts-7-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And the nation to whom they shall be in bondage will I judge, said God: and after that shall they come forth, and serve me in this place.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "acts-7-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And he gave him the covenant of circumcision: and so <span class=\"clarity-word\">Abraham</span> begat Isaac, and circumcised him the eighth day; and Isaac <span class=\"clarity-word\">begat</span> Jacob; and Jacob <span class=\"clarity-word\">begat</span> the twelve patriarchs.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "acts-7-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And the patriarchs, moved with envy, sold Joseph into Egypt: but God was with him,",
+      "churchId": "p9"
+    },
+    {
+      "slug": "acts-7-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And delivered him out of all his afflictions, and gave him favour and wisdom in the sight of Pharaoh king of Egypt; and he made him governor over Egypt and all his house.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "acts-7-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Now there came a dearth over all the land of Egypt and Chanaan, and great affliction: and our fathers found no sustenance.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "acts-7-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "But when Jacob heard that there was corn in Egypt, he sent out our fathers first.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "acts-7-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And at the second <span class=\"clarity-word\">time</span> Joseph was made known to his brethren; and Joseph’s kindred was made known unto Pharaoh.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "acts-7-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Then sent Joseph, and called his father Jacob to <span class=\"clarity-word\">him,</span> and all his kindred, threescore and fifteen souls.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "acts-7-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "So Jacob went down into Egypt, and died, he, and our fathers,",
+      "churchId": "p15"
+    },
+    {
+      "slug": "acts-7-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And were carried over into Sychem, and laid in the sepulchre that Abraham bought for a sum of money of the sons of Emmor <span class=\"clarity-word\">the father</span> of Sychem.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "acts-7-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "But when the time of the promise drew nigh, which God had sworn to Abraham, the people grew and multiplied in Egypt,",
+      "churchId": "p17"
+    },
+    {
+      "slug": "acts-7-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Till another king arose, which knew not Joseph.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "acts-7-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "The same dealt subtilly with our kindred, and evil entreated our fathers, so that they cast out their young children, to the end they might not live.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "acts-7-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "In which time Moses was born, and was exceeding fair, and nourished up in his father’s house three months:",
+      "churchId": "p20"
+    },
+    {
+      "slug": "acts-7-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And when he was cast out, Pharaoh’s daughter took him up, and nourished him for her own son.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "acts-7-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And Moses was learned in all the wisdom of the Egyptians, and was mighty in words and in deeds.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "acts-7-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And when he was full forty years old, it came into his heart to visit his brethren the children of Israel.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "acts-7-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And seeing one <span class=\"clarity-word\">of them</span> suffer wrong, he defended <span class=\"clarity-word\">him,</span> and avenged him that was oppressed, and smote the Egyptian:",
+      "churchId": "p24"
+    },
+    {
+      "slug": "acts-7-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "For he supposed his brethren would have understood how that God by his hand would deliver them: but they understood not.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "acts-7-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And the next day he shewed himself unto them as they strove, and would have set them at one again, saying, Sirs, ye are brethren; why do ye wrong one to another?",
+      "churchId": "p26"
+    },
+    {
+      "slug": "acts-7-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "But he that did his neighbour wrong thrust him away, saying, Who made thee a ruler and a judge over us?",
+      "churchId": "p27"
+    },
+    {
+      "slug": "acts-7-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "Wilt thou kill me, as thou diddest the Egyptian yesterday?",
+      "churchId": "p28"
+    },
+    {
+      "slug": "acts-7-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "Then fled Moses at this saying, and was a stranger in the land of Madian, where he begat two sons.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "acts-7-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And when forty years were expired, there appeared to him in the wilderness of mount Sina an angel of the Lord in a flame of fire in a bush.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "acts-7-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "When Moses saw <span class=\"clarity-word\">it,</span> he wondered at the sight: and as he drew near to behold <span class=\"clarity-word\">it,</span> the voice of the Lord came unto him,",
+      "churchId": "p31"
+    },
+    {
+      "slug": "acts-7-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "<span class=\"clarity-word\">Saying,</span> I <span class=\"clarity-word\">am</span> the God of thy fathers, the God of Abraham, and the God of Isaac, and the God of Jacob. Then Moses trembled, and durst not behold.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "acts-7-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "Then said the Lord to him, Put off thy shoes from thy feet: for the place where thou standest is holy ground.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "acts-7-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "I have seen, I have seen the affliction of my people which is in Egypt, and I have heard their groaning, and am come down to deliver them. And now come, I will send thee into Egypt.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "acts-7-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "This Moses whom they refused, saying, Who made thee a ruler and a judge? the same did God send <span class=\"clarity-word\">to be</span> a ruler and a deliverer by the hand of the angel which appeared to him in the bush.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "acts-7-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "He brought them out, after that he had shewed wonders and signs in the land of Egypt, and in the Red sea, and in the wilderness forty years.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "acts-7-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "¶ This is that Moses, which said unto the children of Israel, A prophet shall the Lord your God raise up unto you of your brethren, like unto me; him shall ye hear.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "acts-7-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "This is he, that was in the church in the wilderness with the angel which spake to him in the mount Sina, and <span class=\"clarity-word\">with</span> our fathers: who received the lively oracles to give unto us:",
+      "churchId": "p38"
+    },
+    {
+      "slug": "acts-7-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "To whom our fathers would not obey, but thrust <span class=\"clarity-word\">him</span> from them, and in their hearts turned back again into Egypt,",
+      "churchId": "p39"
+    },
+    {
+      "slug": "acts-7-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "Saying unto Aaron, Make us gods to go before us: for <span class=\"clarity-word\">as for</span> this Moses, which brought us out of the land of Egypt, we wot not what is become of him.",
+      "churchId": "p40"
+    },
+    {
+      "slug": "acts-7-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "And they made a calf in those days, and offered sacrifice unto the idol, and rejoiced in the works of their own hands.",
+      "churchId": "p41"
+    },
+    {
+      "slug": "acts-7-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "Then God turned, and gave them up to worship the host of heaven; as it is written in the book of the prophets, O ye house of Israel, have ye offered to me slain beasts and sacrifices <span class=\"clarity-word\">by the space of</span> forty years in the wilderness?",
+      "churchId": "p42"
+    },
+    {
+      "slug": "acts-7-p43",
+      "type": "verse",
+      "number": "43",
+      "content": "Yea, ye took up the tabernacle of Moloch, and the star of your god Remphan, figures which ye made to worship them: and I will carry you away beyond Babylon.",
+      "churchId": "p43"
+    },
+    {
+      "slug": "acts-7-p44",
+      "type": "verse",
+      "number": "44",
+      "content": "Our fathers had the tabernacle of witness in the wilderness, as he had appointed, speaking unto Moses, that he should make it according to the fashion that he had seen.",
+      "churchId": "p44"
+    },
+    {
+      "slug": "acts-7-p45",
+      "type": "verse",
+      "number": "45",
+      "content": "Which also our fathers that came after brought in with Jesus into the possession of the Gentiles, whom God drave out before the face of our fathers, unto the days of David;",
+      "churchId": "p45"
+    },
+    {
+      "slug": "acts-7-p46",
+      "type": "verse",
+      "number": "46",
+      "content": "Who found favour before God, and desired to find a tabernacle for the God of Jacob.",
+      "churchId": "p46"
+    },
+    {
+      "slug": "acts-7-p47",
+      "type": "verse",
+      "number": "47",
+      "content": "But Solomon built him an house.",
+      "churchId": "p47"
+    },
+    {
+      "slug": "acts-7-p48",
+      "type": "verse",
+      "number": "48",
+      "content": "Howbeit the most High dwelleth not in temples made with hands; as saith the prophet,",
+      "churchId": "p48"
+    },
+    {
+      "slug": "acts-7-p49",
+      "type": "verse",
+      "number": "49",
+      "content": "Heaven <span class=\"clarity-word\">is</span> my throne, and earth <span class=\"clarity-word\">is</span> my footstool: what house will ye build me? saith the Lord: or what <span class=\"clarity-word\">is</span> the place of my rest?",
+      "churchId": "p49"
+    },
+    {
+      "slug": "acts-7-p50",
+      "type": "verse",
+      "number": "50",
+      "content": "Hath not my hand made all these things?",
+      "churchId": "p50"
+    },
+    {
+      "slug": "acts-7-p51",
+      "type": "verse",
+      "number": "51",
+      "content": "¶ Ye stiffnecked and uncircumcised in heart and ears, ye do always resist the Holy Ghost: as your fathers <span class=\"clarity-word\">did,</span> so <span class=\"clarity-word\">do</span> ye.",
+      "churchId": "p51"
+    },
+    {
+      "slug": "acts-7-p52",
+      "type": "verse",
+      "number": "52",
+      "content": "Which of the prophets have not your fathers persecuted? and they have slain them which shewed before of the coming of the Just One; of whom ye have been now the betrayers and murderers:",
+      "churchId": "p52"
+    },
+    {
+      "slug": "acts-7-p53",
+      "type": "verse",
+      "number": "53",
+      "content": "Who have received the law by the disposition of angels, and have not kept <span class=\"clarity-word\">it.</span>",
+      "churchId": "p53"
+    },
+    {
+      "slug": "acts-7-p54",
+      "type": "verse",
+      "number": "54",
+      "content": "¶ When they heard these things, they were cut to the heart, and they gnashed on him with <span class=\"clarity-word\">their</span> teeth.",
+      "churchId": "p54"
+    },
+    {
+      "slug": "acts-7-p55",
+      "type": "verse",
+      "number": "55",
+      "content": "But he, being full of the Holy Ghost, looked up steadfastly into heaven, and saw the glory of God, and Jesus standing on the right hand of God,",
+      "churchId": "p55"
+    },
+    {
+      "slug": "acts-7-p56",
+      "type": "verse",
+      "number": "56",
+      "content": "And said, Behold, I see the heavens opened, and the Son of man standing on the right hand of God.",
+      "churchId": "p56"
+    },
+    {
+      "slug": "acts-7-p57",
+      "type": "verse",
+      "number": "57",
+      "content": "Then they cried out with a loud voice, and stopped their ears, and ran upon him with one accord,",
+      "churchId": "p57"
+    },
+    {
+      "slug": "acts-7-p58",
+      "type": "verse",
+      "number": "58",
+      "content": "And cast <span class=\"clarity-word\">him</span> out of the city, and stoned <span class=\"clarity-word\">him:</span> and the witnesses laid down their clothes at a young man’s feet, whose name was Saul.",
+      "churchId": "p58"
+    },
+    {
+      "slug": "acts-7-p59",
+      "type": "verse",
+      "number": "59",
+      "content": "And they stoned Stephen, calling upon <span class=\"clarity-word\">God,</span> and saying, Lord Jesus, receive my spirit.",
+      "churchId": "p59"
+    },
+    {
+      "slug": "acts-7-p60",
+      "type": "verse",
+      "number": "60",
+      "content": "And he kneeled down, and cried with a loud voice, Lord, lay not this sin to their charge. And when he had said this, he fell asleep.",
+      "churchId": "p60"
+    }
+  ]
+}

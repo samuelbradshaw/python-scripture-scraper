@@ -1,0 +1,106 @@
+{
+  "name": "Psalm 5",
+  "abbrev": "Psalm 5",
+  "number": "5",
+  "churchUri": "/scriptures/ot/ps/5",
+  "paragraphs": [
+    {
+      "slug": "psalm-5-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 5",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-5-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "To the chief Musician upon Nehiloth, A Psalm of David.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-5-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Give ear to my words, O <span class=\"small-caps\">Lord</span>, consider my meditation.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-5-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Hearken unto the voice of my cry, my King, and my God: for unto thee will I pray.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-5-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "My voice shalt thou hear in the morning, O <span class=\"small-caps\">Lord</span>; in the morning will I direct <span class=\"clarity-word\">my prayer</span> unto thee, and will look up.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-5-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "For thou <span class=\"clarity-word\">art</span> not a God that hath pleasure in wickedness: neither shall evil dwell with thee.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-5-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "The foolish shall not stand in thy sight: thou hatest all workers of iniquity.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-5-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Thou shalt destroy them that speak leasing: the <span class=\"small-caps\">Lord</span> will abhor the bloody and deceitful man.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-5-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "But as for me, I will come <span class=\"clarity-word\">into</span> thy house in the multitude of thy mercy: <span class=\"clarity-word\">and</span> in thy fear will I worship toward thy holy temple.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-5-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Lead me, O <span class=\"small-caps\">Lord</span>, in thy righteousness because of mine enemies; make thy way straight before my face.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "psalm-5-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "For <span class=\"clarity-word\">there is</span> no faithfulness in their mouth; their inward part <span class=\"clarity-word\">is</span> very wickedness; their throat <span class=\"clarity-word\">is</span> an open sepulchre; they flatter with their tongue.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "psalm-5-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Destroy thou them, O God; let them fall by their own counsels; cast them out in the multitude of their transgressions; for they have rebelled against thee.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "psalm-5-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "But let all those that put their trust in thee rejoice: let them ever shout for joy, because thou defendest them: let them also that love thy name be joyful in thee.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "psalm-5-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "For thou, <span class=\"small-caps\">Lord</span>, wilt bless the righteous; with favour wilt thou compass him as <span class=\"clarity-word\">with</span> a shield.",
+      "churchId": "p12"
+    }
+  ]
+}

@@ -1,0 +1,316 @@
+{
+  "name": "Mark 5",
+  "abbrev": "Mark 5",
+  "number": "5",
+  "churchUri": "/scriptures/nt/mark/5",
+  "paragraphs": [
+    {
+      "slug": "mark-5-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 5",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "mark-5-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And they came over unto the other side of the sea, into the country of the Gadarenes.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "mark-5-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And when he was come out of the ship, immediately there met him out of the tombs a man with an unclean spirit,",
+      "churchId": "p2"
+    },
+    {
+      "slug": "mark-5-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Who had <span class=\"clarity-word\">his</span> dwelling among the tombs; and no man could bind him, no, not with chains:",
+      "churchId": "p3"
+    },
+    {
+      "slug": "mark-5-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Because that he had been often bound with fetters and chains, and the chains had been plucked asunder by him, and the fetters broken in pieces: neither could any <span class=\"clarity-word\">man</span> tame him.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "mark-5-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And always, night and day, he was in the mountains, and in the tombs, crying, and cutting himself with stones.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "mark-5-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "But when he saw Jesus afar off, he ran and worshipped him,",
+      "churchId": "p6"
+    },
+    {
+      "slug": "mark-5-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And cried with a loud voice, and said, What have I to do with thee, Jesus, <span class=\"clarity-word\">thou</span> Son of the most high God? I adjure thee by God, that thou torment me not.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "mark-5-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "For he said unto him, Come out of the man, <span class=\"clarity-word\">thou</span> unclean spirit.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "mark-5-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And he asked him, What <span class=\"clarity-word\">is</span> thy name? And he answered, saying, My name <span class=\"clarity-word\">is</span> Legion: for we are many.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "mark-5-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And he besought him much that he would not send them away out of the country.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "mark-5-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Now there was there nigh unto the mountains a great herd of swine feeding.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "mark-5-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And all the devils besought him, saying, Send us into the swine, that we may enter into them.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "mark-5-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And forthwith Jesus gave them leave. And the unclean spirits went out, and entered into the swine: and the herd ran violently down a steep place into the sea, (they were about two thousand;) and were choked in the sea.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "mark-5-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And they that fed the swine fled, and told <span class=\"clarity-word\">it</span> in the city, and in the country. And they went out to see what it was that was done.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "mark-5-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And they come to Jesus, and see him that was possessed with the devil, and had the legion, sitting, and clothed, and in his right mind: and they were afraid.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "mark-5-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And they that saw <span class=\"clarity-word\">it</span> told them how it befell to him that was possessed with the devil, and <span class=\"clarity-word\">also</span> concerning the swine.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "mark-5-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And they began to pray him to depart out of their coasts.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "mark-5-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And when he was come into the ship, he that had been possessed with the devil prayed him that he might be with him.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "mark-5-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Howbeit Jesus suffered him not, but saith unto him, Go home to thy friends, and tell them how great things the Lord hath done for thee, and hath had compassion on thee.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "mark-5-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And he departed, and began to publish in Decapolis how great things Jesus had done for him: and all <span class=\"clarity-word\">men</span> did marvel.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "mark-5-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And when Jesus was passed over again by ship unto the other side, much people gathered unto him: and he was nigh unto the sea.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "mark-5-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And, behold, there cometh one of the rulers of the synagogue, Jairus by name; and when he saw him, he fell at his feet,",
+      "churchId": "p22"
+    },
+    {
+      "slug": "mark-5-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And besought him greatly, saying, My little daughter lieth at the point of death: <span class=\"clarity-word\">I pray thee,</span> come and lay thy hands on her, that she may be healed; and she shall live.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "mark-5-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And <span class=\"clarity-word\">Jesus</span> went with him; and much people followed him, and thronged him.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "mark-5-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And a certain woman, which had an issue of blood twelve years,",
+      "churchId": "p25"
+    },
+    {
+      "slug": "mark-5-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And had suffered many things of many physicians, and had spent all that she had, and was nothing bettered, but rather grew worse,",
+      "churchId": "p26"
+    },
+    {
+      "slug": "mark-5-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "When she had heard of Jesus, came in the press behind, and touched his garment.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "mark-5-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "For she said, If I may touch but his clothes, I shall be whole.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "mark-5-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "And straightway the fountain of her blood was dried up; and she felt in <span class=\"clarity-word\">her</span> body that she was healed of that plague.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "mark-5-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And Jesus, immediately knowing in himself that virtue had gone out of him, turned him about in the press, and said, Who touched my clothes?",
+      "churchId": "p30"
+    },
+    {
+      "slug": "mark-5-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "And his disciples said unto him, Thou seest the multitude thronging thee, and sayest thou, Who touched me?",
+      "churchId": "p31"
+    },
+    {
+      "slug": "mark-5-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "And he looked round about to see her that had done this thing.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "mark-5-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "But the woman fearing and trembling, knowing what was done in her, came and fell down before him, and told him all the truth.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "mark-5-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "And he said unto her, Daughter, thy faith hath made thee whole; go in peace, and be whole of thy plague.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "mark-5-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "While he yet spake, there came from the ruler of the synagogue’s <span class=\"clarity-word\">house certain</span> which said, Thy daughter is dead: why troublest thou the Master any further?",
+      "churchId": "p35"
+    },
+    {
+      "slug": "mark-5-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "As soon as Jesus heard the word that was spoken, he saith unto the ruler of the synagogue, Be not afraid, only believe.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "mark-5-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "And he suffered no man to follow him, save Peter, and James, and John the brother of James.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "mark-5-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "And he cometh to the house of the ruler of the synagogue, and seeth the tumult, and them that wept and wailed greatly.",
+      "churchId": "p38"
+    },
+    {
+      "slug": "mark-5-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "And when he was come in, he saith unto them, Why make ye this ado, and weep? the damsel is not dead, but sleepeth.",
+      "churchId": "p39"
+    },
+    {
+      "slug": "mark-5-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "And they laughed him to scorn. But when he had put them all out, he taketh the father and the mother of the damsel, and them that were with him, and entereth in where the damsel was lying.",
+      "churchId": "p40"
+    },
+    {
+      "slug": "mark-5-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "And he took the damsel by the hand, and said unto her, Talitha cumi; which is, being interpreted, Damsel, I say unto thee, arise.",
+      "churchId": "p41"
+    },
+    {
+      "slug": "mark-5-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "And straightway the damsel arose, and walked; for she was <span class=\"clarity-word\">of the age</span> of twelve years. And they were astonished with a great astonishment.",
+      "churchId": "p42"
+    },
+    {
+      "slug": "mark-5-p43",
+      "type": "verse",
+      "number": "43",
+      "content": "And he charged them straitly that no man should know it; and commanded that something should be given her to eat.",
+      "churchId": "p43"
+    }
+  ]
+}

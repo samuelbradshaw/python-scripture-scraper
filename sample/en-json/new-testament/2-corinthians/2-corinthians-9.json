@@ -1,0 +1,120 @@
+{
+  "name": "2 Corinthians 9",
+  "abbrev": "2 Cor. 9",
+  "number": "9",
+  "churchUri": "/scriptures/nt/2-cor/9",
+  "paragraphs": [
+    {
+      "slug": "2-corinthians-9-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 9",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "2-corinthians-9-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "For as touching the ministering to the saints, it is superfluous for me to write to you:",
+      "churchId": "p1"
+    },
+    {
+      "slug": "2-corinthians-9-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "For I know the forwardness of your mind, for which I boast of you to them of Macedonia, that Achaia was ready a year ago; and your zeal hath provoked very many.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "2-corinthians-9-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Yet have I sent the brethren, lest our boasting of you should be in vain in this behalf; that, as I said, ye may be ready:",
+      "churchId": "p3"
+    },
+    {
+      "slug": "2-corinthians-9-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Lest haply if they of Macedonia come with me, and find you unprepared, we (that we say not, ye) should be ashamed in this same confident boasting.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "2-corinthians-9-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Therefore I thought it necessary to exhort the brethren, that they would go before unto you, and make up beforehand your bounty, whereof ye had notice before, that the same might be ready, as <span class=\"clarity-word\">a matter of</span> bounty, and not as <span class=\"clarity-word\">of</span> covetousness.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "2-corinthians-9-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "But this <span class=\"clarity-word\">I say,</span> He which soweth sparingly shall reap also sparingly; and he which soweth bountifully shall reap also bountifully.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "2-corinthians-9-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Every man according as he purposeth in his heart, <span class=\"clarity-word\">so let him give;</span> not grudgingly, or of necessity: for God loveth a cheerful giver.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "2-corinthians-9-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And God <span class=\"clarity-word\">is</span> able to make all grace abound toward you; that ye, always having all sufficiency in all <span class=\"clarity-word\">things,</span> may abound to every good work:",
+      "churchId": "p8"
+    },
+    {
+      "slug": "2-corinthians-9-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "(As it is written, He hath dispersed abroad; he hath given to the poor: his righteousness remaineth for ever.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "2-corinthians-9-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Now he that ministereth seed to the sower both minister bread for <span class=\"clarity-word\">your</span> food, and multiply your seed sown, and increase the fruits of your righteousness;)",
+      "churchId": "p10"
+    },
+    {
+      "slug": "2-corinthians-9-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Being enriched in every thing to all bountifulness, which causeth through us thanksgiving to God.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "2-corinthians-9-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "For the administration of this service not only supplieth the want of the saints, but is abundant also by many thanksgivings unto God;",
+      "churchId": "p12"
+    },
+    {
+      "slug": "2-corinthians-9-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Whiles by the experiment of this ministration they glorify God for your professed subjection unto the gospel of Christ, and for <span class=\"clarity-word\">your</span> liberal distribution unto them, and unto all <span class=\"clarity-word\">men;</span>",
+      "churchId": "p13"
+    },
+    {
+      "slug": "2-corinthians-9-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And by their prayer for you, which long after you for the exceeding grace of God in you.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "2-corinthians-9-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Thanks <span class=\"clarity-word\">be</span> unto God for his unspeakable gift.",
+      "churchId": "p15"
+    }
+  ]
+}

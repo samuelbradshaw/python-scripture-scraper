@@ -1,0 +1,190 @@
+{
+  "name": "Matthew 4",
+  "abbrev": "Matt. 4",
+  "number": "4",
+  "churchUri": "/scriptures/nt/matt/4",
+  "paragraphs": [
+    {
+      "slug": "matthew-4-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 4",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "matthew-4-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Then was Jesus led up of the Spirit into the wilderness to be tempted of the devil.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "matthew-4-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And when he had fasted forty days and forty nights, he was afterward an hungred.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "matthew-4-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And when the tempter came to him, he said, If thou be the Son of God, command that these stones be made bread.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "matthew-4-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "But he answered and said, It is written, Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "matthew-4-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Then the devil taketh him up into the holy city, and setteth him on a pinnacle of the temple,",
+      "churchId": "p5"
+    },
+    {
+      "slug": "matthew-4-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And saith unto him, If thou be the Son of God, cast thyself down: for it is written, He shall give his angels charge concerning thee: and in <span class=\"clarity-word\">their</span> hands they shall bear thee up, lest at any time thou dash thy foot against a stone.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "matthew-4-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Jesus said unto him, It is written again, Thou shalt not tempt the Lord thy God.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "matthew-4-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Again, the devil taketh him up into an exceeding high mountain, and sheweth him all the kingdoms of the world, and the glory of them;",
+      "churchId": "p8"
+    },
+    {
+      "slug": "matthew-4-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And saith unto him, All these things will I give thee, if thou wilt fall down and worship me.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "matthew-4-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Then saith Jesus unto him, Get thee hence, Satan: for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "matthew-4-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Then the devil leaveth him, and, behold, angels came and ministered unto him.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "matthew-4-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "¶ Now when Jesus had heard that John was cast into prison, he departed into Galilee;",
+      "churchId": "p12"
+    },
+    {
+      "slug": "matthew-4-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And leaving Nazareth, he came and dwelt in Capernaum, which is upon the sea coast, in the borders of Zabulon and Nephthalim:",
+      "churchId": "p13"
+    },
+    {
+      "slug": "matthew-4-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "That it might be fulfilled which was spoken by Esaias the prophet, saying,",
+      "churchId": "p14"
+    },
+    {
+      "slug": "matthew-4-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "The land of Zabulon, and the land of Nephthalim, <span class=\"clarity-word\">by</span> the way of the sea, beyond Jordan, Galilee of the Gentiles;",
+      "churchId": "p15"
+    },
+    {
+      "slug": "matthew-4-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "The people which sat in darkness saw great light; and to them which sat in the region and shadow of death light is sprung up.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "matthew-4-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "¶ From that time Jesus began to preach, and to say, Repent: for the kingdom of heaven is at hand.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "matthew-4-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "¶ And Jesus, walking by the sea of Galilee, saw two brethren, Simon called Peter, and Andrew his brother, casting a net into the sea: for they were fishers.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "matthew-4-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And he saith unto them, Follow me, and I will make you fishers of men.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "matthew-4-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And they straightway left <span class=\"clarity-word\">their</span> nets, and followed him.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "matthew-4-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And going on from thence, he saw other two brethren, James <span class=\"clarity-word\">the son</span> of Zebedee, and John his brother, in a ship with Zebedee their father, mending their nets; and he called them.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "matthew-4-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And they immediately left the ship and their father, and followed him.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "matthew-4-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "¶ And Jesus went about all Galilee, teaching in their synagogues, and preaching the gospel of the kingdom, and healing all manner of sickness and all manner of disease among the people.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "matthew-4-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And his fame went throughout all Syria: and they brought unto him all sick people that were taken with divers diseases and torments, and those which were possessed with devils, and those which were lunatic, and those that had the palsy; and he healed them.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "matthew-4-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And there followed him great multitudes of people from Galilee, and <span class=\"clarity-word\">from</span> Decapolis, and <span class=\"clarity-word\">from</span> Jerusalem, and <span class=\"clarity-word\">from</span> Judæa, and <span class=\"clarity-word\">from</span> beyond Jordan.",
+      "churchId": "p25"
+    }
+  ]
+}

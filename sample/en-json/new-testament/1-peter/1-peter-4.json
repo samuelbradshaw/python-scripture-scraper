@@ -1,0 +1,148 @@
+{
+  "name": "1 Peter 4",
+  "abbrev": "1 Pet. 4",
+  "number": "4",
+  "churchUri": "/scriptures/nt/1-pet/4",
+  "paragraphs": [
+    {
+      "slug": "1-peter-4-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 4",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "1-peter-4-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Forasmuch then as Christ hath suffered for us in the flesh, arm yourselves likewise with the same mind: for he that hath suffered in the flesh hath ceased from sin;",
+      "churchId": "p1"
+    },
+    {
+      "slug": "1-peter-4-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "That he no longer should live the rest of <span class=\"clarity-word\">his</span> time in the flesh to the lusts of men, but to the will of God.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "1-peter-4-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "For the time past of <span class=\"clarity-word\">our</span> life may suffice us to have wrought the will of the Gentiles, when we walked in lasciviousness, lusts, excess of wine, revellings, banquetings, and abominable idolatries:",
+      "churchId": "p3"
+    },
+    {
+      "slug": "1-peter-4-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Wherein they think it strange that ye run not with <span class=\"clarity-word\">them</span> to the same excess of riot, speaking evil of <span class=\"clarity-word\">you:</span>",
+      "churchId": "p4"
+    },
+    {
+      "slug": "1-peter-4-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Who shall give account to him that is ready to judge the quick and the dead.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "1-peter-4-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "For for this cause was the gospel preached also to them that are dead, that they might be judged according to men in the flesh, but live according to God in the spirit.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "1-peter-4-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "But the end of all things is at hand: be ye therefore sober, and watch unto prayer.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "1-peter-4-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And above all things have fervent charity among yourselves: for charity shall cover the multitude of sins.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "1-peter-4-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Use hospitality one to another without grudging.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "1-peter-4-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "As every man hath received the gift, <span class=\"clarity-word\">even so</span> minister the same one to another, as good stewards of the manifold grace of God.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "1-peter-4-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "If any man speak, <span class=\"clarity-word\">let him speak</span> as the oracles of God; if any man minister, <span class=\"clarity-word\">let him do it</span> as of the ability which God giveth: that God in all things may be glorified through Jesus Christ, to whom be praise and dominion for ever and ever. Amen.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "1-peter-4-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Beloved, think it not strange concerning the fiery trial which is to try you, as though some strange thing happened unto you:",
+      "churchId": "p12"
+    },
+    {
+      "slug": "1-peter-4-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "But rejoice, inasmuch as ye are partakers of Christ’s sufferings; that, when his glory shall be revealed, ye may be glad also with exceeding joy.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "1-peter-4-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "If ye be reproached for the name of Christ, happy <span class=\"clarity-word\">are ye;</span> for the spirit of glory and of God resteth upon you: on their part he is evil spoken of, but on your part he is glorified.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "1-peter-4-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "But let none of you suffer as a murderer, or <span class=\"clarity-word\">as</span> a thief, or <span class=\"clarity-word\">as</span> an evildoer, or as a busybody in other men’s matters.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "1-peter-4-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Yet if <span class=\"clarity-word\">any man suffer</span> as a Christian, let him not be ashamed; but let him glorify God on this behalf.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "1-peter-4-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "For the time <span class=\"clarity-word\">is come</span> that judgment must begin at the house of God: and if <span class=\"clarity-word\">it</span> first <span class=\"clarity-word\">begin</span> at us, what shall the end <span class=\"clarity-word\">be</span> of them that obey not the gospel of God?",
+      "churchId": "p17"
+    },
+    {
+      "slug": "1-peter-4-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And if the righteous scarcely be saved, where shall the ungodly and the sinner appear?",
+      "churchId": "p18"
+    },
+    {
+      "slug": "1-peter-4-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Wherefore let them that suffer according to the will of God commit the keeping of their souls <span class=\"clarity-word\">to him</span> in well doing, as unto a faithful Creator.",
+      "churchId": "p19"
+    }
+  ]
+}

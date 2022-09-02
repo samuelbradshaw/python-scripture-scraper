@@ -1,0 +1,211 @@
+{
+  "name": "Proverbs 12",
+  "abbrev": "Prov. 12",
+  "number": "12",
+  "churchUri": "/scriptures/ot/prov/12",
+  "paragraphs": [
+    {
+      "slug": "proverbs-12-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 12",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "proverbs-12-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Whoso loveth instruction loveth knowledge: but he that hateth reproof <span class=\"clarity-word\">is</span> brutish.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "proverbs-12-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "A good <span class=\"clarity-word\">man</span> obtaineth favour of the <span class=\"small-caps\">Lord</span>: but a man of wicked devices will he condemn.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "proverbs-12-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "A man shall not be established by wickedness: but the root of the righteous shall not be moved.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "proverbs-12-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "A virtuous woman <span class=\"clarity-word\">is</span> a crown to her husband: but she that maketh ashamed <span class=\"clarity-word\">is</span> as rottenness in his bones.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "proverbs-12-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "The thoughts of the righteous <span class=\"clarity-word\">are</span> right: <span class=\"clarity-word\">but</span> the counsels of the wicked <span class=\"clarity-word\">are</span> deceit.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "proverbs-12-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "The words of the wicked <span class=\"clarity-word\">are</span> to lie in wait for blood: but the mouth of the upright shall deliver them.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "proverbs-12-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "The wicked are overthrown, and <span class=\"clarity-word\">are</span> not: but the house of the righteous shall stand.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "proverbs-12-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "A man shall be commended according to his wisdom: but he that is of a perverse heart shall be despised.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "proverbs-12-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "<span class=\"clarity-word\">He that is</span> despised, and hath a servant, <span class=\"clarity-word\">is</span> better than he that honoureth himself, and lacketh bread.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "proverbs-12-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "A righteous <span class=\"clarity-word\">man</span> regardeth the life of his beast: but the tender mercies of the wicked <span class=\"clarity-word\">are</span> cruel.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "proverbs-12-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "He that tilleth his land shall be satisfied with bread: but he that followeth vain <span class=\"clarity-word\">persons is</span> void of understanding.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "proverbs-12-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "The wicked desireth the net of evil <span class=\"clarity-word\">men:</span> but the root of the righteous yieldeth <span class=\"clarity-word\">fruit.</span>",
+      "churchId": "p12"
+    },
+    {
+      "slug": "proverbs-12-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "The wicked is snared by the transgression of <span class=\"clarity-word\">his</span> lips: but the just shall come out of trouble.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "proverbs-12-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "A man shall be satisfied with good by the fruit of <span class=\"clarity-word\">his</span> mouth: and the recompence of a man’s hands shall be rendered unto him.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "proverbs-12-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "The way of a fool <span class=\"clarity-word\">is</span> right in his own eyes: but he that hearkeneth unto counsel <span class=\"clarity-word\">is</span> wise.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "proverbs-12-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "A fool’s wrath is presently known: but a prudent <span class=\"clarity-word\">man</span> covereth shame.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "proverbs-12-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "<span class=\"clarity-word\">He that</span> speaketh truth sheweth forth righteousness: but a false witness deceit.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "proverbs-12-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "There is that speaketh like the piercings of a sword: but the tongue of the wise <span class=\"clarity-word\">is</span> health.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "proverbs-12-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "The lip of truth shall be established for ever: but a lying tongue <span class=\"clarity-word\">is</span> but for a moment.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "proverbs-12-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Deceit <span class=\"clarity-word\">is</span> in the heart of them that imagine evil: but to the counsellors of peace <span class=\"clarity-word\">is</span> joy.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "proverbs-12-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "There shall no evil happen to the just: but the wicked shall be filled with mischief.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "proverbs-12-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Lying lips <span class=\"clarity-word\">are</span> abomination to the <span class=\"small-caps\">Lord</span>: but they that deal truly <span class=\"clarity-word\">are</span> his delight.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "proverbs-12-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "A prudent man concealeth knowledge: but the heart of fools proclaimeth foolishness.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "proverbs-12-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "The hand of the diligent shall bear rule: but the slothful shall be under tribute.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "proverbs-12-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Heaviness in the heart of man maketh it stoop: but a good word maketh it glad.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "proverbs-12-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "The righteous <span class=\"clarity-word\">is</span> more excellent than his neighbour: but the way of the wicked seduceth them.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "proverbs-12-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "The slothful <span class=\"clarity-word\">man</span> roasteth not that which he took in hunting: but the substance of a diligent man <span class=\"clarity-word\">is</span> precious.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "proverbs-12-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "In the way of righteousness <span class=\"clarity-word\">is</span> life; and <span class=\"clarity-word\">in</span> the pathway <span class=\"clarity-word\">thereof there is</span> no death.",
+      "churchId": "p28"
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "name": "Luke 15",
+  "abbrev": "Luke 15",
+  "number": "15",
+  "churchUri": "/scriptures/nt/luke/15",
+  "paragraphs": [
+    {
+      "slug": "luke-15-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 15",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "luke-15-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Then drew near unto him all the publicans and sinners for to hear him.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "luke-15-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And the Pharisees and scribes murmured, saying, This man receiveth sinners, and eateth with them.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "luke-15-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "¶ And he spake this parable unto them, saying,",
+      "churchId": "p3"
+    },
+    {
+      "slug": "luke-15-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "What man of you, having an hundred sheep, if he lose one of them, doth not leave the ninety and nine in the wilderness, and go after that which is lost, until he find it?",
+      "churchId": "p4"
+    },
+    {
+      "slug": "luke-15-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And when he hath found <span class=\"clarity-word\">it,</span> he layeth <span class=\"clarity-word\">it</span> on his shoulders, rejoicing.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "luke-15-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And when he cometh home, he calleth together <span class=\"clarity-word\">his</span> friends and neighbours, saying unto them, Rejoice with me; for I have found my sheep which was lost.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "luke-15-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "I say unto you, that likewise joy shall be in heaven over one sinner that repenteth, more than over ninety and nine just persons, which need no repentance.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "luke-15-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "¶ Either what woman having ten pieces of silver, if she lose one piece, doth not light a candle, and sweep the house, and seek diligently till she find <span class=\"clarity-word\">it?</span>",
+      "churchId": "p8"
+    },
+    {
+      "slug": "luke-15-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And when she hath found <span class=\"clarity-word\">it,</span> she calleth <span class=\"clarity-word\">her</span> friends and <span class=\"clarity-word\">her</span> neighbours together, saying, Rejoice with me; for I have found the piece which I had lost.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "luke-15-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Likewise, I say unto you, there is joy in the presence of the angels of God over one sinner that repenteth.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "luke-15-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "¶ And he said, A certain man had two sons:",
+      "churchId": "p11"
+    },
+    {
+      "slug": "luke-15-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And the younger of them said to <span class=\"clarity-word\">his</span> father, Father, give me the portion of goods that falleth <span class=\"clarity-word\">to me.</span> And he divided unto them <span class=\"clarity-word\">his</span> living.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "luke-15-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And not many days after the younger son gathered all together, and took his journey into a far country, and there wasted his substance with riotous living.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "luke-15-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And when he had spent all, there arose a mighty famine in that land; and he began to be in want.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "luke-15-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And he went and joined himself to a citizen of that country; and he sent him into his fields to feed swine.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "luke-15-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And he would fain have filled his belly with the husks that the swine did eat: and no man gave unto him.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "luke-15-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And when he came to himself, he said, How many hired servants of my father’s have bread enough and to spare, and I perish with hunger!",
+      "churchId": "p17"
+    },
+    {
+      "slug": "luke-15-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "I will arise and go to my father, and will say unto him, Father, I have sinned against heaven, and before thee,",
+      "churchId": "p18"
+    },
+    {
+      "slug": "luke-15-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And am no more worthy to be called thy son: make me as one of thy hired servants.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "luke-15-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And he arose, and came to his father. But when he was yet a great way off, his father saw him, and had compassion, and ran, and fell on his neck, and kissed him.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "luke-15-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And the son said unto him, Father, I have sinned against heaven, and in thy sight, and am no more worthy to be called thy son.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "luke-15-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "But the father said to his servants, Bring forth the best robe, and put <span class=\"clarity-word\">it</span> on him; and put a ring on his hand, and shoes on <span class=\"clarity-word\">his</span> feet:",
+      "churchId": "p22"
+    },
+    {
+      "slug": "luke-15-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And bring hither the fatted calf, and kill <span class=\"clarity-word\">it;</span> and let us eat, and be merry:",
+      "churchId": "p23"
+    },
+    {
+      "slug": "luke-15-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "For this my son was dead, and is alive again; he was lost, and is found. And they began to be merry.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "luke-15-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Now his elder son was in the field: and as he came and drew nigh to the house, he heard musick and dancing.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "luke-15-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And he called one of the servants, and asked what these things meant.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "luke-15-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And he said unto him, Thy brother is come; and thy father hath killed the fatted calf, because he hath received him safe and sound.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "luke-15-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And he was angry, and would not go in: therefore came his father out, and entreated him.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "luke-15-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "And he answering said to <span class=\"clarity-word\">his</span> father, Lo, these many years do I serve thee, neither transgressed I at any time thy commandment: and yet thou never gavest me a kid, that I might make merry with my friends:",
+      "churchId": "p29"
+    },
+    {
+      "slug": "luke-15-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "But as soon as this thy son was come, which hath devoured thy living with harlots, thou hast killed for him the fatted calf.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "luke-15-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "And he said unto him, Son, thou art ever with me, and all that I have is thine.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "luke-15-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "It was meet that we should make merry, and be glad: for this thy brother was dead, and is alive again; and was lost, and is found.",
+      "churchId": "p32"
+    }
+  ]
+}

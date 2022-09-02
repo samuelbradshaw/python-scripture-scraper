@@ -1,0 +1,295 @@
+{
+  "name": "John 18",
+  "abbrev": "John 18",
+  "number": "18",
+  "churchUri": "/scriptures/nt/john/18",
+  "paragraphs": [
+    {
+      "slug": "john-18-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 18",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "john-18-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "When Jesus had spoken these words, he went forth with his disciples over the brook Cedron, where was a garden, into the which he entered, and his disciples.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "john-18-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And Judas also, which betrayed him, knew the place: for Jesus ofttimes resorted thither with his disciples.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "john-18-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Judas then, having received a band <span class=\"clarity-word\">of men</span> and officers from the chief priests and Pharisees, cometh thither with lanterns and torches and weapons.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "john-18-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Jesus therefore, knowing all things that should come upon him, went forth, and said unto them, Whom seek ye?",
+      "churchId": "p4"
+    },
+    {
+      "slug": "john-18-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "They answered him, Jesus of Nazareth. Jesus saith unto them, I am <span class=\"clarity-word\">he.</span> And Judas also, which betrayed him, stood with them.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "john-18-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "As soon then as he had said unto them, I am <span class=\"clarity-word\">he,</span> they went backward, and fell to the ground.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "john-18-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Then asked he them again, Whom seek ye? And they said, Jesus of Nazareth.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "john-18-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Jesus answered, I have told you that I am <span class=\"clarity-word\">he:</span> if therefore ye seek me, let these go their way:",
+      "churchId": "p8"
+    },
+    {
+      "slug": "john-18-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "That the saying might be fulfilled, which he spake, Of them which thou gavest me have I lost none.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "john-18-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Then Simon Peter having a sword drew it, and smote the high priest’s servant, and cut off his right ear. The servant’s name was Malchus.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "john-18-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Then said Jesus unto Peter, Put up thy sword into the sheath: the cup which my Father hath given me, shall I not drink it?",
+      "churchId": "p11"
+    },
+    {
+      "slug": "john-18-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Then the band and the captain and officers of the Jews took Jesus, and bound him,",
+      "churchId": "p12"
+    },
+    {
+      "slug": "john-18-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And led him away to Annas first; for he was father in law to Caiaphas, which was the high priest that same year.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "john-18-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Now Caiaphas was he, which gave counsel to the Jews, that it was expedient that one man should die for the people.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "john-18-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "¶ And Simon Peter followed Jesus, and <span class=\"clarity-word\">so did</span> another disciple: that disciple was known unto the high priest, and went in with Jesus into the palace of the high priest.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "john-18-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "But Peter stood at the door without. Then went out that other disciple, which was known unto the high priest, and spake unto her that kept the door, and brought in Peter.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "john-18-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Then saith the damsel that kept the door unto Peter, Art not thou also <span class=\"clarity-word\">one</span> of this man’s disciples? He saith, I am not.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "john-18-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And the servants and officers stood there, who had made a fire of coals; for it was cold: and they warmed themselves: and Peter stood with them, and warmed himself.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "john-18-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "¶ The high priest then asked Jesus of his disciples, and of his doctrine.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "john-18-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Jesus answered him, I spake openly to the world; I ever taught in the synagogue, and in the temple, whither the Jews always resort; and in secret have I said nothing.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "john-18-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Why askest thou me? ask them which heard me, what I have said unto them: behold, they know what I said.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "john-18-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And when he had thus spoken, one of the officers which stood by struck Jesus with the palm of his hand, saying, Answerest thou the high priest so?",
+      "churchId": "p22"
+    },
+    {
+      "slug": "john-18-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Jesus answered him, If I have spoken evil, bear witness of the evil: but if well, why smitest thou me?",
+      "churchId": "p23"
+    },
+    {
+      "slug": "john-18-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Now Annas had sent him bound unto Caiaphas the high priest.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "john-18-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And Simon Peter stood and warmed himself. They said therefore unto him, Art not thou also <span class=\"clarity-word\">one</span> of his disciples? He denied <span class=\"clarity-word\">it,</span> and said, I am not.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "john-18-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "One of the servants of the high priest, being <span class=\"clarity-word\">his</span> kinsman whose ear Peter cut off, saith, Did not I see thee in the garden with him?",
+      "churchId": "p26"
+    },
+    {
+      "slug": "john-18-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "Peter then denied again: and immediately the cock crew.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "john-18-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "¶ Then led they Jesus from Caiaphas unto the hall of judgment: and it was early; and they themselves went not into the judgment hall, lest they should be defiled; but that they might eat the passover.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "john-18-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "Pilate then went out unto them, and said, What accusation bring ye against this man?",
+      "churchId": "p29"
+    },
+    {
+      "slug": "john-18-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "They answered and said unto him, If he were not a malefactor, we would not have delivered him up unto thee.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "john-18-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "Then said Pilate unto them, Take ye him, and judge him according to your law. The Jews therefore said unto him, It is not lawful for us to put any man to death:",
+      "churchId": "p31"
+    },
+    {
+      "slug": "john-18-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "That the saying of Jesus might be fulfilled, which he spake, signifying what death he should die.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "john-18-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "Then Pilate entered into the judgment hall again, and called Jesus, and said unto him, Art thou the King of the Jews?",
+      "churchId": "p33"
+    },
+    {
+      "slug": "john-18-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "Jesus answered him, Sayest thou this thing of thyself, or did others tell it thee of me?",
+      "churchId": "p34"
+    },
+    {
+      "slug": "john-18-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "Pilate answered, Am I a Jew? Thine own nation and the chief priests have delivered thee unto me: what hast thou done?",
+      "churchId": "p35"
+    },
+    {
+      "slug": "john-18-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "Jesus answered, My kingdom is not of this world: if my kingdom were of this world, then would my servants fight, that I should not be delivered to the Jews: but now is my kingdom not from hence.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "john-18-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "Pilate therefore said unto him, Art thou a king then? Jesus answered, Thou sayest that I am a king. To this end was I born, and for this cause came I into the world, that I should bear witness unto the truth. Every one that is of the truth heareth my voice.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "john-18-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "Pilate saith unto him, What is truth? And when he had said this, he went out again unto the Jews, and saith unto them, I find in him no fault <span class=\"clarity-word\">at all.</span>",
+      "churchId": "p38"
+    },
+    {
+      "slug": "john-18-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "But ye have a custom, that I should release unto you one at the passover: will ye therefore that I release unto you the King of the Jews?",
+      "churchId": "p39"
+    },
+    {
+      "slug": "john-18-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "Then cried they all again, saying, Not this man, but Barabbas. Now Barabbas was a robber.",
+      "churchId": "p40"
+    }
+  ]
+}

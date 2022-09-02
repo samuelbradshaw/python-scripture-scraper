@@ -1,0 +1,155 @@
+{
+  "name": "Genesis 23",
+  "abbrev": "Gen. 23",
+  "number": "23",
+  "churchUri": "/scriptures/ot/gen/23",
+  "paragraphs": [
+    {
+      "slug": "genesis-23-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 23",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "genesis-23-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And Sarah was an hundred and seven and twenty years old: <span class=\"clarity-word\">these were</span> the years of the life of Sarah.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "genesis-23-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And Sarah died in Kirjath-arba; the same <span class=\"clarity-word\">is</span> Hebron in the land of Canaan: and Abraham came to mourn for Sarah, and to weep for her.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "genesis-23-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "¶ And Abraham stood up from before his dead, and spake unto the sons of Heth, saying,",
+      "churchId": "p3"
+    },
+    {
+      "slug": "genesis-23-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "I <span class=\"clarity-word\">am</span> a stranger and a sojourner with you: give me a possession of a buryingplace with you, that I may bury my dead out of my sight.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "genesis-23-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And the children of Heth answered Abraham, saying unto him,",
+      "churchId": "p5"
+    },
+    {
+      "slug": "genesis-23-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Hear us, my lord: thou <span class=\"clarity-word\">art</span> a mighty prince among us: in the choice of our sepulchres bury thy dead; none of us shall withhold from thee his sepulchre, but that thou mayest bury thy dead.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "genesis-23-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And Abraham stood up, and bowed himself to the people of the land, <span class=\"clarity-word\">even</span> to the children of Heth.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "genesis-23-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And he communed with them, saying, If it be your mind that I should bury my dead out of my sight; hear me, and entreat for me to Ephron the son of Zohar,",
+      "churchId": "p8"
+    },
+    {
+      "slug": "genesis-23-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "That he may give me the cave of Machpelah, which he hath, which <span class=\"clarity-word\">is</span> in the end of his field; for as much money as it is worth he shall give it me for a possession of a buryingplace amongst you.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "genesis-23-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And Ephron dwelt among the children of Heth: and Ephron the Hittite answered Abraham in the audience of the children of Heth, <span class=\"clarity-word\">even</span> of all that went in at the gate of his city, saying,",
+      "churchId": "p10"
+    },
+    {
+      "slug": "genesis-23-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Nay, my lord, hear me: the field give I thee, and the cave that <span class=\"clarity-word\">is</span> therein, I give it thee; in the presence of the sons of my people give I it thee: bury thy dead.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "genesis-23-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And Abraham bowed down himself before the people of the land.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "genesis-23-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And he spake unto Ephron in the audience of the people of the land, saying, But if thou <span class=\"clarity-word\">wilt give it,</span> I pray thee, hear me: I will give thee money for the field; take <span class=\"clarity-word\">it</span> of me, and I will bury my dead there.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "genesis-23-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And Ephron answered Abraham, saying unto him,",
+      "churchId": "p14"
+    },
+    {
+      "slug": "genesis-23-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "My lord, hearken unto me: the land <span class=\"clarity-word\">is worth</span> four hundred shekels of silver; what <span class=\"clarity-word\">is</span> that betwixt me and thee? bury therefore thy dead.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "genesis-23-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And Abraham hearkened unto Ephron; and Abraham weighed to Ephron the silver, which he had named in the audience of the sons of Heth, four hundred shekels of silver, current <span class=\"clarity-word\">money</span> with the merchant.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "genesis-23-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "¶ And the field of Ephron, which <span class=\"clarity-word\">was</span> in Machpelah, which <span class=\"clarity-word\">was</span> before Mamre, the field, and the cave which <span class=\"clarity-word\">was</span> therein, and all the trees that <span class=\"clarity-word\">were</span> in the field, that <span class=\"clarity-word\">were</span> in all the borders round about, were made sure",
+      "churchId": "p17"
+    },
+    {
+      "slug": "genesis-23-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Unto Abraham for a possession in the presence of the children of Heth, before all that went in at the gate of his city.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "genesis-23-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And after this, Abraham buried Sarah his wife in the cave of the field of Machpelah before Mamre: the same <span class=\"clarity-word\">is</span> Hebron in the land of Canaan.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "genesis-23-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And the field, and the cave that <span class=\"clarity-word\">is</span> therein, were made sure unto Abraham for a possession of a buryingplace by the sons of Heth.",
+      "churchId": "p20"
+    }
+  ]
+}

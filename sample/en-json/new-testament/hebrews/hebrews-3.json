@@ -1,0 +1,148 @@
+{
+  "name": "Hebrews 3",
+  "abbrev": "Heb. 3",
+  "number": "3",
+  "churchUri": "/scriptures/nt/heb/3",
+  "paragraphs": [
+    {
+      "slug": "hebrews-3-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 3",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "hebrews-3-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Wherefore, holy brethren, partakers of the heavenly calling, consider the Apostle and High Priest of our profession, Christ Jesus;",
+      "churchId": "p1"
+    },
+    {
+      "slug": "hebrews-3-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Who was faithful to him that appointed him, as also Moses <span class=\"clarity-word\">was faithful</span> in all his house.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "hebrews-3-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "For this <span class=\"clarity-word\">man</span> was counted worthy of more glory than Moses, inasmuch as he who hath builded the house hath more honour than the house.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "hebrews-3-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "For every house is builded by some <span class=\"clarity-word\">man;</span> but he that built all things <span class=\"clarity-word\">is</span> God.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "hebrews-3-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And Moses verily <span class=\"clarity-word\">was</span> faithful in all his house, as a servant, for a testimony of those things which were to be spoken after;",
+      "churchId": "p5"
+    },
+    {
+      "slug": "hebrews-3-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "But Christ as a son over his own house; whose house are we, if we hold fast the confidence and the rejoicing of the hope firm unto the end.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "hebrews-3-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Wherefore (as the Holy Ghost saith, To day if ye will hear his voice,",
+      "churchId": "p7"
+    },
+    {
+      "slug": "hebrews-3-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Harden not your hearts, as in the provocation, in the day of temptation in the wilderness:",
+      "churchId": "p8"
+    },
+    {
+      "slug": "hebrews-3-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "When your fathers tempted me, proved me, and saw my works forty years.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "hebrews-3-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Wherefore I was grieved with that generation, and said, They do alway err in <span class=\"clarity-word\">their</span> heart; and they have not known my ways.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "hebrews-3-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "So I sware in my wrath, They shall not enter into my rest.)",
+      "churchId": "p11"
+    },
+    {
+      "slug": "hebrews-3-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Take heed, brethren, lest there be in any of you an evil heart of unbelief, in departing from the living God.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "hebrews-3-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "But exhort one another daily, while it is called To day; lest any of you be hardened through the deceitfulness of sin.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "hebrews-3-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "For we are made partakers of Christ, if we hold the beginning of our confidence steadfast unto the end;",
+      "churchId": "p14"
+    },
+    {
+      "slug": "hebrews-3-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "While it is said, To day if ye will hear his voice, harden not your hearts, as in the provocation.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "hebrews-3-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "For some, when they had heard, did provoke: howbeit not all that came out of Egypt by Moses.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "hebrews-3-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "But with whom was he grieved forty years? <span class=\"clarity-word\">was it</span> not with them that had sinned, whose carcases fell in the wilderness?",
+      "churchId": "p17"
+    },
+    {
+      "slug": "hebrews-3-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And to whom sware he that they should not enter into his rest, but to them that believed not?",
+      "churchId": "p18"
+    },
+    {
+      "slug": "hebrews-3-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "So we see that they could not enter in because of unbelief.",
+      "churchId": "p19"
+    }
+  ]
+}

@@ -1,0 +1,267 @@
+{
+  "name": "Leviticus 8",
+  "abbrev": "Lev. 8",
+  "number": "8",
+  "churchUri": "/scriptures/ot/lev/8",
+  "paragraphs": [
+    {
+      "slug": "leviticus-8-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 8",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "leviticus-8-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And the <span class=\"small-caps\">Lord</span> spake unto Moses, saying,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "leviticus-8-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Take Aaron and his sons with him, and the garments, and the anointing oil, and a bullock for the sin offering, and two rams, and a basket of unleavened bread;",
+      "churchId": "p2"
+    },
+    {
+      "slug": "leviticus-8-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And gather thou all the congregation together unto the door of the tabernacle of the congregation.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "leviticus-8-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And Moses did as the <span class=\"small-caps\">Lord</span> commanded him; and the assembly was gathered together unto the door of the tabernacle of the congregation.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "leviticus-8-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And Moses said unto the congregation, This <span class=\"clarity-word\">is</span> the thing which the <span class=\"small-caps\">Lord</span> commanded to be done.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "leviticus-8-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And Moses brought Aaron and his sons, and washed them with water.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "leviticus-8-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And he put upon him the coat, and girded him with the girdle, and clothed him with the robe, and put the ephod upon him, and he girded him with the curious girdle of the ephod, and bound <span class=\"clarity-word\">it</span> unto him therewith.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "leviticus-8-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And he put the breastplate upon him: also he put in the breastplate the Urim and the Thummim.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "leviticus-8-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And he put the mitre upon his head; also upon the mitre, <span class=\"clarity-word\">even</span> upon his forefront, did he put the golden plate, the holy crown; as the <span class=\"small-caps\">Lord</span> commanded Moses.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "leviticus-8-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And Moses took the anointing oil, and anointed the tabernacle and all that <span class=\"clarity-word\">was</span> therein, and sanctified them.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "leviticus-8-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And he sprinkled thereof upon the altar seven times, and anointed the altar and all his vessels, both the laver and his foot, to sanctify them.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "leviticus-8-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And he poured of the anointing oil upon Aaron’s head, and anointed him, to sanctify him.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "leviticus-8-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And Moses brought Aaron’s sons, and put coats upon them, and girded them with girdles, and put bonnets upon them; as the <span class=\"small-caps\">Lord</span> commanded Moses.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "leviticus-8-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And he brought the bullock for the sin offering: and Aaron and his sons laid their hands upon the head of the bullock for the sin offering.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "leviticus-8-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And he slew <span class=\"clarity-word\">it;</span> and Moses took the blood, and put <span class=\"clarity-word\">it</span> upon the horns of the altar round about with his finger, and purified the altar, and poured the blood at the bottom of the altar, and sanctified it, to make reconciliation upon it.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "leviticus-8-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And he took all the fat that <span class=\"clarity-word\">was</span> upon the inwards, and the caul <span class=\"clarity-word\">above</span> the liver, and the two kidneys, and their fat, and Moses burned <span class=\"clarity-word\">it</span> upon the altar.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "leviticus-8-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "But the bullock, and his hide, his flesh, and his dung, he burnt with fire without the camp; as the <span class=\"small-caps\">Lord</span> commanded Moses.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "leviticus-8-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "¶ And he brought the ram for the burnt offering: and Aaron and his sons laid their hands upon the head of the ram.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "leviticus-8-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And he killed <span class=\"clarity-word\">it;</span> and Moses sprinkled the blood upon the altar round about.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "leviticus-8-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And he cut the ram into pieces; and Moses burnt the head, and the pieces, and the fat.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "leviticus-8-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And he washed the inwards and the legs in water; and Moses burnt the whole ram upon the altar: it <span class=\"clarity-word\">was</span> a burnt sacrifice for a sweet savour, <span class=\"clarity-word\">and</span> an offering made by fire unto the <span class=\"small-caps\">Lord</span>; as the <span class=\"small-caps\">Lord</span> commanded Moses.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "leviticus-8-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "¶ And he brought the other ram, the ram of consecration: and Aaron and his sons laid their hands upon the head of the ram.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "leviticus-8-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And he slew <span class=\"clarity-word\">it;</span> and Moses took of the blood of it, and put <span class=\"clarity-word\">it</span> upon the tip of Aaron’s right ear, and upon the thumb of his right hand, and upon the great toe of his right foot.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "leviticus-8-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And he brought Aaron’s sons, and Moses put of the blood upon the tip of their right ear, and upon the thumbs of their right hands, and upon the great toes of their right feet: and Moses sprinkled the blood upon the altar round about.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "leviticus-8-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And he took the fat, and the rump, and all the fat that <span class=\"clarity-word\">was</span> upon the inwards, and the caul <span class=\"clarity-word\">above</span> the liver, and the two kidneys, and their fat, and the right shoulder:",
+      "churchId": "p25"
+    },
+    {
+      "slug": "leviticus-8-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And out of the basket of unleavened bread, that <span class=\"clarity-word\">was</span> before the <span class=\"small-caps\">Lord</span>, he took one unleavened cake, and a cake of oiled bread, and one wafer, and put <span class=\"clarity-word\">them</span> on the fat, and upon the right shoulder:",
+      "churchId": "p26"
+    },
+    {
+      "slug": "leviticus-8-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And he put all upon Aaron’s hands, and upon his sons’ hands, and waved them <span class=\"clarity-word\">for</span> a wave offering before the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "leviticus-8-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And Moses took them from off their hands, and burnt <span class=\"clarity-word\">them</span> on the altar upon the burnt offering: they <span class=\"clarity-word\">were</span> consecrations for a sweet savour: it <span class=\"clarity-word\">is</span> an offering made by fire unto the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "leviticus-8-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "And Moses took the breast, and waved it <span class=\"clarity-word\">for</span> a wave offering before the <span class=\"small-caps\">Lord</span>: <span class=\"clarity-word\">for</span> of the ram of consecration it was Moses’ part; as the <span class=\"small-caps\">Lord</span> commanded Moses.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "leviticus-8-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And Moses took of the anointing oil, and of the blood which <span class=\"clarity-word\">was</span> upon the altar, and sprinkled <span class=\"clarity-word\">it</span> upon Aaron, <span class=\"clarity-word\">and</span> upon his garments, and upon his sons, and upon his sons’ garments with him; and sanctified Aaron, <span class=\"clarity-word\">and</span> his garments, and his sons, and his sons’ garments with him.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "leviticus-8-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "¶ And Moses said unto Aaron and to his sons, Boil the flesh <span class=\"clarity-word\">at</span> the door of the tabernacle of the congregation: and there eat it with the bread that <span class=\"clarity-word\">is</span> in the basket of consecrations, as I commanded, saying, Aaron and his sons shall eat it.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "leviticus-8-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "And that which remaineth of the flesh and of the bread shall ye burn with fire.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "leviticus-8-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "And ye shall not go out of the door of the tabernacle of the congregation <span class=\"clarity-word\">in</span> seven days, until the days of your consecration be at an end: for seven days shall he consecrate you.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "leviticus-8-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "As he hath done this day, <span class=\"clarity-word\">so</span> the <span class=\"small-caps\">Lord</span> hath commanded to do, to make an atonement for you.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "leviticus-8-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "Therefore shall ye abide <span class=\"clarity-word\">at</span> the door of the tabernacle of the congregation day and night seven days, and keep the charge of the <span class=\"small-caps\">Lord</span>, that ye die not: for so I am commanded.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "leviticus-8-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "So Aaron and his sons did all things which the <span class=\"small-caps\">Lord</span> commanded by the hand of Moses.",
+      "churchId": "p36"
+    }
+  ]
+}

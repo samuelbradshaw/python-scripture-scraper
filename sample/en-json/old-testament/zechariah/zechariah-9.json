@@ -1,0 +1,134 @@
+{
+  "name": "Zechariah 9",
+  "abbrev": "Zech. 9",
+  "number": "9",
+  "churchUri": "/scriptures/ot/zech/9",
+  "paragraphs": [
+    {
+      "slug": "zechariah-9-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 9",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "zechariah-9-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "The burden of the word of the <span class=\"small-caps\">Lord</span> in the land of Hadrach, and Damascus <span class=\"clarity-word\">shall be</span> the rest thereof: when the eyes of man, as of all the tribes of Israel, <span class=\"clarity-word\">shall be</span> toward the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "zechariah-9-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And Hamath also shall border thereby; Tyrus, and Zidon, though it be very wise.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "zechariah-9-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And Tyrus did build herself a strong hold, and heaped up silver as the dust, and fine gold as the mire of the streets.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "zechariah-9-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Behold, the Lord will cast her out, and he will smite her power in the sea; and she shall be devoured with fire.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "zechariah-9-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Ashkelon shall see <span class=\"clarity-word\">it,</span> and fear; Gaza also <span class=\"clarity-word\">shall see it,</span> and be very sorrowful, and Ekron; for her expectation shall be ashamed; and the king shall perish from Gaza, and Ashkelon shall not be inhabited.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "zechariah-9-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And a bastard shall dwell in Ashdod, and I will cut off the pride of the Philistines.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "zechariah-9-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And I will take away his blood out of his mouth, and his abominations from between his teeth: but he that remaineth, even he, <span class=\"clarity-word\">shall be</span> for our God, and he shall be as a governor in Judah, and Ekron as a Jebusite.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "zechariah-9-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And I will encamp about mine house because of the army, because of him that passeth by, and because of him that returneth: and no oppressor shall pass through them any more: for now have I seen with mine eyes.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "zechariah-9-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "¶ Rejoice greatly, O daughter of Zion; shout, O daughter of Jerusalem: behold, thy King cometh unto thee: he <span class=\"clarity-word\">is</span> just, and having salvation; lowly, and riding upon an ass, and upon a colt the foal of an ass.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "zechariah-9-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And I will cut off the chariot from Ephraim, and the horse from Jerusalem, and the battle bow shall be cut off: and he shall speak peace unto the heathen: and his dominion <span class=\"clarity-word\">shall be</span> from sea <span class=\"clarity-word\">even</span> to sea, and from the river <span class=\"clarity-word\">even</span> to the ends of the earth.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "zechariah-9-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "As for thee also, by the blood of thy covenant I have sent forth thy prisoners out of the pit wherein <span class=\"clarity-word\">is</span> no water.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "zechariah-9-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "¶ Turn you to the strong hold, ye prisoners of hope: even to day do I declare <span class=\"clarity-word\">that</span> I will render double unto thee;",
+      "churchId": "p12"
+    },
+    {
+      "slug": "zechariah-9-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "When I have bent Judah for me, filled the bow with Ephraim, and raised up thy sons, O Zion, against thy sons, O Greece, and made thee as the sword of a mighty man.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "zechariah-9-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And the <span class=\"small-caps\">Lord</span> shall be seen over them, and his arrow shall go forth as the lightning: and the Lord <span class=\"small-caps\">God</span> shall blow the trumpet, and shall go with whirlwinds of the south.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "zechariah-9-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "The <span class=\"small-caps\">Lord</span> of hosts shall defend them; and they shall devour, and subdue with sling stones; and they shall drink, <span class=\"clarity-word\">and</span> make a noise as through wine; and they shall be filled like bowls, <span class=\"clarity-word\">and</span> as the corners of the altar.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "zechariah-9-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And the <span class=\"small-caps\">Lord</span> their God shall save them in that day as the flock of his people: for <span class=\"clarity-word\">they shall be as</span> the stones of a crown, lifted up as an ensign upon his land.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "zechariah-9-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "For how great <span class=\"clarity-word\">is</span> his goodness, and how great <span class=\"clarity-word\">is</span> his beauty! corn shall make the young men cheerful, and new wine the maids.",
+      "churchId": "p17"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "name": "Articles of Faith 1",
+  "abbrev": "A of F 1",
+  "number": "1",
+  "churchUri": "/scriptures/pgp/a-of-f/1",
+  "paragraphs": [
+    {
+      "slug": "articles-of-faith-1-title1",
+      "type": "book-title",
+      "number": null,
+      "content": "The Articles of Faith<small> </small><small>of The Church of Jesus Christ of Latter-day Saints</small>",
+      "churchId": "title1"
+    },
+    {
+      "slug": "articles-of-faith-1-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 1",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "articles-of-faith-1-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "We believe in God, the Eternal Father, and in His Son, Jesus Christ, and in the Holy Ghost.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "articles-of-faith-1-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "We believe that men will be punished for their own sins, and not for Adam’s transgression.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "articles-of-faith-1-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "We believe that through the Atonement of Christ, all mankind may be saved, by obedience to the laws and ordinances of the Gospel.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "articles-of-faith-1-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "We believe that the first principles and ordinances of the Gospel are: first, Faith in the Lord Jesus Christ; second, Repentance; third, Baptism by immersion for the remission of sins; fourth, Laying on of hands for the gift of the Holy Ghost.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "articles-of-faith-1-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "We believe that a man must be called of God, by prophecy, and by the laying on of hands by those who are in authority, to preach the Gospel and administer in the ordinances thereof.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "articles-of-faith-1-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "We believe in the same organization that existed in the Primitive Church, namely, apostles, prophets, pastors, teachers, evangelists, and so forth.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "articles-of-faith-1-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "We believe in the gift of tongues, prophecy, revelation, visions, healing, interpretation of tongues, and so forth.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "articles-of-faith-1-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "We believe the Bible to be the word of God as far as it is translated correctly; we also believe the Book of Mormon to be the word of God.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "articles-of-faith-1-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "We believe all that God has revealed, all that He does now reveal, and we believe that He will yet reveal many great and important things pertaining to the Kingdom of God.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "articles-of-faith-1-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "We believe in the literal gathering of Israel and in the restoration of the Ten Tribes; that Zion (the New Jerusalem) will be built upon the American continent; that Christ will reign personally upon the earth; and, that the earth will be renewed and receive its paradisiacal glory.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "articles-of-faith-1-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "We claim the privilege of worshiping Almighty God according to the dictates of our own conscience, and allow all men the same privilege, let them worship how, where, or what they may.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "articles-of-faith-1-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "We believe in being subject to kings, presidents, rulers, and magistrates, in obeying, honoring, and sustaining the law.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "articles-of-faith-1-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "We believe in being honest, true, chaste, benevolent, virtuous, and in doing good to all men; indeed, we may say that we follow the admonition of Paul—We believe all things, we hope all things, we have endured many things, and hope to be able to endure all things. If there is anything virtuous, lovely, or of good report or praiseworthy, we seek after these things.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "articles-of-faith-1-p14",
+      "type": "paragraph",
+      "number": null,
+      "content": "Joseph Smith.",
+      "churchId": "p14"
+    }
+  ]
+}

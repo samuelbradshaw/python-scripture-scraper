@@ -1,0 +1,141 @@
+{
+  "name": "Psalm 10",
+  "abbrev": "Psalm 10",
+  "number": "10",
+  "churchUri": "/scriptures/ot/ps/10",
+  "paragraphs": [
+    {
+      "slug": "psalm-10-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 10",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-10-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Why standest thou afar off, O <span class=\"small-caps\">Lord</span>? <span class=\"clarity-word\">why</span> hidest thou <span class=\"clarity-word\">thyself</span> in times of trouble?",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-10-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "The wicked in <span class=\"clarity-word\">his</span> pride doth persecute the poor: let them be taken in the devices that they have imagined.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-10-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "For the wicked boasteth of his heart’s desire, and blesseth the covetous, <span class=\"clarity-word\">whom</span> the <span class=\"small-caps\">Lord</span> abhorreth.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-10-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "The wicked, through the pride of his countenance, will not seek <span class=\"clarity-word\">after God:</span> God <span class=\"clarity-word\">is</span> not in all his thoughts.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-10-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "His ways are always grievous; thy judgments <span class=\"clarity-word\">are</span> far above out of his sight: <span class=\"clarity-word\">as for</span> all his enemies, he puffeth at them.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-10-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "He hath said in his heart, I shall not be moved: for <span class=\"clarity-word\">I shall</span> never <span class=\"clarity-word\">be</span> in adversity.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-10-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "His mouth is full of cursing and deceit and fraud: under his tongue <span class=\"clarity-word\">is</span> mischief and vanity.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-10-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "He sitteth in the lurking places of the villages: in the secret places doth he murder the innocent: his eyes are privily set against the poor.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "psalm-10-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "He lieth in wait secretly as a lion in his den: he lieth in wait to catch the poor: he doth catch the poor, when he draweth him into his net.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "psalm-10-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "He croucheth, <span class=\"clarity-word\">and</span> humbleth himself, that the poor may fall by his strong ones.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "psalm-10-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "He hath said in his heart, God hath forgotten: he hideth his face; he will never see <span class=\"clarity-word\">it.</span>",
+      "churchId": "p11"
+    },
+    {
+      "slug": "psalm-10-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Arise, O <span class=\"small-caps\">Lord</span>; O God, lift up thine hand: forget not the humble.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "psalm-10-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Wherefore doth the wicked contemn God? he hath said in his heart, Thou wilt not require <span class=\"clarity-word\">it.</span>",
+      "churchId": "p13"
+    },
+    {
+      "slug": "psalm-10-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Thou hast seen <span class=\"clarity-word\">it;</span> for thou beholdest mischief and spite, to requite <span class=\"clarity-word\">it</span> with thy hand: the poor committeth himself unto thee; thou art the helper of the fatherless.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "psalm-10-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Break thou the arm of the wicked and the evil <span class=\"clarity-word\">man:</span> seek out his wickedness <span class=\"clarity-word\">till</span> thou find none.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "psalm-10-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "The <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">is</span> King for ever and ever: the heathen are perished out of his land.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "psalm-10-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "<span class=\"small-caps\">Lord</span>, thou hast heard the desire of the humble: thou wilt prepare their heart, thou wilt cause thine ear to hear:",
+      "churchId": "p17"
+    },
+    {
+      "slug": "psalm-10-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "To judge the fatherless and the oppressed, that the man of the earth may no more oppress.",
+      "churchId": "p18"
+    }
+  ]
+}

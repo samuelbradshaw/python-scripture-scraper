@@ -1,0 +1,253 @@
+{
+  "name": "1 Kings 13",
+  "abbrev": "1 Kgs. 13",
+  "number": "13",
+  "churchUri": "/scriptures/ot/1-kgs/13",
+  "paragraphs": [
+    {
+      "slug": "1-kings-13-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 13",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "1-kings-13-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And, behold, there came a man of God out of Judah by the word of the <span class=\"small-caps\">Lord</span> unto Beth-el: and Jeroboam stood by the altar to burn incense.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "1-kings-13-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And he cried against the altar in the word of the <span class=\"small-caps\">Lord</span>, and said, O altar, altar, thus saith the <span class=\"small-caps\">Lord</span>; Behold, a child shall be born unto the house of David, Josiah by name; and upon thee shall he offer the priests of the high places that burn incense upon thee, and men’s bones shall be burnt upon thee.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "1-kings-13-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And he gave a sign the same day, saying, This <span class=\"clarity-word\">is</span> the sign which the <span class=\"small-caps\">Lord</span> hath spoken; Behold, the altar shall be rent, and the ashes that <span class=\"clarity-word\">are</span> upon it shall be poured out.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "1-kings-13-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And it came to pass, when king Jeroboam heard the saying of the man of God, which had cried against the altar in Beth-el, that he put forth his hand from the altar, saying, Lay hold on him. And his hand, which he put forth against him, dried up, so that he could not pull it in again to him.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "1-kings-13-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "The altar also was rent, and the ashes poured out from the altar, according to the sign which the man of God had given by the word of the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "1-kings-13-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And the king answered and said unto the man of God, Entreat now the face of the <span class=\"small-caps\">Lord</span> thy God, and pray for me, that my hand may be restored me again. And the man of God besought the <span class=\"small-caps\">Lord</span>, and the king’s hand was restored him again, and became as <span class=\"clarity-word\">it was</span> before.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "1-kings-13-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And the king said unto the man of God, Come home with me, and refresh thyself, and I will give thee a reward.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "1-kings-13-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And the man of God said unto the king, If thou wilt give me half thine house, I will not go in with thee, neither will I eat bread nor drink water in this place:",
+      "churchId": "p8"
+    },
+    {
+      "slug": "1-kings-13-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "For so was it charged me by the word of the <span class=\"small-caps\">Lord</span>, saying, Eat no bread, nor drink water, nor turn again by the same way that thou camest.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "1-kings-13-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "So he went another way, and returned not by the way that he came to Beth-el.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "1-kings-13-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "¶ Now there dwelt an old prophet in Beth-el; and his sons came and told him all the works that the man of God had done that day in Beth-el: the words which he had spoken unto the king, them they told also to their father.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "1-kings-13-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And their father said unto them, What way went he? For his sons had seen what way the man of God went, which came from Judah.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "1-kings-13-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And he said unto his sons, Saddle me the ass. So they saddled him the ass: and he rode thereon,",
+      "churchId": "p13"
+    },
+    {
+      "slug": "1-kings-13-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And went after the man of God, and found him sitting under an oak: and he said unto him, <span class=\"clarity-word\">Art</span> thou the man of God that camest from Judah? And he said, I <span class=\"clarity-word\">am.</span>",
+      "churchId": "p14"
+    },
+    {
+      "slug": "1-kings-13-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Then he said unto him, Come home with me, and eat bread.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "1-kings-13-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And he said, I may not return with thee, nor go in with thee: neither will I eat bread nor drink water with thee in this place:",
+      "churchId": "p16"
+    },
+    {
+      "slug": "1-kings-13-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "For it was said to me by the word of the <span class=\"small-caps\">Lord</span>, Thou shalt eat no bread nor drink water there, nor turn again to go by the way that thou camest.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "1-kings-13-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "He said unto him, I <span class=\"clarity-word\">am</span> a prophet also as thou <span class=\"clarity-word\">art;</span> and an angel spake unto me by the word of the <span class=\"small-caps\">Lord</span>, saying, Bring him back with thee into thine house, that he may eat bread and drink water. <span class=\"clarity-word\">But</span> he lied unto him.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "1-kings-13-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "So he went back with him, and did eat bread in his house, and drank water.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "1-kings-13-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "¶ And it came to pass, as they sat at the table, that the word of the <span class=\"small-caps\">Lord</span> came unto the prophet that brought him back:",
+      "churchId": "p20"
+    },
+    {
+      "slug": "1-kings-13-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And he cried unto the man of God that came from Judah, saying, Thus saith the <span class=\"small-caps\">Lord</span>, Forasmuch as thou hast disobeyed the mouth of the <span class=\"small-caps\">Lord</span>, and hast not kept the commandment which the <span class=\"small-caps\">Lord</span> thy God commanded thee,",
+      "churchId": "p21"
+    },
+    {
+      "slug": "1-kings-13-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "But camest back, and hast eaten bread and drunk water in the place, of the which <span class=\"clarity-word\">the <span class=\"small-caps\">Lord</span></span> did say to thee, Eat no bread, and drink no water; thy carcase shall not come unto the sepulchre of thy fathers.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "1-kings-13-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "¶ And it came to pass, after he had eaten bread, and after he had drunk, that he saddled for him the ass, <span class=\"clarity-word\">to wit,</span> for the prophet whom he had brought back.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "1-kings-13-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And when he was gone, a lion met him by the way, and slew him: and his carcase was cast in the way, and the ass stood by it, the lion also stood by the carcase.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "1-kings-13-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And, behold, men passed by, and saw the carcase cast in the way, and the lion standing by the carcase: and they came and told <span class=\"clarity-word\">it</span> in the city where the old prophet dwelt.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "1-kings-13-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And when the prophet that brought him back from the way heard <span class=\"clarity-word\">thereof,</span> he said, It <span class=\"clarity-word\">is</span> the man of God, who was disobedient unto the word of the <span class=\"small-caps\">Lord</span>: therefore the <span class=\"small-caps\">Lord</span> hath delivered him unto the lion, which hath torn him, and slain him, according to the word of the <span class=\"small-caps\">Lord</span>, which he spake unto him.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "1-kings-13-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And he spake to his sons, saying, Saddle me the ass. And they saddled <span class=\"clarity-word\">him.</span>",
+      "churchId": "p27"
+    },
+    {
+      "slug": "1-kings-13-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And he went and found his carcase cast in the way, and the ass and the lion standing by the carcase: the lion had not eaten the carcase, nor torn the ass.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "1-kings-13-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "And the prophet took up the carcase of the man of God, and laid it upon the ass, and brought it back: and the old prophet came to the city, to mourn and to bury him.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "1-kings-13-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And he laid his carcase in his own grave; and they mourned over him, <span class=\"clarity-word\">saying,</span> Alas, my brother!",
+      "churchId": "p30"
+    },
+    {
+      "slug": "1-kings-13-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "And it came to pass, after he had buried him, that he spake to his sons, saying, When I am dead, then bury me in the sepulchre wherein the man of God <span class=\"clarity-word\">is</span> buried; lay my bones beside his bones:",
+      "churchId": "p31"
+    },
+    {
+      "slug": "1-kings-13-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "For the saying which he cried by the word of the <span class=\"small-caps\">Lord</span> against the altar in Beth-el, and against all the houses of the high places which <span class=\"clarity-word\">are</span> in the cities of Samaria, shall surely come to pass.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "1-kings-13-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "¶ After this thing Jeroboam returned not from his evil way, but made again of the lowest of the people priests of the high places: whosoever would, he consecrated him, and he became <span class=\"clarity-word\">one</span> of the priests of the high places.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "1-kings-13-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "And this thing became sin unto the house of Jeroboam, even to cut <span class=\"clarity-word\">it</span> off, and to destroy <span class=\"clarity-word\">it</span> from off the face of the earth.",
+      "churchId": "p34"
+    }
+  ]
+}

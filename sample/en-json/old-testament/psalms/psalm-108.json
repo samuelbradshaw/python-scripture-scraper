@@ -1,0 +1,113 @@
+{
+  "name": "Psalm 108",
+  "abbrev": "Psalm 108",
+  "number": "108",
+  "churchUri": "/scriptures/ot/ps/108",
+  "paragraphs": [
+    {
+      "slug": "psalm-108-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 108",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-108-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "A Song <span class=\"clarity-word\">or</span> Psalm of David.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-108-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "O God, my heart is fixed; I will sing and give praise, even with my glory.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-108-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Awake, psaltery and harp: I <span class=\"clarity-word\">myself</span> will awake early.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-108-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "I will praise thee, O <span class=\"small-caps\">Lord</span>, among the people: and I will sing praises unto thee among the nations.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-108-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "For thy mercy <span class=\"clarity-word\">is</span> great above the heavens: and thy truth <span class=\"clarity-word\">reacheth</span> unto the clouds.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-108-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Be thou exalted, O God, above the heavens: and thy glory above all the earth;",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-108-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "That thy beloved may be delivered: save <span class=\"clarity-word\">with</span> thy right hand, and answer me.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-108-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "God hath spoken in his holiness; I will rejoice, I will divide Shechem, and mete out the valley of Succoth.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-108-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Gilead <span class=\"clarity-word\">is</span> mine; Manasseh <span class=\"clarity-word\">is</span> mine; Ephraim also <span class=\"clarity-word\">is</span> the strength of mine head; Judah <span class=\"clarity-word\">is</span> my lawgiver;",
+      "churchId": "p8"
+    },
+    {
+      "slug": "psalm-108-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Moab <span class=\"clarity-word\">is</span> my washpot; over Edom will I cast out my shoe; over Philistia will I triumph.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "psalm-108-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Who will bring me into the strong city? who will lead me into Edom?",
+      "churchId": "p10"
+    },
+    {
+      "slug": "psalm-108-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "<span class=\"clarity-word\">Wilt</span> not <span class=\"clarity-word\">thou,</span> O God, <span class=\"clarity-word\">who</span> hast cast us off? and wilt not thou, O God, go forth with our hosts?",
+      "churchId": "p11"
+    },
+    {
+      "slug": "psalm-108-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Give us help from trouble: for vain <span class=\"clarity-word\">is</span> the help of man.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "psalm-108-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Through God we shall do valiantly: for he <span class=\"clarity-word\">it is that</span> shall tread down our enemies.",
+      "churchId": "p13"
+    }
+  ]
+}

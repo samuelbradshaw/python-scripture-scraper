@@ -1,0 +1,85 @@
+{
+  "name": "Psalm 20",
+  "abbrev": "Psalm 20",
+  "number": "20",
+  "churchUri": "/scriptures/ot/ps/20",
+  "paragraphs": [
+    {
+      "slug": "psalm-20-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 20",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-20-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "To the chief Musician, A Psalm of David.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-20-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "The <span class=\"small-caps\">Lord</span> hear thee in the day of trouble; the name of the God of Jacob defend thee;",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-20-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Send thee help from the sanctuary, and strengthen thee out of Zion;",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-20-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Remember all thy offerings, and accept thy burnt sacrifice; Selah.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-20-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Grant thee according to thine own heart, and fulfil all thy counsel.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-20-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "We will rejoice in thy salvation, and in the name of our God we will set up <span class=\"clarity-word\">our</span> banners: the <span class=\"small-caps\">Lord</span> fulfil all thy petitions.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-20-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Now know I that the <span class=\"small-caps\">Lord</span> saveth his anointed; he will hear him from his holy heaven with the saving strength of his right hand.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-20-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Some <span class=\"clarity-word\">trust</span> in chariots, and some in horses: but we will remember the name of the <span class=\"small-caps\">Lord</span> our God.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-20-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "They are brought down and fallen: but we are risen, and stand upright.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "psalm-20-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Save, <span class=\"small-caps\">Lord</span>: let the king hear us when we call.",
+      "churchId": "p9"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "name": "Doctrine and Covenants 36",
+  "abbrev": "D&C 36",
+  "number": "36",
+  "churchUri": "/scriptures/dc-testament/dc/36",
+  "paragraphs": [
+    {
+      "slug": "section-36-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Section 36",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "section-36-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Thus saith the Lord God, the Mighty One of Israel: Behold, I say unto you, my servant Edward, that you are blessed, and your sins are forgiven you, and you are called to preach my gospel as with the voice of a trump;",
+      "churchId": "p1"
+    },
+    {
+      "slug": "section-36-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And I will lay my hand upon you by the hand of my servant Sidney Rigdon, and you shall receive my Spirit, the Holy Ghost, even the Comforter, which shall teach you the peaceable things of the kingdom;",
+      "churchId": "p2"
+    },
+    {
+      "slug": "section-36-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And you shall declare it with a loud voice, saying: Hosanna, blessed be the name of the most high God.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "section-36-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And now this calling and commandment give I unto you concerning all men—",
+      "churchId": "p4"
+    },
+    {
+      "slug": "section-36-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "That as many as shall come before my servants Sidney Rigdon and Joseph Smith, Jun., embracing this calling and commandment, shall be ordained and sent forth to preach the everlasting gospel among the nations—",
+      "churchId": "p5"
+    },
+    {
+      "slug": "section-36-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Crying repentance, saying: Save yourselves from this untoward generation, and come forth out of the fire, hating even the garments spotted with the flesh.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "section-36-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And this commandment shall be given unto the elders of my church, that every man which will embrace it with singleness of heart may be ordained and sent forth, even as I have spoken.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "section-36-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "I am Jesus Christ, the Son of God; wherefore, gird up your loins and I will suddenly come to my temple. Even so. Amen.",
+      "churchId": "p8"
+    }
+  ]
+}

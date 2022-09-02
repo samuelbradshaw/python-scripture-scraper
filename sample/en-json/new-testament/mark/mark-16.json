@@ -1,0 +1,155 @@
+{
+  "name": "Mark 16",
+  "abbrev": "Mark 16",
+  "number": "16",
+  "churchUri": "/scriptures/nt/mark/16",
+  "paragraphs": [
+    {
+      "slug": "mark-16-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 16",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "mark-16-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And when the sabbath was past, Mary Magdalene, and Mary the <span class=\"clarity-word\">mother</span> of James, and Salome, had bought sweet spices, that they might come and anoint him.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "mark-16-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And very early in the morning the first <span class=\"clarity-word\">day</span> of the week, they came unto the sepulchre at the rising of the sun.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "mark-16-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And they said among themselves, Who shall roll us away the stone from the door of the sepulchre?",
+      "churchId": "p3"
+    },
+    {
+      "slug": "mark-16-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And when they looked, they saw that the stone was rolled away: for it was very great.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "mark-16-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And entering into the sepulchre, they saw a young man sitting on the right side, clothed in a long white garment; and they were affrighted.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "mark-16-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And he saith unto them, Be not affrighted: Ye seek Jesus of Nazareth, which was crucified: he is risen; he is not here: behold the place where they laid him.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "mark-16-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "But go your way, tell his disciples and Peter that he goeth before you into Galilee: there shall ye see him, as he said unto you.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "mark-16-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And they went out quickly, and fled from the sepulchre; for they trembled and were amazed: neither said they any thing to any <span class=\"clarity-word\">man;</span> for they were afraid.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "mark-16-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "¶ Now when <span class=\"clarity-word\">Jesus</span> was risen early the first <span class=\"clarity-word\">day</span> of the week, he appeared first to Mary Magdalene, out of whom he had cast seven devils.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "mark-16-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "<span class=\"clarity-word\">And</span> she went and told them that had been with him, as they mourned and wept.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "mark-16-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And they, when they had heard that he was alive, and had been seen of her, believed not.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "mark-16-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "¶ After that he appeared in another form unto two of them, as they walked, and went into the country.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "mark-16-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And they went and told <span class=\"clarity-word\">it</span> unto the residue: neither believed they them.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "mark-16-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "¶ Afterward he appeared unto the eleven as they sat at meat, and upbraided them with their unbelief and hardness of heart, because they believed not them which had seen him after he was risen.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "mark-16-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And he said unto them, Go ye into all the world, and preach the gospel to every creature.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "mark-16-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "He that believeth and is baptized shall be saved; but he that believeth not shall be damned.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "mark-16-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And these signs shall follow them that believe; In my name shall they cast out devils; they shall speak with new tongues;",
+      "churchId": "p17"
+    },
+    {
+      "slug": "mark-16-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "They shall take up serpents; and if they drink any deadly thing, it shall not hurt them; they shall lay hands on the sick, and they shall recover.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "mark-16-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "¶ So then after the Lord had spoken unto them, he was received up into heaven, and sat on the right hand of God.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "mark-16-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And they went forth, and preached every where, the Lord working with <span class=\"clarity-word\">them,</span> and confirming the word with signs following. Amen.",
+      "churchId": "p20"
+    }
+  ]
+}

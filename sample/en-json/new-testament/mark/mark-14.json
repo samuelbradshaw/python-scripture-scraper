@@ -1,0 +1,519 @@
+{
+  "name": "Mark 14",
+  "abbrev": "Mark 14",
+  "number": "14",
+  "churchUri": "/scriptures/nt/mark/14",
+  "paragraphs": [
+    {
+      "slug": "mark-14-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 14",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "mark-14-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "After two days was <span class=\"clarity-word\">the </span><span class=\"clarity-word\">feast of</span> the passover, and of unleavened bread: and the chief priests and the scribes sought how they might take him by craft, and put <span class=\"clarity-word\">him</span> to death.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "mark-14-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "But they said, Not on the feast <span class=\"clarity-word\">day,</span> lest there be an uproar of the people.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "mark-14-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "¶ And being in Bethany in the house of Simon the leper, as he sat at meat, there came a woman having an alabaster box of ointment of spikenard very precious; and she brake the box, and poured <span class=\"clarity-word\">it</span> on his head.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "mark-14-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And there were some that had indignation within themselves, and said, Why was this waste of the ointment made?",
+      "churchId": "p4"
+    },
+    {
+      "slug": "mark-14-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "For it might have been sold for more than three hundred pence, and have been given to the poor. And they murmured against her.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "mark-14-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And Jesus said, Let her alone; why trouble ye her? she hath wrought a good work on me.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "mark-14-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "For ye have the poor with you always, and whensoever ye will ye may do them good: but me ye have not always.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "mark-14-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "She hath done what she could: she is come aforehand to anoint my body to the burying.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "mark-14-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Verily I say unto you, Wheresoever this gospel shall be preached throughout the whole world, <span class=\"clarity-word\">this</span> also that she hath done shall be spoken of for a memorial of her.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "mark-14-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "¶ And Judas Iscariot, one of the twelve, went unto the chief priests, to betray him unto them.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "mark-14-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And when they heard <span class=\"clarity-word\">it,</span> they were glad, and promised to give him money. And he sought how he might conveniently betray him.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "mark-14-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "¶ And the first day of unleavened bread, when they killed the passover, his disciples said unto him, Where wilt thou that we go and prepare that thou mayest eat the passover?",
+      "churchId": "p12"
+    },
+    {
+      "slug": "mark-14-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And he sendeth forth two of his disciples, and saith unto them, Go ye into the city, and there shall meet you a man bearing a pitcher of water: follow him.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "mark-14-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And wheresoever he shall go in, say ye to the goodman of the house, The Master saith, Where is the guestchamber, where I shall eat the passover with my disciples?",
+      "churchId": "p14"
+    },
+    {
+      "slug": "mark-14-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And he will shew you a large upper room furnished <span class=\"clarity-word\">and</span> prepared: there make ready for us.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "mark-14-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And his disciples went forth, and came into the city, and found as he had said unto them: and they made ready the passover.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "mark-14-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And in the evening he cometh with the twelve.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "mark-14-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And as they sat and did eat, Jesus said, Verily I say unto you, One of you which eateth with me shall betray me.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "mark-14-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And they began to be sorrowful, and to say unto him one by one, <span class=\"clarity-word\">Is</span> it I? and another <span class=\"clarity-word\">said, Is</span> it I?",
+      "churchId": "p19"
+    },
+    {
+      "slug": "mark-14-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And he answered and said unto them, <span class=\"clarity-word\">It is</span> one of the twelve, that dippeth with me in the dish.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "mark-14-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "The Son of man indeed goeth, as it is written of him: but woe to that man by whom the Son of man is betrayed! good were it for that man if he had never been born.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "mark-14-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "¶ And as they did eat, Jesus took bread, and blessed, and brake <span class=\"clarity-word\">it,</span> and gave to them, and said, Take, eat: this is my body.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "mark-14-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And he took the cup, and when he had given thanks, he gave <span class=\"clarity-word\">it</span> to them: and they all drank of it.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "mark-14-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And he said unto them, This is my blood of the new testament, which is shed for many.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "mark-14-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Verily I say unto you, I will drink no more of the fruit of the vine, until that day that I drink it new in the kingdom of God.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "mark-14-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "¶ And when they had sung an hymn, they went out into the mount of Olives.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "mark-14-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And Jesus saith unto them, All ye shall be offended because of me this night: for it is written, I will smite the shepherd, and the sheep shall be scattered.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "mark-14-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "But after that I am risen, I will go before you into Galilee.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "mark-14-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "But Peter said unto him, Although all shall be offended, yet <span class=\"clarity-word\">will</span> not I.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "mark-14-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And Jesus saith unto him, Verily I say unto thee, That this day, <span class=\"clarity-word\">even</span> in this night, before the cock crow twice, thou shalt deny me thrice.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "mark-14-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "But he spake the more vehemently, If I should die with thee, I will not deny thee in any wise. Likewise also said they all.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "mark-14-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "And they came to a place which was named Gethsemane: and he saith to his disciples, Sit ye here, while I shall pray.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "mark-14-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "And he taketh with him Peter and James and John, and began to be sore amazed, and to be very heavy;",
+      "churchId": "p33"
+    },
+    {
+      "slug": "mark-14-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "And saith unto them, My soul is exceeding sorrowful unto death: tarry ye here, and watch.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "mark-14-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "And he went forward a little, and fell on the ground, and prayed that, if it were possible, the hour might pass from him.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "mark-14-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "And he said, Abba, Father, all things <span class=\"clarity-word\">are</span> possible unto thee; take away this cup from me: nevertheless not what I will, but what thou wilt.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "mark-14-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "And he cometh, and findeth them sleeping, and saith unto Peter, Simon, sleepest thou? couldest not thou watch one hour?",
+      "churchId": "p37"
+    },
+    {
+      "slug": "mark-14-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "Watch ye and pray, lest ye enter into temptation. The spirit truly <span class=\"clarity-word\">is</span> ready, but the flesh <span class=\"clarity-word\">is</span> weak.",
+      "churchId": "p38"
+    },
+    {
+      "slug": "mark-14-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "And again he went away, and prayed, and spake the same words.",
+      "churchId": "p39"
+    },
+    {
+      "slug": "mark-14-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "And when he returned, he found them asleep again, (for their eyes were heavy,) neither wist they what to answer him.",
+      "churchId": "p40"
+    },
+    {
+      "slug": "mark-14-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "And he cometh the third time, and saith unto them, Sleep on now, and take <span class=\"clarity-word\">your</span> rest: it is enough, the hour is come; behold, the Son of man is betrayed into the hands of sinners.",
+      "churchId": "p41"
+    },
+    {
+      "slug": "mark-14-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "Rise up, let us go; lo, he that betrayeth me is at hand.",
+      "churchId": "p42"
+    },
+    {
+      "slug": "mark-14-p43",
+      "type": "verse",
+      "number": "43",
+      "content": "¶ And immediately, while he yet spake, cometh Judas, one of the twelve, and with him a great multitude with swords and staves, from the chief priests and the scribes and the elders.",
+      "churchId": "p43"
+    },
+    {
+      "slug": "mark-14-p44",
+      "type": "verse",
+      "number": "44",
+      "content": "And he that betrayed him had given them a token, saying, Whomsoever I shall kiss, that same is he; take him, and lead <span class=\"clarity-word\">him</span> away safely.",
+      "churchId": "p44"
+    },
+    {
+      "slug": "mark-14-p45",
+      "type": "verse",
+      "number": "45",
+      "content": "And as soon as he was come, he goeth straightway to him, and saith, Master, master; and kissed him.",
+      "churchId": "p45"
+    },
+    {
+      "slug": "mark-14-p46",
+      "type": "verse",
+      "number": "46",
+      "content": "¶ And they laid their hands on him, and took him.",
+      "churchId": "p46"
+    },
+    {
+      "slug": "mark-14-p47",
+      "type": "verse",
+      "number": "47",
+      "content": "And one of them that stood by drew a sword, and smote a servant of the high priest, and cut off his ear.",
+      "churchId": "p47"
+    },
+    {
+      "slug": "mark-14-p48",
+      "type": "verse",
+      "number": "48",
+      "content": "And Jesus answered and said unto them, Are ye come out, as against a thief, with swords and <span class=\"clarity-word\">with</span> staves to take me?",
+      "churchId": "p48"
+    },
+    {
+      "slug": "mark-14-p49",
+      "type": "verse",
+      "number": "49",
+      "content": "I was daily with you in the temple teaching, and ye took me not: but the scriptures must be fulfilled.",
+      "churchId": "p49"
+    },
+    {
+      "slug": "mark-14-p50",
+      "type": "verse",
+      "number": "50",
+      "content": "And they all forsook him, and fled.",
+      "churchId": "p50"
+    },
+    {
+      "slug": "mark-14-p51",
+      "type": "verse",
+      "number": "51",
+      "content": "And there followed him a certain young man, having a linen cloth cast about <span class=\"clarity-word\">his</span> naked <span class=\"clarity-word\">body;</span> and the young men laid hold on him:",
+      "churchId": "p51"
+    },
+    {
+      "slug": "mark-14-p52",
+      "type": "verse",
+      "number": "52",
+      "content": "And he left the linen cloth, and fled from them naked.",
+      "churchId": "p52"
+    },
+    {
+      "slug": "mark-14-p53",
+      "type": "verse",
+      "number": "53",
+      "content": "¶ And they led Jesus away to the high priest: and with him were assembled all the chief priests and the elders and the scribes.",
+      "churchId": "p53"
+    },
+    {
+      "slug": "mark-14-p54",
+      "type": "verse",
+      "number": "54",
+      "content": "And Peter followed him afar off, even into the palace of the high priest: and he sat with the servants, and warmed himself at the fire.",
+      "churchId": "p54"
+    },
+    {
+      "slug": "mark-14-p55",
+      "type": "verse",
+      "number": "55",
+      "content": "And the chief priests and all the council sought for witness against Jesus to put him to death; and found none.",
+      "churchId": "p55"
+    },
+    {
+      "slug": "mark-14-p56",
+      "type": "verse",
+      "number": "56",
+      "content": "For many bare false witness against him, but their witness agreed not together.",
+      "churchId": "p56"
+    },
+    {
+      "slug": "mark-14-p57",
+      "type": "verse",
+      "number": "57",
+      "content": "And there arose certain, and bare false witness against him, saying,",
+      "churchId": "p57"
+    },
+    {
+      "slug": "mark-14-p58",
+      "type": "verse",
+      "number": "58",
+      "content": "We heard him say, I will destroy this temple that is made with hands, and within three days I will build another made without hands.",
+      "churchId": "p58"
+    },
+    {
+      "slug": "mark-14-p59",
+      "type": "verse",
+      "number": "59",
+      "content": "But neither so did their witness agree together.",
+      "churchId": "p59"
+    },
+    {
+      "slug": "mark-14-p60",
+      "type": "verse",
+      "number": "60",
+      "content": "And the high priest stood up in the midst, and asked Jesus, saying, Answerest thou nothing? what <span class=\"clarity-word\">is it which</span> these witness against thee?",
+      "churchId": "p60"
+    },
+    {
+      "slug": "mark-14-p61",
+      "type": "verse",
+      "number": "61",
+      "content": "But he held his peace, and answered nothing. Again the high priest asked him, and said unto him, Art thou the Christ, the Son of the Blessed?",
+      "churchId": "p61"
+    },
+    {
+      "slug": "mark-14-p62",
+      "type": "verse",
+      "number": "62",
+      "content": "And Jesus said, I am: and ye shall see the Son of man sitting on the right hand of power, and coming in the clouds of heaven.",
+      "churchId": "p62"
+    },
+    {
+      "slug": "mark-14-p63",
+      "type": "verse",
+      "number": "63",
+      "content": "Then the high priest rent his clothes, and saith, What need we any further witnesses?",
+      "churchId": "p63"
+    },
+    {
+      "slug": "mark-14-p64",
+      "type": "verse",
+      "number": "64",
+      "content": "Ye have heard the blasphemy: what think ye? And they all condemned him to be guilty of death.",
+      "churchId": "p64"
+    },
+    {
+      "slug": "mark-14-p65",
+      "type": "verse",
+      "number": "65",
+      "content": "And some began to spit on him, and to cover his face, and to buffet him, and to say unto him, Prophesy: and the servants did strike him with the palms of their hands.",
+      "churchId": "p65"
+    },
+    {
+      "slug": "mark-14-p66",
+      "type": "verse",
+      "number": "66",
+      "content": "¶ And as Peter was beneath in the palace, there cometh one of the maids of the high priest:",
+      "churchId": "p66"
+    },
+    {
+      "slug": "mark-14-p67",
+      "type": "verse",
+      "number": "67",
+      "content": "And when she saw Peter warming himself, she looked upon him, and said, And thou also wast with Jesus of Nazareth.",
+      "churchId": "p67"
+    },
+    {
+      "slug": "mark-14-p68",
+      "type": "verse",
+      "number": "68",
+      "content": "But he denied, saying, I know not, neither understand I what thou sayest. And he went out into the porch; and the cock crew.",
+      "churchId": "p68"
+    },
+    {
+      "slug": "mark-14-p69",
+      "type": "verse",
+      "number": "69",
+      "content": "And a maid saw him again, and began to say to them that stood by, This is <span class=\"clarity-word\">one</span> of them.",
+      "churchId": "p69"
+    },
+    {
+      "slug": "mark-14-p70",
+      "type": "verse",
+      "number": "70",
+      "content": "And he denied it again. And a little after, they that stood by said again to Peter, Surely thou art <span class=\"clarity-word\">one</span> of them: for thou art a Galilæan, and thy speech agreeth <span class=\"clarity-word\">thereto.</span>",
+      "churchId": "p70"
+    },
+    {
+      "slug": "mark-14-p71",
+      "type": "verse",
+      "number": "71",
+      "content": "But he began to curse and to swear, <span class=\"clarity-word\">saying,</span> I know not this man of whom ye speak.",
+      "churchId": "p71"
+    },
+    {
+      "slug": "mark-14-p72",
+      "type": "verse",
+      "number": "72",
+      "content": "And the second time the cock crew. And Peter called to mind the word that Jesus said unto him, Before the cock crow twice, thou shalt deny me thrice. And when he thought thereon, he wept.",
+      "churchId": "p72"
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "name": "Ephesians 5",
+  "abbrev": "Eph. 5",
+  "number": "5",
+  "churchUri": "/scriptures/nt/eph/5",
+  "paragraphs": [
+    {
+      "slug": "ephesians-5-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 5",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "ephesians-5-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Be ye therefore followers of God, as dear children;",
+      "churchId": "p1"
+    },
+    {
+      "slug": "ephesians-5-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And walk in love, as Christ also hath loved us, and hath given himself for us an offering and a sacrifice to God for a sweetsmelling savour.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "ephesians-5-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "But fornication, and all uncleanness, or covetousness, let it not be once named among you, as becometh saints;",
+      "churchId": "p3"
+    },
+    {
+      "slug": "ephesians-5-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Neither filthiness, nor foolish talking, nor jesting, which are not convenient: but rather giving of thanks.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "ephesians-5-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "For this ye know, that no whoremonger, nor unclean person, nor covetous man, who is an idolater, hath any inheritance in the kingdom of Christ and of God.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "ephesians-5-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Let no man deceive you with vain words: for because of these things cometh the wrath of God upon the children of disobedience.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "ephesians-5-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Be not ye therefore partakers with them.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "ephesians-5-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "For ye were sometimes darkness, but now <span class=\"clarity-word\">are ye</span> light in the Lord: walk as children of light:",
+      "churchId": "p8"
+    },
+    {
+      "slug": "ephesians-5-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "(For the fruit of the Spirit <span class=\"clarity-word\">is</span> in all goodness and righteousness and truth;)",
+      "churchId": "p9"
+    },
+    {
+      "slug": "ephesians-5-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Proving what is acceptable unto the Lord.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "ephesians-5-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And have no fellowship with the unfruitful works of darkness, but rather reprove <span class=\"clarity-word\">them.</span>",
+      "churchId": "p11"
+    },
+    {
+      "slug": "ephesians-5-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "For it is a shame even to speak of those things which are done of them in secret.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "ephesians-5-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "But all things that are reproved are made manifest by the light: for whatsoever doth make manifest is light.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "ephesians-5-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Wherefore he saith, Awake thou that sleepest, and arise from the dead, and Christ shall give thee light.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "ephesians-5-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "See then that ye walk circumspectly, not as fools, but as wise,",
+      "churchId": "p15"
+    },
+    {
+      "slug": "ephesians-5-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Redeeming the time, because the days are evil.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "ephesians-5-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Wherefore be ye not unwise, but understanding what the will of the Lord <span class=\"clarity-word\">is.</span>",
+      "churchId": "p17"
+    },
+    {
+      "slug": "ephesians-5-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And be not drunk with wine, wherein is excess; but be filled with the Spirit;",
+      "churchId": "p18"
+    },
+    {
+      "slug": "ephesians-5-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Speaking to yourselves in psalms and hymns and spiritual songs, singing and making melody in your heart to the Lord;",
+      "churchId": "p19"
+    },
+    {
+      "slug": "ephesians-5-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Giving thanks always for all things unto God and the Father in the name of our Lord Jesus Christ;",
+      "churchId": "p20"
+    },
+    {
+      "slug": "ephesians-5-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Submitting yourselves one to another in the fear of God.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "ephesians-5-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Wives, submit yourselves unto your own husbands, as unto the Lord.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "ephesians-5-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "For the husband is the head of the wife, even as Christ is the head of the church: and he is the saviour of the body.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "ephesians-5-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Therefore as the church is subject unto Christ, so <span class=\"clarity-word\">let</span> the wives <span class=\"clarity-word\">be</span> to their own husbands in every thing.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "ephesians-5-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Husbands, love your wives, even as Christ also loved the church, and gave himself for it;",
+      "churchId": "p25"
+    },
+    {
+      "slug": "ephesians-5-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "That he might sanctify and cleanse it with the washing of water by the word,",
+      "churchId": "p26"
+    },
+    {
+      "slug": "ephesians-5-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "That he might present it to himself a glorious church, not having spot, or wrinkle, or any such thing; but that it should be holy and without blemish.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "ephesians-5-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "So ought men to love their wives as their own bodies. He that loveth his wife loveth himself.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "ephesians-5-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "For no man ever yet hated his own flesh; but nourisheth and cherisheth it, even as the Lord the church:",
+      "churchId": "p29"
+    },
+    {
+      "slug": "ephesians-5-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "For we are members of his body, of his flesh, and of his bones.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "ephesians-5-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "For this cause shall a man leave his father and mother, and shall be joined unto his wife, and they two shall be one flesh.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "ephesians-5-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "This is a great mystery: but I speak concerning Christ and the church.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "ephesians-5-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "Nevertheless let every one of you in particular so love his wife even as himself; and the wife <span class=\"clarity-word\">see</span> that she reverence <span class=\"clarity-word\">her</span> husband.",
+      "churchId": "p33"
+    }
+  ]
+}

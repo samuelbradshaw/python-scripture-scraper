@@ -1,0 +1,379 @@
+{
+  "name": "Mark 10",
+  "abbrev": "Mark 10",
+  "number": "10",
+  "churchUri": "/scriptures/nt/mark/10",
+  "paragraphs": [
+    {
+      "slug": "mark-10-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 10",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "mark-10-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And he arose from thence, and cometh into the coasts of Judæa by the farther side of Jordan: and the people resort unto him again; and, as he was wont, he taught them again.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "mark-10-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "¶ And the Pharisees came to him, and asked him, Is it lawful for a man to put away <span class=\"clarity-word\">his</span> wife? tempting him.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "mark-10-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And he answered and said unto them, What did Moses command you?",
+      "churchId": "p3"
+    },
+    {
+      "slug": "mark-10-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And they said, Moses suffered to write a bill of divorcement, and to put <span class=\"clarity-word\">her</span> away.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "mark-10-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And Jesus answered and said unto them, For the hardness of your heart he wrote you this precept.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "mark-10-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "But from the beginning of the creation God made them male and female.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "mark-10-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "For this cause shall a man leave his father and mother, and cleave to his wife;",
+      "churchId": "p7"
+    },
+    {
+      "slug": "mark-10-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And they twain shall be one flesh: so then they are no more twain, but one flesh.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "mark-10-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "What therefore God hath joined together, let not man put asunder.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "mark-10-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And in the house his disciples asked him again of the same <span class=\"clarity-word\">matter.</span>",
+      "churchId": "p10"
+    },
+    {
+      "slug": "mark-10-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And he saith unto them, Whosoever shall put away his wife, and marry another, committeth adultery against her.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "mark-10-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And if a woman shall put away her husband, and be married to another, she committeth adultery.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "mark-10-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "¶ And they brought young children to him, that he should touch them: and <span class=\"clarity-word\">his</span> disciples rebuked those that brought <span class=\"clarity-word\">them.</span>",
+      "churchId": "p13"
+    },
+    {
+      "slug": "mark-10-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "But when Jesus saw <span class=\"clarity-word\">it,</span> he was much displeased, and said unto them, Suffer the little children to come unto me, and forbid them not: for of such is the kingdom of God.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "mark-10-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Verily I say unto you, Whosoever shall not receive the kingdom of God as a little child, he shall not enter therein.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "mark-10-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And he took them up in his arms, put <span class=\"clarity-word\">his</span> hands upon them, and blessed them.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "mark-10-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "¶ And when he was gone forth into the way, there came one running, and kneeled to him, and asked him, Good Master, what shall I do that I may inherit eternal life?",
+      "churchId": "p17"
+    },
+    {
+      "slug": "mark-10-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And Jesus said unto him, Why callest thou me good? <span class=\"clarity-word\">there is</span> none good but one, <span class=\"clarity-word\">that is,</span> God.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "mark-10-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Thou knowest the commandments, Do not commit adultery, Do not kill, Do not steal, Do not bear false witness, Defraud not, Honour thy father and mother.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "mark-10-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And he answered and said unto him, Master, all these have I observed from my youth.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "mark-10-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Then Jesus beholding him loved him, and said unto him, One thing thou lackest: go thy way, sell whatsoever thou hast, and give to the poor, and thou shalt have treasure in heaven: and come, take up the cross, and follow me.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "mark-10-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And he was sad at that saying, and went away grieved: for he had great possessions.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "mark-10-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "¶ And Jesus looked round about, and saith unto his disciples, How hardly shall they that have riches enter into the kingdom of God!",
+      "churchId": "p23"
+    },
+    {
+      "slug": "mark-10-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And the disciples were astonished at his words. But Jesus answereth again, and saith unto them, Children, how hard is it for them that trust in riches to enter into the kingdom of God!",
+      "churchId": "p24"
+    },
+    {
+      "slug": "mark-10-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "It is easier for a camel to go through the eye of a needle, than for a rich man to enter into the kingdom of God.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "mark-10-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And they were astonished out of measure, saying among themselves, Who then can be saved?",
+      "churchId": "p26"
+    },
+    {
+      "slug": "mark-10-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And Jesus looking upon them saith, With men <span class=\"clarity-word\">it is</span> impossible, but not with God: for with God all things are possible.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "mark-10-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "¶ Then Peter began to say unto him, Lo, we have left all, and have followed thee.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "mark-10-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "And Jesus answered and said, Verily I say unto you, There is no man that hath left house, or brethren, or sisters, or father, or mother, or wife, or children, or lands, for my sake, and the gospel’s,",
+      "churchId": "p29"
+    },
+    {
+      "slug": "mark-10-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "But he shall receive an hundredfold now in this time, houses, and brethren, and sisters, and mothers, and children, and lands, with persecutions; and in the world to come eternal life.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "mark-10-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "But many <span class=\"clarity-word\">that are</span> first shall be last; and the last first.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "mark-10-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "¶ And they were in the way going up to Jerusalem; and Jesus went before them: and they were amazed; and as they followed, they were afraid. And he took again the twelve, and began to tell them what things should happen unto him,",
+      "churchId": "p32"
+    },
+    {
+      "slug": "mark-10-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "<span class=\"clarity-word\">Saying,</span> Behold, we go up to Jerusalem; and the Son of man shall be delivered unto the chief priests, and unto the scribes; and they shall condemn him to death, and shall deliver him to the Gentiles:",
+      "churchId": "p33"
+    },
+    {
+      "slug": "mark-10-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "And they shall mock him, and shall scourge him, and shall spit upon him, and shall kill him: and the third day he shall rise again.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "mark-10-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "¶ And James and John, the sons of Zebedee, come unto him, saying, Master, we would that thou shouldest do for us whatsoever we shall desire.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "mark-10-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "And he said unto them, What would ye that I should do for you?",
+      "churchId": "p36"
+    },
+    {
+      "slug": "mark-10-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "They said unto him, Grant unto us that we may sit, one on thy right hand, and the other on thy left hand, in thy glory.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "mark-10-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "But Jesus said unto them, Ye know not what ye ask: can ye drink of the cup that I drink of? and be baptized with the baptism that I am baptized with?",
+      "churchId": "p38"
+    },
+    {
+      "slug": "mark-10-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "And they said unto him, We can. And Jesus said unto them, Ye shall indeed drink of the cup that I drink of; and with the baptism that I am baptized withal shall ye be baptized:",
+      "churchId": "p39"
+    },
+    {
+      "slug": "mark-10-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "But to sit on my right hand and on my left hand is not mine to give; but <span class=\"clarity-word\">it shall be given to them</span> for whom it is prepared.",
+      "churchId": "p40"
+    },
+    {
+      "slug": "mark-10-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "And when the ten heard <span class=\"clarity-word\">it,</span> they began to be much displeased with James and John.",
+      "churchId": "p41"
+    },
+    {
+      "slug": "mark-10-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "But Jesus called them <span class=\"clarity-word\">to him,</span> and saith unto them, Ye know that they which are accounted to rule over the Gentiles exercise lordship over them; and their great ones exercise authority upon them.",
+      "churchId": "p42"
+    },
+    {
+      "slug": "mark-10-p43",
+      "type": "verse",
+      "number": "43",
+      "content": "But so shall it not be among you: but whosoever will be great among you, shall be your minister:",
+      "churchId": "p43"
+    },
+    {
+      "slug": "mark-10-p44",
+      "type": "verse",
+      "number": "44",
+      "content": "And whosoever of you will be the chiefest, shall be servant of all.",
+      "churchId": "p44"
+    },
+    {
+      "slug": "mark-10-p45",
+      "type": "verse",
+      "number": "45",
+      "content": "For even the Son of man came not to be ministered unto, but to minister, and to give his life a ransom for many.",
+      "churchId": "p45"
+    },
+    {
+      "slug": "mark-10-p46",
+      "type": "verse",
+      "number": "46",
+      "content": "¶ And they came to Jericho: and as he went out of Jericho with his disciples and a great number of people, blind Bartimæus, the son of Timæus, sat by the highway side begging.",
+      "churchId": "p46"
+    },
+    {
+      "slug": "mark-10-p47",
+      "type": "verse",
+      "number": "47",
+      "content": "And when he heard that it was Jesus of Nazareth, he began to cry out, and say, Jesus, <span class=\"clarity-word\">thou</span> Son of David, have mercy on me.",
+      "churchId": "p47"
+    },
+    {
+      "slug": "mark-10-p48",
+      "type": "verse",
+      "number": "48",
+      "content": "And many charged him that he should hold his peace: but he cried the more a great deal, <span class=\"clarity-word\">Thou</span> Son of David, have mercy on me.",
+      "churchId": "p48"
+    },
+    {
+      "slug": "mark-10-p49",
+      "type": "verse",
+      "number": "49",
+      "content": "And Jesus stood still, and commanded him to be called. And they call the blind man, saying unto him, Be of good comfort, rise; he calleth thee.",
+      "churchId": "p49"
+    },
+    {
+      "slug": "mark-10-p50",
+      "type": "verse",
+      "number": "50",
+      "content": "And he, casting away his garment, rose, and came to Jesus.",
+      "churchId": "p50"
+    },
+    {
+      "slug": "mark-10-p51",
+      "type": "verse",
+      "number": "51",
+      "content": "And Jesus answered and said unto him, What wilt thou that I should do unto thee? The blind man said unto him, Lord, that I might receive my sight.",
+      "churchId": "p51"
+    },
+    {
+      "slug": "mark-10-p52",
+      "type": "verse",
+      "number": "52",
+      "content": "And Jesus said unto him, Go thy way; thy faith hath made thee whole. And immediately he received his sight, and followed Jesus in the way.",
+      "churchId": "p52"
+    }
+  ]
+}

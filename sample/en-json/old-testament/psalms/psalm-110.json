@@ -1,0 +1,71 @@
+{
+  "name": "Psalm 110",
+  "abbrev": "Psalm 110",
+  "number": "110",
+  "churchUri": "/scriptures/ot/ps/110",
+  "paragraphs": [
+    {
+      "slug": "psalm-110-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 110",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-110-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "A Psalm of David.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-110-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "The <span class=\"small-caps\">Lord</span> said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-110-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "The <span class=\"small-caps\">Lord</span> shall send the rod of thy strength out of Zion: rule thou in the midst of thine enemies.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-110-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Thy people <span class=\"clarity-word\">shall be</span> willing in the day of thy power, in the beauties of holiness from the womb of the morning: thou hast the dew of thy youth.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-110-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "The <span class=\"small-caps\">Lord</span> hath sworn, and will not repent, Thou <span class=\"clarity-word\">art</span> a priest for ever after the order of Melchizedek.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-110-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "The Lord at thy right hand shall strike through kings in the day of his wrath.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-110-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "He shall judge among the heathen, he shall fill <span class=\"clarity-word\">the places</span> with the dead bodies; he shall wound the heads over many countries.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-110-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "He shall drink of the brook in the way: therefore shall he lift up the head.",
+      "churchId": "p7"
+    }
+  ]
+}

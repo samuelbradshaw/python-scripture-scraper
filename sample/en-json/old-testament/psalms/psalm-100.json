@@ -1,0 +1,57 @@
+{
+  "name": "Psalm 100",
+  "abbrev": "Psalm 100",
+  "number": "100",
+  "churchUri": "/scriptures/ot/ps/100",
+  "paragraphs": [
+    {
+      "slug": "psalm-100-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 100",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-100-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "A Psalm of praise.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-100-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Make a joyful noise unto the <span class=\"small-caps\">Lord</span>, all ye lands.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-100-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Serve the <span class=\"small-caps\">Lord</span> with gladness: come before his presence with singing.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-100-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Know ye that the <span class=\"small-caps\">Lord</span> he <span class=\"clarity-word\">is</span> God: <span class=\"clarity-word\">it is</span> he <span class=\"clarity-word\">that</span> hath made us, and not we ourselves; <span class=\"clarity-word\">we are</span> his people, and the sheep of his pasture.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-100-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Enter into his gates with thanksgiving, <span class=\"clarity-word\">and</span> into his courts with praise: be thankful unto him, <span class=\"clarity-word\">and</span> bless his name.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-100-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "For the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">is</span> good; his mercy <span class=\"clarity-word\">is</span> everlasting; and his truth <span class=\"clarity-word\">endureth</span> to all generations.",
+      "churchId": "p5"
+    }
+  ]
+}

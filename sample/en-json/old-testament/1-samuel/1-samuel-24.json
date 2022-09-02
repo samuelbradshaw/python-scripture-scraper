@@ -1,0 +1,169 @@
+{
+  "name": "1 Samuel 24",
+  "abbrev": "1 Sam. 24",
+  "number": "24",
+  "churchUri": "/scriptures/ot/1-sam/24",
+  "paragraphs": [
+    {
+      "slug": "1-samuel-24-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 24",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "1-samuel-24-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And it came to pass, when Saul was returned from following the Philistines, that it was told him, saying, Behold, David <span class=\"clarity-word\">is</span> in the wilderness of En-gedi.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "1-samuel-24-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Then Saul took three thousand chosen men out of all Israel, and went to seek David and his men upon the rocks of the wild goats.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "1-samuel-24-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And he came to the sheepcotes by the way, where <span class=\"clarity-word\">was</span> a cave; and Saul went in to cover his feet: and David and his men remained in the sides of the cave.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "1-samuel-24-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And the men of David said unto him, Behold the day of which the <span class=\"small-caps\">Lord</span> said unto thee, Behold, I will deliver thine enemy into thine hand, that thou mayest do to him as it shall seem good unto thee. Then David arose, and cut off the skirt of Saul’s robe privily.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "1-samuel-24-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And it came to pass afterward, that David’s heart smote him, because he had cut off Saul’s skirt.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "1-samuel-24-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And he said unto his men, The <span class=\"small-caps\">Lord</span> forbid that I should do this thing unto my master, the <span class=\"small-caps\">Lord</span>’s anointed, to stretch forth mine hand against him, seeing he <span class=\"clarity-word\">is</span> the anointed of the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "1-samuel-24-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "So David stayed his servants with these words, and suffered them not to rise against Saul. But Saul rose up out of the cave, and went on <span class=\"clarity-word\">his</span> way.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "1-samuel-24-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "David also arose afterward, and went out of the cave, and cried after Saul, saying, My lord the king. And when Saul looked behind him, David stooped with his face to the earth, and bowed himself.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "1-samuel-24-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "¶ And David said to Saul, Wherefore hearest thou men’s words, saying, Behold, David seeketh thy hurt?",
+      "churchId": "p9"
+    },
+    {
+      "slug": "1-samuel-24-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Behold, this day thine eyes have seen how that the <span class=\"small-caps\">Lord</span> had delivered thee to day into mine hand in the cave: and <span class=\"clarity-word\">some</span> bade <span class=\"clarity-word\">me</span> kill thee: but <span class=\"clarity-word\">mine eye</span> spared thee; and I said, I will not put forth mine hand against my lord; for he <span class=\"clarity-word\">is</span> the <span class=\"small-caps\">Lord</span>’s anointed.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "1-samuel-24-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Moreover, my father, see, yea, see the skirt of thy robe in my hand: for in that I cut off the skirt of thy robe, and killed thee not, know thou and see that <span class=\"clarity-word\">there is</span> neither evil nor transgression in mine hand, and I have not sinned against thee; yet thou huntest my soul to take it.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "1-samuel-24-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "The <span class=\"small-caps\">Lord</span> judge between me and thee, and the <span class=\"small-caps\">Lord</span> avenge me of thee: but mine hand shall not be upon thee.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "1-samuel-24-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "As saith the proverb of the ancients, Wickedness proceedeth from the wicked: but mine hand shall not be upon thee.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "1-samuel-24-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "After whom is the king of Israel come out? after whom dost thou pursue? after a dead dog, after a flea.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "1-samuel-24-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "The <span class=\"small-caps\">Lord</span> therefore be judge, and judge between me and thee, and see, and plead my cause, and deliver me out of thine hand.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "1-samuel-24-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "¶ And it came to pass, when David had made an end of speaking these words unto Saul, that Saul said, <span class=\"clarity-word\">Is</span> this thy voice, my son David? And Saul lifted up his voice, and wept.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "1-samuel-24-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And he said to David, Thou <span class=\"clarity-word\">art</span> more righteous than I: for thou hast rewarded me good, whereas I have rewarded thee evil.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "1-samuel-24-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And thou hast shewed this day how that thou hast dealt well with me: forasmuch as when the <span class=\"small-caps\">Lord</span> had delivered me into thine hand, thou killedst me not.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "1-samuel-24-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "For if a man find his enemy, will he let him go well away? wherefore the <span class=\"small-caps\">Lord</span> reward thee good for that thou hast done unto me this day.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "1-samuel-24-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And now, behold, I know well that thou shalt surely be king, and that the kingdom of Israel shall be established in thine hand.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "1-samuel-24-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Swear now therefore unto me by the <span class=\"small-caps\">Lord</span>, that thou wilt not cut off my seed after me, and that thou wilt not destroy my name out of my father’s house.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "1-samuel-24-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And David sware unto Saul. And Saul went home; but David and his men gat them up unto the hold.",
+      "churchId": "p22"
+    }
+  ]
+}

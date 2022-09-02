@@ -1,0 +1,99 @@
+{
+  "name": "1 Samuel 5",
+  "abbrev": "1 Sam. 5",
+  "number": "5",
+  "churchUri": "/scriptures/ot/1-sam/5",
+  "paragraphs": [
+    {
+      "slug": "1-samuel-5-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 5",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "1-samuel-5-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And the Philistines took the ark of God, and brought it from Eben-ezer unto Ashdod.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "1-samuel-5-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "When the Philistines took the ark of God, they brought it into the house of Dagon, and set it by Dagon.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "1-samuel-5-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "¶ And when they of Ashdod arose early on the morrow, behold, Dagon <span class=\"clarity-word\">was</span> fallen upon his face to the earth before the ark of the <span class=\"small-caps\">Lord</span>. And they took Dagon, and set him in his place again.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "1-samuel-5-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And when they arose early on the morrow morning, behold, Dagon <span class=\"clarity-word\">was</span> fallen upon his face to the ground before the ark of the <span class=\"small-caps\">Lord</span>; and the head of Dagon and both the palms of his hands <span class=\"clarity-word\">were</span> cut off upon the threshold; only <span class=\"clarity-word\">the stump of</span> Dagon was left to him.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "1-samuel-5-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Therefore neither the priests of Dagon, nor any that come into Dagon’s house, tread on the threshold of Dagon in Ashdod unto this day.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "1-samuel-5-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "But the hand of the <span class=\"small-caps\">Lord</span> was heavy upon them of Ashdod, and he destroyed them, and smote them with emerods, <span class=\"clarity-word\">even</span> Ashdod and the coasts thereof.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "1-samuel-5-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And when the men of Ashdod saw that <span class=\"clarity-word\">it was</span> so, they said, The ark of the God of Israel shall not abide with us: for his hand is sore upon us, and upon Dagon our god.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "1-samuel-5-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "They sent therefore and gathered all the lords of the Philistines unto them, and said, What shall we do with the ark of the God of Israel? And they answered, Let the ark of the God of Israel be carried about unto Gath. And they carried the ark of the God of Israel about <span class=\"clarity-word\">thither.</span>",
+      "churchId": "p8"
+    },
+    {
+      "slug": "1-samuel-5-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And it was <span class=\"clarity-word\">so,</span> that, after they had carried it about, the hand of the <span class=\"small-caps\">Lord</span> was against the city with a very great destruction: and he smote the men of the city, both small and great, and they had emerods in their secret parts.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "1-samuel-5-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "¶ Therefore they sent the ark of God to Ekron. And it came to pass, as the ark of God came to Ekron, that the Ekronites cried out, saying, They have brought about the ark of the God of Israel to us, to slay us and our people.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "1-samuel-5-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "So they sent and gathered together all the lords of the Philistines, and said, Send away the ark of the God of Israel, and let it go again to his own place, that it slay us not, and our people: for there was a deadly destruction throughout all the city; the hand of God was very heavy there.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "1-samuel-5-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And the men that died not were smitten with the emerods: and the cry of the city went up to heaven.",
+      "churchId": "p12"
+    }
+  ]
+}

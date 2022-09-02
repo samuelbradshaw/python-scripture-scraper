@@ -1,0 +1,148 @@
+{
+  "name": "Deuteronomy 25",
+  "abbrev": "Deut. 25",
+  "number": "25",
+  "churchUri": "/scriptures/ot/deut/25",
+  "paragraphs": [
+    {
+      "slug": "deuteronomy-25-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 25",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "deuteronomy-25-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "If there be a controversy between men, and they come unto judgment, that <span class=\"clarity-word\">the judges</span> may judge them; then they shall justify the righteous, and condemn the wicked.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "deuteronomy-25-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And it shall be, if the wicked man <span class=\"clarity-word\">be</span> worthy to be beaten, that the judge shall cause him to lie down, and to be beaten before his face, according to his fault, by a certain number.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "deuteronomy-25-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Forty stripes he may give him, <span class=\"clarity-word\">and</span> not exceed: lest, <span class=\"clarity-word\">if</span> he should exceed, and beat him above these with many stripes, then thy brother should seem vile unto thee.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "deuteronomy-25-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "¶ Thou shalt not muzzle the ox when he treadeth out <span class=\"clarity-word\">the corn.</span>",
+      "churchId": "p4"
+    },
+    {
+      "slug": "deuteronomy-25-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "¶ If brethren dwell together, and one of them die, and have no child, the wife of the dead shall not marry without unto a stranger: her husband’s brother shall go in unto her, and take her to him to wife, and perform the duty of an husband’s brother unto her.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "deuteronomy-25-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And it shall be, <span class=\"clarity-word\">that</span> the firstborn which she beareth shall succeed in the name of his brother <span class=\"clarity-word\">which is</span> dead, that his name be not put out of Israel.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "deuteronomy-25-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And if the man like not to take his brother’s wife, then let his brother’s wife go up to the gate unto the elders, and say, My husband’s brother refuseth to raise up unto his brother a name in Israel, he will not perform the duty of my husband’s brother.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "deuteronomy-25-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Then the elders of his city shall call him, and speak unto him: and <span class=\"clarity-word\">if</span> he stand <span class=\"clarity-word\">to it</span><span class=\"clarity-word\">,</span> and say, I like not to take her;",
+      "churchId": "p8"
+    },
+    {
+      "slug": "deuteronomy-25-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Then shall his brother’s wife come unto him in the presence of the elders, and loose his shoe from off his foot, and spit in his face, and shall answer and say, So shall it be done unto that man that will not build up his brother’s house.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "deuteronomy-25-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And his name shall be called in Israel, The house of him that hath his shoe loosed.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "deuteronomy-25-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "¶ When men strive together one with another, and the wife of the one draweth near for to deliver her husband out of the hand of him that smiteth him, and putteth forth her hand, and taketh him by the secrets:",
+      "churchId": "p11"
+    },
+    {
+      "slug": "deuteronomy-25-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Then thou shalt cut off her hand, thine eye shall not pity <span class=\"clarity-word\">her.</span>",
+      "churchId": "p12"
+    },
+    {
+      "slug": "deuteronomy-25-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "¶ Thou shalt not have in thy bag divers weights, a great and a small.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "deuteronomy-25-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Thou shalt not have in thine house divers measures, a great and a small.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "deuteronomy-25-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "<span class=\"clarity-word\">But</span> thou shalt have a perfect and just weight, a perfect and just measure shalt thou have: that thy days may be lengthened in the land which the <span class=\"small-caps\">Lord</span> thy God giveth thee.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "deuteronomy-25-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "For all that do such things, <span class=\"clarity-word\">and</span> all that do unrighteously, <span class=\"clarity-word\">are</span> an abomination unto the <span class=\"small-caps\">Lord</span> thy God.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "deuteronomy-25-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "¶ Remember what Amalek did unto thee by the way, when ye were come forth out of Egypt;",
+      "churchId": "p17"
+    },
+    {
+      "slug": "deuteronomy-25-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "How he met thee by the way, and smote the hindmost of thee, <span class=\"clarity-word\">even</span> all <span class=\"clarity-word\">that were</span> feeble behind thee, when thou <span class=\"clarity-word\">wast</span> faint and weary; and he feared not God.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "deuteronomy-25-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Therefore it shall be, when the <span class=\"small-caps\">Lord</span> thy God hath given thee rest from all thine enemies round about, in the land which the <span class=\"small-caps\">Lord</span> thy God giveth thee <span class=\"clarity-word\">for</span> an inheritance to possess it, <span class=\"clarity-word\">that</span> thou shalt blot out the remembrance of Amalek from under heaven; thou shalt not forget <span class=\"clarity-word\">it.</span>",
+      "churchId": "p19"
+    }
+  ]
+}

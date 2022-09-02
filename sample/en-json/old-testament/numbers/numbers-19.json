@@ -1,0 +1,169 @@
+{
+  "name": "Numbers 19",
+  "abbrev": "Num. 19",
+  "number": "19",
+  "churchUri": "/scriptures/ot/num/19",
+  "paragraphs": [
+    {
+      "slug": "numbers-19-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 19",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "numbers-19-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And the <span class=\"small-caps\">Lord</span> spake unto Moses and unto Aaron, saying,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "numbers-19-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "This <span class=\"clarity-word\">is</span> the ordinance of the law which the <span class=\"small-caps\">Lord</span> hath commanded, saying, Speak unto the children of Israel, that they bring thee a red heifer without spot, wherein <span class=\"clarity-word\">is</span> no blemish, <span class=\"clarity-word\">and</span> upon which never came yoke:",
+      "churchId": "p2"
+    },
+    {
+      "slug": "numbers-19-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And ye shall give her unto Eleazar the priest, that he may bring her forth without the camp, and <span class=\"clarity-word\">one</span> shall slay her before his face:",
+      "churchId": "p3"
+    },
+    {
+      "slug": "numbers-19-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And Eleazar the priest shall take of her blood with his finger, and sprinkle of her blood directly before the tabernacle of the congregation seven times:",
+      "churchId": "p4"
+    },
+    {
+      "slug": "numbers-19-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And <span class=\"clarity-word\">one</span> shall burn the heifer in his sight; her skin, and her flesh, and her blood, with her dung, shall he burn:",
+      "churchId": "p5"
+    },
+    {
+      "slug": "numbers-19-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And the priest shall take cedar wood, and hyssop, and scarlet, and cast <span class=\"clarity-word\">it</span> into the midst of the burning of the heifer.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "numbers-19-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Then the priest shall wash his clothes, and he shall bathe his flesh in water, and afterward he shall come into the camp, and the priest shall be unclean until the even.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "numbers-19-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And he that burneth her shall wash his clothes in water, and bathe his flesh in water, and shall be unclean until the even.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "numbers-19-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And a man <span class=\"clarity-word\">that is</span> clean shall gather up the ashes of the heifer, and lay <span class=\"clarity-word\">them</span> up without the camp in a clean place, and it shall be kept for the congregation of the children of Israel for a water of separation: it <span class=\"clarity-word\">is</span> a purification for sin.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "numbers-19-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And he that gathereth the ashes of the heifer shall wash his clothes, and be unclean until the even: and it shall be unto the children of Israel, and unto the stranger that sojourneth among them, for a statute for ever.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "numbers-19-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "¶ He that toucheth the dead body of any man shall be unclean seven days.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "numbers-19-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "He shall purify himself with it on the third day, and on the seventh day he shall be clean: but if he purify not himself the third day, then the seventh day he shall not be clean.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "numbers-19-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Whosoever toucheth the dead body of any man that is dead, and purifieth not himself, defileth the tabernacle of the <span class=\"small-caps\">Lord</span>; and that soul shall be cut off from Israel: because the water of separation was not sprinkled upon him, he shall be unclean; his uncleanness <span class=\"clarity-word\">is</span> yet upon him.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "numbers-19-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "This <span class=\"clarity-word\">is</span> the law, when a man dieth in a tent: all that come into the tent, and all that <span class=\"clarity-word\">is</span> in the tent, shall be unclean seven days.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "numbers-19-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And every open vessel, which hath no covering bound upon it, <span class=\"clarity-word\">is</span> unclean.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "numbers-19-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And whosoever toucheth one that is slain with a sword in the open fields, or a dead body, or a bone of a man, or a grave, shall be unclean seven days.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "numbers-19-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And for an unclean <span class=\"clarity-word\">person</span> they shall take of the ashes of the burnt heifer of purification for sin, and running water shall be put thereto in a vessel:",
+      "churchId": "p17"
+    },
+    {
+      "slug": "numbers-19-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And a clean person shall take hyssop, and dip <span class=\"clarity-word\">it</span> in the water, and sprinkle <span class=\"clarity-word\">it</span> upon the tent, and upon all the vessels, and upon the persons that were there, and upon him that touched a bone, or one slain, or one dead, or a grave:",
+      "churchId": "p18"
+    },
+    {
+      "slug": "numbers-19-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And the clean <span class=\"clarity-word\">person</span> shall sprinkle upon the unclean on the third day, and on the seventh day: and on the seventh day he shall purify himself, and wash his clothes, and bathe himself in water, and shall be clean at even.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "numbers-19-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "But the man that shall be unclean, and shall not purify himself, that soul shall be cut off from among the congregation, because he hath defiled the sanctuary of the <span class=\"small-caps\">Lord</span>: the water of separation hath not been sprinkled upon him; he <span class=\"clarity-word\">is</span> unclean.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "numbers-19-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And it shall be a perpetual statute unto them, that he that sprinkleth the water of separation shall wash his clothes; and he that toucheth the water of separation shall be unclean until even.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "numbers-19-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And whatsoever the unclean <span class=\"clarity-word\">person</span> toucheth shall be unclean; and the soul that toucheth <span class=\"clarity-word\">it</span> shall be unclean until even.",
+      "churchId": "p22"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "name": "Psalm 129",
+  "abbrev": "Psalm 129",
+  "number": "129",
+  "churchUri": "/scriptures/ot/ps/129",
+  "paragraphs": [
+    {
+      "slug": "psalm-129-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 129",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-129-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "A Song of degrees.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-129-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Many a time have they afflicted me from my youth, may Israel now say:",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-129-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Many a time have they afflicted me from my youth: yet they have not prevailed against me.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-129-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "The plowers plowed upon my back: they made long their furrows.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-129-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "The <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">is</span> righteous: he hath cut asunder the cords of the wicked.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-129-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Let them all be confounded and turned back that hate Zion.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-129-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Let them be as the grass <span class=\"clarity-word\">upon</span> the housetops, which withereth afore it groweth up:",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-129-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Wherewith the mower filleth not his hand; nor he that bindeth sheaves his bosom.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-129-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Neither do they which go by say, The blessing of the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">be</span> upon you: we bless you in the name of the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p8"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "name": "Psalm 121",
+  "abbrev": "Psalm 121",
+  "number": "121",
+  "churchUri": "/scriptures/ot/ps/121",
+  "paragraphs": [
+    {
+      "slug": "psalm-121-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 121",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-121-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "A Song of degrees.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-121-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "I will lift up mine eyes unto the hills, from whence cometh my help.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-121-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "My help <span class=\"clarity-word\">cometh</span> from the <span class=\"small-caps\">Lord</span>, which made heaven and earth.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-121-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "He will not suffer thy foot to be moved: he that keepeth thee will not slumber.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-121-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Behold, he that keepeth Israel shall neither slumber nor sleep.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-121-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "The <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">is</span> thy keeper: the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">is</span> thy shade upon thy right hand.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-121-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "The sun shall not smite thee by day, nor the moon by night.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-121-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "The <span class=\"small-caps\">Lord</span> shall preserve thee from all evil: he shall preserve thy soul.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-121-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "The <span class=\"small-caps\">Lord</span> shall preserve thy going out and thy coming in from this time forth, and even for evermore.",
+      "churchId": "p8"
+    }
+  ]
+}

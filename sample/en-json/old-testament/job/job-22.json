@@ -1,0 +1,225 @@
+{
+  "name": "Job 22",
+  "abbrev": "Job 22",
+  "number": "22",
+  "churchUri": "/scriptures/ot/job/22",
+  "paragraphs": [
+    {
+      "slug": "job-22-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 22",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "job-22-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Then Eliphaz the Temanite answered and said,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "job-22-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Can a man be profitable unto God, as he that is wise may be profitable unto himself?",
+      "churchId": "p2"
+    },
+    {
+      "slug": "job-22-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "<span class=\"clarity-word\">Is it</span> any pleasure to the Almighty, that thou art righteous? or <span class=\"clarity-word\">is it</span> gain <span class=\"clarity-word\">to him,</span> that thou makest thy ways perfect?",
+      "churchId": "p3"
+    },
+    {
+      "slug": "job-22-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Will he reprove thee for fear of thee? will he enter with thee into judgment?",
+      "churchId": "p4"
+    },
+    {
+      "slug": "job-22-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "<span class=\"clarity-word\">Is</span> not thy wickedness great? and thine iniquities infinite?",
+      "churchId": "p5"
+    },
+    {
+      "slug": "job-22-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "For thou hast taken a pledge from thy brother for nought, and stripped the naked of their clothing.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "job-22-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Thou hast not given water to the weary to drink, and thou hast withholden bread from the hungry.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "job-22-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "But <span class=\"clarity-word\">as for</span> the mighty man, he had the earth; and the honourable man dwelt in it.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "job-22-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Thou hast sent widows away empty, and the arms of the fatherless have been broken.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "job-22-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Therefore snares <span class=\"clarity-word\">are</span> round about thee, and sudden fear troubleth thee;",
+      "churchId": "p10"
+    },
+    {
+      "slug": "job-22-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Or darkness, <span class=\"clarity-word\">that</span> thou canst not see; and abundance of waters cover thee.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "job-22-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "<span class=\"clarity-word\">Is</span> not God in the height of heaven? and behold the height of the stars, how high they are!",
+      "churchId": "p12"
+    },
+    {
+      "slug": "job-22-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And thou sayest, How doth God know? can he judge through the dark cloud?",
+      "churchId": "p13"
+    },
+    {
+      "slug": "job-22-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Thick clouds <span class=\"clarity-word\">are</span> a covering to him, that he seeth not; and he walketh in the circuit of heaven.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "job-22-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Hast thou marked the old way which wicked men have trodden?",
+      "churchId": "p15"
+    },
+    {
+      "slug": "job-22-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Which were cut down out of time, whose foundation was overflown with a flood:",
+      "churchId": "p16"
+    },
+    {
+      "slug": "job-22-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Which said unto God, Depart from us: and what can the Almighty do for them?",
+      "churchId": "p17"
+    },
+    {
+      "slug": "job-22-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Yet he filled their houses with good <span class=\"clarity-word\">things:</span> but the counsel of the wicked is far from me.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "job-22-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "The righteous see <span class=\"clarity-word\">it,</span> and are glad: and the innocent laugh them to scorn.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "job-22-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Whereas our substance is not cut down, but the remnant of them the fire consumeth.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "job-22-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Acquaint now thyself with him, and be at peace: thereby good shall come unto thee.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "job-22-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Receive, I pray thee, the law from his mouth, and lay up his words in thine heart.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "job-22-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "If thou return to the Almighty, thou shalt be built up, thou shalt put away iniquity far from thy tabernacles.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "job-22-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Then shalt thou lay up gold as dust, and the <span class=\"clarity-word\">gold</span> of Ophir as the stones of the brooks.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "job-22-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Yea, the Almighty shall be thy defence, and thou shalt have plenty of silver.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "job-22-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "For then shalt thou have thy delight in the Almighty, and shalt lift up thy face unto God.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "job-22-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "Thou shalt make thy prayer unto him, and he shall hear thee, and thou shalt pay thy vows.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "job-22-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "Thou shalt also decree a thing, and it shall be established unto thee: and the light shall shine upon thy ways.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "job-22-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "When <span class=\"clarity-word\">men</span> are cast down, then thou shalt say, <span class=\"clarity-word\">There is</span> lifting up; and he shall save the humble person.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "job-22-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "He shall deliver the island of the innocent: and it is delivered by the pureness of thine hands.",
+      "churchId": "p30"
+    }
+  ]
+}

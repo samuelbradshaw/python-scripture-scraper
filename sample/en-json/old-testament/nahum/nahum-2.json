@@ -1,0 +1,106 @@
+{
+  "name": "Nahum 2",
+  "abbrev": "Nahum 2",
+  "number": "2",
+  "churchUri": "/scriptures/ot/nahum/2",
+  "paragraphs": [
+    {
+      "slug": "nahum-2-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 2",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "nahum-2-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "He that dasheth in pieces is come up before thy face: keep the munition, watch the way, make <span class=\"clarity-word\">thy</span> loins strong, fortify <span class=\"clarity-word\">thy</span> power mightily.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "nahum-2-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "For the <span class=\"small-caps\">Lord</span> hath turned away the excellency of Jacob, as the excellency of Israel: for the emptiers have emptied them out, and marred their vine branches.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "nahum-2-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "The shield of his mighty men is made red, the valiant men <span class=\"clarity-word\">are</span> in scarlet: the chariots <span class=\"clarity-word\">shall be</span> with flaming torches in the day of his preparation, and the fir trees shall be terribly shaken.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "nahum-2-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "The chariots shall rage in the streets, they shall justle one against another in the broad ways: they shall seem like torches, they shall run like the lightnings.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "nahum-2-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "He shall recount his worthies: they shall stumble in their walk; they shall make haste to the wall thereof, and the defence shall be prepared.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "nahum-2-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "The gates of the rivers shall be opened, and the palace shall be dissolved.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "nahum-2-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And Huzzab shall be led away captive, she shall be brought up, and her maids shall lead <span class=\"clarity-word\">her</span> as with the voice of doves, tabering upon their breasts.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "nahum-2-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "But Nineveh <span class=\"clarity-word\">is</span> of old like a pool of water: yet they shall flee away. Stand, stand, <span class=\"clarity-word\">shall they cry;</span> but none shall look back.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "nahum-2-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Take ye the spoil of silver, take the spoil of gold: for <span class=\"clarity-word\">there is</span> none end of the store <span class=\"clarity-word\">and</span> glory out of all the pleasant furniture.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "nahum-2-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "She is empty, and void, and waste: and the heart melteth, and the knees smite together, and much pain <span class=\"clarity-word\">is</span> in all loins, and the faces of them all gather blackness.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "nahum-2-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Where <span class=\"clarity-word\">is</span> the dwelling of the lions, and the feedingplace of the young lions, where the lion, <span class=\"clarity-word\">even</span> the old lion, walked, <span class=\"clarity-word\">and</span> the lion’s whelp, and none made <span class=\"clarity-word\">them</span> afraid?",
+      "churchId": "p11"
+    },
+    {
+      "slug": "nahum-2-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "The lion did tear in pieces enough for his whelps, and strangled for his lionesses, and filled his holes with prey, and his dens with ravin.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "nahum-2-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Behold, I <span class=\"clarity-word\">am</span> against thee, saith the <span class=\"small-caps\">Lord</span> of hosts, and I will burn her chariots in the smoke, and the sword shall devour thy young lions: and I will cut off thy prey from the earth, and the voice of thy messengers shall no more be heard.",
+      "churchId": "p13"
+    }
+  ]
+}

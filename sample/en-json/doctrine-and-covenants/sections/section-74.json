@@ -1,0 +1,64 @@
+{
+  "name": "Doctrine and Covenants 74",
+  "abbrev": "D&C 74",
+  "number": "74",
+  "churchUri": "/scriptures/dc-testament/dc/74",
+  "paragraphs": [
+    {
+      "slug": "section-74-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Section 74",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "section-74-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "For the unbelieving husband is sanctified by the wife, and the unbelieving wife is sanctified by the husband; else were your children unclean, but now are they holy.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "section-74-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Now, in the days of the apostles the law of circumcision was had among all the Jews who believed not the gospel of Jesus Christ.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "section-74-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And it came to pass that there arose a great contention among the people concerning the law of circumcision, for the unbelieving husband was desirous that his children should be circumcised and become subject to the law of Moses, which law was fulfilled.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "section-74-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And it came to pass that the children, being brought up in subjection to the law of Moses, gave heed to the traditions of their fathers and believed not the gospel of Christ, wherein they became unholy.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "section-74-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Wherefore, for this cause the apostle wrote unto the church, giving unto them a commandment, not of the Lord, but of himself, that a believer should not be united to an unbeliever; except the law of Moses should be done away among them,",
+      "churchId": "p5"
+    },
+    {
+      "slug": "section-74-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "That their children might remain without circumcision; and that the tradition might be done away, which saith that little children are unholy; for it was had among the Jews;",
+      "churchId": "p6"
+    },
+    {
+      "slug": "section-74-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "But little children are holy, being sanctified through the atonement of Jesus Christ; and this is what the scriptures mean.",
+      "churchId": "p7"
+    }
+  ]
+}

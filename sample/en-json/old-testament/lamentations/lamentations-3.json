@@ -1,0 +1,477 @@
+{
+  "name": "Lamentations 3",
+  "abbrev": "Lam. 3",
+  "number": "3",
+  "churchUri": "/scriptures/ot/lam/3",
+  "paragraphs": [
+    {
+      "slug": "lamentations-3-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 3",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "lamentations-3-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "I <span class=\"clarity-word\">am</span> the man <span class=\"clarity-word\">that</span> hath seen affliction by the rod of his wrath.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "lamentations-3-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "He hath led me, and brought <span class=\"clarity-word\">me into</span> darkness, but not <span class=\"clarity-word\">into</span> light.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "lamentations-3-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Surely against me is he turned; he turneth his hand <span class=\"clarity-word\">against me</span> all the day.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "lamentations-3-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "My flesh and my skin hath he made old; he hath broken my bones.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "lamentations-3-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "He hath builded against me, and compassed <span class=\"clarity-word\">me</span> with gall and travail.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "lamentations-3-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "He hath set me in dark places, as <span class=\"clarity-word\">they that be</span> dead of old.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "lamentations-3-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "He hath hedged me about, that I cannot get out: he hath made my chain heavy.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "lamentations-3-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Also when I cry and shout, he shutteth out my prayer.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "lamentations-3-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "He hath inclosed my ways with hewn stone, he hath made my paths crooked.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "lamentations-3-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "He <span class=\"clarity-word\">was</span> unto me <span class=\"clarity-word\">as</span> a bear lying in wait, <span class=\"clarity-word\">and as</span> a lion in secret places.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "lamentations-3-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "He hath turned aside my ways, and pulled me in pieces: he hath made me desolate.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "lamentations-3-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "He hath bent his bow, and set me as a mark for the arrow.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "lamentations-3-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "He hath caused the arrows of his quiver to enter into my reins.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "lamentations-3-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "I was a derision to all my people; <span class=\"clarity-word\">and</span> their song all the day.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "lamentations-3-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "He hath filled me with bitterness, he hath made me drunken with wormwood.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "lamentations-3-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "He hath also broken my teeth with gravel stones, he hath covered me with ashes.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "lamentations-3-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And thou hast removed my soul far off from peace: I forgat prosperity.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "lamentations-3-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And I said, My strength and my hope is perished from the <span class=\"small-caps\">Lord</span>:",
+      "churchId": "p18"
+    },
+    {
+      "slug": "lamentations-3-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Remembering mine affliction and my misery, the wormwood and the gall.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "lamentations-3-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "My soul hath <span class=\"clarity-word\">them</span> still in remembrance, and is humbled in me.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "lamentations-3-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "This I recall to my mind, therefore have I hope.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "lamentations-3-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "¶ <span class=\"clarity-word\">It is of</span> the <span class=\"small-caps\">Lord</span>’s mercies that we are not consumed, because his compassions fail not.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "lamentations-3-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "<span class=\"clarity-word\">They are</span> new every morning: great <span class=\"clarity-word\">is</span> thy faithfulness.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "lamentations-3-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "The <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">is</span> my portion, saith my soul; therefore will I hope in him.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "lamentations-3-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "The <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">is</span> good unto them that wait for him, to the soul <span class=\"clarity-word\">that</span> seeketh him.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "lamentations-3-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "<span class=\"clarity-word\">It is</span> good that <span class=\"clarity-word\">a man</span> should both hope and quietly wait for the salvation of the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "lamentations-3-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "<span class=\"clarity-word\">It is</span> good for a man that he bear the yoke in his youth.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "lamentations-3-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "He sitteth alone and keepeth silence, because he hath borne <span class=\"clarity-word\">it</span> upon him.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "lamentations-3-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "He putteth his mouth in the dust; if so be there may be hope.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "lamentations-3-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "He giveth <span class=\"clarity-word\">his</span> cheek to him that smiteth him: he is filled full with reproach.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "lamentations-3-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "For the Lord will not cast off for ever:",
+      "churchId": "p31"
+    },
+    {
+      "slug": "lamentations-3-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "But though he cause grief, yet will he have compassion according to the multitude of his mercies.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "lamentations-3-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "For he doth not afflict willingly nor grieve the children of men.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "lamentations-3-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "To crush under his feet all the prisoners of the earth,",
+      "churchId": "p34"
+    },
+    {
+      "slug": "lamentations-3-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "To turn aside the right of a man before the face of the most High,",
+      "churchId": "p35"
+    },
+    {
+      "slug": "lamentations-3-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "To subvert a man in his cause, the Lord approveth not.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "lamentations-3-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "¶ Who <span class=\"clarity-word\">is</span> he <span class=\"clarity-word\">that</span> saith, and it cometh to pass, <span class=\"clarity-word\">when</span> the Lord commandeth <span class=\"clarity-word\">it</span> not?",
+      "churchId": "p37"
+    },
+    {
+      "slug": "lamentations-3-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "Out of the mouth of the most High proceedeth not evil and good?",
+      "churchId": "p38"
+    },
+    {
+      "slug": "lamentations-3-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "Wherefore doth a living man complain, a man for the punishment of his sins?",
+      "churchId": "p39"
+    },
+    {
+      "slug": "lamentations-3-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "Let us search and try our ways, and turn again to the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p40"
+    },
+    {
+      "slug": "lamentations-3-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "Let us lift up our heart with <span class=\"clarity-word\">our</span> hands unto God in the heavens.",
+      "churchId": "p41"
+    },
+    {
+      "slug": "lamentations-3-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "We have transgressed and have rebelled: thou hast not pardoned.",
+      "churchId": "p42"
+    },
+    {
+      "slug": "lamentations-3-p43",
+      "type": "verse",
+      "number": "43",
+      "content": "Thou hast covered with anger, and persecuted us: thou hast slain, thou hast not pitied.",
+      "churchId": "p43"
+    },
+    {
+      "slug": "lamentations-3-p44",
+      "type": "verse",
+      "number": "44",
+      "content": "Thou hast covered thyself with a cloud, that <span class=\"clarity-word\">our</span> prayer should not pass through.",
+      "churchId": "p44"
+    },
+    {
+      "slug": "lamentations-3-p45",
+      "type": "verse",
+      "number": "45",
+      "content": "Thou hast made us <span class=\"clarity-word\">as</span> the offscouring and refuse in the midst of the people.",
+      "churchId": "p45"
+    },
+    {
+      "slug": "lamentations-3-p46",
+      "type": "verse",
+      "number": "46",
+      "content": "All our enemies have opened their mouths against us.",
+      "churchId": "p46"
+    },
+    {
+      "slug": "lamentations-3-p47",
+      "type": "verse",
+      "number": "47",
+      "content": "Fear and a snare is come upon us, desolation and destruction.",
+      "churchId": "p47"
+    },
+    {
+      "slug": "lamentations-3-p48",
+      "type": "verse",
+      "number": "48",
+      "content": "Mine eye runneth down with rivers of water for the destruction of the daughter of my people.",
+      "churchId": "p48"
+    },
+    {
+      "slug": "lamentations-3-p49",
+      "type": "verse",
+      "number": "49",
+      "content": "Mine eye trickleth down, and ceaseth not, without any intermission,",
+      "churchId": "p49"
+    },
+    {
+      "slug": "lamentations-3-p50",
+      "type": "verse",
+      "number": "50",
+      "content": "Till the <span class=\"small-caps\">Lord</span> look down, and behold from heaven.",
+      "churchId": "p50"
+    },
+    {
+      "slug": "lamentations-3-p51",
+      "type": "verse",
+      "number": "51",
+      "content": "Mine eye affecteth mine heart because of all the daughters of my city.",
+      "churchId": "p51"
+    },
+    {
+      "slug": "lamentations-3-p52",
+      "type": "verse",
+      "number": "52",
+      "content": "Mine enemies chased me sore, like a bird, without cause.",
+      "churchId": "p52"
+    },
+    {
+      "slug": "lamentations-3-p53",
+      "type": "verse",
+      "number": "53",
+      "content": "They have cut off my life in the dungeon, and cast a stone upon me.",
+      "churchId": "p53"
+    },
+    {
+      "slug": "lamentations-3-p54",
+      "type": "verse",
+      "number": "54",
+      "content": "Waters flowed over mine head; <span class=\"clarity-word\">then</span> I said, I am cut off.",
+      "churchId": "p54"
+    },
+    {
+      "slug": "lamentations-3-p55",
+      "type": "verse",
+      "number": "55",
+      "content": "¶ I called upon thy name, O <span class=\"small-caps\">Lord</span>, out of the low dungeon.",
+      "churchId": "p55"
+    },
+    {
+      "slug": "lamentations-3-p56",
+      "type": "verse",
+      "number": "56",
+      "content": "Thou hast heard my voice: hide not thine ear at my breathing, at my cry.",
+      "churchId": "p56"
+    },
+    {
+      "slug": "lamentations-3-p57",
+      "type": "verse",
+      "number": "57",
+      "content": "Thou drewest near in the day <span class=\"clarity-word\">that</span> I called upon thee: thou saidst, Fear not.",
+      "churchId": "p57"
+    },
+    {
+      "slug": "lamentations-3-p58",
+      "type": "verse",
+      "number": "58",
+      "content": "O Lord, thou hast pleaded the causes of my soul; thou hast redeemed my life.",
+      "churchId": "p58"
+    },
+    {
+      "slug": "lamentations-3-p59",
+      "type": "verse",
+      "number": "59",
+      "content": "O <span class=\"small-caps\">Lord</span>, thou hast seen my wrong: judge thou my cause.",
+      "churchId": "p59"
+    },
+    {
+      "slug": "lamentations-3-p60",
+      "type": "verse",
+      "number": "60",
+      "content": "Thou hast seen all their vengeance <span class=\"clarity-word\">and</span> all their imaginations against me.",
+      "churchId": "p60"
+    },
+    {
+      "slug": "lamentations-3-p61",
+      "type": "verse",
+      "number": "61",
+      "content": "Thou hast heard their reproach, O <span class=\"small-caps\">Lord</span>, <span class=\"clarity-word\">and</span> all their imaginations against me;",
+      "churchId": "p61"
+    },
+    {
+      "slug": "lamentations-3-p62",
+      "type": "verse",
+      "number": "62",
+      "content": "The lips of those that rose up against me, and their device against me all the day.",
+      "churchId": "p62"
+    },
+    {
+      "slug": "lamentations-3-p63",
+      "type": "verse",
+      "number": "63",
+      "content": "Behold their sitting down, and their rising up; I <span class=\"clarity-word\">am</span> their musick.",
+      "churchId": "p63"
+    },
+    {
+      "slug": "lamentations-3-p64",
+      "type": "verse",
+      "number": "64",
+      "content": "¶ Render unto them a recompence, O <span class=\"small-caps\">Lord</span>, according to the work of their hands.",
+      "churchId": "p64"
+    },
+    {
+      "slug": "lamentations-3-p65",
+      "type": "verse",
+      "number": "65",
+      "content": "Give them sorrow of heart, thy curse unto them.",
+      "churchId": "p65"
+    },
+    {
+      "slug": "lamentations-3-p66",
+      "type": "verse",
+      "number": "66",
+      "content": "Persecute and destroy them in anger from under the heavens of the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p66"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "name": "Numbers 25",
+  "abbrev": "Num. 25",
+  "number": "25",
+  "churchUri": "/scriptures/ot/num/25",
+  "paragraphs": [
+    {
+      "slug": "numbers-25-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 25",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "numbers-25-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And Israel abode in Shittim, and the people began to commit whoredom with the daughters of Moab.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "numbers-25-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And they called the people unto the sacrifices of their gods: and the people did eat, and bowed down to their gods.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "numbers-25-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And Israel joined himself unto Baal-peor: and the anger of the <span class=\"small-caps\">Lord</span> was kindled against Israel.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "numbers-25-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And the <span class=\"small-caps\">Lord</span> said unto Moses, Take all the heads of the people, and hang them up before the <span class=\"small-caps\">Lord</span> against the sun, that the fierce anger of the <span class=\"small-caps\">Lord</span> may be turned away from Israel.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "numbers-25-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And Moses said unto the judges of Israel, Slay ye every one his men that were joined unto Baal-peor.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "numbers-25-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "¶ And, behold, one of the children of Israel came and brought unto his brethren a Midianitish woman in the sight of Moses, and in the sight of all the congregation of the children of Israel, who <span class=\"clarity-word\">were</span> weeping <span class=\"clarity-word\">before</span> the door of the tabernacle of the congregation.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "numbers-25-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And when Phinehas, the son of Eleazar, the son of Aaron the priest, saw <span class=\"clarity-word\">it,</span> he rose up from among the congregation, and took a javelin in his hand;",
+      "churchId": "p7"
+    },
+    {
+      "slug": "numbers-25-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And he went after the man of Israel into the tent, and thrust both of them through, the man of Israel, and the woman through her belly. So the plague was stayed from the children of Israel.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "numbers-25-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And those that died in the plague were twenty and four thousand.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "numbers-25-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "¶ And the <span class=\"small-caps\">Lord</span> spake unto Moses, saying,",
+      "churchId": "p10"
+    },
+    {
+      "slug": "numbers-25-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Phinehas, the son of Eleazar, the son of Aaron the priest, hath turned my wrath away from the children of Israel, while he was zealous for my sake among them, that I consumed not the children of Israel in my jealousy.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "numbers-25-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Wherefore say, Behold, I give unto him my covenant of peace:",
+      "churchId": "p12"
+    },
+    {
+      "slug": "numbers-25-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And he shall have it, and his seed after him, <span class=\"clarity-word\">even</span> the covenant of an everlasting priesthood; because he was zealous for his God, and made an atonement for the children of Israel.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "numbers-25-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Now the name of the Israelite that was slain, <span class=\"clarity-word\">even</span> that was slain with the Midianitish woman, <span class=\"clarity-word\">was</span> Zimri, the son of Salu, a prince of a chief house among the Simeonites.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "numbers-25-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And the name of the Midianitish woman that was slain <span class=\"clarity-word\">was</span> Cozbi, the daughter of Zur; he <span class=\"clarity-word\">was</span> head over a people, <span class=\"clarity-word\">and</span> of a chief house in Midian.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "numbers-25-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "¶ And the <span class=\"small-caps\">Lord</span> spake unto Moses, saying,",
+      "churchId": "p16"
+    },
+    {
+      "slug": "numbers-25-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Vex the Midianites, and smite them:",
+      "churchId": "p17"
+    },
+    {
+      "slug": "numbers-25-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "For they vex you with their wiles, wherewith they have beguiled you in the matter of Peor, and in the matter of Cozbi, the daughter of a prince of Midian, their sister, which was slain in the day of the plague for Peor’s sake.",
+      "churchId": "p18"
+    }
+  ]
+}

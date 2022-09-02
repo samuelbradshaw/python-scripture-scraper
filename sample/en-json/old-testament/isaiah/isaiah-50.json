@@ -1,0 +1,92 @@
+{
+  "name": "Isaiah 50",
+  "abbrev": "Isa. 50",
+  "number": "50",
+  "churchUri": "/scriptures/ot/isa/50",
+  "paragraphs": [
+    {
+      "slug": "isaiah-50-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 50",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "isaiah-50-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Thus saith the <span class=\"small-caps\">Lord</span>, Where <span class=\"clarity-word\">is</span> the bill of your mother’s divorcement, whom I have put away? or which of my creditors <span class=\"clarity-word\">is it</span> to whom I have sold you? Behold, for your iniquities have ye sold yourselves, and for your transgressions is your mother put away.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "isaiah-50-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Wherefore, when I came, <span class=\"clarity-word\">was there</span> no man? when I called, <span class=\"clarity-word\">was there</span> none to answer? Is my hand shortened at all, that it cannot redeem? or have I no power to deliver? behold, at my rebuke I dry up the sea, I make the rivers a wilderness: their fish stinketh, because <span class=\"clarity-word\">there is</span> no water, and dieth for thirst.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "isaiah-50-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "I clothe the heavens with blackness, and I make sackcloth their covering.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "isaiah-50-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "The Lord <span class=\"small-caps\">God</span> hath given me the tongue of the learned, that I should know how to speak a word in season to <span class=\"clarity-word\">him that is</span> weary: he wakeneth morning by morning, he wakeneth mine ear to hear as the learned.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "isaiah-50-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "¶ The Lord <span class=\"small-caps\">God</span> hath opened mine ear, and I was not rebellious, neither turned away back.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "isaiah-50-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "I gave my back to the smiters, and my cheeks to them that plucked off the hair: I hid not my face from shame and spitting.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "isaiah-50-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "¶ For the Lord <span class=\"small-caps\">God</span> will help me; therefore shall I not be confounded: therefore have I set my face like a flint, and I know that I shall not be ashamed.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "isaiah-50-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "<span class=\"clarity-word\">He is</span> near that justifieth me; who will contend with me? let us stand together: who <span class=\"clarity-word\">is</span> mine adversary? let him come near to me.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "isaiah-50-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Behold, the Lord <span class=\"small-caps\">God</span> will help me; who <span class=\"clarity-word\">is</span> he <span class=\"clarity-word\">that</span> shall condemn me? lo, they all shall wax old as a garment; the moth shall eat them up.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "isaiah-50-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "¶ Who <span class=\"clarity-word\">is</span> among you that feareth the <span class=\"small-caps\">Lord</span>, that obeyeth the voice of his servant, that walketh <span class=\"clarity-word\">in</span> darkness, and hath no light? let him trust in the name of the <span class=\"small-caps\">Lord</span>, and stay upon his God.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "isaiah-50-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Behold, all ye that kindle a fire, that compass <span class=\"clarity-word\">yourselves</span> about with sparks: walk in the light of your fire, and in the sparks <span class=\"clarity-word\">that</span> ye have kindled. This shall ye have of mine hand; ye shall lie down in sorrow.",
+      "churchId": "p11"
+    }
+  ]
+}

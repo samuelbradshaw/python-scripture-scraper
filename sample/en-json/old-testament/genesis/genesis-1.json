@@ -1,0 +1,239 @@
+{
+  "name": "Genesis 1",
+  "abbrev": "Gen. 1",
+  "number": "1",
+  "churchUri": "/scriptures/ot/gen/1",
+  "paragraphs": [
+    {
+      "slug": "genesis-1-title1",
+      "type": "book-title",
+      "number": null,
+      "content": "<small>The First Book of Moses </small><small>Called </small>Genesis",
+      "churchId": "title1"
+    },
+    {
+      "slug": "genesis-1-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 1",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "genesis-1-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "In the beginning God created the heaven and the earth.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "genesis-1-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And the earth was without form, and void; and darkness <span class=\"clarity-word\">was</span> upon the face of the deep. And the Spirit of God moved upon the face of the waters.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "genesis-1-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And God said, Let there be light: and there was light.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "genesis-1-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And God saw the light, that <span class=\"clarity-word\">it was</span> good: and God divided the light from the darkness.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "genesis-1-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "genesis-1-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "¶ And God said, Let there be a firmament in the midst of the waters, and let it divide the waters from the waters.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "genesis-1-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And God made the firmament, and divided the waters which <span class=\"clarity-word\">were</span> under the firmament from the waters which <span class=\"clarity-word\">were</span> above the firmament: and it was so.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "genesis-1-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And God called the firmament Heaven. And the evening and the morning were the second day.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "genesis-1-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "¶ And God said, Let the waters under the heaven be gathered together unto one place, and let the dry <span class=\"clarity-word\">land</span> appear: and it was so.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "genesis-1-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And God called the dry <span class=\"clarity-word\">land</span> Earth; and the gathering together of the waters called he Seas: and God saw that <span class=\"clarity-word\">it was</span> good.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "genesis-1-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And God said, Let the earth bring forth grass, the herb yielding seed, <span class=\"clarity-word\">and</span> the fruit tree yielding fruit after his kind, whose seed <span class=\"clarity-word\">is</span> in itself, upon the earth: and it was so.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "genesis-1-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And the earth brought forth grass, <span class=\"clarity-word\">and</span> herb yielding seed after his kind, and the tree yielding fruit, whose seed <span class=\"clarity-word\">was</span> in itself, after his kind: and God saw that <span class=\"clarity-word\">it was</span> good.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "genesis-1-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And the evening and the morning were the third day.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "genesis-1-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "¶ And God said, Let there be lights in the firmament of the heaven to divide the day from the night; and let them be for signs, and for seasons, and for days, and years:",
+      "churchId": "p14"
+    },
+    {
+      "slug": "genesis-1-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And let them be for lights in the firmament of the heaven to give light upon the earth: and it was so.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "genesis-1-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And God made two great lights; the greater light to rule the day, and the lesser light to rule the night: <span class=\"clarity-word\">he made</span> the stars also.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "genesis-1-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And God set them in the firmament of the heaven to give light upon the earth,",
+      "churchId": "p17"
+    },
+    {
+      "slug": "genesis-1-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And to rule over the day and over the night, and to divide the light from the darkness: and God saw that <span class=\"clarity-word\">it was</span> good.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "genesis-1-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And the evening and the morning were the fourth day.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "genesis-1-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And God said, Let the waters bring forth abundantly the moving creature that hath life, and fowl <span class=\"clarity-word\">that</span> may fly above the earth in the open firmament of heaven.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "genesis-1-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And God created great whales, and every living creature that moveth, which the waters brought forth abundantly, after their kind, and every winged fowl after his kind: and God saw that <span class=\"clarity-word\">it was</span> good.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "genesis-1-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And God blessed them, saying, Be fruitful, and multiply, and fill the waters in the seas, and let fowl multiply in the earth.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "genesis-1-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And the evening and the morning were the fifth day.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "genesis-1-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "¶ And God said, Let the earth bring forth the living creature after his kind, cattle, and creeping thing, and beast of the earth after his kind: and it was so.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "genesis-1-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And God made the beast of the earth after his kind, and cattle after their kind, and every thing that creepeth upon the earth after his kind: and God saw that <span class=\"clarity-word\">it was</span> good.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "genesis-1-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "¶ And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "genesis-1-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "So God created man in his <span class=\"clarity-word\">own</span> image, in the image of God created he him; male and female created he them.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "genesis-1-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "genesis-1-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "¶ And God said, Behold, I have given you every herb bearing seed, which <span class=\"clarity-word\">is</span> upon the face of all the earth, and every tree, in the which <span class=\"clarity-word\">is</span> the fruit of a tree yielding seed; to you it shall be for meat.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "genesis-1-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And to every beast of the earth, and to every fowl of the air, and to every thing that creepeth upon the earth, wherein <span class=\"clarity-word\">there is</span> life, <span class=\"clarity-word\">I have given</span> every green herb for meat: and it was so.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "genesis-1-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "And God saw every thing that he had made, and, behold, <span class=\"clarity-word\">it was</span> very good. And the evening and the morning were the sixth day.",
+      "churchId": "p31"
+    }
+  ]
+}

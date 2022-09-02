@@ -1,0 +1,351 @@
+{
+  "name": "Matthew 5",
+  "abbrev": "Matt. 5",
+  "number": "5",
+  "churchUri": "/scriptures/nt/matt/5",
+  "paragraphs": [
+    {
+      "slug": "matthew-5-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 5",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "matthew-5-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And seeing the multitudes, he went up into a mountain: and when he was set, his disciples came unto him:",
+      "churchId": "p1"
+    },
+    {
+      "slug": "matthew-5-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And he opened his mouth, and taught them, saying,",
+      "churchId": "p2"
+    },
+    {
+      "slug": "matthew-5-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Blessed <span class=\"clarity-word\">are</span> the poor in spirit: for theirs is the kingdom of heaven.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "matthew-5-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Blessed <span class=\"clarity-word\">are</span> they that mourn: for they shall be comforted.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "matthew-5-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Blessed <span class=\"clarity-word\">are</span> the meek: for they shall inherit the earth.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "matthew-5-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Blessed <span class=\"clarity-word\">are</span> they which do hunger and thirst after righteousness: for they shall be filled.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "matthew-5-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Blessed <span class=\"clarity-word\">are</span> the merciful: for they shall obtain mercy.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "matthew-5-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Blessed <span class=\"clarity-word\">are</span> the pure in heart: for they shall see God.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "matthew-5-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Blessed <span class=\"clarity-word\">are</span> the peacemakers: for they shall be called the children of God.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "matthew-5-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Blessed <span class=\"clarity-word\">are</span> they which are persecuted for righteousness’ sake: for theirs is the kingdom of heaven.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "matthew-5-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Blessed are ye, when <span class=\"clarity-word\">men</span> shall revile you, and persecute <span class=\"clarity-word\">you,</span> and shall say all manner of evil against you falsely, for my sake.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "matthew-5-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Rejoice, and be exceeding glad: for great <span class=\"clarity-word\">is</span> your reward in heaven: for so persecuted they the prophets which were before you.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "matthew-5-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "¶ Ye are the salt of the earth: but if the salt have lost his savour, wherewith shall it be salted? it is thenceforth good for nothing, but to be cast out, and to be trodden under foot of men.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "matthew-5-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Ye are the light of the world. A city that is set on an hill cannot be hid.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "matthew-5-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Neither do men light a candle, and put it under a bushel, but on a candlestick; and it giveth light unto all that are in the house.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "matthew-5-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "matthew-5-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "¶ Think not that I am come to destroy the law, or the prophets: I am not come to destroy, but to fulfil.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "matthew-5-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "For verily I say unto you, Till heaven and earth pass, one jot or one tittle shall in no wise pass from the law, till all be fulfilled.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "matthew-5-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Whosoever therefore shall break one of these least commandments, and shall teach men so, he shall be called the least in the kingdom of heaven: but whosoever shall do and teach <span class=\"clarity-word\">them,</span> the same shall be called great in the kingdom of heaven.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "matthew-5-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "For I say unto you, That except your righteousness shall exceed <span class=\"clarity-word\">the righteousness</span> of the scribes and Pharisees, ye shall in no case enter into the kingdom of heaven.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "matthew-5-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "¶ Ye have heard that it was said by them of old time, Thou shalt not kill; and whosoever shall kill shall be in danger of the judgment:",
+      "churchId": "p21"
+    },
+    {
+      "slug": "matthew-5-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "But I say unto you, That whosoever is angry with his brother without a cause shall be in danger of the judgment: and whosoever shall say to his brother, Raca, shall be in danger of the council: but whosoever shall say, Thou fool, shall be in danger of hell fire.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "matthew-5-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Therefore if thou bring thy gift to the altar, and there rememberest that thy brother hath ought against thee;",
+      "churchId": "p23"
+    },
+    {
+      "slug": "matthew-5-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Leave there thy gift before the altar, and go thy way; first be reconciled to thy brother, and then come and offer thy gift.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "matthew-5-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Agree with thine adversary quickly, whiles thou art in the way with him; lest at any time the adversary deliver thee to the judge, and the judge deliver thee to the officer, and thou be cast into prison.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "matthew-5-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "Verily I say unto thee, Thou shalt by no means come out thence, till thou hast paid the uttermost farthing.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "matthew-5-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "¶ Ye have heard that it was said by them of old time, Thou shalt not commit adultery:",
+      "churchId": "p27"
+    },
+    {
+      "slug": "matthew-5-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "But I say unto you, That whosoever looketh on a woman to lust after her hath committed adultery with her already in his heart.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "matthew-5-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "And if thy right eye offend thee, pluck it out, and cast <span class=\"clarity-word\">it</span> from thee: for it is profitable for thee that one of thy members should perish, and not <span class=\"clarity-word\">that</span> thy whole body should be cast into hell.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "matthew-5-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And if thy right hand offend thee, cut it off, and cast <span class=\"clarity-word\">it</span> from thee: for it is profitable for thee that one of thy members should perish, and not <span class=\"clarity-word\">that</span> thy whole body should be cast into hell.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "matthew-5-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "It hath been said, Whosoever shall put away his wife, let him give her a writing of divorcement:",
+      "churchId": "p31"
+    },
+    {
+      "slug": "matthew-5-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "But I say unto you, That whosoever shall put away his wife, saving for the cause of fornication, causeth her to commit adultery: and whosoever shall marry her that is divorced committeth adultery.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "matthew-5-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "¶ Again, ye have heard that it hath been said by them of old time, Thou shalt not forswear thyself, but shalt perform unto the Lord thine oaths:",
+      "churchId": "p33"
+    },
+    {
+      "slug": "matthew-5-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "But I say unto you, Swear not at all; neither by heaven; for it is God’s throne:",
+      "churchId": "p34"
+    },
+    {
+      "slug": "matthew-5-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "Nor by the earth; for it is his footstool: neither by Jerusalem; for it is the city of the great King.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "matthew-5-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "Neither shalt thou swear by thy head, because thou canst not make one hair white or black.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "matthew-5-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "But let your communication be, Yea, yea; Nay, nay: for whatsoever is more than these cometh of evil.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "matthew-5-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "¶ Ye have heard that it hath been said, An eye for an eye, and a tooth for a tooth:",
+      "churchId": "p38"
+    },
+    {
+      "slug": "matthew-5-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "But I say unto you, That ye resist not evil: but whosoever shall smite thee on thy right cheek, turn to him the other also.",
+      "churchId": "p39"
+    },
+    {
+      "slug": "matthew-5-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "And if any man will sue thee at the law, and take away thy coat, let him have <span class=\"clarity-word\">thy</span> cloak also.",
+      "churchId": "p40"
+    },
+    {
+      "slug": "matthew-5-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "And whosoever shall compel thee to go a mile, go with him twain.",
+      "churchId": "p41"
+    },
+    {
+      "slug": "matthew-5-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "Give to him that asketh thee, and from him that would borrow of thee turn not thou away.",
+      "churchId": "p42"
+    },
+    {
+      "slug": "matthew-5-p43",
+      "type": "verse",
+      "number": "43",
+      "content": "¶ Ye have heard that it hath been said, Thou shalt love thy neighbour, and hate thine enemy.",
+      "churchId": "p43"
+    },
+    {
+      "slug": "matthew-5-p44",
+      "type": "verse",
+      "number": "44",
+      "content": "But I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you;",
+      "churchId": "p44"
+    },
+    {
+      "slug": "matthew-5-p45",
+      "type": "verse",
+      "number": "45",
+      "content": "That ye may be the children of your Father which is in heaven: for he maketh his sun to rise on the evil and on the good, and sendeth rain on the just and on the unjust.",
+      "churchId": "p45"
+    },
+    {
+      "slug": "matthew-5-p46",
+      "type": "verse",
+      "number": "46",
+      "content": "For if ye love them which love you, what reward have ye? do not even the publicans the same?",
+      "churchId": "p46"
+    },
+    {
+      "slug": "matthew-5-p47",
+      "type": "verse",
+      "number": "47",
+      "content": "And if ye salute your brethren only, what do ye more <span class=\"clarity-word\">than others?</span> do not even the publicans so?",
+      "churchId": "p47"
+    },
+    {
+      "slug": "matthew-5-p48",
+      "type": "verse",
+      "number": "48",
+      "content": "Be ye therefore perfect, even as your Father which is in heaven is perfect.",
+      "churchId": "p48"
+    }
+  ]
+}

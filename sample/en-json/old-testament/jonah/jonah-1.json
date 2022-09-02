@@ -1,0 +1,141 @@
+{
+  "name": "Jonah 1",
+  "abbrev": "Jonah 1",
+  "number": "1",
+  "churchUri": "/scriptures/ot/jonah/1",
+  "paragraphs": [
+    {
+      "slug": "jonah-1-title1",
+      "type": "book-title",
+      "number": null,
+      "content": "Jonah",
+      "churchId": "title1"
+    },
+    {
+      "slug": "jonah-1-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 1",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "jonah-1-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Now the word of the <span class=\"small-caps\">Lord</span> came unto Jonah the son of Amittai, saying,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "jonah-1-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Arise, go to Nineveh, that great city, and cry against it; for their wickedness is come up before me.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "jonah-1-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "But Jonah rose up to flee unto Tarshish from the presence of the <span class=\"small-caps\">Lord</span>, and went down to Joppa; and he found a ship going to Tarshish: so he paid the fare thereof, and went down into it, to go with them unto Tarshish from the presence of the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "jonah-1-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "¶ But the <span class=\"small-caps\">Lord</span> sent out a great wind into the sea, and there was a mighty tempest in the sea, so that the ship was like to be broken.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "jonah-1-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Then the mariners were afraid, and cried every man unto his god, and cast forth the wares that <span class=\"clarity-word\">were</span> in the ship into the sea, to lighten <span class=\"clarity-word\">it</span> of them. But Jonah was gone down into the sides of the ship; and he lay, and was fast asleep.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "jonah-1-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "So the shipmaster came to him, and said unto him, What meanest thou, O sleeper? arise, call upon thy God, if so be that God will think upon us, that we perish not.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "jonah-1-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And they said every one to his fellow, Come, and let us cast lots, that we may know for whose cause this evil <span class=\"clarity-word\">is</span> upon us. So they cast lots, and the lot fell upon Jonah.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "jonah-1-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Then said they unto him, Tell us, we pray thee, for whose cause this evil <span class=\"clarity-word\">is</span> upon us; What <span class=\"clarity-word\">is</span> thine occupation? and whence comest thou? what <span class=\"clarity-word\">is</span> thy country? and of what people <span class=\"clarity-word\">art</span> thou?",
+      "churchId": "p8"
+    },
+    {
+      "slug": "jonah-1-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And he said unto them, I <span class=\"clarity-word\">am</span> an Hebrew; and I fear the <span class=\"small-caps\">Lord</span>, the God of heaven, which hath made the sea and the dry <span class=\"clarity-word\">land.</span>",
+      "churchId": "p9"
+    },
+    {
+      "slug": "jonah-1-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Then were the men exceedingly afraid, and said unto him, Why hast thou done this? For the men knew that he fled from the presence of the <span class=\"small-caps\">Lord</span>, because he had told them.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "jonah-1-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "¶ Then said they unto him, What shall we do unto thee, that the sea may be calm unto us? for the sea wrought, and was tempestuous.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "jonah-1-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And he said unto them, Take me up, and cast me forth into the sea; so shall the sea be calm unto you: for I know that for my sake this great tempest <span class=\"clarity-word\">is</span> upon you.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "jonah-1-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Nevertheless the men rowed hard to bring <span class=\"clarity-word\">it</span> to the land; but they could not: for the sea wrought, and was tempestuous against them.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "jonah-1-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Wherefore they cried unto the <span class=\"small-caps\">Lord</span>, and said, We beseech thee, O <span class=\"small-caps\">Lord</span>, we beseech thee, let us not perish for this man’s life, and lay not upon us innocent blood: for thou, O <span class=\"small-caps\">Lord</span>, hast done as it pleased thee.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "jonah-1-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "So they took up Jonah, and cast him forth into the sea: and the sea ceased from her raging.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "jonah-1-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Then the men feared the <span class=\"small-caps\">Lord</span> exceedingly, and offered a sacrifice unto the <span class=\"small-caps\">Lord</span>, and made vows.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "jonah-1-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "¶ Now the <span class=\"small-caps\">Lord</span> had prepared a great fish to swallow up Jonah. And Jonah was in the belly of the fish three days and three nights.",
+      "churchId": "p17"
+    }
+  ]
+}

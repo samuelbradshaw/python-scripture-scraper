@@ -1,0 +1,267 @@
+{
+  "name": "John 3",
+  "abbrev": "John 3",
+  "number": "3",
+  "churchUri": "/scriptures/nt/john/3",
+  "paragraphs": [
+    {
+      "slug": "john-3-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 3",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "john-3-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "There was a man of the Pharisees, named Nicodemus, a ruler of the Jews:",
+      "churchId": "p1"
+    },
+    {
+      "slug": "john-3-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "The same came to Jesus by night, and said unto him, Rabbi, we know that thou art a teacher come from God: for no man can do these miracles that thou doest, except God be with him.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "john-3-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Jesus answered and said unto him, Verily, verily, I say unto thee, Except a man be born again, he cannot see the kingdom of God.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "john-3-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Nicodemus saith unto him, How can a man be born when he is old? can he enter the second time into his mother’s womb, and be born?",
+      "churchId": "p4"
+    },
+    {
+      "slug": "john-3-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Jesus answered, Verily, verily, I say unto thee, Except a man be born of water and <span class=\"clarity-word\">of</span> the Spirit, he cannot enter into the kingdom of God.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "john-3-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "That which is born of the flesh is flesh; and that which is born of the Spirit is spirit.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "john-3-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Marvel not that I said unto thee, Ye must be born again.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "john-3-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "The wind bloweth where it listeth, and thou hearest the sound thereof, but canst not tell whence it cometh, and whither it goeth: so is every one that is born of the Spirit.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "john-3-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Nicodemus answered and said unto him, How can these things be?",
+      "churchId": "p9"
+    },
+    {
+      "slug": "john-3-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Jesus answered and said unto him, Art thou a master of Israel, and knowest not these things?",
+      "churchId": "p10"
+    },
+    {
+      "slug": "john-3-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Verily, verily, I say unto thee, We speak that we do know, and testify that we have seen; and ye receive not our witness.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "john-3-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "If I have told you earthly things, and ye believe not, how shall ye believe, if I tell you <span class=\"clarity-word\">of</span> heavenly things?",
+      "churchId": "p12"
+    },
+    {
+      "slug": "john-3-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And no man hath ascended up to heaven, but he that came down from heaven, <span class=\"clarity-word\">even</span> the Son of man which is in heaven.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "john-3-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "¶ And as Moses lifted up the serpent in the wilderness, even so must the Son of man be lifted up:",
+      "churchId": "p14"
+    },
+    {
+      "slug": "john-3-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "That whosoever believeth in him should not perish, but have eternal life.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "john-3-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "¶ For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "john-3-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "For God sent not his Son into the world to condemn the world; but that the world through him might be saved.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "john-3-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "¶ He that believeth on him is not condemned: but he that believeth not is condemned already, because he hath not believed in the name of the only begotten Son of God.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "john-3-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And this is the condemnation, that light is come into the world, and men loved darkness rather than light, because their deeds were evil.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "john-3-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "For every one that doeth evil hateth the light, neither cometh to the light, lest his deeds should be reproved.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "john-3-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "But he that doeth truth cometh to the light, that his deeds may be made manifest, that they are wrought in God.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "john-3-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "¶ After these things came Jesus and his disciples into the land of Judæa; and there he tarried with them, and baptized.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "john-3-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "¶ And John also was baptizing in Ænon near to Salim, because there was much water there: and they came, and were baptized.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "john-3-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "For John was not yet cast into prison.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "john-3-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "¶ Then there arose a question between <span class=\"clarity-word\">some</span> of John’s disciples and the Jews about purifying.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "john-3-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And they came unto John, and said unto him, Rabbi, he that was with thee beyond Jordan, to whom thou barest witness, behold, the same baptizeth, and all <span class=\"clarity-word\">men</span> come to him.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "john-3-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "John answered and said, A man can receive nothing, except it be given him from heaven.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "john-3-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "Ye yourselves bear me witness, that I said, I am not the Christ, but that I am sent before him.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "john-3-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "He that hath the bride is the bridegroom: but the friend of the bridegroom, which standeth and heareth him, rejoiceth greatly because of the bridegroom’s voice: this my joy therefore is fulfilled.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "john-3-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "He must increase, but I <span class=\"clarity-word\">must</span> decrease.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "john-3-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "He that cometh from above is above all: he that is of the earth is earthly, and speaketh of the earth: he that cometh from heaven is above all.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "john-3-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "And what he hath seen and heard, that he testifieth; and no man receiveth his testimony.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "john-3-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "He that hath received his testimony hath set to his seal that God is true.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "john-3-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "For he whom God hath sent speaketh the words of God: for God giveth not the Spirit by measure <span class=\"clarity-word\">unto him.</span>",
+      "churchId": "p34"
+    },
+    {
+      "slug": "john-3-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "The Father loveth the Son, and hath given all things into his hand.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "john-3-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "He that believeth on the Son hath everlasting life: and he that believeth not the Son shall not see life; but the wrath of God abideth on him.",
+      "churchId": "p36"
+    }
+  ]
+}

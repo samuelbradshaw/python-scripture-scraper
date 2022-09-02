@@ -1,0 +1,239 @@
+{
+  "name": "2 Samuel 2",
+  "abbrev": "2 Sam. 2",
+  "number": "2",
+  "churchUri": "/scriptures/ot/2-sam/2",
+  "paragraphs": [
+    {
+      "slug": "2-samuel-2-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 2",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "2-samuel-2-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And it came to pass after this, that David inquired of the <span class=\"small-caps\">Lord</span>, saying, Shall I go up into any of the cities of Judah? And the <span class=\"small-caps\">Lord</span> said unto him, Go up. And David said, Whither shall I go up? And he said, Unto Hebron.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "2-samuel-2-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "So David went up thither, and his two wives also, Ahinoam the Jezreelitess, and Abigail Nabal’s wife the Carmelite.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "2-samuel-2-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And his men that <span class=\"clarity-word\">were</span> with him did David bring up, every man with his household: and they dwelt in the cities of Hebron.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "2-samuel-2-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And the men of Judah came, and there they anointed David king over the house of Judah. And they told David, saying, <span class=\"clarity-word\">That</span> the men of Jabesh-gilead <span class=\"clarity-word\">were they</span> that buried Saul.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "2-samuel-2-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "¶ And David sent messengers unto the men of Jabesh-gilead, and said unto them, Blessed <span class=\"clarity-word\">be</span> ye of the <span class=\"small-caps\">Lord</span>, that ye have shewed this kindness unto your lord, <span class=\"clarity-word\">even</span> unto Saul, and have buried him.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "2-samuel-2-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And now the <span class=\"small-caps\">Lord</span> shew kindness and truth unto you: and I also will requite you this kindness, because ye have done this thing.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "2-samuel-2-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Therefore now let your hands be strengthened, and be ye valiant: for your master Saul is dead, and also the house of Judah have anointed me king over them.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "2-samuel-2-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "¶ But Abner the son of Ner, captain of Saul’s host, took Ish-bosheth the son of Saul, and brought him over to Mahanaim;",
+      "churchId": "p8"
+    },
+    {
+      "slug": "2-samuel-2-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And made him king over Gilead, and over the Ashurites, and over Jezreel, and over Ephraim, and over Benjamin, and over all Israel.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "2-samuel-2-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Ish-bosheth Saul’s son <span class=\"clarity-word\">was</span> forty years old when he began to reign over Israel, and reigned two years. But the house of Judah followed David.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "2-samuel-2-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And the time that David was king in Hebron over the house of Judah was seven years and six months.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "2-samuel-2-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "¶ And Abner the son of Ner, and the servants of Ish-bosheth the son of Saul, went out from Mahanaim to Gibeon.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "2-samuel-2-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And Joab the son of Zeruiah, and the servants of David, went out, and met together by the pool of Gibeon: and they sat down, the one on the one side of the pool, and the other on the other side of the pool.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "2-samuel-2-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And Abner said to Joab, Let the young men now arise, and play before us. And Joab said, Let them arise.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "2-samuel-2-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Then there arose and went over by number twelve of Benjamin, which <span class=\"clarity-word\">pertained</span> to Ish-bosheth the son of Saul, and twelve of the servants of David.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "2-samuel-2-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And they caught every one his fellow by the head, and <span class=\"clarity-word\">thrust</span> his sword in his fellow’s side; so they fell down together: wherefore that place was called Helkath-hazzurim, which <span class=\"clarity-word\">is</span> in Gibeon.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "2-samuel-2-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And there was a very sore battle that day; and Abner was beaten, and the men of Israel, before the servants of David.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "2-samuel-2-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "¶ And there were three sons of Zeruiah there, Joab, and Abishai, and Asahel: and Asahel <span class=\"clarity-word\">was as</span> light of foot as a wild roe.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "2-samuel-2-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And Asahel pursued after Abner; and in going he turned not to the right hand nor to the left from following Abner.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "2-samuel-2-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Then Abner looked behind him, and said, <span class=\"clarity-word\">Art</span> thou Asahel? And he answered, I <span class=\"clarity-word\">am.</span>",
+      "churchId": "p20"
+    },
+    {
+      "slug": "2-samuel-2-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And Abner said to him, Turn thee aside to thy right hand or to thy left, and lay thee hold on one of the young men, and take thee his armour. But Asahel would not turn aside from following of him.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "2-samuel-2-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And Abner said again to Asahel, Turn thee aside from following me: wherefore should I smite thee to the ground? how then should I hold up my face to Joab thy brother?",
+      "churchId": "p22"
+    },
+    {
+      "slug": "2-samuel-2-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Howbeit he refused to turn aside: wherefore Abner with the hinder end of the spear smote him under the fifth <span class=\"clarity-word\">rib,</span> that the spear came out behind him; and he fell down there, and died in the same place: and it came to pass, <span class=\"clarity-word\">that</span> as many as came to the place where Asahel fell down and died stood still.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "2-samuel-2-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Joab also and Abishai pursued after Abner: and the sun went down when they were come to the hill of Ammah, that <span class=\"clarity-word\">lieth</span> before Giah by the way of the wilderness of Gibeon.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "2-samuel-2-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "¶ And the children of Benjamin gathered themselves together after Abner, and became one troop, and stood on the top of an hill.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "2-samuel-2-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "Then Abner called to Joab, and said, Shall the sword devour for ever? knowest thou not that it will be bitterness in the latter end? how long shall it be then, ere thou bid the people return from following their brethren?",
+      "churchId": "p26"
+    },
+    {
+      "slug": "2-samuel-2-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And Joab said, <span class=\"clarity-word\">As</span> God liveth, unless thou hadst spoken, surely then in the morning the people had gone up every one from following his brother.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "2-samuel-2-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "So Joab blew a trumpet, and all the people stood still, and pursued after Israel no more, neither fought they any more.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "2-samuel-2-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "And Abner and his men walked all that night through the plain, and passed over Jordan, and went through all Bithron, and they came to Mahanaim.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "2-samuel-2-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And Joab returned from following Abner: and when he had gathered all the people together, there lacked of David’s servants nineteen men and Asahel.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "2-samuel-2-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "But the servants of David had smitten of Benjamin, and of Abner’s men, <span class=\"clarity-word\">so that</span> three hundred and threescore men died.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "2-samuel-2-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "¶ And they took up Asahel, and buried him in the sepulchre of his father, which <span class=\"clarity-word\">was in</span> Beth-lehem. And Joab and his men went all night, and they came to Hebron at break of day.",
+      "churchId": "p32"
+    }
+  ]
+}

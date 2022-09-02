@@ -1,0 +1,141 @@
+{
+  "name": "Doctrine and Covenants 33",
+  "abbrev": "D&C 33",
+  "number": "33",
+  "churchUri": "/scriptures/dc-testament/dc/33",
+  "paragraphs": [
+    {
+      "slug": "section-33-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Section 33",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "section-33-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Behold, I say unto you, my servants Ezra and Northrop, open ye your ears and hearken to the voice of the Lord your God, whose word is quick and powerful, sharper than a two-edged sword, to the dividing asunder of the joints and marrow, soul and spirit; and is a discerner of the thoughts and intents of the heart.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "section-33-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "For verily, verily, I say unto you that ye are called to lift up your voices as with the sound of a trump, to declare my gospel unto a crooked and perverse generation.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "section-33-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "For behold, the field is white already to harvest; and it is the eleventh hour, and the last time that I shall call laborers into my vineyard.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "section-33-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And my vineyard has become corrupted every whit; and there is none which doeth good save it be a few; and they err in many instances because of priestcrafts, all having corrupt minds.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "section-33-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And verily, verily, I say unto you, that this church have I established and called forth out of the wilderness.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "section-33-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And even so will I gather mine elect from the four quarters of the earth, even as many as will believe in me, and hearken unto my voice.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "section-33-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Yea, verily, verily, I say unto you, that the field is white already to harvest; wherefore, thrust in your sickles, and reap with all your might, mind, and strength.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "section-33-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Open your mouths and they shall be filled, and you shall become even as Nephi of old, who journeyed from Jerusalem in the wilderness.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "section-33-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Yea, open your mouths and spare not, and you shall be laden with sheaves upon your backs, for lo, I am with you.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "section-33-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Yea, open your mouths and they shall be filled, saying: Repent, repent, and prepare ye the way of the Lord, and make his paths straight; for the kingdom of heaven is at hand;",
+      "churchId": "p10"
+    },
+    {
+      "slug": "section-33-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Yea, repent and be baptized, every one of you, for a remission of your sins; yea, be baptized even by water, and then cometh the baptism of fire and of the Holy Ghost.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "section-33-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Behold, verily, verily, I say unto you, this is my gospel; and remember that they shall have faith in me or they can in nowise be saved;",
+      "churchId": "p12"
+    },
+    {
+      "slug": "section-33-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And upon this rock I will build my church; yea, upon this rock ye are built, and if ye continue, the gates of hell shall not prevail against you.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "section-33-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And ye shall remember the church articles and covenants to keep them.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "section-33-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And whoso having faith you shall confirm in my church, by the laying on of the hands, and I will bestow the gift of the Holy Ghost upon them.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "section-33-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And the Book of Mormon and the holy scriptures are given of me for your instruction; and the power of my Spirit quickeneth all things.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "section-33-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Wherefore, be faithful, praying always, having your lamps trimmed and burning, and oil with you, that you may be ready at the coming of the Bridegroom—",
+      "churchId": "p17"
+    },
+    {
+      "slug": "section-33-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "For behold, verily, verily, I say unto you, that I come quickly. Even so. Amen.",
+      "churchId": "p18"
+    }
+  ]
+}

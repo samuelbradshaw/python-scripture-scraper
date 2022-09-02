@@ -1,0 +1,71 @@
+{
+  "name": "Psalm 54",
+  "abbrev": "Psalm 54",
+  "number": "54",
+  "churchUri": "/scriptures/ot/ps/54",
+  "paragraphs": [
+    {
+      "slug": "psalm-54-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 54",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-54-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "To the chief Musician on Neginoth, Maschil, <span class=\"clarity-word\">A Psalm</span> of David, when the Ziphims came and said to Saul, Doth not David hide himself with us?",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-54-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Save me, O God, by thy name, and judge me by thy strength.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-54-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Hear my prayer, O God; give ear to the words of my mouth.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-54-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "For strangers are risen up against me, and oppressors seek after my soul: they have not set God before them. Selah.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-54-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Behold, God <span class=\"clarity-word\">is</span> mine helper: the Lord <span class=\"clarity-word\">is</span> with them that uphold my soul.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-54-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "He shall reward evil unto mine enemies: cut them off in thy truth.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-54-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "I will freely sacrifice unto thee: I will praise thy name, O <span class=\"small-caps\">Lord</span>; for <span class=\"clarity-word\">it is</span> good.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-54-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "For he hath delivered me out of all trouble: and mine eye hath seen <span class=\"clarity-word\">his desire</span> upon mine enemies.",
+      "churchId": "p7"
+    }
+  ]
+}

@@ -1,0 +1,351 @@
+{
+  "name": "3 Nephi 12",
+  "abbrev": "3 Ne. 12",
+  "number": "12",
+  "churchUri": "/scriptures/bofm/3-ne/12",
+  "paragraphs": [
+    {
+      "slug": "3-nephi-12-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 12",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "3-nephi-12-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And it came to pass that when Jesus had spoken these words unto Nephi, and to those who had been called, (now the number of them who had been called, and received power and authority to baptize, was twelve) and behold, he stretched forth his hand unto the multitude, and cried unto them, saying: Blessed are ye if ye shall give heed unto the words of these twelve whom I have chosen from among you to minister unto you, and to be your servants; and unto them I have given power that they may baptize you with water; and after that ye are baptized with water, behold, I will baptize you with fire and with the Holy Ghost; therefore blessed are ye if ye shall believe in me and be baptized, after that ye have seen me and know that I am.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "3-nephi-12-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And again, more blessed are they who shall believe in your words because that ye shall testify that ye have seen me, and that ye know that I am. Yea, blessed are they who shall believe in your words, and come down into the depths of humility and be baptized, for they shall be visited with fire and with the Holy Ghost, and shall receive a remission of their sins.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "3-nephi-12-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Yea, blessed are the poor in spirit who come unto me, for theirs is the kingdom of heaven.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "3-nephi-12-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And again, blessed are all they that mourn, for they shall be comforted.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "3-nephi-12-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And blessed are the meek, for they shall inherit the earth.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "3-nephi-12-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And blessed are all they who do hunger and thirst after righteousness, for they shall be filled with the Holy Ghost.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "3-nephi-12-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And blessed are the merciful, for they shall obtain mercy.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "3-nephi-12-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And blessed are all the pure in heart, for they shall see God.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "3-nephi-12-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And blessed are all the peacemakers, for they shall be called the children of God.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "3-nephi-12-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And blessed are all they who are persecuted for my name’s sake, for theirs is the kingdom of heaven.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "3-nephi-12-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And blessed are ye when men shall revile you and persecute, and shall say all manner of evil against you falsely, for my sake;",
+      "churchId": "p11"
+    },
+    {
+      "slug": "3-nephi-12-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "For ye shall have great joy and be exceedingly glad, for great shall be your reward in heaven; for so persecuted they the prophets who were before you.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "3-nephi-12-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Verily, verily, I say unto you, I give unto you to be the salt of the earth; but if the salt shall lose its savor wherewith shall the earth be salted? The salt shall be thenceforth good for nothing, but to be cast out and to be trodden under foot of men.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "3-nephi-12-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Verily, verily, I say unto you, I give unto you to be the light of this people. A city that is set on a hill cannot be hid.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "3-nephi-12-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Behold, do men light a candle and put it under a bushel? Nay, but on a candlestick, and it giveth light to all that are in the house;",
+      "churchId": "p15"
+    },
+    {
+      "slug": "3-nephi-12-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Therefore let your light so shine before this people, that they may see your good works and glorify your Father who is in heaven.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "3-nephi-12-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Think not that I am come to destroy the law or the prophets. I am not come to destroy but to fulfil;",
+      "churchId": "p17"
+    },
+    {
+      "slug": "3-nephi-12-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "For verily I say unto you, one jot nor one tittle hath not passed away from the law, but in me it hath all been fulfilled.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "3-nephi-12-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And behold, I have given you the law and the commandments of my Father, that ye shall believe in me, and that ye shall repent of your sins, and come unto me with a broken heart and a contrite spirit. Behold, ye have the commandments before you, and the law is fulfilled.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "3-nephi-12-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Therefore come unto me and be ye saved; for verily I say unto you, that except ye shall keep my commandments, which I have commanded you at this time, ye shall in no case enter into the kingdom of heaven.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "3-nephi-12-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Ye have heard that it hath been said by them of old time, and it is also written before you, that thou shalt not kill, and whosoever shall kill shall be in danger of the judgment of God;",
+      "churchId": "p21"
+    },
+    {
+      "slug": "3-nephi-12-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "But I say unto you, that whosoever is angry with his brother shall be in danger of his judgment. And whosoever shall say to his brother, Raca, shall be in danger of the council; and whosoever shall say, Thou fool, shall be in danger of hell fire.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "3-nephi-12-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Therefore, if ye shall come unto me, or shall desire to come unto me, and rememberest that thy brother hath aught against thee—",
+      "churchId": "p23"
+    },
+    {
+      "slug": "3-nephi-12-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Go thy way unto thy brother, and first be reconciled to thy brother, and then come unto me with full purpose of heart, and I will receive you.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "3-nephi-12-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Agree with thine adversary quickly while thou art in the way with him, lest at any time he shall get thee, and thou shalt be cast into prison.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "3-nephi-12-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "Verily, verily, I say unto thee, thou shalt by no means come out thence until thou hast paid the uttermost senine. And while ye are in prison can ye pay even one senine? Verily, verily, I say unto you, Nay.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "3-nephi-12-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "Behold, it is written by them of old time, that thou shalt not commit adultery;",
+      "churchId": "p27"
+    },
+    {
+      "slug": "3-nephi-12-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "But I say unto you, that whosoever looketh on a woman, to lust after her, hath committed adultery already in his heart.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "3-nephi-12-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "Behold, I give unto you a commandment, that ye suffer none of these things to enter into your heart;",
+      "churchId": "p29"
+    },
+    {
+      "slug": "3-nephi-12-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "For it is better that ye should deny yourselves of these things, wherein ye will take up your cross, than that ye should be cast into hell.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "3-nephi-12-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "It hath been written, that whosoever shall put away his wife, let him give her a writing of divorcement.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "3-nephi-12-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "Verily, verily, I say unto you, that whosoever shall put away his wife, saving for the cause of fornication, causeth her to commit adultery; and whoso shall marry her who is divorced committeth adultery.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "3-nephi-12-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "And again it is written, thou shalt not forswear thyself, but shalt perform unto the Lord thine oaths;",
+      "churchId": "p33"
+    },
+    {
+      "slug": "3-nephi-12-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "But verily, verily, I say unto you, swear not at all; neither by heaven, for it is God’s throne;",
+      "churchId": "p34"
+    },
+    {
+      "slug": "3-nephi-12-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "Nor by the earth, for it is his footstool;",
+      "churchId": "p35"
+    },
+    {
+      "slug": "3-nephi-12-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "Neither shalt thou swear by thy head, because thou canst not make one hair black or white;",
+      "churchId": "p36"
+    },
+    {
+      "slug": "3-nephi-12-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "But let your communication be Yea, yea; Nay, nay; for whatsoever cometh of more than these is evil.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "3-nephi-12-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "And behold, it is written, an eye for an eye, and a tooth for a tooth;",
+      "churchId": "p38"
+    },
+    {
+      "slug": "3-nephi-12-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "But I say unto you, that ye shall not resist evil, but whosoever shall smite thee on thy right cheek, turn to him the other also;",
+      "churchId": "p39"
+    },
+    {
+      "slug": "3-nephi-12-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "And if any man will sue thee at the law and take away thy coat, let him have thy cloak also;",
+      "churchId": "p40"
+    },
+    {
+      "slug": "3-nephi-12-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "And whosoever shall compel thee to go a mile, go with him twain.",
+      "churchId": "p41"
+    },
+    {
+      "slug": "3-nephi-12-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "Give to him that asketh thee, and from him that would borrow of thee turn thou not away.",
+      "churchId": "p42"
+    },
+    {
+      "slug": "3-nephi-12-p43",
+      "type": "verse",
+      "number": "43",
+      "content": "And behold it is written also, that thou shalt love thy neighbor and hate thine enemy;",
+      "churchId": "p43"
+    },
+    {
+      "slug": "3-nephi-12-p44",
+      "type": "verse",
+      "number": "44",
+      "content": "But behold I say unto you, love your enemies, bless them that curse you, do good to them that hate you, and pray for them who despitefully use you and persecute you;",
+      "churchId": "p44"
+    },
+    {
+      "slug": "3-nephi-12-p45",
+      "type": "verse",
+      "number": "45",
+      "content": "That ye may be the children of your Father who is in heaven; for he maketh his sun to rise on the evil and on the good.",
+      "churchId": "p45"
+    },
+    {
+      "slug": "3-nephi-12-p46",
+      "type": "verse",
+      "number": "46",
+      "content": "Therefore those things which were of old time, which were under the law, in me are all fulfilled.",
+      "churchId": "p46"
+    },
+    {
+      "slug": "3-nephi-12-p47",
+      "type": "verse",
+      "number": "47",
+      "content": "Old things are done away, and all things have become new.",
+      "churchId": "p47"
+    },
+    {
+      "slug": "3-nephi-12-p48",
+      "type": "verse",
+      "number": "48",
+      "content": "Therefore I would that ye should be perfect even as I, or your Father who is in heaven is perfect.",
+      "churchId": "p48"
+    }
+  ]
+}

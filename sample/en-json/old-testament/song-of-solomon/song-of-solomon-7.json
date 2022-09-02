@@ -1,0 +1,106 @@
+{
+  "name": "Song of Solomon 7",
+  "abbrev": "Song 7",
+  "number": "7",
+  "churchUri": "/scriptures/ot/song/7",
+  "paragraphs": [
+    {
+      "slug": "song-of-solomon-7-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 7",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "song-of-solomon-7-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "How beautiful are thy feet with shoes, O prince’s daughter! the joints of thy thighs <span class=\"clarity-word\">are</span> like jewels, the work of the hands of a cunning workman.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "song-of-solomon-7-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Thy navel <span class=\"clarity-word\">is like</span> a round goblet, <span class=\"clarity-word\">which</span> wanteth not liquor: thy belly <span class=\"clarity-word\">is like</span> an heap of wheat set about with lilies.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "song-of-solomon-7-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Thy two breasts <span class=\"clarity-word\">are</span> like two young roes <span class=\"clarity-word\">that are</span> twins.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "song-of-solomon-7-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Thy neck <span class=\"clarity-word\">is</span> as a tower of ivory; thine eyes <span class=\"clarity-word\">like</span> the fishpools in Heshbon, by the gate of Bath-rabbim: thy nose <span class=\"clarity-word\">is</span> as the tower of Lebanon which looketh toward Damascus.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "song-of-solomon-7-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Thine head upon thee <span class=\"clarity-word\">is</span> like Carmel, and the hair of thine head like purple; the king <span class=\"clarity-word\">is</span> held in the galleries.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "song-of-solomon-7-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "How fair and how pleasant art thou, O love, for delights!",
+      "churchId": "p6"
+    },
+    {
+      "slug": "song-of-solomon-7-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "This thy stature is like to a palm tree, and thy breasts to clusters <span class=\"clarity-word\">of grapes.</span>",
+      "churchId": "p7"
+    },
+    {
+      "slug": "song-of-solomon-7-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "I said, I will go up to the palm tree, I will take hold of the boughs thereof: now also thy breasts shall be as clusters of the vine, and the smell of thy nose like apples;",
+      "churchId": "p8"
+    },
+    {
+      "slug": "song-of-solomon-7-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And the roof of thy mouth like the best wine for my beloved, that goeth <span class=\"clarity-word\">down</span> sweetly, causing the lips of those that are asleep to speak.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "song-of-solomon-7-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "¶ I <span class=\"clarity-word\">am</span> my beloved’s, and his desire <span class=\"clarity-word\">is</span> toward me.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "song-of-solomon-7-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Come, my beloved, let us go forth into the field; let us lodge in the villages.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "song-of-solomon-7-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Let us get up early to the vineyards; let us see if the vine flourish, <span class=\"clarity-word\">whether</span> the tender grape appear, <span class=\"clarity-word\">and</span> the pomegranates bud forth: there will I give thee my loves.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "song-of-solomon-7-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "The mandrakes give a smell, and at our gates <span class=\"clarity-word\">are</span> all manner of pleasant <span class=\"clarity-word\">fruits,</span> new and old, <span class=\"clarity-word\">which</span> I have laid up for thee, O my beloved.",
+      "churchId": "p13"
+    }
+  ]
+}

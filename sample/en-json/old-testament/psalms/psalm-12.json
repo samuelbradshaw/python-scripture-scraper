@@ -1,0 +1,78 @@
+{
+  "name": "Psalm 12",
+  "abbrev": "Psalm 12",
+  "number": "12",
+  "churchUri": "/scriptures/ot/ps/12",
+  "paragraphs": [
+    {
+      "slug": "psalm-12-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 12",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-12-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "To the chief Musician upon Sheminith, A Psalm of David.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-12-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Help, <span class=\"small-caps\">Lord</span>; for the godly man ceaseth; for the faithful fail from among the children of men.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-12-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "They speak vanity every one with his neighbour: <span class=\"clarity-word\">with</span> flattering lips <span class=\"clarity-word\">and</span> with a double heart do they speak.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-12-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "The <span class=\"small-caps\">Lord</span> shall cut off all flattering lips, <span class=\"clarity-word\">and</span> the tongue that speaketh proud things:",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-12-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Who have said, With our tongue will we prevail; our lips <span class=\"clarity-word\">are</span> our own: who <span class=\"clarity-word\">is</span> lord over us?",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-12-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "For the oppression of the poor, for the sighing of the needy, now will I arise, saith the <span class=\"small-caps\">Lord</span>; I will set <span class=\"clarity-word\">him</span> in safety <span class=\"clarity-word\">from him that</span> puffeth at him.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-12-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "The words of the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">are</span> pure words: <span class=\"clarity-word\">as</span> silver tried in a furnace of earth, purified seven times.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-12-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Thou shalt keep them, O <span class=\"small-caps\">Lord</span>, thou shalt preserve them from this generation for ever.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-12-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "The wicked walk on every side, when the vilest men are exalted.",
+      "churchId": "p8"
+    }
+  ]
+}

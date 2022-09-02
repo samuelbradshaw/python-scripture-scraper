@@ -1,0 +1,414 @@
+{
+  "name": "Genesis 41",
+  "abbrev": "Gen. 41",
+  "number": "41",
+  "churchUri": "/scriptures/ot/gen/41",
+  "paragraphs": [
+    {
+      "slug": "genesis-41-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 41",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "genesis-41-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And it came to pass at the end of two full years, that Pharaoh dreamed: and, behold, he stood by the river.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "genesis-41-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And, behold, there came up out of the river seven well favoured kine and fatfleshed; and they fed in a meadow.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "genesis-41-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And, behold, seven other kine came up after them out of the river, ill favoured and leanfleshed; and stood by the <span class=\"clarity-word\">other</span> kine upon the brink of the river.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "genesis-41-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And the ill favoured and leanfleshed kine did eat up the seven well favoured and fat kine. So Pharaoh awoke.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "genesis-41-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And he slept and dreamed the second time: and, behold, seven ears of corn came up upon one stalk, rank and good.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "genesis-41-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And, behold, seven thin ears and blasted with the east wind sprung up after them.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "genesis-41-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And the seven thin ears devoured the seven rank and full ears. And Pharaoh awoke, and, behold, <span class=\"clarity-word\">it was</span> a dream.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "genesis-41-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And it came to pass in the morning that his spirit was troubled; and he sent and called for all the magicians of Egypt, and all the wise men thereof: and Pharaoh told them his dream; but <span class=\"clarity-word\">there was</span> none that could interpret them unto Pharaoh.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "genesis-41-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "¶ Then spake the chief butler unto Pharaoh, saying, I do remember my faults this day:",
+      "churchId": "p9"
+    },
+    {
+      "slug": "genesis-41-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Pharaoh was wroth with his servants, and put me in ward in the captain of the guard’s house, <span class=\"clarity-word\">both</span> me and the chief baker:",
+      "churchId": "p10"
+    },
+    {
+      "slug": "genesis-41-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And we dreamed a dream in one night, I and he; we dreamed each man according to the interpretation of his dream.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "genesis-41-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And <span class=\"clarity-word\">there was</span> there with us a young man, an Hebrew, servant to the captain of the guard; and we told him, and he interpreted to us our dreams; to each man according to his dream he did interpret.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "genesis-41-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And it came to pass, as he interpreted to us, so it was; me he restored unto mine office, and him he hanged.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "genesis-41-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "¶ Then Pharaoh sent and called Joseph, and they brought him hastily out of the dungeon: and he shaved <span class=\"clarity-word\">himself,</span> and changed his raiment, and came in unto Pharaoh.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "genesis-41-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And Pharaoh said unto Joseph, I have dreamed a dream, and <span class=\"clarity-word\">there is</span> none that can interpret it: and I have heard say of thee, <span class=\"clarity-word\">that</span> thou canst understand a dream to interpret it.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "genesis-41-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And Joseph answered Pharaoh, saying, <span class=\"clarity-word\">It is</span> not in me: God shall give Pharaoh an answer of peace.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "genesis-41-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And Pharaoh said unto Joseph, In my dream, behold, I stood upon the bank of the river:",
+      "churchId": "p17"
+    },
+    {
+      "slug": "genesis-41-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And, behold, there came up out of the river seven kine, fatfleshed and well favoured; and they fed in a meadow:",
+      "churchId": "p18"
+    },
+    {
+      "slug": "genesis-41-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And, behold, seven other kine came up after them, poor and very ill favoured and leanfleshed, such as I never saw in all the land of Egypt for badness:",
+      "churchId": "p19"
+    },
+    {
+      "slug": "genesis-41-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And the lean and the ill favoured kine did eat up the first seven fat kine:",
+      "churchId": "p20"
+    },
+    {
+      "slug": "genesis-41-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And when they had eaten them up, it could not be known that they had eaten them; but they <span class=\"clarity-word\">were</span> still ill favoured, as at the beginning. So I awoke.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "genesis-41-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And I saw in my dream, and, behold, seven ears came up in one stalk, full and good:",
+      "churchId": "p22"
+    },
+    {
+      "slug": "genesis-41-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And, behold, seven ears, withered, thin, <span class=\"clarity-word\">and</span> blasted with the east wind, sprung up after them:",
+      "churchId": "p23"
+    },
+    {
+      "slug": "genesis-41-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And the thin ears devoured the seven good ears: and I told <span class=\"clarity-word\">this</span> unto the magicians; but <span class=\"clarity-word\">there was</span> none that could declare <span class=\"clarity-word\">it</span> to me.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "genesis-41-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "¶ And Joseph said unto Pharaoh, The dream of Pharaoh <span class=\"clarity-word\">is</span> one: God hath shewed Pharaoh what he <span class=\"clarity-word\">is</span> about to do.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "genesis-41-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "The seven good kine <span class=\"clarity-word\">are</span> seven years; and the seven good ears <span class=\"clarity-word\">are</span> seven years: the dream <span class=\"clarity-word\">is</span> one.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "genesis-41-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And the seven thin and ill favoured kine that came up after them <span class=\"clarity-word\">are</span> seven years; and the seven empty ears blasted with the east wind shall be seven years of famine.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "genesis-41-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "This <span class=\"clarity-word\">is</span> the thing which I have spoken unto Pharaoh: What God <span class=\"clarity-word\">is</span> about to do he sheweth unto Pharaoh.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "genesis-41-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "Behold, there come seven years of great plenty throughout all the land of Egypt:",
+      "churchId": "p29"
+    },
+    {
+      "slug": "genesis-41-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And there shall arise after them seven years of famine; and all the plenty shall be forgotten in the land of Egypt; and the famine shall consume the land;",
+      "churchId": "p30"
+    },
+    {
+      "slug": "genesis-41-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "And the plenty shall not be known in the land by reason of that famine following; for it <span class=\"clarity-word\">shall be</span> very grievous.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "genesis-41-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "And for that the dream was doubled unto Pharaoh twice; <span class=\"clarity-word\">it is</span> because the thing <span class=\"clarity-word\">is</span> established by God, and God will shortly bring it to pass.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "genesis-41-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "Now therefore let Pharaoh look out a man discreet and wise, and set him over the land of Egypt.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "genesis-41-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "Let Pharaoh do <span class=\"clarity-word\">this,</span> and let him appoint officers over the land, and take up the fifth part of the land of Egypt in the seven plenteous years.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "genesis-41-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "And let them gather all the food of those good years that come, and lay up corn under the hand of Pharaoh, and let them keep food in the cities.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "genesis-41-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "And that food shall be for store to the land against the seven years of famine, which shall be in the land of Egypt; that the land perish not through the famine.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "genesis-41-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "¶ And the thing was good in the eyes of Pharaoh, and in the eyes of all his servants.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "genesis-41-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "And Pharaoh said unto his servants, Can we find <span class=\"clarity-word\">such a one</span> as this <span class=\"clarity-word\">is,</span> a man in whom the Spirit of God <span class=\"clarity-word\">is?</span>",
+      "churchId": "p38"
+    },
+    {
+      "slug": "genesis-41-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "And Pharaoh said unto Joseph, Forasmuch as God hath shewed thee all this, <span class=\"clarity-word\">there is</span> none so discreet and wise as thou <span class=\"clarity-word\">art:</span>",
+      "churchId": "p39"
+    },
+    {
+      "slug": "genesis-41-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "Thou shalt be over my house, and according unto thy word shall all my people be ruled: only in the throne will I be greater than thou.",
+      "churchId": "p40"
+    },
+    {
+      "slug": "genesis-41-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "And Pharaoh said unto Joseph, See, I have set thee over all the land of Egypt.",
+      "churchId": "p41"
+    },
+    {
+      "slug": "genesis-41-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "And Pharaoh took off his ring from his hand, and put it upon Joseph’s hand, and arrayed him in vestures of fine linen, and put a gold chain about his neck;",
+      "churchId": "p42"
+    },
+    {
+      "slug": "genesis-41-p43",
+      "type": "verse",
+      "number": "43",
+      "content": "And he made him to ride in the second chariot which he had; and they cried before him, Bow the knee: and he made him <span class=\"clarity-word\">ruler</span> over all the land of Egypt.",
+      "churchId": "p43"
+    },
+    {
+      "slug": "genesis-41-p44",
+      "type": "verse",
+      "number": "44",
+      "content": "And Pharaoh said unto Joseph, I <span class=\"clarity-word\">am</span> Pharaoh, and without thee shall no man lift up his hand or foot in all the land of Egypt.",
+      "churchId": "p44"
+    },
+    {
+      "slug": "genesis-41-p45",
+      "type": "verse",
+      "number": "45",
+      "content": "And Pharaoh called Joseph’s name Zaphnath-paaneah; and he gave him to wife Asenath the daughter of Poti-pherah priest of On. And Joseph went out over <span class=\"clarity-word\">all</span> the land of Egypt.",
+      "churchId": "p45"
+    },
+    {
+      "slug": "genesis-41-p46",
+      "type": "verse",
+      "number": "46",
+      "content": "¶ And Joseph <span class=\"clarity-word\">was</span> thirty years old when he stood before Pharaoh king of Egypt. And Joseph went out from the presence of Pharaoh, and went throughout all the land of Egypt.",
+      "churchId": "p46"
+    },
+    {
+      "slug": "genesis-41-p47",
+      "type": "verse",
+      "number": "47",
+      "content": "And in the seven plenteous years the earth brought forth by handfuls.",
+      "churchId": "p47"
+    },
+    {
+      "slug": "genesis-41-p48",
+      "type": "verse",
+      "number": "48",
+      "content": "And he gathered up all the food of the seven years, which were in the land of Egypt, and laid up the food in the cities: the food of the field, which <span class=\"clarity-word\">was</span> round about every city, laid he up in the same.",
+      "churchId": "p48"
+    },
+    {
+      "slug": "genesis-41-p49",
+      "type": "verse",
+      "number": "49",
+      "content": "And Joseph gathered corn as the sand of the sea, very much, until he left numbering; for <span class=\"clarity-word\">it was</span> without number.",
+      "churchId": "p49"
+    },
+    {
+      "slug": "genesis-41-p50",
+      "type": "verse",
+      "number": "50",
+      "content": "And unto Joseph were born two sons before the years of famine came, which Asenath the daughter of Poti-pherah priest of On bare unto him.",
+      "churchId": "p50"
+    },
+    {
+      "slug": "genesis-41-p51",
+      "type": "verse",
+      "number": "51",
+      "content": "And Joseph called the name of the firstborn Manasseh: For God, <span class=\"clarity-word\">said he,</span> hath made me forget all my toil, and all my father’s house.",
+      "churchId": "p51"
+    },
+    {
+      "slug": "genesis-41-p52",
+      "type": "verse",
+      "number": "52",
+      "content": "And the name of the second called he Ephraim: For God hath caused me to be fruitful in the land of my affliction.",
+      "churchId": "p52"
+    },
+    {
+      "slug": "genesis-41-p53",
+      "type": "verse",
+      "number": "53",
+      "content": "¶ And the seven years of plenteousness, that was in the land of Egypt, were ended.",
+      "churchId": "p53"
+    },
+    {
+      "slug": "genesis-41-p54",
+      "type": "verse",
+      "number": "54",
+      "content": "And the seven years of dearth began to come, according as Joseph had said: and the dearth was in all lands; but in all the land of Egypt there was bread.",
+      "churchId": "p54"
+    },
+    {
+      "slug": "genesis-41-p55",
+      "type": "verse",
+      "number": "55",
+      "content": "And when all the land of Egypt was famished, the people cried to Pharaoh for bread: and Pharaoh said unto all the Egyptians, Go unto Joseph; what he saith to you, do.",
+      "churchId": "p55"
+    },
+    {
+      "slug": "genesis-41-p56",
+      "type": "verse",
+      "number": "56",
+      "content": "And the famine was over all the face of the earth: And Joseph opened all the storehouses, and sold unto the Egyptians; and the famine waxed sore in the land of Egypt.",
+      "churchId": "p56"
+    },
+    {
+      "slug": "genesis-41-p57",
+      "type": "verse",
+      "number": "57",
+      "content": "And all countries came into Egypt to Joseph for to buy <span class=\"clarity-word\">corn;</span> because that the famine was <span class=\"clarity-word\">so</span> sore in all lands.",
+      "churchId": "p57"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "name": "2 Chronicles 14",
+  "abbrev": "2 Chr. 14",
+  "number": "14",
+  "churchUri": "/scriptures/ot/2-chr/14",
+  "paragraphs": [
+    {
+      "slug": "2-chronicles-14-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 14",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "2-chronicles-14-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "So Abijah slept with his fathers, and they buried him in the city of David: and Asa his son reigned in his stead. In his days the land was quiet ten years.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "2-chronicles-14-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And Asa did <span class=\"clarity-word\">that which was</span> good and right in the eyes of the <span class=\"small-caps\">Lord</span> his God:",
+      "churchId": "p2"
+    },
+    {
+      "slug": "2-chronicles-14-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "For he took away the altars of the strange <span class=\"clarity-word\">gods,</span> and the high places, and brake down the images, and cut down the groves:",
+      "churchId": "p3"
+    },
+    {
+      "slug": "2-chronicles-14-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And commanded Judah to seek the <span class=\"small-caps\">Lord</span> God of their fathers, and to do the law and the commandment.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "2-chronicles-14-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Also he took away out of all the cities of Judah the high places and the images: and the kingdom was quiet before him.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "2-chronicles-14-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "¶ And he built fenced cities in Judah: for the land had rest, and he had no war in those years; because the <span class=\"small-caps\">Lord</span> had given him rest.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "2-chronicles-14-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Therefore he said unto Judah, Let us build these cities, and make about <span class=\"clarity-word\">them</span> walls, and towers, gates, and bars, <span class=\"clarity-word\">while</span> the land <span class=\"clarity-word\">is</span> yet before us; because we have sought the <span class=\"small-caps\">Lord</span> our God, we have sought <span class=\"clarity-word\">him,</span> and he hath given us rest on every side. So they built and prospered.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "2-chronicles-14-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And Asa had an army <span class=\"clarity-word\">of men</span> that bare targets and spears, out of Judah three hundred thousand; and out of Benjamin, that bare shields and drew bows, two hundred and fourscore thousand: all these <span class=\"clarity-word\">were</span> mighty men of valour.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "2-chronicles-14-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "¶ And there came out against them Zerah the Ethiopian with an host of a thousand thousand, and three hundred chariots; and came unto Mareshah.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "2-chronicles-14-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Then Asa went out against him, and they set the battle in array in the valley of Zephathah at Mareshah.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "2-chronicles-14-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And Asa cried unto the <span class=\"small-caps\">Lord</span> his God, and said, <span class=\"small-caps\">Lord</span>, <span class=\"clarity-word\">it is</span> nothing with thee to help, whether with many, or with them that have no power: help us, O <span class=\"small-caps\">Lord</span> our God; for we rest on thee, and in thy name we go against this multitude. O <span class=\"small-caps\">Lord</span>, thou <span class=\"clarity-word\">art</span> our God; let not man prevail against thee.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "2-chronicles-14-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "So the <span class=\"small-caps\">Lord</span> smote the Ethiopians before Asa, and before Judah; and the Ethiopians fled.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "2-chronicles-14-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And Asa and the people that <span class=\"clarity-word\">were</span> with him pursued them unto Gerar: and the Ethiopians were overthrown, that they could not recover themselves; for they were destroyed before the <span class=\"small-caps\">Lord</span>, and before his host; and they carried away very much spoil.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "2-chronicles-14-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And they smote all the cities round about Gerar; for the fear of the <span class=\"small-caps\">Lord</span> came upon them: and they spoiled all the cities; for there was exceeding much spoil in them.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "2-chronicles-14-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "They smote also the tents of cattle, and carried away sheep and camels in abundance, and returned to Jerusalem.",
+      "churchId": "p15"
+    }
+  ]
+}

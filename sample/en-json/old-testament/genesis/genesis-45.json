@@ -1,0 +1,211 @@
+{
+  "name": "Genesis 45",
+  "abbrev": "Gen. 45",
+  "number": "45",
+  "churchUri": "/scriptures/ot/gen/45",
+  "paragraphs": [
+    {
+      "slug": "genesis-45-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 45",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "genesis-45-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Then Joseph could not refrain himself before all them that stood by him; and he cried, Cause every man to go out from me. And there stood no man with him, while Joseph made himself known unto his brethren.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "genesis-45-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And he wept aloud: and the Egyptians and the house of Pharaoh heard.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "genesis-45-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And Joseph said unto his brethren, I <span class=\"clarity-word\">am</span> Joseph; doth my father yet live? And his brethren could not answer him; for they were troubled at his presence.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "genesis-45-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And Joseph said unto his brethren, Come near to me, I pray you. And they came near. And he said, I <span class=\"clarity-word\">am</span> Joseph your brother, whom ye sold into Egypt.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "genesis-45-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Now therefore be not grieved, nor angry with yourselves, that ye sold me hither: for God did send me before you to preserve life.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "genesis-45-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "For these two years <span class=\"clarity-word\">hath</span> the famine <span class=\"clarity-word\">been</span> in the land: and yet <span class=\"clarity-word\">there are</span> five years, in the which <span class=\"clarity-word\">there shall</span> neither <span class=\"clarity-word\">be</span> earing nor harvest.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "genesis-45-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And God sent me before you to preserve you a posterity in the earth, and to save your lives by a great deliverance.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "genesis-45-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "So now <span class=\"clarity-word\">it was</span> not you <span class=\"clarity-word\">that</span> sent me hither, but God: and he hath made me a father to Pharaoh, and lord of all his house, and a ruler throughout all the land of Egypt.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "genesis-45-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Haste ye, and go up to my father, and say unto him, Thus saith thy son Joseph, God hath made me lord of all Egypt: come down unto me, tarry not:",
+      "churchId": "p9"
+    },
+    {
+      "slug": "genesis-45-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And thou shalt dwell in the land of Goshen, and thou shalt be near unto me, thou, and thy children, and thy children’s children, and thy flocks, and thy herds, and all that thou hast:",
+      "churchId": "p10"
+    },
+    {
+      "slug": "genesis-45-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And there will I nourish thee; for yet <span class=\"clarity-word\">there are</span> five years of famine; lest thou, and thy household, and all that thou hast, come to poverty.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "genesis-45-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And, behold, your eyes see, and the eyes of my brother Benjamin, that <span class=\"clarity-word\">it is</span> my mouth that speaketh unto you.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "genesis-45-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And ye shall tell my father of all my glory in Egypt, and of all that ye have seen; and ye shall haste and bring down my father hither.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "genesis-45-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And he fell upon his brother Benjamin’s neck, and wept; and Benjamin wept upon his neck.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "genesis-45-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Moreover he kissed all his brethren, and wept upon them: and after that his brethren talked with him.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "genesis-45-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "¶ And the fame thereof was heard in Pharaoh’s house, saying, Joseph’s brethren are come: and it pleased Pharaoh well, and his servants.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "genesis-45-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And Pharaoh said unto Joseph, Say unto thy brethren, This do ye; lade your beasts, and go, get you unto the land of Canaan;",
+      "churchId": "p17"
+    },
+    {
+      "slug": "genesis-45-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And take your father and your households, and come unto me: and I will give you the good of the land of Egypt, and ye shall eat the fat of the land.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "genesis-45-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Now thou art commanded, this do ye; take you wagons out of the land of Egypt for your little ones, and for your wives, and bring your father, and come.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "genesis-45-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Also regard not your stuff; for the good of all the land of Egypt <span class=\"clarity-word\">is</span> yours.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "genesis-45-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And the children of Israel did so: and Joseph gave them wagons, according to the commandment of Pharaoh, and gave them provision for the way.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "genesis-45-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "To all of them he gave each man changes of raiment; but to Benjamin he gave three hundred <span class=\"clarity-word\">pieces</span> of silver, and five changes of raiment.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "genesis-45-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And to his father he sent after this <span class=\"clarity-word\">manner;</span> ten asses laden with the good things of Egypt, and ten she asses laden with corn and bread and meat for his father by the way.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "genesis-45-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "So he sent his brethren away, and they departed: and he said unto them, See that ye fall not out by the way.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "genesis-45-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "¶ And they went up out of Egypt, and came into the land of Canaan unto Jacob their father,",
+      "churchId": "p25"
+    },
+    {
+      "slug": "genesis-45-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And told him, saying, Joseph <span class=\"clarity-word\">is</span> yet alive, and he <span class=\"clarity-word\">is</span> governor over all the land of Egypt. And Jacob’s heart fainted, for he believed them not.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "genesis-45-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And they told him all the words of Joseph, which he had said unto them: and when he saw the wagons which Joseph had sent to carry him, the spirit of Jacob their father revived:",
+      "churchId": "p27"
+    },
+    {
+      "slug": "genesis-45-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And Israel said, <span class=\"clarity-word\">It is</span> enough; Joseph my son <span class=\"clarity-word\">is</span> yet alive: I will go and see him before I die.",
+      "churchId": "p28"
+    }
+  ]
+}

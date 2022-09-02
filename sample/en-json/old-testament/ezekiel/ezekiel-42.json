@@ -1,0 +1,155 @@
+{
+  "name": "Ezekiel 42",
+  "abbrev": "Ezek. 42",
+  "number": "42",
+  "churchUri": "/scriptures/ot/ezek/42",
+  "paragraphs": [
+    {
+      "slug": "ezekiel-42-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 42",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "ezekiel-42-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Then he brought me forth into the utter court, the way toward the north: and he brought me into the chamber that <span class=\"clarity-word\">was</span> over against the separate place, and which <span class=\"clarity-word\">was</span> before the building toward the north.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "ezekiel-42-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Before the length of an hundred cubits <span class=\"clarity-word\">was</span> the north door, and the breadth <span class=\"clarity-word\">was</span> fifty cubits.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "ezekiel-42-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Over against the twenty <span class=\"clarity-word\">cubits</span> which <span class=\"clarity-word\">were</span> for the inner court, and over against the pavement which <span class=\"clarity-word\">was</span> for the utter court, <span class=\"clarity-word\">was</span> gallery against gallery in three <span class=\"clarity-word\">stories.</span>",
+      "churchId": "p3"
+    },
+    {
+      "slug": "ezekiel-42-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And before the chambers <span class=\"clarity-word\">was</span> a walk of ten cubits breadth inward, a way of one cubit; and their doors toward the north.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "ezekiel-42-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Now the upper chambers <span class=\"clarity-word\">were</span> shorter: for the galleries were higher than these, than the lower, and than the middlemost of the building.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "ezekiel-42-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "For they <span class=\"clarity-word\">were</span> in three <span class=\"clarity-word\">stories,</span> but had not pillars as the pillars of the courts: therefore <span class=\"clarity-word\">the building</span> was straitened more than the lowest and the middlemost from the ground.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "ezekiel-42-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And the wall that <span class=\"clarity-word\">was</span> without over against the chambers, toward the utter court on the forepart of the chambers, the length thereof <span class=\"clarity-word\">was</span> fifty cubits.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "ezekiel-42-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "For the length of the chambers that <span class=\"clarity-word\">were</span> in the utter court <span class=\"clarity-word\">was</span> fifty cubits: and, lo, before the temple <span class=\"clarity-word\">were</span> an hundred cubits.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "ezekiel-42-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And from under these chambers <span class=\"clarity-word\">was</span> the entry on the east side, as one goeth into them from the utter court.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "ezekiel-42-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "The chambers <span class=\"clarity-word\">were</span> in the thickness of the wall of the court toward the east, over against the separate place, and over against the building.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "ezekiel-42-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And the way before them <span class=\"clarity-word\">was</span> like the appearance of the chambers which <span class=\"clarity-word\">were</span> toward the north, as long as they, <span class=\"clarity-word\">and</span> as broad as they: and all their goings out <span class=\"clarity-word\">were</span> both according to their fashions, and according to their doors.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "ezekiel-42-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And according to the doors of the chambers that <span class=\"clarity-word\">were</span> toward the south <span class=\"clarity-word\">was</span> a door in the head of the way, <span class=\"clarity-word\">even</span> the way directly before the wall toward the east, as one entereth into them.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "ezekiel-42-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "¶ Then said he unto me, The north chambers <span class=\"clarity-word\">and</span> the south chambers, which <span class=\"clarity-word\">are</span> before the separate place, they <span class=\"clarity-word\">be</span> holy chambers, where the priests that approach unto the <span class=\"small-caps\">Lord</span> shall eat the most holy things: there shall they lay the most holy things, and the meat offering, and the sin offering, and the trespass offering; for the place <span class=\"clarity-word\">is</span> holy.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "ezekiel-42-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "When the priests enter therein, then shall they not go out of the holy <span class=\"clarity-word\">place</span> into the utter court, but there they shall lay their garments wherein they minister; for they <span class=\"clarity-word\">are</span> holy; and shall put on other garments, and shall approach to <span class=\"clarity-word\">those things</span> which <span class=\"clarity-word\">are</span> for the people.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "ezekiel-42-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Now when he had made an end of measuring the inner house, he brought me forth toward the gate whose prospect <span class=\"clarity-word\">is</span> toward the east, and measured it round about.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "ezekiel-42-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "He measured the east side with the measuring reed, five hundred reeds, with the measuring reed round about.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "ezekiel-42-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "He measured the north side, five hundred reeds, with the measuring reed round about.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "ezekiel-42-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "He measured the south side, five hundred reeds, with the measuring reed.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "ezekiel-42-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "¶ He turned about to the west side, <span class=\"clarity-word\">and</span> measured five hundred reeds with the measuring reed.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "ezekiel-42-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "He measured it by the four sides: it had a wall round about, five hundred <span class=\"clarity-word\">reeds</span> long, and five hundred broad, to make a separation between the sanctuary and the profane place.",
+      "churchId": "p20"
+    }
+  ]
+}

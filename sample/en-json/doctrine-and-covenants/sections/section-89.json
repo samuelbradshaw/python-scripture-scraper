@@ -1,0 +1,162 @@
+{
+  "name": "Doctrine and Covenants 89",
+  "abbrev": "D&C 89",
+  "number": "89",
+  "churchUri": "/scriptures/dc-testament/dc/89",
+  "paragraphs": [
+    {
+      "slug": "section-89-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Section 89",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "section-89-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "A <span class=\"small-caps\">Word of Wisdom</span>, for the benefit of the council of high priests, assembled in Kirtland, and the church, and also the saints in Zion—",
+      "churchId": "p1"
+    },
+    {
+      "slug": "section-89-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "To be sent greeting; not by commandment or constraint, but by revelation and the word of wisdom, showing forth the order and will of God in the temporal salvation of all saints in the last days—",
+      "churchId": "p2"
+    },
+    {
+      "slug": "section-89-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Given for a principle with promise, adapted to the capacity of the weak and the weakest of all saints, who are or can be called saints.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "section-89-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Behold, verily, thus saith the Lord unto you: In consequence of evils and designs which do and will exist in the hearts of conspiring men in the last days, I have warned you, and forewarn you, by giving unto you this word of wisdom by revelation—",
+      "churchId": "p4"
+    },
+    {
+      "slug": "section-89-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "That inasmuch as any man drinketh wine or strong drink among you, behold it is not good, neither meet in the sight of your Father, only in assembling yourselves together to offer up your sacraments before him.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "section-89-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And, behold, this should be wine, yea, pure wine of the grape of the vine, of your own make.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "section-89-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And, again, strong drinks are not for the belly, but for the washing of your bodies.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "section-89-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And again, tobacco is not for the body, neither for the belly, and is not good for man, but is an herb for bruises and all sick cattle, to be used with judgment and skill.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "section-89-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And again, hot drinks are not for the body or belly.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "section-89-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And again, verily I say unto you, all wholesome herbs God hath ordained for the constitution, nature, and use of man—",
+      "churchId": "p10"
+    },
+    {
+      "slug": "section-89-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Every herb in the season thereof, and every fruit in the season thereof; all these to be used with prudence and thanksgiving.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "section-89-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Yea, flesh also of beasts and of the fowls of the air, I, the Lord, have ordained for the use of man with thanksgiving; nevertheless they are to be used sparingly;",
+      "churchId": "p12"
+    },
+    {
+      "slug": "section-89-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And it is pleasing unto me that they should not be used, only in times of winter, or of cold, or famine.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "section-89-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "All grain is ordained for the use of man and of beasts, to be the staff of life, not only for man but for the beasts of the field, and the fowls of heaven, and all wild animals that run or creep on the earth;",
+      "churchId": "p14"
+    },
+    {
+      "slug": "section-89-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And these hath God made for the use of man only in times of famine and excess of hunger.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "section-89-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "All grain is good for the food of man; as also the fruit of the vine; that which yieldeth fruit, whether in the ground or above the ground—",
+      "churchId": "p16"
+    },
+    {
+      "slug": "section-89-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Nevertheless, wheat for man, and corn for the ox, and oats for the horse, and rye for the fowls and for swine, and for all beasts of the field, and barley for all useful animals, and for mild drinks, as also other grain.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "section-89-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And all saints who remember to keep and do these sayings, walking in obedience to the commandments, shall receive health in their navel and marrow to their bones;",
+      "churchId": "p18"
+    },
+    {
+      "slug": "section-89-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And shall find wisdom and great treasures of knowledge, even hidden treasures;",
+      "churchId": "p19"
+    },
+    {
+      "slug": "section-89-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And shall run and not be weary, and shall walk and not faint.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "section-89-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And I, the Lord, give unto them a promise, that the destroying angel shall pass by them, as the children of Israel, and not slay them. Amen.",
+      "churchId": "p21"
+    }
+  ]
+}

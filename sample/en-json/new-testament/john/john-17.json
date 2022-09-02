@@ -1,0 +1,197 @@
+{
+  "name": "John 17",
+  "abbrev": "John 17",
+  "number": "17",
+  "churchUri": "/scriptures/nt/john/17",
+  "paragraphs": [
+    {
+      "slug": "john-17-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 17",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "john-17-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "These words spake Jesus, and lifted up his eyes to heaven, and said, Father, the hour is come; glorify thy Son, that thy Son also may glorify thee:",
+      "churchId": "p1"
+    },
+    {
+      "slug": "john-17-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "As thou hast given him power over all flesh, that he should give eternal life to as many as thou hast given him.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "john-17-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And this is life eternal, that they might know thee the only true God, and Jesus Christ, whom thou hast sent.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "john-17-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "I have glorified thee on the earth: I have finished the work which thou gavest me to do.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "john-17-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And now, O Father, glorify thou me with thine own self with the glory which I had with thee before the world was.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "john-17-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "I have manifested thy name unto the men which thou gavest me out of the world: thine they were, and thou gavest them me; and they have kept thy word.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "john-17-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Now they have known that all things whatsoever thou hast given me are of thee.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "john-17-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "For I have given unto them the words which thou gavest me; and they have received <span class=\"clarity-word\">them,</span> and have known surely that I came out from thee, and they have believed that thou didst send me.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "john-17-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "I pray for them: I pray not for the world, but for them which thou hast given me; for they are thine.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "john-17-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And all mine are thine, and thine are mine; and I am glorified in them.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "john-17-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And now I am no more in the world, but these are in the world, and I come to thee. Holy Father, keep through thine own name those whom thou hast given me, that they may be one, as we <span class=\"clarity-word\">are.</span>",
+      "churchId": "p11"
+    },
+    {
+      "slug": "john-17-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "While I was with them in the world, I kept them in thy name: those that thou gavest me I have kept, and none of them is lost, but the son of perdition; that the scripture might be fulfilled.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "john-17-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And now come I to thee; and these things I speak in the world, that they might have my joy fulfilled in themselves.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "john-17-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "I have given them thy word; and the world hath hated them, because they are not of the world, even as I am not of the world.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "john-17-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "I pray not that thou shouldest take them out of the world, but that thou shouldest keep them from the evil.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "john-17-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "They are not of the world, even as I am not of the world.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "john-17-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Sanctify them through thy truth: thy word is truth.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "john-17-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "As thou hast sent me into the world, even so have I also sent them into the world.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "john-17-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And for their sakes I sanctify myself, that they also might be sanctified through the truth.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "john-17-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Neither pray I for these alone, but for them also which shall believe on me through their word;",
+      "churchId": "p20"
+    },
+    {
+      "slug": "john-17-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "That they all may be one; as thou, Father, <span class=\"clarity-word\">art</span> in me, and I in thee, that they also may be one in us: that the world may believe that thou hast sent me.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "john-17-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And the glory which thou gavest me I have given them; that they may be one, even as we are one:",
+      "churchId": "p22"
+    },
+    {
+      "slug": "john-17-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "I in them, and thou in me, that they may be made perfect in one; and that the world may know that thou hast sent me, and hast loved them, as thou hast loved me.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "john-17-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Father, I will that they also, whom thou hast given me, be with me where I am; that they may behold my glory, which thou hast given me: for thou lovedst me before the foundation of the world.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "john-17-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "O righteous Father, the world hath not known thee: but I have known thee, and these have known that thou hast sent me.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "john-17-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And I have declared unto them thy name, and will declare <span class=\"clarity-word\">it:</span> that the love wherewith thou hast loved me may be in them, and I in them.",
+      "churchId": "p26"
+    }
+  ]
+}

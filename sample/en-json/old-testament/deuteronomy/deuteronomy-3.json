@@ -1,0 +1,218 @@
+{
+  "name": "Deuteronomy 3",
+  "abbrev": "Deut. 3",
+  "number": "3",
+  "churchUri": "/scriptures/ot/deut/3",
+  "paragraphs": [
+    {
+      "slug": "deuteronomy-3-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 3",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "deuteronomy-3-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Then we turned, and went up the way to Bashan: and Og the king of Bashan came out against us, he and all his people, to battle at Edrei.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "deuteronomy-3-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And the <span class=\"small-caps\">Lord</span> said unto me, Fear him not: for I will deliver him, and all his people, and his land, into thy hand; and thou shalt do unto him as thou didst unto Sihon king of the Amorites, which dwelt at Heshbon.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "deuteronomy-3-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "So the <span class=\"small-caps\">Lord</span> our God delivered into our hands Og also, the king of Bashan, and all his people: and we smote him until none was left to him remaining.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "deuteronomy-3-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And we took all his cities at that time, there was not a city which we took not from them, threescore cities, all the region of Argob, the kingdom of Og in Bashan.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "deuteronomy-3-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "All these cities <span class=\"clarity-word\">were</span> fenced with high walls, gates, and bars; beside unwalled towns a great many.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "deuteronomy-3-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And we utterly destroyed them, as we did unto Sihon king of Heshbon, utterly destroying the men, women, and children, of every city.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "deuteronomy-3-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "But all the cattle, and the spoil of the cities, we took for a prey to ourselves.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "deuteronomy-3-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And we took at that time out of the hand of the two kings of the Amorites the land that <span class=\"clarity-word\">was</span> on this side Jordan, from the river of Arnon unto mount Hermon;",
+      "churchId": "p8"
+    },
+    {
+      "slug": "deuteronomy-3-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "(<span class=\"clarity-word\">Which</span> Hermon the Sidonians call Sirion; and the Amorites call it Shenir;)",
+      "churchId": "p9"
+    },
+    {
+      "slug": "deuteronomy-3-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "All the cities of the plain, and all Gilead, and all Bashan, unto Salchah and Edrei, cities of the kingdom of Og in Bashan.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "deuteronomy-3-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "For only Og king of Bashan remained of the remnant of giants; behold, his bedstead <span class=\"clarity-word\">was</span> a bedstead of iron; <span class=\"clarity-word\">is</span> it not in Rabbath of the children of Ammon? nine cubits <span class=\"clarity-word\">was</span> the length thereof, and four cubits the breadth of it, after the cubit of a man.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "deuteronomy-3-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And this land, <span class=\"clarity-word\">which</span> we possessed at that time, from Aroer, which <span class=\"clarity-word\">is</span> by the river Arnon, and half mount Gilead, and the cities thereof, gave I unto the Reubenites and to the Gadites.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "deuteronomy-3-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And the rest of Gilead, and all Bashan, <span class=\"clarity-word\">being</span> the kingdom of Og, gave I unto the half tribe of Manasseh; all the region of Argob, with all Bashan, which was called the land of giants.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "deuteronomy-3-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Jair the son of Manasseh took all the country of Argob unto the coasts of Geshuri and Maachathi; and called them after his own name, Bashan-havoth-jair, unto this day.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "deuteronomy-3-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And I gave Gilead unto Machir.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "deuteronomy-3-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And unto the Reubenites and unto the Gadites I gave from Gilead even unto the river Arnon half the valley, and the border even unto the river Jabbok, <span class=\"clarity-word\">which is</span> the border of the children of Ammon;",
+      "churchId": "p16"
+    },
+    {
+      "slug": "deuteronomy-3-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "The plain also, and Jordan, and the coast <span class=\"clarity-word\">thereof,</span> from Chinnereth even unto the sea of the plain, <span class=\"clarity-word\">even</span> the salt sea, under Ashdoth-pisgah eastward.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "deuteronomy-3-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "¶ And I commanded you at that time, saying, The <span class=\"small-caps\">Lord</span> your God hath given you this land to possess it: ye shall pass over armed before your brethren the children of Israel, all <span class=\"clarity-word\">that are</span> meet for the war.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "deuteronomy-3-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "But your wives, and your little ones, and your cattle, (<span class=\"clarity-word\">for</span> I know that ye have much cattle,) shall abide in your cities which I have given you;",
+      "churchId": "p19"
+    },
+    {
+      "slug": "deuteronomy-3-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Until the <span class=\"small-caps\">Lord</span> have given rest unto your brethren, as well as unto you, and <span class=\"clarity-word\">until</span> they also possess the land which the <span class=\"small-caps\">Lord</span> your God hath given them beyond Jordan: and <span class=\"clarity-word\">then</span> shall ye return every man unto his possession, which I have given you.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "deuteronomy-3-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "¶ And I commanded Joshua at that time, saying, Thine eyes have seen all that the <span class=\"small-caps\">Lord</span> your God hath done unto these two kings: so shall the <span class=\"small-caps\">Lord</span> do unto all the kingdoms whither thou passest.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "deuteronomy-3-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Ye shall not fear them: for the <span class=\"small-caps\">Lord</span> your God he shall fight for you.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "deuteronomy-3-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And I besought the <span class=\"small-caps\">Lord</span> at that time, saying,",
+      "churchId": "p23"
+    },
+    {
+      "slug": "deuteronomy-3-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "O Lord <span class=\"small-caps\">God</span>, thou hast begun to shew thy servant thy greatness, and thy mighty hand: for what God <span class=\"clarity-word\">is there</span> in heaven or in earth, that can do according to thy works, and according to thy might?",
+      "churchId": "p24"
+    },
+    {
+      "slug": "deuteronomy-3-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "I pray thee, let me go over, and see the good land that <span class=\"clarity-word\">is</span> beyond Jordan, that goodly mountain, and Lebanon.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "deuteronomy-3-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "But the <span class=\"small-caps\">Lord</span> was wroth with me for your sakes, and would not hear me: and the <span class=\"small-caps\">Lord</span> said unto me, Let it suffice thee; speak no more unto me of this matter.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "deuteronomy-3-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "Get thee up into the top of Pisgah, and lift up thine eyes westward, and northward, and southward, and eastward, and behold <span class=\"clarity-word\">it</span> with thine eyes: for thou shalt not go over this Jordan.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "deuteronomy-3-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "But charge Joshua, and encourage him, and strengthen him: for he shall go over before this people, and he shall cause them to inherit the land which thou shalt see.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "deuteronomy-3-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "So we abode in the valley over against Beth-peor.",
+      "churchId": "p29"
+    }
+  ]
+}

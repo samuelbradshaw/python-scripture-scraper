@@ -1,0 +1,78 @@
+{
+  "name": "Psalm 124",
+  "abbrev": "Psalm 124",
+  "number": "124",
+  "churchUri": "/scriptures/ot/ps/124",
+  "paragraphs": [
+    {
+      "slug": "psalm-124-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 124",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-124-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "A Song of degrees of David.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-124-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "If <span class=\"clarity-word\">it had</span> not <span class=\"clarity-word\">been</span> the <span class=\"small-caps\">Lord</span> who was on our side, now may Israel say;",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-124-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "If <span class=\"clarity-word\">it had</span> not <span class=\"clarity-word\">been</span> the <span class=\"small-caps\">Lord</span> who was on our side, when men rose up against us:",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-124-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Then they had swallowed us up quick, when their wrath was kindled against us:",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-124-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Then the waters had overwhelmed us, the stream had gone over our soul:",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-124-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Then the proud waters had gone over our soul.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-124-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Blessed <span class=\"clarity-word\">be</span> the <span class=\"small-caps\">Lord</span>, who hath not given us <span class=\"clarity-word\">as</span> a prey to their teeth.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-124-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Our soul is escaped as a bird out of the snare of the fowlers: the snare is broken, and we are escaped.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-124-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Our help <span class=\"clarity-word\">is</span> in the name of the <span class=\"small-caps\">Lord</span>, who made heaven and earth.",
+      "churchId": "p8"
+    }
+  ]
+}

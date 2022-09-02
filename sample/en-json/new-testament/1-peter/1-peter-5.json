@@ -1,0 +1,113 @@
+{
+  "name": "1 Peter 5",
+  "abbrev": "1 Pet. 5",
+  "number": "5",
+  "churchUri": "/scriptures/nt/1-pet/5",
+  "paragraphs": [
+    {
+      "slug": "1-peter-5-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 5",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "1-peter-5-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "The elders which are among you I exhort, who am also an elder, and a witness of the sufferings of Christ, and also a partaker of the glory that shall be revealed:",
+      "churchId": "p1"
+    },
+    {
+      "slug": "1-peter-5-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Feed the flock of God which is among you, taking the oversight <span class=\"clarity-word\">thereof,</span> not by constraint, but willingly; not for filthy lucre, but of a ready mind;",
+      "churchId": "p2"
+    },
+    {
+      "slug": "1-peter-5-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Neither as being lords over <span class=\"clarity-word\">God’s</span> heritage, but being ensamples to the flock.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "1-peter-5-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And when the chief Shepherd shall appear, ye shall receive a crown of glory that fadeth not away.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "1-peter-5-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Likewise, ye younger, submit yourselves unto the elder. Yea, all <span class=\"clarity-word\">of you</span> be subject one to another, and be clothed with humility: for God resisteth the proud, and giveth grace to the humble.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "1-peter-5-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Humble yourselves therefore under the mighty hand of God, that he may exalt you in due time:",
+      "churchId": "p6"
+    },
+    {
+      "slug": "1-peter-5-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Casting all your care upon him; for he careth for you.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "1-peter-5-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Be sober, be vigilant; because your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour:",
+      "churchId": "p8"
+    },
+    {
+      "slug": "1-peter-5-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Whom resist steadfast in the faith, knowing that the same afflictions are accomplished in your brethren that are in the world.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "1-peter-5-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "But the God of all grace, who hath called us unto his eternal glory by Christ Jesus, after that ye have suffered a while, make you perfect, stablish, strengthen, settle <span class=\"clarity-word\">you.</span>",
+      "churchId": "p10"
+    },
+    {
+      "slug": "1-peter-5-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "To him <span class=\"clarity-word\">be</span> glory and dominion for ever and ever. Amen.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "1-peter-5-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "By Silvanus, a faithful brother unto you, as I suppose, I have written briefly, exhorting, and testifying that this is the true grace of God wherein ye stand.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "1-peter-5-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "The <span class=\"clarity-word\">church that is</span> at Babylon, elected together with <span class=\"clarity-word\">you,</span> saluteth you; and <span class=\"clarity-word\">so doth</span> Marcus my son.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "1-peter-5-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Greet ye one another with a kiss of charity. Peace <span class=\"clarity-word\">be</span> with you all that are in Christ Jesus. Amen.",
+      "churchId": "p14"
+    }
+  ]
+}

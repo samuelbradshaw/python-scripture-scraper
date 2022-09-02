@@ -1,0 +1,127 @@
+{
+  "name": "Psalm 91",
+  "abbrev": "Psalm 91",
+  "number": "91",
+  "churchUri": "/scriptures/ot/ps/91",
+  "paragraphs": [
+    {
+      "slug": "psalm-91-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 91",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-91-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "He that dwelleth in the secret place of the most High shall abide under the shadow of the Almighty.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-91-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "I will say of the <span class=\"small-caps\">Lord</span>, <span class=\"clarity-word\">He is</span> my refuge and my fortress: my God; in him will I trust.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-91-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Surely he shall deliver thee from the snare of the fowler, <span class=\"clarity-word\">and</span> from the noisome pestilence.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-91-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "He shall cover thee with his feathers, and under his wings shalt thou trust: his truth <span class=\"clarity-word\">shall be thy</span> shield and buckler.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-91-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Thou shalt not be afraid for the terror by night; <span class=\"clarity-word\">nor</span> for the arrow <span class=\"clarity-word\">that</span> flieth by day;",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-91-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "<span class=\"clarity-word\">Nor</span> for the pestilence <span class=\"clarity-word\">that</span> walketh in darkness; <span class=\"clarity-word\">nor</span> for the destruction <span class=\"clarity-word\">that</span> wasteth at noonday.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-91-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "A thousand shall fall at thy side, and ten thousand at thy right hand; <span class=\"clarity-word\">but</span> it shall not come nigh thee.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-91-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Only with thine eyes shalt thou behold and see the reward of the wicked.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "psalm-91-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Because thou hast made the <span class=\"small-caps\">Lord</span>, <span class=\"clarity-word\">which is</span> my refuge, <span class=\"clarity-word\">even</span> the most High, thy habitation;",
+      "churchId": "p9"
+    },
+    {
+      "slug": "psalm-91-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "There shall no evil befall thee, neither shall any plague come nigh thy dwelling.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "psalm-91-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "For he shall give his angels charge over thee, to keep thee in all thy ways.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "psalm-91-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "They shall bear thee up in <span class=\"clarity-word\">their</span> hands, lest thou dash thy foot against a stone.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "psalm-91-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Thou shalt tread upon the lion and adder: the young lion and the dragon shalt thou trample under feet.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "psalm-91-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Because he hath set his love upon me, therefore will I deliver him: I will set him on high, because he hath known my name.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "psalm-91-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "He shall call upon me, and I will answer him: I <span class=\"clarity-word\">will be</span> with him in trouble; I will deliver him, and honour him.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "psalm-91-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "With long life will I satisfy him, and shew him my salvation.",
+      "churchId": "p16"
+    }
+  ]
+}

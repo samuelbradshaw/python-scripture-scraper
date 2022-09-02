@@ -1,0 +1,92 @@
+{
+  "name": "Psalm 64",
+  "abbrev": "Psalm 64",
+  "number": "64",
+  "churchUri": "/scriptures/ot/ps/64",
+  "paragraphs": [
+    {
+      "slug": "psalm-64-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 64",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-64-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "To the chief Musician, A Psalm of David.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-64-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Hear my voice, O God, in my prayer: preserve my life from fear of the enemy.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-64-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Hide me from the secret counsel of the wicked; from the insurrection of the workers of iniquity:",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-64-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Who whet their tongue like a sword, <span class=\"clarity-word\">and</span> bend <span class=\"clarity-word\">their bows to shoot</span> their arrows, <span class=\"clarity-word\">even</span> bitter words:",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-64-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "That they may shoot in secret at the perfect: suddenly do they shoot at him, and fear not.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-64-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "They encourage themselves <span class=\"clarity-word\">in</span> an evil matter: they commune of laying snares privily; they say, Who shall see them?",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-64-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "They search out iniquities; they accomplish a diligent search: both the inward <span class=\"clarity-word\">thought</span> of every one <span class=\"clarity-word\">of them,</span> and the heart, <span class=\"clarity-word\">is</span> deep.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-64-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "But God shall shoot at them <span class=\"clarity-word\">with</span> an arrow; suddenly shall they be wounded.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-64-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "So they shall make their own tongue to fall upon themselves: all that see them shall flee away.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "psalm-64-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And all men shall fear, and shall declare the work of God; for they shall wisely consider of his doing.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "psalm-64-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "The righteous shall be glad in the <span class=\"small-caps\">Lord</span>, and shall trust in him; and all the upright in heart shall glory.",
+      "churchId": "p10"
+    }
+  ]
+}

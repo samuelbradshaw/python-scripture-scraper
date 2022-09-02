@@ -1,0 +1,351 @@
+{
+  "name": "Acts 10",
+  "abbrev": "Acts 10",
+  "number": "10",
+  "churchUri": "/scriptures/nt/acts/10",
+  "paragraphs": [
+    {
+      "slug": "acts-10-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 10",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "acts-10-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "There was a certain man in Cæsarea called Cornelius, a centurion of the band called the Italian <span class=\"clarity-word\">band,</span>",
+      "churchId": "p1"
+    },
+    {
+      "slug": "acts-10-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "<span class=\"clarity-word\">A</span> devout <span class=\"clarity-word\">man,</span> and one that feared God with all his house, which gave much alms to the people, and prayed to God alway.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "acts-10-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "He saw in a vision evidently about the ninth hour of the day an angel of God coming in to him, and saying unto him, Cornelius.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "acts-10-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And when he looked on him, he was afraid, and said, What is it, Lord? And he said unto him, Thy prayers and thine alms are come up for a memorial before God.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "acts-10-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And now send men to Joppa, and call for <span class=\"clarity-word\">one</span> Simon, whose surname is Peter:",
+      "churchId": "p5"
+    },
+    {
+      "slug": "acts-10-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "He lodgeth with one Simon a tanner, whose house is by the sea side: he shall tell thee what thou oughtest to do.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "acts-10-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And when the angel which spake unto Cornelius was departed, he called two of his household servants, and a devout soldier of them that waited on him continually;",
+      "churchId": "p7"
+    },
+    {
+      "slug": "acts-10-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And when he had declared all <span class=\"clarity-word\">these</span> things unto them, he sent them to Joppa.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "acts-10-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "¶ On the morrow, as they went on their journey, and drew nigh unto the city, Peter went up upon the housetop to pray about the sixth hour:",
+      "churchId": "p9"
+    },
+    {
+      "slug": "acts-10-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And he became very hungry, and would have eaten: but while they made ready, he fell into a trance,",
+      "churchId": "p10"
+    },
+    {
+      "slug": "acts-10-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And saw heaven opened, and a certain vessel descending unto him, as it had been a great sheet knit at the four corners, and let down to the earth:",
+      "churchId": "p11"
+    },
+    {
+      "slug": "acts-10-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Wherein were all manner of fourfooted beasts of the earth, and wild beasts, and creeping things, and fowls of the air.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "acts-10-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And there came a voice to him, Rise, Peter; kill, and eat.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "acts-10-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "But Peter said, Not so, Lord; for I have never eaten any thing that is common or unclean.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "acts-10-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And the voice <span class=\"clarity-word\">spake</span> unto him again the second time, What God hath cleansed, <span class=\"clarity-word\">that</span> call not thou common.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "acts-10-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "This was done thrice: and the vessel was received up again into heaven.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "acts-10-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Now while Peter doubted in himself what this vision which he had seen should mean, behold, the men which were sent from Cornelius had made inquiry for Simon’s house, and stood before the gate,",
+      "churchId": "p17"
+    },
+    {
+      "slug": "acts-10-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And called, and asked whether Simon, which was surnamed Peter, were lodged there.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "acts-10-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "¶ While Peter thought on the vision, the Spirit said unto him, Behold, three men seek thee.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "acts-10-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Arise therefore, and get thee down, and go with them, doubting nothing: for I have sent them.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "acts-10-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Then Peter went down to the men which were sent unto him from Cornelius; and said, Behold, I am he whom ye seek: what <span class=\"clarity-word\">is</span> the cause wherefore ye are come?",
+      "churchId": "p21"
+    },
+    {
+      "slug": "acts-10-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And they said, Cornelius the centurion, a just man, and one that feareth God, and of good report among all the nation of the Jews, was warned from God by an holy angel to send for thee into his house, and to hear words of thee.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "acts-10-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Then called he them in, and lodged <span class=\"clarity-word\">them.</span> And on the morrow Peter went away with them, and certain brethren from Joppa accompanied him.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "acts-10-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And the morrow after they entered into Cæsarea. And Cornelius waited for them, and had called together his kinsmen and near friends.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "acts-10-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And as Peter was coming in, Cornelius met him, and fell down at his feet, and worshipped <span class=\"clarity-word\">him.</span>",
+      "churchId": "p25"
+    },
+    {
+      "slug": "acts-10-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "But Peter took him up, saying, Stand up; I myself also am a man.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "acts-10-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And as he talked with him, he went in, and found many that were come together.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "acts-10-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And he said unto them, Ye know how that it is an unlawful thing for a man that is a Jew to keep company, or come unto one of another nation; but God hath shewed me that I should not call any man common or unclean.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "acts-10-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "Therefore came I <span class=\"clarity-word\">unto you</span> without gainsaying, as soon as I was sent for: I ask therefore for what intent ye have sent for me?",
+      "churchId": "p29"
+    },
+    {
+      "slug": "acts-10-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And Cornelius said, Four days ago I was fasting until this hour; and at the ninth hour I prayed in my house, and, behold, a man stood before me in bright clothing,",
+      "churchId": "p30"
+    },
+    {
+      "slug": "acts-10-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "And said, Cornelius, thy prayer is heard, and thine alms are had in remembrance in the sight of God.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "acts-10-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "Send therefore to Joppa, and call hither Simon, whose surname is Peter; he is lodged in the house of <span class=\"clarity-word\">one</span> Simon a tanner by the sea side: who, when he cometh, shall speak unto thee.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "acts-10-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "Immediately therefore I sent to thee; and thou hast well done that thou art come. Now therefore are we all here present before God, to hear all things that are commanded thee of God.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "acts-10-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "¶ Then Peter opened <span class=\"clarity-word\">his</span> mouth, and said, Of a truth I perceive that God is no respecter of persons:",
+      "churchId": "p34"
+    },
+    {
+      "slug": "acts-10-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "But in every nation he that feareth him, and worketh righteousness, is accepted with him.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "acts-10-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "The word which <span class=\"clarity-word\">God</span> sent unto the children of Israel, preaching peace by Jesus Christ: (he is Lord of all:)",
+      "churchId": "p36"
+    },
+    {
+      "slug": "acts-10-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "That word, <span class=\"clarity-word\">I say,</span> ye know, which was published throughout all Judæa, and began from Galilee, after the baptism which John preached;",
+      "churchId": "p37"
+    },
+    {
+      "slug": "acts-10-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "How God anointed Jesus of Nazareth with the Holy Ghost and with power: who went about doing good, and healing all that were oppressed of the devil; for God was with him.",
+      "churchId": "p38"
+    },
+    {
+      "slug": "acts-10-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "And we are witnesses of all things which he did both in the land of the Jews, and in Jerusalem; whom they slew and hanged on a tree:",
+      "churchId": "p39"
+    },
+    {
+      "slug": "acts-10-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "Him God raised up the third day, and shewed him openly;",
+      "churchId": "p40"
+    },
+    {
+      "slug": "acts-10-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "Not to all the people, but unto witnesses chosen before of God, <span class=\"clarity-word\">even</span> to us, who did eat and drink with him after he rose from the dead.",
+      "churchId": "p41"
+    },
+    {
+      "slug": "acts-10-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "And he commanded us to preach unto the people, and to testify that it is he which was ordained of God <span class=\"clarity-word\">to be</span> the Judge of quick and dead.",
+      "churchId": "p42"
+    },
+    {
+      "slug": "acts-10-p43",
+      "type": "verse",
+      "number": "43",
+      "content": "To him give all the prophets witness, that through his name whosoever believeth in him shall receive remission of sins.",
+      "churchId": "p43"
+    },
+    {
+      "slug": "acts-10-p44",
+      "type": "verse",
+      "number": "44",
+      "content": "¶ While Peter yet spake these words, the Holy Ghost fell on all them which heard the word.",
+      "churchId": "p44"
+    },
+    {
+      "slug": "acts-10-p45",
+      "type": "verse",
+      "number": "45",
+      "content": "And they of the circumcision which believed were astonished, as many as came with Peter, because that on the Gentiles also was poured out the gift of the Holy Ghost.",
+      "churchId": "p45"
+    },
+    {
+      "slug": "acts-10-p46",
+      "type": "verse",
+      "number": "46",
+      "content": "For they heard them speak with tongues, and magnify God. Then answered Peter,",
+      "churchId": "p46"
+    },
+    {
+      "slug": "acts-10-p47",
+      "type": "verse",
+      "number": "47",
+      "content": "Can any man forbid water, that these should not be baptized, which have received the Holy Ghost as well as we?",
+      "churchId": "p47"
+    },
+    {
+      "slug": "acts-10-p48",
+      "type": "verse",
+      "number": "48",
+      "content": "And he commanded them to be baptized in the name of the Lord. Then prayed they him to tarry certain days.",
+      "churchId": "p48"
+    }
+  ]
+}

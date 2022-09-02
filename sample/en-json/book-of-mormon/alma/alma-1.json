@@ -1,0 +1,260 @@
+{
+  "name": "Alma 1",
+  "abbrev": "Alma 1",
+  "number": "1",
+  "churchUri": "/scriptures/bofm/alma/1",
+  "paragraphs": [
+    {
+      "slug": "alma-1-title1",
+      "type": "book-title",
+      "number": null,
+      "content": "The Book of Alma<small> </small><small>the Son of Alma</small>",
+      "churchId": "title1"
+    },
+    {
+      "slug": "alma-1-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "The account of Alma, who was the son of Alma, the first and chief judge over the people of Nephi, and also the high priest over the Church. An account of the reign of the judges, and the wars and contentions among the people. And also an account of a war between the Nephites and the Lamanites, according to the record of Alma, the first and chief judge.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "alma-1-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 1",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "alma-1-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Now it came to pass that in the first year of the reign of the judges over the people of Nephi, from this time forward, king Mosiah having gone the way of all the earth, having warred a good warfare, walking uprightly before God, leaving none to reign in his stead; nevertheless he had established laws, and they were acknowledged by the people; therefore they were obliged to abide by the laws which he had made.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "alma-1-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And it came to pass that in the first year of the reign of Alma in the judgment-seat, there was a man brought before him to be judged, a man who was large, and was noted for his much strength.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "alma-1-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And he had gone about among the people, preaching to them that which he termed to be the word of God, bearing down against the church; declaring unto the people that every priest and teacher ought to become popular; and they ought not to labor with their hands, but that they ought to be supported by the people.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "alma-1-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And he also testified unto the people that all mankind should be saved at the last day, and that they need not fear nor tremble, but that they might lift up their heads and rejoice; for the Lord had created all men, and had also redeemed all men; and, in the end, all men should have eternal life.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "alma-1-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And it came to pass that he did teach these things so much that many did believe on his words, even so many that they began to support him and give him money.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "alma-1-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And he began to be lifted up in the pride of his heart, and to wear very costly apparel, yea, and even began to establish a church after the manner of his preaching.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "alma-1-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And it came to pass as he was going, to preach to those who believed on his word, he met a man who belonged to the church of God, yea, even one of their teachers; and he began to contend with him sharply, that he might lead away the people of the church; but the man withstood him, admonishing him with the words of God.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "alma-1-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Now the name of the man was Gideon; and it was he who was an instrument in the hands of God in delivering the people of Limhi out of bondage.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "alma-1-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Now, because Gideon withstood him with the words of God he was wroth with Gideon, and drew his sword and began to smite him. Now Gideon being stricken with many years, therefore he was not able to withstand his blows, therefore he was slain by the sword.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "alma-1-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And the man who slew him was taken by the people of the church, and was brought before Alma, to be judged according to the crimes which he had committed.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "alma-1-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And it came to pass that he stood before Alma and pled for himself with much boldness.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "alma-1-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "But Alma said unto him: Behold, this is the first time that priestcraft has been introduced among this people. And behold, thou art not only guilty of priestcraft, but hast endeavored to enforce it by the sword; and were priestcraft to be enforced among this people it would prove their entire destruction.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "alma-1-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And thou hast shed the blood of a righteous man, yea, a man who has done much good among this people; and were we to spare thee his blood would come upon us for vengeance.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "alma-1-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Therefore thou art condemned to die, according to the law which has been given us by Mosiah, our last king; and it has been acknowledged by this people; therefore this people must abide by the law.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "alma-1-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And it came to pass that they took him; and his name was Nehor; and they carried him upon the top of the hill Manti, and there he was caused, or rather did acknowledge, between the heavens and the earth, that what he had taught to the people was contrary to the word of God; and there he suffered an ignominious death.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "alma-1-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Nevertheless, this did not put an end to the spreading of priestcraft through the land; for there were many who loved the vain things of the world, and they went forth preaching false doctrines; and this they did for the sake of riches and honor.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "alma-1-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Nevertheless, they durst not lie, if it were known, for fear of the law, for liars were punished; therefore they pretended to preach according to their belief; and now the law could have no power on any man for his belief.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "alma-1-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And they durst not steal, for fear of the law, for such were punished; neither durst they rob, nor murder, for he that murdered was punished unto death.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "alma-1-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "But it came to pass that whosoever did not belong to the church of God began to persecute those that did belong to the church of God, and had taken upon them the name of Christ.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "alma-1-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Yea, they did persecute them, and afflict them with all manner of words, and this because of their humility; because they were not proud in their own eyes, and because they did impart the word of God, one with another, without money and without price.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "alma-1-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Now there was a strict law among the people of the church, that there should not any man, belonging to the church, arise and persecute those that did not belong to the church, and that there should be no persecution among themselves.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "alma-1-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Nevertheless, there were many among them who began to be proud, and began to contend warmly with their adversaries, even unto blows; yea, they would smite one another with their fists.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "alma-1-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Now this was in the second year of the reign of Alma, and it was a cause of much affliction to the church; yea, it was the cause of much trial with the church.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "alma-1-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "For the hearts of many were hardened, and their names were blotted out, that they were remembered no more among the people of God. And also many withdrew themselves from among them.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "alma-1-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Now this was a great trial to those that did stand fast in the faith; nevertheless, they were steadfast and immovable in keeping the commandments of God, and they bore with patience the persecution which was heaped upon them.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "alma-1-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And when the priests left their labor to impart the word of God unto the people, the people also left their labors to hear the word of God. And when the priest had imparted unto them the word of God they all returned again diligently unto their labors; and the priest, not esteeming himself above his hearers, for the preacher was no better than the hearer, neither was the teacher any better than the learner; and thus they were all equal, and they did all labor, every man according to his strength.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "alma-1-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And they did impart of their substance, every man according to that which he had, to the poor, and the needy, and the sick, and the afflicted; and they did not wear costly apparel, yet they were neat and comely.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "alma-1-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And thus they did establish the affairs of the church; and thus they began to have continual peace again, notwithstanding all their persecutions.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "alma-1-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "And now, because of the steadiness of the church they began to be exceedingly rich, having abundance of all things whatsoever they stood in need—an abundance of flocks and herds, and fatlings of every kind, and also abundance of grain, and of gold, and of silver, and of precious things, and abundance of silk and fine-twined linen, and all manner of good homely cloth.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "alma-1-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And thus, in their prosperous circumstances, they did not send away any who were naked, or that were hungry, or that were athirst, or that were sick, or that had not been nourished; and they did not set their hearts upon riches; therefore they were liberal to all, both old and young, both bond and free, both male and female, whether out of the church or in the church, having no respect to persons as to those who stood in need.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "alma-1-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "And thus they did prosper and become far more wealthy than those who did not belong to their church.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "alma-1-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "For those who did not belong to their church did indulge themselves in sorceries, and in idolatry or idleness, and in babblings, and in envyings and strife; wearing costly apparel; being lifted up in the pride of their own eyes; persecuting, lying, thieving, robbing, committing whoredoms, and murdering, and all manner of wickedness; nevertheless, the law was put in force upon all those who did transgress it, inasmuch as it was possible.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "alma-1-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "And it came to pass that by thus exercising the law upon them, every man suffering according to that which he had done, they became more still, and durst not commit any wickedness if it were known; therefore, there was much peace among the people of Nephi until the fifth year of the reign of the judges.",
+      "churchId": "p33"
+    }
+  ]
+}

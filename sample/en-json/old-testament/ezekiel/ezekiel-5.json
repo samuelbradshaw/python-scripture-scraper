@@ -1,0 +1,134 @@
+{
+  "name": "Ezekiel 5",
+  "abbrev": "Ezek. 5",
+  "number": "5",
+  "churchUri": "/scriptures/ot/ezek/5",
+  "paragraphs": [
+    {
+      "slug": "ezekiel-5-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 5",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "ezekiel-5-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And thou, son of man, take thee a sharp knife, take thee a barber’s razor, and cause <span class=\"clarity-word\">it</span> to pass upon thine head and upon thy beard: then take thee balances to weigh, and divide the <span class=\"clarity-word\">hair.</span>",
+      "churchId": "p1"
+    },
+    {
+      "slug": "ezekiel-5-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Thou shalt burn with fire a third part in the midst of the city, when the days of the siege are fulfilled: and thou shalt take a third part, <span class=\"clarity-word\">and</span> smite about it with a knife: and a third part thou shalt scatter in the wind; and I will draw out a sword after them.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "ezekiel-5-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Thou shalt also take thereof a few in number, and bind them in thy skirts.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "ezekiel-5-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Then take of them again, and cast them into the midst of the fire, and burn them in the fire; <span class=\"clarity-word\">for</span> thereof shall a fire come forth into all the house of Israel.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "ezekiel-5-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "¶ Thus saith the Lord <span class=\"small-caps\">God</span>; This <span class=\"clarity-word\">is</span> Jerusalem: I have set it in the midst of the nations and countries <span class=\"clarity-word\">that are</span> round about her.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "ezekiel-5-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And she hath changed my judgments into wickedness more than the nations, and my statutes more than the countries that <span class=\"clarity-word\">are</span> round about her: for they have refused my judgments and my statutes, they have not walked in them.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "ezekiel-5-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Therefore thus saith the Lord <span class=\"small-caps\">God</span>; Because ye multiplied more than the nations that <span class=\"clarity-word\">are</span> round about you, <span class=\"clarity-word\">and</span> have not walked in my statutes, neither have kept my judgments, neither have done according to the judgments of the nations that <span class=\"clarity-word\">are</span> round about you;",
+      "churchId": "p7"
+    },
+    {
+      "slug": "ezekiel-5-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Therefore thus saith the Lord <span class=\"small-caps\">God</span>; Behold, I, even I, <span class=\"clarity-word\">am</span> against thee, and will execute judgments in the midst of thee in the sight of the nations.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "ezekiel-5-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And I will do in thee that which I have not done, and whereunto I will not do any more the like, because of all thine abominations.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "ezekiel-5-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Therefore the fathers shall eat the sons in the midst of thee, and the sons shall eat their fathers; and I will execute judgments in thee, and the whole remnant of thee will I scatter into all the winds.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "ezekiel-5-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Wherefore, <span class=\"clarity-word\">as</span> I live, saith the Lord <span class=\"small-caps\">God</span>; Surely, because thou hast defiled my sanctuary with all thy detestable things, and with all thine abominations, therefore will I also diminish <span class=\"clarity-word\">thee;</span> neither shall mine eye spare, neither will I have any pity.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "ezekiel-5-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "¶ A third part of thee shall die with the pestilence, and with famine shall they be consumed in the midst of thee: and a third part shall fall by the sword round about thee; and I will scatter a third part into all the winds, and I will draw out a sword after them.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "ezekiel-5-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Thus shall mine anger be accomplished, and I will cause my fury to rest upon them, and I will be comforted: and they shall know that I the <span class=\"small-caps\">Lord</span> have spoken <span class=\"clarity-word\">it</span> in my zeal, when I have accomplished my fury in them.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "ezekiel-5-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Moreover I will make thee waste, and a reproach among the nations that <span class=\"clarity-word\">are</span> round about thee, in the sight of all that pass by.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "ezekiel-5-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "So it shall be a reproach and a taunt, an instruction and an astonishment unto the nations that <span class=\"clarity-word\">are</span> round about thee, when I shall execute judgments in thee in anger and in fury and in furious rebukes. I the <span class=\"small-caps\">Lord</span> have spoken <span class=\"clarity-word\">it.</span>",
+      "churchId": "p15"
+    },
+    {
+      "slug": "ezekiel-5-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "When I shall send upon them the evil arrows of famine, which shall be for <span class=\"clarity-word\">their</span> destruction, <span class=\"clarity-word\">and</span> which I will send to destroy you: and I will increase the famine upon you, and will break your staff of bread:",
+      "churchId": "p16"
+    },
+    {
+      "slug": "ezekiel-5-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "So will I send upon you famine and evil beasts, and they shall bereave thee; and pestilence and blood shall pass through thee; and I will bring the sword upon thee. I the <span class=\"small-caps\">Lord</span> have spoken <span class=\"clarity-word\">it.</span>",
+      "churchId": "p17"
+    }
+  ]
+}

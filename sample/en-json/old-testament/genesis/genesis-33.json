@@ -1,0 +1,155 @@
+{
+  "name": "Genesis 33",
+  "abbrev": "Gen. 33",
+  "number": "33",
+  "churchUri": "/scriptures/ot/gen/33",
+  "paragraphs": [
+    {
+      "slug": "genesis-33-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 33",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "genesis-33-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And Jacob lifted up his eyes, and looked, and, behold, Esau came, and with him four hundred men. And he divided the children unto Leah, and unto Rachel, and unto the two handmaids.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "genesis-33-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And he put the handmaids and their children foremost, and Leah and her children after, and Rachel and Joseph hindermost.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "genesis-33-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And he passed over before them, and bowed himself to the ground seven times, until he came near to his brother.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "genesis-33-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And Esau ran to meet him, and embraced him, and fell on his neck, and kissed him: and they wept.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "genesis-33-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And he lifted up his eyes, and saw the women and the children; and said, Who <span class=\"clarity-word\">are</span> those with thee? And he said, The children which God hath graciously given thy servant.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "genesis-33-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Then the handmaidens came near, they and their children, and they bowed themselves.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "genesis-33-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And Leah also with her children came near, and bowed themselves: and after came Joseph near and Rachel, and they bowed themselves.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "genesis-33-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And he said, What <span class=\"clarity-word\">meanest</span> thou by all this drove which I met? And he said, <span class=\"clarity-word\">These are</span> to find grace in the sight of my lord.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "genesis-33-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And Esau said, I have enough, my brother; keep that thou hast unto thyself.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "genesis-33-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And Jacob said, Nay, I pray thee, if now I have found grace in thy sight, then receive my present at my hand: for therefore I have seen thy face, as though I had seen the face of God, and thou wast pleased with me.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "genesis-33-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Take, I pray thee, my blessing that is brought to thee; because God hath dealt graciously with me, and because I have enough. And he urged him, and he took <span class=\"clarity-word\">it.</span>",
+      "churchId": "p11"
+    },
+    {
+      "slug": "genesis-33-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And he said, Let us take our journey, and let us go, and I will go before thee.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "genesis-33-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And he said unto him, My lord knoweth that the children <span class=\"clarity-word\">are</span> tender, and the flocks and herds with young <span class=\"clarity-word\">are</span> with me: and if men should overdrive them one day, all the flock will die.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "genesis-33-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Let my lord, I pray thee, pass over before his servant: and I will lead on softly, according as the cattle that goeth before me and the children be able to endure, until I come unto my lord unto Seir.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "genesis-33-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And Esau said, Let me now leave with thee <span class=\"clarity-word\">some</span> of the folk that <span class=\"clarity-word\">are</span> with me. And he said, What needeth it? let me find grace in the sight of my lord.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "genesis-33-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "¶ So Esau returned that day on his way unto Seir.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "genesis-33-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And Jacob journeyed to Succoth, and built him an house, and made booths for his cattle: therefore the name of the place is called Succoth.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "genesis-33-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "¶ And Jacob came to Shalem, a city of Shechem, which <span class=\"clarity-word\">is</span> in the land of Canaan, when he came from Padan-aram; and pitched his tent before the city.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "genesis-33-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And he bought a parcel of a field, where he had spread his tent, at the hand of the children of Hamor, Shechem’s father, for an hundred pieces of money.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "genesis-33-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And he erected there an altar, and called it El-elohe-Israel.",
+      "churchId": "p20"
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "name": "Matthew 8",
+  "abbrev": "Matt. 8",
+  "number": "8",
+  "churchUri": "/scriptures/nt/matt/8",
+  "paragraphs": [
+    {
+      "slug": "matthew-8-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 8",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "matthew-8-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "When he was come down from the mountain, great multitudes followed him.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "matthew-8-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And, behold, there came a leper and worshipped him, saying, Lord, if thou wilt, thou canst make me clean.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "matthew-8-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And Jesus put forth <span class=\"clarity-word\">his</span> hand, and touched him, saying, I will; be thou clean. And immediately his leprosy was cleansed.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "matthew-8-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And Jesus saith unto him, See thou tell no man; but go thy way, shew thyself to the priest, and offer the gift that Moses commanded, for a testimony unto them.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "matthew-8-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "¶ And when Jesus was entered into Capernaum, there came unto him a centurion, beseeching him,",
+      "churchId": "p5"
+    },
+    {
+      "slug": "matthew-8-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And saying, Lord, my servant lieth at home sick of the palsy, grievously tormented.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "matthew-8-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And Jesus saith unto him, I will come and heal him.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "matthew-8-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "The centurion answered and said, Lord, I am not worthy that thou shouldest come under my roof: but speak the word only, and my servant shall be healed.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "matthew-8-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "For I am a man under authority, having soldiers under me: and I say to this <span class=\"clarity-word\">man,</span> Go, and he goeth; and to another, Come, and he cometh; and to my servant, Do this, and he doeth <span class=\"clarity-word\">it.</span>",
+      "churchId": "p9"
+    },
+    {
+      "slug": "matthew-8-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "When Jesus heard <span class=\"clarity-word\">it,</span> he marvelled, and said to them that followed, Verily I say unto you, I have not found so great faith, no, not in Israel.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "matthew-8-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And I say unto you, That many shall come from the east and west, and shall sit down with Abraham, and Isaac, and Jacob, in the kingdom of heaven.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "matthew-8-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "But the children of the kingdom shall be cast out into outer darkness: there shall be weeping and gnashing of teeth.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "matthew-8-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And Jesus said unto the centurion, Go thy way; and as thou hast believed, <span class=\"clarity-word\">so</span> be it done unto thee. And his servant was healed in the selfsame hour.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "matthew-8-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "¶ And when Jesus was come into Peter’s house, he saw his wife’s mother laid, and sick of a fever.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "matthew-8-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And he touched her hand, and the fever left her: and she arose, and ministered unto them.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "matthew-8-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "¶ When the even was come, they brought unto him many that were possessed with devils: and he cast out the spirits with <span class=\"clarity-word\">his</span> word, and healed all that were sick:",
+      "churchId": "p16"
+    },
+    {
+      "slug": "matthew-8-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "That it might be fulfilled which was spoken by Esaias the prophet, saying, Himself took our infirmities, and bare <span class=\"clarity-word\">our</span> sicknesses.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "matthew-8-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "¶ Now when Jesus saw great multitudes about him, he gave commandment to depart unto the other side.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "matthew-8-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And a certain scribe came, and said unto him, Master, I will follow thee whithersoever thou goest.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "matthew-8-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And Jesus saith unto him, The foxes have holes, and the birds of the air <span class=\"clarity-word\">have</span> nests; but the Son of man hath not where to lay <span class=\"clarity-word\">his</span> head.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "matthew-8-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And another of his disciples said unto him, Lord, suffer me first to go and bury my father.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "matthew-8-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "But Jesus said unto him, Follow me; and let the dead bury their dead.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "matthew-8-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "¶ And when he was entered into a ship, his disciples followed him.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "matthew-8-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And, behold, there arose a great tempest in the sea, insomuch that the ship was covered with the waves: but he was asleep.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "matthew-8-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And his disciples came to <span class=\"clarity-word\">him,</span> and awoke him, saying, Lord, save us: we perish.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "matthew-8-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And he saith unto them, Why are ye fearful, O ye of little faith? Then he arose, and rebuked the winds and the sea; and there was a great calm.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "matthew-8-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "But the men marvelled, saying, What manner of man is this, that even the winds and the sea obey him!",
+      "churchId": "p27"
+    },
+    {
+      "slug": "matthew-8-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "¶ And when he was come to the other side into the country of the Gergesenes, there met him two possessed with devils, coming out of the tombs, exceeding fierce, so that no man might pass by that way.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "matthew-8-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "And, behold, they cried out, saying, What have we to do with thee, Jesus, thou Son of God? art thou come hither to torment us before the time?",
+      "churchId": "p29"
+    },
+    {
+      "slug": "matthew-8-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And there was a good way off from them an herd of many swine feeding.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "matthew-8-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "So the devils besought him, saying, If thou cast us out, suffer us to go away into the herd of swine.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "matthew-8-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "And he said unto them, Go. And when they were come out, they went into the herd of swine: and, behold, the whole herd of swine ran violently down a steep place into the sea, and perished in the waters.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "matthew-8-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "And they that kept them fled, and went their ways into the city, and told every thing, and what was befallen to the possessed of the devils.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "matthew-8-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "And, behold, the whole city came out to meet Jesus: and when they saw him, they besought <span class=\"clarity-word\">him</span> that he would depart out of their coasts.",
+      "churchId": "p34"
+    }
+  ]
+}

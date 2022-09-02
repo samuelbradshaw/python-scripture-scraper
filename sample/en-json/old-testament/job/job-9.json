@@ -1,0 +1,260 @@
+{
+  "name": "Job 9",
+  "abbrev": "Job 9",
+  "number": "9",
+  "churchUri": "/scriptures/ot/job/9",
+  "paragraphs": [
+    {
+      "slug": "job-9-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 9",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "job-9-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Then Job answered and said,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "job-9-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "I know <span class=\"clarity-word\">it is</span> so of a truth: but how should man be just with God?",
+      "churchId": "p2"
+    },
+    {
+      "slug": "job-9-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "If he will contend with him, he cannot answer him one of a thousand.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "job-9-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "<span class=\"clarity-word\">He is</span> wise in heart, and mighty in strength: who hath hardened <span class=\"clarity-word\">himself</span> against him, and hath prospered?",
+      "churchId": "p4"
+    },
+    {
+      "slug": "job-9-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Which removeth the mountains, and they know not: which overturneth them in his anger.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "job-9-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Which shaketh the earth out of her place, and the pillars thereof tremble.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "job-9-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Which commandeth the sun, and it riseth not; and sealeth up the stars.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "job-9-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Which alone spreadeth out the heavens, and treadeth upon the waves of the sea.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "job-9-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Which maketh Arcturus, Orion, and Pleiades, and the chambers of the south.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "job-9-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Which doeth great things past finding out; yea, and wonders without number.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "job-9-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Lo, he goeth by me, and I see <span class=\"clarity-word\">him</span> not: he passeth on also, but I perceive him not.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "job-9-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Behold, he taketh away, who can hinder him? who will say unto him, What doest thou?",
+      "churchId": "p12"
+    },
+    {
+      "slug": "job-9-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "<span class=\"clarity-word\">If</span> God will not withdraw his anger, the proud helpers do stoop under him.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "job-9-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "How much less shall I answer him, <span class=\"clarity-word\">and</span> choose out my words <span class=\"clarity-word\">to reason</span> with him?",
+      "churchId": "p14"
+    },
+    {
+      "slug": "job-9-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Whom, though I were righteous, <span class=\"clarity-word\">yet</span> would I not answer, <span class=\"clarity-word\">but</span> I would make supplication to my judge.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "job-9-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "If I had called, and he had answered me; <span class=\"clarity-word\">yet</span> would I not believe that he had hearkened unto my voice.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "job-9-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "For he breaketh me with a tempest, and multiplieth my wounds without cause.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "job-9-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "He will not suffer me to take my breath, but filleth me with bitterness.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "job-9-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "If <span class=\"clarity-word\">I speak</span> of strength, lo, <span class=\"clarity-word\">he is</span> strong: and if of judgment, who shall set me a time <span class=\"clarity-word\">to plead?</span>",
+      "churchId": "p19"
+    },
+    {
+      "slug": "job-9-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "If I justify myself, mine own mouth shall condemn me: <span class=\"clarity-word\">if I say,</span> I <span class=\"clarity-word\">am</span> perfect, it shall also prove me perverse.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "job-9-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "<span class=\"clarity-word\">Though</span> I <span class=\"clarity-word\">were</span> perfect, <span class=\"clarity-word\">yet</span> would I not know my soul: I would despise my life.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "job-9-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "This <span class=\"clarity-word\">is</span> one <span class=\"clarity-word\">thing,</span> therefore I said <span class=\"clarity-word\">it,</span> He destroyeth the perfect and the wicked.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "job-9-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "If the scourge slay suddenly, he will laugh at the trial of the innocent.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "job-9-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "The earth is given into the hand of the wicked: he covereth the faces of the judges thereof; if not, where, <span class=\"clarity-word\">and</span> who <span class=\"clarity-word\">is</span> he?",
+      "churchId": "p24"
+    },
+    {
+      "slug": "job-9-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Now my days are swifter than a post: they flee away, they see no good.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "job-9-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "They are passed away as the swift ships: as the eagle <span class=\"clarity-word\">that</span> hasteth to the prey.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "job-9-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "If I say, I will forget my complaint, I will leave off my heaviness, and comfort <span class=\"clarity-word\">myself:</span>",
+      "churchId": "p27"
+    },
+    {
+      "slug": "job-9-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "I am afraid of all my sorrows, I know that thou wilt not hold me innocent.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "job-9-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "<span class=\"clarity-word\">If</span> I be wicked, why then labour I in vain?",
+      "churchId": "p29"
+    },
+    {
+      "slug": "job-9-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "If I wash myself with snow water, and make my hands never so clean;",
+      "churchId": "p30"
+    },
+    {
+      "slug": "job-9-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "Yet shalt thou plunge me in the ditch, and mine own clothes shall abhor me.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "job-9-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "For <span class=\"clarity-word\">he is</span> not a man, as I <span class=\"clarity-word\">am, that</span> I should answer him, <span class=\"clarity-word\">and</span> we should come together in judgment.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "job-9-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "Neither is there any daysman betwixt us, <span class=\"clarity-word\">that</span> might lay his hand upon us both.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "job-9-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "Let him take his rod away from me, and let not his fear terrify me:",
+      "churchId": "p34"
+    },
+    {
+      "slug": "job-9-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "<span class=\"clarity-word\">Then</span> would I speak, and not fear him; but <span class=\"clarity-word\">it is</span> not so with me.",
+      "churchId": "p35"
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "name": "Isaiah 65",
+  "abbrev": "Isa. 65",
+  "number": "65",
+  "churchUri": "/scriptures/ot/isa/65",
+  "paragraphs": [
+    {
+      "slug": "isaiah-65-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 65",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "isaiah-65-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "I am sought of <span class=\"clarity-word\">them that</span> asked not <span class=\"clarity-word\">for me;</span> I am found of <span class=\"clarity-word\">them that</span> sought me not: I said, Behold me, behold me, unto a nation <span class=\"clarity-word\">that</span> was not called by my name.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "isaiah-65-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "I have spread out my hands all the day unto a rebellious people, which walketh in a way <span class=\"clarity-word\">that was</span> not good, after their own thoughts;",
+      "churchId": "p2"
+    },
+    {
+      "slug": "isaiah-65-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "A people that provoketh me to anger continually to my face; that sacrificeth in gardens, and burneth incense upon altars of brick;",
+      "churchId": "p3"
+    },
+    {
+      "slug": "isaiah-65-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Which remain among the graves, and lodge in the monuments, which eat swine’s flesh, and broth of abominable <span class=\"clarity-word\">things is in</span> their vessels;",
+      "churchId": "p4"
+    },
+    {
+      "slug": "isaiah-65-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Which say, Stand by thyself, come not near to me; for I am holier than thou. These <span class=\"clarity-word\">are</span> a smoke in my nose, a fire that burneth all the day.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "isaiah-65-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Behold, <span class=\"clarity-word\">it is</span> written before me: I will not keep silence, but will recompense, even recompense into their bosom,",
+      "churchId": "p6"
+    },
+    {
+      "slug": "isaiah-65-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Your iniquities, and the iniquities of your fathers together, saith the <span class=\"small-caps\">Lord</span>, which have burned incense upon the mountains, and blasphemed me upon the hills: therefore will I measure their former work into their bosom.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "isaiah-65-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "¶ Thus saith the <span class=\"small-caps\">Lord</span>, As the new wine is found in the cluster, and <span class=\"clarity-word\">one</span> saith, Destroy it not; for a blessing <span class=\"clarity-word\">is</span> in it: so will I do for my servants’ sakes, that I may not destroy them all.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "isaiah-65-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And I will bring forth a seed out of Jacob, and out of Judah an inheritor of my mountains: and mine elect shall inherit it, and my servants shall dwell there.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "isaiah-65-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And Sharon shall be a fold of flocks, and the valley of Achor a place for the herds to lie down in, for my people that have sought me.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "isaiah-65-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "¶ But ye <span class=\"clarity-word\">are</span> they that forsake the <span class=\"small-caps\">Lord</span>, that forget my holy mountain, that prepare a table for that troop, and that furnish the drink offering unto that number.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "isaiah-65-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Therefore will I number you to the sword, and ye shall all bow down to the slaughter: because when I called, ye did not answer; when I spake, ye did not hear; but did evil before mine eyes, and did choose <span class=\"clarity-word\">that</span> wherein I delighted not.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "isaiah-65-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Therefore thus saith the Lord <span class=\"small-caps\">God</span>, Behold, my servants shall eat, but ye shall be hungry: behold, my servants shall drink, but ye shall be thirsty: behold, my servants shall rejoice, but ye shall be ashamed:",
+      "churchId": "p13"
+    },
+    {
+      "slug": "isaiah-65-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Behold, my servants shall sing for joy of heart, but ye shall cry for sorrow of heart, and shall howl for vexation of spirit.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "isaiah-65-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And ye shall leave your name for a curse unto my chosen: for the Lord <span class=\"small-caps\">God</span> shall slay thee, and call his servants by another name:",
+      "churchId": "p15"
+    },
+    {
+      "slug": "isaiah-65-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "That he who blesseth himself in the earth shall bless himself in the God of truth; and he that sweareth in the earth shall swear by the God of truth; because the former troubles are forgotten, and because they are hid from mine eyes.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "isaiah-65-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "¶ For, behold, I create new heavens and a new earth: and the former shall not be remembered, nor come into mind.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "isaiah-65-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "But be ye glad and rejoice for ever <span class=\"clarity-word\">in that</span> which I create: for, behold, I create Jerusalem a rejoicing, and her people a joy.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "isaiah-65-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And I will rejoice in Jerusalem, and joy in my people: and the voice of weeping shall be no more heard in her, nor the voice of crying.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "isaiah-65-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "There shall be no more thence an infant of days, nor an old man that hath not filled his days: for the child shall die an hundred years old; but the sinner <span class=\"clarity-word\">being</span> an hundred years old shall be accursed.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "isaiah-65-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And they shall build houses, and inhabit <span class=\"clarity-word\">them;</span> and they shall plant vineyards, and eat the fruit of them.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "isaiah-65-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "They shall not build, and another inhabit; they shall not plant, and another eat: for as the days of a tree <span class=\"clarity-word\">are</span> the days of my people, and mine elect shall long enjoy the work of their hands.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "isaiah-65-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "They shall not labour in vain, nor bring forth for trouble; for they <span class=\"clarity-word\">are</span> the seed of the blessed of the <span class=\"small-caps\">Lord</span>, and their offspring with them.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "isaiah-65-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And it shall come to pass, that before they call, I will answer; and while they are yet speaking, I will hear.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "isaiah-65-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "The wolf and the lamb shall feed together, and the lion shall eat straw like the bullock: and dust <span class=\"clarity-word\">shall be</span> the serpent’s meat. They shall not hurt nor destroy in all my holy mountain, saith the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p25"
+    }
+  ]
+}

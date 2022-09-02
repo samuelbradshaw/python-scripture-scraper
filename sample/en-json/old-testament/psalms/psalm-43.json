@@ -1,0 +1,50 @@
+{
+  "name": "Psalm 43",
+  "abbrev": "Psalm 43",
+  "number": "43",
+  "churchUri": "/scriptures/ot/ps/43",
+  "paragraphs": [
+    {
+      "slug": "psalm-43-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 43",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-43-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Judge me, O God, and plead my cause against an ungodly nation: O deliver me from the deceitful and unjust man.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-43-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "For thou <span class=\"clarity-word\">art</span> the God of my strength: why dost thou cast me off? why go I mourning because of the oppression of the enemy?",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-43-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "O send out thy light and thy truth: let them lead me; let them bring me unto thy holy hill, and to thy tabernacles.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-43-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Then will I go unto the altar of God, unto God my exceeding joy: yea, upon the harp will I praise thee, O God my God.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-43-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Why art thou cast down, O my soul? and why art thou disquieted within me? hope in God: for I shall yet praise him, <span class=\"clarity-word\">who is</span> the health of my countenance, and my God.",
+      "churchId": "p5"
+    }
+  ]
+}

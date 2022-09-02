@@ -1,0 +1,190 @@
+{
+  "name": "John 2",
+  "abbrev": "John 2",
+  "number": "2",
+  "churchUri": "/scriptures/nt/john/2",
+  "paragraphs": [
+    {
+      "slug": "john-2-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 2",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "john-2-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And the third day there was a marriage in Cana of Galilee; and the mother of Jesus was there:",
+      "churchId": "p1"
+    },
+    {
+      "slug": "john-2-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And both Jesus was called, and his disciples, to the marriage.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "john-2-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And when they wanted wine, the mother of Jesus saith unto him, They have no wine.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "john-2-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Jesus saith unto her, Woman, what have I to do with thee? mine hour is not yet come.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "john-2-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "His mother saith unto the servants, Whatsoever he saith unto you, do <span class=\"clarity-word\">it.</span>",
+      "churchId": "p5"
+    },
+    {
+      "slug": "john-2-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And there were set there six waterpots of stone, after the manner of the purifying of the Jews, containing two or three firkins apiece.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "john-2-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Jesus saith unto them, Fill the waterpots with water. And they filled them up to the brim.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "john-2-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And he saith unto them, Draw out now, and bear unto the governor of the feast. And they bare <span class=\"clarity-word\">it.</span>",
+      "churchId": "p8"
+    },
+    {
+      "slug": "john-2-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "When the ruler of the feast had tasted the water that was made wine, and knew not whence it was: (but the servants which drew the water knew;) the governor of the feast called the bridegroom,",
+      "churchId": "p9"
+    },
+    {
+      "slug": "john-2-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And saith unto him, Every man at the beginning doth set forth good wine; and when men have well drunk, then that which is worse: <span class=\"clarity-word\">but</span> thou hast kept the good wine until now.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "john-2-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "This beginning of miracles did Jesus in Cana of Galilee, and manifested forth his glory; and his disciples believed on him.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "john-2-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "¶ After this he went down to Capernaum, he, and his mother, and his brethren, and his disciples: and they continued there not many days.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "john-2-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "¶ And the Jews’ passover was at hand, and Jesus went up to Jerusalem,",
+      "churchId": "p13"
+    },
+    {
+      "slug": "john-2-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And found in the temple those that sold oxen and sheep and doves, and the changers of money sitting:",
+      "churchId": "p14"
+    },
+    {
+      "slug": "john-2-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And when he had made a scourge of small cords, he drove them all out of the temple, and the sheep, and the oxen; and poured out the changers’ money, and overthrew the tables;",
+      "churchId": "p15"
+    },
+    {
+      "slug": "john-2-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And said unto them that sold doves, Take these things hence; make not my Father’s house an house of merchandise.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "john-2-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And his disciples remembered that it was written, The zeal of thine house hath eaten me up.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "john-2-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "¶ Then answered the Jews and said unto him, What sign shewest thou unto us, seeing that thou doest these things?",
+      "churchId": "p18"
+    },
+    {
+      "slug": "john-2-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Jesus answered and said unto them, Destroy this temple, and in three days I will raise it up.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "john-2-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Then said the Jews, Forty and six years was this temple in building, and wilt thou rear it up in three days?",
+      "churchId": "p20"
+    },
+    {
+      "slug": "john-2-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "But he spake of the temple of his body.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "john-2-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "When therefore he was risen from the dead, his disciples remembered that he had said this unto them; and they believed the scripture, and the word which Jesus had said.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "john-2-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "¶ Now when he was in Jerusalem at the passover, in the feast <span class=\"clarity-word\">day,</span> many believed in his name, when they saw the miracles which he did.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "john-2-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "But Jesus did not commit himself unto them, because he knew all <span class=\"clarity-word\">men,</span>",
+      "churchId": "p24"
+    },
+    {
+      "slug": "john-2-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And needed not that any should testify of man: for he knew what was in man.",
+      "churchId": "p25"
+    }
+  ]
+}

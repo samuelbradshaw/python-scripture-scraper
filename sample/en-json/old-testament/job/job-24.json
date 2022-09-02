@@ -1,0 +1,190 @@
+{
+  "name": "Job 24",
+  "abbrev": "Job 24",
+  "number": "24",
+  "churchUri": "/scriptures/ot/job/24",
+  "paragraphs": [
+    {
+      "slug": "job-24-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 24",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "job-24-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Why, seeing times are not hidden from the Almighty, do they that know him not see his days?",
+      "churchId": "p1"
+    },
+    {
+      "slug": "job-24-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "<span class=\"clarity-word\">Some</span> remove the landmarks; they violently take away flocks, and feed <span class=\"clarity-word\">thereof.</span>",
+      "churchId": "p2"
+    },
+    {
+      "slug": "job-24-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "They drive away the ass of the fatherless, they take the widow’s ox for a pledge.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "job-24-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "They turn the needy out of the way: the poor of the earth hide themselves together.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "job-24-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Behold, <span class=\"clarity-word\">as</span> wild asses in the desert, go they forth to their work; rising betimes for a prey: the wilderness <span class=\"clarity-word\">yieldeth</span> food for them <span class=\"clarity-word\">and</span> for <span class=\"clarity-word\">their</span> children.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "job-24-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "They reap <span class=\"clarity-word\">every one</span> his corn in the field: and they gather the vintage of the wicked.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "job-24-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "They cause the naked to lodge without clothing, that <span class=\"clarity-word\">they have</span> no covering in the cold.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "job-24-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "They are wet with the showers of the mountains, and embrace the rock for want of a shelter.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "job-24-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "They pluck the fatherless from the breast, and take a pledge of the poor.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "job-24-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "They cause <span class=\"clarity-word\">him</span> to go naked without clothing, and they take away the sheaf <span class=\"clarity-word\">from</span> the hungry;",
+      "churchId": "p10"
+    },
+    {
+      "slug": "job-24-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "<span class=\"clarity-word\">Which</span> make oil within their walls, <span class=\"clarity-word\">and</span> tread <span class=\"clarity-word\">their</span> winepresses, and suffer thirst.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "job-24-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Men groan from out of the city, and the soul of the wounded crieth out: yet God layeth not folly <span class=\"clarity-word\">to them.</span>",
+      "churchId": "p12"
+    },
+    {
+      "slug": "job-24-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "They are of those that rebel against the light; they know not the ways thereof, nor abide in the paths thereof.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "job-24-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "The murderer rising with the light killeth the poor and needy, and in the night is as a thief.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "job-24-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "The eye also of the adulterer waiteth for the twilight, saying, No eye shall see me: and disguiseth <span class=\"clarity-word\">his</span> face.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "job-24-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "In the dark they dig through houses, <span class=\"clarity-word\">which</span> they had marked for themselves in the daytime: they know not the light.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "job-24-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "For the morning <span class=\"clarity-word\">is</span> to them even as the shadow of death: if <span class=\"clarity-word\">one</span> know <span class=\"clarity-word\">them, they are in</span> the terrors of the shadow of death.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "job-24-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "He <span class=\"clarity-word\">is</span> swift as the waters; their portion is cursed in the earth: he beholdeth not the way of the vineyards.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "job-24-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Drought and heat consume the snow waters: <span class=\"clarity-word\">so doth</span> the grave <span class=\"clarity-word\">those which</span> have sinned.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "job-24-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "The womb shall forget him; the worm shall feed sweetly on him; he shall be no more remembered; and wickedness shall be broken as a tree.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "job-24-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "He evil entreateth the barren <span class=\"clarity-word\">that</span> beareth not: and doeth not good to the widow.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "job-24-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "He draweth also the mighty with his power: he riseth up, and no <span class=\"clarity-word\">man</span> is sure of life.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "job-24-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "<span class=\"clarity-word\">Though</span> it be given him <span class=\"clarity-word\">to be</span> in safety, whereon he resteth; yet his eyes <span class=\"clarity-word\">are</span> upon their ways.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "job-24-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "They are exalted for a little while, but are gone and brought low; they are taken out of the way as all <span class=\"clarity-word\">other,</span> and cut off as the tops of the ears of corn.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "job-24-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And if <span class=\"clarity-word\">it be</span> not <span class=\"clarity-word\">so</span> now, who will make me a liar, and make my speech nothing worth?",
+      "churchId": "p25"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "name": "Deuteronomy 22",
+  "abbrev": "Deut. 22",
+  "number": "22",
+  "churchUri": "/scriptures/ot/deut/22",
+  "paragraphs": [
+    {
+      "slug": "deuteronomy-22-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 22",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "deuteronomy-22-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Thou shalt not see thy brother’s ox or his sheep go astray, and hide thyself from them: thou shalt in any case bring them again unto thy brother.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "deuteronomy-22-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And if thy brother <span class=\"clarity-word\">be</span> not nigh unto thee, or if thou know him not, then thou shalt bring it unto thine own house, and it shall be with thee until thy brother seek after it, and thou shalt restore it to him again.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "deuteronomy-22-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "In like manner shalt thou do with his ass; and so shalt thou do with his raiment; and with all lost thing of thy brother’s, which he hath lost, and thou hast found, shalt thou do likewise: thou mayest not hide thyself.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "deuteronomy-22-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "¶ Thou shalt not see thy brother’s ass or his ox fall down by the way, and hide thyself from them: thou shalt surely help him to lift <span class=\"clarity-word\">them</span> up again.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "deuteronomy-22-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "¶ The woman shall not wear that which pertaineth unto a man, neither shall a man put on a woman’s garment: for all that do so <span class=\"clarity-word\">are</span> abomination unto the <span class=\"small-caps\">Lord</span> thy God.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "deuteronomy-22-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "¶ If a bird’s nest chance to be before thee in the way in any tree, or on the ground, <span class=\"clarity-word\">whether they be</span> young ones, or eggs, and the dam sitting upon the young, or upon the eggs, thou shalt not take the dam with the young:",
+      "churchId": "p6"
+    },
+    {
+      "slug": "deuteronomy-22-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "<span class=\"clarity-word\">But</span> thou shalt in any wise let the dam go, and take the young to thee; that it may be well with thee, and <span class=\"clarity-word\">that</span> thou mayest prolong <span class=\"clarity-word\">thy</span> days.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "deuteronomy-22-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "¶ When thou buildest a new house, then thou shalt make a battlement for thy roof, that thou bring not blood upon thine house, if any man fall from thence.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "deuteronomy-22-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "¶ Thou shalt not sow thy vineyard with divers seeds: lest the fruit of thy seed which thou hast sown, and the fruit of thy vineyard, be defiled.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "deuteronomy-22-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "¶ Thou shalt not plow with an ox and an ass together.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "deuteronomy-22-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "¶ Thou shalt not wear a garment of divers sorts, <span class=\"clarity-word\">as</span> of woollen and linen together.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "deuteronomy-22-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "¶ Thou shalt make thee fringes upon the four quarters of thy vesture, wherewith thou coverest <span class=\"clarity-word\">thyself.</span>",
+      "churchId": "p12"
+    },
+    {
+      "slug": "deuteronomy-22-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "¶ If any man take a wife, and go in unto her, and hate her,",
+      "churchId": "p13"
+    },
+    {
+      "slug": "deuteronomy-22-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And give occasions of speech against her, and bring up an evil name upon her, and say, I took this woman, and when I came to her, I found her not a maid:",
+      "churchId": "p14"
+    },
+    {
+      "slug": "deuteronomy-22-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Then shall the father of the damsel, and her mother, take and bring forth <span class=\"clarity-word\">the tokens of</span> the damsel’s virginity unto the elders of the city in the gate:",
+      "churchId": "p15"
+    },
+    {
+      "slug": "deuteronomy-22-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And the damsel’s father shall say unto the elders, I gave my daughter unto this man to wife, and he hateth her;",
+      "churchId": "p16"
+    },
+    {
+      "slug": "deuteronomy-22-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And, lo, he hath given occasions of speech <span class=\"clarity-word\">against her,</span> saying, I found not thy daughter a maid; and yet these <span class=\"clarity-word\">are the tokens of</span> my daughter’s virginity. And they shall spread the cloth before the elders of the city.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "deuteronomy-22-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And the elders of that city shall take that man and chastise him;",
+      "churchId": "p18"
+    },
+    {
+      "slug": "deuteronomy-22-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And they shall amerce him in an hundred <span class=\"clarity-word\">shekels</span> of silver, and give <span class=\"clarity-word\">them</span> unto the father of the damsel, because he hath brought up an evil name upon a virgin of Israel: and she shall be his wife; he may not put her away all his days.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "deuteronomy-22-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "But if this thing be true, <span class=\"clarity-word\">and the tokens of</span> virginity be not found for the damsel:",
+      "churchId": "p20"
+    },
+    {
+      "slug": "deuteronomy-22-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Then they shall bring out the damsel to the door of her father’s house, and the men of her city shall stone her with stones that she die: because she hath wrought folly in Israel, to play the whore in her father’s house: so shalt thou put evil away from among you.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "deuteronomy-22-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "¶ If a man be found lying with a woman married to an husband, then they shall both of them die, <span class=\"clarity-word\">both</span> the man that lay with the woman, and the woman: so shalt thou put away evil from Israel.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "deuteronomy-22-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "¶ If a damsel <span class=\"clarity-word\">that is</span> a virgin be betrothed unto an husband, and a man find her in the city, and lie with her;",
+      "churchId": "p23"
+    },
+    {
+      "slug": "deuteronomy-22-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Then ye shall bring them both out unto the gate of that city, and ye shall stone them with stones that they die; the damsel, because she cried not, <span class=\"clarity-word\">being</span> in the city; and the man, because he hath humbled his neighbour’s wife: so thou shalt put away evil from among you.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "deuteronomy-22-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "¶ But if a man find a betrothed damsel in the field, and the man force her, and lie with her: then the man only that lay with her shall die:",
+      "churchId": "p25"
+    },
+    {
+      "slug": "deuteronomy-22-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "But unto the damsel thou shalt do nothing; <span class=\"clarity-word\">there is</span> in the damsel no sin <span class=\"clarity-word\">worthy</span> of death: for as when a man riseth against his neighbour, and slayeth him, even so <span class=\"clarity-word\">is</span> this matter:",
+      "churchId": "p26"
+    },
+    {
+      "slug": "deuteronomy-22-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "For he found her in the field, <span class=\"clarity-word\">and</span> the betrothed damsel cried, and <span class=\"clarity-word\">there was</span> none to save her.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "deuteronomy-22-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "¶ If a man find a damsel <span class=\"clarity-word\">that is</span> a virgin, which is not betrothed, and lay hold on her, and lie with her, and they be found;",
+      "churchId": "p28"
+    },
+    {
+      "slug": "deuteronomy-22-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "Then the man that lay with her shall give unto the damsel’s father fifty <span class=\"clarity-word\">shekels</span> of silver, and she shall be his wife; because he hath humbled her, he may not put her away all his days.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "deuteronomy-22-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "¶ A man shall not take his father’s wife, nor discover his father’s skirt.",
+      "churchId": "p30"
+    }
+  ]
+}

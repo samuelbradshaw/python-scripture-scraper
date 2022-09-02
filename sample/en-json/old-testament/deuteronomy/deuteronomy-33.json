@@ -1,0 +1,218 @@
+{
+  "name": "Deuteronomy 33",
+  "abbrev": "Deut. 33",
+  "number": "33",
+  "churchUri": "/scriptures/ot/deut/33",
+  "paragraphs": [
+    {
+      "slug": "deuteronomy-33-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 33",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "deuteronomy-33-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And this <span class=\"clarity-word\">is</span> the blessing, wherewith Moses the man of God blessed the children of Israel before his death.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "deuteronomy-33-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And he said, The <span class=\"small-caps\">Lord</span> came from Sinai, and rose up from Seir unto them; he shined forth from mount Paran, and he came with ten thousands of saints: from his right hand <span class=\"clarity-word\">went</span> a fiery law for them.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "deuteronomy-33-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Yea, he loved the people; all his saints <span class=\"clarity-word\">are</span> in thy hand: and they sat down at thy feet; <span class=\"clarity-word\">every one</span> shall receive of thy words.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "deuteronomy-33-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Moses commanded us a law, <span class=\"clarity-word\">even</span> the inheritance of the congregation of Jacob.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "deuteronomy-33-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And he was king in Jeshurun, when the heads of the people <span class=\"clarity-word\">and</span> the tribes of Israel were gathered together.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "deuteronomy-33-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "¶ Let Reuben live, and not die; and let <span class=\"clarity-word\">not</span> his men be few.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "deuteronomy-33-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "¶ And this <span class=\"clarity-word\">is the blessing</span> of Judah: and he said, Hear, <span class=\"small-caps\">Lord</span>, the voice of Judah, and bring him unto his people: let his hands be sufficient for him; and be thou an help <span class=\"clarity-word\">to him</span> from his enemies.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "deuteronomy-33-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "¶ And of Levi he said, <span class=\"clarity-word\">Let</span> thy Thummim and thy Urim <span class=\"clarity-word\">be</span> with thy holy one, whom thou didst prove at Massah, <span class=\"clarity-word\">and with</span> whom thou didst strive at the waters of Meribah;",
+      "churchId": "p8"
+    },
+    {
+      "slug": "deuteronomy-33-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Who said unto his father and to his mother, I have not seen him; neither did he acknowledge his brethren, nor knew his own children: for they have observed thy word, and kept thy covenant.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "deuteronomy-33-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "They shall teach Jacob thy judgments, and Israel thy law: they shall put incense before thee, and whole burnt sacrifice upon thine altar.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "deuteronomy-33-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Bless, <span class=\"small-caps\">Lord</span>, his substance, and accept the work of his hands: smite through the loins of them that rise against him, and of them that hate him, that they rise not again.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "deuteronomy-33-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "¶ <span class=\"clarity-word\">And</span> of Benjamin he said, The beloved of the <span class=\"small-caps\">Lord</span> shall dwell in safety by him; <span class=\"clarity-word\">and the <span class=\"small-caps\">Lord</span></span> shall cover him all the day long, and he shall dwell between his shoulders.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "deuteronomy-33-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "¶ And of Joseph he said, Blessed of the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">be</span> his land, for the precious things of heaven, for the dew, and for the deep that coucheth beneath,",
+      "churchId": "p13"
+    },
+    {
+      "slug": "deuteronomy-33-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And for the precious fruits <span class=\"clarity-word\">brought forth</span> by the sun, and for the precious things put forth by the moon,",
+      "churchId": "p14"
+    },
+    {
+      "slug": "deuteronomy-33-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And for the chief things of the ancient mountains, and for the precious things of the lasting hills,",
+      "churchId": "p15"
+    },
+    {
+      "slug": "deuteronomy-33-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And for the precious things of the earth and fulness thereof, and <span class=\"clarity-word\">for</span> the good will of him that dwelt in the bush: let <span class=\"clarity-word\">the blessing</span> come upon the head of Joseph, and upon the top of the head of him <span class=\"clarity-word\">that was</span> separated from his brethren.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "deuteronomy-33-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "His glory <span class=\"clarity-word\">is like</span> the firstling of his bullock, and his horns <span class=\"clarity-word\">are like</span> the horns of unicorns: with them he shall push the people together to the ends of the earth: and they <span class=\"clarity-word\">are</span> the ten thousands of Ephraim, and they <span class=\"clarity-word\">are</span> the thousands of Manasseh.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "deuteronomy-33-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "¶ And of Zebulun he said, Rejoice, Zebulun, in thy going out; and, Issachar, in thy tents.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "deuteronomy-33-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "They shall call the people unto the mountain; there they shall offer sacrifices of righteousness: for they shall suck <span class=\"clarity-word\">of</span> the abundance of the seas, and <span class=\"clarity-word\">of</span> treasures hid in the sand.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "deuteronomy-33-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "¶ And of Gad he said, Blessed <span class=\"clarity-word\">be</span> he that enlargeth Gad: he dwelleth as a lion, and teareth the arm with the crown of the head.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "deuteronomy-33-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And he provided the first part for himself, because there, <span class=\"clarity-word\">in</span> a portion of the lawgiver, <span class=\"clarity-word\">was he</span> seated; and he came with the heads of the people, he executed the justice of the <span class=\"small-caps\">Lord</span>, and his judgments with Israel.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "deuteronomy-33-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "¶ And of Dan he said, Dan <span class=\"clarity-word\">is</span> a lion’s whelp: he shall leap from Bashan.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "deuteronomy-33-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "¶ And of Naphtali he said, O Naphtali, satisfied with favour, and full with the blessing of the <span class=\"small-caps\">Lord</span>: possess thou the west and the south.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "deuteronomy-33-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "¶ And of Asher he said, <span class=\"clarity-word\">Let</span> Asher <span class=\"clarity-word\">be</span> blessed with children; let him be acceptable to his brethren, and let him dip his foot in oil.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "deuteronomy-33-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Thy shoes <span class=\"clarity-word\">shall be</span> iron and brass; and as thy days, <span class=\"clarity-word\">so shall</span> thy strength <span class=\"clarity-word\">be.</span>",
+      "churchId": "p25"
+    },
+    {
+      "slug": "deuteronomy-33-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "¶ <span class=\"clarity-word\">There is</span> none like unto the God of Jeshurun, <span class=\"clarity-word\">who</span> rideth upon the heaven in thy help, and in his excellency on the sky.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "deuteronomy-33-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "The eternal God <span class=\"clarity-word\">is thy</span> refuge, and underneath <span class=\"clarity-word\">are</span> the everlasting arms: and he shall thrust out the enemy from before thee; and shall say, Destroy <span class=\"clarity-word\">them.</span>",
+      "churchId": "p27"
+    },
+    {
+      "slug": "deuteronomy-33-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "Israel then shall dwell in safety alone: the fountain of Jacob <span class=\"clarity-word\">shall be</span> upon a land of corn and wine; also his heavens shall drop down dew.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "deuteronomy-33-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "Happy <span class=\"clarity-word\">art</span> thou, O Israel: who <span class=\"clarity-word\">is</span> like unto thee, O people saved by the <span class=\"small-caps\">Lord</span>, the shield of thy help, and who <span class=\"clarity-word\">is</span> the sword of thy excellency! and thine enemies shall be found liars unto thee; and thou shalt tread upon their high places.",
+      "churchId": "p29"
+    }
+  ]
+}

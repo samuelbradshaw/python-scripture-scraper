@@ -1,0 +1,246 @@
+{
+  "name": "Proverbs 30",
+  "abbrev": "Prov. 30",
+  "number": "30",
+  "churchUri": "/scriptures/ot/prov/30",
+  "paragraphs": [
+    {
+      "slug": "proverbs-30-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 30",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "proverbs-30-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "The words of Agur the son of Jakeh, <span class=\"clarity-word\">even</span> the prophecy: the man spake unto Ithiel, even unto Ithiel and Ucal,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "proverbs-30-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Surely I <span class=\"clarity-word\">am</span> more brutish than <span class=\"clarity-word\">any</span> man, and have not the understanding of a man.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "proverbs-30-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "I neither learned wisdom, nor have the knowledge of the holy.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "proverbs-30-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Who hath ascended up into heaven, or descended? who hath gathered the wind in his fists? who hath bound the waters in a garment? who hath established all the ends of the earth? what <span class=\"clarity-word\">is</span> his name, and what <span class=\"clarity-word\">is</span> his son’s name, if thou canst tell?",
+      "churchId": "p4"
+    },
+    {
+      "slug": "proverbs-30-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Every word of God <span class=\"clarity-word\">is</span> pure: he <span class=\"clarity-word\">is</span> a shield unto them that put their trust in him.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "proverbs-30-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Add thou not unto his words, lest he reprove thee, and thou be found a liar.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "proverbs-30-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Two <span class=\"clarity-word\">things</span> have I required of thee; deny me <span class=\"clarity-word\">them</span> not before I die:",
+      "churchId": "p7"
+    },
+    {
+      "slug": "proverbs-30-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Remove far from me vanity and lies: give me neither poverty nor riches; feed me with food convenient for me:",
+      "churchId": "p8"
+    },
+    {
+      "slug": "proverbs-30-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Lest I be full, and deny <span class=\"clarity-word\">thee,</span> and say, Who <span class=\"clarity-word\">is</span> the <span class=\"small-caps\">Lord</span>? or lest I be poor, and steal, and take the name of my God <span class=\"clarity-word\">in vain.</span>",
+      "churchId": "p9"
+    },
+    {
+      "slug": "proverbs-30-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Accuse not a servant unto his master, lest he curse thee, and thou be found guilty.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "proverbs-30-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "<span class=\"clarity-word\">There is</span> a generation <span class=\"clarity-word\">that</span> curseth their father, and doth not bless their mother.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "proverbs-30-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "<span class=\"clarity-word\">There is</span> a generation <span class=\"clarity-word\">that are</span> pure in their own eyes, and <span class=\"clarity-word\">yet</span> is not washed from their filthiness.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "proverbs-30-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "<span class=\"clarity-word\">There is</span> a generation, O how lofty are their eyes! and their eyelids are lifted up.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "proverbs-30-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "<span class=\"clarity-word\">There is</span> a generation, whose teeth <span class=\"clarity-word\">are as</span> swords, and their jaw teeth <span class=\"clarity-word\">as</span> knives, to devour the poor from off the earth, and the needy from <span class=\"clarity-word\">among</span> men.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "proverbs-30-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "The horseleach hath two daughters, <span class=\"clarity-word\">crying,</span> Give, give. There are three <span class=\"clarity-word\">things that</span> are never satisfied, <span class=\"clarity-word\">yea,</span> four <span class=\"clarity-word\">things</span> say not, <span class=\"clarity-word\">It is</span> enough:",
+      "churchId": "p15"
+    },
+    {
+      "slug": "proverbs-30-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "The grave; and the barren womb; the earth <span class=\"clarity-word\">that</span> is not filled with water; and the fire <span class=\"clarity-word\">that</span> saith not, <span class=\"clarity-word\">It is</span> enough.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "proverbs-30-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "The eye <span class=\"clarity-word\">that</span> mocketh at <span class=\"clarity-word\">his</span> father, and despiseth to obey <span class=\"clarity-word\">his</span> mother, the ravens of the valley shall pick it out, and the young eagles shall eat it.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "proverbs-30-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "There be three <span class=\"clarity-word\">things which</span> are too wonderful for me, yea, four which I know not:",
+      "churchId": "p18"
+    },
+    {
+      "slug": "proverbs-30-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "The way of an eagle in the air; the way of a serpent upon a rock; the way of a ship in the midst of the sea; and the way of a man with a maid.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "proverbs-30-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Such <span class=\"clarity-word\">is</span> the way of an adulterous woman; she eateth, and wipeth her mouth, and saith, I have done no wickedness.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "proverbs-30-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "For three <span class=\"clarity-word\">things</span> the earth is disquieted, and for four <span class=\"clarity-word\">which</span> it cannot bear:",
+      "churchId": "p21"
+    },
+    {
+      "slug": "proverbs-30-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "For a servant when he reigneth; and a fool when he is filled with meat;",
+      "churchId": "p22"
+    },
+    {
+      "slug": "proverbs-30-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "For an odious <span class=\"clarity-word\">woman</span> when she is married; and an handmaid that is heir to her mistress.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "proverbs-30-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "There be four <span class=\"clarity-word\">things which are</span> little upon the earth, but they <span class=\"clarity-word\">are</span> exceeding wise:",
+      "churchId": "p24"
+    },
+    {
+      "slug": "proverbs-30-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "The ants <span class=\"clarity-word\">are</span> a people not strong, yet they prepare their meat in the summer;",
+      "churchId": "p25"
+    },
+    {
+      "slug": "proverbs-30-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "The conies <span class=\"clarity-word\">are but</span> a feeble folk, yet make they their houses in the rocks;",
+      "churchId": "p26"
+    },
+    {
+      "slug": "proverbs-30-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "The locusts have no king, yet go they forth all of them by bands;",
+      "churchId": "p27"
+    },
+    {
+      "slug": "proverbs-30-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "The spider taketh hold with her hands, and is in kings’ palaces.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "proverbs-30-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "There be three <span class=\"clarity-word\">things</span> which go well, yea, four are comely in going:",
+      "churchId": "p29"
+    },
+    {
+      "slug": "proverbs-30-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "A lion <span class=\"clarity-word\">which is</span> strongest among beasts, and turneth not away for any;",
+      "churchId": "p30"
+    },
+    {
+      "slug": "proverbs-30-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "A greyhound; an he goat also; and a king, against whom <span class=\"clarity-word\">there is</span> no rising up.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "proverbs-30-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "If thou hast done foolishly in lifting up thyself, or if thou hast thought evil, <span class=\"clarity-word\">lay</span> thine hand upon thy mouth.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "proverbs-30-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "Surely the churning of milk bringeth forth butter, and the wringing of the nose bringeth forth blood: so the forcing of wrath bringeth forth strife.",
+      "churchId": "p33"
+    }
+  ]
+}

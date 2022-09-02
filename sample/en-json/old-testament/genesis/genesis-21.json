@@ -1,0 +1,253 @@
+{
+  "name": "Genesis 21",
+  "abbrev": "Gen. 21",
+  "number": "21",
+  "churchUri": "/scriptures/ot/gen/21",
+  "paragraphs": [
+    {
+      "slug": "genesis-21-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 21",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "genesis-21-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And the <span class=\"small-caps\">Lord</span> visited Sarah as he had said, and the <span class=\"small-caps\">Lord</span> did unto Sarah as he had spoken.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "genesis-21-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "For Sarah conceived, and bare Abraham a son in his old age, at the set time of which God had spoken to him.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "genesis-21-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And Abraham called the name of his son that was born unto him, whom Sarah bare to him, Isaac.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "genesis-21-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And Abraham circumcised his son Isaac being eight days old, as God had commanded him.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "genesis-21-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And Abraham was an hundred years old, when his son Isaac was born unto him.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "genesis-21-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "¶ And Sarah said, God hath made me to laugh, <span class=\"clarity-word\">so that</span> all that hear will laugh with me.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "genesis-21-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And she said, Who would have said unto Abraham, that Sarah should have given children suck? for I have born <span class=\"clarity-word\">him</span> a son in his old age.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "genesis-21-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And the child grew, and was weaned: and Abraham made a great feast the <span class=\"clarity-word\">same</span> day that Isaac was weaned.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "genesis-21-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "¶ And Sarah saw the son of Hagar the Egyptian, which she had born unto Abraham, mocking.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "genesis-21-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Wherefore she said unto Abraham, Cast out this bondwoman and her son: for the son of this bondwoman shall not be heir with my son, <span class=\"clarity-word\">even</span> with Isaac.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "genesis-21-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And the thing was very grievous in Abraham’s sight because of his son.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "genesis-21-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "¶ And God said unto Abraham, Let it not be grievous in thy sight because of the lad, and because of thy bondwoman; in all that Sarah hath said unto thee, hearken unto her voice; for in Isaac shall thy seed be called.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "genesis-21-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And also of the son of the bondwoman will I make a nation, because he <span class=\"clarity-word\">is</span> thy seed.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "genesis-21-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And Abraham rose up early in the morning, and took bread, and a bottle of water, and gave <span class=\"clarity-word\">it</span> unto Hagar, putting <span class=\"clarity-word\">it</span> on her shoulder, and the child, and sent her away: and she departed, and wandered in the wilderness of Beer-sheba.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "genesis-21-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And the water was spent in the bottle, and she cast the child under one of the shrubs.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "genesis-21-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And she went, and sat her down over against <span class=\"clarity-word\">him</span> a good way off, as it were a bowshot: for she said, Let me not see the death of the child. And she sat over against <span class=\"clarity-word\">him,</span> and lift up her voice, and wept.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "genesis-21-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And God heard the voice of the lad; and the angel of God called to Hagar out of heaven, and said unto her, What aileth thee, Hagar? fear not; for God hath heard the voice of the lad where he <span class=\"clarity-word\">is.</span>",
+      "churchId": "p17"
+    },
+    {
+      "slug": "genesis-21-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Arise, lift up the lad, and hold him in thine hand; for I will make him a great nation.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "genesis-21-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And God opened her eyes, and she saw a well of water; and she went, and filled the bottle with water, and gave the lad drink.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "genesis-21-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And God was with the lad; and he grew, and dwelt in the wilderness, and became an archer.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "genesis-21-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And he dwelt in the wilderness of Paran: and his mother took him a wife out of the land of Egypt.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "genesis-21-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "¶ And it came to pass at that time, that Abimelech and Phichol the chief captain of his host spake unto Abraham, saying, God <span class=\"clarity-word\">is</span> with thee in all that thou doest:",
+      "churchId": "p22"
+    },
+    {
+      "slug": "genesis-21-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Now therefore swear unto me here by God that thou wilt not deal falsely with me, nor with my son, nor with my son’s son: <span class=\"clarity-word\">but</span> according to the kindness that I have done unto thee, thou shalt do unto me, and to the land wherein thou hast sojourned.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "genesis-21-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And Abraham said, I will swear.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "genesis-21-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And Abraham reproved Abimelech because of a well of water, which Abimelech’s servants had violently taken away.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "genesis-21-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And Abimelech said, I wot not who hath done this thing: neither didst thou tell me, neither yet heard I <span class=\"clarity-word\">of it,</span> but to day.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "genesis-21-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And Abraham took sheep and oxen, and gave them unto Abimelech; and both of them made a covenant.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "genesis-21-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And Abraham set seven ewe lambs of the flock by themselves.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "genesis-21-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "And Abimelech said unto Abraham, What <span class=\"clarity-word\">mean</span> these seven ewe lambs which thou hast set by themselves?",
+      "churchId": "p29"
+    },
+    {
+      "slug": "genesis-21-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And he said, For <span class=\"clarity-word\">these</span> seven ewe lambs shalt thou take of my hand, that they may be a witness unto me, that I have digged this well.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "genesis-21-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "Wherefore he called that place Beer-sheba; because there they sware both of them.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "genesis-21-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "Thus they made a covenant at Beer-sheba: then Abimelech rose up, and Phichol the chief captain of his host, and they returned into the land of the Philistines.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "genesis-21-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "¶ And <span class=\"clarity-word\">Abraham</span> planted a grove in Beer-sheba, and called there on the name of the <span class=\"small-caps\">Lord</span>, the everlasting God.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "genesis-21-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "And Abraham sojourned in the Philistines’ land many days.",
+      "churchId": "p34"
+    }
+  ]
+}

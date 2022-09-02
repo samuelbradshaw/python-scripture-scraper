@@ -1,0 +1,85 @@
+{
+  "name": "Jonah 2",
+  "abbrev": "Jonah 2",
+  "number": "2",
+  "churchUri": "/scriptures/ot/jonah/2",
+  "paragraphs": [
+    {
+      "slug": "jonah-2-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 2",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "jonah-2-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Then Jonah prayed unto the <span class=\"small-caps\">Lord</span> his God out of the fish’s belly,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "jonah-2-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And said, I cried by reason of mine affliction unto the <span class=\"small-caps\">Lord</span>, and he heard me; out of the belly of hell cried I, <span class=\"clarity-word\">and</span> thou heardest my voice.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "jonah-2-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "For thou hadst cast me into the deep, in the midst of the seas; and the floods compassed me about: all thy billows and thy waves passed over me.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "jonah-2-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Then I said, I am cast out of thy sight; yet I will look again toward thy holy temple.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "jonah-2-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "The waters compassed me about, <span class=\"clarity-word\">even</span> to the soul: the depth closed me round about, the weeds were wrapped about my head.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "jonah-2-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "I went down to the bottoms of the mountains; the earth with her bars <span class=\"clarity-word\">was</span> about me for ever: yet hast thou brought up my life from corruption, O <span class=\"small-caps\">Lord</span> my God.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "jonah-2-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "When my soul fainted within me I remembered the <span class=\"small-caps\">Lord</span>: and my prayer came in unto thee, into thine holy temple.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "jonah-2-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "They that observe lying vanities forsake their own mercy.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "jonah-2-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "But I will sacrifice unto thee with the voice of thanksgiving; I will pay <span class=\"clarity-word\">that</span> that I have vowed. Salvation <span class=\"clarity-word\">is</span> of the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "jonah-2-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "¶ And the <span class=\"small-caps\">Lord</span> spake unto the fish, and it vomited out Jonah upon the dry <span class=\"clarity-word\">land.</span>",
+      "churchId": "p10"
+    }
+  ]
+}

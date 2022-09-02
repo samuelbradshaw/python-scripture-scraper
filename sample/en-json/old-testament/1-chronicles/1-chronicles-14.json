@@ -1,0 +1,134 @@
+{
+  "name": "1 Chronicles 14",
+  "abbrev": "1 Chr. 14",
+  "number": "14",
+  "churchUri": "/scriptures/ot/1-chr/14",
+  "paragraphs": [
+    {
+      "slug": "1-chronicles-14-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 14",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "1-chronicles-14-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Now Hiram king of Tyre sent messengers to David, and timber of cedars, with masons and carpenters, to build him an house.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "1-chronicles-14-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And David perceived that the <span class=\"small-caps\">Lord</span> had confirmed him king over Israel, for his kingdom was lifted up on high, because of his people Israel.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "1-chronicles-14-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "¶ And David took more wives at Jerusalem: and David begat more sons and daughters.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "1-chronicles-14-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Now these <span class=\"clarity-word\">are</span> the names of <span class=\"clarity-word\">his</span> children which he had in Jerusalem; Shammua, and Shobab, Nathan, and Solomon,",
+      "churchId": "p4"
+    },
+    {
+      "slug": "1-chronicles-14-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And Ibhar, and Elishua, and Elpalet,",
+      "churchId": "p5"
+    },
+    {
+      "slug": "1-chronicles-14-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And Nogah, and Nepheg, and Japhia,",
+      "churchId": "p6"
+    },
+    {
+      "slug": "1-chronicles-14-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And Elishama, and Beeliada, and Eliphalet.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "1-chronicles-14-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "¶ And when the Philistines heard that David was anointed king over all Israel, all the Philistines went up to seek David. And David heard <span class=\"clarity-word\">of it,</span> and went out against them.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "1-chronicles-14-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And the Philistines came and spread themselves in the valley of Rephaim.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "1-chronicles-14-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And David inquired of God, saying, Shall I go up against the Philistines? and wilt thou deliver them into mine hand? And the <span class=\"small-caps\">Lord</span> said unto him, Go up; for I will deliver them into thine hand.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "1-chronicles-14-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "So they came up to Baal-perazim; and David smote them there. Then David said, God hath broken in upon mine enemies by mine hand like the breaking forth of waters: therefore they called the name of that place Baal-perazim.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "1-chronicles-14-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And when they had left their gods there, David gave a commandment, and they were burned with fire.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "1-chronicles-14-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And the Philistines yet again spread themselves abroad in the valley.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "1-chronicles-14-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Therefore David inquired again of God; and God said unto him, Go not up after them; turn away from them, and come upon them over against the mulberry trees.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "1-chronicles-14-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And it shall be, when thou shalt hear a sound of going in the tops of the mulberry trees, <span class=\"clarity-word\">that</span> then thou shalt go out to battle: for God is gone forth before thee to smite the host of the Philistines.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "1-chronicles-14-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "David therefore did as God commanded him: and they smote the host of the Philistines from Gibeon even to Gazer.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "1-chronicles-14-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And the fame of David went out into all lands; and the <span class=\"small-caps\">Lord</span> brought the fear of him upon all nations.",
+      "churchId": "p17"
+    }
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "name": "Ezekiel 36",
+  "abbrev": "Ezek. 36",
+  "number": "36",
+  "churchUri": "/scriptures/ot/ezek/36",
+  "paragraphs": [
+    {
+      "slug": "ezekiel-36-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 36",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "ezekiel-36-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Also, thou son of man, prophesy unto the mountains of Israel, and say, Ye mountains of Israel, hear the word of the <span class=\"small-caps\">Lord</span>:",
+      "churchId": "p1"
+    },
+    {
+      "slug": "ezekiel-36-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Thus saith the Lord <span class=\"small-caps\">God</span>; Because the enemy hath said against you, Aha, even the ancient high places are ours in possession:",
+      "churchId": "p2"
+    },
+    {
+      "slug": "ezekiel-36-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Therefore prophesy and say, Thus saith the Lord <span class=\"small-caps\">God</span>; Because they have made <span class=\"clarity-word\">you</span> desolate, and swallowed you up on every side, that ye might be a possession unto the residue of the heathen, and ye are taken up in the lips of talkers, and <span class=\"clarity-word\">are</span> an infamy of the people:",
+      "churchId": "p3"
+    },
+    {
+      "slug": "ezekiel-36-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Therefore, ye mountains of Israel, hear the word of the Lord <span class=\"small-caps\">God</span>; Thus saith the Lord <span class=\"small-caps\">God</span> to the mountains, and to the hills, to the rivers, and to the valleys, to the desolate wastes, and to the cities that are forsaken, which became a prey and derision to the residue of the heathen that <span class=\"clarity-word\">are</span> round about;",
+      "churchId": "p4"
+    },
+    {
+      "slug": "ezekiel-36-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Therefore thus saith the Lord <span class=\"small-caps\">God</span>; Surely in the fire of my jealousy have I spoken against the residue of the heathen, and against all Idumea, which have appointed my land into their possession with the joy of all <span class=\"clarity-word\">their</span> heart, with despiteful minds, to cast it out for a prey.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "ezekiel-36-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Prophesy therefore concerning the land of Israel, and say unto the mountains, and to the hills, to the rivers, and to the valleys, Thus saith the Lord <span class=\"small-caps\">God</span>; Behold, I have spoken in my jealousy and in my fury, because ye have borne the shame of the heathen:",
+      "churchId": "p6"
+    },
+    {
+      "slug": "ezekiel-36-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Therefore thus saith the Lord <span class=\"small-caps\">God</span>; I have lifted up mine hand, Surely the heathen that <span class=\"clarity-word\">are</span> about you, they shall bear their shame.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "ezekiel-36-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "¶ But ye, O mountains of Israel, ye shall shoot forth your branches, and yield your fruit to my people of Israel; for they are at hand to come.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "ezekiel-36-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "For, behold, I <span class=\"clarity-word\">am</span> for you, and I will turn unto you, and ye shall be tilled and sown:",
+      "churchId": "p9"
+    },
+    {
+      "slug": "ezekiel-36-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And I will multiply men upon you, all the house of Israel, <span class=\"clarity-word\">even</span> all of it: and the cities shall be inhabited, and the wastes shall be builded:",
+      "churchId": "p10"
+    },
+    {
+      "slug": "ezekiel-36-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And I will multiply upon you man and beast; and they shall increase and bring fruit: and I will settle you after your old estates, and will do better <span class=\"clarity-word\">unto you</span> than at your beginnings: and ye shall know that I <span class=\"clarity-word\">am</span> the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "ezekiel-36-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Yea, I will cause men to walk upon you, <span class=\"clarity-word\">even</span> my people Israel; and they shall possess thee, and thou shalt be their inheritance, and thou shalt no more henceforth bereave them <span class=\"clarity-word\">of men.</span>",
+      "churchId": "p12"
+    },
+    {
+      "slug": "ezekiel-36-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Thus saith the Lord <span class=\"small-caps\">God</span>; Because they say unto you, Thou <span class=\"clarity-word\">land</span> devourest up men, and hast bereaved thy nations;",
+      "churchId": "p13"
+    },
+    {
+      "slug": "ezekiel-36-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Therefore thou shalt devour men no more, neither bereave thy nations any more, saith the Lord <span class=\"small-caps\">God</span>.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "ezekiel-36-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Neither will I cause <span class=\"clarity-word\">men</span> to hear in thee the shame of the heathen any more, neither shalt thou bear the reproach of the people any more, neither shalt thou cause thy nations to fall any more, saith the Lord <span class=\"small-caps\">God</span>.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "ezekiel-36-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "¶ Moreover the word of the <span class=\"small-caps\">Lord</span> came unto me, saying,",
+      "churchId": "p16"
+    },
+    {
+      "slug": "ezekiel-36-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Son of man, when the house of Israel dwelt in their own land, they defiled it by their own way and by their doings: their way was before me as the uncleanness of a removed woman.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "ezekiel-36-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Wherefore I poured my fury upon them for the blood that they had shed upon the land, and for their idols <span class=\"clarity-word\">wherewith</span> they had polluted it:",
+      "churchId": "p18"
+    },
+    {
+      "slug": "ezekiel-36-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And I scattered them among the heathen, and they were dispersed through the countries: according to their way and according to their doings I judged them.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "ezekiel-36-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And when they entered unto the heathen, whither they went, they profaned my holy name, when they said to them, These <span class=\"clarity-word\">are</span> the people of the <span class=\"small-caps\">Lord</span>, and are gone forth out of his land.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "ezekiel-36-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "¶ But I had pity for mine holy name, which the house of Israel had profaned among the heathen, whither they went.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "ezekiel-36-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Therefore say unto the house of Israel, Thus saith the Lord <span class=\"small-caps\">God</span>; I do not <span class=\"clarity-word\">this</span> for your sakes, O house of Israel, but for mine holy name’s sake, which ye have profaned among the heathen, whither ye went.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "ezekiel-36-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And I will sanctify my great name, which was profaned among the heathen, which ye have profaned in the midst of them; and the heathen shall know that I <span class=\"clarity-word\">am</span> the <span class=\"small-caps\">Lord</span>, saith the Lord <span class=\"small-caps\">God</span>, when I shall be sanctified in you before their eyes.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "ezekiel-36-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "For I will take you from among the heathen, and gather you out of all countries, and will bring you into your own land.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "ezekiel-36-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "¶ Then will I sprinkle clean water upon you, and ye shall be clean: from all your filthiness, and from all your idols, will I cleanse you.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "ezekiel-36-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "A new heart also will I give you, and a new spirit will I put within you: and I will take away the stony heart out of your flesh, and I will give you an heart of flesh.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "ezekiel-36-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And I will put my spirit within you, and cause you to walk in my statutes, and ye shall keep my judgments, and do <span class=\"clarity-word\">them.</span>",
+      "churchId": "p27"
+    },
+    {
+      "slug": "ezekiel-36-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And ye shall dwell in the land that I gave to your fathers; and ye shall be my people, and I will be your God.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "ezekiel-36-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "I will also save you from all your uncleannesses: and I will call for the corn, and will increase it, and lay no famine upon you.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "ezekiel-36-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And I will multiply the fruit of the tree, and the increase of the field, that ye shall receive no more reproach of famine among the heathen.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "ezekiel-36-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "Then shall ye remember your own evil ways, and your doings that <span class=\"clarity-word\">were</span> not good, and shall lothe yourselves in your own sight for your iniquities and for your abominations.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "ezekiel-36-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "Not for your sakes do I <span class=\"clarity-word\">this,</span> saith the Lord <span class=\"small-caps\">God</span>, be it known unto you: be ashamed and confounded for your own ways, O house of Israel.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "ezekiel-36-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "Thus saith the Lord <span class=\"small-caps\">God</span>; In the day that I shall have cleansed you from all your iniquities I will also cause <span class=\"clarity-word\">you</span> to dwell in the cities, and the wastes shall be builded.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "ezekiel-36-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "And the desolate land shall be tilled, whereas it lay desolate in the sight of all that passed by.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "ezekiel-36-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "And they shall say, This land that was desolate is become like the garden of Eden; and the waste and desolate and ruined cities <span class=\"clarity-word\">are become</span> fenced, <span class=\"clarity-word\">and</span> are inhabited.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "ezekiel-36-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "Then the heathen that are left round about you shall know that I the <span class=\"small-caps\">Lord</span> build the ruined <span class=\"clarity-word\">places, and</span> plant that that was desolate: I the <span class=\"small-caps\">Lord</span> have spoken <span class=\"clarity-word\">it,</span> and I will do <span class=\"clarity-word\">it.</span>",
+      "churchId": "p36"
+    },
+    {
+      "slug": "ezekiel-36-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "Thus saith the Lord <span class=\"small-caps\">God</span>; I will yet <span class=\"clarity-word\">for</span> this be inquired of by the house of Israel, to do <span class=\"clarity-word\">it</span> for them; I will increase them with men like a flock.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "ezekiel-36-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "As the holy flock, as the flock of Jerusalem in her solemn feasts; so shall the waste cities be filled with flocks of men: and they shall know that I <span class=\"clarity-word\">am</span> the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p38"
+    }
+  ]
+}

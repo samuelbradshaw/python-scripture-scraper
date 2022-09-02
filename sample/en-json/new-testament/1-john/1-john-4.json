@@ -1,0 +1,162 @@
+{
+  "name": "1 John 4",
+  "abbrev": "1 Jn. 4",
+  "number": "4",
+  "churchUri": "/scriptures/nt/1-jn/4",
+  "paragraphs": [
+    {
+      "slug": "1-john-4-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 4",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "1-john-4-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Beloved, believe not every spirit, but try the spirits whether they are of God: because many false prophets are gone out into the world.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "1-john-4-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Hereby know ye the Spirit of God: Every spirit that confesseth that Jesus Christ is come in the flesh is of God:",
+      "churchId": "p2"
+    },
+    {
+      "slug": "1-john-4-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And every spirit that confesseth not that Jesus Christ is come in the flesh is not of God: and this is that <span class=\"clarity-word\">spirit</span> of antichrist, whereof ye have heard that it should come; and even now already is it in the world.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "1-john-4-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Ye are of God, little children, and have overcome them: because greater is he that is in you, than he that is in the world.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "1-john-4-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "They are of the world: therefore speak they of the world, and the world heareth them.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "1-john-4-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "We are of God: he that knoweth God heareth us; he that is not of God heareth not us. Hereby know we the spirit of truth, and the spirit of error.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "1-john-4-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Beloved, let us love one another: for love is of God; and every one that loveth is born of God, and knoweth God.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "1-john-4-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "He that loveth not knoweth not God; for God is love.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "1-john-4-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "In this was manifested the love of God toward us, because that God sent his only begotten Son into the world, that we might live through him.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "1-john-4-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Herein is love, not that we loved God, but that he loved us, and sent his Son <span class=\"clarity-word\">to be</span> the propitiation for our sins.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "1-john-4-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Beloved, if God so loved us, we ought also to love one another.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "1-john-4-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "No man hath seen God at any time. If we love one another, God dwelleth in us, and his love is perfected in us.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "1-john-4-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Hereby know we that we dwell in him, and he in us, because he hath given us of his Spirit.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "1-john-4-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And we have seen and do testify that the Father sent the Son <span class=\"clarity-word\">to be</span> the Saviour of the world.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "1-john-4-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Whosoever shall confess that Jesus is the Son of God, God dwelleth in him, and he in God.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "1-john-4-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And we have known and believed the love that God hath to us. God is love; and he that dwelleth in love dwelleth in God, and God in him.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "1-john-4-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Herein is our love made perfect, that we may have boldness in the day of judgment: because as he is, so are we in this world.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "1-john-4-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "There is no fear in love; but perfect love casteth out fear: because fear hath torment. He that feareth is not made perfect in love.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "1-john-4-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "We love him, because he first loved us.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "1-john-4-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "If a man say, I love God, and hateth his brother, he is a liar: for he that loveth not his brother whom he hath seen, how can he love God whom he hath not seen?",
+      "churchId": "p20"
+    },
+    {
+      "slug": "1-john-4-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And this commandment have we from him, That he who loveth God love his brother also.",
+      "churchId": "p21"
+    }
+  ]
+}

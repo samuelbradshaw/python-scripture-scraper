@@ -1,0 +1,281 @@
+{
+  "name": "Genesis 42",
+  "abbrev": "Gen. 42",
+  "number": "42",
+  "churchUri": "/scriptures/ot/gen/42",
+  "paragraphs": [
+    {
+      "slug": "genesis-42-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 42",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "genesis-42-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Now when Jacob saw that there was corn in Egypt, Jacob said unto his sons, Why do ye look one upon another?",
+      "churchId": "p1"
+    },
+    {
+      "slug": "genesis-42-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And he said, Behold, I have heard that there is corn in Egypt: get you down thither, and buy for us from thence; that we may live, and not die.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "genesis-42-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "¶ And Joseph’s ten brethren went down to buy corn in Egypt.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "genesis-42-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "But Benjamin, Joseph’s brother, Jacob sent not with his brethren; for he said, Lest peradventure mischief befall him.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "genesis-42-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And the sons of Israel came to buy <span class=\"clarity-word\">corn</span> among those that came: for the famine was in the land of Canaan.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "genesis-42-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And Joseph <span class=\"clarity-word\">was</span> the governor over the land, <span class=\"clarity-word\">and</span> he <span class=\"clarity-word\">it was</span> that sold to all the people of the land: and Joseph’s brethren came, and bowed down themselves before him <span class=\"clarity-word\">with</span> their faces to the earth.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "genesis-42-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And Joseph saw his brethren, and he knew them, but made himself strange unto them, and spake roughly unto them; and he said unto them, Whence come ye? And they said, From the land of Canaan to buy food.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "genesis-42-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And Joseph knew his brethren, but they knew not him.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "genesis-42-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And Joseph remembered the dreams which he dreamed of them, and said unto them, Ye <span class=\"clarity-word\">are</span> spies; to see the nakedness of the land ye are come.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "genesis-42-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And they said unto him, Nay, my lord, but to buy food are thy servants come.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "genesis-42-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "We <span class=\"clarity-word\">are</span> all one man’s sons; we <span class=\"clarity-word\">are</span> true <span class=\"clarity-word\">men,</span> thy servants are no spies.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "genesis-42-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And he said unto them, Nay, but to see the nakedness of the land ye are come.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "genesis-42-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And they said, Thy servants <span class=\"clarity-word\">are</span> twelve brethren, the sons of one man in the land of Canaan; and, behold, the youngest <span class=\"clarity-word\">is</span> this day with our father, and one <span class=\"clarity-word\">is</span> not.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "genesis-42-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And Joseph said unto them, That <span class=\"clarity-word\">is it</span> that I spake unto you, saying, Ye <span class=\"clarity-word\">are</span> spies:",
+      "churchId": "p14"
+    },
+    {
+      "slug": "genesis-42-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Hereby ye shall be proved: By the life of Pharaoh ye shall not go forth hence, except your youngest brother come hither.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "genesis-42-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Send one of you, and let him fetch your brother, and ye shall be kept in prison, that your words may be proved, whether <span class=\"clarity-word\">there be any</span> truth in you: or else by the life of Pharaoh surely ye <span class=\"clarity-word\">are</span> spies.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "genesis-42-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And he put them all together into ward three days.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "genesis-42-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And Joseph said unto them the third day, This do, and live; <span class=\"clarity-word\">for</span> I fear God:",
+      "churchId": "p18"
+    },
+    {
+      "slug": "genesis-42-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "If ye <span class=\"clarity-word\">be</span> true <span class=\"clarity-word\">men,</span> let one of your brethren be bound in the house of your prison: go ye, carry corn for the famine of your houses:",
+      "churchId": "p19"
+    },
+    {
+      "slug": "genesis-42-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "But bring your youngest brother unto me; so shall your words be verified, and ye shall not die. And they did so.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "genesis-42-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "¶ And they said one to another, We <span class=\"clarity-word\">are</span> verily guilty concerning our brother, in that we saw the anguish of his soul, when he besought us, and we would not hear; therefore is this distress come upon us.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "genesis-42-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And Reuben answered them, saying, Spake I not unto you, saying, Do not sin against the child; and ye would not hear? therefore, behold, also his blood is required.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "genesis-42-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And they knew not that Joseph understood <span class=\"clarity-word\">them;</span> for he spake unto them by an interpreter.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "genesis-42-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And he turned himself about from them, and wept; and returned to them again, and communed with them, and took from them Simeon, and bound him before their eyes.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "genesis-42-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "¶ Then Joseph commanded to fill their sacks with corn, and to restore every man’s money into his sack, and to give them provision for the way: and thus did he unto them.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "genesis-42-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And they laded their asses with the corn, and departed thence.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "genesis-42-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And as one of them opened his sack to give his ass provender in the inn, he espied his money; for, behold, it <span class=\"clarity-word\">was</span> in his sack’s mouth.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "genesis-42-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And he said unto his brethren, My money is restored; and, lo, <span class=\"clarity-word\">it is</span> even in my sack: and their heart failed <span class=\"clarity-word\">them,</span> and they were afraid, saying one to another, What <span class=\"clarity-word\">is</span> this <span class=\"clarity-word\">that</span> God hath done unto us?",
+      "churchId": "p28"
+    },
+    {
+      "slug": "genesis-42-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "¶ And they came unto Jacob their father unto the land of Canaan, and told him all that befell unto them; saying,",
+      "churchId": "p29"
+    },
+    {
+      "slug": "genesis-42-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "The man, <span class=\"clarity-word\">who is</span> the lord of the land, spake roughly to us, and took us for spies of the country.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "genesis-42-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "And we said unto him, We <span class=\"clarity-word\">are</span> true <span class=\"clarity-word\">men;</span> we are no spies:",
+      "churchId": "p31"
+    },
+    {
+      "slug": "genesis-42-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "We <span class=\"clarity-word\">be</span> twelve brethren, sons of our father; one <span class=\"clarity-word\">is</span> not, and the youngest <span class=\"clarity-word\">is</span> this day with our father in the land of Canaan.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "genesis-42-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "And the man, the lord of the country, said unto us, Hereby shall I know that ye <span class=\"clarity-word\">are</span> true <span class=\"clarity-word\">men;</span> leave one of your brethren <span class=\"clarity-word\">here</span> with me, and take <span class=\"clarity-word\">food for</span> the famine of your households, and be gone:",
+      "churchId": "p33"
+    },
+    {
+      "slug": "genesis-42-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "And bring your youngest brother unto me: then shall I know that ye <span class=\"clarity-word\">are</span> no spies, but <span class=\"clarity-word\">that</span> ye <span class=\"clarity-word\">are</span> true <span class=\"clarity-word\">men: so</span> will I deliver you your brother, and ye shall traffick in the land.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "genesis-42-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "¶ And it came to pass as they emptied their sacks, that, behold, every man’s bundle of money <span class=\"clarity-word\">was</span> in his sack: and when <span class=\"clarity-word\">both</span> they and their father saw the bundles of money, they were afraid.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "genesis-42-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "And Jacob their father said unto them, Me have ye bereaved <span class=\"clarity-word\">of my children:</span> Joseph <span class=\"clarity-word\">is</span> not, and Simeon <span class=\"clarity-word\">is</span> not, and ye will take Benjamin <span class=\"clarity-word\">away:</span> all these things are against me.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "genesis-42-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "And Reuben spake unto his father, saying, Slay my two sons, if I bring him not to thee: deliver him into my hand, and I will bring him to thee again.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "genesis-42-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "And he said, My son shall not go down with you; for his brother is dead, and he is left alone: if mischief befall him by the way in the which ye go, then shall ye bring down my gray hairs with sorrow to the grave.",
+      "churchId": "p38"
+    }
+  ]
+}

@@ -1,0 +1,309 @@
+{
+  "name": "Acts 5",
+  "abbrev": "Acts 5",
+  "number": "5",
+  "churchUri": "/scriptures/nt/acts/5",
+  "paragraphs": [
+    {
+      "slug": "acts-5-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 5",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "acts-5-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "But a certain man named Ananias, with Sapphira his wife, sold a possession,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "acts-5-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And kept back <span class=\"clarity-word\">part</span> of the price, his wife also being privy <span class=\"clarity-word\">to it,</span> and brought a certain part, and laid <span class=\"clarity-word\">it</span> at the apostles’ feet.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "acts-5-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "But Peter said, Ananias, why hath Satan filled thine heart to lie to the Holy Ghost, and to keep back <span class=\"clarity-word\">part</span> of the price of the land?",
+      "churchId": "p3"
+    },
+    {
+      "slug": "acts-5-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Whiles it remained, was it not thine own? and after it was sold, was it not in thine own power? why hast thou conceived this thing in thine heart? thou hast not lied unto men, but unto God.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "acts-5-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And Ananias hearing these words fell down, and gave up the ghost: and great fear came on all them that heard these things.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "acts-5-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And the young men arose, wound him up, and carried <span class=\"clarity-word\">him</span> out, and buried <span class=\"clarity-word\">him.</span>",
+      "churchId": "p6"
+    },
+    {
+      "slug": "acts-5-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And it was about the space of three hours after, when his wife, not knowing what was done, came in.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "acts-5-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And Peter answered unto her, Tell me whether ye sold the land for so much? And she said, Yea, for so much.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "acts-5-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Then Peter said unto her, How is it that ye have agreed together to tempt the Spirit of the Lord? behold, the feet of them which have buried thy husband <span class=\"clarity-word\">are</span> at the door, and shall carry thee out.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "acts-5-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Then fell she down straightway at his feet, and yielded up the ghost: and the young men came in, and found her dead, and, carrying <span class=\"clarity-word\">her</span> forth, buried <span class=\"clarity-word\">her</span> by her husband.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "acts-5-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And great fear came upon all the church, and upon as many as heard these things.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "acts-5-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "¶ And by the hands of the apostles were many signs and wonders wrought among the people; (and they were all with one accord in Solomon’s porch.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "acts-5-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And of the rest durst no man join himself to them: but the people magnified them.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "acts-5-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And believers were the more added to the Lord, multitudes both of men and women.)",
+      "churchId": "p14"
+    },
+    {
+      "slug": "acts-5-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Insomuch that they brought forth the sick into the streets, and laid <span class=\"clarity-word\">them</span> on beds and couches, that at the least the shadow of Peter passing by might overshadow some of them.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "acts-5-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "There came also a multitude <span class=\"clarity-word\">out</span> of the cities round about unto Jerusalem, bringing sick folks, and them which were vexed with unclean spirits: and they were healed every one.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "acts-5-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "¶ Then the high priest rose up, and all they that were with him, (which is the sect of the Sadducees,) and were filled with indignation,",
+      "churchId": "p17"
+    },
+    {
+      "slug": "acts-5-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And laid their hands on the apostles, and put them in the common prison.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "acts-5-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "But the angel of the Lord by night opened the prison doors, and brought them forth, and said,",
+      "churchId": "p19"
+    },
+    {
+      "slug": "acts-5-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Go, stand and speak in the temple to the people all the words of this life.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "acts-5-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And when they heard <span class=\"clarity-word\">that,</span> they entered into the temple early in the morning, and taught. But the high priest came, and they that were with him, and called the council together, and all the senate of the children of Israel, and sent to the prison to have them brought.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "acts-5-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "But when the officers came, and found them not in the prison, they returned, and told,",
+      "churchId": "p22"
+    },
+    {
+      "slug": "acts-5-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Saying, The prison truly found we shut with all safety, and the keepers standing without before the doors: but when we had opened, we found no man within.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "acts-5-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Now when the high priest and the captain of the temple and the chief priests heard these things, they doubted of them whereunto this would grow.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "acts-5-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Then came one and told them, saying, Behold, the men whom ye put in prison are standing in the temple, and teaching the people.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "acts-5-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "Then went the captain with the officers, and brought them without violence: for they feared the people, lest they should have been stoned.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "acts-5-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And when they had brought them, they set <span class=\"clarity-word\">them</span> before the council: and the high priest asked them,",
+      "churchId": "p27"
+    },
+    {
+      "slug": "acts-5-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "Saying, Did not we straitly command you that ye should not teach in this name? and, behold, ye have filled Jerusalem with your doctrine, and intend to bring this man’s blood upon us.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "acts-5-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "¶ Then Peter and the <span class=\"clarity-word\">other</span> apostles answered and said, We ought to obey God rather than men.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "acts-5-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "The God of our fathers raised up Jesus, whom ye slew and hanged on a tree.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "acts-5-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "Him hath God exalted with his right hand <span class=\"clarity-word\">to be</span> a Prince and a Saviour, for to give repentance to Israel, and forgiveness of sins.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "acts-5-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "And we are his witnesses of these things; and <span class=\"clarity-word\">so is</span> also the Holy Ghost, whom God hath given to them that obey him.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "acts-5-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "¶ When they heard <span class=\"clarity-word\">that,</span> they were cut <span class=\"clarity-word\">to the heart,</span> and took counsel to slay them.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "acts-5-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "Then stood there up one in the council, a Pharisee, named Gamaliel, a doctor of the law, had in reputation among all the people, and commanded to put the apostles forth a little space;",
+      "churchId": "p34"
+    },
+    {
+      "slug": "acts-5-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "And said unto them, Ye men of Israel, take heed to yourselves what ye intend to do as touching these men.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "acts-5-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "For before these days rose up Theudas, boasting himself to be somebody; to whom a number of men, about four hundred, joined themselves: who was slain; and all, as many as obeyed him, were scattered, and brought to nought.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "acts-5-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "After this man rose up Judas of Galilee in the days of the taxing, and drew away much people after him: he also perished; and all, <span class=\"clarity-word\">even</span> as many as obeyed him, were dispersed.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "acts-5-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "And now I say unto you, Refrain from these men, and let them alone: for if this counsel or this work be of men, it will come to nought:",
+      "churchId": "p38"
+    },
+    {
+      "slug": "acts-5-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "But if it be of God, ye cannot overthrow it; lest haply ye be found even to fight against God.",
+      "churchId": "p39"
+    },
+    {
+      "slug": "acts-5-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "And to him they agreed: and when they had called the apostles, and beaten <span class=\"clarity-word\">them,</span> they commanded that they should not speak in the name of Jesus, and let them go.",
+      "churchId": "p40"
+    },
+    {
+      "slug": "acts-5-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "¶ And they departed from the presence of the council, rejoicing that they were counted worthy to suffer shame for his name.",
+      "churchId": "p41"
+    },
+    {
+      "slug": "acts-5-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "And daily in the temple, and in every house, they ceased not to teach and preach Jesus Christ.",
+      "churchId": "p42"
+    }
+  ]
+}

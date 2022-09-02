@@ -1,0 +1,141 @@
+{
+  "name": "Proverbs 9",
+  "abbrev": "Prov. 9",
+  "number": "9",
+  "churchUri": "/scriptures/ot/prov/9",
+  "paragraphs": [
+    {
+      "slug": "proverbs-9-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 9",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "proverbs-9-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Wisdom hath builded her house, she hath hewn out her seven pillars:",
+      "churchId": "p1"
+    },
+    {
+      "slug": "proverbs-9-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "She hath killed her beasts; she hath mingled her wine; she hath also furnished her table.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "proverbs-9-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "She hath sent forth her maidens: she crieth upon the highest places of the city,",
+      "churchId": "p3"
+    },
+    {
+      "slug": "proverbs-9-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Whoso <span class=\"clarity-word\">is</span> simple, let him turn in hither: <span class=\"clarity-word\">as for</span> him that wanteth understanding, she saith to him,",
+      "churchId": "p4"
+    },
+    {
+      "slug": "proverbs-9-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Come, eat of my bread, and drink of the wine <span class=\"clarity-word\">which</span> I have mingled.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "proverbs-9-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Forsake the foolish, and live; and go in the way of understanding.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "proverbs-9-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "He that reproveth a scorner getteth to himself shame: and he that rebuketh a wicked <span class=\"clarity-word\">man getteth</span> himself a blot.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "proverbs-9-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Reprove not a scorner, lest he hate thee: rebuke a wise man, and he will love thee.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "proverbs-9-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Give <span class=\"clarity-word\">instruction</span> to a wise <span class=\"clarity-word\">man,</span> and he will be yet wiser: teach a just <span class=\"clarity-word\">man,</span> and he will increase in learning.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "proverbs-9-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "The fear of the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">is</span> the beginning of wisdom: and the knowledge of the holy <span class=\"clarity-word\">is</span> understanding.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "proverbs-9-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "For by me thy days shall be multiplied, and the years of thy life shall be increased.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "proverbs-9-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "If thou be wise, thou shalt be wise for thyself: but <span class=\"clarity-word\">if</span> thou scornest, thou alone shalt bear <span class=\"clarity-word\">it.</span>",
+      "churchId": "p12"
+    },
+    {
+      "slug": "proverbs-9-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "¶ A foolish woman <span class=\"clarity-word\">is</span> clamorous: <span class=\"clarity-word\">she is</span> simple, and knoweth nothing.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "proverbs-9-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "For she sitteth at the door of her house, on a seat in the high places of the city,",
+      "churchId": "p14"
+    },
+    {
+      "slug": "proverbs-9-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "To call passengers who go right on their ways:",
+      "churchId": "p15"
+    },
+    {
+      "slug": "proverbs-9-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Whoso <span class=\"clarity-word\">is</span> simple, let him turn in hither: and <span class=\"clarity-word\">as for</span> him that wanteth understanding, she saith to him,",
+      "churchId": "p16"
+    },
+    {
+      "slug": "proverbs-9-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Stolen waters are sweet, and bread <span class=\"clarity-word\">eaten</span> in secret is pleasant.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "proverbs-9-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "But he knoweth not that the dead <span class=\"clarity-word\">are</span> there; <span class=\"clarity-word\">and that</span> her guests <span class=\"clarity-word\">are</span> in the depths of hell.",
+      "churchId": "p18"
+    }
+  ]
+}

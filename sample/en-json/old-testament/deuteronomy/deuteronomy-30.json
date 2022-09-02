@@ -1,0 +1,155 @@
+{
+  "name": "Deuteronomy 30",
+  "abbrev": "Deut. 30",
+  "number": "30",
+  "churchUri": "/scriptures/ot/deut/30",
+  "paragraphs": [
+    {
+      "slug": "deuteronomy-30-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 30",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "deuteronomy-30-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And it shall come to pass, when all these things are come upon thee, the blessing and the curse, which I have set before thee, and thou shalt call <span class=\"clarity-word\">them</span> to mind among all the nations, whither the <span class=\"small-caps\">Lord</span> thy God hath driven thee,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "deuteronomy-30-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And shalt return unto the <span class=\"small-caps\">Lord</span> thy God, and shalt obey his voice according to all that I command thee this day, thou and thy children, with all thine heart, and with all thy soul;",
+      "churchId": "p2"
+    },
+    {
+      "slug": "deuteronomy-30-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "That then the <span class=\"small-caps\">Lord</span> thy God will turn thy captivity, and have compassion upon thee, and will return and gather thee from all the nations, whither the <span class=\"small-caps\">Lord</span> thy God hath scattered thee.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "deuteronomy-30-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "If <span class=\"clarity-word\">any</span> of thine be driven out unto the outmost <span class=\"clarity-word\">parts</span> of heaven, from thence will the <span class=\"small-caps\">Lord</span> thy God gather thee, and from thence will he fetch thee:",
+      "churchId": "p4"
+    },
+    {
+      "slug": "deuteronomy-30-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And the <span class=\"small-caps\">Lord</span> thy God will bring thee into the land which thy fathers possessed, and thou shalt possess it; and he will do thee good, and multiply thee above thy fathers.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "deuteronomy-30-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And the <span class=\"small-caps\">Lord</span> thy God will circumcise thine heart, and the heart of thy seed, to love the <span class=\"small-caps\">Lord</span> thy God with all thine heart, and with all thy soul, that thou mayest live.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "deuteronomy-30-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And the <span class=\"small-caps\">Lord</span> thy God will put all these curses upon thine enemies, and on them that hate thee, which persecuted thee.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "deuteronomy-30-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And thou shalt return and obey the voice of the <span class=\"small-caps\">Lord</span>, and do all his commandments which I command thee this day.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "deuteronomy-30-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And the <span class=\"small-caps\">Lord</span> thy God will make thee plenteous in every work of thine hand, in the fruit of thy body, and in the fruit of thy cattle, and in the fruit of thy land, for good: for the <span class=\"small-caps\">Lord</span> will again rejoice over thee for good, as he rejoiced over thy fathers:",
+      "churchId": "p9"
+    },
+    {
+      "slug": "deuteronomy-30-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "If thou shalt hearken unto the voice of the <span class=\"small-caps\">Lord</span> thy God, to keep his commandments and his statutes which are written in this book of the law, <span class=\"clarity-word\">and</span> if thou turn unto the <span class=\"small-caps\">Lord</span> thy God with all thine heart, and with all thy soul.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "deuteronomy-30-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "¶ For this commandment which I command thee this day, it <span class=\"clarity-word\">is</span> not hidden from thee, neither <span class=\"clarity-word\">is</span> it far off.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "deuteronomy-30-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "It <span class=\"clarity-word\">is</span> not in heaven, that thou shouldest say, Who shall go up for us to heaven, and bring it unto us, that we may hear it, and do it?",
+      "churchId": "p12"
+    },
+    {
+      "slug": "deuteronomy-30-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Neither <span class=\"clarity-word\">is</span> it beyond the sea, that thou shouldest say, Who shall go over the sea for us, and bring it unto us, that we may hear it, and do it?",
+      "churchId": "p13"
+    },
+    {
+      "slug": "deuteronomy-30-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "But the word <span class=\"clarity-word\">is</span> very nigh unto thee, in thy mouth, and in thy heart, that thou mayest do it.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "deuteronomy-30-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "¶ See, I have set before thee this day life and good, and death and evil;",
+      "churchId": "p15"
+    },
+    {
+      "slug": "deuteronomy-30-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "In that I command thee this day to love the <span class=\"small-caps\">Lord</span> thy God, to walk in his ways, and to keep his commandments and his statutes and his judgments, that thou mayest live and multiply: and the <span class=\"small-caps\">Lord</span> thy God shall bless thee in the land whither thou goest to possess it.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "deuteronomy-30-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "But if thine heart turn away, so that thou wilt not hear, but shalt be drawn away, and worship other gods, and serve them;",
+      "churchId": "p17"
+    },
+    {
+      "slug": "deuteronomy-30-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "I denounce unto you this day, that ye shall surely perish, <span class=\"clarity-word\">and that</span> ye shall not prolong <span class=\"clarity-word\">your</span> days upon the land, whither thou passest over Jordan to go to possess it.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "deuteronomy-30-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "I call heaven and earth to record this day against you, <span class=\"clarity-word\">that</span> I have set before you life and death, blessing and cursing: therefore choose life, that both thou and thy seed may live:",
+      "churchId": "p19"
+    },
+    {
+      "slug": "deuteronomy-30-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "That thou mayest love the <span class=\"small-caps\">Lord</span> thy God, <span class=\"clarity-word\">and</span> that thou mayest obey his voice, and that thou mayest cleave unto him: for he <span class=\"clarity-word\">is</span> thy life, and the length of thy days: that thou mayest dwell in the land which the <span class=\"small-caps\">Lord</span> sware unto thy fathers, to Abraham, to Isaac, and to Jacob, to give them.",
+      "churchId": "p20"
+    }
+  ]
+}

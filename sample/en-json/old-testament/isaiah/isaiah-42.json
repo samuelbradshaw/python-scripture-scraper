@@ -1,0 +1,190 @@
+{
+  "name": "Isaiah 42",
+  "abbrev": "Isa. 42",
+  "number": "42",
+  "churchUri": "/scriptures/ot/isa/42",
+  "paragraphs": [
+    {
+      "slug": "isaiah-42-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 42",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "isaiah-42-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Behold my servant, whom I uphold; mine elect, <span class=\"clarity-word\">in whom</span> my soul delighteth; I have put my spirit upon him: he shall bring forth judgment to the Gentiles.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "isaiah-42-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "He shall not cry, nor lift up, nor cause his voice to be heard in the street.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "isaiah-42-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "A bruised reed shall he not break, and the smoking flax shall he not quench: he shall bring forth judgment unto truth.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "isaiah-42-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "He shall not fail nor be discouraged, till he have set judgment in the earth: and the isles shall wait for his law.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "isaiah-42-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "¶ Thus saith God the <span class=\"small-caps\">Lord</span>, he that created the heavens, and stretched them out; he that spread forth the earth, and that which cometh out of it; he that giveth breath unto the people upon it, and spirit to them that walk therein:",
+      "churchId": "p5"
+    },
+    {
+      "slug": "isaiah-42-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "I the <span class=\"small-caps\">Lord</span> have called thee in righteousness, and will hold thine hand, and will keep thee, and give thee for a covenant of the people, for a light of the Gentiles;",
+      "churchId": "p6"
+    },
+    {
+      "slug": "isaiah-42-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "To open the blind eyes, to bring out the prisoners from the prison, <span class=\"clarity-word\">and</span> them that sit in darkness out of the prison house.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "isaiah-42-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "I <span class=\"clarity-word\">am</span> the <span class=\"small-caps\">Lord</span>: that <span class=\"clarity-word\">is</span> my name: and my glory will I not give to another, neither my praise to graven images.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "isaiah-42-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Behold, the former things are come to pass, and new things do I declare: before they spring forth I tell you of them.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "isaiah-42-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Sing unto the <span class=\"small-caps\">Lord</span> a new song, <span class=\"clarity-word\">and</span> his praise from the end of the earth, ye that go down to the sea, and all that is therein; the isles, and the inhabitants thereof.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "isaiah-42-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Let the wilderness and the cities thereof lift up <span class=\"clarity-word\">their voice,</span> the villages <span class=\"clarity-word\">that</span> Kedar doth inhabit: let the inhabitants of the rock sing, let them shout from the top of the mountains.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "isaiah-42-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Let them give glory unto the <span class=\"small-caps\">Lord</span>, and declare his praise in the islands.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "isaiah-42-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "The <span class=\"small-caps\">Lord</span> shall go forth as a mighty man, he shall stir up jealousy like a man of war: he shall cry, yea, roar; he shall prevail against his enemies.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "isaiah-42-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "I have long time holden my peace; I have been still, <span class=\"clarity-word\">and</span> refrained myself: <span class=\"clarity-word\">now</span> will I cry like a travailing woman; I will destroy and devour at once.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "isaiah-42-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "I will make waste mountains and hills, and dry up all their herbs; and I will make the rivers islands, and I will dry up the pools.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "isaiah-42-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And I will bring the blind by a way <span class=\"clarity-word\">that</span> they knew not; I will lead them in paths <span class=\"clarity-word\">that</span> they have not known: I will make darkness light before them, and crooked things straight. These things will I do unto them, and not forsake them.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "isaiah-42-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "¶ They shall be turned back, they shall be greatly ashamed, that trust in graven images, that say to the molten images, Ye <span class=\"clarity-word\">are</span> our gods.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "isaiah-42-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Hear, ye deaf; and look, ye blind, that ye may see.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "isaiah-42-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Who <span class=\"clarity-word\">is</span> blind, but my servant? or deaf, as my messenger <span class=\"clarity-word\">that</span> I sent? who <span class=\"clarity-word\">is</span> blind as <span class=\"clarity-word\">he that is</span> perfect, and blind as the <span class=\"small-caps\">Lord</span>’s servant?",
+      "churchId": "p19"
+    },
+    {
+      "slug": "isaiah-42-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Seeing many things, but thou observest not; opening the ears, but he heareth not.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "isaiah-42-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "The <span class=\"small-caps\">Lord</span> is well pleased for his righteousness’ sake; he will magnify the law, and make <span class=\"clarity-word\">it</span> honourable.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "isaiah-42-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "But this <span class=\"clarity-word\">is</span> a people robbed and spoiled; <span class=\"clarity-word\">they are</span> all of them snared in holes, and they are hid in prison houses: they are for a prey, and none delivereth; for a spoil, and none saith, Restore.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "isaiah-42-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Who among you will give ear to this? <span class=\"clarity-word\">who</span> will hearken and hear for the time to come?",
+      "churchId": "p23"
+    },
+    {
+      "slug": "isaiah-42-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Who gave Jacob for a spoil, and Israel to the robbers? did not the <span class=\"small-caps\">Lord</span>, he against whom we have sinned? for they would not walk in his ways, neither were they obedient unto his law.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "isaiah-42-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Therefore he hath poured upon him the fury of his anger, and the strength of battle: and it hath set him on fire round about, yet he knew not; and it burned him, yet he laid <span class=\"clarity-word\">it</span> not to heart.",
+      "churchId": "p25"
+    }
+  ]
+}

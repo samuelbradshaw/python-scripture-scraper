@@ -1,0 +1,183 @@
+{
+  "name": "1 Chronicles 3",
+  "abbrev": "1 Chr. 3",
+  "number": "3",
+  "churchUri": "/scriptures/ot/1-chr/3",
+  "paragraphs": [
+    {
+      "slug": "1-chronicles-3-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 3",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "1-chronicles-3-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Now these were the sons of David, which were born unto him in Hebron; the firstborn Amnon, of Ahinoam the Jezreelitess; the second Daniel, of Abigail the Carmelitess:",
+      "churchId": "p1"
+    },
+    {
+      "slug": "1-chronicles-3-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "The third, Absalom the son of Maachah the daughter of Talmai king of Geshur: the fourth, Adonijah the son of Haggith:",
+      "churchId": "p2"
+    },
+    {
+      "slug": "1-chronicles-3-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "The fifth, Shephatiah of Abital: the sixth, Ithream by Eglah his wife.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "1-chronicles-3-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "<span class=\"clarity-word\">These</span> six were born unto him in Hebron; and there he reigned seven years and six months: and in Jerusalem he reigned thirty and three years.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "1-chronicles-3-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And these were born unto him in Jerusalem; Shimea, and Shobab, and Nathan, and Solomon, four, of Bath-shua the daughter of Ammiel:",
+      "churchId": "p5"
+    },
+    {
+      "slug": "1-chronicles-3-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Ibhar also, and Elishama, and Eliphelet,",
+      "churchId": "p6"
+    },
+    {
+      "slug": "1-chronicles-3-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And Nogah, and Nepheg, and Japhia,",
+      "churchId": "p7"
+    },
+    {
+      "slug": "1-chronicles-3-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And Elishama, and Eliada, and Eliphelet, nine.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "1-chronicles-3-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "<span class=\"clarity-word\">These were</span> all the sons of David, beside the sons of the concubines, and Tamar their sister.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "1-chronicles-3-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "¶ And Solomon’s son <span class=\"clarity-word\">was</span> Rehoboam, Abia his son, Asa his son, Jehoshaphat his son,",
+      "churchId": "p10"
+    },
+    {
+      "slug": "1-chronicles-3-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Joram his son, Ahaziah his son, Joash his son,",
+      "churchId": "p11"
+    },
+    {
+      "slug": "1-chronicles-3-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Amaziah his son, Azariah his son, Jotham his son,",
+      "churchId": "p12"
+    },
+    {
+      "slug": "1-chronicles-3-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Ahaz his son, Hezekiah his son, Manasseh his son,",
+      "churchId": "p13"
+    },
+    {
+      "slug": "1-chronicles-3-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Amon his son, Josiah his son.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "1-chronicles-3-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And the sons of Josiah <span class=\"clarity-word\">were,</span> the firstborn Johanan, the second Jehoiakim, the third Zedekiah, the fourth Shallum.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "1-chronicles-3-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And the sons of Jehoiakim: Jeconiah his son, Zedekiah his son.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "1-chronicles-3-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "¶ And the sons of Jeconiah; Assir, Salathiel his son,",
+      "churchId": "p17"
+    },
+    {
+      "slug": "1-chronicles-3-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Malchiram also, and Pedaiah, and Shenazar, Jecamiah, Hoshama, and Nedabiah.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "1-chronicles-3-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And the sons of Pedaiah <span class=\"clarity-word\">were,</span> Zerubbabel, and Shimei: and the sons of Zerubbabel; Meshullam, and Hananiah, and Shelomith their sister:",
+      "churchId": "p19"
+    },
+    {
+      "slug": "1-chronicles-3-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And Hashubah, and Ohel, and Berechiah, and Hasadiah, Jushab-hesed, five.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "1-chronicles-3-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And the sons of Hananiah; Pelatiah, and Jesaiah: the sons of Rephaiah, the sons of Arnan, the sons of Obadiah, the sons of Shechaniah.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "1-chronicles-3-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And the sons of Shechaniah; Shemaiah: and the sons of Shemaiah; Hattush, and Igeal, and Bariah, and Neariah, and Shaphat, six.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "1-chronicles-3-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And the sons of Neariah; Elioenai, and Hezekiah, and Azrikam, three.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "1-chronicles-3-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And the sons of Elioenai <span class=\"clarity-word\">were,</span> Hodaiah, and Eliashib, and Pelaiah, and Akkub, and Johanan, and Dalaiah, and Anani, seven.",
+      "churchId": "p24"
+    }
+  ]
+}

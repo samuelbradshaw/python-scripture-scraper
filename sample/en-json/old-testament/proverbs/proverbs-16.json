@@ -1,0 +1,246 @@
+{
+  "name": "Proverbs 16",
+  "abbrev": "Prov. 16",
+  "number": "16",
+  "churchUri": "/scriptures/ot/prov/16",
+  "paragraphs": [
+    {
+      "slug": "proverbs-16-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 16",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "proverbs-16-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "The preparations of the heart in man, and the answer of the tongue, <span class=\"clarity-word\">is</span> from the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "proverbs-16-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "All the ways of a man <span class=\"clarity-word\">are</span> clean in his own eyes; but the <span class=\"small-caps\">Lord</span> weigheth the spirits.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "proverbs-16-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Commit thy works unto the <span class=\"small-caps\">Lord</span>, and thy thoughts shall be established.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "proverbs-16-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "The <span class=\"small-caps\">Lord</span> hath made all <span class=\"clarity-word\">things</span> for himself: yea, even the wicked for the day of evil.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "proverbs-16-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Every one <span class=\"clarity-word\">that is</span> proud in heart <span class=\"clarity-word\">is</span> an abomination to the <span class=\"small-caps\">Lord</span>: <span class=\"clarity-word\">though</span> hand <span class=\"clarity-word\">join</span> in hand, he shall not be unpunished.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "proverbs-16-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "By mercy and truth iniquity is purged: and by the fear of the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">men</span> depart from evil.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "proverbs-16-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "When a man’s ways please the <span class=\"small-caps\">Lord</span>, he maketh even his enemies to be at peace with him.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "proverbs-16-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Better <span class=\"clarity-word\">is</span> a little with righteousness than great revenues without right.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "proverbs-16-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "A man’s heart deviseth his way: but the <span class=\"small-caps\">Lord</span> directeth his steps.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "proverbs-16-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "A divine sentence <span class=\"clarity-word\">is</span> in the lips of the king: his mouth transgresseth not in judgment.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "proverbs-16-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "A just weight and balance <span class=\"clarity-word\">are</span> the <span class=\"small-caps\">Lord</span>’s: all the weights of the bag <span class=\"clarity-word\">are</span> his work.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "proverbs-16-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "<span class=\"clarity-word\">It is</span> an abomination to kings to commit wickedness: for the throne is established by righteousness.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "proverbs-16-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Righteous lips <span class=\"clarity-word\">are</span> the delight of kings; and they love him that speaketh right.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "proverbs-16-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "The wrath of a king <span class=\"clarity-word\">is as</span> messengers of death: but a wise man will pacify it.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "proverbs-16-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "In the light of the king’s countenance <span class=\"clarity-word\">is</span> life; and his favour <span class=\"clarity-word\">is</span> as a cloud of the latter rain.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "proverbs-16-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "How much better <span class=\"clarity-word\">is it</span> to get wisdom than gold! and to get understanding rather to be chosen than silver!",
+      "churchId": "p16"
+    },
+    {
+      "slug": "proverbs-16-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "The highway of the upright <span class=\"clarity-word\">is</span> to depart from evil: he that keepeth his way preserveth his soul.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "proverbs-16-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Pride <span class=\"clarity-word\">goeth</span> before destruction, and an haughty spirit before a fall.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "proverbs-16-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Better <span class=\"clarity-word\">it is to be</span> of an humble spirit with the lowly, than to divide the spoil with the proud.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "proverbs-16-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "He that handleth a matter wisely shall find good: and whoso trusteth in the <span class=\"small-caps\">Lord</span>, happy <span class=\"clarity-word\">is</span> he.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "proverbs-16-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "The wise in heart shall be called prudent: and the sweetness of the lips increaseth learning.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "proverbs-16-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Understanding <span class=\"clarity-word\">is</span> a wellspring of life unto him that hath it: but the instruction of fools <span class=\"clarity-word\">is</span> folly.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "proverbs-16-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "The heart of the wise teacheth his mouth, and addeth learning to his lips.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "proverbs-16-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Pleasant words <span class=\"clarity-word\">are as</span> an honeycomb, sweet to the soul, and health to the bones.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "proverbs-16-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "There is a way that seemeth right unto a man, but the end thereof <span class=\"clarity-word\">are</span> the ways of death.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "proverbs-16-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "He that laboureth laboureth for himself; for his mouth craveth it of him.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "proverbs-16-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "An ungodly man diggeth up evil: and in his lips <span class=\"clarity-word\">there is</span> as a burning fire.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "proverbs-16-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "A froward man soweth strife: and a whisperer separateth chief friends.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "proverbs-16-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "A violent man enticeth his neighbour, and leadeth him into the way <span class=\"clarity-word\">that is</span> not good.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "proverbs-16-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "He shutteth his eyes to devise froward things: moving his lips he bringeth evil to pass.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "proverbs-16-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "The hoary head <span class=\"clarity-word\">is</span> a crown of glory, <span class=\"clarity-word\">if</span> it be found in the way of righteousness.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "proverbs-16-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "<span class=\"clarity-word\">He that is</span> slow to anger <span class=\"clarity-word\">is</span> better than the mighty; and he that ruleth his spirit than he that taketh a city.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "proverbs-16-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "The lot is cast into the lap; but the whole disposing thereof <span class=\"clarity-word\">is</span> of the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p33"
+    }
+  ]
+}

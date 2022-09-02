@@ -1,0 +1,225 @@
+{
+  "name": "Numbers 23",
+  "abbrev": "Num. 23",
+  "number": "23",
+  "churchUri": "/scriptures/ot/num/23",
+  "paragraphs": [
+    {
+      "slug": "numbers-23-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 23",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "numbers-23-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And Balaam said unto Balak, Build me here seven altars, and prepare me here seven oxen and seven rams.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "numbers-23-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And Balak did as Balaam had spoken; and Balak and Balaam offered on <span class=\"clarity-word\">every</span> altar a bullock and a ram.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "numbers-23-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And Balaam said unto Balak, Stand by thy burnt offering, and I will go: peradventure the <span class=\"small-caps\">Lord</span> will come to meet me: and whatsoever he sheweth me I will tell thee. And he went to an high place.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "numbers-23-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And God met Balaam: and he said unto him, I have prepared seven altars, and I have offered upon <span class=\"clarity-word\">every</span> altar a bullock and a ram.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "numbers-23-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And the <span class=\"small-caps\">Lord</span> put a word in Balaam’s mouth, and said, Return unto Balak, and thus thou shalt speak.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "numbers-23-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And he returned unto him, and, lo, he stood by his burnt sacrifice, he, and all the princes of Moab.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "numbers-23-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And he took up his parable, and said, Balak the king of Moab hath brought me from Aram, out of the mountains of the east, <span class=\"clarity-word\">saying,</span> Come, curse me Jacob, and come, defy Israel.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "numbers-23-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "How shall I curse, whom God hath not cursed? or how shall I defy, <span class=\"clarity-word\">whom</span> the <span class=\"small-caps\">Lord</span> hath not defied?",
+      "churchId": "p8"
+    },
+    {
+      "slug": "numbers-23-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "For from the top of the rocks I see him, and from the hills I behold him: lo, the people shall dwell alone, and shall not be reckoned among the nations.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "numbers-23-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Who can count the dust of Jacob, and the number of the fourth <span class=\"clarity-word\">part</span> of Israel? Let me die the death of the righteous, and let my last end be like his!",
+      "churchId": "p10"
+    },
+    {
+      "slug": "numbers-23-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And Balak said unto Balaam, What hast thou done unto me? I took thee to curse mine enemies, and, behold, thou hast blessed <span class=\"clarity-word\">them</span> altogether.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "numbers-23-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And he answered and said, Must I not take heed to speak that which the <span class=\"small-caps\">Lord</span> hath put in my mouth?",
+      "churchId": "p12"
+    },
+    {
+      "slug": "numbers-23-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And Balak said unto him, Come, I pray thee, with me unto another place, from whence thou mayest see them: thou shalt see but the utmost part of them, and shalt not see them all: and curse me them from thence.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "numbers-23-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "¶ And he brought him into the field of Zophim, to the top of Pisgah, and built seven altars, and offered a bullock and a ram on <span class=\"clarity-word\">every</span> altar.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "numbers-23-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And he said unto Balak, Stand here by thy burnt offering, while I meet <span class=\"clarity-word\">the <span class=\"small-caps\">Lord</span></span> yonder.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "numbers-23-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And the <span class=\"small-caps\">Lord</span> met Balaam, and put a word in his mouth, and said, Go again unto Balak, and say thus.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "numbers-23-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And when he came to him, behold, he stood by his burnt offering, and the princes of Moab with him. And Balak said unto him, What hath the <span class=\"small-caps\">Lord</span> spoken?",
+      "churchId": "p17"
+    },
+    {
+      "slug": "numbers-23-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And he took up his parable, and said, Rise up, Balak, and hear; hearken unto me, thou son of Zippor:",
+      "churchId": "p18"
+    },
+    {
+      "slug": "numbers-23-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "God <span class=\"clarity-word\">is</span> not a man, that he should lie; neither the son of man, that he should repent: hath he said, and shall he not do <span class=\"clarity-word\">it?</span> or hath he spoken, and shall he not make it good?",
+      "churchId": "p19"
+    },
+    {
+      "slug": "numbers-23-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Behold, I have received <span class=\"clarity-word\">commandment</span> to bless: and he hath blessed; and I cannot reverse it.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "numbers-23-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "He hath not beheld iniquity in Jacob, neither hath he seen perverseness in Israel: the <span class=\"small-caps\">Lord</span> his God <span class=\"clarity-word\">is</span> with him, and the shout of a king <span class=\"clarity-word\">is</span> among them.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "numbers-23-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "God brought them out of Egypt; he hath as it were the strength of an unicorn.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "numbers-23-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Surely <span class=\"clarity-word\">there is</span> no enchantment against Jacob, neither <span class=\"clarity-word\">is there</span> any divination against Israel: according to this time it shall be said of Jacob and of Israel, What hath God wrought!",
+      "churchId": "p23"
+    },
+    {
+      "slug": "numbers-23-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Behold, the people shall rise up as a great lion, and lift up himself as a young lion: he shall not lie down until he eat <span class=\"clarity-word\">of</span> the prey, and drink the blood of the slain.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "numbers-23-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "¶ And Balak said unto Balaam, Neither curse them at all, nor bless them at all.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "numbers-23-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "But Balaam answered and said unto Balak, Told not I thee, saying, All that the <span class=\"small-caps\">Lord</span> speaketh, that I must do?",
+      "churchId": "p26"
+    },
+    {
+      "slug": "numbers-23-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "¶ And Balak said unto Balaam, Come, I pray thee, I will bring thee unto another place; peradventure it will please God that thou mayest curse me them from thence.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "numbers-23-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And Balak brought Balaam unto the top of Peor, that looketh toward Jeshimon.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "numbers-23-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "And Balaam said unto Balak, Build me here seven altars, and prepare me here seven bullocks and seven rams.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "numbers-23-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And Balak did as Balaam had said, and offered a bullock and a ram on <span class=\"clarity-word\">every</span> altar.",
+      "churchId": "p30"
+    }
+  ]
+}

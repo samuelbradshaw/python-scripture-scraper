@@ -1,0 +1,71 @@
+{
+  "name": "Psalm 67",
+  "abbrev": "Psalm 67",
+  "number": "67",
+  "churchUri": "/scriptures/ot/ps/67",
+  "paragraphs": [
+    {
+      "slug": "psalm-67-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 67",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-67-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "To the chief Musician on Neginoth, A Psalm <span class=\"clarity-word\">or</span> Song.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-67-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "God be merciful unto us, and bless us; <span class=\"clarity-word\">and</span> cause his face to shine upon us; Selah.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-67-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "That thy way may be known upon earth, thy saving health among all nations.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-67-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Let the people praise thee, O God; let all the people praise thee.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-67-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "O let the nations be glad and sing for joy: for thou shalt judge the people righteously, and govern the nations upon earth. Selah.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-67-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Let the people praise thee, O God; let all the people praise thee.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-67-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "<span class=\"clarity-word\">Then</span> shall the earth yield her increase; <span class=\"clarity-word\">and</span> God, <span class=\"clarity-word\">even</span> our own God, shall bless us.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-67-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "God shall bless us; and all the ends of the earth shall fear him.",
+      "churchId": "p7"
+    }
+  ]
+}

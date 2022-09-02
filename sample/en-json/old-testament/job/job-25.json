@@ -1,0 +1,57 @@
+{
+  "name": "Job 25",
+  "abbrev": "Job 25",
+  "number": "25",
+  "churchUri": "/scriptures/ot/job/25",
+  "paragraphs": [
+    {
+      "slug": "job-25-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 25",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "job-25-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Then answered Bildad the Shuhite, and said,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "job-25-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Dominion and fear <span class=\"clarity-word\">are</span> with him, he maketh peace in his high places.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "job-25-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Is there any number of his armies? and upon whom doth not his light arise?",
+      "churchId": "p3"
+    },
+    {
+      "slug": "job-25-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "How then can man be justified with God? or how can he be clean <span class=\"clarity-word\">that is</span> born of a woman?",
+      "churchId": "p4"
+    },
+    {
+      "slug": "job-25-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Behold even to the moon, and it shineth not; yea, the stars are not pure in his sight.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "job-25-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "How much less man, <span class=\"clarity-word\">that is</span> a worm? and the son of man, <span class=\"clarity-word\">which is</span> a worm?",
+      "churchId": "p6"
+    }
+  ]
+}

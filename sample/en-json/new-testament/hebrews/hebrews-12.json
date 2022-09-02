@@ -1,0 +1,218 @@
+{
+  "name": "Hebrews 12",
+  "abbrev": "Heb. 12",
+  "number": "12",
+  "churchUri": "/scriptures/nt/heb/12",
+  "paragraphs": [
+    {
+      "slug": "hebrews-12-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 12",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "hebrews-12-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Wherefore seeing we also are compassed about with so great a cloud of witnesses, let us lay aside every weight, and the sin which doth so easily beset <span class=\"clarity-word\">us,</span> and let us run with patience the race that is set before us,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "hebrews-12-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Looking unto Jesus the author and finisher of <span class=\"clarity-word\">our</span> faith; who for the joy that was set before him endured the cross, despising the shame, and is set down at the right hand of the throne of God.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "hebrews-12-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "For consider him that endured such contradiction of sinners against himself, lest ye be wearied and faint in your minds.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "hebrews-12-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Ye have not yet resisted unto blood, striving against sin.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "hebrews-12-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And ye have forgotten the exhortation which speaketh unto you as unto children, My son, despise not thou the chastening of the Lord, nor faint when thou art rebuked of him:",
+      "churchId": "p5"
+    },
+    {
+      "slug": "hebrews-12-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "For whom the Lord loveth he chasteneth, and scourgeth every son whom he receiveth.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "hebrews-12-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "If ye endure chastening, God dealeth with you as with sons; for what son is he whom the father chasteneth not?",
+      "churchId": "p7"
+    },
+    {
+      "slug": "hebrews-12-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "But if ye be without chastisement, whereof all are partakers, then are ye bastards, and not sons.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "hebrews-12-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Furthermore we have had fathers of our flesh which corrected <span class=\"clarity-word\">us,</span> and we gave <span class=\"clarity-word\">them</span> reverence: shall we not much rather be in subjection unto the Father of spirits, and live?",
+      "churchId": "p9"
+    },
+    {
+      "slug": "hebrews-12-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "For they verily for a few days chastened <span class=\"clarity-word\">us</span> after their own pleasure; but he for <span class=\"clarity-word\">our</span> profit, that <span class=\"clarity-word\">we</span> might be partakers of his holiness.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "hebrews-12-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Now no chastening for the present seemeth to be joyous, but grievous: nevertheless afterward it yieldeth the peaceable fruit of righteousness unto them which are exercised thereby.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "hebrews-12-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Wherefore lift up the hands which hang down, and the feeble knees;",
+      "churchId": "p12"
+    },
+    {
+      "slug": "hebrews-12-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And make straight paths for your feet, lest that which is lame be turned out of the way; but let it rather be healed.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "hebrews-12-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Follow peace with all <span class=\"clarity-word\">men,</span> and holiness, without which no man shall see the Lord:",
+      "churchId": "p14"
+    },
+    {
+      "slug": "hebrews-12-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Looking diligently lest any man fail of the grace of God; lest any root of bitterness springing up trouble <span class=\"clarity-word\">you,</span> and thereby many be defiled;",
+      "churchId": "p15"
+    },
+    {
+      "slug": "hebrews-12-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Lest there <span class=\"clarity-word\">be</span> any fornicator, or profane person, as Esau, who for one morsel of meat sold his birthright.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "hebrews-12-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "For ye know how that afterward, when he would have inherited the blessing, he was rejected: for he found no place of repentance, though he sought it carefully with tears.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "hebrews-12-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "For ye are not come unto the mount that might be touched, and that burned with fire, nor unto blackness, and darkness, and tempest,",
+      "churchId": "p18"
+    },
+    {
+      "slug": "hebrews-12-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And the sound of a trumpet, and the voice of words; which <span class=\"clarity-word\">voice</span> they that heard entreated that the word should not be spoken to them any more:",
+      "churchId": "p19"
+    },
+    {
+      "slug": "hebrews-12-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "(For they could not endure that which was commanded, And if so much as a beast touch the mountain, it shall be stoned, or thrust through with a dart:",
+      "churchId": "p20"
+    },
+    {
+      "slug": "hebrews-12-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And so terrible was the sight, <span class=\"clarity-word\">that</span> Moses said, I exceedingly fear and quake:)",
+      "churchId": "p21"
+    },
+    {
+      "slug": "hebrews-12-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "But ye are come unto mount Sion, and unto the city of the living God, the heavenly Jerusalem, and to an innumerable company of angels,",
+      "churchId": "p22"
+    },
+    {
+      "slug": "hebrews-12-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "To the general assembly and church of the firstborn, which are written in heaven, and to God the Judge of all, and to the spirits of just men made perfect,",
+      "churchId": "p23"
+    },
+    {
+      "slug": "hebrews-12-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And to Jesus the mediator of the new covenant, and to the blood of sprinkling, that speaketh better things than <span class=\"clarity-word\">that of</span> Abel.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "hebrews-12-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "See that ye refuse not him that speaketh. For if they escaped not who refused him that spake on earth, much more <span class=\"clarity-word\">shall not</span> we <span class=\"clarity-word\">escape,</span> if we turn away from him that <span class=\"clarity-word\">speaketh</span> from heaven:",
+      "churchId": "p25"
+    },
+    {
+      "slug": "hebrews-12-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "Whose voice then shook the earth: but now he hath promised, saying, Yet once more I shake not the earth only, but also heaven.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "hebrews-12-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And this <span class=\"clarity-word\">word,</span> Yet once more, signifieth the removing of those things that are shaken, as of things that are made, that those things which cannot be shaken may remain.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "hebrews-12-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "Wherefore we receiving a kingdom which cannot be moved, let us have grace, whereby we may serve God acceptably with reverence and godly fear:",
+      "churchId": "p28"
+    },
+    {
+      "slug": "hebrews-12-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "For our God <span class=\"clarity-word\">is</span> a consuming fire.",
+      "churchId": "p29"
+    }
+  ]
+}

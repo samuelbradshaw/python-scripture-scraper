@@ -1,0 +1,57 @@
+{
+  "name": "Psalm 15",
+  "abbrev": "Psalm 15",
+  "number": "15",
+  "churchUri": "/scriptures/ot/ps/15",
+  "paragraphs": [
+    {
+      "slug": "psalm-15-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 15",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-15-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "A Psalm of David.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-15-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "<span class=\"small-caps\">Lord</span>, who shall abide in thy tabernacle? who shall dwell in thy holy hill?",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-15-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "He that walketh uprightly, and worketh righteousness, and speaketh the truth in his heart.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-15-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "<span class=\"clarity-word\">He that</span> backbiteth not with his tongue, nor doeth evil to his neighbour, nor taketh up a reproach against his neighbour.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-15-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "In whose eyes a vile person is contemned; but he honoureth them that fear the <span class=\"small-caps\">Lord</span>. <span class=\"clarity-word\">He that</span> sweareth to <span class=\"clarity-word\">his own</span> hurt, and changeth not.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-15-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "<span class=\"clarity-word\">He that</span> putteth not out his money to usury, nor taketh reward against the innocent. He that doeth these <span class=\"clarity-word\">things</span> shall never be moved.",
+      "churchId": "p5"
+    }
+  ]
+}

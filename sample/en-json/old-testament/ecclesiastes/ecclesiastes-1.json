@@ -1,0 +1,148 @@
+{
+  "name": "Ecclesiastes 1",
+  "abbrev": "Eccl. 1",
+  "number": "1",
+  "churchUri": "/scriptures/ot/eccl/1",
+  "paragraphs": [
+    {
+      "slug": "ecclesiastes-1-title1",
+      "type": "book-title",
+      "number": null,
+      "content": "Ecclesiastes<small> </small><small>or, the Preacher</small>",
+      "churchId": "title1"
+    },
+    {
+      "slug": "ecclesiastes-1-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 1",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "ecclesiastes-1-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "The words of the Preacher, the son of David, king in Jerusalem.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "ecclesiastes-1-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Vanity of vanities, saith the Preacher, vanity of vanities; all <span class=\"clarity-word\">is</span> vanity.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "ecclesiastes-1-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "What profit hath a man of all his labour which he taketh under the sun?",
+      "churchId": "p3"
+    },
+    {
+      "slug": "ecclesiastes-1-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "<span class=\"clarity-word\">One</span> generation passeth away, and <span class=\"clarity-word\">another</span> generation cometh: but the earth abideth for ever.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "ecclesiastes-1-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "The sun also ariseth, and the sun goeth down, and hasteth to his place where he arose.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "ecclesiastes-1-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "The wind goeth toward the south, and turneth about unto the north; it whirleth about continually, and the wind returneth again according to his circuits.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "ecclesiastes-1-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "All the rivers run into the sea; yet the sea <span class=\"clarity-word\">is</span> not full; unto the place from whence the rivers come, thither they return again.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "ecclesiastes-1-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "All things <span class=\"clarity-word\">are</span> full of labour; man cannot utter <span class=\"clarity-word\">it:</span> the eye is not satisfied with seeing, nor the ear filled with hearing.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "ecclesiastes-1-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "The thing that hath been, it <span class=\"clarity-word\">is that</span> which shall be; and that which is done <span class=\"clarity-word\">is</span> that which shall be done: and <span class=\"clarity-word\">there is</span> no new <span class=\"clarity-word\">thing</span> under the sun.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "ecclesiastes-1-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Is there <span class=\"clarity-word\">any</span> thing whereof it may be said, See, this <span class=\"clarity-word\">is</span> new? it hath been already of old time, which was before us.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "ecclesiastes-1-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "<span class=\"clarity-word\">There is</span> no remembrance of former <span class=\"clarity-word\">things;</span> neither shall there be <span class=\"clarity-word\">any</span> remembrance of <span class=\"clarity-word\">things</span> that are to come with <span class=\"clarity-word\">those</span> that shall come after.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "ecclesiastes-1-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "¶ I the Preacher was king over Israel in Jerusalem.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "ecclesiastes-1-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And I gave my heart to seek and search out by wisdom concerning all <span class=\"clarity-word\">things</span> that are done under heaven: this sore travail hath God given to the sons of man to be exercised therewith.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "ecclesiastes-1-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "I have seen all the works that are done under the sun; and, behold, all <span class=\"clarity-word\">is</span> vanity and vexation of spirit.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "ecclesiastes-1-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "<span class=\"clarity-word\">That which is</span> crooked cannot be made straight: and that which is wanting cannot be numbered.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "ecclesiastes-1-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "I communed with mine own heart, saying, Lo, I am come to great estate, and have gotten more wisdom than all <span class=\"clarity-word\">they</span> that have been before me in Jerusalem: yea, my heart had great experience of wisdom and knowledge.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "ecclesiastes-1-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And I gave my heart to know wisdom, and to know madness and folly: I perceived that this also is vexation of spirit.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "ecclesiastes-1-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "For in much wisdom <span class=\"clarity-word\">is</span> much grief: and he that increaseth knowledge increaseth sorrow.",
+      "churchId": "p18"
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "name": "Job 27",
+  "abbrev": "Job 27",
+  "number": "27",
+  "churchUri": "/scriptures/ot/job/27",
+  "paragraphs": [
+    {
+      "slug": "job-27-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 27",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "job-27-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Moreover Job continued his parable, and said,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "job-27-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "<span class=\"clarity-word\">As</span> God liveth, <span class=\"clarity-word\">who</span> hath taken away my judgment; and the Almighty, <span class=\"clarity-word\">who</span> hath vexed my soul;",
+      "churchId": "p2"
+    },
+    {
+      "slug": "job-27-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "All the while my breath <span class=\"clarity-word\">is</span> in me, and the spirit of God <span class=\"clarity-word\">is</span> in my nostrils;",
+      "churchId": "p3"
+    },
+    {
+      "slug": "job-27-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "My lips shall not speak wickedness, nor my tongue utter deceit.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "job-27-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "God forbid that I should justify you: till I die I will not remove mine integrity from me.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "job-27-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "My righteousness I hold fast, and will not let it go: my heart shall not reproach <span class=\"clarity-word\">me</span> so long as I live.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "job-27-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Let mine enemy be as the wicked, and he that riseth up against me as the unrighteous.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "job-27-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "For what <span class=\"clarity-word\">is</span> the hope of the hypocrite, though he hath gained, when God taketh away his soul?",
+      "churchId": "p8"
+    },
+    {
+      "slug": "job-27-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Will God hear his cry when trouble cometh upon him?",
+      "churchId": "p9"
+    },
+    {
+      "slug": "job-27-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Will he delight himself in the Almighty? will he always call upon God?",
+      "churchId": "p10"
+    },
+    {
+      "slug": "job-27-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "I will teach you by the hand of God: <span class=\"clarity-word\">that</span> which <span class=\"clarity-word\">is</span> with the Almighty will I not conceal.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "job-27-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Behold, all ye yourselves have seen <span class=\"clarity-word\">it;</span> why then are ye thus altogether vain?",
+      "churchId": "p12"
+    },
+    {
+      "slug": "job-27-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "This <span class=\"clarity-word\">is</span> the portion of a wicked man with God, and the heritage of oppressors, <span class=\"clarity-word\">which</span> they shall receive of the Almighty.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "job-27-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "If his children be multiplied, <span class=\"clarity-word\">it is</span> for the sword: and his offspring shall not be satisfied with bread.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "job-27-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Those that remain of him shall be buried in death: and his widows shall not weep.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "job-27-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Though he heap up silver as the dust, and prepare raiment as the clay;",
+      "churchId": "p16"
+    },
+    {
+      "slug": "job-27-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "He may prepare <span class=\"clarity-word\">it,</span> but the just shall put <span class=\"clarity-word\">it</span> on, and the innocent shall divide the silver.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "job-27-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "He buildeth his house as a moth, and as a booth <span class=\"clarity-word\">that</span> the keeper maketh.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "job-27-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "The rich man shall lie down, but he shall not be gathered: he openeth his eyes, and he <span class=\"clarity-word\">is</span> not.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "job-27-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Terrors take hold on him as waters, a tempest stealeth him away in the night.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "job-27-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "The east wind carrieth him away, and he departeth: and as a storm hurleth him out of his place.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "job-27-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "For <span class=\"clarity-word\">God</span> shall cast upon him, and not spare: he would fain flee out of his hand.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "job-27-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "<span class=\"clarity-word\">Men</span> shall clap their hands at him, and shall hiss him out of his place.",
+      "churchId": "p23"
+    }
+  ]
+}

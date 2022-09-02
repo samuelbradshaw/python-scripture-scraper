@@ -1,0 +1,183 @@
+{
+  "name": "Leviticus 9",
+  "abbrev": "Lev. 9",
+  "number": "9",
+  "churchUri": "/scriptures/ot/lev/9",
+  "paragraphs": [
+    {
+      "slug": "leviticus-9-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 9",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "leviticus-9-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And it came to pass on the eighth day, <span class=\"clarity-word\">that</span> Moses called Aaron and his sons, and the elders of Israel;",
+      "churchId": "p1"
+    },
+    {
+      "slug": "leviticus-9-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And he said unto Aaron, Take thee a young calf for a sin offering, and a ram for a burnt offering, without blemish, and offer <span class=\"clarity-word\">them</span> before the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "leviticus-9-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And unto the children of Israel thou shalt speak, saying, Take ye a kid of the goats for a sin offering; and a calf and a lamb, <span class=\"clarity-word\">both</span> of the first year, without blemish, for a burnt offering;",
+      "churchId": "p3"
+    },
+    {
+      "slug": "leviticus-9-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Also a bullock and a ram for peace offerings, to sacrifice before the <span class=\"small-caps\">Lord</span>; and a meat offering mingled with oil: for to day the <span class=\"small-caps\">Lord</span> will appear unto you.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "leviticus-9-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "¶ And they brought <span class=\"clarity-word\">that</span> which Moses commanded before the tabernacle of the congregation: and all the congregation drew near and stood before the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "leviticus-9-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And Moses said, This <span class=\"clarity-word\">is</span> the thing which the <span class=\"small-caps\">Lord</span> commanded that ye should do: and the glory of the <span class=\"small-caps\">Lord</span> shall appear unto you.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "leviticus-9-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And Moses said unto Aaron, Go unto the altar, and offer thy sin offering, and thy burnt offering, and make an atonement for thyself, and for the people: and offer the offering of the people, and make an atonement for them; as the <span class=\"small-caps\">Lord</span> commanded.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "leviticus-9-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "¶ Aaron therefore went unto the altar, and slew the calf of the sin offering, which <span class=\"clarity-word\">was</span> for himself.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "leviticus-9-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And the sons of Aaron brought the blood unto him: and he dipped his finger in the blood, and put <span class=\"clarity-word\">it</span> upon the horns of the altar, and poured out the blood at the bottom of the altar:",
+      "churchId": "p9"
+    },
+    {
+      "slug": "leviticus-9-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "But the fat, and the kidneys, and the caul above the liver of the sin offering, he burnt upon the altar; as the <span class=\"small-caps\">Lord</span> commanded Moses.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "leviticus-9-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And the flesh and the hide he burnt with fire without the camp.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "leviticus-9-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And he slew the burnt offering; and Aaron’s sons presented unto him the blood, which he sprinkled round about upon the altar.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "leviticus-9-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And they presented the burnt offering unto him, with the pieces thereof, and the head: and he burnt <span class=\"clarity-word\">them</span> upon the altar.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "leviticus-9-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And he did wash the inwards and the legs, and burnt <span class=\"clarity-word\">them</span> upon the burnt offering on the altar.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "leviticus-9-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "¶ And he brought the people’s offering, and took the goat, which <span class=\"clarity-word\">was</span> the sin offering for the people, and slew it, and offered it for sin, as the first.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "leviticus-9-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And he brought the burnt offering, and offered it according to the manner.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "leviticus-9-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And he brought the meat offering, and took an handful thereof, and burnt <span class=\"clarity-word\">it</span> upon the altar, beside the burnt sacrifice of the morning.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "leviticus-9-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "He slew also the bullock and the ram <span class=\"clarity-word\">for</span> a sacrifice of peace offerings, which <span class=\"clarity-word\">was</span> for the people: and Aaron’s sons presented unto him the blood, which he sprinkled upon the altar round about,",
+      "churchId": "p18"
+    },
+    {
+      "slug": "leviticus-9-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And the fat of the bullock and of the ram, the rump, and that which covereth <span class=\"clarity-word\">the inwards,</span> and the kidneys, and the caul <span class=\"clarity-word\">above</span> the liver:",
+      "churchId": "p19"
+    },
+    {
+      "slug": "leviticus-9-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And they put the fat upon the breasts, and he burnt the fat upon the altar:",
+      "churchId": "p20"
+    },
+    {
+      "slug": "leviticus-9-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And the breasts and the right shoulder Aaron waved <span class=\"clarity-word\">for</span> a wave offering before the <span class=\"small-caps\">Lord</span>; as Moses commanded.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "leviticus-9-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And Aaron lifted up his hand toward the people, and blessed them, and came down from offering of the sin offering, and the burnt offering, and peace offerings.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "leviticus-9-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And Moses and Aaron went into the tabernacle of the congregation, and came out, and blessed the people: and the glory of the <span class=\"small-caps\">Lord</span> appeared unto all the people.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "leviticus-9-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And there came a fire out from before the <span class=\"small-caps\">Lord</span>, and consumed upon the altar the burnt offering and the fat: <span class=\"clarity-word\">which</span> when all the people saw, they shouted, and fell on their faces.",
+      "churchId": "p24"
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "name": "Genesis 8",
+  "abbrev": "Gen. 8",
+  "number": "8",
+  "churchUri": "/scriptures/ot/gen/8",
+  "paragraphs": [
+    {
+      "slug": "genesis-8-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 8",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "genesis-8-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And God remembered Noah, and every living thing, and all the cattle that <span class=\"clarity-word\">was</span> with him in the ark: and God made a wind to pass over the earth, and the waters assuaged;",
+      "churchId": "p1"
+    },
+    {
+      "slug": "genesis-8-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "The fountains also of the deep and the windows of heaven were stopped, and the rain from heaven was restrained;",
+      "churchId": "p2"
+    },
+    {
+      "slug": "genesis-8-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And the waters returned from off the earth continually: and after the end of the hundred and fifty days the waters were abated.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "genesis-8-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And the ark rested in the seventh month, on the seventeenth day of the month, upon the mountains of Ararat.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "genesis-8-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And the waters decreased continually until the tenth month: in the tenth <span class=\"clarity-word\">month,</span> on the first <span class=\"clarity-word\">day</span> of the month, were the tops of the mountains seen.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "genesis-8-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "¶ And it came to pass at the end of forty days, that Noah opened the window of the ark which he had made:",
+      "churchId": "p6"
+    },
+    {
+      "slug": "genesis-8-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And he sent forth a raven, which went forth to and fro, until the waters were dried up from off the earth.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "genesis-8-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Also he sent forth a dove from him, to see if the waters were abated from off the face of the ground;",
+      "churchId": "p8"
+    },
+    {
+      "slug": "genesis-8-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "But the dove found no rest for the sole of her foot, and she returned unto him into the ark, for the waters <span class=\"clarity-word\">were</span> on the face of the whole earth: then he put forth his hand, and took her, and pulled her in unto him into the ark.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "genesis-8-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And he stayed yet other seven days; and again he sent forth the dove out of the ark;",
+      "churchId": "p10"
+    },
+    {
+      "slug": "genesis-8-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And the dove came in to him in the evening; and, lo, in her mouth <span class=\"clarity-word\">was</span> an olive leaf plucked off: so Noah knew that the waters were abated from off the earth.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "genesis-8-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And he stayed yet other seven days; and sent forth the dove; which returned not again unto him any more.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "genesis-8-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "¶ And it came to pass in the six hundredth and first year, in the first <span class=\"clarity-word\">month,</span> the first <span class=\"clarity-word\">day</span> of the month, the waters were dried up from off the earth: and Noah removed the covering of the ark, and looked, and, behold, the face of the ground was dry.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "genesis-8-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And in the second month, on the seven and twentieth day of the month, was the earth dried.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "genesis-8-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "¶ And God spake unto Noah, saying,",
+      "churchId": "p15"
+    },
+    {
+      "slug": "genesis-8-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Go forth of the ark, thou, and thy wife, and thy sons, and thy sons’ wives with thee.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "genesis-8-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Bring forth with thee every living thing that <span class=\"clarity-word\">is</span> with thee, of all flesh, <span class=\"clarity-word\">both</span> of fowl, and of cattle, and of every creeping thing that creepeth upon the earth; that they may breed abundantly in the earth, and be fruitful, and multiply upon the earth.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "genesis-8-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And Noah went forth, and his sons, and his wife, and his sons’ wives with him:",
+      "churchId": "p18"
+    },
+    {
+      "slug": "genesis-8-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Every beast, every creeping thing, and every fowl, <span class=\"clarity-word\">and</span> whatsoever creepeth upon the earth, after their kinds, went forth out of the ark.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "genesis-8-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "¶ And Noah builded an altar unto the <span class=\"small-caps\">Lord</span>; and took of every clean beast, and of every clean fowl, and offered burnt offerings on the altar.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "genesis-8-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And the <span class=\"small-caps\">Lord</span> smelled a sweet savour; and the <span class=\"small-caps\">Lord</span> said in his heart, I will not again curse the ground any more for man’s sake; for the imagination of man’s heart <span class=\"clarity-word\">is</span> evil from his youth; neither will I again smite any more every thing living, as I have done.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "genesis-8-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "While the earth remaineth, seedtime and harvest, and cold and heat, and summer and winter, and day and night shall not cease.",
+      "churchId": "p22"
+    }
+  ]
+}

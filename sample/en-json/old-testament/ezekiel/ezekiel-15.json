@@ -1,0 +1,71 @@
+{
+  "name": "Ezekiel 15",
+  "abbrev": "Ezek. 15",
+  "number": "15",
+  "churchUri": "/scriptures/ot/ezek/15",
+  "paragraphs": [
+    {
+      "slug": "ezekiel-15-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 15",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "ezekiel-15-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And the word of the <span class=\"small-caps\">Lord</span> came unto me, saying,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "ezekiel-15-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Son of man, What is the vine tree more than any tree, <span class=\"clarity-word\">or than</span> a branch which is among the trees of the forest?",
+      "churchId": "p2"
+    },
+    {
+      "slug": "ezekiel-15-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Shall wood be taken thereof to do any work? or will <span class=\"clarity-word\">men</span> take a pin of it to hang any vessel thereon?",
+      "churchId": "p3"
+    },
+    {
+      "slug": "ezekiel-15-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Behold, it is cast into the fire for fuel; the fire devoureth both the ends of it, and the midst of it is burned. Is it meet for <span class=\"clarity-word\">any</span> work?",
+      "churchId": "p4"
+    },
+    {
+      "slug": "ezekiel-15-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Behold, when it was whole, it was meet for no work: how much less shall it be meet yet for <span class=\"clarity-word\">any</span> work, when the fire hath devoured it, and it is burned?",
+      "churchId": "p5"
+    },
+    {
+      "slug": "ezekiel-15-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "¶ Therefore thus saith the Lord <span class=\"small-caps\">God</span>; As the vine tree among the trees of the forest, which I have given to the fire for fuel, so will I give the inhabitants of Jerusalem.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "ezekiel-15-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And I will set my face against them; they shall go out from <span class=\"clarity-word\">one</span> fire, and <span class=\"clarity-word\">another</span> fire shall devour them; and ye shall know that I <span class=\"clarity-word\">am</span> the <span class=\"small-caps\">Lord</span>, when I set my face against them.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "ezekiel-15-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And I will make the land desolate, because they have committed a trespass, saith the Lord <span class=\"small-caps\">God</span>.",
+      "churchId": "p8"
+    }
+  ]
+}

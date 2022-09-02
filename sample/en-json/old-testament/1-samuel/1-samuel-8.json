@@ -1,0 +1,169 @@
+{
+  "name": "1 Samuel 8",
+  "abbrev": "1 Sam. 8",
+  "number": "8",
+  "churchUri": "/scriptures/ot/1-sam/8",
+  "paragraphs": [
+    {
+      "slug": "1-samuel-8-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 8",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "1-samuel-8-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And it came to pass, when Samuel was old, that he made his sons judges over Israel.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "1-samuel-8-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Now the name of his firstborn was Joel; and the name of his second, Abiah: <span class=\"clarity-word\">they were</span> judges in Beer-sheba.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "1-samuel-8-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And his sons walked not in his ways, but turned aside after lucre, and took bribes, and perverted judgment.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "1-samuel-8-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Then all the elders of Israel gathered themselves together, and came to Samuel unto Ramah,",
+      "churchId": "p4"
+    },
+    {
+      "slug": "1-samuel-8-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And said unto him, Behold, thou art old, and thy sons walk not in thy ways: now make us a king to judge us like all the nations.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "1-samuel-8-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "¶ But the thing displeased Samuel, when they said, Give us a king to judge us. And Samuel prayed unto the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "1-samuel-8-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And the <span class=\"small-caps\">Lord</span> said unto Samuel, Hearken unto the voice of the people in all that they say unto thee: for they have not rejected thee, but they have rejected me, that I should not reign over them.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "1-samuel-8-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "According to all the works which they have done since the day that I brought them up out of Egypt even unto this day, wherewith they have forsaken me, and served other gods, so do they also unto thee.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "1-samuel-8-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Now therefore hearken unto their voice: howbeit yet protest solemnly unto them, and shew them the manner of the king that shall reign over them.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "1-samuel-8-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "¶ And Samuel told all the words of the <span class=\"small-caps\">Lord</span> unto the people that asked of him a king.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "1-samuel-8-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And he said, This will be the manner of the king that shall reign over you: He will take your sons, and appoint <span class=\"clarity-word\">them</span> for himself, for his chariots, and <span class=\"clarity-word\">to be</span> his horsemen; and <span class=\"clarity-word\">some</span> shall run before his chariots.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "1-samuel-8-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And he will appoint him captains over thousands, and captains over fifties; and <span class=\"clarity-word\">will set them</span> to ear his ground, and to reap his harvest, and to make his instruments of war, and instruments of his chariots.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "1-samuel-8-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And he will take your daughters <span class=\"clarity-word\">to be</span> confectionaries, and <span class=\"clarity-word\">to be</span> cooks, and <span class=\"clarity-word\">to be</span> bakers.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "1-samuel-8-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And he will take your fields, and your vineyards, and your oliveyards, <span class=\"clarity-word\">even</span> the best <span class=\"clarity-word\">of them,</span> and give <span class=\"clarity-word\">them</span> to his servants.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "1-samuel-8-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And he will take the tenth of your seed, and of your vineyards, and give to his officers, and to his servants.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "1-samuel-8-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And he will take your menservants, and your maidservants, and your goodliest young men, and your asses, and put <span class=\"clarity-word\">them</span> to his work.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "1-samuel-8-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "He will take the tenth of your sheep: and ye shall be his servants.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "1-samuel-8-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And ye shall cry out in that day because of your king which ye shall have chosen you; and the <span class=\"small-caps\">Lord</span> will not hear you in that day.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "1-samuel-8-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "¶ Nevertheless the people refused to obey the voice of Samuel; and they said, Nay; but we will have a king over us;",
+      "churchId": "p19"
+    },
+    {
+      "slug": "1-samuel-8-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "That we also may be like all the nations; and that our king may judge us, and go out before us, and fight our battles.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "1-samuel-8-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And Samuel heard all the words of the people, and he rehearsed them in the ears of the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "1-samuel-8-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And the <span class=\"small-caps\">Lord</span> said to Samuel, Hearken unto their voice, and make them a king. And Samuel said unto the men of Israel, Go ye every man unto his city.",
+      "churchId": "p22"
+    }
+  ]
+}

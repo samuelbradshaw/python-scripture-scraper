@@ -1,0 +1,365 @@
+{
+  "name": "Mark 9",
+  "abbrev": "Mark 9",
+  "number": "9",
+  "churchUri": "/scriptures/nt/mark/9",
+  "paragraphs": [
+    {
+      "slug": "mark-9-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 9",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "mark-9-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And he said unto them, Verily I say unto you, That there be some of them that stand here, which shall not taste of death, till they have seen the kingdom of God come with power.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "mark-9-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "¶ And after six days Jesus taketh <span class=\"clarity-word\">with him</span> Peter, and James, and John, and leadeth them up into an high mountain apart by themselves: and he was transfigured before them.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "mark-9-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And his raiment became shining, exceeding white as snow; so as no fuller on earth can white them.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "mark-9-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And there appeared unto them Elias with Moses: and they were talking with Jesus.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "mark-9-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And Peter answered and said to Jesus, Master, it is good for us to be here: and let us make three tabernacles; one for thee, and one for Moses, and one for Elias.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "mark-9-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "For he wist not what to say; for they were sore afraid.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "mark-9-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And there was a cloud that overshadowed them: and a voice came out of the cloud, saying, This is my beloved Son: hear him.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "mark-9-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And suddenly, when they had looked round about, they saw no man any more, save Jesus only with themselves.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "mark-9-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And as they came down from the mountain, he charged them that they should tell no man what things they had seen, till the Son of man were risen from the dead.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "mark-9-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And they kept that saying with themselves, questioning one with another what the rising from the dead should mean.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "mark-9-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "¶ And they asked him, saying, Why say the scribes that Elias must first come?",
+      "churchId": "p11"
+    },
+    {
+      "slug": "mark-9-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And he answered and told them, Elias verily cometh first, and restoreth all things; and how it is written of the Son of man, that he must suffer many things, and be set at nought.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "mark-9-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "But I say unto you, That Elias is indeed come, and they have done unto him whatsoever they listed, as it is written of him.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "mark-9-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "¶ And when he came to <span class=\"clarity-word\">his</span> disciples, he saw a great multitude about them, and the scribes questioning with them.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "mark-9-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And straightway all the people, when they beheld him, were greatly amazed, and running to <span class=\"clarity-word\">him</span> saluted him.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "mark-9-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And he asked the scribes, What question ye with them?",
+      "churchId": "p16"
+    },
+    {
+      "slug": "mark-9-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And one of the multitude answered and said, Master, I have brought unto thee my son, which hath a dumb spirit;",
+      "churchId": "p17"
+    },
+    {
+      "slug": "mark-9-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And wheresoever he taketh him, he teareth him: and he foameth, and gnasheth with his teeth, and pineth away: and I spake to thy disciples that they should cast him out; and they could not.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "mark-9-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "He answereth him, and saith, O faithless generation, how long shall I be with you? how long shall I suffer you? bring him unto me.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "mark-9-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And they brought him unto him: and when he saw him, straightway the spirit tare him; and he fell on the ground, and wallowed foaming.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "mark-9-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And he asked his father, How long is it ago since this came unto him? And he said, Of a child.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "mark-9-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And ofttimes it hath cast him into the fire, and into the waters, to destroy him: but if thou canst do any thing, have compassion on us, and help us.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "mark-9-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Jesus said unto him, If thou canst believe, all things <span class=\"clarity-word\">are</span> possible to him that believeth.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "mark-9-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And straightway the father of the child cried out, and said with tears, Lord, I believe; help thou mine unbelief.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "mark-9-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "When Jesus saw that the people came running together, he rebuked the foul spirit, saying unto him, <span class=\"clarity-word\">Thou</span> dumb and deaf spirit, I charge thee, come out of him, and enter no more into him.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "mark-9-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And <span class=\"clarity-word\">the spirit</span> cried, and rent him sore, and came out of him: and he was as one dead; insomuch that many said, He is dead.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "mark-9-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "But Jesus took him by the hand, and lifted him up; and he arose.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "mark-9-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And when he was come into the house, his disciples asked him privately, Why could not we cast him out?",
+      "churchId": "p28"
+    },
+    {
+      "slug": "mark-9-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "And he said unto them, This kind can come forth by nothing, but by prayer and fasting.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "mark-9-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "¶ And they departed thence, and passed through Galilee; and he would not that any man should know <span class=\"clarity-word\">it.</span>",
+      "churchId": "p30"
+    },
+    {
+      "slug": "mark-9-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "For he taught his disciples, and said unto them, The Son of man is delivered into the hands of men, and they shall kill him; and after that he is killed, he shall rise the third day.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "mark-9-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "But they understood not that saying, and were afraid to ask him.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "mark-9-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "¶ And he came to Capernaum: and being in the house he asked them, What was it that ye disputed among yourselves by the way?",
+      "churchId": "p33"
+    },
+    {
+      "slug": "mark-9-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "But they held their peace: for by the way they had disputed among themselves, who <span class=\"clarity-word\">should be</span> the greatest.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "mark-9-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "And he sat down, and called the twelve, and saith unto them, If any man desire to be first, <span class=\"clarity-word\">the same</span> shall be last of all, and servant of all.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "mark-9-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "And he took a child, and set him in the midst of them: and when he had taken him in his arms, he said unto them,",
+      "churchId": "p36"
+    },
+    {
+      "slug": "mark-9-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "Whosoever shall receive one of such children in my name, receiveth me: and whosoever shall receive me, receiveth not me, but him that sent me.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "mark-9-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "¶ And John answered him, saying, Master, we saw one casting out devils in thy name, and he followeth not us: and we forbad him, because he followeth not us.",
+      "churchId": "p38"
+    },
+    {
+      "slug": "mark-9-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "But Jesus said, Forbid him not: for there is no man which shall do a miracle in my name, that can lightly speak evil of me.",
+      "churchId": "p39"
+    },
+    {
+      "slug": "mark-9-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "For he that is not against us is on our part.",
+      "churchId": "p40"
+    },
+    {
+      "slug": "mark-9-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "For whosoever shall give you a cup of water to drink in my name, because ye belong to Christ, verily I say unto you, he shall not lose his reward.",
+      "churchId": "p41"
+    },
+    {
+      "slug": "mark-9-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "And whosoever shall offend one of <span class=\"clarity-word\">these</span> little ones that believe in me, it is better for him that a millstone were hanged about his neck, and he were cast into the sea.",
+      "churchId": "p42"
+    },
+    {
+      "slug": "mark-9-p43",
+      "type": "verse",
+      "number": "43",
+      "content": "And if thy hand offend thee, cut it off: it is better for thee to enter into life maimed, than having two hands to go into hell, into the fire that never shall be quenched:",
+      "churchId": "p43"
+    },
+    {
+      "slug": "mark-9-p44",
+      "type": "verse",
+      "number": "44",
+      "content": "Where their worm dieth not, and the fire is not quenched.",
+      "churchId": "p44"
+    },
+    {
+      "slug": "mark-9-p45",
+      "type": "verse",
+      "number": "45",
+      "content": "And if thy foot offend thee, cut it off: it is better for thee to enter halt into life, than having two feet to be cast into hell, into the fire that never shall be quenched:",
+      "churchId": "p45"
+    },
+    {
+      "slug": "mark-9-p46",
+      "type": "verse",
+      "number": "46",
+      "content": "Where their worm dieth not, and the fire is not quenched.",
+      "churchId": "p46"
+    },
+    {
+      "slug": "mark-9-p47",
+      "type": "verse",
+      "number": "47",
+      "content": "And if thine eye offend thee, pluck it out: it is better for thee to enter into the kingdom of God with one eye, than having two eyes to be cast into hell fire:",
+      "churchId": "p47"
+    },
+    {
+      "slug": "mark-9-p48",
+      "type": "verse",
+      "number": "48",
+      "content": "Where their worm dieth not, and the fire is not quenched.",
+      "churchId": "p48"
+    },
+    {
+      "slug": "mark-9-p49",
+      "type": "verse",
+      "number": "49",
+      "content": "For every one shall be salted with fire, and every sacrifice shall be salted with salt.",
+      "churchId": "p49"
+    },
+    {
+      "slug": "mark-9-p50",
+      "type": "verse",
+      "number": "50",
+      "content": "Salt <span class=\"clarity-word\">is</span> good: but if the salt have lost his saltness, wherewith will ye season it? Have salt in yourselves, and have peace one with another.",
+      "churchId": "p50"
+    }
+  ]
+}

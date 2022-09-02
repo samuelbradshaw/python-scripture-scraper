@@ -1,0 +1,148 @@
+{
+  "name": "Doctrine and Covenants 115",
+  "abbrev": "D&C 115",
+  "number": "115",
+  "churchUri": "/scriptures/dc-testament/dc/115",
+  "paragraphs": [
+    {
+      "slug": "section-115-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Section 115",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "section-115-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Verily thus saith the Lord unto you, my servant Joseph Smith, Jun., and also my servant Sidney Rigdon, and also my servant Hyrum Smith, and your counselors who are and shall be appointed hereafter;",
+      "churchId": "p1"
+    },
+    {
+      "slug": "section-115-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And also unto you, my servant Edward Partridge, and his counselors;",
+      "churchId": "p2"
+    },
+    {
+      "slug": "section-115-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And also unto my faithful servants who are of the high council of my church in Zion, for thus it shall be called, and unto all the elders and people of my Church of Jesus Christ of Latter-day Saints, scattered abroad in all the world;",
+      "churchId": "p3"
+    },
+    {
+      "slug": "section-115-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "For thus shall my church be called in the last days, even The Church of Jesus Christ of Latter-day Saints.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "section-115-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Verily I say unto you all: Arise and shine forth, that thy light may be a standard for the nations;",
+      "churchId": "p5"
+    },
+    {
+      "slug": "section-115-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And that the gathering together upon the land of Zion, and upon her stakes, may be for a defense, and for a refuge from the storm, and from wrath when it shall be poured out without mixture upon the whole earth.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "section-115-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Let the city, Far West, be a holy and consecrated land unto me; and it shall be called most holy, for the ground upon which thou standest is holy.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "section-115-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Therefore, I command you to build a house unto me, for the gathering together of my saints, that they may worship me.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "section-115-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And let there be a beginning of this work, and a foundation, and a preparatory work, this following summer;",
+      "churchId": "p9"
+    },
+    {
+      "slug": "section-115-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And let the beginning be made on the fourth day of July next; and from that time forth let my people labor diligently to build a house unto my name;",
+      "churchId": "p10"
+    },
+    {
+      "slug": "section-115-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And in one year from this day let them re-commence laying the foundation of my house.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "section-115-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Thus let them from that time forth labor diligently until it shall be finished, from the cornerstone thereof unto the top thereof, until there shall not anything remain that is not finished.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "section-115-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Verily I say unto you, let not my servant Joseph, neither my servant Sidney, neither my servant Hyrum, get in debt any more for the building of a house unto my name;",
+      "churchId": "p13"
+    },
+    {
+      "slug": "section-115-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "But let a house be built unto my name according to the pattern which I will show unto them.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "section-115-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And if my people build it not according to the pattern which I shall show unto their presidency, I will not accept it at their hands.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "section-115-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "But if my people do build it according to the pattern which I shall show unto their presidency, even my servant Joseph and his counselors, then I will accept it at the hands of my people.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "section-115-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And again, verily I say unto you, it is my will that the city of Far West should be built up speedily by the gathering of my saints;",
+      "churchId": "p17"
+    },
+    {
+      "slug": "section-115-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And also that other places should be appointed for stakes in the regions round about, as they shall be manifested unto my servant Joseph, from time to time.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "section-115-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "For behold, I will be with him, and I will sanctify him before the people; for unto him have I given the keys of this kingdom and ministry. Even so. Amen.",
+      "churchId": "p19"
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "name": "Proverbs 1",
+  "abbrev": "Prov. 1",
+  "number": "1",
+  "churchUri": "/scriptures/ot/prov/1",
+  "paragraphs": [
+    {
+      "slug": "proverbs-1-title1",
+      "type": "book-title",
+      "number": null,
+      "content": "The Proverbs",
+      "churchId": "title1"
+    },
+    {
+      "slug": "proverbs-1-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 1",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "proverbs-1-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "The proverbs of Solomon the son of David, king of Israel;",
+      "churchId": "p1"
+    },
+    {
+      "slug": "proverbs-1-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "To know wisdom and instruction; to perceive the words of understanding;",
+      "churchId": "p2"
+    },
+    {
+      "slug": "proverbs-1-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "To receive the instruction of wisdom, justice, and judgment, and equity;",
+      "churchId": "p3"
+    },
+    {
+      "slug": "proverbs-1-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "To give subtilty to the simple, to the young man knowledge and discretion.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "proverbs-1-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "A wise <span class=\"clarity-word\">man</span> will hear, and will increase learning; and a man of understanding shall attain unto wise counsels:",
+      "churchId": "p5"
+    },
+    {
+      "slug": "proverbs-1-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "To understand a proverb, and the interpretation; the words of the wise, and their dark sayings.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "proverbs-1-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "¶ The fear of the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">is</span> the beginning of knowledge: <span class=\"clarity-word\">but</span> fools despise wisdom and instruction.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "proverbs-1-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "My son, hear the instruction of thy father, and forsake not the law of thy mother:",
+      "churchId": "p8"
+    },
+    {
+      "slug": "proverbs-1-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "For they <span class=\"clarity-word\">shall be</span> an ornament of grace unto thy head, and chains about thy neck.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "proverbs-1-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "¶ My son, if sinners entice thee, consent thou not.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "proverbs-1-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "If they say, Come with us, let us lay wait for blood, let us lurk privily for the innocent without cause:",
+      "churchId": "p11"
+    },
+    {
+      "slug": "proverbs-1-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Let us swallow them up alive as the grave; and whole, as those that go down into the pit:",
+      "churchId": "p12"
+    },
+    {
+      "slug": "proverbs-1-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "We shall find all precious substance, we shall fill our houses with spoil:",
+      "churchId": "p13"
+    },
+    {
+      "slug": "proverbs-1-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Cast in thy lot among us; let us all have one purse:",
+      "churchId": "p14"
+    },
+    {
+      "slug": "proverbs-1-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "My son, walk not thou in the way with them; refrain thy foot from their path:",
+      "churchId": "p15"
+    },
+    {
+      "slug": "proverbs-1-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "For their feet run to evil, and make haste to shed blood.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "proverbs-1-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Surely in vain the net is spread in the sight of any bird.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "proverbs-1-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And they lay wait for their <span class=\"clarity-word\">own</span> blood; they lurk privily for their <span class=\"clarity-word\">own</span> lives.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "proverbs-1-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "So <span class=\"clarity-word\">are</span> the ways of every one that is greedy of gain; <span class=\"clarity-word\">which</span> taketh away the life of the owners thereof.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "proverbs-1-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "¶ Wisdom crieth without; she uttereth her voice in the streets:",
+      "churchId": "p20"
+    },
+    {
+      "slug": "proverbs-1-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "She crieth in the chief place of concourse, in the openings of the gates: in the city she uttereth her words, <span class=\"clarity-word\">saying,</span>",
+      "churchId": "p21"
+    },
+    {
+      "slug": "proverbs-1-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "How long, ye simple ones, will ye love simplicity? and the scorners delight in their scorning, and fools hate knowledge?",
+      "churchId": "p22"
+    },
+    {
+      "slug": "proverbs-1-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Turn you at my reproof: behold, I will pour out my spirit unto you, I will make known my words unto you.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "proverbs-1-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "¶ Because I have called, and ye refused; I have stretched out my hand, and no man regarded;",
+      "churchId": "p24"
+    },
+    {
+      "slug": "proverbs-1-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "But ye have set at nought all my counsel, and would none of my reproof:",
+      "churchId": "p25"
+    },
+    {
+      "slug": "proverbs-1-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "I also will laugh at your calamity; I will mock when your fear cometh;",
+      "churchId": "p26"
+    },
+    {
+      "slug": "proverbs-1-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "When your fear cometh as desolation, and your destruction cometh as a whirlwind; when distress and anguish cometh upon you.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "proverbs-1-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "Then shall they call upon me, but I will not answer; they shall seek me early, but they shall not find me:",
+      "churchId": "p28"
+    },
+    {
+      "slug": "proverbs-1-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "For that they hated knowledge, and did not choose the fear of the <span class=\"small-caps\">Lord</span>:",
+      "churchId": "p29"
+    },
+    {
+      "slug": "proverbs-1-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "They would none of my counsel: they despised all my reproof.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "proverbs-1-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "Therefore shall they eat of the fruit of their own way, and be filled with their own devices.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "proverbs-1-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "For the turning away of the simple shall slay them, and the prosperity of fools shall destroy them.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "proverbs-1-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "But whoso hearkeneth unto me shall dwell safely, and shall be quiet from fear of evil.",
+      "churchId": "p33"
+    }
+  ]
+}

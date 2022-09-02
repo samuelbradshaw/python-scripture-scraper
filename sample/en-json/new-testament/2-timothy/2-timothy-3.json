@@ -1,0 +1,134 @@
+{
+  "name": "2 Timothy 3",
+  "abbrev": "2 Tim. 3",
+  "number": "3",
+  "churchUri": "/scriptures/nt/2-tim/3",
+  "paragraphs": [
+    {
+      "slug": "2-timothy-3-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 3",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "2-timothy-3-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "This know also, that in the last days perilous times shall come.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "2-timothy-3-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "For men shall be lovers of their own selves, covetous, boasters, proud, blasphemers, disobedient to parents, unthankful, unholy,",
+      "churchId": "p2"
+    },
+    {
+      "slug": "2-timothy-3-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Without natural affection, trucebreakers, false accusers, incontinent, fierce, despisers of those that are good,",
+      "churchId": "p3"
+    },
+    {
+      "slug": "2-timothy-3-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Traitors, heady, highminded, lovers of pleasures more than lovers of God;",
+      "churchId": "p4"
+    },
+    {
+      "slug": "2-timothy-3-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Having a form of godliness, but denying the power thereof: from such turn away.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "2-timothy-3-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "For of this sort are they which creep into houses, and lead captive silly women laden with sins, led away with divers lusts,",
+      "churchId": "p6"
+    },
+    {
+      "slug": "2-timothy-3-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Ever learning, and never able to come to the knowledge of the truth.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "2-timothy-3-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Now as Jannes and Jambres withstood Moses, so do these also resist the truth: men of corrupt minds, reprobate concerning the faith.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "2-timothy-3-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "But they shall proceed no further: for their folly shall be manifest unto all <span class=\"clarity-word\">men,</span> as theirs also was.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "2-timothy-3-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "But thou hast fully known my doctrine, manner of life, purpose, faith, longsuffering, charity, patience,",
+      "churchId": "p10"
+    },
+    {
+      "slug": "2-timothy-3-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Persecutions, afflictions, which came unto me at Antioch, at Iconium, at Lystra; what persecutions I endured: but out of <span class=\"clarity-word\">them</span> all the Lord delivered me.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "2-timothy-3-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Yea, and all that will live godly in Christ Jesus shall suffer persecution.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "2-timothy-3-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "But evil men and seducers shall wax worse and worse, deceiving, and being deceived.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "2-timothy-3-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "But continue thou in the things which thou hast learned and hast been assured of, knowing of whom thou hast learned <span class=\"clarity-word\">them;</span>",
+      "churchId": "p14"
+    },
+    {
+      "slug": "2-timothy-3-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And that from a child thou hast known the holy scriptures, which are able to make thee wise unto salvation through faith which is in Christ Jesus.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "2-timothy-3-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "All scripture <span class=\"clarity-word\">is</span> given by inspiration of God, and <span class=\"clarity-word\">is</span> profitable for doctrine, for reproof, for correction, for instruction in righteousness:",
+      "churchId": "p16"
+    },
+    {
+      "slug": "2-timothy-3-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "That the man of God may be perfect, throughly furnished unto all good works.",
+      "churchId": "p17"
+    }
+  ]
+}

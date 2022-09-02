@@ -1,0 +1,246 @@
+{
+  "name": "Genesis 49",
+  "abbrev": "Gen. 49",
+  "number": "49",
+  "churchUri": "/scriptures/ot/gen/49",
+  "paragraphs": [
+    {
+      "slug": "genesis-49-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 49",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "genesis-49-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And Jacob called unto his sons, and said, Gather yourselves together, that I may tell you <span class=\"clarity-word\">that</span> which shall befall you in the last days.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "genesis-49-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Gather yourselves together, and hear, ye sons of Jacob; and hearken unto Israel your father.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "genesis-49-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "¶ Reuben, thou <span class=\"clarity-word\">art</span> my firstborn, my might, and the beginning of my strength, the excellency of dignity, and the excellency of power:",
+      "churchId": "p3"
+    },
+    {
+      "slug": "genesis-49-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Unstable as water, thou shalt not excel; because thou wentest up to thy father’s bed; then defiledst thou <span class=\"clarity-word\">it:</span> he went up to my couch.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "genesis-49-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "¶ Simeon and Levi <span class=\"clarity-word\">are</span> brethren; instruments of cruelty <span class=\"clarity-word\">are in</span> their habitations.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "genesis-49-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "O my soul, come not thou into their secret; unto their assembly, mine honour, be not thou united: for in their anger they slew a man, and in their selfwill they digged down a wall.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "genesis-49-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Cursed <span class=\"clarity-word\">be</span> their anger, for <span class=\"clarity-word\">it was</span> fierce; and their wrath, for it was cruel: I will divide them in Jacob, and scatter them in Israel.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "genesis-49-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "¶ Judah, thou <span class=\"clarity-word\">art he</span> whom thy brethren shall praise: thy hand <span class=\"clarity-word\">shall be</span> in the neck of thine enemies; thy father’s children shall bow down before thee.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "genesis-49-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Judah <span class=\"clarity-word\">is</span> a lion’s whelp: from the prey, my son, thou art gone up: he stooped down, he couched as a lion, and as an old lion; who shall rouse him up?",
+      "churchId": "p9"
+    },
+    {
+      "slug": "genesis-49-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "The sceptre shall not depart from Judah, nor a lawgiver from between his feet, until Shiloh come; and unto him <span class=\"clarity-word\">shall</span> the gathering of the people <span class=\"clarity-word\">be.</span>",
+      "churchId": "p10"
+    },
+    {
+      "slug": "genesis-49-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Binding his foal unto the vine, and his ass’s colt unto the choice vine; he washed his garments in wine, and his clothes in the blood of grapes:",
+      "churchId": "p11"
+    },
+    {
+      "slug": "genesis-49-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "His eyes <span class=\"clarity-word\">shall be</span> red with wine, and his teeth white with milk.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "genesis-49-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "¶ Zebulun shall dwell at the haven of the sea; and he <span class=\"clarity-word\">shall be</span> for an haven of ships; and his border <span class=\"clarity-word\">shall be</span> unto Zidon.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "genesis-49-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "¶ Issachar <span class=\"clarity-word\">is</span> a strong ass couching down between two burdens:",
+      "churchId": "p14"
+    },
+    {
+      "slug": "genesis-49-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And he saw that rest <span class=\"clarity-word\">was</span> good, and the land that <span class=\"clarity-word\">it was</span> pleasant; and bowed his shoulder to bear, and became a servant unto tribute.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "genesis-49-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "¶ Dan shall judge his people, as one of the tribes of Israel.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "genesis-49-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Dan shall be a serpent by the way, an adder in the path, that biteth the horse heels, so that his rider shall fall backward.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "genesis-49-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "I have waited for thy salvation, O <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "genesis-49-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "¶ Gad, a troop shall overcome him: but he shall overcome at the last.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "genesis-49-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "¶ Out of Asher his bread <span class=\"clarity-word\">shall be</span> fat, and he shall yield royal dainties.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "genesis-49-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "¶ Naphtali <span class=\"clarity-word\">is</span> a hind let loose: he giveth goodly words.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "genesis-49-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "¶ Joseph <span class=\"clarity-word\">is</span> a fruitful bough, <span class=\"clarity-word\">even</span> a fruitful bough by a well; <span class=\"clarity-word\">whose</span> branches run over the wall:",
+      "churchId": "p22"
+    },
+    {
+      "slug": "genesis-49-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "The archers have sorely grieved him, and shot <span class=\"clarity-word\">at him,</span> and hated him:",
+      "churchId": "p23"
+    },
+    {
+      "slug": "genesis-49-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "But his bow abode in strength, and the arms of his hands were made strong by the hands of the mighty <span class=\"clarity-word\">God</span> of Jacob; (from thence <span class=\"clarity-word\">is</span> the shepherd, the stone of Israel:)",
+      "churchId": "p24"
+    },
+    {
+      "slug": "genesis-49-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "<span class=\"clarity-word\">Even</span> by the God of thy father, who shall help thee; and by the Almighty, who shall bless thee with blessings of heaven above, blessings of the deep that lieth under, blessings of the breasts, and of the womb:",
+      "churchId": "p25"
+    },
+    {
+      "slug": "genesis-49-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "The blessings of thy father have prevailed above the blessings of my progenitors unto the utmost bound of the everlasting hills: they shall be on the head of Joseph, and on the crown of the head of him that was separate from his brethren.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "genesis-49-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "¶ Benjamin shall ravin <span class=\"clarity-word\">as</span> a wolf: in the morning he shall devour the prey, and at night he shall divide the spoil.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "genesis-49-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "¶ All these <span class=\"clarity-word\">are</span> the twelve tribes of Israel: and this <span class=\"clarity-word\">is it</span> that their father spake unto them, and blessed them; every one according to his blessing he blessed them.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "genesis-49-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "And he charged them, and said unto them, I am to be gathered unto my people: bury me with my fathers in the cave that <span class=\"clarity-word\">is</span> in the field of Ephron the Hittite,",
+      "churchId": "p29"
+    },
+    {
+      "slug": "genesis-49-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "In the cave that <span class=\"clarity-word\">is</span> in the field of Machpelah, which <span class=\"clarity-word\">is</span> before Mamre, in the land of Canaan, which Abraham bought with the field of Ephron the Hittite for a possession of a buryingplace.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "genesis-49-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "There they buried Abraham and Sarah his wife; there they buried Isaac and Rebekah his wife; and there I buried Leah.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "genesis-49-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "The purchase of the field and of the cave that <span class=\"clarity-word\">is</span> therein <span class=\"clarity-word\">was</span> from the children of Heth.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "genesis-49-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "And when Jacob had made an end of commanding his sons, he gathered up his feet into the bed, and yielded up the ghost, and was gathered unto his people.",
+      "churchId": "p33"
+    }
+  ]
+}

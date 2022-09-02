@@ -1,0 +1,246 @@
+{
+  "name": "Leviticus 22",
+  "abbrev": "Lev. 22",
+  "number": "22",
+  "churchUri": "/scriptures/ot/lev/22",
+  "paragraphs": [
+    {
+      "slug": "leviticus-22-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 22",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "leviticus-22-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And the <span class=\"small-caps\">Lord</span> spake unto Moses, saying,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "leviticus-22-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Speak unto Aaron and to his sons, that they separate themselves from the holy things of the children of Israel, and that they profane not my holy name <span class=\"clarity-word\">in those things</span> which they hallow unto me: I <span class=\"clarity-word\">am</span> the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "leviticus-22-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Say unto them, Whosoever <span class=\"clarity-word\">he be</span> of all your seed among your generations, that goeth unto the holy things, which the children of Israel hallow unto the <span class=\"small-caps\">Lord</span>, having his uncleanness upon him, that soul shall be cut off from my presence: I <span class=\"clarity-word\">am</span> the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "leviticus-22-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "What man soever of the seed of Aaron <span class=\"clarity-word\">is</span> a leper, or hath a running issue; he shall not eat of the holy things, until he be clean. And whoso toucheth any thing <span class=\"clarity-word\">that is</span> unclean <span class=\"clarity-word\">by</span> the dead, or a man whose seed goeth from him;",
+      "churchId": "p4"
+    },
+    {
+      "slug": "leviticus-22-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Or whosoever toucheth any creeping thing, whereby he may be made unclean, or a man of whom he may take uncleanness, whatsoever uncleanness he hath;",
+      "churchId": "p5"
+    },
+    {
+      "slug": "leviticus-22-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "The soul which hath touched any such shall be unclean until even, and shall not eat of the holy things, unless he wash his flesh with water.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "leviticus-22-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And when the sun is down, he shall be clean, and shall afterward eat of the holy things; because it <span class=\"clarity-word\">is</span> his food.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "leviticus-22-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "That which dieth of itself, or is torn <span class=\"clarity-word\">with beasts,</span> he shall not eat to defile himself therewith: I <span class=\"clarity-word\">am</span> the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "leviticus-22-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "They shall therefore keep mine ordinance, lest they bear sin for it, and die therefore, if they profane it: I the <span class=\"small-caps\">Lord</span> do sanctify them.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "leviticus-22-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "There shall no stranger eat <span class=\"clarity-word\">of</span> the holy thing: a sojourner of the priest, or an hired servant, shall not eat <span class=\"clarity-word\">of</span> the holy thing.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "leviticus-22-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "But if the priest buy <span class=\"clarity-word\">any</span> soul with his money, he shall eat of it, and he that is born in his house: they shall eat of his meat.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "leviticus-22-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "If the priest’s daughter also be <span class=\"clarity-word\">married</span> unto a stranger, she may not eat of an offering of the holy things.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "leviticus-22-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "But if the priest’s daughter be a widow, or divorced, and have no child, and is returned unto her father’s house, as in her youth, she shall eat of her father’s meat: but there shall no stranger eat thereof.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "leviticus-22-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "¶ And if a man eat <span class=\"clarity-word\">of</span> the holy thing unwittingly, then he shall put the fifth <span class=\"clarity-word\">part</span> thereof unto it, and shall give <span class=\"clarity-word\">it</span> unto the priest with the holy thing.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "leviticus-22-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And they shall not profane the holy things of the children of Israel, which they offer unto the <span class=\"small-caps\">Lord</span>;",
+      "churchId": "p15"
+    },
+    {
+      "slug": "leviticus-22-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Or suffer them to bear the iniquity of trespass, when they eat their holy things: for I the <span class=\"small-caps\">Lord</span> do sanctify them.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "leviticus-22-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "¶ And the <span class=\"small-caps\">Lord</span> spake unto Moses, saying,",
+      "churchId": "p17"
+    },
+    {
+      "slug": "leviticus-22-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Speak unto Aaron, and to his sons, and unto all the children of Israel, and say unto them, Whatsoever <span class=\"clarity-word\">he be</span> of the house of Israel, or of the strangers in Israel, that will offer his oblation for all his vows, and for all his freewill offerings, which they will offer unto the <span class=\"small-caps\">Lord</span> for a burnt offering;",
+      "churchId": "p18"
+    },
+    {
+      "slug": "leviticus-22-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "<span class=\"clarity-word\">Ye shall offer</span> at your own will a male without blemish, of the beeves, of the sheep, or of the goats.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "leviticus-22-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "<span class=\"clarity-word\">But</span> whatsoever hath a blemish, <span class=\"clarity-word\">that</span> shall ye not offer: for it shall not be acceptable for you.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "leviticus-22-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And whosoever offereth a sacrifice of peace offerings unto the <span class=\"small-caps\">Lord</span> to accomplish <span class=\"clarity-word\">his</span> vow, or a freewill offering in beeves or sheep, it shall be perfect to be accepted; there shall be no blemish therein.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "leviticus-22-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Blind, or broken, or maimed, or having a wen, or scurvy, or scabbed, ye shall not offer these unto the <span class=\"small-caps\">Lord</span>, nor make an offering by fire of them upon the altar unto the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "leviticus-22-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Either a bullock or a lamb that hath any thing superfluous or lacking in his parts, that mayest thou offer <span class=\"clarity-word\">for</span> a freewill offering; but for a vow it shall not be accepted.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "leviticus-22-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Ye shall not offer unto the <span class=\"small-caps\">Lord</span> that which is bruised, or crushed, or broken, or cut; neither shall ye make <span class=\"clarity-word\">any offering thereof</span> in your land.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "leviticus-22-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Neither from a stranger’s hand shall ye offer the bread of your God of any of these; because their corruption <span class=\"clarity-word\">is</span> in them, <span class=\"clarity-word\">and</span> blemishes <span class=\"clarity-word\">be</span> in them: they shall not be accepted for you.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "leviticus-22-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "¶ And the <span class=\"small-caps\">Lord</span> spake unto Moses, saying,",
+      "churchId": "p26"
+    },
+    {
+      "slug": "leviticus-22-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "When a bullock, or a sheep, or a goat, is brought forth, then it shall be seven days under the dam; and from the eighth day and thenceforth it shall be accepted for an offering made by fire unto the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "leviticus-22-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And <span class=\"clarity-word\">whether it be</span> cow or ewe, ye shall not kill it and her young both in one day.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "leviticus-22-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "And when ye will offer a sacrifice of thanksgiving unto the <span class=\"small-caps\">Lord</span>, offer <span class=\"clarity-word\">it</span> at your own will.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "leviticus-22-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "On the same day it shall be eaten up; ye shall leave none of it until the morrow: I <span class=\"clarity-word\">am</span> the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "leviticus-22-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "Therefore shall ye keep my commandments, and do them: I <span class=\"clarity-word\">am</span> the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "leviticus-22-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "Neither shall ye profane my holy name; but I will be hallowed among the children of Israel: I <span class=\"clarity-word\">am</span> the <span class=\"small-caps\">Lord</span> which hallow you,",
+      "churchId": "p32"
+    },
+    {
+      "slug": "leviticus-22-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "That brought you out of the land of Egypt, to be your God: I <span class=\"clarity-word\">am</span> the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p33"
+    }
+  ]
+}

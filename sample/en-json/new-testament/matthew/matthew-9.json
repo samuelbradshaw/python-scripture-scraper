@@ -1,0 +1,281 @@
+{
+  "name": "Matthew 9",
+  "abbrev": "Matt. 9",
+  "number": "9",
+  "churchUri": "/scriptures/nt/matt/9",
+  "paragraphs": [
+    {
+      "slug": "matthew-9-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 9",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "matthew-9-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And he entered into a ship, and passed over, and came into his own city.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "matthew-9-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And, behold, they brought to him a man sick of the palsy, lying on a bed: and Jesus seeing their faith said unto the sick of the palsy; Son, be of good cheer; thy sins be forgiven thee.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "matthew-9-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And, behold, certain of the scribes said within themselves, This <span class=\"clarity-word\">man</span> blasphemeth.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "matthew-9-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And Jesus knowing their thoughts said, Wherefore think ye evil in your hearts?",
+      "churchId": "p4"
+    },
+    {
+      "slug": "matthew-9-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "For whether is easier, to say, <span class=\"clarity-word\">Thy</span> sins be forgiven thee; or to say, Arise, and walk?",
+      "churchId": "p5"
+    },
+    {
+      "slug": "matthew-9-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "But that ye may know that the Son of man hath power on earth to forgive sins, (then saith he to the sick of the palsy,) Arise, take up thy bed, and go unto thine house.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "matthew-9-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And he arose, and departed to his house.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "matthew-9-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "But when the multitudes saw <span class=\"clarity-word\">it,</span> they marvelled, and glorified God, which had given such power unto men.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "matthew-9-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "¶ And as Jesus passed forth from thence, he saw a man, named Matthew, sitting at the receipt of custom: and he saith unto him, Follow me. And he arose, and followed him.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "matthew-9-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "¶ And it came to pass, as Jesus sat at meat in the house, behold, many publicans and sinners came and sat down with him and his disciples.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "matthew-9-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And when the Pharisees saw <span class=\"clarity-word\">it,</span> they said unto his disciples, Why eateth your Master with publicans and sinners?",
+      "churchId": "p11"
+    },
+    {
+      "slug": "matthew-9-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "But when Jesus heard <span class=\"clarity-word\">that,</span> he said unto them, They that be whole need not a physician, but they that are sick.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "matthew-9-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "But go ye and learn what <span class=\"clarity-word\">that</span> meaneth, I will have mercy, and not sacrifice: for I am not come to call the righteous, but sinners to repentance.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "matthew-9-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "¶ Then came to him the disciples of John, saying, Why do we and the Pharisees fast oft, but thy disciples fast not?",
+      "churchId": "p14"
+    },
+    {
+      "slug": "matthew-9-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And Jesus said unto them, Can the children of the bridechamber mourn, as long as the bridegroom is with them? but the days will come, when the bridegroom shall be taken from them, and then shall they fast.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "matthew-9-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "No man putteth a piece of new cloth unto an old garment, for that which is put in to fill it up taketh from the garment, and the rent is made worse.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "matthew-9-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Neither do men put new wine into old bottles: else the bottles break, and the wine runneth out, and the bottles perish: but they put new wine into new bottles, and both are preserved.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "matthew-9-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "¶ While he spake these things unto them, behold, there came a certain ruler, and worshipped him, saying, My daughter is even now dead: but come and lay thy hand upon her, and she shall live.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "matthew-9-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And Jesus arose, and followed him, and <span class=\"clarity-word\">so did</span> his disciples.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "matthew-9-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "¶ And, behold, a woman, which was diseased with an issue of blood twelve years, came behind <span class=\"clarity-word\">him,</span> and touched the hem of his garment:",
+      "churchId": "p20"
+    },
+    {
+      "slug": "matthew-9-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "For she said within herself, If I may but touch his garment, I shall be whole.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "matthew-9-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "But Jesus turned him about, and when he saw her, he said, Daughter, be of good comfort; thy faith hath made thee whole. And the woman was made whole from that hour.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "matthew-9-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And when Jesus came into the ruler’s house, and saw the minstrels and the people making a noise,",
+      "churchId": "p23"
+    },
+    {
+      "slug": "matthew-9-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "He said unto them, Give place: for the maid is not dead, but sleepeth. And they laughed him to scorn.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "matthew-9-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "But when the people were put forth, he went in, and took her by the hand, and the maid arose.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "matthew-9-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And the fame hereof went abroad into all that land.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "matthew-9-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "¶ And when Jesus departed thence, two blind men followed him, crying, and saying, <span class=\"clarity-word\">Thou</span> Son of David, have mercy on us.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "matthew-9-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And when he was come into the house, the blind men came to him: and Jesus saith unto them, Believe ye that I am able to do this? They said unto him, Yea, Lord.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "matthew-9-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "Then touched he their eyes, saying, According to your faith be it unto you.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "matthew-9-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And their eyes were opened; and Jesus straitly charged them, saying, See <span class=\"clarity-word\">that</span> no man know <span class=\"clarity-word\">it.</span>",
+      "churchId": "p30"
+    },
+    {
+      "slug": "matthew-9-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "But they, when they were departed, spread abroad his fame in all that country.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "matthew-9-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "¶ As they went out, behold, they brought to him a dumb man possessed with a devil.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "matthew-9-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "And when the devil was cast out, the dumb spake: and the multitudes marvelled, saying, It was never so seen in Israel.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "matthew-9-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "But the Pharisees said, He casteth out devils through the prince of the devils.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "matthew-9-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "And Jesus went about all the cities and villages, teaching in their synagogues, and preaching the gospel of the kingdom, and healing every sickness and every disease among the people.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "matthew-9-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "¶ But when he saw the multitudes, he was moved with compassion on them, because they fainted, and were scattered abroad, as sheep having no shepherd.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "matthew-9-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "Then saith he unto his disciples, The harvest truly <span class=\"clarity-word\">is</span> plenteous, but the labourers <span class=\"clarity-word\">are</span> few;",
+      "churchId": "p37"
+    },
+    {
+      "slug": "matthew-9-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "Pray ye therefore the Lord of the harvest, that he will send forth labourers into his harvest.",
+      "churchId": "p38"
+    }
+  ]
+}

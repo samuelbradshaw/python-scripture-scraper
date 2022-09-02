@@ -1,0 +1,407 @@
+{
+  "name": "Luke 8",
+  "abbrev": "Luke 8",
+  "number": "8",
+  "churchUri": "/scriptures/nt/luke/8",
+  "paragraphs": [
+    {
+      "slug": "luke-8-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 8",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "luke-8-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And it came to pass afterward, that he went throughout every city and village, preaching and shewing the glad tidings of the kingdom of God: and the twelve <span class=\"clarity-word\">were</span> with him,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "luke-8-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And certain women, which had been healed of evil spirits and infirmities, Mary called Magdalene, out of whom went seven devils,",
+      "churchId": "p2"
+    },
+    {
+      "slug": "luke-8-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And Joanna the wife of Chuza Herod’s steward, and Susanna, and many others, which ministered unto him of their substance.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "luke-8-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "¶ And when much people were gathered together, and were come to him out of every city, he spake by a parable:",
+      "churchId": "p4"
+    },
+    {
+      "slug": "luke-8-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "A sower went out to sow his seed: and as he sowed, some fell by the way side; and it was trodden down, and the fowls of the air devoured it.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "luke-8-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And some fell upon a rock; and as soon as it was sprung up, it withered away, because it lacked moisture.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "luke-8-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And some fell among thorns; and the thorns sprang up with it, and choked it.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "luke-8-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And other fell on good ground, and sprang up, and bare fruit an hundredfold. And when he had said these things, he cried, He that hath ears to hear, let him hear.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "luke-8-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And his disciples asked him, saying, What might this parable be?",
+      "churchId": "p9"
+    },
+    {
+      "slug": "luke-8-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And he said, Unto you it is given to know the mysteries of the kingdom of God: but to others in parables; that seeing they might not see, and hearing they might not understand.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "luke-8-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Now the parable is this: The seed is the word of God.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "luke-8-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Those by the way side are they that hear; then cometh the devil, and taketh away the word out of their hearts, lest they should believe and be saved.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "luke-8-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "They on the rock <span class=\"clarity-word\">are they,</span> which, when they hear, receive the word with joy; and these have no root, which for a while believe, and in time of temptation fall away.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "luke-8-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And that which fell among thorns are they, which, when they have heard, go forth, and are choked with cares and riches and pleasures of <span class=\"clarity-word\">this</span> life, and bring no fruit to perfection.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "luke-8-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "But that on the good ground are they, which in an honest and good heart, having heard the word, keep <span class=\"clarity-word\">it,</span> and bring forth fruit with patience.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "luke-8-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "¶ No man, when he hath lighted a candle, covereth it with a vessel, or putteth <span class=\"clarity-word\">it</span> under a bed; but setteth <span class=\"clarity-word\">it</span> on a candlestick, that they which enter in may see the light.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "luke-8-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "For nothing is secret, that shall not be made manifest; neither <span class=\"clarity-word\">any thing</span> hid, that shall not be known and come abroad.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "luke-8-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Take heed therefore how ye hear: for whosoever hath, to him shall be given; and whosoever hath not, from him shall be taken even that which he seemeth to have.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "luke-8-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "¶ Then came to him <span class=\"clarity-word\">his</span> mother and his brethren, and could not come at him for the press.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "luke-8-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And it was told him <span class=\"clarity-word\">by certain</span> which said, Thy mother and thy brethren stand without, desiring to see thee.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "luke-8-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And he answered and said unto them, My mother and my brethren are these which hear the word of God, and do it.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "luke-8-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "¶ Now it came to pass on a certain day, that he went into a ship with his disciples: and he said unto them, Let us go over unto the other side of the lake. And they launched forth.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "luke-8-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "But as they sailed he fell asleep: and there came down a storm of wind on the lake; and they were filled <span class=\"clarity-word\">with water,</span> and were in jeopardy.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "luke-8-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And they came to him, and awoke him, saying, Master, master, we perish. Then he arose, and rebuked the wind and the raging of the water: and they ceased, and there was a calm.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "luke-8-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And he said unto them, Where is your faith? And they being afraid wondered, saying one to another, What manner of man is this! for he commandeth even the winds and water, and they obey him.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "luke-8-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "¶ And they arrived at the country of the Gadarenes, which is over against Galilee.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "luke-8-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And when he went forth to land, there met him out of the city a certain man, which had devils long time, and ware no clothes, neither abode in <span class=\"clarity-word\">any</span> house, but in the tombs.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "luke-8-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "When he saw Jesus, he cried out, and fell down before him, and with a loud voice said, What have I to do with thee, Jesus, <span class=\"clarity-word\">thou</span> Son of God most high? I beseech thee, torment me not.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "luke-8-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "(For he had commanded the unclean spirit to come out of the man. For oftentimes it had caught him: and he was kept bound with chains and in fetters; and he brake the bands, and was driven of the devil into the wilderness.)",
+      "churchId": "p29"
+    },
+    {
+      "slug": "luke-8-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And Jesus asked him, saying, What is thy name? And he said, Legion: because many devils were entered into him.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "luke-8-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "And they besought him that he would not command them to go out into the deep.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "luke-8-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "And there was there an herd of many swine feeding on the mountain: and they besought him that he would suffer them to enter into them. And he suffered them.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "luke-8-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "Then went the devils out of the man, and entered into the swine: and the herd ran violently down a steep place into the lake, and were choked.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "luke-8-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "When they that fed <span class=\"clarity-word\">them</span> saw what was done, they fled, and went and told <span class=\"clarity-word\">it</span> in the city and in the country.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "luke-8-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "Then they went out to see what was done; and came to Jesus, and found the man, out of whom the devils were departed, sitting at the feet of Jesus, clothed, and in his right mind: and they were afraid.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "luke-8-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "They also which saw <span class=\"clarity-word\">it</span> told them by what means he that was possessed of the devils was healed.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "luke-8-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "¶ Then the whole multitude of the country of the Gadarenes round about besought him to depart from them; for they were taken with great fear: and he went up into the ship, and returned back again.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "luke-8-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "Now the man out of whom the devils were departed besought him that he might be with him: but Jesus sent him away, saying,",
+      "churchId": "p38"
+    },
+    {
+      "slug": "luke-8-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "Return to thine own house, and shew how great things God hath done unto thee. And he went his way, and published throughout the whole city how great things Jesus had done unto him.",
+      "churchId": "p39"
+    },
+    {
+      "slug": "luke-8-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "And it came to pass, that, when Jesus was returned, the people <span class=\"clarity-word\">gladly</span> received him: for they were all waiting for him.",
+      "churchId": "p40"
+    },
+    {
+      "slug": "luke-8-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "¶ And, behold, there came a man named Jairus, and he was a ruler of the synagogue: and he fell down at Jesus’ feet, and besought him that he would come into his house:",
+      "churchId": "p41"
+    },
+    {
+      "slug": "luke-8-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "For he had one only daughter, about twelve years of age, and she lay a dying. But as he went the people thronged him.",
+      "churchId": "p42"
+    },
+    {
+      "slug": "luke-8-p43",
+      "type": "verse",
+      "number": "43",
+      "content": "¶ And a woman having an issue of blood twelve years, which had spent all her living upon physicians, neither could be healed of any,",
+      "churchId": "p43"
+    },
+    {
+      "slug": "luke-8-p44",
+      "type": "verse",
+      "number": "44",
+      "content": "Came behind <span class=\"clarity-word\">him,</span> and touched the border of his garment: and immediately her issue of blood stanched.",
+      "churchId": "p44"
+    },
+    {
+      "slug": "luke-8-p45",
+      "type": "verse",
+      "number": "45",
+      "content": "And Jesus said, Who touched me? When all denied, Peter and they that were with him said, Master, the multitude throng thee and press <span class=\"clarity-word\">thee,</span> and sayest thou, Who touched me?",
+      "churchId": "p45"
+    },
+    {
+      "slug": "luke-8-p46",
+      "type": "verse",
+      "number": "46",
+      "content": "And Jesus said, Somebody hath touched me: for I perceive that virtue is gone out of me.",
+      "churchId": "p46"
+    },
+    {
+      "slug": "luke-8-p47",
+      "type": "verse",
+      "number": "47",
+      "content": "And when the woman saw that she was not hid, she came trembling, and falling down before him, she declared unto him before all the people for what cause she had touched him, and how she was healed immediately.",
+      "churchId": "p47"
+    },
+    {
+      "slug": "luke-8-p48",
+      "type": "verse",
+      "number": "48",
+      "content": "And he said unto her, Daughter, be of good comfort: thy faith hath made thee whole; go in peace.",
+      "churchId": "p48"
+    },
+    {
+      "slug": "luke-8-p49",
+      "type": "verse",
+      "number": "49",
+      "content": "¶ While he yet spake, there cometh one from the ruler of the synagogue’s <span class=\"clarity-word\">house,</span> saying to him, Thy daughter is dead; trouble not the Master.",
+      "churchId": "p49"
+    },
+    {
+      "slug": "luke-8-p50",
+      "type": "verse",
+      "number": "50",
+      "content": "But when Jesus heard <span class=\"clarity-word\">it,</span> he answered him, saying, Fear not: believe only, and she shall be made whole.",
+      "churchId": "p50"
+    },
+    {
+      "slug": "luke-8-p51",
+      "type": "verse",
+      "number": "51",
+      "content": "And when he came into the house, he suffered no man to go in, save Peter, and James, and John, and the father and the mother of the maiden.",
+      "churchId": "p51"
+    },
+    {
+      "slug": "luke-8-p52",
+      "type": "verse",
+      "number": "52",
+      "content": "And all wept, and bewailed her: but he said, Weep not; she is not dead, but sleepeth.",
+      "churchId": "p52"
+    },
+    {
+      "slug": "luke-8-p53",
+      "type": "verse",
+      "number": "53",
+      "content": "And they laughed him to scorn, knowing that she was dead.",
+      "churchId": "p53"
+    },
+    {
+      "slug": "luke-8-p54",
+      "type": "verse",
+      "number": "54",
+      "content": "And he put them all out, and took her by the hand, and called, saying, Maid, arise.",
+      "churchId": "p54"
+    },
+    {
+      "slug": "luke-8-p55",
+      "type": "verse",
+      "number": "55",
+      "content": "And her spirit came again, and she arose straightway: and he commanded to give her meat.",
+      "churchId": "p55"
+    },
+    {
+      "slug": "luke-8-p56",
+      "type": "verse",
+      "number": "56",
+      "content": "And her parents were astonished: but he charged them that they should tell no man what was done.",
+      "churchId": "p56"
+    }
+  ]
+}

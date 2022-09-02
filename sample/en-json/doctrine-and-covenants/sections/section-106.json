@@ -1,0 +1,71 @@
+{
+  "name": "Doctrine and Covenants 106",
+  "abbrev": "D&C 106",
+  "number": "106",
+  "churchUri": "/scriptures/dc-testament/dc/106",
+  "paragraphs": [
+    {
+      "slug": "section-106-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Section 106",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "section-106-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "It is my will that my servant Warren A. Cowdery should be appointed and ordained a presiding high priest over my church, in the land of Freedom and the regions round about;",
+      "churchId": "p1"
+    },
+    {
+      "slug": "section-106-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And should preach my everlasting gospel, and lift up his voice and warn the people, not only in his own place, but in the adjoining counties;",
+      "churchId": "p2"
+    },
+    {
+      "slug": "section-106-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And devote his whole time to this high and holy calling, which I now give unto him, seeking diligently the kingdom of heaven and its righteousness, and all things necessary shall be added thereunto; for the laborer is worthy of his hire.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "section-106-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And again, verily I say unto you, the coming of the Lord draweth nigh, and it overtaketh the world as a thief in the night—",
+      "churchId": "p4"
+    },
+    {
+      "slug": "section-106-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Therefore, gird up your loins, that you may be the children of light, and that day shall not overtake you as a thief.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "section-106-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And again, verily I say unto you, there was joy in heaven when my servant Warren bowed to my scepter, and separated himself from the crafts of men;",
+      "churchId": "p6"
+    },
+    {
+      "slug": "section-106-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Therefore, blessed is my servant Warren, for I will have mercy on him; and, notwithstanding the vanity of his heart, I will lift him up inasmuch as he will humble himself before me.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "section-106-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And I will give him grace and assurance wherewith he may stand; and if he continue to be a faithful witness and a light unto the church I have prepared a crown for him in the mansions of my Father. Even so. Amen.",
+      "churchId": "p8"
+    }
+  ]
+}

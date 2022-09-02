@@ -1,0 +1,120 @@
+{
+  "name": "Titus 2",
+  "abbrev": "Titus 2",
+  "number": "2",
+  "churchUri": "/scriptures/nt/titus/2",
+  "paragraphs": [
+    {
+      "slug": "titus-2-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 2",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "titus-2-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "But speak thou the things which become sound doctrine:",
+      "churchId": "p1"
+    },
+    {
+      "slug": "titus-2-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "That the aged men be sober, grave, temperate, sound in faith, in charity, in patience.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "titus-2-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "The aged women likewise, that <span class=\"clarity-word\">they be</span> in behaviour as becometh holiness, not false accusers, not given to much wine, teachers of good things;",
+      "churchId": "p3"
+    },
+    {
+      "slug": "titus-2-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "That they may teach the young women to be sober, to love their husbands, to love their children,",
+      "churchId": "p4"
+    },
+    {
+      "slug": "titus-2-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "<span class=\"clarity-word\">To be</span> discreet, chaste, keepers at home, good, obedient to their own husbands, that the word of God be not blasphemed.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "titus-2-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Young men likewise exhort to be sober minded.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "titus-2-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "In all things shewing thyself a pattern of good works: in doctrine <span class=\"clarity-word\">shewing</span> uncorruptness, gravity, sincerity,",
+      "churchId": "p7"
+    },
+    {
+      "slug": "titus-2-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Sound speech, that cannot be condemned; that he that is of the contrary part may be ashamed, having no evil thing to say of you.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "titus-2-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "<span class=\"clarity-word\">Exhort</span> servants to be obedient unto their own masters, <span class=\"clarity-word\">and</span> to please <span class=\"clarity-word\">them</span> well in all <span class=\"clarity-word\">things;</span> not answering again;",
+      "churchId": "p9"
+    },
+    {
+      "slug": "titus-2-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Not purloining, but shewing all good fidelity; that they may adorn the doctrine of God our Saviour in all things.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "titus-2-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "For the grace of God that bringeth salvation hath appeared to all men,",
+      "churchId": "p11"
+    },
+    {
+      "slug": "titus-2-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Teaching us that, denying ungodliness and worldly lusts, we should live soberly, righteously, and godly, in this present world;",
+      "churchId": "p12"
+    },
+    {
+      "slug": "titus-2-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Looking for that blessed hope, and the glorious appearing of the great God and our Saviour Jesus Christ;",
+      "churchId": "p13"
+    },
+    {
+      "slug": "titus-2-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Who gave himself for us, that he might redeem us from all iniquity, and purify unto himself a peculiar people, zealous of good works.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "titus-2-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "These things speak, and exhort, and rebuke with all authority. Let no man despise thee.",
+      "churchId": "p15"
+    }
+  ]
+}

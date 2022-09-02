@@ -1,0 +1,246 @@
+{
+  "name": "Leviticus 15",
+  "abbrev": "Lev. 15",
+  "number": "15",
+  "churchUri": "/scriptures/ot/lev/15",
+  "paragraphs": [
+    {
+      "slug": "leviticus-15-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 15",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "leviticus-15-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And the <span class=\"small-caps\">Lord</span> spake unto Moses and to Aaron, saying,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "leviticus-15-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Speak unto the children of Israel, and say unto them, When any man hath a running issue out of his flesh, <span class=\"clarity-word\">because of</span> his issue he <span class=\"clarity-word\">is</span> unclean.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "leviticus-15-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And this shall be his uncleanness in his issue: whether his flesh run with his issue, or his flesh be stopped from his issue, it <span class=\"clarity-word\">is</span> his uncleanness.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "leviticus-15-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Every bed, whereon he lieth that hath the issue, is unclean: and every thing, whereon he sitteth, shall be unclean.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "leviticus-15-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And whosoever toucheth his bed shall wash his clothes, and bathe <span class=\"clarity-word\">himself</span> in water, and be unclean until the even.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "leviticus-15-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And he that sitteth on <span class=\"clarity-word\">any</span> thing whereon he sat that hath the issue shall wash his clothes, and bathe <span class=\"clarity-word\">himself</span> in water, and be unclean until the even.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "leviticus-15-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And he that toucheth the flesh of him that hath the issue shall wash his clothes, and bathe <span class=\"clarity-word\">himself</span> in water, and be unclean until the even.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "leviticus-15-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And if he that hath the issue spit upon him that is clean; then he shall wash his clothes, and bathe <span class=\"clarity-word\">himself</span> in water, and be unclean until the even.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "leviticus-15-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And what saddle soever he rideth upon that hath the issue shall be unclean.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "leviticus-15-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And whosoever toucheth any thing that was under him shall be unclean until the even: and he that beareth <span class=\"clarity-word\">any of</span> those things shall wash his clothes, and bathe <span class=\"clarity-word\">himself</span> in water, and be unclean until the even.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "leviticus-15-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And whomsoever he toucheth that hath the issue, and hath not rinsed his hands in water, he shall wash his clothes, and bathe <span class=\"clarity-word\">himself</span> in water, and be unclean until the even.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "leviticus-15-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And the vessel of earth, that he toucheth which hath the issue, shall be broken: and every vessel of wood shall be rinsed in water.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "leviticus-15-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And when he that hath an issue is cleansed of his issue; then he shall number to himself seven days for his cleansing, and wash his clothes, and bathe his flesh in running water, and shall be clean.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "leviticus-15-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And on the eighth day he shall take to him two turtledoves, or two young pigeons, and come before the <span class=\"small-caps\">Lord</span> unto the door of the tabernacle of the congregation, and give them unto the priest:",
+      "churchId": "p14"
+    },
+    {
+      "slug": "leviticus-15-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And the priest shall offer them, the one <span class=\"clarity-word\">for</span> a sin offering, and the other <span class=\"clarity-word\">for</span> a burnt offering; and the priest shall make an atonement for him before the <span class=\"small-caps\">Lord</span> for his issue.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "leviticus-15-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And if any man’s seed of copulation go out from him, then he shall wash all his flesh in water, and be unclean until the even.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "leviticus-15-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And every garment, and every skin, whereon is the seed of copulation, shall be washed with water, and be unclean until the even.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "leviticus-15-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "The woman also with whom man shall lie <span class=\"clarity-word\">with</span> seed of copulation, they shall <span class=\"clarity-word\">both</span> bathe <span class=\"clarity-word\">themselves</span> in water, and be unclean until the even.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "leviticus-15-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "¶ And if a woman have an issue, <span class=\"clarity-word\">and</span> her issue in her flesh be blood, she shall be put apart seven days: and whosoever toucheth her shall be unclean until the even.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "leviticus-15-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And every thing that she lieth upon in her separation shall be unclean: every thing also that she sitteth upon shall be unclean.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "leviticus-15-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And whosoever toucheth her bed shall wash his clothes, and bathe <span class=\"clarity-word\">himself</span> in water, and be unclean until the even.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "leviticus-15-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And whosoever toucheth any thing that she sat upon shall wash his clothes, and bathe <span class=\"clarity-word\">himself</span> in water, and be unclean until the even.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "leviticus-15-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And if it <span class=\"clarity-word\">be</span> on <span class=\"clarity-word\">her</span> bed, or on any thing whereon she sitteth, when he toucheth it, he shall be unclean until the even.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "leviticus-15-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And if any man lie with her at all, and her flowers be upon him, he shall be unclean seven days; and all the bed whereon he lieth shall be unclean.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "leviticus-15-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And if a woman have an issue of her blood many days out of the time of her separation, or if it run beyond the time of her separation; all the days of the issue of her uncleanness shall be as the days of her separation: she <span class=\"clarity-word\">shall be</span> unclean.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "leviticus-15-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "Every bed whereon she lieth all the days of her issue shall be unto her as the bed of her separation: and whatsoever she sitteth upon shall be unclean, as the uncleanness of her separation.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "leviticus-15-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And whosoever toucheth those things shall be unclean, and shall wash his clothes, and bathe <span class=\"clarity-word\">himself</span> in water, and be unclean until the even.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "leviticus-15-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "But if she be cleansed of her issue, then she shall number to herself seven days, and after that she shall be clean.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "leviticus-15-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "And on the eighth day she shall take unto her two turtles, or two young pigeons, and bring them unto the priest, to the door of the tabernacle of the congregation.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "leviticus-15-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And the priest shall offer the one <span class=\"clarity-word\">for</span> a sin offering, and the other <span class=\"clarity-word\">for</span> a burnt offering; and the priest shall make an atonement for her before the <span class=\"small-caps\">Lord</span> for the issue of her uncleanness.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "leviticus-15-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "Thus shall ye separate the children of Israel from their uncleanness; that they die not in their uncleanness, when they defile my tabernacle that <span class=\"clarity-word\">is</span> among them.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "leviticus-15-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "This <span class=\"clarity-word\">is</span> the law of him that hath an issue, and <span class=\"clarity-word\">of him</span> whose seed goeth from him, and is defiled therewith;",
+      "churchId": "p32"
+    },
+    {
+      "slug": "leviticus-15-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "And of her that is sick of her flowers, and of him that hath an issue, of the man, and of the woman, and of him that lieth with her that is unclean.",
+      "churchId": "p33"
+    }
+  ]
+}

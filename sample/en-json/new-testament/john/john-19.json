@@ -1,0 +1,309 @@
+{
+  "name": "John 19",
+  "abbrev": "John 19",
+  "number": "19",
+  "churchUri": "/scriptures/nt/john/19",
+  "paragraphs": [
+    {
+      "slug": "john-19-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 19",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "john-19-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Then Pilate therefore took Jesus, and scourged <span class=\"clarity-word\">him.</span>",
+      "churchId": "p1"
+    },
+    {
+      "slug": "john-19-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And the soldiers plaited a crown of thorns, and put <span class=\"clarity-word\">it</span> on his head, and they put on him a purple robe,",
+      "churchId": "p2"
+    },
+    {
+      "slug": "john-19-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And said, Hail, King of the Jews! and they smote him with their hands.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "john-19-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Pilate therefore went forth again, and saith unto them, Behold, I bring him forth to you, that ye may know that I find no fault in him.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "john-19-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Then came Jesus forth, wearing the crown of thorns, and the purple robe. And <span class=\"clarity-word\">Pilate</span> saith unto them, Behold the man!",
+      "churchId": "p5"
+    },
+    {
+      "slug": "john-19-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "When the chief priests therefore and officers saw him, they cried out, saying, Crucify <span class=\"clarity-word\">him,</span> crucify <span class=\"clarity-word\">him.</span> Pilate saith unto them, Take ye him, and crucify <span class=\"clarity-word\">him:</span> for I find no fault in him.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "john-19-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "The Jews answered him, We have a law, and by our law he ought to die, because he made himself the Son of God.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "john-19-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "¶ When Pilate therefore heard that saying, he was the more afraid;",
+      "churchId": "p8"
+    },
+    {
+      "slug": "john-19-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And went again into the judgment hall, and saith unto Jesus, Whence art thou? But Jesus gave him no answer.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "john-19-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Then saith Pilate unto him, Speakest thou not unto me? knowest thou not that I have power to crucify thee, and have power to release thee?",
+      "churchId": "p10"
+    },
+    {
+      "slug": "john-19-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Jesus answered, Thou couldest have no power <span class=\"clarity-word\">at all</span> against me, except it were given thee from above: therefore he that delivered me unto thee hath the greater sin.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "john-19-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And from thenceforth Pilate sought to release him: but the Jews cried out, saying, If thou let this man go, thou art not Cæsar’s friend: whosoever maketh himself a king speaketh against Cæsar.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "john-19-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "¶ When Pilate therefore heard that saying, he brought Jesus forth, and sat down in the judgment seat in a place that is called the Pavement, but in the Hebrew, Gabbatha.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "john-19-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And it was the preparation of the passover, and about the sixth hour: and he saith unto the Jews, Behold your King!",
+      "churchId": "p14"
+    },
+    {
+      "slug": "john-19-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "But they cried out, Away with <span class=\"clarity-word\">him,</span> away with <span class=\"clarity-word\">him,</span> crucify him. Pilate saith unto them, Shall I crucify your King? The chief priests answered, We have no king but Cæsar.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "john-19-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Then delivered he him therefore unto them to be crucified. And they took Jesus, and led <span class=\"clarity-word\">him</span> away.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "john-19-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And he bearing his cross went forth into a place called <span class=\"clarity-word\">the place</span> of a skull, which is called in the Hebrew Golgotha:",
+      "churchId": "p17"
+    },
+    {
+      "slug": "john-19-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Where they crucified him, and two other with him, on either side one, and Jesus in the midst.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "john-19-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "¶ And Pilate wrote a title, and put <span class=\"clarity-word\">it</span> on the cross. And the writing was, <span class=\"uppercase\">Jesus of Nazareth the King of the Jews</span>.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "john-19-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "This title then read many of the Jews: for the place where Jesus was crucified was nigh to the city: and it was written in Hebrew, <span class=\"clarity-word\">and</span> Greek, <span class=\"clarity-word\">and</span> Latin.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "john-19-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Then said the chief priests of the Jews to Pilate, Write not, The King of the Jews; but that he said, I am King of the Jews.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "john-19-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Pilate answered, What I have written I have written.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "john-19-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "¶ Then the soldiers, when they had crucified Jesus, took his garments, and made four parts, to every soldier a part; and also <span class=\"clarity-word\">his</span> coat: now the coat was without seam, woven from the top throughout.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "john-19-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "They said therefore among themselves, Let us not rend it, but cast lots for it, whose it shall be: that the scripture might be fulfilled, which saith, They parted my raiment among them, and for my vesture they did cast lots. These things therefore the soldiers did.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "john-19-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "¶ Now there stood by the cross of Jesus his mother, and his mother’s sister, Mary the <span class=\"clarity-word\">wife</span> of Cleophas, and Mary Magdalene.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "john-19-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "When Jesus therefore saw his mother, and the disciple standing by, whom he loved, he saith unto his mother, Woman, behold thy son!",
+      "churchId": "p26"
+    },
+    {
+      "slug": "john-19-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "Then saith he to the disciple, Behold thy mother! And from that hour that disciple took her unto his own <span class=\"clarity-word\">home.</span>",
+      "churchId": "p27"
+    },
+    {
+      "slug": "john-19-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "¶ After this, Jesus knowing that all things were now accomplished, that the scripture might be fulfilled, saith, I thirst.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "john-19-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "Now there was set a vessel full of vinegar: and they filled a sponge with vinegar, and put <span class=\"clarity-word\">it</span> upon hyssop, and put <span class=\"clarity-word\">it</span> to his mouth.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "john-19-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up the ghost.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "john-19-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "The Jews therefore, because it was the preparation, that the bodies should not remain upon the cross on the sabbath day, (for that sabbath day was an high day,) besought Pilate that their legs might be broken, and <span class=\"clarity-word\">that</span> they might be taken away.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "john-19-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "Then came the soldiers, and brake the legs of the first, and of the other which was crucified with him.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "john-19-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "But when they came to Jesus, and saw that he was dead already, they brake not his legs:",
+      "churchId": "p33"
+    },
+    {
+      "slug": "john-19-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "But one of the soldiers with a spear pierced his side, and forthwith came there out blood and water.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "john-19-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "And he that saw <span class=\"clarity-word\">it</span> bare record, and his record is true: and he knoweth that he saith true, that ye might believe.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "john-19-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "For these things were done, that the scripture should be fulfilled, A bone of him shall not be broken.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "john-19-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "And again another scripture saith, They shall look on him whom they pierced.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "john-19-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "¶ And after this Joseph of Arimathæa, being a disciple of Jesus, but secretly for fear of the Jews, besought Pilate that he might take away the body of Jesus: and Pilate gave <span class=\"clarity-word\">him</span> leave. He came therefore, and took the body of Jesus.",
+      "churchId": "p38"
+    },
+    {
+      "slug": "john-19-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "And there came also Nicodemus, which at the first came to Jesus by night, and brought a mixture of myrrh and aloes, about an hundred pound <span class=\"clarity-word\">weight.</span>",
+      "churchId": "p39"
+    },
+    {
+      "slug": "john-19-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "Then took they the body of Jesus, and wound it in linen clothes with the spices, as the manner of the Jews is to bury.",
+      "churchId": "p40"
+    },
+    {
+      "slug": "john-19-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "Now in the place where he was crucified there was a garden; and in the garden a new sepulchre, wherein was never man yet laid.",
+      "churchId": "p41"
+    },
+    {
+      "slug": "john-19-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "There laid they Jesus therefore because of the Jews’ preparation <span class=\"clarity-word\">day</span><span class=\"clarity-word\">;</span> for the sepulchre was nigh at hand.",
+      "churchId": "p42"
+    }
+  ]
+}

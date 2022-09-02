@@ -1,0 +1,57 @@
+{
+  "name": "3 Nephi 25",
+  "abbrev": "3 Ne. 25",
+  "number": "25",
+  "churchUri": "/scriptures/bofm/3-ne/25",
+  "paragraphs": [
+    {
+      "slug": "3-nephi-25-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 25",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "3-nephi-25-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "For behold, the day cometh that shall burn as an oven; and all the proud, yea, and all that do wickedly, shall be stubble; and the day that cometh shall burn them up, saith the Lord of Hosts, that it shall leave them neither root nor branch.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "3-nephi-25-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "But unto you that fear my name, shall the Son of Righteousness arise with healing in his wings; and ye shall go forth and grow up as calves in the stall.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "3-nephi-25-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And ye shall tread down the wicked; for they shall be ashes under the soles of your feet in the day that I shall do this, saith the Lord of Hosts.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "3-nephi-25-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Remember ye the law of Moses, my servant, which I commanded unto him in Horeb for all Israel, with the statutes and judgments.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "3-nephi-25-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Behold, I will send you Elijah the prophet before the coming of the great and dreadful day of the Lord;",
+      "churchId": "p5"
+    },
+    {
+      "slug": "3-nephi-25-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And he shall turn the heart of the fathers to the children, and the heart of the children to their fathers, lest I come and smite the earth with a curse.",
+      "churchId": "p6"
+    }
+  ]
+}

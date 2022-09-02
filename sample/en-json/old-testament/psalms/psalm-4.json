@@ -1,0 +1,78 @@
+{
+  "name": "Psalm 4",
+  "abbrev": "Psalm 4",
+  "number": "4",
+  "churchUri": "/scriptures/ot/ps/4",
+  "paragraphs": [
+    {
+      "slug": "psalm-4-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 4",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-4-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "To the chief Musician on Neginoth, A Psalm of David.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-4-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Hear me when I call, O God of my righteousness: thou hast enlarged me <span class=\"clarity-word\">when I was</span> in distress; have mercy upon me, and hear my prayer.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-4-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "O ye sons of men, how long <span class=\"clarity-word\">will ye turn</span> my glory into shame? <span class=\"clarity-word\">how long</span> will ye love vanity, <span class=\"clarity-word\">and</span> seek after leasing? Selah.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-4-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "But know that the <span class=\"small-caps\">Lord</span> hath set apart him that is godly for himself: the <span class=\"small-caps\">Lord</span> will hear when I call unto him.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-4-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Stand in awe, and sin not: commune with your own heart upon your bed, and be still. Selah.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-4-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Offer the sacrifices of righteousness, and put your trust in the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-4-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "<span class=\"clarity-word\">There be</span> many that say, Who will shew us <span class=\"clarity-word\">any</span> good? <span class=\"small-caps\">Lord</span>, lift thou up the light of thy countenance upon us.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-4-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Thou hast put gladness in my heart, more than in the time <span class=\"clarity-word\">that</span> their corn and their wine increased.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-4-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "I will both lay me down in peace, and sleep: for thou, <span class=\"small-caps\">Lord</span>, only makest me dwell in safety.",
+      "churchId": "p8"
+    }
+  ]
+}

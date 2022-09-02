@@ -1,0 +1,232 @@
+{
+  "name": "Genesis 34",
+  "abbrev": "Gen. 34",
+  "number": "34",
+  "churchUri": "/scriptures/ot/gen/34",
+  "paragraphs": [
+    {
+      "slug": "genesis-34-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 34",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "genesis-34-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And Dinah the daughter of Leah, which she bare unto Jacob, went out to see the daughters of the land.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "genesis-34-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And when Shechem the son of Hamor the Hivite, prince of the country, saw her, he took her, and lay with her, and defiled her.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "genesis-34-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And his soul clave unto Dinah the daughter of Jacob, and he loved the damsel, and spake kindly unto the damsel.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "genesis-34-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And Shechem spake unto his father Hamor, saying, Get me this damsel to wife.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "genesis-34-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And Jacob heard that he had defiled Dinah his daughter: now his sons were with his cattle in the field: and Jacob held his peace until they were come.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "genesis-34-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "¶ And Hamor the father of Shechem went out unto Jacob to commune with him.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "genesis-34-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And the sons of Jacob came out of the field when they heard <span class=\"clarity-word\">it:</span> and the men were grieved, and they were very wroth, because he had wrought folly in Israel in lying with Jacob’s daughter; which thing ought not to be done.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "genesis-34-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And Hamor communed with them, saying, The soul of my son Shechem longeth for your daughter: I pray you give her him to wife.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "genesis-34-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And make ye marriages with us, <span class=\"clarity-word\">and</span> give your daughters unto us, and take our daughters unto you.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "genesis-34-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And ye shall dwell with us: and the land shall be before you; dwell and trade ye therein, and get you possessions therein.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "genesis-34-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And Shechem said unto her father and unto her brethren, Let me find grace in your eyes, and what ye shall say unto me I will give.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "genesis-34-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Ask me never so much dowry and gift, and I will give according as ye shall say unto me: but give me the damsel to wife.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "genesis-34-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And the sons of Jacob answered Shechem and Hamor his father deceitfully, and said, because he had defiled Dinah their sister:",
+      "churchId": "p13"
+    },
+    {
+      "slug": "genesis-34-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And they said unto them, We cannot do this thing, to give our sister to one that is uncircumcised; for that <span class=\"clarity-word\">were</span> a reproach unto us:",
+      "churchId": "p14"
+    },
+    {
+      "slug": "genesis-34-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "But in this will we consent unto you: If ye will be as we <span class=\"clarity-word\">be,</span> that every male of you be circumcised;",
+      "churchId": "p15"
+    },
+    {
+      "slug": "genesis-34-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Then will we give our daughters unto you, and we will take your daughters to us, and we will dwell with you, and we will become one people.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "genesis-34-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "But if ye will not hearken unto us, to be circumcised; then will we take our daughter, and we will be gone.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "genesis-34-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And their words pleased Hamor, and Shechem Hamor’s son.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "genesis-34-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And the young man deferred not to do the thing, because he had delight in Jacob’s daughter: and he <span class=\"clarity-word\">was</span> more honourable than all the house of his father.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "genesis-34-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "¶ And Hamor and Shechem his son came unto the gate of their city, and communed with the men of their city, saying,",
+      "churchId": "p20"
+    },
+    {
+      "slug": "genesis-34-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "These men <span class=\"clarity-word\">are</span> peaceable with us; therefore let them dwell in the land, and trade therein; for the land, behold, <span class=\"clarity-word\">it is</span> large enough for them; let us take their daughters to us for wives, and let us give them our daughters.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "genesis-34-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Only herein will the men consent unto us for to dwell with us, to be one people, if every male among us be circumcised, as they <span class=\"clarity-word\">are</span> circumcised.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "genesis-34-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "<span class=\"clarity-word\">Shall</span> not their cattle and their substance and every beast of theirs <span class=\"clarity-word\">be</span> ours? only let us consent unto them, and they will dwell with us.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "genesis-34-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And unto Hamor and unto Shechem his son hearkened all that went out of the gate of his city; and every male was circumcised, all that went out of the gate of his city.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "genesis-34-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "¶ And it came to pass on the third day, when they were sore, that two of the sons of Jacob, Simeon and Levi, Dinah’s brethren, took each man his sword, and came upon the city boldly, and slew all the males.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "genesis-34-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And they slew Hamor and Shechem his son with the edge of the sword, and took Dinah out of Shechem’s house, and went out.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "genesis-34-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "The sons of Jacob came upon the slain, and spoiled the city, because they had defiled their sister.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "genesis-34-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "They took their sheep, and their oxen, and their asses, and that which <span class=\"clarity-word\">was</span> in the city, and that which <span class=\"clarity-word\">was</span> in the field,",
+      "churchId": "p28"
+    },
+    {
+      "slug": "genesis-34-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "And all their wealth, and all their little ones, and their wives took they captive, and spoiled even all that <span class=\"clarity-word\">was</span> in the house.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "genesis-34-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And Jacob said to Simeon and Levi, Ye have troubled me to make me to stink among the inhabitants of the land, among the Canaanites and the Perizzites: and I <span class=\"clarity-word\">being</span> few in number, they shall gather themselves together against me, and slay me; and I shall be destroyed, I and my house.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "genesis-34-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "And they said, Should he deal with our sister as with an harlot?",
+      "churchId": "p31"
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "name": "Doctrine and Covenants 46",
+  "abbrev": "D&C 46",
+  "number": "46",
+  "churchUri": "/scriptures/dc-testament/dc/46",
+  "paragraphs": [
+    {
+      "slug": "section-46-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Section 46",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "section-46-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Hearken, O ye people of my church; for verily I say unto you that these things were spoken unto you for your profit and learning.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "section-46-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "But notwithstanding those things which are written, it always has been given to the elders of my church from the beginning, and ever shall be, to conduct all meetings as they are directed and guided by the Holy Spirit.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "section-46-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Nevertheless ye are commanded never to cast any one out from your public meetings, which are held before the world.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "section-46-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Ye are also commanded not to cast any one who belongeth to the church out of your sacrament meetings; nevertheless, if any have trespassed, let him not partake until he makes reconciliation.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "section-46-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And again I say unto you, ye shall not cast any out of your sacrament meetings who are earnestly seeking the kingdom—I speak this concerning those who are not of the church.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "section-46-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And again I say unto you, concerning your confirmation meetings, that if there be any that are not of the church, that are earnestly seeking after the kingdom, ye shall not cast them out.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "section-46-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "But ye are commanded in all things to ask of God, who giveth liberally; and that which the Spirit testifies unto you even so I would that ye should do in all holiness of heart, walking uprightly before me, considering the end of your salvation, doing all things with prayer and thanksgiving, that ye may not be seduced by evil spirits, or doctrines of devils, or the commandments of men; for some are of men, and others of devils.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "section-46-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Wherefore, beware lest ye are deceived; and that ye may not be deceived seek ye earnestly the best gifts, always remembering for what they are given;",
+      "churchId": "p8"
+    },
+    {
+      "slug": "section-46-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "For verily I say unto you, they are given for the benefit of those who love me and keep all my commandments, and him that seeketh so to do; that all may be benefited that seek or that ask of me, that ask and not for a sign that they may consume it upon their lusts.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "section-46-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And again, verily I say unto you, I would that ye should always remember, and always retain in your minds what those gifts are, that are given unto the church.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "section-46-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "For all have not every gift given unto them; for there are many gifts, and to every man is given a gift by the Spirit of God.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "section-46-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "To some is given one, and to some is given another, that all may be profited thereby.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "section-46-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "To some it is given by the Holy Ghost to know that Jesus Christ is the Son of God, and that he was crucified for the sins of the world.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "section-46-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "To others it is given to believe on their words, that they also might have eternal life if they continue faithful.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "section-46-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And again, to some it is given by the Holy Ghost to know the differences of administration, as it will be pleasing unto the same Lord, according as the Lord will, suiting his mercies according to the conditions of the children of men.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "section-46-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And again, it is given by the Holy Ghost to some to know the diversities of operations, whether they be of God, that the manifestations of the Spirit may be given to every man to profit withal.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "section-46-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And again, verily I say unto you, to some is given, by the Spirit of God, the word of wisdom.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "section-46-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "To another is given the word of knowledge, that all may be taught to be wise and to have knowledge.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "section-46-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And again, to some it is given to have faith to be healed;",
+      "churchId": "p19"
+    },
+    {
+      "slug": "section-46-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And to others it is given to have faith to heal.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "section-46-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And again, to some is given the working of miracles;",
+      "churchId": "p21"
+    },
+    {
+      "slug": "section-46-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And to others it is given to prophesy;",
+      "churchId": "p22"
+    },
+    {
+      "slug": "section-46-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And to others the discerning of spirits.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "section-46-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And again, it is given to some to speak with tongues;",
+      "churchId": "p24"
+    },
+    {
+      "slug": "section-46-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And to another is given the interpretation of tongues.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "section-46-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And all these gifts come from God, for the benefit of the children of God.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "section-46-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And unto the bishop of the church, and unto such as God shall appoint and ordain to watch over the church and to be elders unto the church, are to have it given unto them to discern all those gifts lest there shall be any among you professing and yet be not of God.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "section-46-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And it shall come to pass that he that asketh in Spirit shall receive in Spirit;",
+      "churchId": "p28"
+    },
+    {
+      "slug": "section-46-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "That unto some it may be given to have all those gifts, that there may be a head, in order that every member may be profited thereby.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "section-46-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "He that asketh in the Spirit asketh according to the will of God; wherefore it is done even as he asketh.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "section-46-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "And again, I say unto you, all things must be done in the name of Christ, whatsoever you do in the Spirit;",
+      "churchId": "p31"
+    },
+    {
+      "slug": "section-46-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "And ye must give thanks unto God in the Spirit for whatsoever blessing ye are blessed with.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "section-46-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "And ye must practice virtue and holiness before me continually. Even so. Amen.",
+      "churchId": "p33"
+    }
+  ]
+}

@@ -1,0 +1,309 @@
+{
+  "name": "Luke 10",
+  "abbrev": "Luke 10",
+  "number": "10",
+  "churchUri": "/scriptures/nt/luke/10",
+  "paragraphs": [
+    {
+      "slug": "luke-10-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 10",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "luke-10-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "After these things the Lord appointed other seventy also, and sent them two and two before his face into every city and place, whither he himself would come.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "luke-10-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Therefore said he unto them, The harvest truly <span class=\"clarity-word\">is</span> great, but the labourers <span class=\"clarity-word\">are</span> few: pray ye therefore the Lord of the harvest, that he would send forth labourers into his harvest.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "luke-10-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Go your ways: behold, I send you forth as lambs among wolves.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "luke-10-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Carry neither purse, nor scrip, nor shoes: and salute no man by the way.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "luke-10-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And into whatsoever house ye enter, first say, Peace <span class=\"clarity-word\">be</span> to this house.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "luke-10-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And if the son of peace be there, your peace shall rest upon it: if not, it shall turn to you again.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "luke-10-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And in the same house remain, eating and drinking such things as they give: for the labourer is worthy of his hire. Go not from house to house.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "luke-10-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And into whatsoever city ye enter, and they receive you, eat such things as are set before you:",
+      "churchId": "p8"
+    },
+    {
+      "slug": "luke-10-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And heal the sick that are therein, and say unto them, The kingdom of God is come nigh unto you.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "luke-10-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "But into whatsoever city ye enter, and they receive you not, go your ways out into the streets of the same, and say,",
+      "churchId": "p10"
+    },
+    {
+      "slug": "luke-10-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Even the very dust of your city, which cleaveth on us, we do wipe off against you: notwithstanding be ye sure of this, that the kingdom of God is come nigh unto you.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "luke-10-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "But I say unto you, that it shall be more tolerable in that day for Sodom, than for that city.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "luke-10-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Woe unto thee, Chorazin! woe unto thee, Bethsaida! for if the mighty works had been done in Tyre and Sidon, which have been done in you, they had a great while ago repented, sitting in sackcloth and ashes.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "luke-10-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "But it shall be more tolerable for Tyre and Sidon at the judgment, than for you.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "luke-10-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And thou, Capernaum, which art exalted to heaven, shalt be thrust down to hell.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "luke-10-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "He that heareth you heareth me; and he that despiseth you despiseth me; and he that despiseth me despiseth him that sent me.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "luke-10-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "¶ And the seventy returned again with joy, saying, Lord, even the devils are subject unto us through thy name.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "luke-10-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And he said unto them, I beheld Satan as lightning fall from heaven.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "luke-10-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Behold, I give unto you power to tread on serpents and scorpions, and over all the power of the enemy: and nothing shall by any means hurt you.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "luke-10-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Notwithstanding in this rejoice not, that the spirits are subject unto you; but rather rejoice, because your names are written in heaven.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "luke-10-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "¶ In that hour Jesus rejoiced in spirit, and said, I thank thee, O Father, Lord of heaven and earth, that thou hast hid these things from the wise and prudent, and hast revealed them unto babes: even so, Father; for so it seemed good in thy sight.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "luke-10-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "All things are delivered to me of my Father: and no man knoweth who the Son is, but the Father; and who the Father is, but the Son, and <span class=\"clarity-word\">he</span> to whom the Son will reveal <span class=\"clarity-word\">him.</span>",
+      "churchId": "p22"
+    },
+    {
+      "slug": "luke-10-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "¶ And he turned him unto <span class=\"clarity-word\">his</span> disciples, and said privately, Blessed <span class=\"clarity-word\">are</span> the eyes which see the things that ye see:",
+      "churchId": "p23"
+    },
+    {
+      "slug": "luke-10-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "For I tell you, that many prophets and kings have desired to see those things which ye see, and have not seen <span class=\"clarity-word\">them;</span> and to hear those things which ye hear, and have not heard <span class=\"clarity-word\">them.</span>",
+      "churchId": "p24"
+    },
+    {
+      "slug": "luke-10-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "¶ And, behold, a certain lawyer stood up, and tempted him, saying, Master, what shall I do to inherit eternal life?",
+      "churchId": "p25"
+    },
+    {
+      "slug": "luke-10-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "He said unto him, What is written in the law? how readest thou?",
+      "churchId": "p26"
+    },
+    {
+      "slug": "luke-10-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And he answering said, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy strength, and with all thy mind; and thy neighbour as thyself.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "luke-10-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And he said unto him, Thou hast answered right: this do, and thou shalt live.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "luke-10-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "But he, willing to justify himself, said unto Jesus, And who is my neighbour?",
+      "churchId": "p29"
+    },
+    {
+      "slug": "luke-10-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And Jesus answering said, A certain <span class=\"clarity-word\">man</span> went down from Jerusalem to Jericho, and fell among thieves, which stripped him of his raiment, and wounded <span class=\"clarity-word\">him,</span> and departed, leaving <span class=\"clarity-word\">him</span> half dead.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "luke-10-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "And by chance there came down a certain priest that way: and when he saw him, he passed by on the other side.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "luke-10-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "And likewise a Levite, when he was at the place, came and looked <span class=\"clarity-word\">on him,</span> and passed by on the other side.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "luke-10-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "But a certain Samaritan, as he journeyed, came where he was: and when he saw him, he had compassion <span class=\"clarity-word\">on him,</span>",
+      "churchId": "p33"
+    },
+    {
+      "slug": "luke-10-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "And went to <span class=\"clarity-word\">him,</span> and bound up his wounds, pouring in oil and wine, and set him on his own beast, and brought him to an inn, and took care of him.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "luke-10-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "And on the morrow when he departed, he took out two pence, and gave <span class=\"clarity-word\">them</span> to the host, and said unto him, Take care of him; and whatsoever thou spendest more, when I come again, I will repay thee.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "luke-10-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "Which now of these three, thinkest thou, was neighbour unto him that fell among the thieves?",
+      "churchId": "p36"
+    },
+    {
+      "slug": "luke-10-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "And he said, He that shewed mercy on him. Then said Jesus unto him, Go, and do thou likewise.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "luke-10-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "¶ Now it came to pass, as they went, that he entered into a certain village: and a certain woman named Martha received him into her house.",
+      "churchId": "p38"
+    },
+    {
+      "slug": "luke-10-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "And she had a sister called Mary, which also sat at Jesus’ feet, and heard his word.",
+      "churchId": "p39"
+    },
+    {
+      "slug": "luke-10-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "But Martha was cumbered about much serving, and came to him, and said, Lord, dost thou not care that my sister hath left me to serve alone? bid her therefore that she help me.",
+      "churchId": "p40"
+    },
+    {
+      "slug": "luke-10-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "And Jesus answered and said unto her, Martha, Martha, thou art careful and troubled about many things:",
+      "churchId": "p41"
+    },
+    {
+      "slug": "luke-10-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "But one thing is needful: and Mary hath chosen that good part, which shall not be taken away from her.",
+      "churchId": "p42"
+    }
+  ]
+}

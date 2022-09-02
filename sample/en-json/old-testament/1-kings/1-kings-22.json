@@ -1,0 +1,386 @@
+{
+  "name": "1 Kings 22",
+  "abbrev": "1 Kgs. 22",
+  "number": "22",
+  "churchUri": "/scriptures/ot/1-kgs/22",
+  "paragraphs": [
+    {
+      "slug": "1-kings-22-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 22",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "1-kings-22-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And they continued three years without war between Syria and Israel.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "1-kings-22-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And it came to pass in the third year, that Jehoshaphat the king of Judah came down to the king of Israel.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "1-kings-22-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And the king of Israel said unto his servants, Know ye that Ramoth in Gilead <span class=\"clarity-word\">is</span> ours, and we <span class=\"clarity-word\">be</span> still, <span class=\"clarity-word\">and</span> take it not out of the hand of the king of Syria?",
+      "churchId": "p3"
+    },
+    {
+      "slug": "1-kings-22-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And he said unto Jehoshaphat, Wilt thou go with me to battle to Ramoth-gilead? And Jehoshaphat said to the king of Israel, I <span class=\"clarity-word\">am</span> as thou <span class=\"clarity-word\">art,</span> my people as thy people, my horses as thy horses.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "1-kings-22-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And Jehoshaphat said unto the king of Israel, Inquire, I pray thee, at the word of the <span class=\"small-caps\">Lord</span> to day.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "1-kings-22-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Then the king of Israel gathered the prophets together, about four hundred men, and said unto them, Shall I go against Ramoth-gilead to battle, or shall I forbear? And they said, Go up; for the Lord shall deliver <span class=\"clarity-word\">it</span> into the hand of the king.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "1-kings-22-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And Jehoshaphat said, <span class=\"clarity-word\">Is there</span> not here a prophet of the <span class=\"small-caps\">Lord</span> besides, that we might inquire of him?",
+      "churchId": "p7"
+    },
+    {
+      "slug": "1-kings-22-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And the king of Israel said unto Jehoshaphat, <span class=\"clarity-word\">There is</span> yet one man, Micaiah the son of Imlah, by whom we may inquire of the <span class=\"small-caps\">Lord</span>: but I hate him; for he doth not prophesy good concerning me, but evil. And Jehoshaphat said, Let not the king say so.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "1-kings-22-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Then the king of Israel called an officer, and said, Hasten <span class=\"clarity-word\">hither</span> Micaiah the son of Imlah.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "1-kings-22-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And the king of Israel and Jehoshaphat the king of Judah sat each on his throne, having put on their robes, in a void place in the entrance of the gate of Samaria; and all the prophets prophesied before them.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "1-kings-22-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And Zedekiah the son of Chenaanah made him horns of iron: and he said, Thus saith the <span class=\"small-caps\">Lord</span>, With these shalt thou push the Syrians, until thou have consumed them.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "1-kings-22-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And all the prophets prophesied so, saying, Go up to Ramoth-gilead, and prosper: for the <span class=\"small-caps\">Lord</span> shall deliver <span class=\"clarity-word\">it</span> into the king’s hand.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "1-kings-22-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And the messenger that was gone to call Micaiah spake unto him, saying, Behold now, the words of the prophets <span class=\"clarity-word\">declare</span> good unto the king with one mouth: let thy word, I pray thee, be like the word of one of them, and speak <span class=\"clarity-word\">that which is</span> good.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "1-kings-22-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And Micaiah said, <span class=\"clarity-word\">As</span> the <span class=\"small-caps\">Lord</span> liveth, what the <span class=\"small-caps\">Lord</span> saith unto me, that will I speak.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "1-kings-22-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "¶ So he came to the king. And the king said unto him, Micaiah, shall we go against Ramoth-gilead to battle, or shall we forbear? And he answered him, Go, and prosper: for the <span class=\"small-caps\">Lord</span> shall deliver <span class=\"clarity-word\">it</span> into the hand of the king.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "1-kings-22-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And the king said unto him, How many times shall I adjure thee that thou tell me nothing but <span class=\"clarity-word\">that which is</span> true in the name of the <span class=\"small-caps\">Lord</span>?",
+      "churchId": "p16"
+    },
+    {
+      "slug": "1-kings-22-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And he said, I saw all Israel scattered upon the hills, as sheep that have not a shepherd: and the <span class=\"small-caps\">Lord</span> said, These have no master: let them return every man to his house in peace.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "1-kings-22-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And the king of Israel said unto Jehoshaphat, Did I not tell thee that he would prophesy no good concerning me, but evil?",
+      "churchId": "p18"
+    },
+    {
+      "slug": "1-kings-22-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And he said, Hear thou therefore the word of the <span class=\"small-caps\">Lord</span>: I saw the <span class=\"small-caps\">Lord</span> sitting on his throne, and all the host of heaven standing by him on his right hand and on his left.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "1-kings-22-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And the <span class=\"small-caps\">Lord</span> said, Who shall persuade Ahab, that he may go up and fall at Ramoth-gilead? And one said on this manner, and another said on that manner.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "1-kings-22-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And there came forth a spirit, and stood before the <span class=\"small-caps\">Lord</span>, and said, I will persuade him.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "1-kings-22-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And the <span class=\"small-caps\">Lord</span> said unto him, Wherewith? And he said, I will go forth, and I will be a lying spirit in the mouth of all his prophets. And he said, Thou shalt persuade <span class=\"clarity-word\">him,</span> and prevail also: go forth, and do so.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "1-kings-22-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Now therefore, behold, the <span class=\"small-caps\">Lord</span> hath put a lying spirit in the mouth of all these thy prophets, and the <span class=\"small-caps\">Lord</span> hath spoken evil concerning thee.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "1-kings-22-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "But Zedekiah the son of Chenaanah went near, and smote Micaiah on the cheek, and said, Which way went the Spirit of the <span class=\"small-caps\">Lord</span> from me to speak unto thee?",
+      "churchId": "p24"
+    },
+    {
+      "slug": "1-kings-22-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And Micaiah said, Behold, thou shalt see in that day, when thou shalt go into an inner chamber to hide thyself.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "1-kings-22-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And the king of Israel said, Take Micaiah, and carry him back unto Amon the governor of the city, and to Joash the king’s son;",
+      "churchId": "p26"
+    },
+    {
+      "slug": "1-kings-22-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And say, Thus saith the king, Put this <span class=\"clarity-word\">fellow</span> in the prison, and feed him with bread of affliction and with water of affliction, until I come in peace.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "1-kings-22-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And Micaiah said, If thou return at all in peace, the <span class=\"small-caps\">Lord</span> hath not spoken by me. And he said, Hearken, O people, every one of you.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "1-kings-22-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "So the king of Israel and Jehoshaphat the king of Judah went up to Ramoth-gilead.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "1-kings-22-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And the king of Israel said unto Jehoshaphat, I will disguise myself, and enter into the battle; but put thou on thy robes. And the king of Israel disguised himself, and went into the battle.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "1-kings-22-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "But the king of Syria commanded his thirty and two captains that had rule over his chariots, saying, Fight neither with small nor great, save only with the king of Israel.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "1-kings-22-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "And it came to pass, when the captains of the chariots saw Jehoshaphat, that they said, Surely it <span class=\"clarity-word\">is</span> the king of Israel. And they turned aside to fight against him: and Jehoshaphat cried out.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "1-kings-22-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "And it came to pass, when the captains of the chariots perceived that it <span class=\"clarity-word\">was</span> not the king of Israel, that they turned back from pursuing him.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "1-kings-22-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "And a <span class=\"clarity-word\">certain</span> man drew a bow at a venture, and smote the king of Israel between the joints of the harness: wherefore he said unto the driver of his chariot, Turn thine hand, and carry me out of the host; for I am wounded.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "1-kings-22-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "And the battle increased that day: and the king was stayed up in his chariot against the Syrians, and died at even: and the blood ran out of the wound into the midst of the chariot.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "1-kings-22-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "And there went a proclamation throughout the host about the going down of the sun, saying, Every man to his city, and every man to his own country.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "1-kings-22-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "¶ So the king died, and was brought to Samaria; and they buried the king in Samaria.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "1-kings-22-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "And <span class=\"clarity-word\">one</span> washed the chariot in the pool of Samaria; and the dogs licked up his blood; and they washed his armour; according unto the word of the <span class=\"small-caps\">Lord</span> which he spake.",
+      "churchId": "p38"
+    },
+    {
+      "slug": "1-kings-22-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "Now the rest of the acts of Ahab, and all that he did, and the ivory house which he made, and all the cities that he built, <span class=\"clarity-word\">are</span> they not written in the book of the chronicles of the kings of Israel?",
+      "churchId": "p39"
+    },
+    {
+      "slug": "1-kings-22-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "So Ahab slept with his fathers; and Ahaziah his son reigned in his stead.",
+      "churchId": "p40"
+    },
+    {
+      "slug": "1-kings-22-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "¶ And Jehoshaphat the son of Asa began to reign over Judah in the fourth year of Ahab king of Israel.",
+      "churchId": "p41"
+    },
+    {
+      "slug": "1-kings-22-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "Jehoshaphat <span class=\"clarity-word\">was</span> thirty and five years old when he began to reign; and he reigned twenty and five years in Jerusalem. And his mother’s name <span class=\"clarity-word\">was</span> Azubah the daughter of Shilhi.",
+      "churchId": "p42"
+    },
+    {
+      "slug": "1-kings-22-p43",
+      "type": "verse",
+      "number": "43",
+      "content": "And he walked in all the ways of Asa his father; he turned not aside from it, doing <span class=\"clarity-word\">that which was</span> right in the eyes of the <span class=\"small-caps\">Lord</span>: nevertheless the high places were not taken away; <span class=\"clarity-word\">for</span> the people offered and burnt incense yet in the high places.",
+      "churchId": "p43"
+    },
+    {
+      "slug": "1-kings-22-p44",
+      "type": "verse",
+      "number": "44",
+      "content": "And Jehoshaphat made peace with the king of Israel.",
+      "churchId": "p44"
+    },
+    {
+      "slug": "1-kings-22-p45",
+      "type": "verse",
+      "number": "45",
+      "content": "Now the rest of the acts of Jehoshaphat, and his might that he shewed, and how he warred, <span class=\"clarity-word\">are</span> they not written in the book of the chronicles of the kings of Judah?",
+      "churchId": "p45"
+    },
+    {
+      "slug": "1-kings-22-p46",
+      "type": "verse",
+      "number": "46",
+      "content": "And the remnant of the sodomites, which remained in the days of his father Asa, he took out of the land.",
+      "churchId": "p46"
+    },
+    {
+      "slug": "1-kings-22-p47",
+      "type": "verse",
+      "number": "47",
+      "content": "<span class=\"clarity-word\">There was</span> then no king in Edom: a deputy <span class=\"clarity-word\">was</span> king.",
+      "churchId": "p47"
+    },
+    {
+      "slug": "1-kings-22-p48",
+      "type": "verse",
+      "number": "48",
+      "content": "Jehoshaphat made ships of Tharshish to go to Ophir for gold: but they went not; for the ships were broken at Ezion-geber.",
+      "churchId": "p48"
+    },
+    {
+      "slug": "1-kings-22-p49",
+      "type": "verse",
+      "number": "49",
+      "content": "Then said Ahaziah the son of Ahab unto Jehoshaphat, Let my servants go with thy servants in the ships. But Jehoshaphat would not.",
+      "churchId": "p49"
+    },
+    {
+      "slug": "1-kings-22-p50",
+      "type": "verse",
+      "number": "50",
+      "content": "¶ And Jehoshaphat slept with his fathers, and was buried with his fathers in the city of David his father: and Jehoram his son reigned in his stead.",
+      "churchId": "p50"
+    },
+    {
+      "slug": "1-kings-22-p51",
+      "type": "verse",
+      "number": "51",
+      "content": "¶ Ahaziah the son of Ahab began to reign over Israel in Samaria the seventeenth year of Jehoshaphat king of Judah, and reigned two years over Israel.",
+      "churchId": "p51"
+    },
+    {
+      "slug": "1-kings-22-p52",
+      "type": "verse",
+      "number": "52",
+      "content": "And he did evil in the sight of the <span class=\"small-caps\">Lord</span>, and walked in the way of his father, and in the way of his mother, and in the way of Jeroboam the son of Nebat, who made Israel to sin:",
+      "churchId": "p52"
+    },
+    {
+      "slug": "1-kings-22-p53",
+      "type": "verse",
+      "number": "53",
+      "content": "For he served Baal, and worshipped him, and provoked to anger the <span class=\"small-caps\">Lord</span> God of Israel, according to all that his father had done.",
+      "churchId": "p53"
+    }
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "name": "Acts 20",
+  "abbrev": "Acts 20",
+  "number": "20",
+  "churchUri": "/scriptures/nt/acts/20",
+  "paragraphs": [
+    {
+      "slug": "acts-20-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 20",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "acts-20-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And after the uproar was ceased, Paul called unto <span class=\"clarity-word\">him</span> the disciples, and embraced <span class=\"clarity-word\">them</span><span class=\"clarity-word\">,</span> and departed for to go into Macedonia.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "acts-20-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And when he had gone over those parts, and had given them much exhortation, he came into Greece,",
+      "churchId": "p2"
+    },
+    {
+      "slug": "acts-20-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And <span class=\"clarity-word\">there</span> abode three months. And when the Jews laid wait for him, as he was about to sail into Syria, he purposed to return through Macedonia.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "acts-20-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And there accompanied him into Asia Sopater of Berea; and of the Thessalonians, Aristarchus and Secundus; and Gaius of Derbe, and Timotheus; and of Asia, Tychicus and Trophimus.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "acts-20-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "These going before tarried for us at Troas.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "acts-20-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And we sailed away from Philippi after the days of unleavened bread, and came unto them to Troas in five days; where we abode seven days.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "acts-20-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And upon the first <span class=\"clarity-word\">day</span> of the week, when the disciples came together to break bread, Paul preached unto them, ready to depart on the morrow; and continued his speech until midnight.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "acts-20-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And there were many lights in the upper chamber, where they were gathered together.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "acts-20-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And there sat in a window a certain young man named Eutychus, being fallen into a deep sleep: and as Paul was long preaching, he sunk down with sleep, and fell down from the third loft, and was taken up dead.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "acts-20-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And Paul went down, and fell on him, and embracing <span class=\"clarity-word\">him</span> said, Trouble not yourselves; for his life is in him.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "acts-20-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "When he therefore was come up again, and had broken bread, and eaten, and talked a long while, even till break of day, so he departed.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "acts-20-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And they brought the young man alive, and were not a little comforted.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "acts-20-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "¶ And we went before to ship, and sailed unto Assos, there intending to take in Paul: for so had he appointed, minding himself to go afoot.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "acts-20-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And when he met with us at Assos, we took him in, and came to Mitylene.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "acts-20-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And we sailed thence, and came the next <span class=\"clarity-word\">day</span> over against Chios; and the next <span class=\"clarity-word\">day</span> we arrived at Samos, and tarried at Trogyllium; and the next <span class=\"clarity-word\">day</span> we came to Miletus.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "acts-20-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "For Paul had determined to sail by Ephesus, because he would not spend the time in Asia: for he hasted, if it were possible for him, to be at Jerusalem the day of Pentecost.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "acts-20-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "¶ And from Miletus he sent to Ephesus, and called the elders of the church.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "acts-20-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And when they were come to him, he said unto them, Ye know, from the first day that I came into Asia, after what manner I have been with you at all seasons,",
+      "churchId": "p18"
+    },
+    {
+      "slug": "acts-20-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Serving the Lord with all humility of mind, and with many tears, and temptations, which befell me by the lying in wait of the Jews:",
+      "churchId": "p19"
+    },
+    {
+      "slug": "acts-20-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "<span class=\"clarity-word\">And</span> how I kept back nothing that was profitable <span class=\"clarity-word\">unto you,</span> but have shewed you, and have taught you publickly, and from house to house,",
+      "churchId": "p20"
+    },
+    {
+      "slug": "acts-20-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Testifying both to the Jews, and also to the Greeks, repentance toward God, and faith toward our Lord Jesus Christ.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "acts-20-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And now, behold, I go bound in the spirit unto Jerusalem, not knowing the things that shall befall me there:",
+      "churchId": "p22"
+    },
+    {
+      "slug": "acts-20-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Save that the Holy Ghost witnesseth in every city, saying that bonds and afflictions abide me.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "acts-20-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "But none of these things move me, neither count I my life dear unto myself, so that I might finish my course with joy, and the ministry, which I have received of the Lord Jesus, to testify the gospel of the grace of God.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "acts-20-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And now, behold, I know that ye all, among whom I have gone preaching the kingdom of God, shall see my face no more.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "acts-20-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "Wherefore I take you to record this day, that I <span class=\"clarity-word\">am</span> pure from the blood of all <span class=\"clarity-word\">men.</span>",
+      "churchId": "p26"
+    },
+    {
+      "slug": "acts-20-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "For I have not shunned to declare unto you all the counsel of God.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "acts-20-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "¶ Take heed therefore unto yourselves, and to all the flock, over the which the Holy Ghost hath made you overseers, to feed the church of God, which he hath purchased with his own blood.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "acts-20-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "For I know this, that after my departing shall grievous wolves enter in among you, not sparing the flock.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "acts-20-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "Also of your own selves shall men arise, speaking perverse things, to draw away disciples after them.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "acts-20-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "Therefore watch, and remember, that by the space of three years I ceased not to warn every one night and day with tears.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "acts-20-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "And now, brethren, I commend you to God, and to the word of his grace, which is able to build you up, and to give you an inheritance among all them which are sanctified.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "acts-20-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "I have coveted no man’s silver, or gold, or apparel.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "acts-20-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "Yea, ye yourselves know, that these hands have ministered unto my necessities, and to them that were with me.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "acts-20-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "I have shewed you all things, how that so labouring ye ought to support the weak, and to remember the words of the Lord Jesus, how he said, It is more blessed to give than to receive.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "acts-20-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "¶ And when he had thus spoken, he kneeled down, and prayed with them all.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "acts-20-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "And they all wept sore, and fell on Paul’s neck, and kissed him,",
+      "churchId": "p37"
+    },
+    {
+      "slug": "acts-20-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "Sorrowing most of all for the words which he spake, that they should see his face no more. And they accompanied him unto the ship.",
+      "churchId": "p38"
+    }
+  ]
+}

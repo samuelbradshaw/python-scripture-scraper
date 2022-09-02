@@ -1,0 +1,232 @@
+{
+  "name": "2 Chronicles 9",
+  "abbrev": "2 Chr. 9",
+  "number": "9",
+  "churchUri": "/scriptures/ot/2-chr/9",
+  "paragraphs": [
+    {
+      "slug": "2-chronicles-9-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 9",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "2-chronicles-9-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And when the queen of Sheba heard of the fame of Solomon, she came to prove Solomon with hard questions at Jerusalem, with a very great company, and camels that bare spices, and gold in abundance, and precious stones: and when she was come to Solomon, she communed with him of all that was in her heart.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "2-chronicles-9-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And Solomon told her all her questions: and there was nothing hid from Solomon which he told her not.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "2-chronicles-9-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And when the queen of Sheba had seen the wisdom of Solomon, and the house that he had built,",
+      "churchId": "p3"
+    },
+    {
+      "slug": "2-chronicles-9-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And the meat of his table, and the sitting of his servants, and the attendance of his ministers, and their apparel; his cupbearers also, and their apparel; and his ascent by which he went up into the house of the <span class=\"small-caps\">Lord</span>; there was no more spirit in her.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "2-chronicles-9-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And she said to the king, <span class=\"clarity-word\">It was</span> a true report which I heard in mine own land of thine acts, and of thy wisdom:",
+      "churchId": "p5"
+    },
+    {
+      "slug": "2-chronicles-9-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Howbeit I believed not their words, until I came, and mine eyes had seen <span class=\"clarity-word\">it:</span> and, behold, the one half of the greatness of thy wisdom was not told me: <span class=\"clarity-word\">for</span> thou exceedest the fame that I heard.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "2-chronicles-9-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Happy <span class=\"clarity-word\">are</span> thy men, and happy <span class=\"clarity-word\">are</span> these thy servants, which stand continually before thee, and hear thy wisdom.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "2-chronicles-9-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Blessed be the <span class=\"small-caps\">Lord</span> thy God, which delighted in thee to set thee on his throne, <span class=\"clarity-word\">to be</span> king for the <span class=\"small-caps\">Lord</span> thy God: because thy God loved Israel, to establish them for ever, therefore made he thee king over them, to do judgment and justice.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "2-chronicles-9-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And she gave the king an hundred and twenty talents of gold, and of spices great abundance, and precious stones: neither was there any such spice as the queen of Sheba gave king Solomon.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "2-chronicles-9-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And the servants also of Huram, and the servants of Solomon, which brought gold from Ophir, brought algum trees and precious stones.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "2-chronicles-9-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And the king made <span class=\"clarity-word\">of</span> the algum trees terraces to the house of the <span class=\"small-caps\">Lord</span>, and to the king’s palace, and harps and psalteries for singers: and there were none such seen before in the land of Judah.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "2-chronicles-9-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And king Solomon gave to the queen of Sheba all her desire, whatsoever she asked, beside <span class=\"clarity-word\">that</span> which she had brought unto the king. So she turned, and went away to her own land, she and her servants.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "2-chronicles-9-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "¶ Now the weight of gold that came to Solomon in one year was six hundred and threescore and six talents of gold;",
+      "churchId": "p13"
+    },
+    {
+      "slug": "2-chronicles-9-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Beside <span class=\"clarity-word\">that which</span> chapmen and merchants brought. And all the kings of Arabia and governors of the country brought gold and silver to Solomon.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "2-chronicles-9-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "¶ And king Solomon made two hundred targets <span class=\"clarity-word\">of</span> beaten gold: six hundred <span class=\"clarity-word\">shekels</span> of beaten gold went to one target.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "2-chronicles-9-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And three hundred shields <span class=\"clarity-word\">made he of</span> beaten gold: three hundred <span class=\"clarity-word\">shekels</span> of gold went to one shield. And the king put them in the house of the forest of Lebanon.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "2-chronicles-9-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Moreover the king made a great throne of ivory, and overlaid it with pure gold.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "2-chronicles-9-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And <span class=\"clarity-word\">there were</span> six steps to the throne, with a footstool of gold, <span class=\"clarity-word\">which were</span> fastened to the throne, and stays on each side of the sitting place, and two lions standing by the stays:",
+      "churchId": "p18"
+    },
+    {
+      "slug": "2-chronicles-9-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And twelve lions stood there on the one side and on the other upon the six steps. There was not the like made in any kingdom.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "2-chronicles-9-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "¶ And all the drinking vessels of king Solomon <span class=\"clarity-word\">were of</span> gold, and all the vessels of the house of the forest of Lebanon <span class=\"clarity-word\">were of</span> pure gold: none <span class=\"clarity-word\">were of</span> silver; it was <span class=\"clarity-word\">not</span> any thing accounted of in the days of Solomon.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "2-chronicles-9-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "For the king’s ships went to Tarshish with the servants of Huram: every three years once came the ships of Tarshish bringing gold, and silver, ivory, and apes, and peacocks.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "2-chronicles-9-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And king Solomon passed all the kings of the earth in riches and wisdom.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "2-chronicles-9-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "¶ And all the kings of the earth sought the presence of Solomon, to hear his wisdom, that God had put in his heart.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "2-chronicles-9-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And they brought every man his present, vessels of silver, and vessels of gold, and raiment, harness, and spices, horses, and mules, a rate year by year.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "2-chronicles-9-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "¶ And Solomon had four thousand stalls for horses and chariots, and twelve thousand horsemen; whom he bestowed in the chariot cities, and with the king at Jerusalem.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "2-chronicles-9-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "¶ And he reigned over all the kings from the river even unto the land of the Philistines, and to the border of Egypt.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "2-chronicles-9-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And the king made silver in Jerusalem as stones, and cedar trees made he as the sycomore trees that <span class=\"clarity-word\">are</span> in the low plains in abundance.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "2-chronicles-9-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And they brought unto Solomon horses out of Egypt, and out of all lands.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "2-chronicles-9-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "¶ Now the rest of the acts of Solomon, first and last, <span class=\"clarity-word\">are</span> they not written in the book of Nathan the prophet, and in the prophecy of Ahijah the Shilonite, and in the visions of Iddo the seer against Jeroboam the son of Nebat?",
+      "churchId": "p29"
+    },
+    {
+      "slug": "2-chronicles-9-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And Solomon reigned in Jerusalem over all Israel forty years.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "2-chronicles-9-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "And Solomon slept with his fathers, and he was buried in the city of David his father: and Rehoboam his son reigned in his stead.",
+      "churchId": "p31"
+    }
+  ]
+}

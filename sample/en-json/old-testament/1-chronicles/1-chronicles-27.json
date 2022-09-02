@@ -1,0 +1,253 @@
+{
+  "name": "1 Chronicles 27",
+  "abbrev": "1 Chr. 27",
+  "number": "27",
+  "churchUri": "/scriptures/ot/1-chr/27",
+  "paragraphs": [
+    {
+      "slug": "1-chronicles-27-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 27",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "1-chronicles-27-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Now the children of Israel after their number, <span class=\"clarity-word\">to wit,</span> the chief fathers and captains of thousands and hundreds, and their officers that served the king in any matter of the courses, which came in and went out month by month throughout all the months of the year, of every course <span class=\"clarity-word\">were</span> twenty and four thousand.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "1-chronicles-27-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Over the first course for the first month <span class=\"clarity-word\">was</span> Jashobeam the son of Zabdiel: and in his course <span class=\"clarity-word\">were</span> twenty and four thousand.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "1-chronicles-27-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Of the children of Perez <span class=\"clarity-word\">was</span> the chief of all the captains of the host for the first month.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "1-chronicles-27-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And over the course of the second month <span class=\"clarity-word\">was</span> Dodai an Ahohite, and of his course <span class=\"clarity-word\">was</span> Mikloth also the ruler: in his course likewise <span class=\"clarity-word\">were</span> twenty and four thousand.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "1-chronicles-27-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "The third captain of the host for the third month <span class=\"clarity-word\">was</span> Benaiah the son of Jehoiada, a chief priest: and in his course <span class=\"clarity-word\">were</span> twenty and four thousand.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "1-chronicles-27-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "This <span class=\"clarity-word\">is that</span> Benaiah, <span class=\"clarity-word\">who was</span> mighty <span class=\"clarity-word\">among</span> the thirty, and above the thirty: and in his course <span class=\"clarity-word\">was</span> Ammizabad his son.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "1-chronicles-27-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "The fourth <span class=\"clarity-word\">captain</span> for the fourth month <span class=\"clarity-word\">was</span> Asahel the brother of Joab, and Zebadiah his son after him: and in his course <span class=\"clarity-word\">were</span> twenty and four thousand.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "1-chronicles-27-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "The fifth captain for the fifth month <span class=\"clarity-word\">was</span> Shamhuth the Izrahite: and in his course <span class=\"clarity-word\">were</span> twenty and four thousand.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "1-chronicles-27-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "The sixth <span class=\"clarity-word\">captain</span> for the sixth month <span class=\"clarity-word\">was</span> Ira the son of Ikkesh the Tekoite: and in his course <span class=\"clarity-word\">were</span> twenty and four thousand.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "1-chronicles-27-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "The seventh <span class=\"clarity-word\">captain</span> for the seventh month <span class=\"clarity-word\">was</span> Helez the Pelonite, of the children of Ephraim: and in his course <span class=\"clarity-word\">were</span> twenty and four thousand.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "1-chronicles-27-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "The eighth <span class=\"clarity-word\">captain</span> for the eighth month <span class=\"clarity-word\">was</span> Sibbecai the Hushathite, of the Zarhites: and in his course <span class=\"clarity-word\">were</span> twenty and four thousand.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "1-chronicles-27-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "The ninth <span class=\"clarity-word\">captain</span> for the ninth month <span class=\"clarity-word\">was</span> Abiezer the Anetothite, of the Benjamites: and in his course <span class=\"clarity-word\">were</span> twenty and four thousand.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "1-chronicles-27-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "The tenth <span class=\"clarity-word\">captain</span> for the tenth month <span class=\"clarity-word\">was</span> Maharai the Netophathite, of the Zarhites: and in his course <span class=\"clarity-word\">were</span> twenty and four thousand.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "1-chronicles-27-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "The eleventh <span class=\"clarity-word\">captain</span> for the eleventh month <span class=\"clarity-word\">was</span> Benaiah the Pirathonite, of the children of Ephraim: and in his course <span class=\"clarity-word\">were</span> twenty and four thousand.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "1-chronicles-27-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "The twelfth <span class=\"clarity-word\">captain</span> for the twelfth month <span class=\"clarity-word\">was</span> Heldai the Netophathite, of Othniel: and in his course <span class=\"clarity-word\">were</span> twenty and four thousand.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "1-chronicles-27-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "¶ Furthermore over the tribes of Israel: the ruler of the Reubenites <span class=\"clarity-word\">was</span> Eliezer the son of Zichri: of the Simeonites, Shephatiah the son of Maachah:",
+      "churchId": "p16"
+    },
+    {
+      "slug": "1-chronicles-27-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Of the Levites, Hashabiah the son of Kemuel: of the Aaronites, Zadok:",
+      "churchId": "p17"
+    },
+    {
+      "slug": "1-chronicles-27-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Of Judah, Elihu, <span class=\"clarity-word\">one</span> of the brethren of David: of Issachar, Omri the son of Michael:",
+      "churchId": "p18"
+    },
+    {
+      "slug": "1-chronicles-27-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Of Zebulun, Ishmaiah the son of Obadiah: of Naphtali, Jerimoth the son of Azriel:",
+      "churchId": "p19"
+    },
+    {
+      "slug": "1-chronicles-27-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Of the children of Ephraim, Hoshea the son of Azaziah: of the half tribe of Manasseh, Joel the son of Pedaiah:",
+      "churchId": "p20"
+    },
+    {
+      "slug": "1-chronicles-27-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Of the half <span class=\"clarity-word\">tribe</span> of Manasseh in Gilead, Iddo the son of Zechariah: of Benjamin, Jaasiel the son of Abner:",
+      "churchId": "p21"
+    },
+    {
+      "slug": "1-chronicles-27-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Of Dan, Azareel the son of Jeroham. These <span class=\"clarity-word\">were</span> the princes of the tribes of Israel.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "1-chronicles-27-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "¶ But David took not the number of them from twenty years old and under: because the <span class=\"small-caps\">Lord</span> had said he would increase Israel like to the stars of the heavens.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "1-chronicles-27-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Joab the son of Zeruiah began to number, but he finished not, because there fell wrath for it against Israel; neither was the number put in the account of the chronicles of king David.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "1-chronicles-27-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "¶ And over the king’s treasures <span class=\"clarity-word\">was</span> Azmaveth the son of Adiel: and over the storehouses in the fields, in the cities, and in the villages, and in the castles, <span class=\"clarity-word\">was</span> Jehonathan the son of Uzziah:",
+      "churchId": "p25"
+    },
+    {
+      "slug": "1-chronicles-27-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And over them that did the work of the field for tillage of the ground <span class=\"clarity-word\">was</span> Ezri the son of Chelub:",
+      "churchId": "p26"
+    },
+    {
+      "slug": "1-chronicles-27-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And over the vineyards <span class=\"clarity-word\">was</span> Shimei the Ramathite: over the increase of the vineyards for the wine cellars <span class=\"clarity-word\">was</span> Zabdi the Shiphmite:",
+      "churchId": "p27"
+    },
+    {
+      "slug": "1-chronicles-27-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And over the olive trees and the sycomore trees that <span class=\"clarity-word\">were</span> in the low plains <span class=\"clarity-word\">was</span> Baal-hanan the Gederite: and over the cellars of oil <span class=\"clarity-word\">was</span> Joash:",
+      "churchId": "p28"
+    },
+    {
+      "slug": "1-chronicles-27-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "And over the herds that fed in Sharon <span class=\"clarity-word\">was</span> Shitrai the Sharonite: and over the herds <span class=\"clarity-word\">that were</span> in the valleys <span class=\"clarity-word\">was</span> Shaphat the son of Adlai:",
+      "churchId": "p29"
+    },
+    {
+      "slug": "1-chronicles-27-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "Over the camels also <span class=\"clarity-word\">was</span> Obil the Ishmaelite: and over the asses <span class=\"clarity-word\">was</span> Jehdeiah the Meronothite:",
+      "churchId": "p30"
+    },
+    {
+      "slug": "1-chronicles-27-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "And over the flocks <span class=\"clarity-word\">was</span> Jaziz the Hagerite. All these <span class=\"clarity-word\">were</span> the rulers of the substance which <span class=\"clarity-word\">was</span> king David’s.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "1-chronicles-27-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "Also Jonathan David’s uncle was a counsellor, a wise man, and a scribe: and Jehiel the son of Hachmoni <span class=\"clarity-word\">was</span> with the king’s sons:",
+      "churchId": "p32"
+    },
+    {
+      "slug": "1-chronicles-27-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "And Ahithophel <span class=\"clarity-word\">was</span> the king’s counsellor: and Hushai the Archite <span class=\"clarity-word\">was</span> the king’s companion:",
+      "churchId": "p33"
+    },
+    {
+      "slug": "1-chronicles-27-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "And after Ahithophel <span class=\"clarity-word\">was</span> Jehoiada the son of Benaiah, and Abiathar: and the general of the king’s army <span class=\"clarity-word\">was</span> Joab.",
+      "churchId": "p34"
+    }
+  ]
+}

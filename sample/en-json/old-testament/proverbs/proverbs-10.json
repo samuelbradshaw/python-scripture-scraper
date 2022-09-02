@@ -1,0 +1,239 @@
+{
+  "name": "Proverbs 10",
+  "abbrev": "Prov. 10",
+  "number": "10",
+  "churchUri": "/scriptures/ot/prov/10",
+  "paragraphs": [
+    {
+      "slug": "proverbs-10-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 10",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "proverbs-10-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "The proverbs of Solomon. A wise son maketh a glad father: but a foolish son <span class=\"clarity-word\">is</span> the heaviness of his mother.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "proverbs-10-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Treasures of wickedness profit nothing: but righteousness delivereth from death.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "proverbs-10-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "The <span class=\"small-caps\">Lord</span> will not suffer the soul of the righteous to famish: but he casteth away the substance of the wicked.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "proverbs-10-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "He becometh poor that dealeth <span class=\"clarity-word\">with</span> a slack hand: but the hand of the diligent maketh rich.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "proverbs-10-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "He that gathereth in summer <span class=\"clarity-word\">is</span> a wise son: <span class=\"clarity-word\">but</span> he that sleepeth in harvest <span class=\"clarity-word\">is</span> a son that causeth shame.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "proverbs-10-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Blessings <span class=\"clarity-word\">are</span> upon the head of the just: but violence covereth the mouth of the wicked.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "proverbs-10-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "The memory of the just <span class=\"clarity-word\">is</span> blessed: but the name of the wicked shall rot.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "proverbs-10-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "The wise in heart will receive commandments: but a prating fool shall fall.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "proverbs-10-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "He that walketh uprightly walketh surely: but he that perverteth his ways shall be known.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "proverbs-10-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "He that winketh with the eye causeth sorrow: but a prating fool shall fall.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "proverbs-10-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "The mouth of a righteous <span class=\"clarity-word\">man is</span> a well of life: but violence covereth the mouth of the wicked.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "proverbs-10-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Hatred stirreth up strifes: but love covereth all sins.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "proverbs-10-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "In the lips of him that hath understanding wisdom is found: but a rod <span class=\"clarity-word\">is</span> for the back of him that is void of understanding.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "proverbs-10-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Wise <span class=\"clarity-word\">men</span> lay up knowledge: but the mouth of the foolish <span class=\"clarity-word\">is</span> near destruction.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "proverbs-10-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "The rich man’s wealth <span class=\"clarity-word\">is</span> his strong city: the destruction of the poor <span class=\"clarity-word\">is</span> their poverty.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "proverbs-10-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "The labour of the righteous <span class=\"clarity-word\">tendeth</span> to life: the fruit of the wicked to sin.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "proverbs-10-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "He <span class=\"clarity-word\">is in</span> the way of life that keepeth instruction: but he that refuseth reproof erreth.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "proverbs-10-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "He that hideth hatred <span class=\"clarity-word\">with</span> lying lips, and he that uttereth a slander, <span class=\"clarity-word\">is</span> a fool.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "proverbs-10-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "In the multitude of words there wanteth not sin: but he that refraineth his lips <span class=\"clarity-word\">is</span> wise.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "proverbs-10-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "The tongue of the just <span class=\"clarity-word\">is as</span> choice silver: the heart of the wicked <span class=\"clarity-word\">is</span> little worth.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "proverbs-10-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "The lips of the righteous feed many: but fools die for want of wisdom.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "proverbs-10-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "The blessing of the <span class=\"small-caps\">Lord</span>, it maketh rich, and he addeth no sorrow with it.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "proverbs-10-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "<span class=\"clarity-word\">It is</span> as sport to a fool to do mischief: but a man of understanding hath wisdom.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "proverbs-10-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "The fear of the wicked, it shall come upon him: but the desire of the righteous shall be granted.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "proverbs-10-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "As the whirlwind passeth, so <span class=\"clarity-word\">is</span> the wicked no <span class=\"clarity-word\">more:</span> but the righteous <span class=\"clarity-word\">is</span> an everlasting foundation.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "proverbs-10-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "As vinegar to the teeth, and as smoke to the eyes, so <span class=\"clarity-word\">is</span> the sluggard to them that send him.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "proverbs-10-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "The fear of the <span class=\"small-caps\">Lord</span> prolongeth days: but the years of the wicked shall be shortened.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "proverbs-10-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "The hope of the righteous <span class=\"clarity-word\">shall be</span> gladness: but the expectation of the wicked shall perish.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "proverbs-10-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "The way of the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">is</span> strength to the upright: but destruction <span class=\"clarity-word\">shall be</span> to the workers of iniquity.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "proverbs-10-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "The righteous shall never be removed: but the wicked shall not inhabit the earth.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "proverbs-10-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "The mouth of the just bringeth forth wisdom: but the froward tongue shall be cut out.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "proverbs-10-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "The lips of the righteous know what is acceptable: but the mouth of the wicked <span class=\"clarity-word\">speaketh</span> frowardness.",
+      "churchId": "p32"
+    }
+  ]
+}

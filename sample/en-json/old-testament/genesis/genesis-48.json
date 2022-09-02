@@ -1,0 +1,169 @@
+{
+  "name": "Genesis 48",
+  "abbrev": "Gen. 48",
+  "number": "48",
+  "churchUri": "/scriptures/ot/gen/48",
+  "paragraphs": [
+    {
+      "slug": "genesis-48-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 48",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "genesis-48-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And it came to pass after these things, that <span class=\"clarity-word\">one</span> told Joseph, Behold, thy father <span class=\"clarity-word\">is</span> sick: and he took with him his two sons, Manasseh and Ephraim.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "genesis-48-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And <span class=\"clarity-word\">one</span> told Jacob, and said, Behold, thy son Joseph cometh unto thee: and Israel strengthened himself, and sat upon the bed.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "genesis-48-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And Jacob said unto Joseph, God Almighty appeared unto me at Luz in the land of Canaan, and blessed me,",
+      "churchId": "p3"
+    },
+    {
+      "slug": "genesis-48-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And said unto me, Behold, I will make thee fruitful, and multiply thee, and I will make of thee a multitude of people; and will give this land to thy seed after thee <span class=\"clarity-word\">for</span> an everlasting possession.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "genesis-48-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "¶ And now thy two sons, Ephraim and Manasseh, which were born unto thee in the land of Egypt before I came unto thee into Egypt, <span class=\"clarity-word\">are</span> mine; as Reuben and Simeon, they shall be mine.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "genesis-48-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And thy issue, which thou begettest after them, shall be thine, <span class=\"clarity-word\">and</span> shall be called after the name of their brethren in their inheritance.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "genesis-48-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And as for me, when I came from Padan, Rachel died by me in the land of Canaan in the way, when yet <span class=\"clarity-word\">there was</span> but a little way to come unto Ephrath: and I buried her there in the way of Ephrath; the same <span class=\"clarity-word\">is</span> Beth-lehem.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "genesis-48-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And Israel beheld Joseph’s sons, and said, Who <span class=\"clarity-word\">are</span> these?",
+      "churchId": "p8"
+    },
+    {
+      "slug": "genesis-48-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And Joseph said unto his father, They <span class=\"clarity-word\">are</span> my sons, whom God hath given me in this <span class=\"clarity-word\">place.</span> And he said, Bring them, I pray thee, unto me, and I will bless them.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "genesis-48-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Now the eyes of Israel were dim for age, <span class=\"clarity-word\">so that</span> he could not see. And he brought them near unto him; and he kissed them, and embraced them.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "genesis-48-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And Israel said unto Joseph, I had not thought to see thy face: and, lo, God hath shewed me also thy seed.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "genesis-48-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And Joseph brought them out from between his knees, and he bowed himself with his face to the earth.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "genesis-48-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And Joseph took them both, Ephraim in his right hand toward Israel’s left hand, and Manasseh in his left hand toward Israel’s right hand, and brought <span class=\"clarity-word\">them</span> near unto him.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "genesis-48-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And Israel stretched out his right hand, and laid <span class=\"clarity-word\">it</span> upon Ephraim’s head, who <span class=\"clarity-word\">was</span> the younger, and his left hand upon Manasseh’s head, guiding his hands wittingly; for Manasseh <span class=\"clarity-word\">was</span> the firstborn.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "genesis-48-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "¶ And he blessed Joseph, and said, God, before whom my fathers Abraham and Isaac did walk, the God which fed me all my life long unto this day,",
+      "churchId": "p15"
+    },
+    {
+      "slug": "genesis-48-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "The Angel which redeemed me from all evil, bless the lads; and let my name be named on them, and the name of my fathers Abraham and Isaac; and let them grow into a multitude in the midst of the earth.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "genesis-48-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And when Joseph saw that his father laid his right hand upon the head of Ephraim, it displeased him: and he held up his father’s hand, to remove it from Ephraim’s head unto Manasseh’s head.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "genesis-48-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And Joseph said unto his father, Not so, my father: for this <span class=\"clarity-word\">is</span> the firstborn; put thy right hand upon his head.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "genesis-48-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And his father refused, and said, I know <span class=\"clarity-word\">it,</span> my son, I know <span class=\"clarity-word\">it:</span> he also shall become a people, and he also shall be great: but truly his younger brother shall be greater than he, and his seed shall become a multitude of nations.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "genesis-48-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And he blessed them that day, saying, In thee shall Israel bless, saying, God make thee as Ephraim and as Manasseh: and he set Ephraim before Manasseh.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "genesis-48-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And Israel said unto Joseph, Behold, I die: but God shall be with you, and bring you again unto the land of your fathers.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "genesis-48-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Moreover I have given to thee one portion above thy brethren, which I took out of the hand of the Amorite with my sword and with my bow.",
+      "churchId": "p22"
+    }
+  ]
+}

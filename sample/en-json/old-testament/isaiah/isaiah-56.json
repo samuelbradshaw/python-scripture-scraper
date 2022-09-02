@@ -1,0 +1,99 @@
+{
+  "name": "Isaiah 56",
+  "abbrev": "Isa. 56",
+  "number": "56",
+  "churchUri": "/scriptures/ot/isa/56",
+  "paragraphs": [
+    {
+      "slug": "isaiah-56-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 56",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "isaiah-56-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Thus saith the <span class=\"small-caps\">Lord</span>, Keep ye judgment, and do justice: for my salvation <span class=\"clarity-word\">is</span> near to come, and my righteousness to be revealed.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "isaiah-56-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Blessed <span class=\"clarity-word\">is</span> the man <span class=\"clarity-word\">that</span> doeth this, and the son of man <span class=\"clarity-word\">that</span> layeth hold on it; that keepeth the sabbath from polluting it, and keepeth his hand from doing any evil.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "isaiah-56-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "¶ Neither let the son of the stranger, that hath joined himself to the <span class=\"small-caps\">Lord</span>, speak, saying, The <span class=\"small-caps\">Lord</span> hath utterly separated me from his people: neither let the eunuch say, Behold, I <span class=\"clarity-word\">am</span> a dry tree.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "isaiah-56-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "For thus saith the <span class=\"small-caps\">Lord</span> unto the eunuchs that keep my sabbaths, and choose <span class=\"clarity-word\">the things</span> that please me, and take hold of my covenant;",
+      "churchId": "p4"
+    },
+    {
+      "slug": "isaiah-56-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Even unto them will I give in mine house and within my walls a place and a name better than of sons and of daughters: I will give them an everlasting name, that shall not be cut off.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "isaiah-56-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Also the sons of the stranger, that join themselves to the <span class=\"small-caps\">Lord</span>, to serve him, and to love the name of the <span class=\"small-caps\">Lord</span>, to be his servants, every one that keepeth the sabbath from polluting it, and taketh hold of my covenant;",
+      "churchId": "p6"
+    },
+    {
+      "slug": "isaiah-56-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Even them will I bring to my holy mountain, and make them joyful in my house of prayer: their burnt offerings and their sacrifices <span class=\"clarity-word\">shall be</span> accepted upon mine altar; for mine house shall be called an house of prayer for all people.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "isaiah-56-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "The Lord <span class=\"small-caps\">God</span> which gathereth the outcasts of Israel saith, Yet will I gather <span class=\"clarity-word\">others</span> to him, beside those that are gathered unto him.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "isaiah-56-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "¶ All ye beasts of the field, come to devour, <span class=\"clarity-word\">yea,</span> all ye beasts in the forest.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "isaiah-56-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "His watchmen <span class=\"clarity-word\">are</span> blind: they are all ignorant, they <span class=\"clarity-word\">are</span> all dumb dogs, they cannot bark; sleeping, lying down, loving to slumber.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "isaiah-56-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Yea, <span class=\"clarity-word\">they are</span> greedy dogs <span class=\"clarity-word\">which</span> can never have enough, and they <span class=\"clarity-word\">are</span> shepherds <span class=\"clarity-word\">that</span> cannot understand: they all look to their own way, every one for his gain, from his quarter.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "isaiah-56-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Come ye, <span class=\"clarity-word\">say they,</span> I will fetch wine, and we will fill ourselves with strong drink; and to morrow shall be as this day, <span class=\"clarity-word\">and</span> much more abundant.",
+      "churchId": "p12"
+    }
+  ]
+}

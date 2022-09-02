@@ -1,0 +1,190 @@
+{
+  "name": "Psalm 139",
+  "abbrev": "Psalm 139",
+  "number": "139",
+  "churchUri": "/scriptures/ot/ps/139",
+  "paragraphs": [
+    {
+      "slug": "psalm-139-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 139",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-139-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "To the chief Musician, A Psalm of David.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-139-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "O <span class=\"small-caps\">Lord</span>, thou hast searched me, and known <span class=\"clarity-word\">me.</span>",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-139-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Thou knowest my downsitting and mine uprising, thou understandest my thought afar off.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-139-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Thou compassest my path and my lying down, and art acquainted <span class=\"clarity-word\">with</span> all my ways.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-139-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "For <span class=\"clarity-word\">there is</span> not a word in my tongue, <span class=\"clarity-word\">but,</span> lo, O <span class=\"small-caps\">Lord</span>, thou knowest it altogether.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-139-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Thou hast beset me behind and before, and laid thine hand upon me.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-139-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "<span class=\"clarity-word\">Such</span> knowledge <span class=\"clarity-word\">is</span> too wonderful for me; it is high, I cannot <span class=\"clarity-word\">attain</span> unto it.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-139-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Whither shall I go from thy spirit? or whither shall I flee from thy presence?",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-139-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "If I ascend up into heaven, thou <span class=\"clarity-word\">art</span> there: if I make my bed in hell, behold, thou <span class=\"clarity-word\">art there.</span>",
+      "churchId": "p8"
+    },
+    {
+      "slug": "psalm-139-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "<span class=\"clarity-word\">If</span> I take the wings of the morning, <span class=\"clarity-word\">and</span> dwell in the uttermost parts of the sea;",
+      "churchId": "p9"
+    },
+    {
+      "slug": "psalm-139-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Even there shall thy hand lead me, and thy right hand shall hold me.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "psalm-139-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "If I say, Surely the darkness shall cover me; even the night shall be light about me.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "psalm-139-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Yea, the darkness hideth not from thee; but the night shineth as the day: the darkness and the light <span class=\"clarity-word\">are</span> both alike <span class=\"clarity-word\">to thee.</span>",
+      "churchId": "p12"
+    },
+    {
+      "slug": "psalm-139-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "For thou hast possessed my reins: thou hast covered me in my mother’s womb.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "psalm-139-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "I will praise thee; for I am fearfully <span class=\"clarity-word\">and</span> wonderfully made: marvellous <span class=\"clarity-word\">are</span> thy works; and <span class=\"clarity-word\">that</span> my soul knoweth right well.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "psalm-139-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "My substance was not hid from thee, when I was made in secret, <span class=\"clarity-word\">and</span> curiously wrought in the lowest parts of the earth.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "psalm-139-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Thine eyes did see my substance, yet being unperfect; and in thy book all <span class=\"clarity-word\">my members</span> were written, <span class=\"clarity-word\">which</span> in continuance were fashioned, when <span class=\"clarity-word\">as yet there was</span> none of them.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "psalm-139-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "How precious also are thy thoughts unto me, O God! how great is the sum of them!",
+      "churchId": "p17"
+    },
+    {
+      "slug": "psalm-139-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "<span class=\"clarity-word\">If</span> I should count them, they are more in number than the sand: when I awake, I am still with thee.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "psalm-139-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Surely thou wilt slay the wicked, O God: depart from me therefore, ye bloody men.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "psalm-139-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "For they speak against thee wickedly, <span class=\"clarity-word\">and</span> thine enemies take <span class=\"clarity-word\">thy name</span> in vain.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "psalm-139-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Do not I hate them, O <span class=\"small-caps\">Lord</span>, that hate thee? and am not I grieved with those that rise up against thee?",
+      "churchId": "p21"
+    },
+    {
+      "slug": "psalm-139-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "I hate them with perfect hatred: I count them mine enemies.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "psalm-139-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Search me, O God, and know my heart: try me, and know my thoughts:",
+      "churchId": "p23"
+    },
+    {
+      "slug": "psalm-139-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And see if <span class=\"clarity-word\">there be any</span> wicked way in me, and lead me in the way everlasting.",
+      "churchId": "p24"
+    }
+  ]
+}

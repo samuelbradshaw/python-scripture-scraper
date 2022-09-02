@@ -1,0 +1,127 @@
+{
+  "name": "Hebrews 4",
+  "abbrev": "Heb. 4",
+  "number": "4",
+  "churchUri": "/scriptures/nt/heb/4",
+  "paragraphs": [
+    {
+      "slug": "hebrews-4-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 4",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "hebrews-4-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Let us therefore fear, lest, a promise being left <span class=\"clarity-word\">us</span> of entering into his rest, any of you should seem to come short of it.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "hebrews-4-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "For unto us was the gospel preached, as well as unto them: but the word preached did not profit them, not being mixed with faith in them that heard <span class=\"clarity-word\">it.</span>",
+      "churchId": "p2"
+    },
+    {
+      "slug": "hebrews-4-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "For we which have believed do enter into rest, as he said, As I have sworn in my wrath, if they shall enter into my rest: although the works were finished from the foundation of the world.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "hebrews-4-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "For he spake in a certain place of the seventh <span class=\"clarity-word\">day</span> on this wise, And God did rest the seventh day from all his works.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "hebrews-4-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And in this <span class=\"clarity-word\">place</span> again, If they shall enter into my rest.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "hebrews-4-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Seeing therefore it remaineth that some must enter therein, and they to whom it was first preached entered not in because of unbelief:",
+      "churchId": "p6"
+    },
+    {
+      "slug": "hebrews-4-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Again, he limiteth a certain day, saying in David, To day, after so long a time; as it is said, To day if ye will hear his voice, harden not your hearts.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "hebrews-4-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "For if Jesus had given them rest, then would he not afterward have spoken of another day.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "hebrews-4-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "There remaineth therefore a rest to the people of God.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "hebrews-4-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "For he that is entered into his rest, he also hath ceased from his own works, as God <span class=\"clarity-word\">did</span> from his.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "hebrews-4-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Let us labour therefore to enter into that rest, lest any man fall after the same example of unbelief.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "hebrews-4-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "For the word of God <span class=\"clarity-word\">is</span> quick, and powerful, and sharper than any twoedged sword, piercing even to the dividing asunder of soul and spirit, and of the joints and marrow, and <span class=\"clarity-word\">is</span> a discerner of the thoughts and intents of the heart.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "hebrews-4-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Neither is there any creature that is not manifest in his sight: but all things <span class=\"clarity-word\">are</span> naked and opened unto the eyes of him with whom we have to do.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "hebrews-4-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Seeing then that we have a great high priest, that is passed into the heavens, Jesus the Son of God, let us hold fast <span class=\"clarity-word\">our</span> profession.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "hebrews-4-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "For we have not an high priest which cannot be touched with the feeling of our infirmities; but was in all points tempted like as <span class=\"clarity-word\">we are, yet</span> without sin.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "hebrews-4-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Let us therefore come boldly unto the throne of grace, that we may obtain mercy, and find grace to help in time of need.",
+      "churchId": "p16"
+    }
+  ]
+}

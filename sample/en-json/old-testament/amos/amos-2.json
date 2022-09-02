@@ -1,0 +1,127 @@
+{
+  "name": "Amos 2",
+  "abbrev": "Amos 2",
+  "number": "2",
+  "churchUri": "/scriptures/ot/amos/2",
+  "paragraphs": [
+    {
+      "slug": "amos-2-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 2",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "amos-2-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Thus saith the <span class=\"small-caps\">Lord</span>; For three transgressions of Moab, and for four, I will not turn away <span class=\"clarity-word\">the punishment</span> thereof; because he burned the bones of the king of Edom into lime:",
+      "churchId": "p1"
+    },
+    {
+      "slug": "amos-2-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "But I will send a fire upon Moab, and it shall devour the palaces of Kerioth: and Moab shall die with tumult, with shouting, <span class=\"clarity-word\">and</span> with the sound of the trumpet:",
+      "churchId": "p2"
+    },
+    {
+      "slug": "amos-2-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And I will cut off the judge from the midst thereof, and will slay all the princes thereof with him, saith the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "amos-2-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "¶ Thus saith the <span class=\"small-caps\">Lord</span>; For three transgressions of Judah, and for four, I will not turn away <span class=\"clarity-word\">the punishment</span> thereof; because they have despised the law of the <span class=\"small-caps\">Lord</span>, and have not kept his commandments, and their lies caused them to err, after the which their fathers have walked:",
+      "churchId": "p4"
+    },
+    {
+      "slug": "amos-2-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "But I will send a fire upon Judah, and it shall devour the palaces of Jerusalem.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "amos-2-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "¶ Thus saith the <span class=\"small-caps\">Lord</span>; For three transgressions of Israel, and for four, I will not turn away <span class=\"clarity-word\">the punishment</span> thereof; because they sold the righteous for silver, and the poor for a pair of shoes;",
+      "churchId": "p6"
+    },
+    {
+      "slug": "amos-2-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "That pant after the dust of the earth on the head of the poor, and turn aside the way of the meek: and a man and his father will go in unto the <span class=\"clarity-word\">same</span> maid, to profane my holy name:",
+      "churchId": "p7"
+    },
+    {
+      "slug": "amos-2-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And they lay <span class=\"clarity-word\">themselves</span> down upon clothes laid to pledge by every altar, and they drink the wine of the condemned <span class=\"clarity-word\">in</span> the house of their god.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "amos-2-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "¶ Yet destroyed I the Amorite before them, whose height <span class=\"clarity-word\">was</span> like the height of the cedars, and he <span class=\"clarity-word\">was</span> strong as the oaks; yet I destroyed his fruit from above, and his roots from beneath.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "amos-2-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Also I brought you up from the land of Egypt, and led you forty years through the wilderness, to possess the land of the Amorite.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "amos-2-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And I raised up of your sons for prophets, and of your young men for Nazarites. <span class=\"clarity-word\">Is it</span> not even thus, O ye children of Israel? saith the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "amos-2-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "But ye gave the Nazarites wine to drink; and commanded the prophets, saying, Prophesy not.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "amos-2-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Behold, I am pressed under you, as a cart is pressed <span class=\"clarity-word\">that is</span> full of sheaves.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "amos-2-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Therefore the flight shall perish from the swift, and the strong shall not strengthen his force, neither shall the mighty deliver himself:",
+      "churchId": "p14"
+    },
+    {
+      "slug": "amos-2-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Neither shall he stand that handleth the bow; and <span class=\"clarity-word\">he that is</span> swift of foot shall not deliver <span class=\"clarity-word\">himself:</span> neither shall he that rideth the horse deliver himself.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "amos-2-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And <span class=\"clarity-word\">he that is</span> courageous among the mighty shall flee away naked in that day, saith the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p16"
+    }
+  ]
+}

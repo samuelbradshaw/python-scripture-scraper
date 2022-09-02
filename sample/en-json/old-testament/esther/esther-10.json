@@ -1,0 +1,36 @@
+{
+  "name": "Esther 10",
+  "abbrev": "Esth. 10",
+  "number": "10",
+  "churchUri": "/scriptures/ot/esth/10",
+  "paragraphs": [
+    {
+      "slug": "esther-10-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 10",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "esther-10-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And the king Ahasuerus laid a tribute upon the land, and <span class=\"clarity-word\">upon</span> the isles of the sea.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "esther-10-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And all the acts of his power and of his might, and the declaration of the greatness of Mordecai, whereunto the king advanced him, <span class=\"clarity-word\">are</span> they not written in the book of the chronicles of the kings of Media and Persia?",
+      "churchId": "p2"
+    },
+    {
+      "slug": "esther-10-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "For Mordecai the Jew <span class=\"clarity-word\">was</span> next unto king Ahasuerus, and great among the Jews, and accepted of the multitude of his brethren, seeking the wealth of his people, and speaking peace to all his seed.",
+      "churchId": "p3"
+    }
+  ]
+}

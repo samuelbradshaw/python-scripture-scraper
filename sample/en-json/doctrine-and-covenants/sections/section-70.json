@@ -1,0 +1,141 @@
+{
+  "name": "Doctrine and Covenants 70",
+  "abbrev": "D&C 70",
+  "number": "70",
+  "churchUri": "/scriptures/dc-testament/dc/70",
+  "paragraphs": [
+    {
+      "slug": "section-70-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Section 70",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "section-70-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Behold, and hearken, O ye inhabitants of Zion, and all ye people of my church who are afar off, and hear the word of the Lord which I give unto my servant Joseph Smith, Jun., and also unto my servant Martin Harris, and also unto my servant Oliver Cowdery, and also unto my servant John Whitmer, and also unto my servant Sidney Rigdon, and also unto my servant William W. Phelps, by the way of commandment unto them.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "section-70-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "For I give unto them a commandment; wherefore hearken and hear, for thus saith the Lord unto them—",
+      "churchId": "p2"
+    },
+    {
+      "slug": "section-70-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "I, the Lord, have appointed them, and ordained them to be stewards over the revelations and commandments which I have given unto them, and which I shall hereafter give unto them;",
+      "churchId": "p3"
+    },
+    {
+      "slug": "section-70-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And an account of this stewardship will I require of them in the day of judgment.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "section-70-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Wherefore, I have appointed unto them, and this is their business in the church of God, to manage them and the concerns thereof, yea, the benefits thereof.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "section-70-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Wherefore, a commandment I give unto them, that they shall not give these things unto the church, neither unto the world;",
+      "churchId": "p6"
+    },
+    {
+      "slug": "section-70-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Nevertheless, inasmuch as they receive more than is needful for their necessities and their wants, it shall be given into my storehouse;",
+      "churchId": "p7"
+    },
+    {
+      "slug": "section-70-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And the benefits shall be consecrated unto the inhabitants of Zion, and unto their generations, inasmuch as they become heirs according to the laws of the kingdom.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "section-70-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Behold, this is what the Lord requires of every man in his stewardship, even as I, the Lord, have appointed or shall hereafter appoint unto any man.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "section-70-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And behold, none are exempt from this law who belong to the church of the living God;",
+      "churchId": "p10"
+    },
+    {
+      "slug": "section-70-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Yea, neither the bishop, neither the agent who keepeth the Lord’s storehouse, neither he who is appointed in a stewardship over temporal things.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "section-70-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "He who is appointed to administer spiritual things, the same is worthy of his hire, even as those who are appointed to a stewardship to administer in temporal things;",
+      "churchId": "p12"
+    },
+    {
+      "slug": "section-70-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Yea, even more abundantly, which abundance is multiplied unto them through the manifestations of the Spirit.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "section-70-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Nevertheless, in your temporal things you shall be equal, and this not grudgingly, otherwise the abundance of the manifestations of the Spirit shall be withheld.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "section-70-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Now, this commandment I give unto my servants for their benefit while they remain, for a manifestation of my blessings upon their heads, and for a reward of their diligence and for their security;",
+      "churchId": "p15"
+    },
+    {
+      "slug": "section-70-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "For food and for raiment; for an inheritance; for houses and for lands, in whatsoever circumstances I, the Lord, shall place them, and whithersoever I, the Lord, shall send them.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "section-70-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "For they have been faithful over many things, and have done well inasmuch as they have not sinned.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "section-70-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Behold, I, the Lord, am merciful and will bless them, and they shall enter into the joy of these things. Even so. Amen.",
+      "churchId": "p18"
+    }
+  ]
+}

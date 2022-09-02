@@ -1,0 +1,113 @@
+{
+  "name": "Psalm 65",
+  "abbrev": "Psalm 65",
+  "number": "65",
+  "churchUri": "/scriptures/ot/ps/65",
+  "paragraphs": [
+    {
+      "slug": "psalm-65-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 65",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-65-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "To the chief Musician, A Psalm <span class=\"clarity-word\">and</span> Song of David.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-65-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Praise waiteth for thee, O God, in Sion: and unto thee shall the vow be performed.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-65-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "O thou that hearest prayer, unto thee shall all flesh come.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-65-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Iniquities prevail against me: <span class=\"clarity-word\">as for</span> our transgressions, thou shalt purge them away.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-65-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Blessed <span class=\"clarity-word\">is the man whom</span> thou choosest, and causest to approach <span class=\"clarity-word\">unto thee, that</span> he may dwell in thy courts: we shall be satisfied with the goodness of thy house, <span class=\"clarity-word\">even</span> of thy holy temple.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-65-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "<span class=\"clarity-word\">By</span> terrible things in righteousness wilt thou answer us, O God of our salvation; <span class=\"clarity-word\">who art</span> the confidence of all the ends of the earth, and of them that are afar off <span class=\"clarity-word\">upon</span> the sea:",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-65-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Which by his strength setteth fast the mountains; <span class=\"clarity-word\">being</span> girded with power:",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-65-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Which stilleth the noise of the seas, the noise of their waves, and the tumult of the people.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-65-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "They also that dwell in the uttermost parts are afraid at thy tokens: thou makest the outgoings of the morning and evening to rejoice.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "psalm-65-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Thou visitest the earth, and waterest it: thou greatly enrichest it with the river of God, <span class=\"clarity-word\">which</span> is full of water: thou preparest them corn, when thou hast so provided for it.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "psalm-65-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Thou waterest the ridges thereof abundantly: thou settlest the furrows thereof: thou makest it soft with showers: thou blessest the springing thereof.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "psalm-65-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Thou crownest the year with thy goodness; and thy paths drop fatness.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "psalm-65-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "They drop <span class=\"clarity-word\">upon</span> the pastures of the wilderness: and the little hills rejoice on every side.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "psalm-65-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "The pastures are clothed with flocks; the valleys also are covered over with corn; they shout for joy, they also sing.",
+      "churchId": "p13"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Psalm 131",
+  "abbrev": "Psalm 131",
+  "number": "131",
+  "churchUri": "/scriptures/ot/ps/131",
+  "paragraphs": [
+    {
+      "slug": "psalm-131-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 131",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-131-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "A Song of degrees of David.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-131-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "<span class=\"small-caps\">Lord</span>, my heart is not haughty, nor mine eyes lofty: neither do I exercise myself in great matters, or in things too high for me.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-131-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Surely I have behaved and quieted myself, as a child that is weaned of his mother: my soul <span class=\"clarity-word\">is</span> even as a weaned child.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-131-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Let Israel hope in the <span class=\"small-caps\">Lord</span> from henceforth and for ever.",
+      "churchId": "p3"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "name": "Psalm 120",
+  "abbrev": "Psalm 120",
+  "number": "120",
+  "churchUri": "/scriptures/ot/ps/120",
+  "paragraphs": [
+    {
+      "slug": "psalm-120-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 120",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-120-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "A Song of degrees.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-120-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "In my distress I cried unto the <span class=\"small-caps\">Lord</span>, and he heard me.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-120-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Deliver my soul, O <span class=\"small-caps\">Lord</span>, from lying lips, <span class=\"clarity-word\">and</span> from a deceitful tongue.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-120-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "What shall be given unto thee? or what shall be done unto thee, thou false tongue?",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-120-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Sharp arrows of the mighty, with coals of juniper.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-120-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Woe is me, that I sojourn in Mesech, <span class=\"clarity-word\">that</span> I dwell in the tents of Kedar!",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-120-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "My soul hath long dwelt with him that hateth peace.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-120-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "I <span class=\"clarity-word\">am for</span> peace: but when I speak, they <span class=\"clarity-word\">are</span> for war.",
+      "churchId": "p7"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "name": "Amos 1",
+  "abbrev": "Amos 1",
+  "number": "1",
+  "churchUri": "/scriptures/ot/amos/1",
+  "paragraphs": [
+    {
+      "slug": "amos-1-title1",
+      "type": "book-title",
+      "number": null,
+      "content": "Amos",
+      "churchId": "title1"
+    },
+    {
+      "slug": "amos-1-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 1",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "amos-1-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "The words of Amos, who was among the herdmen of Tekoa, which he saw concerning Israel in the days of Uzziah king of Judah, and in the days of Jeroboam the son of Joash king of Israel, two years before the earthquake.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "amos-1-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And he said, The <span class=\"small-caps\">Lord</span> will roar from Zion, and utter his voice from Jerusalem; and the habitations of the shepherds shall mourn, and the top of Carmel shall wither.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "amos-1-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Thus saith the <span class=\"small-caps\">Lord</span>; For three transgressions of Damascus, and for four, I will not turn away <span class=\"clarity-word\">the punishment</span> thereof; because they have threshed Gilead with threshing instruments of iron:",
+      "churchId": "p3"
+    },
+    {
+      "slug": "amos-1-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "But I will send a fire into the house of Hazael, which shall devour the palaces of Ben-hadad.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "amos-1-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "I will break also the bar of Damascus, and cut off the inhabitant from the plain of Aven, and him that holdeth the sceptre from the house of Eden: and the people of Syria shall go into captivity unto Kir, saith the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "amos-1-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "¶ Thus saith the <span class=\"small-caps\">Lord</span>; For three transgressions of Gaza, and for four, I will not turn away <span class=\"clarity-word\">the punishment</span> thereof; because they carried away captive the whole captivity, to deliver <span class=\"clarity-word\">them</span> up to Edom:",
+      "churchId": "p6"
+    },
+    {
+      "slug": "amos-1-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "But I will send a fire on the wall of Gaza, which shall devour the palaces thereof:",
+      "churchId": "p7"
+    },
+    {
+      "slug": "amos-1-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And I will cut off the inhabitant from Ashdod, and him that holdeth the sceptre from Ashkelon, and I will turn mine hand against Ekron: and the remnant of the Philistines shall perish, saith the Lord <span class=\"small-caps\">God</span>.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "amos-1-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "¶ Thus saith the <span class=\"small-caps\">Lord</span>; For three transgressions of Tyrus, and for four, I will not turn away <span class=\"clarity-word\">the punishment</span> thereof; because they delivered up the whole captivity to Edom, and remembered not the brotherly covenant:",
+      "churchId": "p9"
+    },
+    {
+      "slug": "amos-1-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "But I will send a fire on the wall of Tyrus, which shall devour the palaces thereof.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "amos-1-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "¶ Thus saith the <span class=\"small-caps\">Lord</span>; For three transgressions of Edom, and for four, I will not turn away <span class=\"clarity-word\">the punishment</span> thereof; because he did pursue his brother with the sword, and did cast off all pity, and his anger did tear perpetually, and he kept his wrath for ever:",
+      "churchId": "p11"
+    },
+    {
+      "slug": "amos-1-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "But I will send a fire upon Teman, which shall devour the palaces of Bozrah.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "amos-1-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "¶ Thus saith the <span class=\"small-caps\">Lord</span>; For three transgressions of the children of Ammon, and for four, I will not turn away <span class=\"clarity-word\">the punishment</span> thereof; because they have ripped up the women with child of Gilead, that they might enlarge their border:",
+      "churchId": "p13"
+    },
+    {
+      "slug": "amos-1-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "But I will kindle a fire in the wall of Rabbah, and it shall devour the palaces thereof, with shouting in the day of battle, with a tempest in the day of the whirlwind:",
+      "churchId": "p14"
+    },
+    {
+      "slug": "amos-1-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And their king shall go into captivity, he and his princes together, saith the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p15"
+    }
+  ]
+}

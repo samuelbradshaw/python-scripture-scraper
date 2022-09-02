@@ -1,0 +1,477 @@
+{
+  "name": "Doctrine and Covenants 132",
+  "abbrev": "D&C 132",
+  "number": "132",
+  "churchUri": "/scriptures/dc-testament/dc/132",
+  "paragraphs": [
+    {
+      "slug": "section-132-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Section 132",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "section-132-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Verily, thus saith the Lord unto you my servant Joseph, that inasmuch as you have inquired of my hand to know and understand wherein I, the Lord, justified my servants Abraham, Isaac, and Jacob, as also Moses, David and Solomon, my servants, as touching the principle and doctrine of their having many wives and concubines—",
+      "churchId": "p1"
+    },
+    {
+      "slug": "section-132-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Behold, and lo, I am the Lord thy God, and will answer thee as touching this matter.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "section-132-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Therefore, prepare thy heart to receive and obey the instructions which I am about to give unto you; for all those who have this law revealed unto them must obey the same.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "section-132-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "For behold, I reveal unto you a new and an everlasting covenant; and if ye abide not that covenant, then are ye damned; for no one can reject this covenant and be permitted to enter into my glory.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "section-132-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "For all who will have a blessing at my hands shall abide the law which was appointed for that blessing, and the conditions thereof, as were instituted from before the foundation of the world.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "section-132-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And as pertaining to the new and everlasting covenant, it was instituted for the fulness of my glory; and he that receiveth a fulness thereof must and shall abide the law, or he shall be damned, saith the Lord God.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "section-132-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And verily I say unto you, that the conditions of this law are these: All covenants, contracts, bonds, obligations, oaths, vows, performances, connections, associations, or expectations, that are not made and entered into and sealed by the Holy Spirit of promise, of him who is anointed, both as well for time and for all eternity, and that too most holy, by revelation and commandment through the medium of mine anointed, whom I have appointed on the earth to hold this power (and I have appointed unto my servant Joseph to hold this power in the last days, and there is never but one on the earth at a time on whom this power and the keys of this priesthood are conferred), are of no efficacy, virtue, or force in and after the resurrection from the dead; for all contracts that are not made unto this end have an end when men are dead.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "section-132-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Behold, mine house is a house of order, saith the Lord God, and not a house of confusion.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "section-132-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Will I accept of an offering, saith the Lord, that is not made in my name?",
+      "churchId": "p9"
+    },
+    {
+      "slug": "section-132-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Or will I receive at your hands that which I have not appointed?",
+      "churchId": "p10"
+    },
+    {
+      "slug": "section-132-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And will I appoint unto you, saith the Lord, except it be by law, even as I and my Father ordained unto you, before the world was?",
+      "churchId": "p11"
+    },
+    {
+      "slug": "section-132-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "I am the Lord thy God; and I give unto you this commandment—that no man shall come unto the Father but by me or by my word, which is my law, saith the Lord.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "section-132-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And everything that is in the world, whether it be ordained of men, by thrones, or principalities, or powers, or things of name, whatsoever they may be, that are not by me or by my word, saith the Lord, shall be thrown down, and shall not remain after men are dead, neither in nor after the resurrection, saith the Lord your God.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "section-132-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "For whatsoever things remain are by me; and whatsoever things are not by me shall be shaken and destroyed.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "section-132-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Therefore, if a man marry him a wife in the world, and he marry her not by me nor by my word, and he covenant with her so long as he is in the world and she with him, their covenant and marriage are not of force when they are dead, and when they are out of the world; therefore, they are not bound by any law when they are out of the world.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "section-132-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Therefore, when they are out of the world they neither marry nor are given in marriage; but are appointed angels in heaven, which angels are ministering servants, to minister for those who are worthy of a far more, and an exceeding, and an eternal weight of glory.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "section-132-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "For these angels did not abide my law; therefore, they cannot be enlarged, but remain separately and singly, without exaltation, in their saved condition, to all eternity; and from henceforth are not gods, but are angels of God forever and ever.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "section-132-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And again, verily I say unto you, if a man marry a wife, and make a covenant with her for time and for all eternity, if that covenant is not by me or by my word, which is my law, and is not sealed by the Holy Spirit of promise, through him whom I have anointed and appointed unto this power, then it is not valid neither of force when they are out of the world, because they are not joined by me, saith the Lord, neither by my word; when they are out of the world it cannot be received there, because the angels and the gods are appointed there, by whom they cannot pass; they cannot, therefore, inherit my glory; for my house is a house of order, saith the Lord God.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "section-132-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And again, verily I say unto you, if a man marry a wife by my word, which is my law, and by the new and everlasting covenant, and it is sealed unto them by the Holy Spirit of promise, by him who is anointed, unto whom I have appointed this power and the keys of this priesthood; and it shall be said unto them—Ye shall come forth in the first resurrection; and if it be after the first resurrection, in the next resurrection; and shall inherit thrones, kingdoms, principalities, and powers, dominions, all heights and depths—then shall it be written in the Lamb’s Book of Life, that he shall commit no murder whereby to shed innocent blood, and if ye abide in my covenant, and commit no murder whereby to shed innocent blood, it shall be done unto them in all things whatsoever my servant hath put upon them, in time, and through all eternity; and shall be of full force when they are out of the world; and they shall pass by the angels, and the gods, which are set there, to their exaltation and glory in all things, as hath been sealed upon their heads, which glory shall be a fulness and a continuation of the seeds forever and ever.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "section-132-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Then shall they be gods, because they have no end; therefore shall they be from everlasting to everlasting, because they continue; then shall they be above all, because all things are subject unto them. Then shall they be gods, because they have all power, and the angels are subject unto them.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "section-132-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Verily, verily, I say unto you, except ye abide my law ye cannot attain to this glory.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "section-132-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "For strait is the gate, and narrow the way that leadeth unto the exaltation and continuation of the lives, and few there be that find it, because ye receive me not in the world neither do ye know me.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "section-132-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "But if ye receive me in the world, then shall ye know me, and shall receive your exaltation; that where I am ye shall be also.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "section-132-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "This is eternal lives—to know the only wise and true God, and Jesus Christ, whom he hath sent. I am he. Receive ye, therefore, my law.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "section-132-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Broad is the gate, and wide the way that leadeth to the deaths; and many there are that go in thereat, because they receive me not, neither do they abide in my law.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "section-132-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "Verily, verily, I say unto you, if a man marry a wife according to my word, and they are sealed by the Holy Spirit of promise, according to mine appointment, and he or she shall commit any sin or transgression of the new and everlasting covenant whatever, and all manner of blasphemies, and if they commit no murder wherein they shed innocent blood, yet they shall come forth in the first resurrection, and enter into their exaltation; but they shall be destroyed in the flesh, and shall be delivered unto the buffetings of Satan unto the day of redemption, saith the Lord God.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "section-132-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "The blasphemy against the Holy Ghost, which shall not be forgiven in the world nor out of the world, is in that ye commit murder wherein ye shed innocent blood, and assent unto my death, after ye have received my new and everlasting covenant, saith the Lord God; and he that abideth not this law can in nowise enter into my glory, but shall be damned, saith the Lord.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "section-132-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "I am the Lord thy God, and will give unto thee the law of my Holy Priesthood, as was ordained by me and my Father before the world was.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "section-132-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "Abraham received all things, whatsoever he received, by revelation and commandment, by my word, saith the Lord, and hath entered into his exaltation and sitteth upon his throne.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "section-132-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "Abraham received promises concerning his seed, and of the fruit of his loins—from whose loins ye are, namely, my servant Joseph—which were to continue so long as they were in the world; and as touching Abraham and his seed, out of the world they should continue; both in the world and out of the world should they continue as innumerable as the stars; or, if ye were to count the sand upon the seashore ye could not number them.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "section-132-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "This promise is yours also, because ye are of Abraham, and the promise was made unto Abraham; and by this law is the continuation of the works of my Father, wherein he glorifieth himself.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "section-132-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "Go ye, therefore, and do the works of Abraham; enter ye into my law and ye shall be saved.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "section-132-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "But if ye enter not into my law ye cannot receive the promise of my Father, which he made unto Abraham.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "section-132-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "God commanded Abraham, and Sarah gave Hagar to Abraham to wife. And why did she do it? Because this was the law; and from Hagar sprang many people. This, therefore, was fulfilling, among other things, the promises.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "section-132-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "Was Abraham, therefore, under condemnation? Verily I say unto you, Nay; for I, the Lord, commanded it.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "section-132-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "Abraham was commanded to offer his son Isaac; nevertheless, it was written: Thou shalt not kill. Abraham, however, did not refuse, and it was accounted unto him for righteousness.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "section-132-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "Abraham received concubines, and they bore him children; and it was accounted unto him for righteousness, because they were given unto him, and he abode in my law; as Isaac also and Jacob did none other things than that which they were commanded; and because they did none other things than that which they were commanded, they have entered into their exaltation, according to the promises, and sit upon thrones, and are not angels but are gods.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "section-132-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "David also received many wives and concubines, and also Solomon and Moses my servants, as also many others of my servants, from the beginning of creation until this time; and in nothing did they sin save in those things which they received not of me.",
+      "churchId": "p38"
+    },
+    {
+      "slug": "section-132-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "David’s wives and concubines were given unto him of me, by the hand of Nathan, my servant, and others of the prophets who had the keys of this power; and in none of these things did he sin against me save in the case of Uriah and his wife; and, therefore he hath fallen from his exaltation, and received his portion; and he shall not inherit them out of the world, for I gave them unto another, saith the Lord.",
+      "churchId": "p39"
+    },
+    {
+      "slug": "section-132-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "I am the Lord thy God, and I gave unto thee, my servant Joseph, an appointment, and restore all things. Ask what ye will, and it shall be given unto you according to my word.",
+      "churchId": "p40"
+    },
+    {
+      "slug": "section-132-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "And as ye have asked concerning adultery, verily, verily, I say unto you, if a man receiveth a wife in the new and everlasting covenant, and if she be with another man, and I have not appointed unto her by the holy anointing, she hath committed adultery and shall be destroyed.",
+      "churchId": "p41"
+    },
+    {
+      "slug": "section-132-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "If she be not in the new and everlasting covenant, and she be with another man, she has committed adultery.",
+      "churchId": "p42"
+    },
+    {
+      "slug": "section-132-p43",
+      "type": "verse",
+      "number": "43",
+      "content": "And if her husband be with another woman, and he was under a vow, he hath broken his vow and hath committed adultery.",
+      "churchId": "p43"
+    },
+    {
+      "slug": "section-132-p44",
+      "type": "verse",
+      "number": "44",
+      "content": "And if she hath not committed adultery, but is innocent and hath not broken her vow, and she knoweth it, and I reveal it unto you, my servant Joseph, then shall you have power, by the power of my Holy Priesthood, to take her and give her unto him that hath not committed adultery but hath been faithful; for he shall be made ruler over many.",
+      "churchId": "p44"
+    },
+    {
+      "slug": "section-132-p45",
+      "type": "verse",
+      "number": "45",
+      "content": "For I have conferred upon you the keys and power of the priesthood, wherein I restore all things, and make known unto you all things in due time.",
+      "churchId": "p45"
+    },
+    {
+      "slug": "section-132-p46",
+      "type": "verse",
+      "number": "46",
+      "content": "And verily, verily, I say unto you, that whatsoever you seal on earth shall be sealed in heaven; and whatsoever you bind on earth, in my name and by my word, saith the Lord, it shall be eternally bound in the heavens; and whosesoever sins you remit on earth shall be remitted eternally in the heavens; and whosesoever sins you retain on earth shall be retained in heaven.",
+      "churchId": "p46"
+    },
+    {
+      "slug": "section-132-p47",
+      "type": "verse",
+      "number": "47",
+      "content": "And again, verily I say, whomsoever you bless I will bless, and whomsoever you curse I will curse, saith the Lord; for I, the Lord, am thy God.",
+      "churchId": "p47"
+    },
+    {
+      "slug": "section-132-p48",
+      "type": "verse",
+      "number": "48",
+      "content": "And again, verily I say unto you, my servant Joseph, that whatsoever you give on earth, and to whomsoever you give any one on earth, by my word and according to my law, it shall be visited with blessings and not cursings, and with my power, saith the Lord, and shall be without condemnation on earth and in heaven.",
+      "churchId": "p48"
+    },
+    {
+      "slug": "section-132-p49",
+      "type": "verse",
+      "number": "49",
+      "content": "For I am the Lord thy God, and will be with thee even unto the end of the world, and through all eternity; for verily I seal upon you your exaltation, and prepare a throne for you in the kingdom of my Father, with Abraham your father.",
+      "churchId": "p49"
+    },
+    {
+      "slug": "section-132-p50",
+      "type": "verse",
+      "number": "50",
+      "content": "Behold, I have seen your sacrifices, and will forgive all your sins; I have seen your sacrifices in obedience to that which I have told you. Go, therefore, and I make a way for your escape, as I accepted the offering of Abraham of his son Isaac.",
+      "churchId": "p50"
+    },
+    {
+      "slug": "section-132-p51",
+      "type": "verse",
+      "number": "51",
+      "content": "Verily, I say unto you: A commandment I give unto mine handmaid, Emma Smith, your wife, whom I have given unto you, that she stay herself and partake not of that which I commanded you to offer unto her; for I did it, saith the Lord, to prove you all, as I did Abraham, and that I might require an offering at your hand, by covenant and sacrifice.",
+      "churchId": "p51"
+    },
+    {
+      "slug": "section-132-p52",
+      "type": "verse",
+      "number": "52",
+      "content": "And let mine handmaid, Emma Smith, receive all those that have been given unto my servant Joseph, and who are virtuous and pure before me; and those who are not pure, and have said they were pure, shall be destroyed, saith the Lord God.",
+      "churchId": "p52"
+    },
+    {
+      "slug": "section-132-p53",
+      "type": "verse",
+      "number": "53",
+      "content": "For I am the Lord thy God, and ye shall obey my voice; and I give unto my servant Joseph that he shall be made ruler over many things; for he hath been faithful over a few things, and from henceforth I will strengthen him.",
+      "churchId": "p53"
+    },
+    {
+      "slug": "section-132-p54",
+      "type": "verse",
+      "number": "54",
+      "content": "And I command mine handmaid, Emma Smith, to abide and cleave unto my servant Joseph, and to none else. But if she will not abide this commandment she shall be destroyed, saith the Lord; for I am the Lord thy God, and will destroy her if she abide not in my law.",
+      "churchId": "p54"
+    },
+    {
+      "slug": "section-132-p55",
+      "type": "verse",
+      "number": "55",
+      "content": "But if she will not abide this commandment, then shall my servant Joseph do all things for her, even as he hath said; and I will bless him and multiply him and give unto him an hundred-fold in this world, of fathers and mothers, brothers and sisters, houses and lands, wives and children, and crowns of eternal lives in the eternal worlds.",
+      "churchId": "p55"
+    },
+    {
+      "slug": "section-132-p56",
+      "type": "verse",
+      "number": "56",
+      "content": "And again, verily I say, let mine handmaid forgive my servant Joseph his trespasses; and then shall she be forgiven her trespasses, wherein she has trespassed against me; and I, the Lord thy God, will bless her, and multiply her, and make her heart to rejoice.",
+      "churchId": "p56"
+    },
+    {
+      "slug": "section-132-p57",
+      "type": "verse",
+      "number": "57",
+      "content": "And again, I say, let not my servant Joseph put his property out of his hands, lest an enemy come and destroy him; for Satan seeketh to destroy; for I am the Lord thy God, and he is my servant; and behold, and lo, I am with him, as I was with Abraham, thy father, even unto his exaltation and glory.",
+      "churchId": "p57"
+    },
+    {
+      "slug": "section-132-p58",
+      "type": "verse",
+      "number": "58",
+      "content": "Now, as touching the law of the priesthood, there are many things pertaining thereunto.",
+      "churchId": "p58"
+    },
+    {
+      "slug": "section-132-p59",
+      "type": "verse",
+      "number": "59",
+      "content": "Verily, if a man be called of my Father, as was Aaron, by mine own voice, and by the voice of him that sent me, and I have endowed him with the keys of the power of this priesthood, if he do anything in my name, and according to my law and by my word, he will not commit sin, and I will justify him.",
+      "churchId": "p59"
+    },
+    {
+      "slug": "section-132-p60",
+      "type": "verse",
+      "number": "60",
+      "content": "Let no one, therefore, set on my servant Joseph; for I will justify him; for he shall do the sacrifice which I require at his hands for his transgressions, saith the Lord your God.",
+      "churchId": "p60"
+    },
+    {
+      "slug": "section-132-p61",
+      "type": "verse",
+      "number": "61",
+      "content": "And again, as pertaining to the law of the priesthood—if any man espouse a virgin, and desire to espouse another, and the first give her consent, and if he espouse the second, and they are virgins, and have vowed to no other man, then is he justified; he cannot commit adultery for they are given unto him; for he cannot commit adultery with that that belongeth unto him and to no one else.",
+      "churchId": "p61"
+    },
+    {
+      "slug": "section-132-p62",
+      "type": "verse",
+      "number": "62",
+      "content": "And if he have ten virgins given unto him by this law, he cannot commit adultery, for they belong to him, and they are given unto him; therefore is he justified.",
+      "churchId": "p62"
+    },
+    {
+      "slug": "section-132-p63",
+      "type": "verse",
+      "number": "63",
+      "content": "But if one or either of the ten virgins, after she is espoused, shall be with another man, she has committed adultery, and shall be destroyed; for they are given unto him to multiply and replenish the earth, according to my commandment, and to fulfil the promise which was given by my Father before the foundation of the world, and for their exaltation in the eternal worlds, that they may bear the souls of men; for herein is the work of my Father continued, that he may be glorified.",
+      "churchId": "p63"
+    },
+    {
+      "slug": "section-132-p64",
+      "type": "verse",
+      "number": "64",
+      "content": "And again, verily, verily, I say unto you, if any man have a wife, who holds the keys of this power, and he teaches unto her the law of my priesthood, as pertaining to these things, then shall she believe and administer unto him, or she shall be destroyed, saith the Lord your God; for I will destroy her; for I will magnify my name upon all those who receive and abide in my law.",
+      "churchId": "p64"
+    },
+    {
+      "slug": "section-132-p65",
+      "type": "verse",
+      "number": "65",
+      "content": "Therefore, it shall be lawful in me, if she receive not this law, for him to receive all things whatsoever I, the Lord his God, will give unto him, because she did not believe and administer unto him according to my word; and she then becomes the transgressor; and he is exempt from the law of Sarah, who administered unto Abraham according to the law when I commanded Abraham to take Hagar to wife.",
+      "churchId": "p65"
+    },
+    {
+      "slug": "section-132-p66",
+      "type": "verse",
+      "number": "66",
+      "content": "And now, as pertaining to this law, verily, verily, I say unto you, I will reveal more unto you, hereafter; therefore, let this suffice for the present. Behold, I am Alpha and Omega. Amen.",
+      "churchId": "p66"
+    }
+  ]
+}

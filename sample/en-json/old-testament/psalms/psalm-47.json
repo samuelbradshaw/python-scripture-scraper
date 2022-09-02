@@ -1,0 +1,85 @@
+{
+  "name": "Psalm 47",
+  "abbrev": "Psalm 47",
+  "number": "47",
+  "churchUri": "/scriptures/ot/ps/47",
+  "paragraphs": [
+    {
+      "slug": "psalm-47-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 47",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-47-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "To the chief Musician, A Psalm for the sons of Korah.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-47-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "O clap your hands, all ye people; shout unto God with the voice of triumph.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-47-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "For the <span class=\"small-caps\">Lord</span> most high <span class=\"clarity-word\">is</span> terrible; <span class=\"clarity-word\">he is</span> a great King over all the earth.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-47-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "He shall subdue the people under us, and the nations under our feet.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-47-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "He shall choose our inheritance for us, the excellency of Jacob whom he loved. Selah.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-47-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "God is gone up with a shout, the <span class=\"small-caps\">Lord</span> with the sound of a trumpet.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-47-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Sing praises to God, sing praises: sing praises unto our King, sing praises.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-47-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "For God <span class=\"clarity-word\">is</span> the King of all the earth: sing ye praises with understanding.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-47-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "God reigneth over the heathen: God sitteth upon the throne of his holiness.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "psalm-47-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "The princes of the people are gathered together, <span class=\"clarity-word\">even</span> the people of the God of Abraham: for the shields of the earth <span class=\"clarity-word\">belong</span> unto God: he is greatly exalted.",
+      "churchId": "p9"
+    }
+  ]
+}

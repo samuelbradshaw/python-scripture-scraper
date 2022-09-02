@@ -1,0 +1,225 @@
+{
+  "name": "Acts 22",
+  "abbrev": "Acts 22",
+  "number": "22",
+  "churchUri": "/scriptures/nt/acts/22",
+  "paragraphs": [
+    {
+      "slug": "acts-22-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 22",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "acts-22-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Men, brethren, and fathers, hear ye my defence <span class=\"clarity-word\">which I make</span> now unto you.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "acts-22-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "(And when they heard that he spake in the Hebrew tongue to them, they kept the more silence: and he saith,)",
+      "churchId": "p2"
+    },
+    {
+      "slug": "acts-22-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "I am verily a man <span class=\"clarity-word\">which am</span> a Jew, born in Tarsus, <span class=\"clarity-word\">a city</span> in Cilicia, yet brought up in this city at the feet of Gamaliel, <span class=\"clarity-word\">and</span> taught according to the perfect manner of the law of the fathers, and was zealous toward God, as ye all are this day.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "acts-22-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And I persecuted this way unto the death, binding and delivering into prisons both men and women.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "acts-22-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "As also the high priest doth bear me witness, and all the estate of the elders: from whom also I received letters unto the brethren, and went to Damascus, to bring them which were there bound unto Jerusalem, for to be punished.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "acts-22-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And it came to pass, that, as I made my journey, and was come nigh unto Damascus about noon, suddenly there shone from heaven a great light round about me.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "acts-22-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And I fell unto the ground, and heard a voice saying unto me, Saul, Saul, why persecutest thou me?",
+      "churchId": "p7"
+    },
+    {
+      "slug": "acts-22-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And I answered, Who art thou, Lord? And he said unto me, I am Jesus of Nazareth, whom thou persecutest.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "acts-22-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And they that were with me saw indeed the light, and were afraid; but they heard not the voice of him that spake to me.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "acts-22-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And I said, What shall I do, Lord? And the Lord said unto me, Arise, and go into Damascus; and there it shall be told thee of all things which are appointed for thee to do.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "acts-22-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And when I could not see for the glory of that light, being led by the hand of them that were with me, I came into Damascus.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "acts-22-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And one Ananias, a devout man according to the law, having a good report of all the Jews which dwelt <span class=\"clarity-word\">there,</span>",
+      "churchId": "p12"
+    },
+    {
+      "slug": "acts-22-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Came unto me, and stood, and said unto me, Brother Saul, receive thy sight. And the same hour I looked up upon him.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "acts-22-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And he said, The God of our fathers hath chosen thee, that thou shouldest know his will, and see that Just One, and shouldest hear the voice of his mouth.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "acts-22-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "For thou shalt be his witness unto all men of what thou hast seen and heard.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "acts-22-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And now why tarriest thou? arise, and be baptized, and wash away thy sins, calling on the name of the Lord.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "acts-22-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And it came to pass, that, when I was come again to Jerusalem, even while I prayed in the temple, I was in a trance;",
+      "churchId": "p17"
+    },
+    {
+      "slug": "acts-22-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And saw him saying unto me, Make haste, and get thee quickly out of Jerusalem: for they will not receive thy testimony concerning me.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "acts-22-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And I said, Lord, they know that I imprisoned and beat in every synagogue them that believed on thee:",
+      "churchId": "p19"
+    },
+    {
+      "slug": "acts-22-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And when the blood of thy martyr Stephen was shed, I also was standing by, and consenting unto his death, and kept the raiment of them that slew him.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "acts-22-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And he said unto me, Depart: for I will send thee far hence unto the Gentiles.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "acts-22-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And they gave him audience unto this word, and <span class=\"clarity-word\">then</span> lifted up their voices, and said, Away with such a <span class=\"clarity-word\">fellow</span> from the earth: for it is not fit that he should live.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "acts-22-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And as they cried out, and cast off <span class=\"clarity-word\">their</span> clothes, and threw dust into the air,",
+      "churchId": "p23"
+    },
+    {
+      "slug": "acts-22-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "The chief captain commanded him to be brought into the castle, and bade that he should be examined by scourging; that he might know wherefore they cried so against him.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "acts-22-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And as they bound him with thongs, Paul said unto the centurion that stood by, Is it lawful for you to scourge a man that is a Roman, and uncondemned?",
+      "churchId": "p25"
+    },
+    {
+      "slug": "acts-22-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "When the centurion heard <span class=\"clarity-word\">that,</span> he went and told the chief captain, saying, Take heed what thou doest: for this man is a Roman.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "acts-22-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "Then the chief captain came, and said unto him, Tell me, art thou a Roman? He said, Yea.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "acts-22-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And the chief captain answered, With a great sum obtained I this freedom. And Paul said, But I was <span class=\"clarity-word\">free</span> born.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "acts-22-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "Then straightway they departed from him which should have examined him: and the chief captain also was afraid, after he knew that he was a Roman, and because he had bound him.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "acts-22-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "On the morrow, because he would have known the certainty wherefore he was accused of the Jews, he loosed him from <span class=\"clarity-word\">his</span> bands, and commanded the chief priests and all their council to appear, and brought Paul down, and set him before them.",
+      "churchId": "p30"
+    }
+  ]
+}

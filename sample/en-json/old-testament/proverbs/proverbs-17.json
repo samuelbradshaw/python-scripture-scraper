@@ -1,0 +1,211 @@
+{
+  "name": "Proverbs 17",
+  "abbrev": "Prov. 17",
+  "number": "17",
+  "churchUri": "/scriptures/ot/prov/17",
+  "paragraphs": [
+    {
+      "slug": "proverbs-17-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 17",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "proverbs-17-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Better <span class=\"clarity-word\">is</span> a dry morsel, and quietness therewith, than an house full of sacrifices <span class=\"clarity-word\">with</span> strife.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "proverbs-17-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "A wise servant shall have rule over a son that causeth shame, and shall have part of the inheritance among the brethren.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "proverbs-17-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "The fining pot <span class=\"clarity-word\">is</span> for silver, and the furnace for gold: but the <span class=\"small-caps\">Lord</span> trieth the hearts.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "proverbs-17-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "A wicked doer giveth heed to false lips; <span class=\"clarity-word\">and</span> a liar giveth ear to a naughty tongue.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "proverbs-17-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Whoso mocketh the poor reproacheth his Maker: <span class=\"clarity-word\">and</span> he that is glad at calamities shall not be unpunished.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "proverbs-17-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Children’s children <span class=\"clarity-word\">are</span> the crown of old men; and the glory of children <span class=\"clarity-word\">are</span> their fathers.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "proverbs-17-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Excellent speech becometh not a fool: much less do lying lips a prince.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "proverbs-17-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "A gift <span class=\"clarity-word\">is as</span> a precious stone in the eyes of him that hath it: whithersoever it turneth, it prospereth.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "proverbs-17-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "He that covereth a transgression seeketh love; but he that repeateth a matter separateth <span class=\"clarity-word\">very</span> friends.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "proverbs-17-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "A reproof entereth more into a wise man than an hundred stripes into a fool.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "proverbs-17-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "An evil <span class=\"clarity-word\">man</span> seeketh only rebellion: therefore a cruel messenger shall be sent against him.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "proverbs-17-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Let a bear robbed of her whelps meet a man, rather than a fool in his folly.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "proverbs-17-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Whoso rewardeth evil for good, evil shall not depart from his house.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "proverbs-17-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "The beginning of strife <span class=\"clarity-word\">is as</span> when one letteth out water: therefore leave off contention, before it be meddled with.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "proverbs-17-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "He that justifieth the wicked, and he that condemneth the just, even they both <span class=\"clarity-word\">are</span> abomination to the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "proverbs-17-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Wherefore <span class=\"clarity-word\">is there</span> a price in the hand of a fool to get wisdom, seeing <span class=\"clarity-word\">he hath</span> no heart <span class=\"clarity-word\">to it?</span>",
+      "churchId": "p16"
+    },
+    {
+      "slug": "proverbs-17-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "A friend loveth at all times, and a brother is born for adversity.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "proverbs-17-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "A man void of understanding striketh hands, <span class=\"clarity-word\">and</span> becometh surety in the presence of his friend.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "proverbs-17-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "He loveth transgression that loveth strife: <span class=\"clarity-word\">and</span> he that exalteth his gate seeketh destruction.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "proverbs-17-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "He that hath a froward heart findeth no good: and he that hath a perverse tongue falleth into mischief.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "proverbs-17-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "He that begetteth a fool <span class=\"clarity-word\">doeth it</span> to his sorrow: and the father of a fool hath no joy.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "proverbs-17-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "A merry heart doeth good <span class=\"clarity-word\">like</span> a medicine: but a broken spirit drieth the bones.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "proverbs-17-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "A wicked <span class=\"clarity-word\">man</span> taketh a gift out of the bosom to pervert the ways of judgment.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "proverbs-17-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Wisdom <span class=\"clarity-word\">is</span> before him that hath understanding; but the eyes of a fool <span class=\"clarity-word\">are</span> in the ends of the earth.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "proverbs-17-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "A foolish son <span class=\"clarity-word\">is</span> a grief to his father, and bitterness to her that bare him.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "proverbs-17-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "Also to punish the just <span class=\"clarity-word\">is</span> not good, <span class=\"clarity-word\">nor</span> to strike princes for equity.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "proverbs-17-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "He that hath knowledge spareth his words: <span class=\"clarity-word\">and</span> a man of understanding is of an excellent spirit.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "proverbs-17-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "Even a fool, when he holdeth his peace, is counted wise: <span class=\"clarity-word\">and</span> he that shutteth his lips <span class=\"clarity-word\">is esteemed</span> a man of understanding.",
+      "churchId": "p28"
+    }
+  ]
+}

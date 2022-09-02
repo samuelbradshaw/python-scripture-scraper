@@ -1,0 +1,78 @@
+{
+  "name": "Hosea 14",
+  "abbrev": "Hosea 14",
+  "number": "14",
+  "churchUri": "/scriptures/ot/hosea/14",
+  "paragraphs": [
+    {
+      "slug": "hosea-14-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 14",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "hosea-14-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "O Israel, return unto the <span class=\"small-caps\">Lord</span> thy God; for thou hast fallen by thine iniquity.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "hosea-14-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Take with you words, and turn to the <span class=\"small-caps\">Lord</span>: say unto him, Take away all iniquity, and receive <span class=\"clarity-word\">us</span> graciously: so will we render the calves of our lips.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "hosea-14-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Asshur shall not save us; we will not ride upon horses: neither will we say any more to the work of our hands, <span class=\"clarity-word\">Ye are</span> our gods: for in thee the fatherless findeth mercy.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "hosea-14-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "¶ I will heal their backsliding, I will love them freely: for mine anger is turned away from him.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "hosea-14-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "I will be as the dew unto Israel: he shall grow as the lily, and cast forth his roots as Lebanon.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "hosea-14-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "His branches shall spread, and his beauty shall be as the olive tree, and his smell as Lebanon.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "hosea-14-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "They that dwell under his shadow shall return; they shall revive <span class=\"clarity-word\">as</span> the corn, and grow as the vine: the scent thereof <span class=\"clarity-word\">shall be</span> as the wine of Lebanon.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "hosea-14-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Ephraim <span class=\"clarity-word\">shall say,</span> What have I to do any more with idols? I have heard <span class=\"clarity-word\">him,</span> and observed him: I <span class=\"clarity-word\">am</span> like a green fir tree. From me is thy fruit found.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "hosea-14-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Who <span class=\"clarity-word\">is</span> wise, and he shall understand these <span class=\"clarity-word\">things?</span> prudent, and he shall know them? for the ways of the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">are</span> right, and the just shall walk in them: but the transgressors shall fall therein.",
+      "churchId": "p9"
+    }
+  ]
+}

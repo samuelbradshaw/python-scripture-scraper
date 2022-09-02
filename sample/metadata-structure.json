@@ -1,0 +1,486 @@
+{
+  "old-testament": {
+    "name": "Old Testament",
+    "abbrev": "OT",
+    "churchUri": "/scriptures/ot",
+    "numBooks": 39,
+    "books": {
+      "genesis": {
+        "churchUri": "/scriptures/ot/gen",
+        "numberedChapters": 50,
+        "namedChapters": []
+      },
+      "exodus": {
+        "churchUri": "/scriptures/ot/ex",
+        "numberedChapters": 40,
+        "namedChapters": []
+      },
+      "leviticus": {
+        "churchUri": "/scriptures/ot/lev",
+        "numberedChapters": 27,
+        "namedChapters": []
+      },
+      "numbers": {
+        "churchUri": "/scriptures/ot/num",
+        "numberedChapters": 36,
+        "namedChapters": []
+      },
+      "deuteronomy": {
+        "churchUri": "/scriptures/ot/deut",
+        "numberedChapters": 34,
+        "namedChapters": []
+      },
+      "joshua": {
+        "churchUri": "/scriptures/ot/josh",
+        "numberedChapters": 24,
+        "namedChapters": []
+      },
+      "judges": {
+        "churchUri": "/scriptures/ot/judg",
+        "numberedChapters": 21,
+        "namedChapters": []
+      },
+      "ruth": {
+        "churchUri": "/scriptures/ot/ruth",
+        "numberedChapters": 4,
+        "namedChapters": []
+      },
+      "1-samuel": {
+        "churchUri": "/scriptures/ot/1-sam",
+        "numberedChapters": 31,
+        "namedChapters": []
+      },
+      "2-samuel": {
+        "churchUri": "/scriptures/ot/2-sam",
+        "numberedChapters": 24,
+        "namedChapters": []
+      },
+      "1-kings": {
+        "churchUri": "/scriptures/ot/1-kgs",
+        "numberedChapters": 22,
+        "namedChapters": []
+      },
+      "2-kings": {
+        "churchUri": "/scriptures/ot/2-kgs",
+        "numberedChapters": 25,
+        "namedChapters": []
+      },
+      "1-chronicles": {
+        "churchUri": "/scriptures/ot/1-chr",
+        "numberedChapters": 29,
+        "namedChapters": []
+      },
+      "2-chronicles": {
+        "churchUri": "/scriptures/ot/2-chr",
+        "numberedChapters": 36,
+        "namedChapters": []
+      },
+      "ezra": {
+        "churchUri": "/scriptures/ot/ezra",
+        "numberedChapters": 10,
+        "namedChapters": []
+      },
+      "nehemiah": {
+        "churchUri": "/scriptures/ot/neh",
+        "numberedChapters": 13,
+        "namedChapters": []
+      },
+      "esther": {
+        "churchUri": "/scriptures/ot/esth",
+        "numberedChapters": 10,
+        "namedChapters": []
+      },
+      "job": {
+        "churchUri": "/scriptures/ot/job",
+        "numberedChapters": 42,
+        "namedChapters": []
+      },
+      "psalms": {
+        "churchUri": "/scriptures/ot/ps",
+        "numberedChapters": 150,
+        "namedChapters": []
+      },
+      "proverbs": {
+        "churchUri": "/scriptures/ot/prov",
+        "numberedChapters": 31,
+        "namedChapters": []
+      },
+      "ecclesiastes": {
+        "churchUri": "/scriptures/ot/eccl",
+        "numberedChapters": 12,
+        "namedChapters": []
+      },
+      "song-of-solomon": {
+        "churchUri": "/scriptures/ot/song",
+        "numberedChapters": 8,
+        "namedChapters": []
+      },
+      "isaiah": {
+        "churchUri": "/scriptures/ot/isa",
+        "numberedChapters": 66,
+        "namedChapters": []
+      },
+      "jeremiah": {
+        "churchUri": "/scriptures/ot/jer",
+        "numberedChapters": 52,
+        "namedChapters": []
+      },
+      "lamentations": {
+        "churchUri": "/scriptures/ot/lam",
+        "numberedChapters": 5,
+        "namedChapters": []
+      },
+      "ezekiel": {
+        "churchUri": "/scriptures/ot/ezek",
+        "numberedChapters": 48,
+        "namedChapters": []
+      },
+      "daniel": {
+        "churchUri": "/scriptures/ot/dan",
+        "numberedChapters": 12,
+        "namedChapters": []
+      },
+      "hosea": {
+        "churchUri": "/scriptures/ot/hosea",
+        "numberedChapters": 14,
+        "namedChapters": []
+      },
+      "joel": {
+        "churchUri": "/scriptures/ot/joel",
+        "numberedChapters": 3,
+        "namedChapters": []
+      },
+      "amos": {
+        "churchUri": "/scriptures/ot/amos",
+        "numberedChapters": 9,
+        "namedChapters": []
+      },
+      "obadiah": {
+        "churchUri": "/scriptures/ot/obad",
+        "numberedChapters": 1,
+        "namedChapters": []
+      },
+      "jonah": {
+        "churchUri": "/scriptures/ot/jonah",
+        "numberedChapters": 4,
+        "namedChapters": []
+      },
+      "micah": {
+        "churchUri": "/scriptures/ot/micah",
+        "numberedChapters": 7,
+        "namedChapters": []
+      },
+      "nahum": {
+        "churchUri": "/scriptures/ot/nahum",
+        "numberedChapters": 3,
+        "namedChapters": []
+      },
+      "habakkuk": {
+        "churchUri": "/scriptures/ot/hab",
+        "numberedChapters": 3,
+        "namedChapters": []
+      },
+      "zephaniah": {
+        "churchUri": "/scriptures/ot/zeph",
+        "numberedChapters": 3,
+        "namedChapters": []
+      },
+      "haggai": {
+        "churchUri": "/scriptures/ot/hag",
+        "numberedChapters": 2,
+        "namedChapters": []
+      },
+      "zechariah": {
+        "churchUri": "/scriptures/ot/zech",
+        "numberedChapters": 14,
+        "namedChapters": []
+      },
+      "malachi": {
+        "churchUri": "/scriptures/ot/mal",
+        "numberedChapters": 4,
+        "namedChapters": []
+      }
+    }
+  },
+  "new-testament": {
+    "name": "New Testament",
+    "abbrev": "NT",
+    "churchUri": "/scriptures/nt",
+    "numBooks": 27,
+    "books": {
+      "matthew": {
+        "churchUri": "/scriptures/nt/matt",
+        "numberedChapters": 28,
+        "namedChapters": []
+      },
+      "mark": {
+        "churchUri": "/scriptures/nt/mark",
+        "numberedChapters": 16,
+        "namedChapters": []
+      },
+      "luke": {
+        "churchUri": "/scriptures/nt/luke",
+        "numberedChapters": 24,
+        "namedChapters": []
+      },
+      "john": {
+        "churchUri": "/scriptures/nt/john",
+        "numberedChapters": 21,
+        "namedChapters": []
+      },
+      "acts": {
+        "churchUri": "/scriptures/nt/acts",
+        "numberedChapters": 28,
+        "namedChapters": []
+      },
+      "romans": {
+        "churchUri": "/scriptures/nt/rom",
+        "numberedChapters": 16,
+        "namedChapters": []
+      },
+      "1-corinthians": {
+        "churchUri": "/scriptures/nt/1-cor",
+        "numberedChapters": 16,
+        "namedChapters": []
+      },
+      "2-corinthians": {
+        "churchUri": "/scriptures/nt/2-cor",
+        "numberedChapters": 13,
+        "namedChapters": []
+      },
+      "galations": {
+        "churchUri": "/scriptures/nt/gal",
+        "numberedChapters": 6,
+        "namedChapters": []
+      },
+      "ephesians": {
+        "churchUri": "/scriptures/nt/eph",
+        "numberedChapters": 6,
+        "namedChapters": []
+      },
+      "philippians": {
+        "churchUri": "/scriptures/nt/philip",
+        "numberedChapters": 4,
+        "namedChapters": []
+      },
+      "colossians": {
+        "churchUri": "/scriptures/nt/col",
+        "numberedChapters": 4,
+        "namedChapters": []
+      },
+      "1-thessalonians": {
+        "churchUri": "/scriptures/nt/1-thes",
+        "numberedChapters": 5,
+        "namedChapters": []
+      },
+      "2-thessalonians": {
+        "churchUri": "/scriptures/nt/2-thes",
+        "numberedChapters": 3,
+        "namedChapters": []
+      },
+      "1-timothy": {
+        "churchUri": "/scriptures/nt/1-tim",
+        "numberedChapters": 6,
+        "namedChapters": []
+      },
+      "2-timothy": {
+        "churchUri": "/scriptures/nt/2-tim",
+        "numberedChapters": 4,
+        "namedChapters": []
+      },
+      "titus": {
+        "churchUri": "/scriptures/nt/titus",
+        "numberedChapters": 3,
+        "namedChapters": []
+      },
+      "philemon": {
+        "churchUri": "/scriptures/nt/philem",
+        "numberedChapters": 1,
+        "namedChapters": []
+      },
+      "hebrews": {
+        "churchUri": "/scriptures/nt/heb",
+        "numberedChapters": 13,
+        "namedChapters": []
+      },
+      "james": {
+        "churchUri": "/scriptures/nt/james",
+        "numberedChapters": 5,
+        "namedChapters": []
+      },
+      "1-peter": {
+        "churchUri": "/scriptures/nt/1-pet",
+        "numberedChapters": 5,
+        "namedChapters": []
+      },
+      "2-peter": {
+        "churchUri": "/scriptures/nt/2-pet",
+        "numberedChapters": 3,
+        "namedChapters": []
+      },
+      "1-john": {
+        "churchUri": "/scriptures/nt/1-jn",
+        "numberedChapters": 5,
+        "namedChapters": []
+      },
+      "2-john": {
+        "churchUri": "/scriptures/nt/2-jn",
+        "numberedChapters": 1,
+        "namedChapters": []
+      },
+      "3-john": {
+        "churchUri": "/scriptures/nt/3-jn",
+        "numberedChapters": 1,
+        "namedChapters": []
+      },
+      "jude": {
+        "churchUri": "/scriptures/nt/jude",
+        "numberedChapters": 1,
+        "namedChapters": []
+      },
+      "revelation": {
+        "churchUri": "/scriptures/nt/rev",
+        "numberedChapters": 22,
+        "namedChapters": []
+      }
+    }
+  },
+  "book-of-mormon": {
+    "name": "Book of Mormon",
+    "abbrev": "BofM",
+    "churchUri": "/scriptures/bofm",
+    "numBooks": 15,
+    "books": {
+      "1-nephi": {
+        "churchUri": "/scriptures/bofm/1-ne",
+        "numberedChapters": 22,
+        "namedChapters": []
+      },
+      "2-nephi": {
+        "churchUri": "/scriptures/bofm/2-ne",
+        "numberedChapters": 33,
+        "namedChapters": []
+      },
+      "jacob": {
+        "churchUri": "/scriptures/bofm/jacob",
+        "numberedChapters": 7,
+        "namedChapters": []
+      },
+      "enos": {
+        "churchUri": "/scriptures/bofm/enos",
+        "numberedChapters": 1,
+        "namedChapters": []
+      },
+      "jarom": {
+        "churchUri": "/scriptures/bofm/jarom",
+        "numberedChapters": 1,
+        "namedChapters": []
+      },
+      "omni": {
+        "churchUri": "/scriptures/bofm/omni",
+        "numberedChapters": 1,
+        "namedChapters": []
+      },
+      "words-of-mormon": {
+        "churchUri": "/scriptures/bofm/w-of-m",
+        "numberedChapters": 1,
+        "namedChapters": []
+      },
+      "mosiah": {
+        "churchUri": "/scriptures/bofm/mosiah",
+        "numberedChapters": 29,
+        "namedChapters": []
+      },
+      "alma": {
+        "churchUri": "/scriptures/bofm/alma",
+        "numberedChapters": 63,
+        "namedChapters": []
+      },
+      "helaman": {
+        "churchUri": "/scriptures/bofm/hel",
+        "numberedChapters": 16,
+        "namedChapters": []
+      },
+      "3-nephi": {
+        "churchUri": "/scriptures/bofm/3-ne",
+        "numberedChapters": 30,
+        "namedChapters": []
+      },
+      "4-nephi": {
+        "churchUri": "/scriptures/bofm/4-ne",
+        "numberedChapters": 1,
+        "namedChapters": []
+      },
+      "mormon": {
+        "churchUri": "/scriptures/bofm/morm",
+        "numberedChapters": 9,
+        "namedChapters": []
+      },
+      "ether": {
+        "churchUri": "/scriptures/bofm/ether",
+        "numberedChapters": 15,
+        "namedChapters": []
+      },
+      "moroni": {
+        "churchUri": "/scriptures/bofm/moro",
+        "numberedChapters": 10,
+        "namedChapters": []
+      }
+    }
+  },
+  "doctrine-and-covenants": {
+    "name": "Doctrine and Covenants",
+    "abbrev": "D&C",
+    "churchUri": "/scriptures/dc-testament",
+    "numBooks": 2,
+    "books": {
+      "sections": {
+        "churchUri": "/scriptures/dc-testament/dc",
+        "numberedChapters": 138,
+        "namedChapters": []
+      },
+      "official-declarations": {
+        "churchUri": "/scriptures/dc-testament/od",
+        "numberedChapters": 2,
+        "namedChapters": []
+      }
+    }
+  },
+  "pearl-of-great-price": {
+    "name": "Pearl of Great Price",
+    "abbrev": "PGP",
+    "churchUri": "/scriptures/pgp",
+    "numBooks": 5,
+    "books": {
+      "moses": {
+        "churchUri": "/scriptures/pgp/moses",
+        "numberedChapters": 8,
+        "namedChapters": []
+      },
+      "abraham": {
+        "churchUri": "/scriptures/pgp/abr",
+        "numberedChapters": 5,
+        "namedChapters": [
+          "fac-1",
+          "fac-2",
+          "fac-3"
+        ]
+      },
+      "joseph-smith-matthew": {
+        "churchUri": "/scriptures/pgp/js-m",
+        "numberedChapters": 1,
+        "namedChapters": []
+      },
+      "joseph-smith-history": {
+        "churchUri": "/scriptures/pgp/js-h",
+        "numberedChapters": 1,
+        "namedChapters": []
+      },
+      "articles-of-faith": {
+        "churchUri": "/scriptures/pgp/a-of-f",
+        "numberedChapters": 1,
+        "namedChapters": []
+      }
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Doctrine and Covenants 80",
+  "abbrev": "D&C 80",
+  "number": "80",
+  "churchUri": "/scriptures/dc-testament/dc/80",
+  "paragraphs": [
+    {
+      "slug": "section-80-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Section 80",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "section-80-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Verily, thus saith the Lord unto you my servant Stephen Burnett: Go ye, go ye into the world and preach the gospel to every creature that cometh under the sound of your voice.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "section-80-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And inasmuch as you desire a companion, I will give unto you my servant Eden Smith.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "section-80-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Wherefore, go ye and preach my gospel, whether to the north or to the south, to the east or to the west, it mattereth not, for ye cannot go amiss.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "section-80-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Therefore, declare the things which ye have heard, and verily believe, and know to be true.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "section-80-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Behold, this is the will of him who hath called you, your Redeemer, even Jesus Christ. Amen.",
+      "churchId": "p5"
+    }
+  ]
+}

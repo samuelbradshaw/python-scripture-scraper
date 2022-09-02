@@ -1,0 +1,190 @@
+{
+  "name": "Romans 4",
+  "abbrev": "Rom. 4",
+  "number": "4",
+  "churchUri": "/scriptures/nt/rom/4",
+  "paragraphs": [
+    {
+      "slug": "romans-4-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 4",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "romans-4-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "What shall we say then that Abraham our father, as pertaining to the flesh, hath found?",
+      "churchId": "p1"
+    },
+    {
+      "slug": "romans-4-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "For if Abraham were justified by works, he hath <span class=\"clarity-word\">whereof</span> to glory; but not before God.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "romans-4-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "For what saith the scripture? Abraham believed God, and it was counted unto him for righteousness.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "romans-4-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Now to him that worketh is the reward not reckoned of grace, but of debt.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "romans-4-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "But to him that worketh not, but believeth on him that justifieth the ungodly, his faith is counted for righteousness.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "romans-4-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Even as David also describeth the blessedness of the man, unto whom God imputeth righteousness without works,",
+      "churchId": "p6"
+    },
+    {
+      "slug": "romans-4-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "<span class=\"clarity-word\">Saying,</span> Blessed <span class=\"clarity-word\">are</span> they whose iniquities are forgiven, and whose sins are covered.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "romans-4-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Blessed <span class=\"clarity-word\">is</span> the man to whom the Lord will not impute sin.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "romans-4-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "<span class=\"clarity-word\">Cometh</span> this blessedness then upon the circumcision <span class=\"clarity-word\">only,</span> or upon the uncircumcision also? for we say that faith was reckoned to Abraham for righteousness.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "romans-4-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "How was it then reckoned? when he was in circumcision, or in uncircumcision? Not in circumcision, but in uncircumcision.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "romans-4-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And he received the sign of circumcision, a seal of the righteousness of the faith which <span class=\"clarity-word\">he had yet</span> being uncircumcised: that he might be the father of all them that believe, though they be not circumcised; that righteousness might be imputed unto them also:",
+      "churchId": "p11"
+    },
+    {
+      "slug": "romans-4-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And the father of circumcision to them who are not of the circumcision only, but who also walk in the steps of that faith of our father Abraham, which <span class=\"clarity-word\">he had</span> being <span class=\"clarity-word\">yet</span> uncircumcised.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "romans-4-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "For the promise, that he should be the heir of the world, <span class=\"clarity-word\">was</span> not to Abraham, or to his seed, through the law, but through the righteousness of faith.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "romans-4-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "For if they which are of the law <span class=\"clarity-word\">be</span> heirs, faith is made void, and the promise made of none effect:",
+      "churchId": "p14"
+    },
+    {
+      "slug": "romans-4-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Because the law worketh wrath: for where no law is, <span class=\"clarity-word\">there is</span> no transgression.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "romans-4-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Therefore <span class=\"clarity-word\">it is</span> of faith, that <span class=\"clarity-word\">it might be</span> by grace; to the end the promise might be sure to all the seed; not to that only which is of the law, but to that also which is of the faith of Abraham; who is the father of us all,",
+      "churchId": "p16"
+    },
+    {
+      "slug": "romans-4-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "(As it is written, I have made thee a father of many nations,) before him whom he believed, <span class=\"clarity-word\">even</span> God, who quickeneth the dead, and calleth those things which be not as though they were.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "romans-4-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Who against hope believed in hope, that he might become the father of many nations, according to that which was spoken, So shall thy seed be.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "romans-4-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And being not weak in faith, he considered not his own body now dead, when he was about an hundred years old, neither yet the deadness of Sara’s womb:",
+      "churchId": "p19"
+    },
+    {
+      "slug": "romans-4-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "He staggered not at the promise of God through unbelief; but was strong in faith, giving glory to God;",
+      "churchId": "p20"
+    },
+    {
+      "slug": "romans-4-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And being fully persuaded that, what he had promised, he was able also to perform.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "romans-4-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And therefore it was imputed to him for righteousness.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "romans-4-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Now it was not written for his sake alone, that it was imputed to him;",
+      "churchId": "p23"
+    },
+    {
+      "slug": "romans-4-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "But for us also, to whom it shall be imputed, if we believe on him that raised up Jesus our Lord from the dead;",
+      "churchId": "p24"
+    },
+    {
+      "slug": "romans-4-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Who was delivered for our offences, and was raised again for our justification.",
+      "churchId": "p25"
+    }
+  ]
+}

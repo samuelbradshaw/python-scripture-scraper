@@ -1,0 +1,162 @@
+{
+  "name": "Daniel 10",
+  "abbrev": "Dan. 10",
+  "number": "10",
+  "churchUri": "/scriptures/ot/dan/10",
+  "paragraphs": [
+    {
+      "slug": "daniel-10-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 10",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "daniel-10-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "In the third year of Cyrus king of Persia a thing was revealed unto Daniel, whose name was called Belteshazzar; and the thing <span class=\"clarity-word\">was</span> true, but the time appointed <span class=\"clarity-word\">was</span> long: and he understood the thing, and had understanding of the vision.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "daniel-10-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "In those days I Daniel was mourning three full weeks.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "daniel-10-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "I ate no pleasant bread, neither came flesh nor wine in my mouth, neither did I anoint myself at all, till three whole weeks were fulfilled.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "daniel-10-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And in the four and twentieth day of the first month, as I was by the side of the great river, which <span class=\"clarity-word\">is</span> Hiddekel;",
+      "churchId": "p4"
+    },
+    {
+      "slug": "daniel-10-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Then I lifted up mine eyes, and looked, and behold a certain man clothed in linen, whose loins <span class=\"clarity-word\">were</span> girded with fine gold of Uphaz:",
+      "churchId": "p5"
+    },
+    {
+      "slug": "daniel-10-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "His body also <span class=\"clarity-word\">was</span> like the beryl, and his face as the appearance of lightning, and his eyes as lamps of fire, and his arms and his feet like in colour to polished brass, and the voice of his words like the voice of a multitude.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "daniel-10-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And I Daniel alone saw the vision: for the men that were with me saw not the vision; but a great quaking fell upon them, so that they fled to hide themselves.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "daniel-10-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Therefore I was left alone, and saw this great vision, and there remained no strength in me: for my comeliness was turned in me into corruption, and I retained no strength.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "daniel-10-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Yet heard I the voice of his words: and when I heard the voice of his words, then was I in a deep sleep on my face, and my face toward the ground.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "daniel-10-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "¶ And, behold, an hand touched me, which set me upon my knees and <span class=\"clarity-word\">upon</span> the palms of my hands.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "daniel-10-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And he said unto me, O Daniel, a man greatly beloved, understand the words that I speak unto thee, and stand upright: for unto thee am I now sent. And when he had spoken this word unto me, I stood trembling.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "daniel-10-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Then said he unto me, Fear not, Daniel: for from the first day that thou didst set thine heart to understand, and to chasten thyself before thy God, thy words were heard, and I am come for thy words.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "daniel-10-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "But the prince of the kingdom of Persia withstood me one and twenty days: but, lo, Michael, one of the chief princes, came to help me; and I remained there with the kings of Persia.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "daniel-10-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Now I am come to make thee understand what shall befall thy people in the latter days: for yet the vision <span class=\"clarity-word\">is</span> for <span class=\"clarity-word\">many</span> days.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "daniel-10-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And when he had spoken such words unto me, I set my face toward the ground, and I became dumb.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "daniel-10-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And, behold, <span class=\"clarity-word\">one</span> like the similitude of the sons of men touched my lips: then I opened my mouth, and spake, and said unto him that stood before me, O my lord, by the vision my sorrows are turned upon me, and I have retained no strength.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "daniel-10-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "For how can the servant of this my lord talk with this my lord? for as for me, straightway there remained no strength in me, neither is there breath left in me.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "daniel-10-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Then there came again and touched me <span class=\"clarity-word\">one</span> like the appearance of a man, and he strengthened me,",
+      "churchId": "p18"
+    },
+    {
+      "slug": "daniel-10-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And said, O man greatly beloved, fear not: peace <span class=\"clarity-word\">be</span> unto thee, be strong, yea, be strong. And when he had spoken unto me, I was strengthened, and said, Let my lord speak; for thou hast strengthened me.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "daniel-10-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Then said he, Knowest thou wherefore I come unto thee? and now will I return to fight with the prince of Persia: and when I am gone forth, lo, the prince of Grecia shall come.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "daniel-10-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "But I will shew thee that which is noted in the scripture of truth: and <span class=\"clarity-word\">there is</span> none that holdeth with me in these things, but Michael your prince.",
+      "churchId": "p21"
+    }
+  ]
+}

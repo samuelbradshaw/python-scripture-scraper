@@ -1,0 +1,176 @@
+{
+  "name": "Isaiah 24",
+  "abbrev": "Isa. 24",
+  "number": "24",
+  "churchUri": "/scriptures/ot/isa/24",
+  "paragraphs": [
+    {
+      "slug": "isaiah-24-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 24",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "isaiah-24-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Behold, the <span class=\"small-caps\">Lord</span> maketh the earth empty, and maketh it waste, and turneth it upside down, and scattereth abroad the inhabitants thereof.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "isaiah-24-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And it shall be, as with the people, so with the priest; as with the servant, so with his master; as with the maid, so with her mistress; as with the buyer, so with the seller; as with the lender, so with the borrower; as with the taker of usury, so with the giver of usury to him.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "isaiah-24-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "The land shall be utterly emptied, and utterly spoiled: for the <span class=\"small-caps\">Lord</span> hath spoken this word.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "isaiah-24-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "The earth mourneth <span class=\"clarity-word\">and</span> fadeth away, the world languisheth <span class=\"clarity-word\">and</span> fadeth away, the haughty people of the earth do languish.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "isaiah-24-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "The earth also is defiled under the inhabitants thereof; because they have transgressed the laws, changed the ordinance, broken the everlasting covenant.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "isaiah-24-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Therefore hath the curse devoured the earth, and they that dwell therein are desolate: therefore the inhabitants of the earth are burned, and few men left.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "isaiah-24-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "The new wine mourneth, the vine languisheth, all the merryhearted do sigh.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "isaiah-24-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "The mirth of tabrets ceaseth, the noise of them that rejoice endeth, the joy of the harp ceaseth.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "isaiah-24-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "They shall not drink wine with a song; strong drink shall be bitter to them that drink it.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "isaiah-24-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "The city of confusion is broken down: every house is shut up, that no man may come in.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "isaiah-24-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "<span class=\"clarity-word\">There is</span> a crying for wine in the streets; all joy is darkened, the mirth of the land is gone.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "isaiah-24-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "In the city is left desolation, and the gate is smitten with destruction.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "isaiah-24-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "¶ When thus it shall be in the midst of the land among the people, <span class=\"clarity-word\">there shall be</span> as the shaking of an olive tree, <span class=\"clarity-word\">and</span> as the gleaning grapes when the vintage is done.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "isaiah-24-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "They shall lift up their voice, they shall sing for the majesty of the <span class=\"small-caps\">Lord</span>, they shall cry aloud from the sea.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "isaiah-24-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Wherefore glorify ye the <span class=\"small-caps\">Lord</span> in the fires, <span class=\"clarity-word\">even</span> the name of the <span class=\"small-caps\">Lord</span> God of Israel in the isles of the sea.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "isaiah-24-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "¶ From the uttermost part of the earth have we heard songs, <span class=\"clarity-word\">even</span> glory to the righteous. But I said, My leanness, my leanness, woe unto me! the treacherous dealers have dealt treacherously; yea, the treacherous dealers have dealt very treacherously.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "isaiah-24-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Fear, and the pit, and the snare, <span class=\"clarity-word\">are</span> upon thee, O inhabitant of the earth.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "isaiah-24-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And it shall come to pass, <span class=\"clarity-word\">that</span> he who fleeth from the noise of the fear shall fall into the pit; and he that cometh up out of the midst of the pit shall be taken in the snare: for the windows from on high are open, and the foundations of the earth do shake.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "isaiah-24-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "The earth is utterly broken down, the earth is clean dissolved, the earth is moved exceedingly.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "isaiah-24-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "The earth shall reel to and fro like a drunkard, and shall be removed like a cottage; and the transgression thereof shall be heavy upon it; and it shall fall, and not rise again.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "isaiah-24-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And it shall come to pass in that day, <span class=\"clarity-word\">that</span> the <span class=\"small-caps\">Lord</span> shall punish the host of the high ones <span class=\"clarity-word\">that are</span> on high, and the kings of the earth upon the earth.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "isaiah-24-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And they shall be gathered together, <span class=\"clarity-word\">as</span> prisoners are gathered in the pit, and shall be shut up in the prison, and after many days shall they be visited.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "isaiah-24-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Then the moon shall be confounded, and the sun ashamed, when the <span class=\"small-caps\">Lord</span> of hosts shall reign in mount Zion, and in Jerusalem, and before his ancients gloriously.",
+      "churchId": "p23"
+    }
+  ]
+}

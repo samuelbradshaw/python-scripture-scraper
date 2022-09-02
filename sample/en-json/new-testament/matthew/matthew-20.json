@@ -1,0 +1,253 @@
+{
+  "name": "Matthew 20",
+  "abbrev": "Matt. 20",
+  "number": "20",
+  "churchUri": "/scriptures/nt/matt/20",
+  "paragraphs": [
+    {
+      "slug": "matthew-20-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 20",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "matthew-20-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "For the kingdom of heaven is like unto a man <span class=\"clarity-word\">that is</span> an householder, which went out early in the morning to hire labourers into his vineyard.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "matthew-20-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And when he had agreed with the labourers for a penny a day, he sent them into his vineyard.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "matthew-20-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And he went out about the third hour, and saw others standing idle in the marketplace,",
+      "churchId": "p3"
+    },
+    {
+      "slug": "matthew-20-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And said unto them; Go ye also into the vineyard, and whatsoever is right I will give you. And they went their way.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "matthew-20-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Again he went out about the sixth and ninth hour, and did likewise.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "matthew-20-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And about the eleventh hour he went out, and found others standing idle, and saith unto them, Why stand ye here all the day idle?",
+      "churchId": "p6"
+    },
+    {
+      "slug": "matthew-20-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "They say unto him, Because no man hath hired us. He saith unto them, Go ye also into the vineyard; and whatsoever is right, <span class=\"clarity-word\">that</span> shall ye receive.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "matthew-20-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "So when even was come, the lord of the vineyard saith unto his steward, Call the labourers, and give them <span class=\"clarity-word\">their</span> hire, beginning from the last unto the first.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "matthew-20-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And when they came that <span class=\"clarity-word\">were hired</span> about the eleventh hour, they received every man a penny.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "matthew-20-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "But when the first came, they supposed that they should have received more; and they likewise received every man a penny.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "matthew-20-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And when they had received <span class=\"clarity-word\">it,</span> they murmured against the goodman of the house,",
+      "churchId": "p11"
+    },
+    {
+      "slug": "matthew-20-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Saying, These last have wrought <span class=\"clarity-word\">but</span> one hour, and thou hast made them equal unto us, which have borne the burden and heat of the day.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "matthew-20-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "But he answered one of them, and said, Friend, I do thee no wrong: didst not thou agree with me for a penny?",
+      "churchId": "p13"
+    },
+    {
+      "slug": "matthew-20-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Take <span class=\"clarity-word\">that</span> thine <span class=\"clarity-word\">is,</span> and go thy way: I will give unto this last, even as unto thee.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "matthew-20-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Is it not lawful for me to do what I will with mine own? Is thine eye evil, because I am good?",
+      "churchId": "p15"
+    },
+    {
+      "slug": "matthew-20-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "So the last shall be first, and the first last: for many be called, but few chosen.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "matthew-20-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "¶ And Jesus going up to Jerusalem took the twelve disciples apart in the way, and said unto them,",
+      "churchId": "p17"
+    },
+    {
+      "slug": "matthew-20-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Behold, we go up to Jerusalem; and the Son of man shall be betrayed unto the chief priests and unto the scribes, and they shall condemn him to death,",
+      "churchId": "p18"
+    },
+    {
+      "slug": "matthew-20-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And shall deliver him to the Gentiles to mock, and to scourge, and to crucify <span class=\"clarity-word\">him:</span> and the third day he shall rise again.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "matthew-20-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "¶ Then came to him the mother of Zebedee’s children with her sons, worshipping <span class=\"clarity-word\">him,</span> and desiring a certain thing of him.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "matthew-20-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And he said unto her, What wilt thou? She saith unto him, Grant that these my two sons may sit, the one on thy right hand, and the other on the left, in thy kingdom.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "matthew-20-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "But Jesus answered and said, Ye know not what ye ask. Are ye able to drink of the cup that I shall drink of, and to be baptized with the baptism that I am baptized with? They say unto him, We are able.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "matthew-20-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And he saith unto them, Ye shall drink indeed of my cup, and be baptized with the baptism that I am baptized with: but to sit on my right hand, and on my left, is not mine to give, but <span class=\"clarity-word\">it shall be given to them</span> for whom it is prepared of my Father.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "matthew-20-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And when the ten heard <span class=\"clarity-word\">it,</span> they were moved with indignation against the two brethren.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "matthew-20-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "But Jesus called them <span class=\"clarity-word\">unto him,</span> and said, Ye know that the princes of the Gentiles exercise dominion over them, and they that are great exercise authority upon them.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "matthew-20-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "But it shall not be so among you: but whosoever will be great among you, let him be your minister;",
+      "churchId": "p26"
+    },
+    {
+      "slug": "matthew-20-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And whosoever will be chief among you, let him be your servant:",
+      "churchId": "p27"
+    },
+    {
+      "slug": "matthew-20-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "Even as the Son of man came not to be ministered unto, but to minister, and to give his life a ransom for many.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "matthew-20-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "And as they departed from Jericho, a great multitude followed him.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "matthew-20-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "¶ And, behold, two blind men sitting by the way side, when they heard that Jesus passed by, cried out, saying, Have mercy on us, O Lord, <span class=\"clarity-word\">thou</span> Son of David.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "matthew-20-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "And the multitude rebuked them, because they should hold their peace: but they cried the more, saying, Have mercy on us, O Lord, <span class=\"clarity-word\">thou</span> Son of David.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "matthew-20-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "And Jesus stood still, and called them, and said, What will ye that I shall do unto you?",
+      "churchId": "p32"
+    },
+    {
+      "slug": "matthew-20-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "They say unto him, Lord, that our eyes may be opened.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "matthew-20-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "So Jesus had compassion <span class=\"clarity-word\">on them,</span> and touched their eyes: and immediately their eyes received sight, and they followed him.",
+      "churchId": "p34"
+    }
+  ]
+}

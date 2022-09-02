@@ -1,0 +1,176 @@
+{
+  "name": "Ruth 2",
+  "abbrev": "Ruth 2",
+  "number": "2",
+  "churchUri": "/scriptures/ot/ruth/2",
+  "paragraphs": [
+    {
+      "slug": "ruth-2-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 2",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "ruth-2-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And Naomi had a kinsman of her husband’s, a mighty man of wealth, of the family of Elimelech; and his name <span class=\"clarity-word\">was</span> Boaz.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "ruth-2-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And Ruth the Moabitess said unto Naomi, Let me now go to the field, and glean ears of corn after <span class=\"clarity-word\">him</span> in whose sight I shall find grace. And she said unto her, Go, my daughter.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "ruth-2-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And she went, and came, and gleaned in the field after the reapers: and her hap was to light on a part of the field <span class=\"clarity-word\">belonging</span> unto Boaz, who <span class=\"clarity-word\">was</span> of the kindred of Elimelech.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "ruth-2-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "¶ And, behold, Boaz came from Beth-lehem, and said unto the reapers, The <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">be</span> with you. And they answered him, The <span class=\"small-caps\">Lord</span> bless thee.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "ruth-2-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Then said Boaz unto his servant that was set over the reapers, Whose damsel <span class=\"clarity-word\">is</span> this?",
+      "churchId": "p5"
+    },
+    {
+      "slug": "ruth-2-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And the servant that was set over the reapers answered and said, It <span class=\"clarity-word\">is</span> the Moabitish damsel that came back with Naomi out of the country of Moab:",
+      "churchId": "p6"
+    },
+    {
+      "slug": "ruth-2-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And she said, I pray you, let me glean and gather after the reapers among the sheaves: so she came, and hath continued even from the morning until now, that she tarried a little in the house.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "ruth-2-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Then said Boaz unto Ruth, Hearest thou not, my daughter? Go not to glean in another field, neither go from hence, but abide here fast by my maidens:",
+      "churchId": "p8"
+    },
+    {
+      "slug": "ruth-2-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "<span class=\"clarity-word\">Let</span> thine eyes <span class=\"clarity-word\">be</span> on the field that they do reap, and go thou after them: have I not charged the young men that they shall not touch thee? and when thou art athirst, go unto the vessels, and drink of <span class=\"clarity-word\">that</span> which the young men have drawn.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "ruth-2-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Then she fell on her face, and bowed herself to the ground, and said unto him, Why have I found grace in thine eyes, that thou shouldest take knowledge of me, seeing I <span class=\"clarity-word\">am</span> a stranger?",
+      "churchId": "p10"
+    },
+    {
+      "slug": "ruth-2-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And Boaz answered and said unto her, It hath fully been shewed me, all that thou hast done unto thy mother in law since the death of thine husband: and <span class=\"clarity-word\">how</span> thou hast left thy father and thy mother, and the land of thy nativity, and art come unto a people which thou knewest not heretofore.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "ruth-2-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "The <span class=\"small-caps\">Lord</span> recompense thy work, and a full reward be given thee of the <span class=\"small-caps\">Lord</span> God of Israel, under whose wings thou art come to trust.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "ruth-2-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Then she said, Let me find favour in thy sight, my lord; for that thou hast comforted me, and for that thou hast spoken friendly unto thine handmaid, though I be not like unto one of thine handmaidens.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "ruth-2-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And Boaz said unto her, At mealtime come thou hither, and eat of the bread, and dip thy morsel in the vinegar. And she sat beside the reapers: and he reached her parched <span class=\"clarity-word\">corn,</span> and she did eat, and was sufficed, and left.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "ruth-2-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And when she was risen up to glean, Boaz commanded his young men, saying, Let her glean even among the sheaves, and reproach her not:",
+      "churchId": "p15"
+    },
+    {
+      "slug": "ruth-2-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And let fall also <span class=\"clarity-word\">some</span> of the handfuls of purpose for her, and leave <span class=\"clarity-word\">them,</span> that she may glean <span class=\"clarity-word\">them,</span> and rebuke her not.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "ruth-2-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "So she gleaned in the field until even, and beat out that she had gleaned: and it was about an ephah of barley.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "ruth-2-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "¶ And she took <span class=\"clarity-word\">it</span> up, and went into the city: and her mother in law saw what she had gleaned: and she brought forth, and gave to her that she had reserved after she was sufficed.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "ruth-2-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And her mother in law said unto her, Where hast thou gleaned to day? and where wroughtest thou? blessed be he that did take knowledge of thee. And she shewed her mother in law with whom she had wrought, and said, The man’s name with whom I wrought to day <span class=\"clarity-word\">is</span> Boaz.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "ruth-2-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And Naomi said unto her daughter in law, Blessed <span class=\"clarity-word\">be</span> he of the <span class=\"small-caps\">Lord</span>, who hath not left off his kindness to the living and to the dead. And Naomi said unto her, The man <span class=\"clarity-word\">is</span> near of kin unto us, one of our next kinsmen.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "ruth-2-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And Ruth the Moabitess said, He said unto me also, Thou shalt keep fast by my young men, until they have ended all my harvest.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "ruth-2-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And Naomi said unto Ruth her daughter in law, <span class=\"clarity-word\">It is</span> good, my daughter, that thou go out with his maidens, that they meet thee not in any other field.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "ruth-2-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "So she kept fast by the maidens of Boaz to glean unto the end of barley harvest and of wheat harvest; and dwelt with her mother in law.",
+      "churchId": "p23"
+    }
+  ]
+}

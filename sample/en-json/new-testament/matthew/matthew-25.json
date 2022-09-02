@@ -1,0 +1,337 @@
+{
+  "name": "Matthew 25",
+  "abbrev": "Matt. 25",
+  "number": "25",
+  "churchUri": "/scriptures/nt/matt/25",
+  "paragraphs": [
+    {
+      "slug": "matthew-25-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 25",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "matthew-25-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Then shall the kingdom of heaven be likened unto ten virgins, which took their lamps, and went forth to meet the bridegroom.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "matthew-25-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And five of them were wise, and five <span class=\"clarity-word\">were</span> foolish.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "matthew-25-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "They that <span class=\"clarity-word\">were</span> foolish took their lamps, and took no oil with them:",
+      "churchId": "p3"
+    },
+    {
+      "slug": "matthew-25-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "But the wise took oil in their vessels with their lamps.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "matthew-25-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "While the bridegroom tarried, they all slumbered and slept.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "matthew-25-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And at midnight there was a cry made, Behold, the bridegroom cometh; go ye out to meet him.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "matthew-25-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Then all those virgins arose, and trimmed their lamps.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "matthew-25-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And the foolish said unto the wise, Give us of your oil; for our lamps are gone out.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "matthew-25-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "But the wise answered, saying, <span class=\"clarity-word\">Not so;</span> lest there be not enough for us and you: but go ye rather to them that sell, and buy for yourselves.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "matthew-25-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And while they went to buy, the bridegroom came; and they that were ready went in with him to the marriage: and the door was shut.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "matthew-25-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Afterward came also the other virgins, saying, Lord, Lord, open to us.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "matthew-25-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "But he answered and said, Verily I say unto you, I know you not.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "matthew-25-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Watch therefore, for ye know neither the day nor the hour wherein the Son of man cometh.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "matthew-25-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "¶ For <span class=\"clarity-word\">the kingdom of heaven is</span> as a man travelling into a far country, <span class=\"clarity-word\">who</span> called his own servants, and delivered unto them his goods.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "matthew-25-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And unto one he gave five talents, to another two, and to another one; to every man according to his several ability; and straightway took his journey.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "matthew-25-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Then he that had received the five talents went and traded with the same, and made <span class=\"clarity-word\">them</span> other five talents.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "matthew-25-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And likewise he that <span class=\"clarity-word\">had received</span> two, he also gained other two.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "matthew-25-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "But he that had received one went and digged in the earth, and hid his lord’s money.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "matthew-25-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "After a long time the lord of those servants cometh, and reckoneth with them.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "matthew-25-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And so he that had received five talents came and brought other five talents, saying, Lord, thou deliveredst unto me five talents: behold, I have gained beside them five talents more.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "matthew-25-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "His lord said unto him, Well done, <span class=\"clarity-word\">thou</span> good and faithful servant: thou hast been faithful over a few things, I will make thee ruler over many things: enter thou into the joy of thy lord.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "matthew-25-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "He also that had received two talents came and said, Lord, thou deliveredst unto me two talents: behold, I have gained two other talents beside them.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "matthew-25-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "His lord said unto him, Well done, good and faithful servant; thou hast been faithful over a few things, I will make thee ruler over many things: enter thou into the joy of thy lord.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "matthew-25-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Then he which had received the one talent came and said, Lord, I knew thee that thou art an hard man, reaping where thou hast not sown, and gathering where thou hast not strawed:",
+      "churchId": "p24"
+    },
+    {
+      "slug": "matthew-25-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And I was afraid, and went and hid thy talent in the earth: lo, <span class=\"clarity-word\">there</span> thou hast <span class=\"clarity-word\">that is</span> thine.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "matthew-25-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "His lord answered and said unto him, <span class=\"clarity-word\">Thou</span> wicked and slothful servant, thou knewest that I reap where I sowed not, and gather where I have not strawed:",
+      "churchId": "p26"
+    },
+    {
+      "slug": "matthew-25-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "Thou oughtest therefore to have put my money to the exchangers, and <span class=\"clarity-word\">then</span> at my coming I should have received mine own with usury.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "matthew-25-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "Take therefore the talent from him, and give <span class=\"clarity-word\">it</span> unto him which hath ten talents.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "matthew-25-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "For unto every one that hath shall be given, and he shall have abundance: but from him that hath not shall be taken away even that which he hath.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "matthew-25-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And cast ye the unprofitable servant into outer darkness: there shall be weeping and gnashing of teeth.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "matthew-25-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "¶ When the Son of man shall come in his glory, and all the holy angels with him, then shall he sit upon the throne of his glory:",
+      "churchId": "p31"
+    },
+    {
+      "slug": "matthew-25-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "And before him shall be gathered all nations: and he shall separate them one from another, as a shepherd divideth <span class=\"clarity-word\">his</span> sheep from the goats:",
+      "churchId": "p32"
+    },
+    {
+      "slug": "matthew-25-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "And he shall set the sheep on his right hand, but the goats on the left.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "matthew-25-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "Then shall the King say unto them on his right hand, Come, ye blessed of my Father, inherit the kingdom prepared for you from the foundation of the world:",
+      "churchId": "p34"
+    },
+    {
+      "slug": "matthew-25-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "For I was an hungred, and ye gave me meat: I was thirsty, and ye gave me drink: I was a stranger, and ye took me in:",
+      "churchId": "p35"
+    },
+    {
+      "slug": "matthew-25-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "Naked, and ye clothed me: I was sick, and ye visited me: I was in prison, and ye came unto me.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "matthew-25-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "Then shall the righteous answer him, saying, Lord, when saw we thee an hungred, and fed <span class=\"clarity-word\">thee?</span> or thirsty, and gave <span class=\"clarity-word\">thee</span> drink?",
+      "churchId": "p37"
+    },
+    {
+      "slug": "matthew-25-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "When saw we thee a stranger, and took <span class=\"clarity-word\">thee</span> in? or naked, and clothed <span class=\"clarity-word\">thee?</span>",
+      "churchId": "p38"
+    },
+    {
+      "slug": "matthew-25-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "Or when saw we thee sick, or in prison, and came unto thee?",
+      "churchId": "p39"
+    },
+    {
+      "slug": "matthew-25-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "And the King shall answer and say unto them, Verily I say unto you, Inasmuch as ye have done <span class=\"clarity-word\">it</span> unto one of the least of these my brethren, ye have done <span class=\"clarity-word\">it</span> unto me.",
+      "churchId": "p40"
+    },
+    {
+      "slug": "matthew-25-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "Then shall he say also unto them on the left hand, Depart from me, ye cursed, into everlasting fire, prepared for the devil and his angels:",
+      "churchId": "p41"
+    },
+    {
+      "slug": "matthew-25-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "For I was an hungred, and ye gave me no meat: I was thirsty, and ye gave me no drink:",
+      "churchId": "p42"
+    },
+    {
+      "slug": "matthew-25-p43",
+      "type": "verse",
+      "number": "43",
+      "content": "I was a stranger, and ye took me not in: naked, and ye clothed me not: sick, and in prison, and ye visited me not.",
+      "churchId": "p43"
+    },
+    {
+      "slug": "matthew-25-p44",
+      "type": "verse",
+      "number": "44",
+      "content": "Then shall they also answer him, saying, Lord, when saw we thee an hungred, or athirst, or a stranger, or naked, or sick, or in prison, and did not minister unto thee?",
+      "churchId": "p44"
+    },
+    {
+      "slug": "matthew-25-p45",
+      "type": "verse",
+      "number": "45",
+      "content": "Then shall he answer them, saying, Verily I say unto you, Inasmuch as ye did <span class=\"clarity-word\">it</span> not to one of the least of these, ye did <span class=\"clarity-word\">it</span> not to me.",
+      "churchId": "p45"
+    },
+    {
+      "slug": "matthew-25-p46",
+      "type": "verse",
+      "number": "46",
+      "content": "And these shall go away into everlasting punishment: but the righteous into life eternal.",
+      "churchId": "p46"
+    }
+  ]
+}

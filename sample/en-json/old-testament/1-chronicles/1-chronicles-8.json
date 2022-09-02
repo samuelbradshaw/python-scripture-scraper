@@ -1,0 +1,295 @@
+{
+  "name": "1 Chronicles 8",
+  "abbrev": "1 Chr. 8",
+  "number": "8",
+  "churchUri": "/scriptures/ot/1-chr/8",
+  "paragraphs": [
+    {
+      "slug": "1-chronicles-8-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 8",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "1-chronicles-8-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Now Benjamin begat Bela his firstborn, Ashbel the second, and Aharah the third,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "1-chronicles-8-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Nohah the fourth, and Rapha the fifth.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "1-chronicles-8-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And the sons of Bela were, Addar, and Gera, and Abihud,",
+      "churchId": "p3"
+    },
+    {
+      "slug": "1-chronicles-8-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And Abishua, and Naaman, and Ahoah,",
+      "churchId": "p4"
+    },
+    {
+      "slug": "1-chronicles-8-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And Gera, and Shephuphan, and Huram.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "1-chronicles-8-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And these <span class=\"clarity-word\">are</span> the sons of Ehud: these are the heads of the fathers of the inhabitants of Geba, and they removed them to Manahath:",
+      "churchId": "p6"
+    },
+    {
+      "slug": "1-chronicles-8-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And Naaman, and Ahiah, and Gera, he removed them, and begat Uzza, and Ahihud.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "1-chronicles-8-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And Shaharaim begat <span class=\"clarity-word\">children</span> in the country of Moab, after he had sent them away; Hushim and Baara <span class=\"clarity-word\">were</span> his wives.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "1-chronicles-8-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And he begat of Hodesh his wife, Jobab, and Zibia, and Mesha, and Malcham,",
+      "churchId": "p9"
+    },
+    {
+      "slug": "1-chronicles-8-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And Jeuz, and Shachia, and Mirma. These <span class=\"clarity-word\">were</span> his sons, heads of the fathers.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "1-chronicles-8-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And of Hushim he begat Abitub, and Elpaal.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "1-chronicles-8-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "The sons of Elpaal; Eber, and Misham, and Shamed, who built Ono, and Lod, with the towns thereof:",
+      "churchId": "p12"
+    },
+    {
+      "slug": "1-chronicles-8-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Beriah also, and Shema, who <span class=\"clarity-word\">were</span> heads of the fathers of the inhabitants of Aijalon, who drove away the inhabitants of Gath:",
+      "churchId": "p13"
+    },
+    {
+      "slug": "1-chronicles-8-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And Ahio, Shashak, and Jeremoth,",
+      "churchId": "p14"
+    },
+    {
+      "slug": "1-chronicles-8-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And Zebadiah, and Arad, and Ader,",
+      "churchId": "p15"
+    },
+    {
+      "slug": "1-chronicles-8-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And Michael, and Ispah, and Joha, the sons of Beriah;",
+      "churchId": "p16"
+    },
+    {
+      "slug": "1-chronicles-8-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And Zebadiah, and Meshullam, and Hezeki, and Heber,",
+      "churchId": "p17"
+    },
+    {
+      "slug": "1-chronicles-8-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Ishmerai also, and Jezliah, and Jobab, the sons of Elpaal;",
+      "churchId": "p18"
+    },
+    {
+      "slug": "1-chronicles-8-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And Jakim, and Zichri, and Zabdi,",
+      "churchId": "p19"
+    },
+    {
+      "slug": "1-chronicles-8-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And Elienai, and Zilthai, and Eliel,",
+      "churchId": "p20"
+    },
+    {
+      "slug": "1-chronicles-8-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And Adaiah, and Beraiah, and Shimrath, the sons of Shimhi;",
+      "churchId": "p21"
+    },
+    {
+      "slug": "1-chronicles-8-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And Ishpan, and Heber, and Eliel,",
+      "churchId": "p22"
+    },
+    {
+      "slug": "1-chronicles-8-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And Abdon, and Zichri, and Hanan,",
+      "churchId": "p23"
+    },
+    {
+      "slug": "1-chronicles-8-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And Hananiah, and Elam, and Antothijah,",
+      "churchId": "p24"
+    },
+    {
+      "slug": "1-chronicles-8-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And Iphedeiah, and Penuel, the sons of Shashak;",
+      "churchId": "p25"
+    },
+    {
+      "slug": "1-chronicles-8-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And Shamsherai, and Shehariah, and Athaliah,",
+      "churchId": "p26"
+    },
+    {
+      "slug": "1-chronicles-8-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And Jaresiah, and Eliah, and Zichri, the sons of Jeroham.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "1-chronicles-8-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "These <span class=\"clarity-word\">were</span> heads of the fathers, by their generations, chief <span class=\"clarity-word\">men.</span> These dwelt in Jerusalem.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "1-chronicles-8-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "And at Gibeon dwelt the father of Gibeon; whose wife’s name <span class=\"clarity-word\">was</span> Maachah:",
+      "churchId": "p29"
+    },
+    {
+      "slug": "1-chronicles-8-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And his firstborn son Abdon, and Zur, and Kish, and Baal, and Nadab,",
+      "churchId": "p30"
+    },
+    {
+      "slug": "1-chronicles-8-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "And Gedor, and Ahio, and Zacher.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "1-chronicles-8-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "And Mikloth begat Shimeah. And these also dwelt with their brethren in Jerusalem, over against them.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "1-chronicles-8-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "¶ And Ner begat Kish, and Kish begat Saul, and Saul begat Jonathan, and Malchi-shua, and Abinadab, and Esh-baal.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "1-chronicles-8-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "And the son of Jonathan <span class=\"clarity-word\">was</span> Merib-baal; and Merib-baal begat Micah.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "1-chronicles-8-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "And the sons of Micah <span class=\"clarity-word\">were,</span> Pithon, and Melech, and Tarea, and Ahaz.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "1-chronicles-8-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "And Ahaz begat Jehoadah; and Jehoadah begat Alemeth, and Azmaveth, and Zimri; and Zimri begat Moza,",
+      "churchId": "p36"
+    },
+    {
+      "slug": "1-chronicles-8-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "And Moza begat Binea: Rapha <span class=\"clarity-word\">was</span> his son, Eleasah his son, Azel his son:",
+      "churchId": "p37"
+    },
+    {
+      "slug": "1-chronicles-8-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "And Azel had six sons, whose names <span class=\"clarity-word\">are</span> these, Azrikam, Bocheru, and Ishmael, and Sheariah, and Obadiah, and Hanan. All these <span class=\"clarity-word\">were</span> the sons of Azel.",
+      "churchId": "p38"
+    },
+    {
+      "slug": "1-chronicles-8-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "And the sons of Eshek his brother <span class=\"clarity-word\">were,</span> Ulam his firstborn, Jehush the second, and Eliphelet the third.",
+      "churchId": "p39"
+    },
+    {
+      "slug": "1-chronicles-8-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "And the sons of Ulam were mighty men of valour, archers, and had many sons, and sons’ sons, an hundred and fifty. All these <span class=\"clarity-word\">are</span> of the sons of Benjamin.",
+      "churchId": "p40"
+    }
+  ]
+}

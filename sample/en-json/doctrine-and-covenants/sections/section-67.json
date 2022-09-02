@@ -1,0 +1,113 @@
+{
+  "name": "Doctrine and Covenants 67",
+  "abbrev": "D&C 67",
+  "number": "67",
+  "churchUri": "/scriptures/dc-testament/dc/67",
+  "paragraphs": [
+    {
+      "slug": "section-67-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Section 67",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "section-67-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Behold and hearken, O ye elders of my church, who have assembled yourselves together, whose prayers I have heard, and whose hearts I know, and whose desires have come up before me.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "section-67-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Behold and lo, mine eyes are upon you, and the heavens and the earth are in mine hands, and the riches of eternity are mine to give.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "section-67-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Ye endeavored to believe that ye should receive the blessing which was offered unto you; but behold, verily I say unto you there were fears in your hearts, and verily this is the reason that ye did not receive.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "section-67-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And now I, the Lord, give unto you a testimony of the truth of these commandments which are lying before you.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "section-67-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Your eyes have been upon my servant Joseph Smith, Jun., and his language you have known, and his imperfections you have known; and you have sought in your hearts knowledge that you might express beyond his language; this you also know.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "section-67-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Now, seek ye out of the Book of Commandments, even the least that is among them, and appoint him that is the most wise among you;",
+      "churchId": "p6"
+    },
+    {
+      "slug": "section-67-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Or, if there be any among you that shall make one like unto it, then ye are justified in saying that ye do not know that they are true;",
+      "churchId": "p7"
+    },
+    {
+      "slug": "section-67-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "But if ye cannot make one like unto it, ye are under condemnation if ye do not bear record that they are true.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "section-67-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "For ye know that there is no unrighteousness in them, and that which is righteous cometh down from above, from the Father of lights.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "section-67-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And again, verily I say unto you that it is your privilege, and a promise I give unto you that have been ordained unto this ministry, that inasmuch as you strip yourselves from jealousies and fears, and humble yourselves before me, for ye are not sufficiently humble, the veil shall be rent and you shall see me and know that I am—not with the carnal neither natural mind, but with the spiritual.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "section-67-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "For no man has seen God at any time in the flesh, except quickened by the Spirit of God.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "section-67-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Neither can any natural man abide the presence of God, neither after the carnal mind.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "section-67-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Ye are not able to abide the presence of God now, neither the ministering of angels; wherefore, continue in patience until ye are perfected.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "section-67-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Let not your minds turn back; and when ye are worthy, in mine own due time, ye shall see and know that which was conferred upon you by the hands of my servant Joseph Smith, Jun. Amen.",
+      "churchId": "p14"
+    }
+  ]
+}

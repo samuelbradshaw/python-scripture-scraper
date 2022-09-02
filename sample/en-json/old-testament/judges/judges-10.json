@@ -1,0 +1,141 @@
+{
+  "name": "Judges 10",
+  "abbrev": "Judg. 10",
+  "number": "10",
+  "churchUri": "/scriptures/ot/judg/10",
+  "paragraphs": [
+    {
+      "slug": "judges-10-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 10",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "judges-10-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And after Abimelech there arose to defend Israel Tola the son of Puah, the son of Dodo, a man of Issachar; and he dwelt in Shamir in mount Ephraim.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "judges-10-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And he judged Israel twenty and three years, and died, and was buried in Shamir.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "judges-10-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "¶ And after him arose Jair, a Gileadite, and judged Israel twenty and two years.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "judges-10-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And he had thirty sons that rode on thirty ass colts, and they had thirty cities, which are called Havoth-jair unto this day, which <span class=\"clarity-word\">are</span> in the land of Gilead.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "judges-10-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And Jair died, and was buried in Camon.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "judges-10-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "¶ And the children of Israel did evil again in the sight of the <span class=\"small-caps\">Lord</span>, and served Baalim, and Ashtaroth, and the gods of Syria, and the gods of Zidon, and the gods of Moab, and the gods of the children of Ammon, and the gods of the Philistines, and forsook the <span class=\"small-caps\">Lord</span>, and served not him.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "judges-10-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And the anger of the <span class=\"small-caps\">Lord</span> was hot against Israel, and he sold them into the hands of the Philistines, and into the hands of the children of Ammon.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "judges-10-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And that year they vexed and oppressed the children of Israel: eighteen years, all the children of Israel that <span class=\"clarity-word\">were</span> on the other side Jordan in the land of the Amorites, which <span class=\"clarity-word\">is</span> in Gilead.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "judges-10-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Moreover the children of Ammon passed over Jordan to fight also against Judah, and against Benjamin, and against the house of Ephraim; so that Israel was sore distressed.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "judges-10-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "¶ And the children of Israel cried unto the <span class=\"small-caps\">Lord</span>, saying, We have sinned against thee, both because we have forsaken our God, and also served Baalim.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "judges-10-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And the <span class=\"small-caps\">Lord</span> said unto the children of Israel, <span class=\"clarity-word\">Did</span> not <span class=\"clarity-word\">I deliver you</span> from the Egyptians, and from the Amorites, from the children of Ammon, and from the Philistines?",
+      "churchId": "p11"
+    },
+    {
+      "slug": "judges-10-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "The Zidonians also, and the Amalekites, and the Maonites, did oppress you; and ye cried to me, and I delivered you out of their hand.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "judges-10-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Yet ye have forsaken me, and served other gods: wherefore I will deliver you no more.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "judges-10-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Go and cry unto the gods which ye have chosen; let them deliver you in the time of your tribulation.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "judges-10-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "¶ And the children of Israel said unto the <span class=\"small-caps\">Lord</span>, We have sinned: do thou unto us whatsoever seemeth good unto thee; deliver us only, we pray thee, this day.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "judges-10-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And they put away the strange gods from among them, and served the <span class=\"small-caps\">Lord</span>: and his soul was grieved for the misery of Israel.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "judges-10-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Then the children of Ammon were gathered together, and encamped in Gilead. And the children of Israel assembled themselves together, and encamped in Mizpeh.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "judges-10-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And the people <span class=\"clarity-word\">and</span> princes of Gilead said one to another, What man <span class=\"clarity-word\">is he</span> that will begin to fight against the children of Ammon? he shall be head over all the inhabitants of Gilead.",
+      "churchId": "p18"
+    }
+  ]
+}

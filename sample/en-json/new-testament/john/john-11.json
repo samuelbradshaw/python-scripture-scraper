@@ -1,0 +1,414 @@
+{
+  "name": "John 11",
+  "abbrev": "John 11",
+  "number": "11",
+  "churchUri": "/scriptures/nt/john/11",
+  "paragraphs": [
+    {
+      "slug": "john-11-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 11",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "john-11-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Now a certain <span class=\"clarity-word\">man</span> was sick, <span class=\"clarity-word\">named</span> Lazarus, of Bethany, the town of Mary and her sister Martha.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "john-11-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "(It was <span class=\"clarity-word\">that</span> Mary which anointed the Lord with ointment, and wiped his feet with her hair, whose brother Lazarus was sick.)",
+      "churchId": "p2"
+    },
+    {
+      "slug": "john-11-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Therefore his sisters sent unto him, saying, Lord, behold, he whom thou lovest is sick.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "john-11-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "When Jesus heard <span class=\"clarity-word\">that,</span> he said, This sickness is not unto death, but for the glory of God, that the Son of God might be glorified thereby.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "john-11-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Now Jesus loved Martha, and her sister, and Lazarus.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "john-11-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "When he had heard therefore that he was sick, he abode two days still in the same place where he was.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "john-11-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Then after that saith he to <span class=\"clarity-word\">his</span> disciples, Let us go into Judæa again.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "john-11-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "<span class=\"clarity-word\">His</span> disciples say unto him, Master, the Jews of late sought to stone thee; and goest thou thither again?",
+      "churchId": "p8"
+    },
+    {
+      "slug": "john-11-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Jesus answered, Are there not twelve hours in the day? If any man walk in the day, he stumbleth not, because he seeth the light of this world.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "john-11-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "But if a man walk in the night, he stumbleth, because there is no light in him.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "john-11-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "These things said he: and after that he saith unto them, Our friend Lazarus sleepeth; but I go, that I may awake him out of sleep.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "john-11-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Then said his disciples, Lord, if he sleep, he shall do well.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "john-11-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Howbeit Jesus spake of his death: but they thought that he had spoken of taking of rest in sleep.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "john-11-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Then said Jesus unto them plainly, Lazarus is dead.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "john-11-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And I am glad for your sakes that I was not there, to the intent ye may believe; nevertheless let us go unto him.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "john-11-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Then said Thomas, which is called Didymus, unto his fellowdisciples, Let us also go, that we may die with him.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "john-11-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Then when Jesus came, he found that he had <span class=\"clarity-word\">lain</span> in the grave four days already.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "john-11-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Now Bethany was nigh unto Jerusalem, about fifteen furlongs off:",
+      "churchId": "p18"
+    },
+    {
+      "slug": "john-11-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And many of the Jews came to Martha and Mary, to comfort them concerning their brother.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "john-11-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Then Martha, as soon as she heard that Jesus was coming, went and met him: but Mary sat <span class=\"clarity-word\">still</span> in the house.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "john-11-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Then said Martha unto Jesus, Lord, if thou hadst been here, my brother had not died.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "john-11-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "But I know, that even now, whatsoever thou wilt ask of God, God will give <span class=\"clarity-word\">it</span> thee.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "john-11-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Jesus saith unto her, Thy brother shall rise again.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "john-11-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Martha saith unto him, I know that he shall rise again in the resurrection at the last day.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "john-11-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Jesus said unto her, I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live:",
+      "churchId": "p25"
+    },
+    {
+      "slug": "john-11-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And whosoever liveth and believeth in me shall never die. Believest thou this?",
+      "churchId": "p26"
+    },
+    {
+      "slug": "john-11-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "She saith unto him, Yea, Lord: I believe that thou art the Christ, the Son of God, which should come into the world.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "john-11-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And when she had so said, she went her way, and called Mary her sister secretly, saying, The Master is come, and calleth for thee.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "john-11-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "As soon as she heard <span class=\"clarity-word\">that,</span> she arose quickly, and came unto him.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "john-11-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "Now Jesus was not yet come into the town, but was in that place where Martha met him.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "john-11-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "The Jews then which were with her in the house, and comforted her, when they saw Mary, that she rose up hastily and went out, followed her, saying, She goeth unto the grave to weep there.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "john-11-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "Then when Mary was come where Jesus was, and saw him, she fell down at his feet, saying unto him, Lord, if thou hadst been here, my brother had not died.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "john-11-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "When Jesus therefore saw her weeping, and the Jews also weeping which came with her, he groaned in the spirit, and was troubled,",
+      "churchId": "p33"
+    },
+    {
+      "slug": "john-11-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "And said, Where have ye laid him? They said unto him, Lord, come and see.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "john-11-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "Jesus wept.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "john-11-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "Then said the Jews, Behold how he loved him!",
+      "churchId": "p36"
+    },
+    {
+      "slug": "john-11-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "And some of them said, Could not this man, which opened the eyes of the blind, have caused that even this man should not have died?",
+      "churchId": "p37"
+    },
+    {
+      "slug": "john-11-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "Jesus therefore again groaning in himself cometh to the grave. It was a cave, and a stone lay upon it.",
+      "churchId": "p38"
+    },
+    {
+      "slug": "john-11-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "Jesus said, Take ye away the stone. Martha, the sister of him that was dead, saith unto him, Lord, by this time he stinketh: for he hath been <span class=\"clarity-word\">dead</span> four days.",
+      "churchId": "p39"
+    },
+    {
+      "slug": "john-11-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "Jesus saith unto her, Said I not unto thee, that, if thou wouldest believe, thou shouldest see the glory of God?",
+      "churchId": "p40"
+    },
+    {
+      "slug": "john-11-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "Then they took away the stone <span class=\"clarity-word\">from the place</span> where the dead was laid. And Jesus lifted up <span class=\"clarity-word\">his</span> eyes, and said, Father, I thank thee that thou hast heard me.",
+      "churchId": "p41"
+    },
+    {
+      "slug": "john-11-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "And I knew that thou hearest me always: but because of the people which stand by I said <span class=\"clarity-word\">it,</span> that they may believe that thou hast sent me.",
+      "churchId": "p42"
+    },
+    {
+      "slug": "john-11-p43",
+      "type": "verse",
+      "number": "43",
+      "content": "And when he thus had spoken, he cried with a loud voice, Lazarus, come forth.",
+      "churchId": "p43"
+    },
+    {
+      "slug": "john-11-p44",
+      "type": "verse",
+      "number": "44",
+      "content": "And he that was dead came forth, bound hand and foot with graveclothes: and his face was bound about with a napkin. Jesus saith unto them, Loose him, and let him go.",
+      "churchId": "p44"
+    },
+    {
+      "slug": "john-11-p45",
+      "type": "verse",
+      "number": "45",
+      "content": "Then many of the Jews which came to Mary, and had seen the things which Jesus did, believed on him.",
+      "churchId": "p45"
+    },
+    {
+      "slug": "john-11-p46",
+      "type": "verse",
+      "number": "46",
+      "content": "But some of them went their ways to the Pharisees, and told them what things Jesus had done.",
+      "churchId": "p46"
+    },
+    {
+      "slug": "john-11-p47",
+      "type": "verse",
+      "number": "47",
+      "content": "¶ Then gathered the chief priests and the Pharisees a council, and said, What do we? for this man doeth many miracles.",
+      "churchId": "p47"
+    },
+    {
+      "slug": "john-11-p48",
+      "type": "verse",
+      "number": "48",
+      "content": "If we let him thus alone, all <span class=\"clarity-word\">men</span> will believe on him: and the Romans shall come and take away both our place and nation.",
+      "churchId": "p48"
+    },
+    {
+      "slug": "john-11-p49",
+      "type": "verse",
+      "number": "49",
+      "content": "And one of them, <span class=\"clarity-word\">named</span> Caiaphas, being the high priest that same year, said unto them, Ye know nothing at all,",
+      "churchId": "p49"
+    },
+    {
+      "slug": "john-11-p50",
+      "type": "verse",
+      "number": "50",
+      "content": "Nor consider that it is expedient for us, that one man should die for the people, and that the whole nation perish not.",
+      "churchId": "p50"
+    },
+    {
+      "slug": "john-11-p51",
+      "type": "verse",
+      "number": "51",
+      "content": "And this spake he not of himself: but being high priest that year, he prophesied that Jesus should die for that nation;",
+      "churchId": "p51"
+    },
+    {
+      "slug": "john-11-p52",
+      "type": "verse",
+      "number": "52",
+      "content": "And not for that nation only, but that also he should gather together in one the children of God that were scattered abroad.",
+      "churchId": "p52"
+    },
+    {
+      "slug": "john-11-p53",
+      "type": "verse",
+      "number": "53",
+      "content": "Then from that day forth they took counsel together for to put him to death.",
+      "churchId": "p53"
+    },
+    {
+      "slug": "john-11-p54",
+      "type": "verse",
+      "number": "54",
+      "content": "Jesus therefore walked no more openly among the Jews; but went thence unto a country near to the wilderness, into a city called Ephraim, and there continued with his disciples.",
+      "churchId": "p54"
+    },
+    {
+      "slug": "john-11-p55",
+      "type": "verse",
+      "number": "55",
+      "content": "¶ And the Jews’ passover was nigh at hand: and many went out of the country up to Jerusalem before the passover, to purify themselves.",
+      "churchId": "p55"
+    },
+    {
+      "slug": "john-11-p56",
+      "type": "verse",
+      "number": "56",
+      "content": "Then sought they for Jesus, and spake among themselves, as they stood in the temple, What think ye, that he will not come to the feast?",
+      "churchId": "p56"
+    },
+    {
+      "slug": "john-11-p57",
+      "type": "verse",
+      "number": "57",
+      "content": "Now both the chief priests and the Pharisees had given a commandment, that, if any man knew where he were, he should shew <span class=\"clarity-word\">it,</span> that they might take him.",
+      "churchId": "p57"
+    }
+  ]
+}

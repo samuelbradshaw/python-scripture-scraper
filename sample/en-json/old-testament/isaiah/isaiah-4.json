@@ -1,0 +1,57 @@
+{
+  "name": "Isaiah 4",
+  "abbrev": "Isa. 4",
+  "number": "4",
+  "churchUri": "/scriptures/ot/isa/4",
+  "paragraphs": [
+    {
+      "slug": "isaiah-4-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 4",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "isaiah-4-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And in that day seven women shall take hold of one man, saying, We will eat our own bread, and wear our own apparel: only let us be called by thy name, to take away our reproach.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "isaiah-4-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "In that day shall the branch of the <span class=\"small-caps\">Lord</span> be beautiful and glorious, and the fruit of the earth <span class=\"clarity-word\">shall be</span> excellent and comely for them that are escaped of Israel.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "isaiah-4-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And it shall come to pass, <span class=\"clarity-word\">that he that is</span> left in Zion, and <span class=\"clarity-word\">he that</span> remaineth in Jerusalem, shall be called holy, <span class=\"clarity-word\">even</span> every one that is written among the living in Jerusalem:",
+      "churchId": "p3"
+    },
+    {
+      "slug": "isaiah-4-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "When the Lord shall have washed away the filth of the daughters of Zion, and shall have purged the blood of Jerusalem from the midst thereof by the spirit of judgment, and by the spirit of burning.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "isaiah-4-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And the <span class=\"small-caps\">Lord</span> will create upon every dwelling place of mount Zion, and upon her assemblies, a cloud and smoke by day, and the shining of a flaming fire by night: for upon all the glory <span class=\"clarity-word\">shall be</span> a defence.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "isaiah-4-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And there shall be a tabernacle for a shadow in the daytime from the heat, and for a place of refuge, and for a covert from storm and from rain.",
+      "churchId": "p6"
+    }
+  ]
+}

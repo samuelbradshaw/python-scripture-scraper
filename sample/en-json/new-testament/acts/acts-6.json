@@ -1,0 +1,120 @@
+{
+  "name": "Acts 6",
+  "abbrev": "Acts 6",
+  "number": "6",
+  "churchUri": "/scriptures/nt/acts/6",
+  "paragraphs": [
+    {
+      "slug": "acts-6-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 6",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "acts-6-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And in those days, when the number of the disciples was multiplied, there arose a murmuring of the Grecians against the Hebrews, because their widows were neglected in the daily ministration.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "acts-6-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Then the twelve called the multitude of the disciples <span class=\"clarity-word\">unto them,</span> and said, It is not reason that we should leave the word of God, and serve tables.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "acts-6-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Wherefore, brethren, look ye out among you seven men of honest report, full of the Holy Ghost and wisdom, whom we may appoint over this business.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "acts-6-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "But we will give ourselves continually to prayer, and to the ministry of the word.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "acts-6-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "¶ And the saying pleased the whole multitude: and they chose Stephen, a man full of faith and of the Holy Ghost, and Philip, and Prochorus, and Nicanor, and Timon, and Parmenas, and Nicolas a proselyte of Antioch:",
+      "churchId": "p5"
+    },
+    {
+      "slug": "acts-6-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Whom they set before the apostles: and when they had prayed, they laid <span class=\"clarity-word\">their</span> hands on them.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "acts-6-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And the word of God increased; and the number of the disciples multiplied in Jerusalem greatly; and a great company of the priests were obedient to the faith.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "acts-6-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And Stephen, full of faith and power, did great wonders and miracles among the people.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "acts-6-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "¶ Then there arose certain of the synagogue, which is called <span class=\"clarity-word\">the synagogue</span> of the Libertines, and Cyrenians, and Alexandrians, and of them of Cilicia and of Asia, disputing with Stephen.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "acts-6-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And they were not able to resist the wisdom and the spirit by which he spake.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "acts-6-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Then they suborned men, which said, We have heard him speak blasphemous words against Moses, and <span class=\"clarity-word\">against</span> God.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "acts-6-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And they stirred up the people, and the elders, and the scribes, and came upon <span class=\"clarity-word\">him,</span> and caught him, and brought <span class=\"clarity-word\">him</span> to the council,",
+      "churchId": "p12"
+    },
+    {
+      "slug": "acts-6-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And set up false witnesses, which said, This man ceaseth not to speak blasphemous words against this holy place, and the law:",
+      "churchId": "p13"
+    },
+    {
+      "slug": "acts-6-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "For we have heard him say, that this Jesus of Nazareth shall destroy this place, and shall change the customs which Moses delivered us.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "acts-6-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And all that sat in the council, looking steadfastly on him, saw his face as it had been the face of an angel.",
+      "churchId": "p15"
+    }
+  ]
+}

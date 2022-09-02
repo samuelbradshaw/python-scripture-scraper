@@ -1,0 +1,85 @@
+{
+  "name": "Zechariah 3",
+  "abbrev": "Zech. 3",
+  "number": "3",
+  "churchUri": "/scriptures/ot/zech/3",
+  "paragraphs": [
+    {
+      "slug": "zechariah-3-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 3",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "zechariah-3-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And he shewed me Joshua the high priest standing before the angel of the <span class=\"small-caps\">Lord</span>, and Satan standing at his right hand to resist him.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "zechariah-3-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And the <span class=\"small-caps\">Lord</span> said unto Satan, The <span class=\"small-caps\">Lord</span> rebuke thee, O Satan; even the <span class=\"small-caps\">Lord</span> that hath chosen Jerusalem rebuke thee: <span class=\"clarity-word\">is</span> not this a brand plucked out of the fire?",
+      "churchId": "p2"
+    },
+    {
+      "slug": "zechariah-3-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Now Joshua was clothed with filthy garments, and stood before the angel.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "zechariah-3-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And he answered and spake unto those that stood before him, saying, Take away the filthy garments from him. And unto him he said, Behold, I have caused thine iniquity to pass from thee, and I will clothe thee with change of raiment.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "zechariah-3-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And I said, Let them set a fair mitre upon his head. So they set a fair mitre upon his head, and clothed him with garments. And the angel of the <span class=\"small-caps\">Lord</span> stood by.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "zechariah-3-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And the angel of the <span class=\"small-caps\">Lord</span> protested unto Joshua, saying,",
+      "churchId": "p6"
+    },
+    {
+      "slug": "zechariah-3-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Thus saith the <span class=\"small-caps\">Lord</span> of hosts; If thou wilt walk in my ways, and if thou wilt keep my charge, then thou shalt also judge my house, and shalt also keep my courts, and I will give thee places to walk among these that stand by.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "zechariah-3-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Hear now, O Joshua the high priest, thou, and thy fellows that sit before thee: for they <span class=\"clarity-word\">are</span> men wondered at: for, behold, I will bring forth my servant the <span class=\"uppercase\">Branch</span>.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "zechariah-3-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "For behold the stone that I have laid before Joshua; upon one stone <span class=\"clarity-word\">shall be</span> seven eyes: behold, I will engrave the graving thereof, saith the <span class=\"small-caps\">Lord</span> of hosts, and I will remove the iniquity of that land in one day.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "zechariah-3-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "In that day, saith the <span class=\"small-caps\">Lord</span> of hosts, shall ye call every man his neighbour under the vine and under the fig tree.",
+      "churchId": "p10"
+    }
+  ]
+}

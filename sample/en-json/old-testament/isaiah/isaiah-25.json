@@ -1,0 +1,99 @@
+{
+  "name": "Isaiah 25",
+  "abbrev": "Isa. 25",
+  "number": "25",
+  "churchUri": "/scriptures/ot/isa/25",
+  "paragraphs": [
+    {
+      "slug": "isaiah-25-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 25",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "isaiah-25-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "O <span class=\"small-caps\">Lord</span>, thou <span class=\"clarity-word\">art</span> my God; I will exalt thee, I will praise thy name; for thou hast done wonderful <span class=\"clarity-word\">things; thy</span> counsels of old <span class=\"clarity-word\">are</span> faithfulness <span class=\"clarity-word\">and</span> truth.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "isaiah-25-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "For thou hast made of a city an heap; <span class=\"clarity-word\">of</span> a defenced city a ruin: a palace of strangers to be no city; it shall never be built.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "isaiah-25-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Therefore shall the strong people glorify thee, the city of the terrible nations shall fear thee.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "isaiah-25-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "For thou hast been a strength to the poor, a strength to the needy in his distress, a refuge from the storm, a shadow from the heat, when the blast of the terrible ones <span class=\"clarity-word\">is</span> as a storm <span class=\"clarity-word\">against</span> the wall.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "isaiah-25-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Thou shalt bring down the noise of strangers, as the heat in a dry place; <span class=\"clarity-word\">even</span> the heat with the shadow of a cloud: the branch of the terrible ones shall be brought low.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "isaiah-25-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "¶ And in this mountain shall the <span class=\"small-caps\">Lord</span> of hosts make unto all people a feast of fat things, a feast of wines on the lees, of fat things full of marrow, of wines on the lees well refined.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "isaiah-25-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And he will destroy in this mountain the face of the covering cast over all people, and the veil that is spread over all nations.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "isaiah-25-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "He will swallow up death in victory; and the Lord <span class=\"small-caps\">God</span> will wipe away tears from off all faces; and the rebuke of his people shall he take away from off all the earth: for the <span class=\"small-caps\">Lord</span> hath spoken <span class=\"clarity-word\">it.</span>",
+      "churchId": "p8"
+    },
+    {
+      "slug": "isaiah-25-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "¶ And it shall be said in that day, Lo, this <span class=\"clarity-word\">is</span> our God; we have waited for him, and he will save us: this <span class=\"clarity-word\">is</span> the <span class=\"small-caps\">Lord</span>; we have waited for him, we will be glad and rejoice in his salvation.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "isaiah-25-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "For in this mountain shall the hand of the <span class=\"small-caps\">Lord</span> rest, and Moab shall be trodden down under him, even as straw is trodden down for the dunghill.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "isaiah-25-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And he shall spread forth his hands in the midst of them, as he that swimmeth spreadeth forth <span class=\"clarity-word\">his hands</span> to swim: and he shall bring down their pride together with the spoils of their hands.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "isaiah-25-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And the fortress of the high fort of thy walls shall he bring down, lay low, <span class=\"clarity-word\">and</span> bring to the ground, <span class=\"clarity-word\">even</span> to the dust.",
+      "churchId": "p12"
+    }
+  ]
+}

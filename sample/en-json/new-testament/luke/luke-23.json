@@ -1,0 +1,407 @@
+{
+  "name": "Luke 23",
+  "abbrev": "Luke 23",
+  "number": "23",
+  "churchUri": "/scriptures/nt/luke/23",
+  "paragraphs": [
+    {
+      "slug": "luke-23-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 23",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "luke-23-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And the whole multitude of them arose, and led him unto Pilate.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "luke-23-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And they began to accuse him, saying, We found this <span class=\"clarity-word\">fellow</span> perverting the nation, and forbidding to give tribute to Cæsar, saying that he himself is Christ a King.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "luke-23-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And Pilate asked him, saying, Art thou the King of the Jews? And he answered him and said, Thou sayest <span class=\"clarity-word\">it.</span>",
+      "churchId": "p3"
+    },
+    {
+      "slug": "luke-23-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Then said Pilate to the chief priests and <span class=\"clarity-word\">to</span> the people, I find no fault in this man.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "luke-23-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And they were the more fierce, saying, He stirreth up the people, teaching throughout all Jewry, beginning from Galilee to this place.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "luke-23-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "When Pilate heard of Galilee, he asked whether the man were a Galilæan.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "luke-23-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And as soon as he knew that he belonged unto Herod’s jurisdiction, he sent him to Herod, who himself also was at Jerusalem at that time.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "luke-23-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "¶ And when Herod saw Jesus, he was exceeding glad: for he was desirous to see him of a long <span class=\"clarity-word\">season,</span> because he had heard many things of him; and he hoped to have seen some miracle done by him.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "luke-23-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Then he questioned with him in many words; but he answered him nothing.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "luke-23-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And the chief priests and scribes stood and vehemently accused him.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "luke-23-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And Herod with his men of war set him at nought, and mocked <span class=\"clarity-word\">him,</span> and arrayed him in a gorgeous robe, and sent him again to Pilate.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "luke-23-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "¶ And the same day Pilate and Herod were made friends together: for before they were at enmity between themselves.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "luke-23-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "¶ And Pilate, when he had called together the chief priests and the rulers and the people,",
+      "churchId": "p13"
+    },
+    {
+      "slug": "luke-23-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Said unto them, Ye have brought this man unto me, as one that perverteth the people: and, behold, I, having examined <span class=\"clarity-word\">him</span> before you, have found no fault in this man touching those things whereof ye accuse him:",
+      "churchId": "p14"
+    },
+    {
+      "slug": "luke-23-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "No, nor yet Herod: for I sent you to him; and, lo, nothing worthy of death is done unto him.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "luke-23-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "I will therefore chastise him, and release <span class=\"clarity-word\">him.</span>",
+      "churchId": "p16"
+    },
+    {
+      "slug": "luke-23-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "(For of necessity he must release one unto them at the feast.)",
+      "churchId": "p17"
+    },
+    {
+      "slug": "luke-23-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And they cried out all at once, saying, Away with this <span class=\"clarity-word\">man,</span> and release unto us Barabbas:",
+      "churchId": "p18"
+    },
+    {
+      "slug": "luke-23-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "(Who for a certain sedition made in the city, and for murder, was cast into prison.)",
+      "churchId": "p19"
+    },
+    {
+      "slug": "luke-23-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Pilate therefore, willing to release Jesus, spake again to them.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "luke-23-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "But they cried, saying, Crucify <span class=\"clarity-word\">him,</span> crucify him.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "luke-23-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And he said unto them the third time, Why, what evil hath he done? I have found no cause of death in him: I will therefore chastise him, and let <span class=\"clarity-word\">him</span> go.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "luke-23-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And they were instant with loud voices, requiring that he might be crucified. And the voices of them and of the chief priests prevailed.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "luke-23-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And Pilate gave sentence that it should be as they required.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "luke-23-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And he released unto them him that for sedition and murder was cast into prison, whom they had desired; but he delivered Jesus to their will.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "luke-23-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And as they led him away, they laid hold upon one Simon, a Cyrenian, coming out of the country, and on him they laid the cross, that he might bear <span class=\"clarity-word\">it</span> after Jesus.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "luke-23-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "¶ And there followed him a great company of people, and of women, which also bewailed and lamented him.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "luke-23-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "But Jesus turning unto them said, Daughters of Jerusalem, weep not for me, but weep for yourselves, and for your children.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "luke-23-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "For, behold, the days are coming, in the which they shall say, Blessed <span class=\"clarity-word\">are</span> the barren, and the wombs that never bare, and the paps which never gave suck.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "luke-23-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "Then shall they begin to say to the mountains, Fall on us; and to the hills, Cover us.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "luke-23-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "For if they do these things in a green tree, what shall be done in the dry?",
+      "churchId": "p31"
+    },
+    {
+      "slug": "luke-23-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "And there were also two other, malefactors, led with him to be put to death.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "luke-23-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "And when they were come to the place, which is called Calvary, there they crucified him, and the malefactors, one on the right hand, and the other on the left.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "luke-23-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "¶ Then said Jesus, Father, forgive them; for they know not what they do. And they parted his raiment, and cast lots.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "luke-23-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "And the people stood beholding. And the rulers also with them derided <span class=\"clarity-word\">him,</span> saying, He saved others; let him save himself, if he be Christ, the chosen of God.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "luke-23-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "And the soldiers also mocked him, coming to him, and offering him vinegar,",
+      "churchId": "p36"
+    },
+    {
+      "slug": "luke-23-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "And saying, If thou be the king of the Jews, save thyself.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "luke-23-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "And a superscription also was written over him in letters of Greek, and Latin, and Hebrew, <span class=\"uppercase\">This Is the King of the Jews</span>.",
+      "churchId": "p38"
+    },
+    {
+      "slug": "luke-23-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "¶ And one of the malefactors which were hanged railed on him, saying, If thou be Christ, save thyself and us.",
+      "churchId": "p39"
+    },
+    {
+      "slug": "luke-23-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "But the other answering rebuked him, saying, Dost not thou fear God, seeing thou art in the same condemnation?",
+      "churchId": "p40"
+    },
+    {
+      "slug": "luke-23-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "And we indeed justly; for we receive the due reward of our deeds: but this man hath done nothing amiss.",
+      "churchId": "p41"
+    },
+    {
+      "slug": "luke-23-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "And he said unto Jesus, Lord, remember me when thou comest into thy kingdom.",
+      "churchId": "p42"
+    },
+    {
+      "slug": "luke-23-p43",
+      "type": "verse",
+      "number": "43",
+      "content": "And Jesus said unto him, Verily I say unto thee, To day shalt thou be with me in paradise.",
+      "churchId": "p43"
+    },
+    {
+      "slug": "luke-23-p44",
+      "type": "verse",
+      "number": "44",
+      "content": "And it was about the sixth hour, and there was a darkness over all the earth until the ninth hour.",
+      "churchId": "p44"
+    },
+    {
+      "slug": "luke-23-p45",
+      "type": "verse",
+      "number": "45",
+      "content": "And the sun was darkened, and the veil of the temple was rent in the midst.",
+      "churchId": "p45"
+    },
+    {
+      "slug": "luke-23-p46",
+      "type": "verse",
+      "number": "46",
+      "content": "¶ And when Jesus had cried with a loud voice, he said, Father, into thy hands I commend my spirit: and having said thus, he gave up the ghost.",
+      "churchId": "p46"
+    },
+    {
+      "slug": "luke-23-p47",
+      "type": "verse",
+      "number": "47",
+      "content": "Now when the centurion saw what was done, he glorified God, saying, Certainly this was a righteous man.",
+      "churchId": "p47"
+    },
+    {
+      "slug": "luke-23-p48",
+      "type": "verse",
+      "number": "48",
+      "content": "And all the people that came together to that sight, beholding the things which were done, smote their breasts, and returned.",
+      "churchId": "p48"
+    },
+    {
+      "slug": "luke-23-p49",
+      "type": "verse",
+      "number": "49",
+      "content": "And all his acquaintance, and the women that followed him from Galilee, stood afar off, beholding these things.",
+      "churchId": "p49"
+    },
+    {
+      "slug": "luke-23-p50",
+      "type": "verse",
+      "number": "50",
+      "content": "¶ And, behold, <span class=\"clarity-word\">there was</span> a man named Joseph, a counsellor; <span class=\"clarity-word\">and he was</span> a good man, and a just:",
+      "churchId": "p50"
+    },
+    {
+      "slug": "luke-23-p51",
+      "type": "verse",
+      "number": "51",
+      "content": "(The same had not consented to the counsel and deed of them;) <span class=\"clarity-word\">he was</span> of Arimathæa, a city of the Jews: who also himself waited for the kingdom of God.",
+      "churchId": "p51"
+    },
+    {
+      "slug": "luke-23-p52",
+      "type": "verse",
+      "number": "52",
+      "content": "This <span class=\"clarity-word\">man</span> went unto Pilate, and begged the body of Jesus.",
+      "churchId": "p52"
+    },
+    {
+      "slug": "luke-23-p53",
+      "type": "verse",
+      "number": "53",
+      "content": "And he took it down, and wrapped it in linen, and laid it in a sepulchre that was hewn in stone, wherein never man before was laid.",
+      "churchId": "p53"
+    },
+    {
+      "slug": "luke-23-p54",
+      "type": "verse",
+      "number": "54",
+      "content": "And that day was the preparation, and the sabbath drew on.",
+      "churchId": "p54"
+    },
+    {
+      "slug": "luke-23-p55",
+      "type": "verse",
+      "number": "55",
+      "content": "And the women also, which came with him from Galilee, followed after, and beheld the sepulchre, and how his body was laid.",
+      "churchId": "p55"
+    },
+    {
+      "slug": "luke-23-p56",
+      "type": "verse",
+      "number": "56",
+      "content": "And they returned, and prepared spices and ointments; and rested the sabbath day according to the commandment.",
+      "churchId": "p56"
+    }
+  ]
+}

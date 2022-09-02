@@ -1,0 +1,141 @@
+{
+  "name": "Psalm 59",
+  "abbrev": "Psalm 59",
+  "number": "59",
+  "churchUri": "/scriptures/ot/ps/59",
+  "paragraphs": [
+    {
+      "slug": "psalm-59-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 59",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-59-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "To the chief Musician, Al-taschith, Michtam of David; when Saul sent, and they watched the house to kill him.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-59-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Deliver me from mine enemies, O my God: defend me from them that rise up against me.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-59-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Deliver me from the workers of iniquity, and save me from bloody men.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-59-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "For, lo, they lie in wait for my soul: the mighty are gathered against me; not <span class=\"clarity-word\">for</span> my transgression, nor <span class=\"clarity-word\">for</span> my sin, O <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-59-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "They run and prepare themselves without <span class=\"clarity-word\">my</span> fault: awake to help me, and behold.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-59-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Thou therefore, O <span class=\"small-caps\">Lord</span> God of hosts, the God of Israel, awake to visit all the heathen: be not merciful to any wicked transgressors. Selah.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-59-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "They return at evening: they make a noise like a dog, and go round about the city.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-59-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Behold, they belch out with their mouth: swords <span class=\"clarity-word\">are</span> in their lips: for who, <span class=\"clarity-word\">say they,</span> doth hear?",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-59-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "But thou, O <span class=\"small-caps\">Lord</span>, shalt laugh at them; thou shalt have all the heathen in derision.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "psalm-59-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "<span class=\"clarity-word\">Because of</span> his strength will I wait upon thee: for God <span class=\"clarity-word\">is</span> my defence.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "psalm-59-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "The God of my mercy shall prevent me: God shall let me see <span class=\"clarity-word\">my desire</span> upon mine enemies.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "psalm-59-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Slay them not, lest my people forget: scatter them by thy power; and bring them down, O Lord our shield.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "psalm-59-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "<span class=\"clarity-word\">For</span> the sin of their mouth <span class=\"clarity-word\">and</span> the words of their lips let them even be taken in their pride: and for cursing and lying <span class=\"clarity-word\">which</span> they speak.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "psalm-59-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Consume <span class=\"clarity-word\">them</span> in wrath, consume <span class=\"clarity-word\">them,</span> that they <span class=\"clarity-word\">may</span> not <span class=\"clarity-word\">be:</span> and let them know that God ruleth in Jacob unto the ends of the earth. Selah.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "psalm-59-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And at evening let them return; <span class=\"clarity-word\">and</span> let them make a noise like a dog, and go round about the city.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "psalm-59-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Let them wander up and down for meat, and grudge if they be not satisfied.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "psalm-59-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "But I will sing of thy power; yea, I will sing aloud of thy mercy in the morning: for thou hast been my defence and refuge in the day of my trouble.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "psalm-59-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Unto thee, O my strength, will I sing: for God <span class=\"clarity-word\">is</span> my defence, <span class=\"clarity-word\">and</span> the God of my mercy.",
+      "churchId": "p17"
+    }
+  ]
+}

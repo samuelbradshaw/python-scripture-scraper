@@ -1,0 +1,470 @@
+{
+  "name": "Doctrine and Covenants 58",
+  "abbrev": "D&C 58",
+  "number": "58",
+  "churchUri": "/scriptures/dc-testament/dc/58",
+  "paragraphs": [
+    {
+      "slug": "section-58-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Section 58",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "section-58-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Hearken, O ye elders of my church, and give ear to my word, and learn of me what I will concerning you, and also concerning this land unto which I have sent you.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "section-58-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "For verily I say unto you, blessed is he that keepeth my commandments, whether in life or in death; and he that is faithful in tribulation, the reward of the same is greater in the kingdom of heaven.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "section-58-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Ye cannot behold with your natural eyes, for the present time, the design of your God concerning those things which shall come hereafter, and the glory which shall follow after much tribulation.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "section-58-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "For after much tribulation come the blessings. Wherefore the day cometh that ye shall be crowned with much glory; the hour is not yet, but is nigh at hand.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "section-58-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Remember this, which I tell you before, that you may lay it to heart, and receive that which is to follow.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "section-58-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Behold, verily I say unto you, for this cause I have sent you—that you might be obedient, and that your hearts might be prepared to bear testimony of the things which are to come;",
+      "churchId": "p6"
+    },
+    {
+      "slug": "section-58-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And also that you might be honored in laying the foundation, and in bearing record of the land upon which the Zion of God shall stand;",
+      "churchId": "p7"
+    },
+    {
+      "slug": "section-58-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And also that a feast of fat things might be prepared for the poor; yea, a feast of fat things, of wine on the lees well refined, that the earth may know that the mouths of the prophets shall not fail;",
+      "churchId": "p8"
+    },
+    {
+      "slug": "section-58-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Yea, a supper of the house of the Lord, well prepared, unto which all nations shall be invited.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "section-58-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "First, the rich and the learned, the wise and the noble;",
+      "churchId": "p10"
+    },
+    {
+      "slug": "section-58-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And after that cometh the day of my power; then shall the poor, the lame, and the blind, and the deaf, come in unto the marriage of the Lamb, and partake of the supper of the Lord, prepared for the great day to come.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "section-58-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Behold, I, the Lord, have spoken it.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "section-58-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And that the testimony might go forth from Zion, yea, from the mouth of the city of the heritage of God—",
+      "churchId": "p13"
+    },
+    {
+      "slug": "section-58-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Yea, for this cause I have sent you hither, and have selected my servant Edward Partridge, and have appointed unto him his mission in this land.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "section-58-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "But if he repent not of his sins, which are unbelief and blindness of heart, let him take heed lest he fall.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "section-58-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Behold his mission is given unto him, and it shall not be given again.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "section-58-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And whoso standeth in this mission is appointed to be a judge in Israel, like as it was in ancient days, to divide the lands of the heritage of God unto his children;",
+      "churchId": "p17"
+    },
+    {
+      "slug": "section-58-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And to judge his people by the testimony of the just, and by the assistance of his counselors, according to the laws of the kingdom which are given by the prophets of God.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "section-58-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "For verily I say unto you, my law shall be kept on this land.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "section-58-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Let no man think he is ruler; but let God rule him that judgeth, according to the counsel of his own will, or, in other words, him that counseleth or sitteth upon the judgment seat.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "section-58-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Let no man break the laws of the land, for he that keepeth the laws of God hath no need to break the laws of the land.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "section-58-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Wherefore, be subject to the powers that be, until he reigns whose right it is to reign, and subdues all enemies under his feet.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "section-58-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Behold, the laws which ye have received from my hand are the laws of the church, and in this light ye shall hold them forth. Behold, here is wisdom.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "section-58-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And now, as I spake concerning my servant Edward Partridge, this land is the land of his residence, and those whom he has appointed for his counselors; and also the land of the residence of him whom I have appointed to keep my storehouse;",
+      "churchId": "p24"
+    },
+    {
+      "slug": "section-58-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Wherefore, let them bring their families to this land, as they shall counsel between themselves and me.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "section-58-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "For behold, it is not meet that I should command in all things; for he that is compelled in all things, the same is a slothful and not a wise servant; wherefore he receiveth no reward.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "section-58-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "Verily I say, men should be anxiously engaged in a good cause, and do many things of their own free will, and bring to pass much righteousness;",
+      "churchId": "p27"
+    },
+    {
+      "slug": "section-58-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "For the power is in them, wherein they are agents unto themselves. And inasmuch as men do good they shall in nowise lose their reward.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "section-58-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "But he that doeth not anything until he is commanded, and receiveth a commandment with doubtful heart, and keepeth it with slothfulness, the same is damned.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "section-58-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "Who am I that made man, saith the Lord, that will hold him guiltless that obeys not my commandments?",
+      "churchId": "p30"
+    },
+    {
+      "slug": "section-58-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "Who am I, saith the Lord, that have promised and have not fulfilled?",
+      "churchId": "p31"
+    },
+    {
+      "slug": "section-58-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "I command and men obey not; I revoke and they receive not the blessing.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "section-58-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "Then they say in their hearts: This is not the work of the Lord, for his promises are not fulfilled. But wo unto such, for their reward lurketh beneath, and not from above.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "section-58-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "And now I give unto you further directions concerning this land.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "section-58-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "It is wisdom in me that my servant Martin Harris should be an example unto the church, in laying his moneys before the bishop of the church.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "section-58-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "And also, this is a law unto every man that cometh unto this land to receive an inheritance; and he shall do with his moneys according as the law directs.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "section-58-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "And it is wisdom also that there should be lands purchased in Independence, for the place of the storehouse, and also for the house of the printing.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "section-58-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "And other directions concerning my servant Martin Harris shall be given him of the Spirit, that he may receive his inheritance as seemeth him good;",
+      "churchId": "p38"
+    },
+    {
+      "slug": "section-58-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "And let him repent of his sins, for he seeketh the praise of the world.",
+      "churchId": "p39"
+    },
+    {
+      "slug": "section-58-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "And also let my servant William W. Phelps stand in the office to which I have appointed him, and receive his inheritance in the land;",
+      "churchId": "p40"
+    },
+    {
+      "slug": "section-58-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "And also he hath need to repent, for I, the Lord, am not well pleased with him, for he seeketh to excel, and he is not sufficiently meek before me.",
+      "churchId": "p41"
+    },
+    {
+      "slug": "section-58-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "Behold, he who has repented of his sins, the same is forgiven, and I, the Lord, remember them no more.",
+      "churchId": "p42"
+    },
+    {
+      "slug": "section-58-p43",
+      "type": "verse",
+      "number": "43",
+      "content": "By this ye may know if a man repenteth of his sins—behold, he will confess them and forsake them.",
+      "churchId": "p43"
+    },
+    {
+      "slug": "section-58-p44",
+      "type": "verse",
+      "number": "44",
+      "content": "And now, verily, I say concerning the residue of the elders of my church, the time has not yet come, for many years, for them to receive their inheritance in this land, except they desire it through the prayer of faith, only as it shall be appointed unto them of the Lord.",
+      "churchId": "p44"
+    },
+    {
+      "slug": "section-58-p45",
+      "type": "verse",
+      "number": "45",
+      "content": "For, behold, they shall push the people together from the ends of the earth.",
+      "churchId": "p45"
+    },
+    {
+      "slug": "section-58-p46",
+      "type": "verse",
+      "number": "46",
+      "content": "Wherefore, assemble yourselves together; and they who are not appointed to stay in this land, let them preach the gospel in the regions round about; and after that let them return to their homes.",
+      "churchId": "p46"
+    },
+    {
+      "slug": "section-58-p47",
+      "type": "verse",
+      "number": "47",
+      "content": "Let them preach by the way, and bear testimony of the truth in all places, and call upon the rich, the high and the low, and the poor to repent.",
+      "churchId": "p47"
+    },
+    {
+      "slug": "section-58-p48",
+      "type": "verse",
+      "number": "48",
+      "content": "And let them build up churches, inasmuch as the inhabitants of the earth will repent.",
+      "churchId": "p48"
+    },
+    {
+      "slug": "section-58-p49",
+      "type": "verse",
+      "number": "49",
+      "content": "And let there be an agent appointed by the voice of the church, unto the church in Ohio, to receive moneys to purchase lands in Zion.",
+      "churchId": "p49"
+    },
+    {
+      "slug": "section-58-p50",
+      "type": "verse",
+      "number": "50",
+      "content": "And I give unto my servant Sidney Rigdon a commandment, that he shall write a description of the land of Zion, and a statement of the will of God, as it shall be made known by the Spirit unto him;",
+      "churchId": "p50"
+    },
+    {
+      "slug": "section-58-p51",
+      "type": "verse",
+      "number": "51",
+      "content": "And an epistle and subscription, to be presented unto all the churches to obtain moneys, to be put into the hands of the bishop, of himself or the agent, as seemeth him good or as he shall direct, to purchase lands for an inheritance for the children of God.",
+      "churchId": "p51"
+    },
+    {
+      "slug": "section-58-p52",
+      "type": "verse",
+      "number": "52",
+      "content": "For, behold, verily I say unto you, the Lord willeth that the disciples and the children of men should open their hearts, even to purchase this whole region of country, as soon as time will permit.",
+      "churchId": "p52"
+    },
+    {
+      "slug": "section-58-p53",
+      "type": "verse",
+      "number": "53",
+      "content": "Behold, here is wisdom. Let them do this lest they receive none inheritance, save it be by the shedding of blood.",
+      "churchId": "p53"
+    },
+    {
+      "slug": "section-58-p54",
+      "type": "verse",
+      "number": "54",
+      "content": "And again, inasmuch as there is land obtained, let there be workmen sent forth of all kinds unto this land, to labor for the saints of God.",
+      "churchId": "p54"
+    },
+    {
+      "slug": "section-58-p55",
+      "type": "verse",
+      "number": "55",
+      "content": "Let all these things be done in order; and let the privileges of the lands be made known from time to time, by the bishop or the agent of the church.",
+      "churchId": "p55"
+    },
+    {
+      "slug": "section-58-p56",
+      "type": "verse",
+      "number": "56",
+      "content": "And let the work of the gathering be not in haste, nor by flight; but let it be done as it shall be counseled by the elders of the church at the conferences, according to the knowledge which they receive from time to time.",
+      "churchId": "p56"
+    },
+    {
+      "slug": "section-58-p57",
+      "type": "verse",
+      "number": "57",
+      "content": "And let my servant Sidney Rigdon consecrate and dedicate this land, and the spot for the temple, unto the Lord.",
+      "churchId": "p57"
+    },
+    {
+      "slug": "section-58-p58",
+      "type": "verse",
+      "number": "58",
+      "content": "And let a conference meeting be called; and after that let my servants Sidney Rigdon and Joseph Smith, Jun., return, and also Oliver Cowdery with them, to accomplish the residue of the work which I have appointed unto them in their own land, and the residue as shall be ruled by the conferences.",
+      "churchId": "p58"
+    },
+    {
+      "slug": "section-58-p59",
+      "type": "verse",
+      "number": "59",
+      "content": "And let no man return from this land except he bear record by the way, of that which he knows and most assuredly believes.",
+      "churchId": "p59"
+    },
+    {
+      "slug": "section-58-p60",
+      "type": "verse",
+      "number": "60",
+      "content": "Let that which has been bestowed upon Ziba Peterson be taken from him; and let him stand as a member in the church, and labor with his own hands, with the brethren, until he is sufficiently chastened for all his sins; for he confesseth them not, and he thinketh to hide them.",
+      "churchId": "p60"
+    },
+    {
+      "slug": "section-58-p61",
+      "type": "verse",
+      "number": "61",
+      "content": "Let the residue of the elders of this church, who are coming to this land, some of whom are exceedingly blessed even above measure, also hold a conference upon this land.",
+      "churchId": "p61"
+    },
+    {
+      "slug": "section-58-p62",
+      "type": "verse",
+      "number": "62",
+      "content": "And let my servant Edward Partridge direct the conference which shall be held by them.",
+      "churchId": "p62"
+    },
+    {
+      "slug": "section-58-p63",
+      "type": "verse",
+      "number": "63",
+      "content": "And let them also return, preaching the gospel by the way, bearing record of the things which are revealed unto them.",
+      "churchId": "p63"
+    },
+    {
+      "slug": "section-58-p64",
+      "type": "verse",
+      "number": "64",
+      "content": "For, verily, the sound must go forth from this place into all the world, and unto the uttermost parts of the earth—the gospel must be preached unto every creature, with signs following them that believe.",
+      "churchId": "p64"
+    },
+    {
+      "slug": "section-58-p65",
+      "type": "verse",
+      "number": "65",
+      "content": "And behold the Son of Man cometh. Amen.",
+      "churchId": "p65"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "name": "Ecclesiastes 8",
+  "abbrev": "Eccl. 8",
+  "number": "8",
+  "churchUri": "/scriptures/ot/eccl/8",
+  "paragraphs": [
+    {
+      "slug": "ecclesiastes-8-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 8",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "ecclesiastes-8-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Who <span class=\"clarity-word\">is</span> as the wise <span class=\"clarity-word\">man?</span> and who knoweth the interpretation of a thing? a man’s wisdom maketh his face to shine, and the boldness of his face shall be changed.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "ecclesiastes-8-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "I <span class=\"clarity-word\">counsel thee</span> to keep the king’s commandment, and <span class=\"clarity-word\">that</span> in regard of the oath of God.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "ecclesiastes-8-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Be not hasty to go out of his sight: stand not in an evil thing; for he doeth whatsoever pleaseth him.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "ecclesiastes-8-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Where the word of a king <span class=\"clarity-word\">is, there is</span> power: and who may say unto him, What doest thou?",
+      "churchId": "p4"
+    },
+    {
+      "slug": "ecclesiastes-8-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Whoso keepeth the commandment shall feel no evil thing: and a wise man’s heart discerneth both time and judgment.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "ecclesiastes-8-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "¶ Because to every purpose there is time and judgment, therefore the misery of man <span class=\"clarity-word\">is</span> great upon him.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "ecclesiastes-8-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "For he knoweth not that which shall be: for who can tell him when it shall be?",
+      "churchId": "p7"
+    },
+    {
+      "slug": "ecclesiastes-8-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "<span class=\"clarity-word\">There is</span> no man that hath power over the spirit to retain the spirit; neither <span class=\"clarity-word\">hath he</span> power in the day of death: and <span class=\"clarity-word\">there is</span> no discharge in <span class=\"clarity-word\">that</span> war; neither shall wickedness deliver those that are given to it.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "ecclesiastes-8-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "All this have I seen, and applied my heart unto every work that is done under the sun: <span class=\"clarity-word\">there is</span> a time wherein one man ruleth over another to his own hurt.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "ecclesiastes-8-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And so I saw the wicked buried, who had come and gone from the place of the holy, and they were forgotten in the city where they had so done: this <span class=\"clarity-word\">is</span> also vanity.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "ecclesiastes-8-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Because sentence against an evil work is not executed speedily, therefore the heart of the sons of men is fully set in them to do evil.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "ecclesiastes-8-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "¶ Though a sinner do evil an hundred times, and his <span class=\"clarity-word\">days</span> be prolonged, yet surely I know that it shall be well with them that fear God, which fear before him:",
+      "churchId": "p12"
+    },
+    {
+      "slug": "ecclesiastes-8-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "But it shall not be well with the wicked, neither shall he prolong <span class=\"clarity-word\">his</span> days, <span class=\"clarity-word\">which are</span> as a shadow; because he feareth not before God.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "ecclesiastes-8-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "There is a vanity which is done upon the earth; that there be just <span class=\"clarity-word\">men,</span> unto whom it happeneth according to the work of the wicked; again, there be wicked <span class=\"clarity-word\">men,</span> to whom it happeneth according to the work of the righteous: I said that this also <span class=\"clarity-word\">is</span> vanity.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "ecclesiastes-8-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Then I commended mirth, because a man hath no better thing under the sun, than to eat, and to drink, and to be merry: for that shall abide with him of his labour the days of his life, which God giveth him under the sun.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "ecclesiastes-8-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "¶ When I applied mine heart to know wisdom, and to see the business that is done upon the earth: (for also <span class=\"clarity-word\">there is that</span> neither day nor night seeth sleep with his eyes:)",
+      "churchId": "p16"
+    },
+    {
+      "slug": "ecclesiastes-8-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Then I beheld all the work of God, that a man cannot find out the work that is done under the sun: because though a man labour to seek <span class=\"clarity-word\">it</span> out, yet he shall not find <span class=\"clarity-word\">it;</span> yea further; though a wise <span class=\"clarity-word\">man</span> think to know <span class=\"clarity-word\">it,</span> yet shall he not be able to find <span class=\"clarity-word\">it.</span>",
+      "churchId": "p17"
+    }
+  ]
+}

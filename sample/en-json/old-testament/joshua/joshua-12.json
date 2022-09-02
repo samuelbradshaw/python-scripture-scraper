@@ -1,0 +1,183 @@
+{
+  "name": "Joshua 12",
+  "abbrev": "Josh. 12",
+  "number": "12",
+  "churchUri": "/scriptures/ot/josh/12",
+  "paragraphs": [
+    {
+      "slug": "joshua-12-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 12",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "joshua-12-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Now these <span class=\"clarity-word\">are</span> the kings of the land, which the children of Israel smote, and possessed their land on the other side Jordan toward the rising of the sun, from the river Arnon unto mount Hermon, and all the plain on the east:",
+      "churchId": "p1"
+    },
+    {
+      "slug": "joshua-12-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Sihon king of the Amorites, who dwelt in Heshbon, <span class=\"clarity-word\">and</span> ruled from Aroer, which <span class=\"clarity-word\">is</span> upon the bank of the river Arnon, and from the middle of the river, and from half Gilead, even unto the river Jabbok, <span class=\"clarity-word\">which is</span> the border of the children of Ammon;",
+      "churchId": "p2"
+    },
+    {
+      "slug": "joshua-12-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And from the plain to the sea of Chinneroth on the east, and unto the sea of the plain, <span class=\"clarity-word\">even</span> the salt sea on the east, the way to Beth-jeshimoth; and from the south, under Ashdoth-pisgah:",
+      "churchId": "p3"
+    },
+    {
+      "slug": "joshua-12-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "¶ And the coast of Og king of Bashan, <span class=\"clarity-word\">which was</span> of the remnant of the giants, that dwelt at Ashtaroth and at Edrei,",
+      "churchId": "p4"
+    },
+    {
+      "slug": "joshua-12-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And reigned in mount Hermon, and in Salcah, and in all Bashan, unto the border of the Geshurites and the Maachathites, and half Gilead, the border of Sihon king of Heshbon.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "joshua-12-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Them did Moses the servant of the <span class=\"small-caps\">Lord</span> and the children of Israel smite: and Moses the servant of the <span class=\"small-caps\">Lord</span> gave it <span class=\"clarity-word\">for</span> a possession unto the Reubenites, and the Gadites, and the half tribe of Manasseh.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "joshua-12-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "¶ And these <span class=\"clarity-word\">are</span> the kings of the country which Joshua and the children of Israel smote on this side Jordan on the west, from Baal-gad in the valley of Lebanon even unto the mount Halak, that goeth up to Seir; which Joshua gave unto the tribes of Israel <span class=\"clarity-word\">for</span> a possession according to their divisions;",
+      "churchId": "p7"
+    },
+    {
+      "slug": "joshua-12-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "In the mountains, and in the valleys, and in the plains, and in the springs, and in the wilderness, and in the south country; the Hittites, the Amorites, and the Canaanites, the Perizzites, the Hivites, and the Jebusites:",
+      "churchId": "p8"
+    },
+    {
+      "slug": "joshua-12-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "¶ The king of Jericho, one; the king of Ai, which <span class=\"clarity-word\">is</span> beside Beth-el, one;",
+      "churchId": "p9"
+    },
+    {
+      "slug": "joshua-12-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "The king of Jerusalem, one; the king of Hebron, one;",
+      "churchId": "p10"
+    },
+    {
+      "slug": "joshua-12-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "The king of Jarmuth, one; the king of Lachish, one;",
+      "churchId": "p11"
+    },
+    {
+      "slug": "joshua-12-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "The king of Eglon, one; the king of Gezer, one;",
+      "churchId": "p12"
+    },
+    {
+      "slug": "joshua-12-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "The king of Debir, one; the king of Geder, one;",
+      "churchId": "p13"
+    },
+    {
+      "slug": "joshua-12-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "The king of Hormah, one; the king of Arad, one;",
+      "churchId": "p14"
+    },
+    {
+      "slug": "joshua-12-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "The king of Libnah, one; the king of Adullam, one;",
+      "churchId": "p15"
+    },
+    {
+      "slug": "joshua-12-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "The king of Makkedah, one; the king of Beth-el, one;",
+      "churchId": "p16"
+    },
+    {
+      "slug": "joshua-12-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "The king of Tappuah, one; the king of Hepher, one;",
+      "churchId": "p17"
+    },
+    {
+      "slug": "joshua-12-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "The king of Aphek, one; the king of Lasharon, one;",
+      "churchId": "p18"
+    },
+    {
+      "slug": "joshua-12-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "The king of Madon, one; the king of Hazor, one;",
+      "churchId": "p19"
+    },
+    {
+      "slug": "joshua-12-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "The king of Shimron-meron, one; the king of Achshaph, one;",
+      "churchId": "p20"
+    },
+    {
+      "slug": "joshua-12-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "The king of Taanach, one; the king of Megiddo, one;",
+      "churchId": "p21"
+    },
+    {
+      "slug": "joshua-12-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "The king of Kedesh, one; the king of Jokneam of Carmel, one;",
+      "churchId": "p22"
+    },
+    {
+      "slug": "joshua-12-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "The king of Dor in the coast of Dor, one; the king of the nations of Gilgal, one;",
+      "churchId": "p23"
+    },
+    {
+      "slug": "joshua-12-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "The king of Tirzah, one: all the kings thirty and one.",
+      "churchId": "p24"
+    }
+  ]
+}

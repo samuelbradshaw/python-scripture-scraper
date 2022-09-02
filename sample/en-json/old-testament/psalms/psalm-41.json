@@ -1,0 +1,113 @@
+{
+  "name": "Psalm 41",
+  "abbrev": "Psalm 41",
+  "number": "41",
+  "churchUri": "/scriptures/ot/ps/41",
+  "paragraphs": [
+    {
+      "slug": "psalm-41-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 41",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-41-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "To the chief Musician, A Psalm of David.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-41-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Blessed <span class=\"clarity-word\">is</span> he that considereth the poor: the <span class=\"small-caps\">Lord</span> will deliver him in time of trouble.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-41-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "The <span class=\"small-caps\">Lord</span> will preserve him, and keep him alive; <span class=\"clarity-word\">and</span> he shall be blessed upon the earth: and thou wilt not deliver him unto the will of his enemies.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-41-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "The <span class=\"small-caps\">Lord</span> will strengthen him upon the bed of languishing: thou wilt make all his bed in his sickness.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-41-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "I said, <span class=\"small-caps\">Lord</span>, be merciful unto me: heal my soul; for I have sinned against thee.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-41-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Mine enemies speak evil of me, When shall he die, and his name perish?",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-41-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And if he come to see <span class=\"clarity-word\">me,</span> he speaketh vanity: his heart gathereth iniquity to itself; <span class=\"clarity-word\">when</span> he goeth abroad, he telleth <span class=\"clarity-word\">it.</span>",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-41-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "All that hate me whisper together against me: against me do they devise my hurt.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-41-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "An evil disease, <span class=\"clarity-word\">say they,</span> cleaveth fast unto him: and <span class=\"clarity-word\">now</span> that he lieth he shall rise up no more.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "psalm-41-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Yea, mine own familiar friend, in whom I trusted, which did eat of my bread, hath lifted up <span class=\"clarity-word\">his</span> heel against me.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "psalm-41-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "But thou, O <span class=\"small-caps\">Lord</span>, be merciful unto me, and raise me up, that I may requite them.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "psalm-41-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "By this I know that thou favourest me, because mine enemy doth not triumph over me.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "psalm-41-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And as for me, thou upholdest me in mine integrity, and settest me before thy face for ever.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "psalm-41-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Blessed <span class=\"clarity-word\">be</span> the <span class=\"small-caps\">Lord</span> God of Israel from everlasting, and to everlasting. Amen, and Amen.",
+      "churchId": "p13"
+    }
+  ]
+}

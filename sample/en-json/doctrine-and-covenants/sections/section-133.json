@@ -1,0 +1,533 @@
+{
+  "name": "Doctrine and Covenants 133",
+  "abbrev": "D&C 133",
+  "number": "133",
+  "churchUri": "/scriptures/dc-testament/dc/133",
+  "paragraphs": [
+    {
+      "slug": "section-133-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Section 133",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "section-133-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Hearken, O ye people of my church, saith the Lord your God, and hear the word of the Lord concerning you—",
+      "churchId": "p1"
+    },
+    {
+      "slug": "section-133-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "The Lord who shall suddenly come to his temple; the Lord who shall come down upon the world with a curse to judgment; yea, upon all the nations that forget God, and upon all the ungodly among you.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "section-133-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "For he shall make bare his holy arm in the eyes of all the nations, and all the ends of the earth shall see the salvation of their God.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "section-133-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Wherefore, prepare ye, prepare ye, O my people; sanctify yourselves; gather ye together, O ye people of my church, upon the land of Zion, all you that have not been commanded to tarry.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "section-133-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Go ye out from Babylon. Be ye clean that bear the vessels of the Lord.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "section-133-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Call your solemn assemblies, and speak often one to another. And let every man call upon the name of the Lord.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "section-133-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Yea, verily I say unto you again, the time has come when the voice of the Lord is unto you: Go ye out of Babylon; gather ye out from among the nations, from the four winds, from one end of heaven to the other.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "section-133-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Send forth the elders of my church unto the nations which are afar off; unto the islands of the sea; send forth unto foreign lands; call upon all nations, first upon the Gentiles, and then upon the Jews.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "section-133-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And behold, and lo, this shall be their cry, and the voice of the Lord unto all people: Go ye forth unto the land of Zion, that the borders of my people may be enlarged, and that her stakes may be strengthened, and that Zion may go forth unto the regions round about.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "section-133-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Yea, let the cry go forth among all people: Awake and arise and go forth to meet the Bridegroom; behold and lo, the Bridegroom cometh; go ye out to meet him. Prepare yourselves for the great day of the Lord.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "section-133-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Watch, therefore, for ye know neither the day nor the hour.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "section-133-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Let them, therefore, who are among the Gentiles flee unto Zion.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "section-133-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And let them who be of Judah flee unto Jerusalem, unto the mountains of the Lord’s house.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "section-133-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Go ye out from among the nations, even from Babylon, from the midst of wickedness, which is spiritual Babylon.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "section-133-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "But verily, thus saith the Lord, let not your flight be in haste, but let all things be prepared before you; and he that goeth, let him not look back lest sudden destruction shall come upon him.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "section-133-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Hearken and hear, O ye inhabitants of the earth. Listen, ye elders of my church together, and hear the voice of the Lord; for he calleth upon all men, and he commandeth all men everywhere to repent.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "section-133-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "For behold, the Lord God hath sent forth the angel crying through the midst of heaven, saying: Prepare ye the way of the Lord, and make his paths straight, for the hour of his coming is nigh—",
+      "churchId": "p17"
+    },
+    {
+      "slug": "section-133-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "When the Lamb shall stand upon Mount Zion, and with him a hundred and forty-four thousand, having his Father’s name written on their foreheads.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "section-133-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Wherefore, prepare ye for the coming of the Bridegroom; go ye, go ye out to meet him.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "section-133-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "For behold, he shall stand upon the mount of Olivet, and upon the mighty ocean, even the great deep, and upon the islands of the sea, and upon the land of Zion.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "section-133-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And he shall utter his voice out of Zion, and he shall speak from Jerusalem, and his voice shall be heard among all people;",
+      "churchId": "p21"
+    },
+    {
+      "slug": "section-133-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And it shall be a voice as the voice of many waters, and as the voice of a great thunder, which shall break down the mountains, and the valleys shall not be found.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "section-133-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "He shall command the great deep, and it shall be driven back into the north countries, and the islands shall become one land;",
+      "churchId": "p23"
+    },
+    {
+      "slug": "section-133-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And the land of Jerusalem and the land of Zion shall be turned back into their own place, and the earth shall be like as it was in the days before it was divided.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "section-133-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And the Lord, even the Savior, shall stand in the midst of his people, and shall reign over all flesh.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "section-133-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And they who are in the north countries shall come in remembrance before the Lord; and their prophets shall hear his voice, and shall no longer stay themselves; and they shall smite the rocks, and the ice shall flow down at their presence.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "section-133-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And an highway shall be cast up in the midst of the great deep.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "section-133-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "Their enemies shall become a prey unto them,",
+      "churchId": "p28"
+    },
+    {
+      "slug": "section-133-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "And in the barren deserts there shall come forth pools of living water; and the parched ground shall no longer be a thirsty land.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "section-133-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And they shall bring forth their rich treasures unto the children of Ephraim, my servants.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "section-133-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "And the boundaries of the everlasting hills shall tremble at their presence.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "section-133-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "And there shall they fall down and be crowned with glory, even in Zion, by the hands of the servants of the Lord, even the children of Ephraim.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "section-133-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "And they shall be filled with songs of everlasting joy.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "section-133-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "Behold, this is the blessing of the everlasting God upon the tribes of Israel, and the richer blessing upon the head of Ephraim and his fellows.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "section-133-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "And they also of the tribe of Judah, after their pain, shall be sanctified in holiness before the Lord, to dwell in his presence day and night, forever and ever.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "section-133-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "And now, verily saith the Lord, that these things might be known among you, O inhabitants of the earth, I have sent forth mine angel flying through the midst of heaven, having the everlasting gospel, who hath appeared unto some and hath committed it unto man, who shall appear unto many that dwell on the earth.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "section-133-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "And this gospel shall be preached unto every nation, and kindred, and tongue, and people.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "section-133-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "And the servants of God shall go forth, saying with a loud voice: Fear God and give glory to him, for the hour of his judgment is come;",
+      "churchId": "p38"
+    },
+    {
+      "slug": "section-133-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "And worship him that made heaven, and earth, and the sea, and the fountains of waters—",
+      "churchId": "p39"
+    },
+    {
+      "slug": "section-133-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "Calling upon the name of the Lord day and night, saying: O that thou wouldst rend the heavens, that thou wouldst come down, that the mountains might flow down at thy presence.",
+      "churchId": "p40"
+    },
+    {
+      "slug": "section-133-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "And it shall be answered upon their heads; for the presence of the Lord shall be as the melting fire that burneth, and as the fire which causeth the waters to boil.",
+      "churchId": "p41"
+    },
+    {
+      "slug": "section-133-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "O Lord, thou shalt come down to make thy name known to thine adversaries, and all nations shall tremble at thy presence—",
+      "churchId": "p42"
+    },
+    {
+      "slug": "section-133-p43",
+      "type": "verse",
+      "number": "43",
+      "content": "When thou doest terrible things, things they look not for;",
+      "churchId": "p43"
+    },
+    {
+      "slug": "section-133-p44",
+      "type": "verse",
+      "number": "44",
+      "content": "Yea, when thou comest down, and the mountains flow down at thy presence, thou shalt meet him who rejoiceth and worketh righteousness, who remembereth thee in thy ways.",
+      "churchId": "p44"
+    },
+    {
+      "slug": "section-133-p45",
+      "type": "verse",
+      "number": "45",
+      "content": "For since the beginning of the world have not men heard nor perceived by the ear, neither hath any eye seen, O God, besides thee, how great things thou hast prepared for him that waiteth for thee.",
+      "churchId": "p45"
+    },
+    {
+      "slug": "section-133-p46",
+      "type": "verse",
+      "number": "46",
+      "content": "And it shall be said: Who is this that cometh down from God in heaven with dyed garments; yea, from the regions which are not known, clothed in his glorious apparel, traveling in the greatness of his strength?",
+      "churchId": "p46"
+    },
+    {
+      "slug": "section-133-p47",
+      "type": "verse",
+      "number": "47",
+      "content": "And he shall say: I am he who spake in righteousness, mighty to save.",
+      "churchId": "p47"
+    },
+    {
+      "slug": "section-133-p48",
+      "type": "verse",
+      "number": "48",
+      "content": "And the Lord shall be red in his apparel, and his garments like him that treadeth in the wine-vat.",
+      "churchId": "p48"
+    },
+    {
+      "slug": "section-133-p49",
+      "type": "verse",
+      "number": "49",
+      "content": "And so great shall be the glory of his presence that the sun shall hide his face in shame, and the moon shall withhold its light, and the stars shall be hurled from their places.",
+      "churchId": "p49"
+    },
+    {
+      "slug": "section-133-p50",
+      "type": "verse",
+      "number": "50",
+      "content": "And his voice shall be heard: I have trodden the wine-press alone, and have brought judgment upon all people; and none were with me;",
+      "churchId": "p50"
+    },
+    {
+      "slug": "section-133-p51",
+      "type": "verse",
+      "number": "51",
+      "content": "And I have trampled them in my fury, and I did tread upon them in mine anger, and their blood have I sprinkled upon my garments, and stained all my raiment; for this was the day of vengeance which was in my heart.",
+      "churchId": "p51"
+    },
+    {
+      "slug": "section-133-p52",
+      "type": "verse",
+      "number": "52",
+      "content": "And now the year of my redeemed is come; and they shall mention the loving kindness of their Lord, and all that he has bestowed upon them according to his goodness, and according to his loving kindness, forever and ever.",
+      "churchId": "p52"
+    },
+    {
+      "slug": "section-133-p53",
+      "type": "verse",
+      "number": "53",
+      "content": "In all their afflictions he was afflicted. And the angel of his presence saved them; and in his love, and in his pity, he redeemed them, and bore them, and carried them all the days of old;",
+      "churchId": "p53"
+    },
+    {
+      "slug": "section-133-p54",
+      "type": "verse",
+      "number": "54",
+      "content": "Yea, and Enoch also, and they who were with him; the prophets who were before him; and Noah also, and they who were before him; and Moses also, and they who were before him;",
+      "churchId": "p54"
+    },
+    {
+      "slug": "section-133-p55",
+      "type": "verse",
+      "number": "55",
+      "content": "And from Moses to Elijah, and from Elijah to John, who were with Christ in his resurrection, and the holy apostles, with Abraham, Isaac, and Jacob, shall be in the presence of the Lamb.",
+      "churchId": "p55"
+    },
+    {
+      "slug": "section-133-p56",
+      "type": "verse",
+      "number": "56",
+      "content": "And the graves of the saints shall be opened; and they shall come forth and stand on the right hand of the Lamb, when he shall stand upon Mount Zion, and upon the holy city, the New Jerusalem; and they shall sing the song of the Lamb, day and night forever and ever.",
+      "churchId": "p56"
+    },
+    {
+      "slug": "section-133-p57",
+      "type": "verse",
+      "number": "57",
+      "content": "And for this cause, that men might be made partakers of the glories which were to be revealed, the Lord sent forth the fulness of his gospel, his everlasting covenant, reasoning in plainness and simplicity—",
+      "churchId": "p57"
+    },
+    {
+      "slug": "section-133-p58",
+      "type": "verse",
+      "number": "58",
+      "content": "To prepare the weak for those things which are coming on the earth, and for the Lord’s errand in the day when the weak shall confound the wise, and the little one become a strong nation, and two shall put their tens of thousands to flight.",
+      "churchId": "p58"
+    },
+    {
+      "slug": "section-133-p59",
+      "type": "verse",
+      "number": "59",
+      "content": "And by the weak things of the earth the Lord shall thresh the nations by the power of his Spirit.",
+      "churchId": "p59"
+    },
+    {
+      "slug": "section-133-p60",
+      "type": "verse",
+      "number": "60",
+      "content": "And for this cause these commandments were given; they were commanded to be kept from the world in the day that they were given, but now are to go forth unto all flesh—",
+      "churchId": "p60"
+    },
+    {
+      "slug": "section-133-p61",
+      "type": "verse",
+      "number": "61",
+      "content": "And this according to the mind and will of the Lord, who ruleth over all flesh.",
+      "churchId": "p61"
+    },
+    {
+      "slug": "section-133-p62",
+      "type": "verse",
+      "number": "62",
+      "content": "And unto him that repenteth and sanctifieth himself before the Lord shall be given eternal life.",
+      "churchId": "p62"
+    },
+    {
+      "slug": "section-133-p63",
+      "type": "verse",
+      "number": "63",
+      "content": "And upon them that hearken not to the voice of the Lord shall be fulfilled that which was written by the prophet Moses, that they should be cut off from among the people.",
+      "churchId": "p63"
+    },
+    {
+      "slug": "section-133-p64",
+      "type": "verse",
+      "number": "64",
+      "content": "And also that which was written by the prophet Malachi: For, behold, the day cometh that shall burn as an oven, and all the proud, yea, and all that do wickedly, shall be stubble; and the day that cometh shall burn them up, saith the Lord of hosts, that it shall leave them neither root nor branch.",
+      "churchId": "p64"
+    },
+    {
+      "slug": "section-133-p65",
+      "type": "verse",
+      "number": "65",
+      "content": "Wherefore, this shall be the answer of the Lord unto them:",
+      "churchId": "p65"
+    },
+    {
+      "slug": "section-133-p66",
+      "type": "verse",
+      "number": "66",
+      "content": "In that day when I came unto mine own, no man among you received me, and you were driven out.",
+      "churchId": "p66"
+    },
+    {
+      "slug": "section-133-p67",
+      "type": "verse",
+      "number": "67",
+      "content": "When I called again there was none of you to answer; yet my arm was not shortened at all that I could not redeem, neither my power to deliver.",
+      "churchId": "p67"
+    },
+    {
+      "slug": "section-133-p68",
+      "type": "verse",
+      "number": "68",
+      "content": "Behold, at my rebuke I dry up the sea. I make the rivers a wilderness; their fish stink, and die for thirst.",
+      "churchId": "p68"
+    },
+    {
+      "slug": "section-133-p69",
+      "type": "verse",
+      "number": "69",
+      "content": "I clothe the heavens with blackness, and make sackcloth their covering.",
+      "churchId": "p69"
+    },
+    {
+      "slug": "section-133-p70",
+      "type": "verse",
+      "number": "70",
+      "content": "And this shall ye have of my hand—ye shall lie down in sorrow.",
+      "churchId": "p70"
+    },
+    {
+      "slug": "section-133-p71",
+      "type": "verse",
+      "number": "71",
+      "content": "Behold, and lo, there are none to deliver you; for ye obeyed not my voice when I called to you out of the heavens; ye believed not my servants, and when they were sent unto you ye received them not.",
+      "churchId": "p71"
+    },
+    {
+      "slug": "section-133-p72",
+      "type": "verse",
+      "number": "72",
+      "content": "Wherefore, they sealed up the testimony and bound up the law, and ye were delivered over unto darkness.",
+      "churchId": "p72"
+    },
+    {
+      "slug": "section-133-p73",
+      "type": "verse",
+      "number": "73",
+      "content": "These shall go away into outer darkness, where there is weeping, and wailing, and gnashing of teeth.",
+      "churchId": "p73"
+    },
+    {
+      "slug": "section-133-p74",
+      "type": "verse",
+      "number": "74",
+      "content": "Behold the Lord your God hath spoken it. Amen.",
+      "churchId": "p74"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "name": "Song of Solomon 1",
+  "abbrev": "Song 1",
+  "number": "1",
+  "churchUri": "/scriptures/ot/song/1",
+  "paragraphs": [
+    {
+      "slug": "song-of-solomon-1-title1",
+      "type": "book-title",
+      "number": null,
+      "content": "<small>The </small>Song of Solomon",
+      "churchId": "title1"
+    },
+    {
+      "slug": "song-of-solomon-1-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 1",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "song-of-solomon-1-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "The song of songs, which <span class=\"clarity-word\">is</span> Solomon’s.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "song-of-solomon-1-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Let him kiss me with the kisses of his mouth: for thy love <span class=\"clarity-word\">is</span> better than wine.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "song-of-solomon-1-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Because of the savour of thy good ointments thy name <span class=\"clarity-word\">is as</span> ointment poured forth, therefore do the virgins love thee.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "song-of-solomon-1-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Draw me, we will run after thee: the king hath brought me into his chambers: we will be glad and rejoice in thee, we will remember thy love more than wine: the upright love thee.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "song-of-solomon-1-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "I <span class=\"clarity-word\">am</span> black, but comely, O ye daughters of Jerusalem, as the tents of Kedar, as the curtains of Solomon.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "song-of-solomon-1-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Look not upon me, because I <span class=\"clarity-word\">am</span> black, because the sun hath looked upon me: my mother’s children were angry with me; they made me the keeper of the vineyards; <span class=\"clarity-word\">but</span> mine own vineyard have I not kept.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "song-of-solomon-1-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Tell me, O thou whom my soul loveth, where thou feedest, where thou makest <span class=\"clarity-word\">thy flock</span> to rest at noon: for why should I be as one that turneth aside by the flocks of thy companions?",
+      "churchId": "p7"
+    },
+    {
+      "slug": "song-of-solomon-1-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "¶ If thou know not, O thou fairest among women, go thy way forth by the footsteps of the flock, and feed thy kids beside the shepherds’ tents.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "song-of-solomon-1-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "I have compared thee, O my love, to a company of horses in Pharaoh’s chariots.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "song-of-solomon-1-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Thy cheeks are comely with rows <span class=\"clarity-word\">of jewels,</span> thy neck with chains <span class=\"clarity-word\">of gold.</span>",
+      "churchId": "p10"
+    },
+    {
+      "slug": "song-of-solomon-1-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "We will make thee borders of gold with studs of silver.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "song-of-solomon-1-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "¶ While the king <span class=\"clarity-word\">sitteth</span> at his table, my spikenard sendeth forth the smell thereof.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "song-of-solomon-1-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "A bundle of myrrh <span class=\"clarity-word\">is</span> my wellbeloved unto me; he shall lie all night betwixt my breasts.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "song-of-solomon-1-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "My beloved <span class=\"clarity-word\">is</span> unto me <span class=\"clarity-word\">as</span> a cluster of camphire in the vineyards of En-gedi.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "song-of-solomon-1-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Behold, thou <span class=\"clarity-word\">art</span> fair, my love; behold, thou <span class=\"clarity-word\">art</span> fair; thou <span class=\"clarity-word\">hast</span> doves’ eyes.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "song-of-solomon-1-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Behold, thou <span class=\"clarity-word\">art</span> fair, my beloved, yea, pleasant: also our bed <span class=\"clarity-word\">is</span> green.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "song-of-solomon-1-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "The beams of our house <span class=\"clarity-word\">are</span> cedar, <span class=\"clarity-word\">and</span> our rafters of fir.",
+      "churchId": "p17"
+    }
+  ]
+}

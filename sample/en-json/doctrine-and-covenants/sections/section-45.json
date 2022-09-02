@@ -1,0 +1,540 @@
+{
+  "name": "Doctrine and Covenants 45",
+  "abbrev": "D&C 45",
+  "number": "45",
+  "churchUri": "/scriptures/dc-testament/dc/45",
+  "paragraphs": [
+    {
+      "slug": "section-45-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Section 45",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "section-45-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Hearken, O ye people of my church, to whom the kingdom has been given; hearken ye and give ear to him who laid the foundation of the earth, who made the heavens and all the hosts thereof, and by whom all things were made which live, and move, and have a being.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "section-45-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And again I say, hearken unto my voice, lest death shall overtake you; in an hour when ye think not the summer shall be past, and the harvest ended, and your souls not saved.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "section-45-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Listen to him who is the advocate with the Father, who is pleading your cause before him—",
+      "churchId": "p3"
+    },
+    {
+      "slug": "section-45-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Saying: Father, behold the sufferings and death of him who did no sin, in whom thou wast well pleased; behold the blood of thy Son which was shed, the blood of him whom thou gavest that thyself might be glorified;",
+      "churchId": "p4"
+    },
+    {
+      "slug": "section-45-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Wherefore, Father, spare these my brethren that believe on my name, that they may come unto me and have everlasting life.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "section-45-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Hearken, O ye people of my church, and ye elders listen together, and hear my voice while it is called today, and harden not your hearts;",
+      "churchId": "p6"
+    },
+    {
+      "slug": "section-45-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "For verily I say unto you that I am Alpha and Omega, the beginning and the end, the light and the life of the world—a light that shineth in darkness and the darkness comprehendeth it not.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "section-45-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "I came unto mine own, and mine own received me not; but unto as many as received me gave I power to do many miracles, and to become the sons of God; and even unto them that believed on my name gave I power to obtain eternal life.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "section-45-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And even so I have sent mine everlasting covenant into the world, to be a light to the world, and to be a standard for my people, and for the Gentiles to seek to it, and to be a messenger before my face to prepare the way before me.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "section-45-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Wherefore, come ye unto it, and with him that cometh I will reason as with men in days of old, and I will show unto you my strong reasoning.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "section-45-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Wherefore, hearken ye together and let me show unto you even my wisdom—the wisdom of him whom ye say is the God of Enoch, and his brethren,",
+      "churchId": "p11"
+    },
+    {
+      "slug": "section-45-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Who were separated from the earth, and were received unto myself—a city reserved until a day of righteousness shall come—a day which was sought for by all holy men, and they found it not because of wickedness and abominations;",
+      "churchId": "p12"
+    },
+    {
+      "slug": "section-45-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And confessed they were strangers and pilgrims on the earth;",
+      "churchId": "p13"
+    },
+    {
+      "slug": "section-45-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "But obtained a promise that they should find it and see it in their flesh.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "section-45-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Wherefore, hearken and I will reason with you, and I will speak unto you and prophesy, as unto men in days of old.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "section-45-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And I will show it plainly as I showed it unto my disciples as I stood before them in the flesh, and spake unto them, saying: As ye have asked of me concerning the signs of my coming, in the day when I shall come in my glory in the clouds of heaven, to fulfil the promises that I have made unto your fathers,",
+      "churchId": "p16"
+    },
+    {
+      "slug": "section-45-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "For as ye have looked upon the long absence of your spirits from your bodies to be a bondage, I will show unto you how the day of redemption shall come, and also the restoration of the scattered Israel.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "section-45-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And now ye behold this temple which is in Jerusalem, which ye call the house of God, and your enemies say that this house shall never fall.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "section-45-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "But, verily I say unto you, that desolation shall come upon this generation as a thief in the night, and this people shall be destroyed and scattered among all nations.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "section-45-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And this temple which ye now see shall be thrown down that there shall not be left one stone upon another.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "section-45-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And it shall come to pass, that this generation of Jews shall not pass away until every desolation which I have told you concerning them shall come to pass.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "section-45-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Ye say that ye know that the end of the world cometh; ye say also that ye know that the heavens and the earth shall pass away;",
+      "churchId": "p22"
+    },
+    {
+      "slug": "section-45-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And in this ye say truly, for so it is; but these things which I have told you shall not pass away until all shall be fulfilled.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "section-45-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And this I have told you concerning Jerusalem; and when that day shall come, shall a remnant be scattered among all nations;",
+      "churchId": "p24"
+    },
+    {
+      "slug": "section-45-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "But they shall be gathered again; but they shall remain until the times of the Gentiles be fulfilled.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "section-45-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And in that day shall be heard of wars and rumors of wars, and the whole earth shall be in commotion, and men’s hearts shall fail them, and they shall say that Christ delayeth his coming until the end of the earth.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "section-45-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And the love of men shall wax cold, and iniquity shall abound.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "section-45-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And when the times of the Gentiles is come in, a light shall break forth among them that sit in darkness, and it shall be the fulness of my gospel;",
+      "churchId": "p28"
+    },
+    {
+      "slug": "section-45-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "But they receive it not; for they perceive not the light, and they turn their hearts from me because of the precepts of men.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "section-45-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And in that generation shall the times of the Gentiles be fulfilled.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "section-45-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "And there shall be men standing in that generation, that shall not pass until they shall see an overflowing scourge; for a desolating sickness shall cover the land.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "section-45-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "But my disciples shall stand in holy places, and shall not be moved; but among the wicked, men shall lift up their voices and curse God and die.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "section-45-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "And there shall be earthquakes also in divers places, and many desolations; yet men will harden their hearts against me, and they will take up the sword, one against another, and they will kill one another.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "section-45-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "And now, when I the Lord had spoken these words unto my disciples, they were troubled.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "section-45-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "And I said unto them: Be not troubled, for, when all these things shall come to pass, ye may know that the promises which have been made unto you shall be fulfilled.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "section-45-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "And when the light shall begin to break forth, it shall be with them like unto a parable which I will show you—",
+      "churchId": "p36"
+    },
+    {
+      "slug": "section-45-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "Ye look and behold the fig trees, and ye see them with your eyes, and ye say when they begin to shoot forth, and their leaves are yet tender, that summer is now nigh at hand;",
+      "churchId": "p37"
+    },
+    {
+      "slug": "section-45-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "Even so it shall be in that day when they shall see all these things, then shall they know that the hour is nigh.",
+      "churchId": "p38"
+    },
+    {
+      "slug": "section-45-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "And it shall come to pass that he that feareth me shall be looking forth for the great day of the Lord to come, even for the signs of the coming of the Son of Man.",
+      "churchId": "p39"
+    },
+    {
+      "slug": "section-45-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "And they shall see signs and wonders, for they shall be shown forth in the heavens above, and in the earth beneath.",
+      "churchId": "p40"
+    },
+    {
+      "slug": "section-45-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "And they shall behold blood, and fire, and vapors of smoke.",
+      "churchId": "p41"
+    },
+    {
+      "slug": "section-45-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "And before the day of the Lord shall come, the sun shall be darkened, and the moon be turned into blood, and the stars fall from heaven.",
+      "churchId": "p42"
+    },
+    {
+      "slug": "section-45-p43",
+      "type": "verse",
+      "number": "43",
+      "content": "And the remnant shall be gathered unto this place;",
+      "churchId": "p43"
+    },
+    {
+      "slug": "section-45-p44",
+      "type": "verse",
+      "number": "44",
+      "content": "And then they shall look for me, and, behold, I will come; and they shall see me in the clouds of heaven, clothed with power and great glory; with all the holy angels; and he that watches not for me shall be cut off.",
+      "churchId": "p44"
+    },
+    {
+      "slug": "section-45-p45",
+      "type": "verse",
+      "number": "45",
+      "content": "But before the arm of the Lord shall fall, an angel shall sound his trump, and the saints that have slept shall come forth to meet me in the cloud.",
+      "churchId": "p45"
+    },
+    {
+      "slug": "section-45-p46",
+      "type": "verse",
+      "number": "46",
+      "content": "Wherefore, if ye have slept in peace blessed are you; for as you now behold me and know that I am, even so shall ye come unto me and your souls shall live, and your redemption shall be perfected; and the saints shall come forth from the four quarters of the earth.",
+      "churchId": "p46"
+    },
+    {
+      "slug": "section-45-p47",
+      "type": "verse",
+      "number": "47",
+      "content": "Then shall the arm of the Lord fall upon the nations.",
+      "churchId": "p47"
+    },
+    {
+      "slug": "section-45-p48",
+      "type": "verse",
+      "number": "48",
+      "content": "And then shall the Lord set his foot upon this mount, and it shall cleave in twain, and the earth shall tremble, and reel to and fro, and the heavens also shall shake.",
+      "churchId": "p48"
+    },
+    {
+      "slug": "section-45-p49",
+      "type": "verse",
+      "number": "49",
+      "content": "And the Lord shall utter his voice, and all the ends of the earth shall hear it; and the nations of the earth shall mourn, and they that have laughed shall see their folly.",
+      "churchId": "p49"
+    },
+    {
+      "slug": "section-45-p50",
+      "type": "verse",
+      "number": "50",
+      "content": "And calamity shall cover the mocker, and the scorner shall be consumed; and they that have watched for iniquity shall be hewn down and cast into the fire.",
+      "churchId": "p50"
+    },
+    {
+      "slug": "section-45-p51",
+      "type": "verse",
+      "number": "51",
+      "content": "And then shall the Jews look upon me and say: What are these wounds in thine hands and in thy feet?",
+      "churchId": "p51"
+    },
+    {
+      "slug": "section-45-p52",
+      "type": "verse",
+      "number": "52",
+      "content": "Then shall they know that I am the Lord; for I will say unto them: These wounds are the wounds with which I was wounded in the house of my friends. I am he who was lifted up. I am Jesus that was crucified. I am the Son of God.",
+      "churchId": "p52"
+    },
+    {
+      "slug": "section-45-p53",
+      "type": "verse",
+      "number": "53",
+      "content": "And then shall they weep because of their iniquities; then shall they lament because they persecuted their king.",
+      "churchId": "p53"
+    },
+    {
+      "slug": "section-45-p54",
+      "type": "verse",
+      "number": "54",
+      "content": "And then shall the heathen nations be redeemed, and they that knew no law shall have part in the first resurrection; and it shall be tolerable for them.",
+      "churchId": "p54"
+    },
+    {
+      "slug": "section-45-p55",
+      "type": "verse",
+      "number": "55",
+      "content": "And Satan shall be bound, that he shall have no place in the hearts of the children of men.",
+      "churchId": "p55"
+    },
+    {
+      "slug": "section-45-p56",
+      "type": "verse",
+      "number": "56",
+      "content": "And at that day, when I shall come in my glory, shall the parable be fulfilled which I spake concerning the ten virgins.",
+      "churchId": "p56"
+    },
+    {
+      "slug": "section-45-p57",
+      "type": "verse",
+      "number": "57",
+      "content": "For they that are wise and have received the truth, and have taken the Holy Spirit for their guide, and have not been deceived—verily I say unto you, they shall not be hewn down and cast into the fire, but shall abide the day.",
+      "churchId": "p57"
+    },
+    {
+      "slug": "section-45-p58",
+      "type": "verse",
+      "number": "58",
+      "content": "And the earth shall be given unto them for an inheritance; and they shall multiply and wax strong, and their children shall grow up without sin unto salvation.",
+      "churchId": "p58"
+    },
+    {
+      "slug": "section-45-p59",
+      "type": "verse",
+      "number": "59",
+      "content": "For the Lord shall be in their midst, and his glory shall be upon them, and he will be their king and their lawgiver.",
+      "churchId": "p59"
+    },
+    {
+      "slug": "section-45-p60",
+      "type": "verse",
+      "number": "60",
+      "content": "And now, behold, I say unto you, it shall not be given unto you to know any further concerning this chapter, until the New Testament be translated, and in it all these things shall be made known;",
+      "churchId": "p60"
+    },
+    {
+      "slug": "section-45-p61",
+      "type": "verse",
+      "number": "61",
+      "content": "Wherefore I give unto you that ye may now translate it, that ye may be prepared for the things to come.",
+      "churchId": "p61"
+    },
+    {
+      "slug": "section-45-p62",
+      "type": "verse",
+      "number": "62",
+      "content": "For verily I say unto you, that great things await you;",
+      "churchId": "p62"
+    },
+    {
+      "slug": "section-45-p63",
+      "type": "verse",
+      "number": "63",
+      "content": "Ye hear of wars in foreign lands; but, behold, I say unto you, they are nigh, even at your doors, and not many years hence ye shall hear of wars in your own lands.",
+      "churchId": "p63"
+    },
+    {
+      "slug": "section-45-p64",
+      "type": "verse",
+      "number": "64",
+      "content": "Wherefore I, the Lord, have said, gather ye out from the eastern lands, assemble ye yourselves together ye elders of my church; go ye forth into the western countries, call upon the inhabitants to repent, and inasmuch as they do repent, build up churches unto me.",
+      "churchId": "p64"
+    },
+    {
+      "slug": "section-45-p65",
+      "type": "verse",
+      "number": "65",
+      "content": "And with one heart and with one mind, gather up your riches that ye may purchase an inheritance which shall hereafter be appointed unto you.",
+      "churchId": "p65"
+    },
+    {
+      "slug": "section-45-p66",
+      "type": "verse",
+      "number": "66",
+      "content": "And it shall be called the New Jerusalem, a land of peace, a city of refuge, a place of safety for the saints of the Most High God;",
+      "churchId": "p66"
+    },
+    {
+      "slug": "section-45-p67",
+      "type": "verse",
+      "number": "67",
+      "content": "And the glory of the Lord shall be there, and the terror of the Lord also shall be there, insomuch that the wicked will not come unto it, and it shall be called Zion.",
+      "churchId": "p67"
+    },
+    {
+      "slug": "section-45-p68",
+      "type": "verse",
+      "number": "68",
+      "content": "And it shall come to pass among the wicked, that every man that will not take his sword against his neighbor must needs flee unto Zion for safety.",
+      "churchId": "p68"
+    },
+    {
+      "slug": "section-45-p69",
+      "type": "verse",
+      "number": "69",
+      "content": "And there shall be gathered unto it out of every nation under heaven; and it shall be the only people that shall not be at war one with another.",
+      "churchId": "p69"
+    },
+    {
+      "slug": "section-45-p70",
+      "type": "verse",
+      "number": "70",
+      "content": "And it shall be said among the wicked: Let us not go up to battle against Zion, for the inhabitants of Zion are terrible; wherefore we cannot stand.",
+      "churchId": "p70"
+    },
+    {
+      "slug": "section-45-p71",
+      "type": "verse",
+      "number": "71",
+      "content": "And it shall come to pass that the righteous shall be gathered out from among all nations, and shall come to Zion, singing with songs of everlasting joy.",
+      "churchId": "p71"
+    },
+    {
+      "slug": "section-45-p72",
+      "type": "verse",
+      "number": "72",
+      "content": "And now I say unto you, keep these things from going abroad unto the world until it is expedient in me, that ye may accomplish this work in the eyes of the people, and in the eyes of your enemies, that they may not know your works until ye have accomplished the thing which I have commanded you;",
+      "churchId": "p72"
+    },
+    {
+      "slug": "section-45-p73",
+      "type": "verse",
+      "number": "73",
+      "content": "That when they shall know it, that they may consider these things.",
+      "churchId": "p73"
+    },
+    {
+      "slug": "section-45-p74",
+      "type": "verse",
+      "number": "74",
+      "content": "For when the Lord shall appear he shall be terrible unto them, that fear may seize upon them, and they shall stand afar off and tremble.",
+      "churchId": "p74"
+    },
+    {
+      "slug": "section-45-p75",
+      "type": "verse",
+      "number": "75",
+      "content": "And all nations shall be afraid because of the terror of the Lord, and the power of his might. Even so. Amen.",
+      "churchId": "p75"
+    }
+  ]
+}

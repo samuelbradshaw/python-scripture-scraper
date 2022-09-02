@@ -1,0 +1,295 @@
+{
+  "name": "Acts 16",
+  "abbrev": "Acts 16",
+  "number": "16",
+  "churchUri": "/scriptures/nt/acts/16",
+  "paragraphs": [
+    {
+      "slug": "acts-16-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 16",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "acts-16-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Then came he to Derbe and Lystra: and, behold, a certain disciple was there, named Timotheus, the son of a certain woman, which was a Jewess, and believed; but his father <span class=\"clarity-word\">was</span> a Greek:",
+      "churchId": "p1"
+    },
+    {
+      "slug": "acts-16-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Which was well reported of by the brethren that were at Lystra and Iconium.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "acts-16-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Him would Paul have to go forth with him; and took and circumcised him because of the Jews which were in those quarters: for they knew all that his father was a Greek.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "acts-16-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And as they went through the cities, they delivered them the decrees for to keep, that were ordained of the apostles and elders which were at Jerusalem.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "acts-16-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And so were the churches established in the faith, and increased in number daily.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "acts-16-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Now when they had gone throughout Phrygia and the region of Galatia, and were forbidden of the Holy Ghost to preach the word in Asia,",
+      "churchId": "p6"
+    },
+    {
+      "slug": "acts-16-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "After they were come to Mysia, they assayed to go into Bithynia: but the Spirit suffered them not.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "acts-16-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And they passing by Mysia came down to Troas.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "acts-16-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And a vision appeared to Paul in the night; There stood a man of Macedonia, and prayed him, saying, Come over into Macedonia, and help us.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "acts-16-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And after he had seen the vision, immediately we endeavoured to go into Macedonia, assuredly gathering that the Lord had called us for to preach the gospel unto them.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "acts-16-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Therefore loosing from Troas, we came with a straight course to Samothracia, and the next <span class=\"clarity-word\">day</span> to Neapolis;",
+      "churchId": "p11"
+    },
+    {
+      "slug": "acts-16-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And from thence to Philippi, which is the chief city of that part of Macedonia, <span class=\"clarity-word\">and</span> a colony: and we were in that city abiding certain days.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "acts-16-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And on the sabbath we went out of the city by a river side, where prayer was wont to be made; and we sat down, and spake unto the women which resorted <span class=\"clarity-word\">thither.</span>",
+      "churchId": "p13"
+    },
+    {
+      "slug": "acts-16-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "¶ And a certain woman named Lydia, a seller of purple, of the city of Thyatira, which worshipped God, heard <span class=\"clarity-word\">us:</span> whose heart the Lord opened, that she attended unto the things which were spoken of Paul.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "acts-16-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And when she was baptized, and her household, she besought <span class=\"clarity-word\">us,</span> saying, If ye have judged me to be faithful to the Lord, come into my house, and abide <span class=\"clarity-word\">there.</span> And she constrained us.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "acts-16-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "¶ And it came to pass, as we went to prayer, a certain damsel possessed with a spirit of divination met us, which brought her masters much gain by soothsaying:",
+      "churchId": "p16"
+    },
+    {
+      "slug": "acts-16-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "The same followed Paul and us, and cried, saying, These men are the servants of the most high God, which shew unto us the way of salvation.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "acts-16-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And this did she many days. But Paul, being grieved, turned and said to the spirit, I command thee in the name of Jesus Christ to come out of her. And he came out the same hour.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "acts-16-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "¶ And when her masters saw that the hope of their gains was gone, they caught Paul and Silas, and drew <span class=\"clarity-word\">them</span> into the marketplace unto the rulers,",
+      "churchId": "p19"
+    },
+    {
+      "slug": "acts-16-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And brought them to the magistrates, saying, These men, being Jews, do exceedingly trouble our city,",
+      "churchId": "p20"
+    },
+    {
+      "slug": "acts-16-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And teach customs, which are not lawful for us to receive, neither to observe, being Romans.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "acts-16-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And the multitude rose up together against them: and the magistrates rent off their clothes, and commanded to beat <span class=\"clarity-word\">them.</span>",
+      "churchId": "p22"
+    },
+    {
+      "slug": "acts-16-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And when they had laid many stripes upon them, they cast <span class=\"clarity-word\">them</span> into prison, charging the jailor to keep them safely:",
+      "churchId": "p23"
+    },
+    {
+      "slug": "acts-16-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Who, having received such a charge, thrust them into the inner prison, and made their feet fast in the stocks.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "acts-16-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "¶ And at midnight Paul and Silas prayed, and sang praises unto God: and the prisoners heard them.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "acts-16-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And suddenly there was a great earthquake, so that the foundations of the prison were shaken: and immediately all the doors were opened, and every one’s bands were loosed.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "acts-16-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And the keeper of the prison awaking out of his sleep, and seeing the prison doors open, he drew out his sword, and would have killed himself, supposing that the prisoners had been fled.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "acts-16-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "But Paul cried with a loud voice, saying, Do thyself no harm: for we are all here.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "acts-16-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "Then he called for a light, and sprang in, and came trembling, and fell down before Paul and Silas,",
+      "churchId": "p29"
+    },
+    {
+      "slug": "acts-16-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And brought them out, and said, Sirs, what must I do to be saved?",
+      "churchId": "p30"
+    },
+    {
+      "slug": "acts-16-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "And they said, Believe on the Lord Jesus Christ, and thou shalt be saved, and thy house.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "acts-16-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "And they spake unto him the word of the Lord, and to all that were in his house.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "acts-16-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "And he took them the same hour of the night, and washed <span class=\"clarity-word\">their</span> stripes; and was baptized, he and all his, straightway.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "acts-16-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "And when he had brought them into his house, he set meat before them, and rejoiced, believing in God with all his house.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "acts-16-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "And when it was day, the magistrates sent the serjeants, saying, Let those men go.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "acts-16-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "And the keeper of the prison told this saying to Paul, The magistrates have sent to let you go: now therefore depart, and go in peace.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "acts-16-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "But Paul said unto them, They have beaten us openly uncondemned, being Romans, and have cast <span class=\"clarity-word\">us</span> into prison; and now do they thrust us out privily? nay verily; but let them come themselves and fetch us out.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "acts-16-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "And the serjeants told these words unto the magistrates: and they feared, when they heard that they were Romans.",
+      "churchId": "p38"
+    },
+    {
+      "slug": "acts-16-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "And they came and besought them, and brought <span class=\"clarity-word\">them</span> out, and desired <span class=\"clarity-word\">them</span> to depart out of the city.",
+      "churchId": "p39"
+    },
+    {
+      "slug": "acts-16-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "And they went out of the prison, and entered into <span class=\"clarity-word\">the house of</span> Lydia: and when they had seen the brethren, they comforted them, and departed.",
+      "churchId": "p40"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "name": "Job 2",
+  "abbrev": "Job 2",
+  "number": "2",
+  "churchUri": "/scriptures/ot/job/2",
+  "paragraphs": [
+    {
+      "slug": "job-2-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 2",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "job-2-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Again there was a day when the sons of God came to present themselves before the <span class=\"small-caps\">Lord</span>, and Satan came also among them to present himself before the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "job-2-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And the <span class=\"small-caps\">Lord</span> said unto Satan, From whence comest thou? And Satan answered the <span class=\"small-caps\">Lord</span>, and said, From going to and fro in the earth, and from walking up and down in it.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "job-2-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And the <span class=\"small-caps\">Lord</span> said unto Satan, Hast thou considered my servant Job, that <span class=\"clarity-word\">there is</span> none like him in the earth, a perfect and an upright man, one that feareth God, and escheweth evil? and still he holdeth fast his integrity, although thou movedst me against him, to destroy him without cause.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "job-2-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And Satan answered the <span class=\"small-caps\">Lord</span>, and said, Skin for skin, yea, all that a man hath will he give for his life.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "job-2-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "But put forth thine hand now, and touch his bone and his flesh, and he will curse thee to thy face.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "job-2-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And the <span class=\"small-caps\">Lord</span> said unto Satan, Behold, he <span class=\"clarity-word\">is</span> in thine hand; but save his life.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "job-2-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "¶ So went Satan forth from the presence of the <span class=\"small-caps\">Lord</span>, and smote Job with sore boils from the sole of his foot unto his crown.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "job-2-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And he took him a potsherd to scrape himself withal; and he sat down among the ashes.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "job-2-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "¶ Then said his wife unto him, Dost thou still retain thine integrity? curse God, and die.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "job-2-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "But he said unto her, Thou speakest as one of the foolish women speaketh. What? shall we receive good at the hand of God, and shall we not receive evil? In all this did not Job sin with his lips.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "job-2-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "¶ Now when Job’s three friends heard of all this evil that was come upon him, they came every one from his own place; Eliphaz the Temanite, and Bildad the Shuhite, and Zophar the Naamathite: for they had made an appointment together to come to mourn with him and to comfort him.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "job-2-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And when they lifted up their eyes afar off, and knew him not, they lifted up their voice, and wept; and they rent every one his mantle, and sprinkled dust upon their heads toward heaven.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "job-2-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "So they sat down with him upon the ground seven days and seven nights, and none spake a word unto him: for they saw that <span class=\"clarity-word\">his</span> grief was very great.",
+      "churchId": "p13"
+    }
+  ]
+}

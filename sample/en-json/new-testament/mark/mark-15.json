@@ -1,0 +1,344 @@
+{
+  "name": "Mark 15",
+  "abbrev": "Mark 15",
+  "number": "15",
+  "churchUri": "/scriptures/nt/mark/15",
+  "paragraphs": [
+    {
+      "slug": "mark-15-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 15",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "mark-15-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And straightway in the morning the chief priests held a consultation with the elders and scribes and the whole council, and bound Jesus, and carried <span class=\"clarity-word\">him</span> away, and delivered <span class=\"clarity-word\">him</span> to Pilate.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "mark-15-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And Pilate asked him, Art thou the King of the Jews? And he answering said unto him, Thou sayest <span class=\"clarity-word\">it</span><span class=\"clarity-word\">.</span>",
+      "churchId": "p2"
+    },
+    {
+      "slug": "mark-15-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And the chief priests accused him of many things: but he answered nothing.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "mark-15-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And Pilate asked him again, saying, Answerest thou nothing? behold how many things they witness against thee.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "mark-15-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "But Jesus yet answered nothing; so that Pilate marvelled.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "mark-15-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Now at <span class=\"clarity-word\">that</span> feast he released unto them one prisoner, whomsoever they desired.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "mark-15-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And there was <span class=\"clarity-word\">one</span> named Barabbas, <span class=\"clarity-word\">which lay</span> bound with them that had made insurrection with him, who had committed murder in the insurrection.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "mark-15-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And the multitude crying aloud began to desire <span class=\"clarity-word\">him to do</span> as he had ever done unto them.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "mark-15-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "But Pilate answered them, saying, Will ye that I release unto you the King of the Jews?",
+      "churchId": "p9"
+    },
+    {
+      "slug": "mark-15-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "For he knew that the chief priests had delivered him for envy.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "mark-15-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "But the chief priests moved the people, that he should rather release Barabbas unto them.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "mark-15-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And Pilate answered and said again unto them, What will ye then that I shall do <span class=\"clarity-word\">unto him</span> whom ye call the King of the Jews?",
+      "churchId": "p12"
+    },
+    {
+      "slug": "mark-15-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And they cried out again, Crucify him.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "mark-15-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Then Pilate said unto them, Why, what evil hath he done? And they cried out the more exceedingly, Crucify him.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "mark-15-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "¶ And <span class=\"clarity-word\">so</span> Pilate, willing to content the people, released Barabbas unto them, and delivered Jesus, when he had scourged <span class=\"clarity-word\">him,</span> to be crucified.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "mark-15-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And the soldiers led him away into the hall, called Prætorium; and they call together the whole band.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "mark-15-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And they clothed him with purple, and plaited a crown of thorns, and put it about his <span class=\"clarity-word\">head,</span>",
+      "churchId": "p17"
+    },
+    {
+      "slug": "mark-15-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And began to salute him, Hail, King of the Jews!",
+      "churchId": "p18"
+    },
+    {
+      "slug": "mark-15-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And they smote him on the head with a reed, and did spit upon him, and bowing <span class=\"clarity-word\">their</span> knees worshipped him.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "mark-15-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And when they had mocked him, they took off the purple from him, and put his own clothes on him, and led him out to crucify him.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "mark-15-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And they compel one Simon a Cyrenian, who passed by, coming out of the country, the father of Alexander and Rufus, to bear his cross.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "mark-15-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And they bring him unto the place Golgotha, which is, being interpreted, The place of a skull.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "mark-15-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And they gave him to drink wine mingled with myrrh: but he received <span class=\"clarity-word\">it</span> not.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "mark-15-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And when they had crucified him, they parted his garments, casting lots upon them, what every man should take.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "mark-15-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And it was the third hour, and they crucified him.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "mark-15-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And the superscription of his accusation was written over, <span class=\"uppercase\">The King of the Jews</span>.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "mark-15-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And with him they crucify two thieves; the one on his right hand, and the other on his left.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "mark-15-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And the scripture was fulfilled, which saith, And he was numbered with the transgressors.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "mark-15-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "And they that passed by railed on him, wagging their heads, and saying, Ah, thou that destroyest the temple, and buildest <span class=\"clarity-word\">it</span> in three days,",
+      "churchId": "p29"
+    },
+    {
+      "slug": "mark-15-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "Save thyself, and come down from the cross.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "mark-15-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "Likewise also the chief priests mocking said among themselves with the scribes, He saved others; himself he cannot save.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "mark-15-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "Let Christ the King of Israel descend now from the cross, that we may see and believe. And they that were crucified with him reviled him.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "mark-15-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "And when the sixth hour was come, there was darkness over the whole land until the ninth hour.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "mark-15-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "And at the ninth hour Jesus cried with a loud voice, saying, Eloi, Eloi, lama sabachthani? which is, being interpreted, My God, my God, why hast thou forsaken me?",
+      "churchId": "p34"
+    },
+    {
+      "slug": "mark-15-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "And some of them that stood by, when they heard <span class=\"clarity-word\">it,</span> said, Behold, he calleth Elias.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "mark-15-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "And one ran and filled a sponge full of vinegar, and put <span class=\"clarity-word\">it</span> on a reed, and gave him to drink, saying, Let alone; let us see whether Elias will come to take him down.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "mark-15-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "And Jesus cried with a loud voice, and gave up the ghost.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "mark-15-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "And the veil of the temple was rent in twain from the top to the bottom.",
+      "churchId": "p38"
+    },
+    {
+      "slug": "mark-15-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "¶ And when the centurion, which stood over against him, saw that he so cried out, and gave up the ghost, he said, Truly this man was the Son of God.",
+      "churchId": "p39"
+    },
+    {
+      "slug": "mark-15-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "There were also women looking on afar off: among whom was Mary Magdalene, and Mary the mother of James the less and of Joses, and Salome;",
+      "churchId": "p40"
+    },
+    {
+      "slug": "mark-15-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "(Who also, when he was in Galilee, followed him, and ministered unto him;) and many other women which came up with him unto Jerusalem.",
+      "churchId": "p41"
+    },
+    {
+      "slug": "mark-15-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "¶ And now when the even was come, because it was the preparation, that is, the day before the sabbath,",
+      "churchId": "p42"
+    },
+    {
+      "slug": "mark-15-p43",
+      "type": "verse",
+      "number": "43",
+      "content": "Joseph of Arimathæa, an honourable counsellor, which also waited for the kingdom of God, came, and went in boldly unto Pilate, and craved the body of Jesus.",
+      "churchId": "p43"
+    },
+    {
+      "slug": "mark-15-p44",
+      "type": "verse",
+      "number": "44",
+      "content": "And Pilate marvelled if he were already dead: and calling <span class=\"clarity-word\">unto him</span> the centurion, he asked him whether he had been any while dead.",
+      "churchId": "p44"
+    },
+    {
+      "slug": "mark-15-p45",
+      "type": "verse",
+      "number": "45",
+      "content": "And when he knew <span class=\"clarity-word\">it</span> of the centurion, he gave the body to Joseph.",
+      "churchId": "p45"
+    },
+    {
+      "slug": "mark-15-p46",
+      "type": "verse",
+      "number": "46",
+      "content": "And he bought fine linen, and took him down, and wrapped him in the linen, and laid him in a sepulchre which was hewn out of a rock, and rolled a stone unto the door of the sepulchre.",
+      "churchId": "p46"
+    },
+    {
+      "slug": "mark-15-p47",
+      "type": "verse",
+      "number": "47",
+      "content": "And Mary Magdalene and Mary <span class=\"clarity-word\">the mother</span> of Joses beheld where he was laid.",
+      "churchId": "p47"
+    }
+  ]
+}

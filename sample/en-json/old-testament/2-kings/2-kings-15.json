@@ -1,0 +1,281 @@
+{
+  "name": "2 Kings 15",
+  "abbrev": "2 Kgs. 15",
+  "number": "15",
+  "churchUri": "/scriptures/ot/2-kgs/15",
+  "paragraphs": [
+    {
+      "slug": "2-kings-15-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 15",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "2-kings-15-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "In the twenty and seventh year of Jeroboam king of Israel began Azariah son of Amaziah king of Judah to reign.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "2-kings-15-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Sixteen years old was he when he began to reign, and he reigned two and fifty years in Jerusalem. And his mother’s name <span class=\"clarity-word\">was</span> Jecholiah of Jerusalem.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "2-kings-15-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And he did <span class=\"clarity-word\">that which was</span> right in the sight of the <span class=\"small-caps\">Lord</span>, according to all that his father Amaziah had done;",
+      "churchId": "p3"
+    },
+    {
+      "slug": "2-kings-15-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Save that the high places were not removed: the people sacrificed and burnt incense still on the high places.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "2-kings-15-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "¶ And the <span class=\"small-caps\">Lord</span> smote the king, so that he was a leper unto the day of his death, and dwelt in a several house. And Jotham the king’s son <span class=\"clarity-word\">was</span> over the house, judging the people of the land.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "2-kings-15-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And the rest of the acts of Azariah, and all that he did, <span class=\"clarity-word\">are</span> they not written in the book of the chronicles of the kings of Judah?",
+      "churchId": "p6"
+    },
+    {
+      "slug": "2-kings-15-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "So Azariah slept with his fathers; and they buried him with his fathers in the city of David: and Jotham his son reigned in his stead.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "2-kings-15-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "¶ In the thirty and eighth year of Azariah king of Judah did Zachariah the son of Jeroboam reign over Israel in Samaria six months.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "2-kings-15-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And he did <span class=\"clarity-word\">that which was</span> evil in the sight of the <span class=\"small-caps\">Lord</span>, as his fathers had done: he departed not from the sins of Jeroboam the son of Nebat, who made Israel to sin.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "2-kings-15-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And Shallum the son of Jabesh conspired against him, and smote him before the people, and slew him, and reigned in his stead.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "2-kings-15-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And the rest of the acts of Zachariah, behold, they <span class=\"clarity-word\">are</span> written in the book of the chronicles of the kings of Israel.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "2-kings-15-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "This <span class=\"clarity-word\">was</span> the word of the <span class=\"small-caps\">Lord</span> which he spake unto Jehu, saying, Thy sons shall sit on the throne of Israel unto the fourth <span class=\"clarity-word\">generation.</span> And so it came to pass.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "2-kings-15-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "¶ Shallum the son of Jabesh began to reign in the nine and thirtieth year of Uzziah king of Judah; and he reigned a full month in Samaria.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "2-kings-15-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "For Menahem the son of Gadi went up from Tirzah, and came to Samaria, and smote Shallum the son of Jabesh in Samaria, and slew him, and reigned in his stead.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "2-kings-15-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And the rest of the acts of Shallum, and his conspiracy which he made, behold, they <span class=\"clarity-word\">are</span> written in the book of the chronicles of the kings of Israel.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "2-kings-15-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "¶ Then Menahem smote Tiphsah, and all that <span class=\"clarity-word\">were</span> therein, and the coasts thereof from Tirzah: because they opened not <span class=\"clarity-word\">to him,</span> therefore he smote <span class=\"clarity-word\">it; and</span> all the women therein that were with child he ripped up.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "2-kings-15-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "In the nine and thirtieth year of Azariah king of Judah began Menahem the son of Gadi to reign over Israel, <span class=\"clarity-word\">and reigned</span> ten years in Samaria.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "2-kings-15-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And he did <span class=\"clarity-word\">that which was</span> evil in the sight of the <span class=\"small-caps\">Lord</span>: he departed not all his days from the sins of Jeroboam the son of Nebat, who made Israel to sin.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "2-kings-15-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "<span class=\"clarity-word\">And</span> Pul the king of Assyria came against the land: and Menahem gave Pul a thousand talents of silver, that his hand might be with him to confirm the kingdom in his hand.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "2-kings-15-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And Menahem exacted the money of Israel, <span class=\"clarity-word\">even</span> of all the mighty men of wealth, of each man fifty shekels of silver, to give to the king of Assyria. So the king of Assyria turned back, and stayed not there in the land.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "2-kings-15-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "¶ And the rest of the acts of Menahem, and all that he did, <span class=\"clarity-word\">are</span> they not written in the book of the chronicles of the kings of Israel?",
+      "churchId": "p21"
+    },
+    {
+      "slug": "2-kings-15-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And Menahem slept with his fathers; and Pekahiah his son reigned in his stead.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "2-kings-15-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "¶ In the fiftieth year of Azariah king of Judah Pekahiah the son of Menahem began to reign over Israel in Samaria, <span class=\"clarity-word\">and reigned</span> two years.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "2-kings-15-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And he did <span class=\"clarity-word\">that which was</span> evil in the sight of the <span class=\"small-caps\">Lord</span>: he departed not from the sins of Jeroboam the son of Nebat, who made Israel to sin.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "2-kings-15-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "But Pekah the son of Remaliah, a captain of his, conspired against him, and smote him in Samaria, in the palace of the king’s house, with Argob and Arieh, and with him fifty men of the Gileadites: and he killed him, and reigned in his room.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "2-kings-15-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And the rest of the acts of Pekahiah, and all that he did, behold, they <span class=\"clarity-word\">are</span> written in the book of the chronicles of the kings of Israel.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "2-kings-15-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "¶ In the two and fiftieth year of Azariah king of Judah Pekah the son of Remaliah began to reign over Israel in Samaria, <span class=\"clarity-word\">and reigned</span> twenty years.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "2-kings-15-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And he did <span class=\"clarity-word\">that which was</span> evil in the sight of the <span class=\"small-caps\">Lord</span>: he departed not from the sins of Jeroboam the son of Nebat, who made Israel to sin.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "2-kings-15-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "In the days of Pekah king of Israel came Tiglath-pileser king of Assyria, and took Ijon, and Abel-beth-maachah, and Janoah, and Kedesh, and Hazor, and Gilead, and Galilee, all the land of Naphtali, and carried them captive to Assyria.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "2-kings-15-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And Hoshea the son of Elah made a conspiracy against Pekah the son of Remaliah, and smote him, and slew him, and reigned in his stead, in the twentieth year of Jotham the son of Uzziah.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "2-kings-15-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "And the rest of the acts of Pekah, and all that he did, behold, they <span class=\"clarity-word\">are</span> written in the book of the chronicles of the kings of Israel.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "2-kings-15-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "¶ In the second year of Pekah the son of Remaliah king of Israel began Jotham the son of Uzziah king of Judah to reign.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "2-kings-15-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "Five and twenty years old was he when he began to reign, and he reigned sixteen years in Jerusalem. And his mother’s name <span class=\"clarity-word\">was</span> Jerusha, the daughter of Zadok.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "2-kings-15-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "And he did <span class=\"clarity-word\">that which was</span> right in the sight of the <span class=\"small-caps\">Lord</span>: he did according to all that his father Uzziah had done.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "2-kings-15-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "¶ Howbeit the high places were not removed: the people sacrificed and burned incense still in the high places. He built the higher gate of the house of the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "2-kings-15-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "¶ Now the rest of the acts of Jotham, and all that he did, <span class=\"clarity-word\">are</span> they not written in the book of the chronicles of the kings of Judah?",
+      "churchId": "p36"
+    },
+    {
+      "slug": "2-kings-15-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "In those days the <span class=\"small-caps\">Lord</span> began to send against Judah Rezin the king of Syria, and Pekah the son of Remaliah.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "2-kings-15-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "And Jotham slept with his fathers, and was buried with his fathers in the city of David his father: and Ahaz his son reigned in his stead.",
+      "churchId": "p38"
+    }
+  ]
+}

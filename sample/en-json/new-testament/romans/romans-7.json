@@ -1,0 +1,190 @@
+{
+  "name": "Romans 7",
+  "abbrev": "Rom. 7",
+  "number": "7",
+  "churchUri": "/scriptures/nt/rom/7",
+  "paragraphs": [
+    {
+      "slug": "romans-7-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 7",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "romans-7-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Know ye not, brethren, (for I speak to them that know the law,) how that the law hath dominion over a man as long as he liveth?",
+      "churchId": "p1"
+    },
+    {
+      "slug": "romans-7-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "For the woman which hath an husband is bound by the law to <span class=\"clarity-word\">her</span> husband so long as he liveth; but if the husband be dead, she is loosed from the law of <span class=\"clarity-word\">her</span> husband.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "romans-7-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "So then if, while <span class=\"clarity-word\">her</span> husband liveth, she be married to another man, she shall be called an adulteress: but if her husband be dead, she is free from that law; so that she is no adulteress, though she be married to another man.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "romans-7-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Wherefore, my brethren, ye also are become dead to the law by the body of Christ; that ye should be married to another, <span class=\"clarity-word\">even</span> to him who is raised from the dead, that we should bring forth fruit unto God.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "romans-7-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "For when we were in the flesh, the motions of sins, which were by the law, did work in our members to bring forth fruit unto death.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "romans-7-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "But now we are delivered from the law, that being dead wherein we were held; that we should serve in newness of spirit, and not <span class=\"clarity-word\">in</span> the oldness of the letter.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "romans-7-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "What shall we say then? <span class=\"clarity-word\">Is</span> the law sin? God forbid. Nay, I had not known sin, but by the law: for I had not known lust, except the law had said, Thou shalt not covet.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "romans-7-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "But sin, taking occasion by the commandment, wrought in me all manner of concupiscence. For without the law sin <span class=\"clarity-word\">was</span> dead.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "romans-7-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "For I was alive without the law once: but when the commandment came, sin revived, and I died.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "romans-7-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And the commandment, which <span class=\"clarity-word\">was ordained</span> to life, I found <span class=\"clarity-word\">to be</span> unto death.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "romans-7-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "For sin, taking occasion by the commandment, deceived me, and by it slew <span class=\"clarity-word\">me.</span>",
+      "churchId": "p11"
+    },
+    {
+      "slug": "romans-7-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Wherefore the law <span class=\"clarity-word\">is</span> holy, and the commandment holy, and just, and good.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "romans-7-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Was then that which is good made death unto me? God forbid. But sin, that it might appear sin, working death in me by that which is good; that sin by the commandment might become exceeding sinful.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "romans-7-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "For we know that the law is spiritual: but I am carnal, sold under sin.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "romans-7-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "For that which I do I allow not: for what I would, that do I not; but what I hate, that do I.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "romans-7-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "If then I do that which I would not, I consent unto the law that <span class=\"clarity-word\">it is</span> good.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "romans-7-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Now then it is no more I that do it, but sin that dwelleth in me.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "romans-7-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "For I know that in me (that is, in my flesh,) dwelleth no good thing: for to will is present with me; but <span class=\"clarity-word\">how</span> to perform that which is good I find not.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "romans-7-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "For the good that I would I do not: but the evil which I would not, that I do.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "romans-7-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Now if I do that I would not, it is no more I that do it, but sin that dwelleth in me.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "romans-7-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "I find then a law, that, when I would do good, evil is present with me.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "romans-7-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "For I delight in the law of God after the inward man:",
+      "churchId": "p22"
+    },
+    {
+      "slug": "romans-7-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "But I see another law in my members, warring against the law of my mind, and bringing me into captivity to the law of sin which is in my members.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "romans-7-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "O wretched man that I am! who shall deliver me from the body of this death?",
+      "churchId": "p24"
+    },
+    {
+      "slug": "romans-7-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "I thank God through Jesus Christ our Lord. So then with the mind I myself serve the law of God; but with the flesh the law of sin.",
+      "churchId": "p25"
+    }
+  ]
+}

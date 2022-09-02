@@ -1,0 +1,302 @@
+{
+  "name": "Doctrine and Covenants 105",
+  "abbrev": "D&C 105",
+  "number": "105",
+  "churchUri": "/scriptures/dc-testament/dc/105",
+  "paragraphs": [
+    {
+      "slug": "section-105-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Section 105",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "section-105-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Verily I say unto you who have assembled yourselves together that you may learn my will concerning the redemption of mine afflicted people—",
+      "churchId": "p1"
+    },
+    {
+      "slug": "section-105-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Behold, I say unto you, were it not for the transgressions of my people, speaking concerning the church and not individuals, they might have been redeemed even now.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "section-105-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "But behold, they have not learned to be obedient to the things which I required at their hands, but are full of all manner of evil, and do not impart of their substance, as becometh saints, to the poor and afflicted among them;",
+      "churchId": "p3"
+    },
+    {
+      "slug": "section-105-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And are not united according to the union required by the law of the celestial kingdom;",
+      "churchId": "p4"
+    },
+    {
+      "slug": "section-105-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And Zion cannot be built up unless it is by the principles of the law of the celestial kingdom; otherwise I cannot receive her unto myself.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "section-105-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And my people must needs be chastened until they learn obedience, if it must needs be, by the things which they suffer.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "section-105-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "I speak not concerning those who are appointed to lead my people, who are the first elders of my church, for they are not all under this condemnation;",
+      "churchId": "p7"
+    },
+    {
+      "slug": "section-105-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "But I speak concerning my churches abroad—there are many who will say: Where is their God? Behold, he will deliver them in time of trouble, otherwise we will not go up unto Zion, and will keep our moneys.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "section-105-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Therefore, in consequence of the transgressions of my people, it is expedient in me that mine elders should wait for a little season for the redemption of Zion—",
+      "churchId": "p9"
+    },
+    {
+      "slug": "section-105-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "That they themselves may be prepared, and that my people may be taught more perfectly, and have experience, and know more perfectly concerning their duty, and the things which I require at their hands.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "section-105-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And this cannot be brought to pass until mine elders are endowed with power from on high.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "section-105-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "For behold, I have prepared a great endowment and blessing to be poured out upon them, inasmuch as they are faithful and continue in humility before me.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "section-105-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Therefore it is expedient in me that mine elders should wait for a little season, for the redemption of Zion.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "section-105-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "For behold, I do not require at their hands to fight the battles of Zion; for, as I said in a former commandment, even so will I fulfil—I will fight your battles.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "section-105-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Behold, the destroyer I have sent forth to destroy and lay waste mine enemies; and not many years hence they shall not be left to pollute mine heritage, and to blaspheme my name upon the lands which I have consecrated for the gathering together of my saints.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "section-105-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Behold, I have commanded my servant Joseph Smith, Jun., to say unto the strength of my house, even my warriors, my young men, and middle-aged, to gather together for the redemption of my people, and throw down the towers of mine enemies, and scatter their watchmen;",
+      "churchId": "p16"
+    },
+    {
+      "slug": "section-105-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "But the strength of mine house have not hearkened unto my words.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "section-105-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "But inasmuch as there are those who have hearkened unto my words, I have prepared a blessing and an endowment for them, if they continue faithful.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "section-105-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "I have heard their prayers, and will accept their offering; and it is expedient in me that they should be brought thus far for a trial of their faith.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "section-105-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And now, verily I say unto you, a commandment I give unto you, that as many as have come up hither, that can stay in the region round about, let them stay;",
+      "churchId": "p20"
+    },
+    {
+      "slug": "section-105-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And those that cannot stay, who have families in the east, let them tarry for a little season, inasmuch as my servant Joseph shall appoint unto them;",
+      "churchId": "p21"
+    },
+    {
+      "slug": "section-105-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "For I will counsel him concerning this matter, and all things whatsoever he shall appoint unto them shall be fulfilled.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "section-105-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And let all my people who dwell in the regions round about be very faithful, and prayerful, and humble before me, and reveal not the things which I have revealed unto them, until it is wisdom in me that they should be revealed.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "section-105-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Talk not of judgments, neither boast of faith nor of mighty works, but carefully gather together, as much in one region as can be, consistently with the feelings of the people;",
+      "churchId": "p24"
+    },
+    {
+      "slug": "section-105-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And behold, I will give unto you favor and grace in their eyes, that you may rest in peace and safety, while you are saying unto the people: Execute judgment and justice for us according to law, and redress us of our wrongs.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "section-105-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "Now, behold, I say unto you, my friends, in this way you may find favor in the eyes of the people, until the army of Israel becomes very great.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "section-105-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And I will soften the hearts of the people, as I did the heart of Pharaoh, from time to time, until my servant Joseph Smith, Jun., and mine elders, whom I have appointed, shall have time to gather up the strength of my house,",
+      "churchId": "p27"
+    },
+    {
+      "slug": "section-105-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And to have sent wise men, to fulfil that which I have commanded concerning the purchasing of all the lands in Jackson county that can be purchased, and in the adjoining counties round about.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "section-105-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "For it is my will that these lands should be purchased; and after they are purchased that my saints should possess them according to the laws of consecration which I have given.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "section-105-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And after these lands are purchased, I will hold the armies of Israel guiltless in taking possession of their own lands, which they have previously purchased with their moneys, and of throwing down the towers of mine enemies that may be upon them, and scattering their watchmen, and avenging me of mine enemies unto the third and fourth generation of them that hate me.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "section-105-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "But first let my army become very great, and let it be sanctified before me, that it may become fair as the sun, and clear as the moon, and that her banners may be terrible unto all nations;",
+      "churchId": "p31"
+    },
+    {
+      "slug": "section-105-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "That the kingdoms of this world may be constrained to acknowledge that the kingdom of Zion is in very deed the kingdom of our God and his Christ; therefore, let us become subject unto her laws.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "section-105-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "Verily I say unto you, it is expedient in me that the first elders of my church should receive their endowment from on high in my house, which I have commanded to be built unto my name in the land of Kirtland.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "section-105-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "And let those commandments which I have given concerning Zion and her law be executed and fulfilled, after her redemption.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "section-105-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "There has been a day of calling, but the time has come for a day of choosing; and let those be chosen that are worthy.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "section-105-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "And it shall be manifest unto my servant, by the voice of the Spirit, those that are chosen; and they shall be sanctified;",
+      "churchId": "p36"
+    },
+    {
+      "slug": "section-105-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "And inasmuch as they follow the counsel which they receive, they shall have power after many days to accomplish all things pertaining to Zion.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "section-105-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "And again I say unto you, sue for peace, not only to the people that have smitten you, but also to all people;",
+      "churchId": "p38"
+    },
+    {
+      "slug": "section-105-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "And lift up an ensign of peace, and make a proclamation of peace unto the ends of the earth;",
+      "churchId": "p39"
+    },
+    {
+      "slug": "section-105-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "And make proposals for peace unto those who have smitten you, according to the voice of the Spirit which is in you, and all things shall work together for your good.",
+      "churchId": "p40"
+    },
+    {
+      "slug": "section-105-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "Therefore, be faithful; and behold, and lo, I am with you even unto the end. Even so. Amen.",
+      "churchId": "p41"
+    }
+  ]
+}

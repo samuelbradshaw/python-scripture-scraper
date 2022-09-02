@@ -1,0 +1,78 @@
+{
+  "name": "Psalm 149",
+  "abbrev": "Psalm 149",
+  "number": "149",
+  "churchUri": "/scriptures/ot/ps/149",
+  "paragraphs": [
+    {
+      "slug": "psalm-149-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 149",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-149-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Praise ye the <span class=\"small-caps\">Lord</span>. Sing unto the <span class=\"small-caps\">Lord</span> a new song, <span class=\"clarity-word\">and</span> his praise in the congregation of saints.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-149-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Let Israel rejoice in him that made him: let the children of Zion be joyful in their King.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-149-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Let them praise his name in the dance: let them sing praises unto him with the timbrel and harp.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-149-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "For the <span class=\"small-caps\">Lord</span> taketh pleasure in his people: he will beautify the meek with salvation.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-149-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Let the saints be joyful in glory: let them sing aloud upon their beds.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-149-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "<span class=\"clarity-word\">Let</span> the high <span class=\"clarity-word\">praises</span> of God <span class=\"clarity-word\">be</span> in their mouth, and a twoedged sword in their hand;",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-149-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "To execute vengeance upon the heathen, <span class=\"clarity-word\">and</span> punishments upon the people;",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-149-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "To bind their kings with chains, and their nobles with fetters of iron;",
+      "churchId": "p8"
+    },
+    {
+      "slug": "psalm-149-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "To execute upon them the judgment written: this honour have all his saints. Praise ye the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p9"
+    }
+  ]
+}

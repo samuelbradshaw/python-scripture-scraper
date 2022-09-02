@@ -1,0 +1,232 @@
+{
+  "name": "Daniel 5",
+  "abbrev": "Dan. 5",
+  "number": "5",
+  "churchUri": "/scriptures/ot/dan/5",
+  "paragraphs": [
+    {
+      "slug": "daniel-5-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 5",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "daniel-5-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Belshazzar the king made a great feast to a thousand of his lords, and drank wine before the thousand.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "daniel-5-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Belshazzar, whiles he tasted the wine, commanded to bring the golden and silver vessels which his father Nebuchadnezzar had taken out of the temple which <span class=\"clarity-word\">was</span> in Jerusalem; that the king, and his princes, his wives, and his concubines, might drink therein.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "daniel-5-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Then they brought the golden vessels that were taken out of the temple of the house of God which <span class=\"clarity-word\">was</span> at Jerusalem; and the king, and his princes, his wives, and his concubines, drank in them.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "daniel-5-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "They drank wine, and praised the gods of gold, and of silver, of brass, of iron, of wood, and of stone.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "daniel-5-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "¶ In the same hour came forth fingers of a man’s hand, and wrote over against the candlestick upon the plaster of the wall of the king’s palace: and the king saw the part of the hand that wrote.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "daniel-5-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Then the king’s countenance was changed, and his thoughts troubled him, so that the joints of his loins were loosed, and his knees smote one against another.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "daniel-5-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "The king cried aloud to bring in the astrologers, the Chaldeans, and the soothsayers. <span class=\"clarity-word\">And</span> the king spake, and said to the wise <span class=\"clarity-word\">men</span> of Babylon, Whosoever shall read this writing, and shew me the interpretation thereof, shall be clothed with scarlet, and <span class=\"clarity-word\">have</span> a chain of gold about his neck, and shall be the third ruler in the kingdom.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "daniel-5-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Then came in all the king’s wise <span class=\"clarity-word\">men:</span> but they could not read the writing, nor make known to the king the interpretation thereof.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "daniel-5-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Then was king Belshazzar greatly troubled, and his countenance was changed in him, and his lords were astonied.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "daniel-5-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "¶ <span class=\"clarity-word\">Now</span> the queen, by reason of the words of the king and his lords, came into the banquet house: <span class=\"clarity-word\">and</span> the queen spake and said, O king, live for ever: let not thy thoughts trouble thee, nor let thy countenance be changed:",
+      "churchId": "p10"
+    },
+    {
+      "slug": "daniel-5-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "There is a man in thy kingdom, in whom <span class=\"clarity-word\">is</span> the spirit of the holy gods; and in the days of thy father light and understanding and wisdom, like the wisdom of the gods, was found in him; whom the king Nebuchadnezzar thy father, the king, <span class=\"clarity-word\">I say,</span> thy father, made master of the magicians, astrologers, Chaldeans, <span class=\"clarity-word\">and</span> soothsayers;",
+      "churchId": "p11"
+    },
+    {
+      "slug": "daniel-5-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Forasmuch as an excellent spirit, and knowledge, and understanding, interpreting of dreams, and shewing of hard sentences, and dissolving of doubts, were found in the same Daniel, whom the king named Belteshazzar: now let Daniel be called, and he will shew the interpretation.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "daniel-5-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Then was Daniel brought in before the king. <span class=\"clarity-word\">And</span> the king spake and said unto Daniel, <span class=\"clarity-word\">Art</span> thou that Daniel, which <span class=\"clarity-word\">art</span> of the children of the captivity of Judah, whom the king my father brought out of Jewry?",
+      "churchId": "p13"
+    },
+    {
+      "slug": "daniel-5-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "I have even heard of thee, that the spirit of the gods <span class=\"clarity-word\">is</span> in thee, and <span class=\"clarity-word\">that</span> light and understanding and excellent wisdom is found in thee.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "daniel-5-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And now the wise <span class=\"clarity-word\">men,</span> the astrologers, have been brought in before me, that they should read this writing, and make known unto me the interpretation thereof: but they could not shew the interpretation of the thing:",
+      "churchId": "p15"
+    },
+    {
+      "slug": "daniel-5-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And I have heard of thee, that thou canst make interpretations, and dissolve doubts: now if thou canst read the writing, and make known to me the interpretation thereof, thou shalt be clothed with scarlet, and <span class=\"clarity-word\">have</span> a chain of gold about thy neck, and shalt be the third ruler in the kingdom.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "daniel-5-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "¶ Then Daniel answered and said before the king, Let thy gifts be to thyself, and give thy rewards to another; yet I will read the writing unto the king, and make known to him the interpretation.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "daniel-5-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "O thou king, the most high God gave Nebuchadnezzar thy father a kingdom, and majesty, and glory, and honour:",
+      "churchId": "p18"
+    },
+    {
+      "slug": "daniel-5-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And for the majesty that he gave him, all people, nations, and languages, trembled and feared before him: whom he would he slew; and whom he would he kept alive; and whom he would he set up; and whom he would he put down.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "daniel-5-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "But when his heart was lifted up, and his mind hardened in pride, he was deposed from his kingly throne, and they took his glory from him:",
+      "churchId": "p20"
+    },
+    {
+      "slug": "daniel-5-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And he was driven from the sons of men; and his heart was made like the beasts, and his dwelling <span class=\"clarity-word\">was</span> with the wild asses: they fed him with grass like oxen, and his body was wet with the dew of heaven; till he knew that the most high God ruled in the kingdom of men, and <span class=\"clarity-word\">that</span> he appointeth over it whomsoever he will.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "daniel-5-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And thou his son, O Belshazzar, hast not humbled thine heart, though thou knewest all this;",
+      "churchId": "p22"
+    },
+    {
+      "slug": "daniel-5-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "But hast lifted up thyself against the Lord of heaven; and they have brought the vessels of his house before thee, and thou, and thy lords, thy wives, and thy concubines, have drunk wine in them; and thou hast praised the gods of silver, and gold, of brass, iron, wood, and stone, which see not, nor hear, nor know: and the God in whose hand thy breath <span class=\"clarity-word\">is,</span> and whose <span class=\"clarity-word\">are</span> all thy ways, hast thou not glorified:",
+      "churchId": "p23"
+    },
+    {
+      "slug": "daniel-5-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Then was the part of the hand sent from him; and this writing was written.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "daniel-5-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "¶ And this <span class=\"clarity-word\">is</span> the writing that was written, <span class=\"uppercase\">Mene, Mene, Tekel, Upharsin</span>.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "daniel-5-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "This <span class=\"clarity-word\">is</span> the interpretation of the thing: <span class=\"uppercase\">Mene</span>; God hath numbered thy kingdom, and finished it.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "daniel-5-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "<span class=\"uppercase\">Tekel</span>; Thou art weighed in the balances, and art found wanting.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "daniel-5-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "<span class=\"uppercase\">Peres</span>; Thy kingdom is divided, and given to the Medes and Persians.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "daniel-5-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "Then commanded Belshazzar, and they clothed Daniel with scarlet, and <span class=\"clarity-word\">put</span> a chain of gold about his neck, and made a proclamation concerning him, that he should be the third ruler in the kingdom.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "daniel-5-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "¶ In that night was Belshazzar the king of the Chaldeans slain.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "daniel-5-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "And Darius the Median took the kingdom, <span class=\"clarity-word\">being</span> about threescore and two years old.",
+      "churchId": "p31"
+    }
+  ]
+}

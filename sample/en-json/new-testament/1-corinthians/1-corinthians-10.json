@@ -1,0 +1,246 @@
+{
+  "name": "1 Corinthians 10",
+  "abbrev": "1 Cor. 10",
+  "number": "10",
+  "churchUri": "/scriptures/nt/1-cor/10",
+  "paragraphs": [
+    {
+      "slug": "1-corinthians-10-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 10",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "1-corinthians-10-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Moreover, brethren, I would not that ye should be ignorant, how that all our fathers were under the cloud, and all passed through the sea;",
+      "churchId": "p1"
+    },
+    {
+      "slug": "1-corinthians-10-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And were all baptized unto Moses in the cloud and in the sea;",
+      "churchId": "p2"
+    },
+    {
+      "slug": "1-corinthians-10-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And did all eat the same spiritual meat;",
+      "churchId": "p3"
+    },
+    {
+      "slug": "1-corinthians-10-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And did all drink the same spiritual drink: for they drank of that spiritual Rock that followed them: and that Rock was Christ.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "1-corinthians-10-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "But with many of them God was not well pleased: for they were overthrown in the wilderness.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "1-corinthians-10-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Now these things were our examples, to the intent we should not lust after evil things, as they also lusted.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "1-corinthians-10-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Neither be ye idolaters, as <span class=\"clarity-word\">were</span> some of them; as it is written, The people sat down to eat and drink, and rose up to play.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "1-corinthians-10-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Neither let us commit fornication, as some of them committed, and fell in one day three and twenty thousand.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "1-corinthians-10-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Neither let us tempt Christ, as some of them also tempted, and were destroyed of serpents.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "1-corinthians-10-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Neither murmur ye, as some of them also murmured, and were destroyed of the destroyer.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "1-corinthians-10-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Now all these things happened unto them for ensamples: and they are written for our admonition, upon whom the ends of the world are come.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "1-corinthians-10-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Wherefore let him that thinketh he standeth take heed lest he fall.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "1-corinthians-10-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "There hath no temptation taken you but such as is common to man: but God <span class=\"clarity-word\">is</span> faithful, who will not suffer you to be tempted above that ye are able; but will with the temptation also make a way to escape, that ye may be able to bear <span class=\"clarity-word\">it.</span>",
+      "churchId": "p13"
+    },
+    {
+      "slug": "1-corinthians-10-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Wherefore, my dearly beloved, flee from idolatry.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "1-corinthians-10-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "I speak as to wise men; judge ye what I say.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "1-corinthians-10-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "The cup of blessing which we bless, is it not the communion of the blood of Christ? The bread which we break, is it not the communion of the body of Christ?",
+      "churchId": "p16"
+    },
+    {
+      "slug": "1-corinthians-10-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "For we <span class=\"clarity-word\">being</span> many are one bread, <span class=\"clarity-word\">and</span> one body: for we are all partakers of that one bread.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "1-corinthians-10-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Behold Israel after the flesh: are not they which eat of the sacrifices partakers of the altar?",
+      "churchId": "p18"
+    },
+    {
+      "slug": "1-corinthians-10-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "What say I then? that the idol is any thing, or that which is offered in sacrifice to idols is any thing?",
+      "churchId": "p19"
+    },
+    {
+      "slug": "1-corinthians-10-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "But <span class=\"clarity-word\">I say,</span> that the things which the Gentiles sacrifice, they sacrifice to devils, and not to God: and I would not that ye should have fellowship with devils.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "1-corinthians-10-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Ye cannot drink the cup of the Lord, and the cup of devils: ye cannot be partakers of the Lord’s table, and of the table of devils.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "1-corinthians-10-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Do we provoke the Lord to jealousy? are we stronger than he?",
+      "churchId": "p22"
+    },
+    {
+      "slug": "1-corinthians-10-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "All things are lawful for me, but all things are not expedient: all things are lawful for me, but all things edify not.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "1-corinthians-10-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Let no man seek his own, but every man another’s <span class=\"clarity-word\">wealth.</span>",
+      "churchId": "p24"
+    },
+    {
+      "slug": "1-corinthians-10-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Whatsoever is sold in the shambles, <span class=\"clarity-word\">that</span> eat, asking no question for conscience sake:",
+      "churchId": "p25"
+    },
+    {
+      "slug": "1-corinthians-10-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "For the earth <span class=\"clarity-word\">is</span> the Lord’s, and the fulness thereof.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "1-corinthians-10-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "If any of them that believe not bid you <span class=\"clarity-word\">to a feast,</span> and ye be disposed to go; whatsoever is set before you, eat, asking no question for conscience sake.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "1-corinthians-10-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "But if any man say unto you, This is offered in sacrifice unto idols, eat not for his sake that shewed it, and for conscience sake: for the earth <span class=\"clarity-word\">is</span> the Lord’s, and the fulness thereof:",
+      "churchId": "p28"
+    },
+    {
+      "slug": "1-corinthians-10-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "Conscience, I say, not thine own, but of the other: for why is my liberty judged of another <span class=\"clarity-word\">man’s</span> conscience?",
+      "churchId": "p29"
+    },
+    {
+      "slug": "1-corinthians-10-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "For if I by grace be a partaker, why am I evil spoken of for that for which I give thanks?",
+      "churchId": "p30"
+    },
+    {
+      "slug": "1-corinthians-10-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "Whether therefore ye eat, or drink, or whatsoever ye do, do all to the glory of God.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "1-corinthians-10-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "Give none offence, neither to the Jews, nor to the Gentiles, nor to the church of God:",
+      "churchId": "p32"
+    },
+    {
+      "slug": "1-corinthians-10-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "Even as I please all <span class=\"clarity-word\">men</span> in all <span class=\"clarity-word\">things,</span> not seeking mine own profit, but the <span class=\"clarity-word\">profit</span> of many, that they may be saved.",
+      "churchId": "p33"
+    }
+  ]
+}

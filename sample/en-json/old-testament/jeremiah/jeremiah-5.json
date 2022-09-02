@@ -1,0 +1,232 @@
+{
+  "name": "Jeremiah 5",
+  "abbrev": "Jer. 5",
+  "number": "5",
+  "churchUri": "/scriptures/ot/jer/5",
+  "paragraphs": [
+    {
+      "slug": "jeremiah-5-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 5",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "jeremiah-5-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Run ye to and fro through the streets of Jerusalem, and see now, and know, and seek in the broad places thereof, if ye can find a man, if there be <span class=\"clarity-word\">any</span> that executeth judgment, that seeketh the truth; and I will pardon it.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "jeremiah-5-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And though they say, The <span class=\"small-caps\">Lord</span> liveth; surely they swear falsely.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "jeremiah-5-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "O <span class=\"small-caps\">Lord</span>, <span class=\"clarity-word\">are</span> not thine eyes upon the truth? thou hast stricken them, but they have not grieved; thou hast consumed them, <span class=\"clarity-word\">but</span> they have refused to receive correction: they have made their faces harder than a rock; they have refused to return.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "jeremiah-5-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Therefore I said, Surely these <span class=\"clarity-word\">are</span> poor; they are foolish: for they know not the way of the <span class=\"small-caps\">Lord</span>, <span class=\"clarity-word\">nor</span> the judgment of their God.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "jeremiah-5-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "I will get me unto the great men, and will speak unto them; for they have known the way of the <span class=\"small-caps\">Lord</span>, <span class=\"clarity-word\">and</span> the judgment of their God: but these have altogether broken the yoke, <span class=\"clarity-word\">and</span> burst the bonds.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "jeremiah-5-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Wherefore a lion out of the forest shall slay them, <span class=\"clarity-word\">and</span> a wolf of the evenings shall spoil them, a leopard shall watch over their cities: every one that goeth out thence shall be torn in pieces: because their transgressions are many, <span class=\"clarity-word\">and</span> their backslidings are increased.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "jeremiah-5-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "¶ How shall I pardon thee for this? thy children have forsaken me, and sworn by <span class=\"clarity-word\">them that are</span> no gods: when I had fed them to the full, they then committed adultery, and assembled themselves by troops in the harlots’ houses.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "jeremiah-5-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "They were <span class=\"clarity-word\">as</span> fed horses in the morning: every one neighed after his neighbour’s wife.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "jeremiah-5-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Shall I not visit for these <span class=\"clarity-word\">things?</span> saith the <span class=\"small-caps\">Lord</span>: and shall not my soul be avenged on such a nation as this?",
+      "churchId": "p9"
+    },
+    {
+      "slug": "jeremiah-5-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "¶ Go ye up upon her walls, and destroy; but make not a full end: take away her battlements; for they <span class=\"clarity-word\">are</span> not the <span class=\"small-caps\">Lord</span>’s.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "jeremiah-5-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "For the house of Israel and the house of Judah have dealt very treacherously against me, saith the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "jeremiah-5-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "They have belied the <span class=\"small-caps\">Lord</span>, and said, <span class=\"clarity-word\">It is</span> not he; neither shall evil come upon us; neither shall we see sword nor famine:",
+      "churchId": "p12"
+    },
+    {
+      "slug": "jeremiah-5-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And the prophets shall become wind, and the word <span class=\"clarity-word\">is</span> not in them: thus shall it be done unto them.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "jeremiah-5-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Wherefore thus saith the <span class=\"small-caps\">Lord</span> God of hosts, Because ye speak this word, behold, I will make my words in thy mouth fire, and this people wood, and it shall devour them.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "jeremiah-5-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Lo, I will bring a nation upon you from far, O house of Israel, saith the <span class=\"small-caps\">Lord</span>: it <span class=\"clarity-word\">is</span> a mighty nation, it <span class=\"clarity-word\">is</span> an ancient nation, a nation whose language thou knowest not, neither understandest what they say.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "jeremiah-5-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Their quiver <span class=\"clarity-word\">is</span> as an open sepulchre, they <span class=\"clarity-word\">are</span> all mighty men.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "jeremiah-5-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And they shall eat up thine harvest, and thy bread, <span class=\"clarity-word\">which</span> thy sons and thy daughters should eat: they shall eat up thy flocks and thine herds: they shall eat up thy vines and thy fig trees: they shall impoverish thy fenced cities, wherein thou trustedst, with the sword.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "jeremiah-5-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Nevertheless in those days, saith the <span class=\"small-caps\">Lord</span>, I will not make a full end with you.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "jeremiah-5-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "¶ And it shall come to pass, when ye shall say, Wherefore doeth the <span class=\"small-caps\">Lord</span> our God all these <span class=\"clarity-word\">things</span> unto us? then shalt thou answer them, Like as ye have forsaken me, and served strange gods in your land, so shall ye serve strangers in a land <span class=\"clarity-word\">that is</span> not yours.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "jeremiah-5-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Declare this in the house of Jacob, and publish it in Judah, saying,",
+      "churchId": "p20"
+    },
+    {
+      "slug": "jeremiah-5-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Hear now this, O foolish people, and without understanding; which have eyes, and see not; which have ears, and hear not:",
+      "churchId": "p21"
+    },
+    {
+      "slug": "jeremiah-5-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Fear ye not me? saith the <span class=\"small-caps\">Lord</span>: will ye not tremble at my presence, which have placed the sand <span class=\"clarity-word\">for</span> the bound of the sea by a perpetual decree, that it cannot pass it: and though the waves thereof toss themselves, yet can they not prevail; though they roar, yet can they not pass over it?",
+      "churchId": "p22"
+    },
+    {
+      "slug": "jeremiah-5-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "But this people hath a revolting and a rebellious heart; they are revolted and gone.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "jeremiah-5-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Neither say they in their heart, Let us now fear the <span class=\"small-caps\">Lord</span> our God, that giveth rain, both the former and the latter, in his season: he reserveth unto us the appointed weeks of the harvest.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "jeremiah-5-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "¶ Your iniquities have turned away these <span class=\"clarity-word\">things,</span> and your sins have withholden good <span class=\"clarity-word\">things</span> from you.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "jeremiah-5-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "For among my people are found wicked <span class=\"clarity-word\">men:</span> they lay wait, as he that setteth snares; they set a trap, they catch men.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "jeremiah-5-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "As a cage is full of birds, so <span class=\"clarity-word\">are</span> their houses full of deceit: therefore they are become great, and waxen rich.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "jeremiah-5-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "They are waxen fat, they shine: yea, they overpass the deeds of the wicked: they judge not the cause, the cause of the fatherless, yet they prosper; and the right of the needy do they not judge.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "jeremiah-5-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "Shall I not visit for these <span class=\"clarity-word\">things?</span> saith the <span class=\"small-caps\">Lord</span>: shall not my soul be avenged on such a nation as this?",
+      "churchId": "p29"
+    },
+    {
+      "slug": "jeremiah-5-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "¶ A wonderful and horrible thing is committed in the land;",
+      "churchId": "p30"
+    },
+    {
+      "slug": "jeremiah-5-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "The prophets prophesy falsely, and the priests bear rule by their means; and my people love <span class=\"clarity-word\">to have it</span> so: and what will ye do in the end thereof?",
+      "churchId": "p31"
+    }
+  ]
+}

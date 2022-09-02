@@ -1,0 +1,197 @@
+{
+  "name": "Genesis 50",
+  "abbrev": "Gen. 50",
+  "number": "50",
+  "churchUri": "/scriptures/ot/gen/50",
+  "paragraphs": [
+    {
+      "slug": "genesis-50-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 50",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "genesis-50-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And Joseph fell upon his father’s face, and wept upon him, and kissed him.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "genesis-50-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And Joseph commanded his servants the physicians to embalm his father: and the physicians embalmed Israel.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "genesis-50-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And forty days were fulfilled for him; for so are fulfilled the days of those which are embalmed: and the Egyptians mourned for him threescore and ten days.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "genesis-50-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And when the days of his mourning were past, Joseph spake unto the house of Pharaoh, saying, If now I have found grace in your eyes, speak, I pray you, in the ears of Pharaoh, saying,",
+      "churchId": "p4"
+    },
+    {
+      "slug": "genesis-50-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "My father made me swear, saying, Lo, I die: in my grave which I have digged for me in the land of Canaan, there shalt thou bury me. Now therefore let me go up, I pray thee, and bury my father, and I will come again.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "genesis-50-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And Pharaoh said, Go up, and bury thy father, according as he made thee swear.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "genesis-50-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "¶ And Joseph went up to bury his father: and with him went up all the servants of Pharaoh, the elders of his house, and all the elders of the land of Egypt,",
+      "churchId": "p7"
+    },
+    {
+      "slug": "genesis-50-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And all the house of Joseph, and his brethren, and his father’s house: only their little ones, and their flocks, and their herds, they left in the land of Goshen.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "genesis-50-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And there went up with him both chariots and horsemen: and it was a very great company.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "genesis-50-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And they came to the threshingfloor of Atad, which <span class=\"clarity-word\">is</span> beyond Jordan, and there they mourned with a great and very sore lamentation: and he made a mourning for his father seven days.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "genesis-50-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And when the inhabitants of the land, the Canaanites, saw the mourning in the floor of Atad, they said, This <span class=\"clarity-word\">is</span> a grievous mourning to the Egyptians: wherefore the name of it was called Abel-mizraim, which <span class=\"clarity-word\">is</span> beyond Jordan.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "genesis-50-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And his sons did unto him according as he commanded them:",
+      "churchId": "p12"
+    },
+    {
+      "slug": "genesis-50-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "For his sons carried him into the land of Canaan, and buried him in the cave of the field of Machpelah, which Abraham bought with the field for a possession of a buryingplace of Ephron the Hittite, before Mamre.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "genesis-50-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "¶ And Joseph returned into Egypt, he, and his brethren, and all that went up with him to bury his father, after he had buried his father.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "genesis-50-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "¶ And when Joseph’s brethren saw that their father was dead, they said, Joseph will peradventure hate us, and will certainly requite us all the evil which we did unto him.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "genesis-50-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And they sent a messenger unto Joseph, saying, Thy father did command before he died, saying,",
+      "churchId": "p16"
+    },
+    {
+      "slug": "genesis-50-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "So shall ye say unto Joseph, Forgive, I pray thee now, the trespass of thy brethren, and their sin; for they did unto thee evil: and now, we pray thee, forgive the trespass of the servants of the God of thy father. And Joseph wept when they spake unto him.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "genesis-50-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And his brethren also went and fell down before his face; and they said, Behold, we <span class=\"clarity-word\">be</span> thy servants.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "genesis-50-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And Joseph said unto them, Fear not: for <span class=\"clarity-word\">am</span> I in the place of God?",
+      "churchId": "p19"
+    },
+    {
+      "slug": "genesis-50-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "But as for you, ye thought evil against me; <span class=\"clarity-word\">but</span> God meant it unto good, to bring to pass, as <span class=\"clarity-word\">it is</span> this day, to save much people alive.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "genesis-50-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Now therefore fear ye not: I will nourish you, and your little ones. And he comforted them, and spake kindly unto them.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "genesis-50-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "¶ And Joseph dwelt in Egypt, he, and his father’s house: and Joseph lived an hundred and ten years.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "genesis-50-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And Joseph saw Ephraim’s children of the third <span class=\"clarity-word\">generation:</span> the children also of Machir the son of Manasseh were brought up upon Joseph’s knees.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "genesis-50-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And Joseph said unto his brethren, I die: and God will surely visit you, and bring you out of this land unto the land which he sware to Abraham, to Isaac, and to Jacob.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "genesis-50-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And Joseph took an oath of the children of Israel, saying, God will surely visit you, and ye shall carry up my bones from hence.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "genesis-50-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "So Joseph died, <span class=\"clarity-word\">being</span> an hundred and ten years old: and they embalmed him, and he was put in a coffin in Egypt.",
+      "churchId": "p26"
+    }
+  ]
+}

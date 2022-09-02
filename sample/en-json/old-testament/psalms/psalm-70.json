@@ -1,0 +1,57 @@
+{
+  "name": "Psalm 70",
+  "abbrev": "Psalm 70",
+  "number": "70",
+  "churchUri": "/scriptures/ot/ps/70",
+  "paragraphs": [
+    {
+      "slug": "psalm-70-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 70",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-70-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "To the chief Musician, <span class=\"clarity-word\">A Psalm</span> of David, to bring to remembrance.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-70-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "<span class=\"clarity-word\">Make haste,</span> O God, to deliver me; make haste to help me, O <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-70-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Let them be ashamed and confounded that seek after my soul: let them be turned backward, and put to confusion, that desire my hurt.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-70-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Let them be turned back for a reward of their shame that say, Aha, aha.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-70-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Let all those that seek thee rejoice and be glad in thee: and let such as love thy salvation say continually, Let God be magnified.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-70-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "But I <span class=\"clarity-word\">am</span> poor and needy: make haste unto me, O God: thou <span class=\"clarity-word\">art</span> my help and my deliverer; O <span class=\"small-caps\">Lord</span>, make no tarrying.",
+      "churchId": "p5"
+    }
+  ]
+}

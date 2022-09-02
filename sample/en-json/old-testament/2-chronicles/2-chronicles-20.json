@@ -1,0 +1,274 @@
+{
+  "name": "2 Chronicles 20",
+  "abbrev": "2 Chr. 20",
+  "number": "20",
+  "churchUri": "/scriptures/ot/2-chr/20",
+  "paragraphs": [
+    {
+      "slug": "2-chronicles-20-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 20",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "2-chronicles-20-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "It came to pass after this also, <span class=\"clarity-word\">that</span> the children of Moab, and the children of Ammon, and with them <span class=\"clarity-word\">other</span> beside the Ammonites, came against Jehoshaphat to battle.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "2-chronicles-20-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Then there came some that told Jehoshaphat, saying, There cometh a great multitude against thee from beyond the sea on this side Syria; and, behold, they <span class=\"clarity-word\">be</span> in Hazazon-tamar, which <span class=\"clarity-word\">is</span> En-gedi.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "2-chronicles-20-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And Jehoshaphat feared, and set himself to seek the <span class=\"small-caps\">Lord</span>, and proclaimed a fast throughout all Judah.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "2-chronicles-20-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And Judah gathered themselves together, to ask <span class=\"clarity-word\">help</span> of the <span class=\"small-caps\">Lord</span>: even out of all the cities of Judah they came to seek the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "2-chronicles-20-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "¶ And Jehoshaphat stood in the congregation of Judah and Jerusalem, in the house of the <span class=\"small-caps\">Lord</span>, before the new court,",
+      "churchId": "p5"
+    },
+    {
+      "slug": "2-chronicles-20-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And said, O <span class=\"small-caps\">Lord</span> God of our fathers, <span class=\"clarity-word\">art</span> not thou God in heaven? and rulest <span class=\"clarity-word\">not</span> thou over all the kingdoms of the heathen? and in thine hand <span class=\"clarity-word\">is there not</span> power and might, so that none is able to withstand thee?",
+      "churchId": "p6"
+    },
+    {
+      "slug": "2-chronicles-20-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "<span class=\"clarity-word\">Art</span> not thou our God, <span class=\"clarity-word\">who</span> didst drive out the inhabitants of this land before thy people Israel, and gavest it to the seed of Abraham thy friend for ever?",
+      "churchId": "p7"
+    },
+    {
+      "slug": "2-chronicles-20-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And they dwelt therein, and have built thee a sanctuary therein for thy name, saying,",
+      "churchId": "p8"
+    },
+    {
+      "slug": "2-chronicles-20-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "If, <span class=\"clarity-word\">when</span> evil cometh upon us, <span class=\"clarity-word\">as</span> the sword, judgment, or pestilence, or famine, we stand before this house, and in thy presence, (for thy name <span class=\"clarity-word\">is</span> in this house,) and cry unto thee in our affliction, then thou wilt hear and help.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "2-chronicles-20-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And now, behold, the children of Ammon and Moab and mount Seir, whom thou wouldest not let Israel invade, when they came out of the land of Egypt, but they turned from them, and destroyed them not;",
+      "churchId": "p10"
+    },
+    {
+      "slug": "2-chronicles-20-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Behold, <span class=\"clarity-word\">I say, how</span> they reward us, to come to cast us out of thy possession, which thou hast given us to inherit.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "2-chronicles-20-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "O our God, wilt thou not judge them? for we have no might against this great company that cometh against us; neither know we what to do: but our eyes <span class=\"clarity-word\">are</span> upon thee.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "2-chronicles-20-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And all Judah stood before the <span class=\"small-caps\">Lord</span>, with their little ones, their wives, and their children.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "2-chronicles-20-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "¶ Then upon Jahaziel the son of Zechariah, the son of Benaiah, the son of Jeiel, the son of Mattaniah, a Levite of the sons of Asaph, came the Spirit of the <span class=\"small-caps\">Lord</span> in the midst of the congregation;",
+      "churchId": "p14"
+    },
+    {
+      "slug": "2-chronicles-20-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And he said, Hearken ye, all Judah, and ye inhabitants of Jerusalem, and thou king Jehoshaphat, Thus saith the <span class=\"small-caps\">Lord</span> unto you, Be not afraid nor dismayed by reason of this great multitude; for the battle <span class=\"clarity-word\">is</span> not yours, but God’s.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "2-chronicles-20-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "To morrow go ye down against them: behold, they come up by the cliff of Ziz; and ye shall find them at the end of the brook, before the wilderness of Jeruel.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "2-chronicles-20-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Ye shall not <span class=\"clarity-word\">need</span> to fight in this <span class=\"clarity-word\">battle:</span> set yourselves, stand ye <span class=\"clarity-word\">still,</span> and see the salvation of the <span class=\"small-caps\">Lord</span> with you, O Judah and Jerusalem: fear not, nor be dismayed; to morrow go out against them: for the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">will be</span> with you.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "2-chronicles-20-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And Jehoshaphat bowed his head with <span class=\"clarity-word\">his</span> face to the ground: and all Judah and the inhabitants of Jerusalem fell before the <span class=\"small-caps\">Lord</span>, worshipping the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "2-chronicles-20-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And the Levites, of the children of the Kohathites, and of the children of the Korhites, stood up to praise the <span class=\"small-caps\">Lord</span> God of Israel with a loud voice on high.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "2-chronicles-20-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "¶ And they rose early in the morning, and went forth into the wilderness of Tekoa: and as they went forth, Jehoshaphat stood and said, Hear me, O Judah, and ye inhabitants of Jerusalem; Believe in the <span class=\"small-caps\">Lord</span> your God, so shall ye be established; believe his prophets, so shall ye prosper.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "2-chronicles-20-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And when he had consulted with the people, he appointed singers unto the <span class=\"small-caps\">Lord</span>, and that should praise the beauty of holiness, as they went out before the army, and to say, Praise the <span class=\"small-caps\">Lord</span>; for his mercy <span class=\"clarity-word\">endureth</span> for ever.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "2-chronicles-20-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "¶ And when they began to sing and to praise, the <span class=\"small-caps\">Lord</span> set ambushments against the children of Ammon, Moab, and mount Seir, which were come against Judah; and they were smitten.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "2-chronicles-20-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "For the children of Ammon and Moab stood up against the inhabitants of mount Seir, utterly to slay and destroy <span class=\"clarity-word\">them:</span> and when they had made an end of the inhabitants of Seir, every one helped to destroy another.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "2-chronicles-20-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And when Judah came toward the watch tower in the wilderness, they looked unto the multitude, and, behold, they <span class=\"clarity-word\">were</span> dead bodies fallen to the earth, and none escaped.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "2-chronicles-20-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And when Jehoshaphat and his people came to take away the spoil of them, they found among them in abundance both riches with the dead bodies, and precious jewels, which they stripped off for themselves, more than they could carry away: and they were three days in gathering of the spoil, it was so much.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "2-chronicles-20-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "¶ And on the fourth day they assembled themselves in the valley of Berachah; for there they blessed the <span class=\"small-caps\">Lord</span>: therefore the name of the same place was called, The valley of Berachah, unto this day.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "2-chronicles-20-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "Then they returned, every man of Judah and Jerusalem, and Jehoshaphat in the forefront of them, to go again to Jerusalem with joy; for the <span class=\"small-caps\">Lord</span> had made them to rejoice over their enemies.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "2-chronicles-20-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And they came to Jerusalem with psalteries and harps and trumpets unto the house of the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "2-chronicles-20-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "And the fear of God was on all the kingdoms of <span class=\"clarity-word\">those</span> countries, when they had heard that the <span class=\"small-caps\">Lord</span> fought against the enemies of Israel.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "2-chronicles-20-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "So the realm of Jehoshaphat was quiet: for his God gave him rest round about.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "2-chronicles-20-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "¶ And Jehoshaphat reigned over Judah: <span class=\"clarity-word\">he was</span> thirty and five years old when he began to reign, and he reigned twenty and five years in Jerusalem. And his mother’s name <span class=\"clarity-word\">was</span> Azubah the daughter of Shilhi.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "2-chronicles-20-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "And he walked in the way of Asa his father, and departed not from it, doing <span class=\"clarity-word\">that which was</span> right in the sight of the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "2-chronicles-20-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "Howbeit the high places were not taken away: for as yet the people had not prepared their hearts unto the God of their fathers.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "2-chronicles-20-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "Now the rest of the acts of Jehoshaphat, first and last, behold, they <span class=\"clarity-word\">are</span> written in the book of Jehu the son of Hanani, who <span class=\"clarity-word\">is</span> mentioned in the book of the kings of Israel.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "2-chronicles-20-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "¶ And after this did Jehoshaphat king of Judah join himself with Ahaziah king of Israel, who did very wickedly:",
+      "churchId": "p35"
+    },
+    {
+      "slug": "2-chronicles-20-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "And he joined himself with him to make ships to go to Tarshish: and they made the ships in Ezion-geber.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "2-chronicles-20-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "Then Eliezer the son of Dodavah of Mareshah prophesied against Jehoshaphat, saying, Because thou hast joined thyself with Ahaziah, the <span class=\"small-caps\">Lord</span> hath broken thy works. And the ships were broken, that they were not able to go to Tarshish.",
+      "churchId": "p37"
+    }
+  ]
+}

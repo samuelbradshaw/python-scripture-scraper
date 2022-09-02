@@ -1,0 +1,106 @@
+{
+  "name": "Isaiah 55",
+  "abbrev": "Isa. 55",
+  "number": "55",
+  "churchUri": "/scriptures/ot/isa/55",
+  "paragraphs": [
+    {
+      "slug": "isaiah-55-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 55",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "isaiah-55-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Ho, every one that thirsteth, come ye to the waters, and he that hath no money; come ye, buy, and eat; yea, come, buy wine and milk without money and without price.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "isaiah-55-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Wherefore do ye spend money for <span class=\"clarity-word\">that which is</span> not bread? and your labour for <span class=\"clarity-word\">that which</span> satisfieth not? hearken diligently unto me, and eat ye <span class=\"clarity-word\">that which is</span> good, and let your soul delight itself in fatness.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "isaiah-55-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Incline your ear, and come unto me: hear, and your soul shall live; and I will make an everlasting covenant with you, <span class=\"clarity-word\">even</span> the sure mercies of David.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "isaiah-55-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Behold, I have given him <span class=\"clarity-word\">for</span> a witness to the people, a leader and commander to the people.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "isaiah-55-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Behold, thou shalt call a nation <span class=\"clarity-word\">that</span> thou knowest not, and nations <span class=\"clarity-word\">that</span> knew not thee shall run unto thee because of the <span class=\"small-caps\">Lord</span> thy God, and for the Holy One of Israel; for he hath glorified thee.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "isaiah-55-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "¶ Seek ye the <span class=\"small-caps\">Lord</span> while he may be found, call ye upon him while he is near:",
+      "churchId": "p6"
+    },
+    {
+      "slug": "isaiah-55-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Let the wicked forsake his way, and the unrighteous man his thoughts: and let him return unto the <span class=\"small-caps\">Lord</span>, and he will have mercy upon him; and to our God, for he will abundantly pardon.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "isaiah-55-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "¶ For my thoughts <span class=\"clarity-word\">are</span> not your thoughts, neither <span class=\"clarity-word\">are</span> your ways my ways, saith the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "isaiah-55-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "For <span class=\"clarity-word\">as</span> the heavens are higher than the earth, so are my ways higher than your ways, and my thoughts than your thoughts.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "isaiah-55-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "For as the rain cometh down, and the snow from heaven, and returneth not thither, but watereth the earth, and maketh it bring forth and bud, that it may give seed to the sower, and bread to the eater:",
+      "churchId": "p10"
+    },
+    {
+      "slug": "isaiah-55-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "So shall my word be that goeth forth out of my mouth: it shall not return unto me void, but it shall accomplish that which I please, and it shall prosper <span class=\"clarity-word\">in the thing</span> whereto I sent it.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "isaiah-55-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "For ye shall go out with joy, and be led forth with peace: the mountains and the hills shall break forth before you into singing, and all the trees of the field shall clap <span class=\"clarity-word\">their</span> hands.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "isaiah-55-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Instead of the thorn shall come up the fir tree, and instead of the brier shall come up the myrtle tree: and it shall be to the <span class=\"small-caps\">Lord</span> for a name, for an everlasting sign <span class=\"clarity-word\">that</span> shall not be cut off.",
+      "churchId": "p13"
+    }
+  ]
+}

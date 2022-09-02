@@ -1,0 +1,113 @@
+{
+  "name": "Esther 6",
+  "abbrev": "Esth. 6",
+  "number": "6",
+  "churchUri": "/scriptures/ot/esth/6",
+  "paragraphs": [
+    {
+      "slug": "esther-6-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 6",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "esther-6-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "On that night could not the king sleep, and he commanded to bring the book of records of the chronicles; and they were read before the king.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "esther-6-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And it was found written, that Mordecai had told of Bigthana and Teresh, two of the king’s chamberlains, the keepers of the door, who sought to lay hand on the king Ahasuerus.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "esther-6-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And the king said, What honour and dignity hath been done to Mordecai for this? Then said the king’s servants that ministered unto him, There is nothing done for him.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "esther-6-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "¶ And the king said, Who <span class=\"clarity-word\">is</span> in the court? Now Haman was come into the outward court of the king’s house, to speak unto the king to hang Mordecai on the gallows that he had prepared for him.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "esther-6-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And the king’s servants said unto him, Behold, Haman standeth in the court. And the king said, Let him come in.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "esther-6-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "So Haman came in. And the king said unto him, What shall be done unto the man whom the king delighteth to honour? Now Haman thought in his heart, To whom would the king delight to do honour more than to myself?",
+      "churchId": "p6"
+    },
+    {
+      "slug": "esther-6-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And Haman answered the king, For the man whom the king delighteth to honour,",
+      "churchId": "p7"
+    },
+    {
+      "slug": "esther-6-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Let the royal apparel be brought which the king <span class=\"clarity-word\">useth</span> to wear, and the horse that the king rideth upon, and the crown royal which is set upon his head:",
+      "churchId": "p8"
+    },
+    {
+      "slug": "esther-6-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And let this apparel and horse be delivered to the hand of one of the king’s most noble princes, that they may array the man <span class=\"clarity-word\">withal</span> whom the king delighteth to honour, and bring him on horseback through the street of the city, and proclaim before him, Thus shall it be done to the man whom the king delighteth to honour.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "esther-6-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Then the king said to Haman, Make haste, <span class=\"clarity-word\">and</span> take the apparel and the horse, as thou hast said, and do even so to Mordecai the Jew, that sitteth at the king’s gate: let nothing fail of all that thou hast spoken.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "esther-6-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Then took Haman the apparel and the horse, and arrayed Mordecai, and brought him on horseback through the street of the city, and proclaimed before him, Thus shall it be done unto the man whom the king delighteth to honour.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "esther-6-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "¶ And Mordecai came again to the king’s gate. But Haman hasted to his house mourning, and having his head covered.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "esther-6-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And Haman told Zeresh his wife and all his friends every <span class=\"clarity-word\">thing</span> that had befallen him. Then said his wise men and Zeresh his wife unto him, If Mordecai <span class=\"clarity-word\">be</span> of the seed of the Jews, before whom thou hast begun to fall, thou shalt not prevail against him, but shalt surely fall before him.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "esther-6-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And while they <span class=\"clarity-word\">were</span> yet talking with him, came the king’s chamberlains, and hasted to bring Haman unto the banquet that Esther had prepared.",
+      "churchId": "p14"
+    }
+  ]
+}

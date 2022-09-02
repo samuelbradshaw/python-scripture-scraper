@@ -1,0 +1,162 @@
+{
+  "name": "Psalm 72",
+  "abbrev": "Psalm 72",
+  "number": "72",
+  "churchUri": "/scriptures/ot/ps/72",
+  "paragraphs": [
+    {
+      "slug": "psalm-72-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 72",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-72-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "<span class=\"clarity-word\">A Psalm</span> for Solomon.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-72-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Give the king thy judgments, O God, and thy righteousness unto the king’s son.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-72-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "He shall judge thy people with righteousness, and thy poor with judgment.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-72-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "The mountains shall bring peace to the people, and the little hills, by righteousness.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-72-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "He shall judge the poor of the people, he shall save the children of the needy, and shall break in pieces the oppressor.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-72-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "They shall fear thee as long as the sun and moon endure, throughout all generations.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-72-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "He shall come down like rain upon the mown grass: as showers <span class=\"clarity-word\">that</span> water the earth.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-72-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "In his days shall the righteous flourish; and abundance of peace so long as the moon endureth.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-72-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "He shall have dominion also from sea to sea, and from the river unto the ends of the earth.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "psalm-72-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "They that dwell in the wilderness shall bow before him; and his enemies shall lick the dust.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "psalm-72-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "The kings of Tarshish and of the isles shall bring presents: the kings of Sheba and Seba shall offer gifts.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "psalm-72-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Yea, all kings shall fall down before him: all nations shall serve him.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "psalm-72-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "For he shall deliver the needy when he crieth; the poor also, and <span class=\"clarity-word\">him</span> that hath no helper.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "psalm-72-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "He shall spare the poor and needy, and shall save the souls of the needy.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "psalm-72-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "He shall redeem their soul from deceit and violence: and precious shall their blood be in his sight.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "psalm-72-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And he shall live, and to him shall be given of the gold of Sheba: prayer also shall be made for him continually; <span class=\"clarity-word\">and</span> daily shall he be praised.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "psalm-72-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "There shall be an handful of corn in the earth upon the top of the mountains; the fruit thereof shall shake like Lebanon: and <span class=\"clarity-word\">they</span> of the city shall flourish like grass of the earth.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "psalm-72-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "His name shall endure for ever: his name shall be continued as long as the sun: and <span class=\"clarity-word\">men</span> shall be blessed in him: all nations shall call him blessed.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "psalm-72-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Blessed <span class=\"clarity-word\">be</span> the <span class=\"small-caps\">Lord</span> God, the God of Israel, who only doeth wondrous things.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "psalm-72-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And blessed <span class=\"clarity-word\">be</span> his glorious name for ever: and let the whole earth be filled <span class=\"clarity-word\">with</span> his glory; Amen, and Amen.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "psalm-72-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "The prayers of David the son of Jesse are ended.",
+      "churchId": "p20"
+    }
+  ]
+}

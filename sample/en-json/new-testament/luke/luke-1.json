@@ -1,0 +1,582 @@
+{
+  "name": "Luke 1",
+  "abbrev": "Luke 1",
+  "number": "1",
+  "churchUri": "/scriptures/nt/luke/1",
+  "paragraphs": [
+    {
+      "slug": "luke-1-title1",
+      "type": "book-title",
+      "number": null,
+      "content": "<small>The Gospel According to </small>St Luke",
+      "churchId": "title1"
+    },
+    {
+      "slug": "luke-1-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 1",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "luke-1-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Forasmuch as many have taken in hand to set forth in order a declaration of those things which are most surely believed among us,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "luke-1-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Even as they delivered them unto us, which from the beginning were eyewitnesses, and ministers of the word;",
+      "churchId": "p2"
+    },
+    {
+      "slug": "luke-1-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "It seemed good to me also, having had perfect understanding of all things from the very first, to write unto thee in order, most excellent Theophilus,",
+      "churchId": "p3"
+    },
+    {
+      "slug": "luke-1-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "That thou mightest know the certainty of those things, wherein thou hast been instructed.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "luke-1-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "¶ There was in the days of Herod, the king of Judæa, a certain priest named Zacharias, of the course of Abia: and his wife <span class=\"clarity-word\">was</span> of the daughters of Aaron, and her name <span class=\"clarity-word\">was</span> Elisabeth.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "luke-1-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And they were both righteous before God, walking in all the commandments and ordinances of the Lord blameless.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "luke-1-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And they had no child, because that Elisabeth was barren, and they both were <span class=\"clarity-word\">now</span> well stricken in years.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "luke-1-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And it came to pass, that while he executed the priest’s office before God in the order of his course,",
+      "churchId": "p8"
+    },
+    {
+      "slug": "luke-1-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "According to the custom of the priest’s office, his lot was to burn incense when he went into the temple of the Lord.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "luke-1-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And the whole multitude of the people were praying without at the time of incense.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "luke-1-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And there appeared unto him an angel of the Lord standing on the right side of the altar of incense.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "luke-1-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And when Zacharias saw <span class=\"clarity-word\">him,</span> he was troubled, and fear fell upon him.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "luke-1-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "But the angel said unto him, Fear not, Zacharias: for thy prayer is heard; and thy wife Elisabeth shall bear thee a son, and thou shalt call his name John.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "luke-1-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And thou shalt have joy and gladness; and many shall rejoice at his birth.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "luke-1-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "For he shall be great in the sight of the Lord, and shall drink neither wine nor strong drink; and he shall be filled with the Holy Ghost, even from his mother’s womb.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "luke-1-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And many of the children of Israel shall he turn to the Lord their God.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "luke-1-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And he shall go before him in the spirit and power of Elias, to turn the hearts of the fathers to the children, and the disobedient to the wisdom of the just; to make ready a people prepared for the Lord.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "luke-1-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And Zacharias said unto the angel, Whereby shall I know this? for I am an old man, and my wife well stricken in years.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "luke-1-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And the angel answering said unto him, I am Gabriel, that stand in the presence of God; and am sent to speak unto thee, and to shew thee these glad tidings.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "luke-1-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And, behold, thou shalt be dumb, and not able to speak, until the day that these things shall be performed, because thou believest not my words, which shall be fulfilled in their season.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "luke-1-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And the people waited for Zacharias, and marvelled that he tarried so long in the temple.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "luke-1-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And when he came out, he could not speak unto them: and they perceived that he had seen a vision in the temple: for he beckoned unto them, and remained speechless.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "luke-1-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And it came to pass, that, as soon as the days of his ministration were accomplished, he departed to his own house.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "luke-1-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And after those days his wife Elisabeth conceived, and hid herself five months, saying,",
+      "churchId": "p24"
+    },
+    {
+      "slug": "luke-1-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Thus hath the Lord dealt with me in the days wherein he looked on <span class=\"clarity-word\">me,</span> to take away my reproach among men.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "luke-1-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And in the sixth month the angel Gabriel was sent from God unto a city of Galilee, named Nazareth,",
+      "churchId": "p26"
+    },
+    {
+      "slug": "luke-1-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "To a virgin espoused to a man whose name was Joseph, of the house of David; and the virgin’s name <span class=\"clarity-word\">was</span> Mary.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "luke-1-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And the angel came in unto her, and said, Hail, <span class=\"clarity-word\">thou that art</span> highly favoured, the Lord <span class=\"clarity-word\">is</span> with thee: blessed <span class=\"clarity-word\">art</span> thou among women.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "luke-1-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "And when she saw <span class=\"clarity-word\">him,</span> she was troubled at his saying, and cast in her mind what manner of salutation this should be.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "luke-1-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And the angel said unto her, Fear not, Mary: for thou hast found favour with God.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "luke-1-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "And, behold, thou shalt conceive in thy womb, and bring forth a son, and shalt call his name <span class=\"uppercase\">Jesus</span>.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "luke-1-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "He shall be great, and shall be called the Son of the Highest: and the Lord God shall give unto him the throne of his father David:",
+      "churchId": "p32"
+    },
+    {
+      "slug": "luke-1-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "And he shall reign over the house of Jacob for ever; and of his kingdom there shall be no end.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "luke-1-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "Then said Mary unto the angel, How shall this be, seeing I know not a man?",
+      "churchId": "p34"
+    },
+    {
+      "slug": "luke-1-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "And the angel answered and said unto her, The Holy Ghost shall come upon thee, and the power of the Highest shall overshadow thee: therefore also that holy thing which shall be born of thee shall be called the Son of God.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "luke-1-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "And, behold, thy cousin Elisabeth, she hath also conceived a son in her old age: and this is the sixth month with her, who was called barren.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "luke-1-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "For with God nothing shall be impossible.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "luke-1-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "And Mary said, Behold the handmaid of the Lord; be it unto me according to thy word. And the angel departed from her.",
+      "churchId": "p38"
+    },
+    {
+      "slug": "luke-1-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "And Mary arose in those days, and went into the hill country with haste, into a city of Juda;",
+      "churchId": "p39"
+    },
+    {
+      "slug": "luke-1-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "And entered into the house of Zacharias, and saluted Elisabeth.",
+      "churchId": "p40"
+    },
+    {
+      "slug": "luke-1-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "And it came to pass, that, when Elisabeth heard the salutation of Mary, the babe leaped in her womb; and Elisabeth was filled with the Holy Ghost:",
+      "churchId": "p41"
+    },
+    {
+      "slug": "luke-1-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "And she spake out with a loud voice, and said, Blessed <span class=\"clarity-word\">art</span> thou among women, and blessed <span class=\"clarity-word\">is</span> the fruit of thy womb.",
+      "churchId": "p42"
+    },
+    {
+      "slug": "luke-1-p43",
+      "type": "verse",
+      "number": "43",
+      "content": "And whence <span class=\"clarity-word\">is</span> this to me, that the mother of my Lord should come to me?",
+      "churchId": "p43"
+    },
+    {
+      "slug": "luke-1-p44",
+      "type": "verse",
+      "number": "44",
+      "content": "For, lo, as soon as the voice of thy salutation sounded in mine ears, the babe leaped in my womb for joy.",
+      "churchId": "p44"
+    },
+    {
+      "slug": "luke-1-p45",
+      "type": "verse",
+      "number": "45",
+      "content": "And blessed <span class=\"clarity-word\">is</span> she that believed: for there shall be a performance of those things which were told her from the Lord.",
+      "churchId": "p45"
+    },
+    {
+      "slug": "luke-1-p46",
+      "type": "verse",
+      "number": "46",
+      "content": "And Mary said, My soul doth magnify the Lord,",
+      "churchId": "p46"
+    },
+    {
+      "slug": "luke-1-p47",
+      "type": "verse",
+      "number": "47",
+      "content": "And my spirit hath rejoiced in God my Saviour.",
+      "churchId": "p47"
+    },
+    {
+      "slug": "luke-1-p48",
+      "type": "verse",
+      "number": "48",
+      "content": "For he hath regarded the low estate of his handmaiden: for, behold, from henceforth all generations shall call me blessed.",
+      "churchId": "p48"
+    },
+    {
+      "slug": "luke-1-p49",
+      "type": "verse",
+      "number": "49",
+      "content": "For he that is mighty hath done to me great things; and holy <span class=\"clarity-word\">is</span> his name.",
+      "churchId": "p49"
+    },
+    {
+      "slug": "luke-1-p50",
+      "type": "verse",
+      "number": "50",
+      "content": "And his mercy <span class=\"clarity-word\">is</span> on them that fear him from generation to generation.",
+      "churchId": "p50"
+    },
+    {
+      "slug": "luke-1-p51",
+      "type": "verse",
+      "number": "51",
+      "content": "He hath shewed strength with his arm; he hath scattered the proud in the imagination of their hearts.",
+      "churchId": "p51"
+    },
+    {
+      "slug": "luke-1-p52",
+      "type": "verse",
+      "number": "52",
+      "content": "He hath put down the mighty from <span class=\"clarity-word\">their</span> seats, and exalted them of low degree.",
+      "churchId": "p52"
+    },
+    {
+      "slug": "luke-1-p53",
+      "type": "verse",
+      "number": "53",
+      "content": "He hath filled the hungry with good things; and the rich he hath sent empty away.",
+      "churchId": "p53"
+    },
+    {
+      "slug": "luke-1-p54",
+      "type": "verse",
+      "number": "54",
+      "content": "He hath holpen his servant Israel, in remembrance of <span class=\"clarity-word\">his</span> mercy;",
+      "churchId": "p54"
+    },
+    {
+      "slug": "luke-1-p55",
+      "type": "verse",
+      "number": "55",
+      "content": "As he spake to our fathers, to Abraham, and to his seed for ever.",
+      "churchId": "p55"
+    },
+    {
+      "slug": "luke-1-p56",
+      "type": "verse",
+      "number": "56",
+      "content": "And Mary abode with her about three months, and returned to her own house.",
+      "churchId": "p56"
+    },
+    {
+      "slug": "luke-1-p57",
+      "type": "verse",
+      "number": "57",
+      "content": "Now Elisabeth’s full time came that she should be delivered; and she brought forth a son.",
+      "churchId": "p57"
+    },
+    {
+      "slug": "luke-1-p58",
+      "type": "verse",
+      "number": "58",
+      "content": "And her neighbours and her cousins heard how the Lord had shewed great mercy upon her; and they rejoiced with her.",
+      "churchId": "p58"
+    },
+    {
+      "slug": "luke-1-p59",
+      "type": "verse",
+      "number": "59",
+      "content": "And it came to pass, that on the eighth day they came to circumcise the child; and they called him Zacharias, after the name of his father.",
+      "churchId": "p59"
+    },
+    {
+      "slug": "luke-1-p60",
+      "type": "verse",
+      "number": "60",
+      "content": "And his mother answered and said, Not <span class=\"clarity-word\">so;</span> but he shall be called John.",
+      "churchId": "p60"
+    },
+    {
+      "slug": "luke-1-p61",
+      "type": "verse",
+      "number": "61",
+      "content": "And they said unto her, There is none of thy kindred that is called by this name.",
+      "churchId": "p61"
+    },
+    {
+      "slug": "luke-1-p62",
+      "type": "verse",
+      "number": "62",
+      "content": "And they made signs to his father, how he would have him called.",
+      "churchId": "p62"
+    },
+    {
+      "slug": "luke-1-p63",
+      "type": "verse",
+      "number": "63",
+      "content": "And he asked for a writing table, and wrote, saying, His name is John. And they marvelled all.",
+      "churchId": "p63"
+    },
+    {
+      "slug": "luke-1-p64",
+      "type": "verse",
+      "number": "64",
+      "content": "And his mouth was opened immediately, and his tongue <span class=\"clarity-word\">loosed,</span> and he spake, and praised God.",
+      "churchId": "p64"
+    },
+    {
+      "slug": "luke-1-p65",
+      "type": "verse",
+      "number": "65",
+      "content": "And fear came on all that dwelt round about them: and all these sayings were noised abroad throughout all the hill country of Judæa.",
+      "churchId": "p65"
+    },
+    {
+      "slug": "luke-1-p66",
+      "type": "verse",
+      "number": "66",
+      "content": "And all they that heard <span class=\"clarity-word\">them</span> laid <span class=\"clarity-word\">them</span> up in their hearts, saying, What manner of child shall this be! And the hand of the Lord was with him.",
+      "churchId": "p66"
+    },
+    {
+      "slug": "luke-1-p67",
+      "type": "verse",
+      "number": "67",
+      "content": "And his father Zacharias was filled with the Holy Ghost, and prophesied, saying,",
+      "churchId": "p67"
+    },
+    {
+      "slug": "luke-1-p68",
+      "type": "verse",
+      "number": "68",
+      "content": "Blessed <span class=\"clarity-word\">be</span> the Lord God of Israel; for he hath visited and redeemed his people,",
+      "churchId": "p68"
+    },
+    {
+      "slug": "luke-1-p69",
+      "type": "verse",
+      "number": "69",
+      "content": "And hath raised up an horn of salvation for us in the house of his servant David;",
+      "churchId": "p69"
+    },
+    {
+      "slug": "luke-1-p70",
+      "type": "verse",
+      "number": "70",
+      "content": "As he spake by the mouth of his holy prophets, which have been since the world began:",
+      "churchId": "p70"
+    },
+    {
+      "slug": "luke-1-p71",
+      "type": "verse",
+      "number": "71",
+      "content": "That we should be saved from our enemies, and from the hand of all that hate us;",
+      "churchId": "p71"
+    },
+    {
+      "slug": "luke-1-p72",
+      "type": "verse",
+      "number": "72",
+      "content": "To perform the mercy <span class=\"clarity-word\">promised</span> to our fathers, and to remember his holy covenant;",
+      "churchId": "p72"
+    },
+    {
+      "slug": "luke-1-p73",
+      "type": "verse",
+      "number": "73",
+      "content": "The oath which he sware to our father Abraham,",
+      "churchId": "p73"
+    },
+    {
+      "slug": "luke-1-p74",
+      "type": "verse",
+      "number": "74",
+      "content": "That he would grant unto us, that we being delivered out of the hand of our enemies might serve him without fear,",
+      "churchId": "p74"
+    },
+    {
+      "slug": "luke-1-p75",
+      "type": "verse",
+      "number": "75",
+      "content": "In holiness and righteousness before him, all the days of our life.",
+      "churchId": "p75"
+    },
+    {
+      "slug": "luke-1-p76",
+      "type": "verse",
+      "number": "76",
+      "content": "And thou, child, shalt be called the prophet of the Highest: for thou shalt go before the face of the Lord to prepare his ways;",
+      "churchId": "p76"
+    },
+    {
+      "slug": "luke-1-p77",
+      "type": "verse",
+      "number": "77",
+      "content": "To give knowledge of salvation unto his people by the remission of their sins,",
+      "churchId": "p77"
+    },
+    {
+      "slug": "luke-1-p78",
+      "type": "verse",
+      "number": "78",
+      "content": "Through the tender mercy of our God; whereby the dayspring from on high hath visited us,",
+      "churchId": "p78"
+    },
+    {
+      "slug": "luke-1-p79",
+      "type": "verse",
+      "number": "79",
+      "content": "To give light to them that sit in darkness and <span class=\"clarity-word\">in</span> the shadow of death, to guide our feet into the way of peace.",
+      "churchId": "p79"
+    },
+    {
+      "slug": "luke-1-p80",
+      "type": "verse",
+      "number": "80",
+      "content": "And the child grew, and waxed strong in spirit, and was in the deserts till the day of his shewing unto Israel.",
+      "churchId": "p80"
+    }
+  ]
+}

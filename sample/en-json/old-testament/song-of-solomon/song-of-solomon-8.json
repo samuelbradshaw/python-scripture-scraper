@@ -1,0 +1,113 @@
+{
+  "name": "Song of Solomon 8",
+  "abbrev": "Song 8",
+  "number": "8",
+  "churchUri": "/scriptures/ot/song/8",
+  "paragraphs": [
+    {
+      "slug": "song-of-solomon-8-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 8",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "song-of-solomon-8-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "O that thou <span class=\"clarity-word\">wert</span> as my brother, that sucked the breasts of my mother! <span class=\"clarity-word\">when</span> I should find thee without, I would kiss thee; yea, I should not be despised.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "song-of-solomon-8-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "I would lead thee, <span class=\"clarity-word\">and</span> bring thee into my mother’s house, <span class=\"clarity-word\">who</span> would instruct me: I would cause thee to drink of spiced wine of the juice of my pomegranate.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "song-of-solomon-8-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "His left hand <span class=\"clarity-word\">should be</span> under my head, and his right hand should embrace me.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "song-of-solomon-8-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "I charge you, O daughters of Jerusalem, that ye stir not up, nor awake <span class=\"clarity-word\">my</span> love, until he please.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "song-of-solomon-8-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Who <span class=\"clarity-word\">is</span> this that cometh up from the wilderness, leaning upon her beloved? I raised thee up under the apple tree: there thy mother brought thee forth: there she brought thee forth <span class=\"clarity-word\">that</span> bare thee.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "song-of-solomon-8-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "¶ Set me as a seal upon thine heart, as a seal upon thine arm: for love <span class=\"clarity-word\">is</span> strong as death; jealousy <span class=\"clarity-word\">is</span> cruel as the grave: the coals thereof <span class=\"clarity-word\">are</span> coals of fire, <span class=\"clarity-word\">which hath</span> a most vehement flame.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "song-of-solomon-8-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Many waters cannot quench love, neither can the floods drown it: if a man would give all the substance of his house for love, it would utterly be contemned.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "song-of-solomon-8-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "¶ We have a little sister, and she hath no breasts: what shall we do for our sister in the day when she shall be spoken for?",
+      "churchId": "p8"
+    },
+    {
+      "slug": "song-of-solomon-8-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "If she <span class=\"clarity-word\">be</span> a wall, we will build upon her a palace of silver: and if she <span class=\"clarity-word\">be</span> a door, we will inclose her with boards of cedar.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "song-of-solomon-8-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "I <span class=\"clarity-word\">am</span> a wall, and my breasts like towers: then was I in his eyes as one that found favour.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "song-of-solomon-8-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Solomon had a vineyard at Baal-hamon; he let out the vineyard unto keepers; every one for the fruit thereof was to bring a thousand <span class=\"clarity-word\">pieces</span> of silver.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "song-of-solomon-8-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "My vineyard, which <span class=\"clarity-word\">is</span> mine, <span class=\"clarity-word\">is</span> before me: thou, O Solomon, <span class=\"clarity-word\">must have</span> a thousand, and those that keep the fruit thereof two hundred.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "song-of-solomon-8-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Thou that dwellest in the gardens, the companions hearken to thy voice: cause me to hear <span class=\"clarity-word\">it.</span>",
+      "churchId": "p13"
+    },
+    {
+      "slug": "song-of-solomon-8-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "¶ Make haste, my beloved, and be thou like to a roe or to a young hart upon the mountains of spices.",
+      "churchId": "p14"
+    }
+  ]
+}

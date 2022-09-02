@@ -1,0 +1,57 @@
+{
+  "name": "Doctrine and Covenants 15",
+  "abbrev": "D&C 15",
+  "number": "15",
+  "churchUri": "/scriptures/dc-testament/dc/15",
+  "paragraphs": [
+    {
+      "slug": "section-15-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Section 15",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "section-15-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Hearken, my servant John, and listen to the words of Jesus Christ, your Lord and your Redeemer.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "section-15-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "For behold, I speak unto you with sharpness and with power, for mine arm is over all the earth.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "section-15-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And I will tell you that which no man knoweth save me and thee alone—",
+      "churchId": "p3"
+    },
+    {
+      "slug": "section-15-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "For many times you have desired of me to know that which would be of the most worth unto you.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "section-15-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Behold, blessed are you for this thing, and for speaking my words which I have given you according to my commandments.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "section-15-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And now, behold, I say unto you, that the thing which will be of the most worth unto you will be to declare repentance unto this people, that you may bring souls unto me, that you may rest with them in the kingdom of my Father. Amen.",
+      "churchId": "p6"
+    }
+  ]
+}

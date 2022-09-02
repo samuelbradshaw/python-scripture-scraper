@@ -1,0 +1,99 @@
+{
+  "name": "Nehemiah 1",
+  "abbrev": "Neh. 1",
+  "number": "1",
+  "churchUri": "/scriptures/ot/neh/1",
+  "paragraphs": [
+    {
+      "slug": "nehemiah-1-title1",
+      "type": "book-title",
+      "number": null,
+      "content": "<small>The Book of </small>Nehemiah",
+      "churchId": "title1"
+    },
+    {
+      "slug": "nehemiah-1-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 1",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "nehemiah-1-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "The words of Nehemiah the son of Hachaliah. And it came to pass in the month Chisleu, in the twentieth year, as I was in Shushan the palace,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "nehemiah-1-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "That Hanani, one of my brethren, came, he and <span class=\"clarity-word\">certain</span> men of Judah; and I asked them concerning the Jews that had escaped, which were left of the captivity, and concerning Jerusalem.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "nehemiah-1-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And they said unto me, The remnant that are left of the captivity there in the province <span class=\"clarity-word\">are</span> in great affliction and reproach: the wall of Jerusalem also <span class=\"clarity-word\">is</span> broken down, and the gates thereof are burned with fire.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "nehemiah-1-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "¶ And it came to pass, when I heard these words, that I sat down and wept, and mourned <span class=\"clarity-word\">certain</span> days, and fasted, and prayed before the God of heaven,",
+      "churchId": "p4"
+    },
+    {
+      "slug": "nehemiah-1-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And said, I beseech thee, O <span class=\"small-caps\">Lord</span> God of heaven, the great and terrible God, that keepeth covenant and mercy for them that love him and observe his commandments:",
+      "churchId": "p5"
+    },
+    {
+      "slug": "nehemiah-1-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Let thine ear now be attentive, and thine eyes open, that thou mayest hear the prayer of thy servant, which I pray before thee now, day and night, for the children of Israel thy servants, and confess the sins of the children of Israel, which we have sinned against thee: both I and my father’s house have sinned.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "nehemiah-1-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "We have dealt very corruptly against thee, and have not kept the commandments, nor the statutes, nor the judgments, which thou commandedst thy servant Moses.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "nehemiah-1-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Remember, I beseech thee, the word that thou commandedst thy servant Moses, saying, <span class=\"clarity-word\">If</span> ye transgress, I will scatter you abroad among the nations:",
+      "churchId": "p8"
+    },
+    {
+      "slug": "nehemiah-1-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "But <span class=\"clarity-word\">if</span> ye turn unto me, and keep my commandments, and do them; though there were of you cast out unto the uttermost part of the heaven, <span class=\"clarity-word\">yet</span> will I gather them from thence, and will bring them unto the place that I have chosen to set my name there.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "nehemiah-1-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Now these <span class=\"clarity-word\">are</span> thy servants and thy people, whom thou hast redeemed by thy great power, and by thy strong hand.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "nehemiah-1-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "O Lord, I beseech thee, let now thine ear be attentive to the prayer of thy servant, and to the prayer of thy servants, who desire to fear thy name: and prosper, I pray thee, thy servant this day, and grant him mercy in the sight of this man. For I was the king’s cupbearer.",
+      "churchId": "p11"
+    }
+  ]
+}

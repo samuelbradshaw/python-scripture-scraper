@@ -1,0 +1,295 @@
+{
+  "name": "Doctrine and Covenants 1",
+  "abbrev": "D&C 1",
+  "number": "1",
+  "churchUri": "/scriptures/dc-testament/dc/1",
+  "paragraphs": [
+    {
+      "slug": "section-1-title1",
+      "type": "book-title",
+      "number": null,
+      "content": "<small>The </small>Doctrine and Covenants",
+      "churchId": "title1"
+    },
+    {
+      "slug": "section-1-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Section 1",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "section-1-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Hearken, O ye people of my church, saith the voice of him who dwells on high, and whose eyes are upon all men; yea, verily I say: Hearken ye people from afar; and ye that are upon the islands of the sea, listen together.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "section-1-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "For verily the voice of the Lord is unto all men, and there is none to escape; and there is no eye that shall not see, neither ear that shall not hear, neither heart that shall not be penetrated.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "section-1-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And the rebellious shall be pierced with much sorrow; for their iniquities shall be spoken upon the housetops, and their secret acts shall be revealed.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "section-1-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And the voice of warning shall be unto all people, by the mouths of my disciples, whom I have chosen in these last days.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "section-1-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And they shall go forth and none shall stay them, for I the Lord have commanded them.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "section-1-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Behold, this is mine authority, and the authority of my servants, and my preface unto the book of my commandments, which I have given them to publish unto you, O inhabitants of the earth.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "section-1-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Wherefore, fear and tremble, O ye people, for what I the Lord have decreed in them shall be fulfilled.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "section-1-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And verily I say unto you, that they who go forth, bearing these tidings unto the inhabitants of the earth, to them is power given to seal both on earth and in heaven, the unbelieving and rebellious;",
+      "churchId": "p8"
+    },
+    {
+      "slug": "section-1-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Yea, verily, to seal them up unto the day when the wrath of God shall be poured out upon the wicked without measure—",
+      "churchId": "p9"
+    },
+    {
+      "slug": "section-1-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Unto the day when the Lord shall come to recompense unto every man according to his work, and measure to every man according to the measure which he has measured to his fellow man.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "section-1-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Wherefore the voice of the Lord is unto the ends of the earth, that all that will hear may hear:",
+      "churchId": "p11"
+    },
+    {
+      "slug": "section-1-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Prepare ye, prepare ye for that which is to come, for the Lord is nigh;",
+      "churchId": "p12"
+    },
+    {
+      "slug": "section-1-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And the anger of the Lord is kindled, and his sword is bathed in heaven, and it shall fall upon the inhabitants of the earth.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "section-1-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And the arm of the Lord shall be revealed; and the day cometh that they who will not hear the voice of the Lord, neither the voice of his servants, neither give heed to the words of the prophets and apostles, shall be cut off from among the people;",
+      "churchId": "p14"
+    },
+    {
+      "slug": "section-1-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "For they have strayed from mine ordinances, and have broken mine everlasting covenant;",
+      "churchId": "p15"
+    },
+    {
+      "slug": "section-1-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "They seek not the Lord to establish his righteousness, but every man walketh in his own way, and after the image of his own god, whose image is in the likeness of the world, and whose substance is that of an idol, which waxeth old and shall perish in Babylon, even Babylon the great, which shall fall.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "section-1-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Wherefore, I the Lord, knowing the calamity which should come upon the inhabitants of the earth, called upon my servant Joseph Smith, Jun., and spake unto him from heaven, and gave him commandments;",
+      "churchId": "p17"
+    },
+    {
+      "slug": "section-1-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And also gave commandments to others, that they should proclaim these things unto the world; and all this that it might be fulfilled, which was written by the prophets—",
+      "churchId": "p18"
+    },
+    {
+      "slug": "section-1-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "The weak things of the world shall come forth and break down the mighty and strong ones, that man should not counsel his fellow man, neither trust in the arm of flesh—",
+      "churchId": "p19"
+    },
+    {
+      "slug": "section-1-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "But that every man might speak in the name of God the Lord, even the Savior of the world;",
+      "churchId": "p20"
+    },
+    {
+      "slug": "section-1-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "That faith also might increase in the earth;",
+      "churchId": "p21"
+    },
+    {
+      "slug": "section-1-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "That mine everlasting covenant might be established;",
+      "churchId": "p22"
+    },
+    {
+      "slug": "section-1-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "That the fulness of my gospel might be proclaimed by the weak and the simple unto the ends of the world, and before kings and rulers.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "section-1-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Behold, I am God and have spoken it; these commandments are of me, and were given unto my servants in their weakness, after the manner of their language, that they might come to understanding.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "section-1-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And inasmuch as they erred it might be made known;",
+      "churchId": "p25"
+    },
+    {
+      "slug": "section-1-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And inasmuch as they sought wisdom they might be instructed;",
+      "churchId": "p26"
+    },
+    {
+      "slug": "section-1-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And inasmuch as they sinned they might be chastened, that they might repent;",
+      "churchId": "p27"
+    },
+    {
+      "slug": "section-1-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And inasmuch as they were humble they might be made strong, and blessed from on high, and receive knowledge from time to time.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "section-1-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "And after having received the record of the Nephites, yea, even my servant Joseph Smith, Jun., might have power to translate through the mercy of God, by the power of God, the Book of Mormon.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "section-1-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And also those to whom these commandments were given, might have power to lay the foundation of this church, and to bring it forth out of obscurity and out of darkness, the only true and living church upon the face of the whole earth, with which I, the Lord, am well pleased, speaking unto the church collectively and not individually—",
+      "churchId": "p30"
+    },
+    {
+      "slug": "section-1-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "For I the Lord cannot look upon sin with the least degree of allowance;",
+      "churchId": "p31"
+    },
+    {
+      "slug": "section-1-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "Nevertheless, he that repents and does the commandments of the Lord shall be forgiven;",
+      "churchId": "p32"
+    },
+    {
+      "slug": "section-1-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "And he that repents not, from him shall be taken even the light which he has received; for my Spirit shall not always strive with man, saith the Lord of Hosts.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "section-1-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "And again, verily I say unto you, O inhabitants of the earth: I the Lord am willing to make these things known unto all flesh;",
+      "churchId": "p34"
+    },
+    {
+      "slug": "section-1-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "For I am no respecter of persons, and will that all men shall know that the day speedily cometh; the hour is not yet, but is nigh at hand, when peace shall be taken from the earth, and the devil shall have power over his own dominion.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "section-1-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "And also the Lord shall have power over his saints, and shall reign in their midst, and shall come down in judgment upon Idumea, or the world.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "section-1-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "Search these commandments, for they are true and faithful, and the prophecies and promises which are in them shall all be fulfilled.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "section-1-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "What I the Lord have spoken, I have spoken, and I excuse not myself; and though the heavens and the earth pass away, my word shall not pass away, but shall all be fulfilled, whether by mine own voice or by the voice of my servants, it is the same.",
+      "churchId": "p38"
+    },
+    {
+      "slug": "section-1-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "For behold, and lo, the Lord is God, and the Spirit beareth record, and the record is true, and the truth abideth forever and ever. Amen.",
+      "churchId": "p39"
+    }
+  ]
+}

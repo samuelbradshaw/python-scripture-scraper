@@ -1,0 +1,176 @@
+{
+  "name": "Psalm 94",
+  "abbrev": "Psalm 94",
+  "number": "94",
+  "churchUri": "/scriptures/ot/ps/94",
+  "paragraphs": [
+    {
+      "slug": "psalm-94-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 94",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-94-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "O <span class=\"small-caps\">Lord</span> God, to whom vengeance belongeth; O God, to whom vengeance belongeth, shew thyself.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-94-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Lift up thyself, thou judge of the earth: render a reward to the proud.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-94-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "<span class=\"small-caps\">Lord</span>, how long shall the wicked, how long shall the wicked triumph?",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-94-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "<span class=\"clarity-word\">How long</span> shall they utter <span class=\"clarity-word\">and</span> speak hard things? <span class=\"clarity-word\">and</span> all the workers of iniquity boast themselves?",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-94-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "They break in pieces thy people, O <span class=\"small-caps\">Lord</span>, and afflict thine heritage.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-94-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "They slay the widow and the stranger, and murder the fatherless.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-94-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Yet they say, The <span class=\"small-caps\">Lord</span> shall not see, neither shall the God of Jacob regard <span class=\"clarity-word\">it.</span>",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-94-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Understand, ye brutish among the people: and <span class=\"clarity-word\">ye</span> fools, when will ye be wise?",
+      "churchId": "p8"
+    },
+    {
+      "slug": "psalm-94-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "He that planted the ear, shall he not hear? he that formed the eye, shall he not see?",
+      "churchId": "p9"
+    },
+    {
+      "slug": "psalm-94-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "He that chastiseth the heathen, shall not he correct? he that teacheth man knowledge, <span class=\"clarity-word\">shall not he know?</span>",
+      "churchId": "p10"
+    },
+    {
+      "slug": "psalm-94-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "The <span class=\"small-caps\">Lord</span> knoweth the thoughts of man, that they <span class=\"clarity-word\">are</span> vanity.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "psalm-94-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Blessed <span class=\"clarity-word\">is</span> the man whom thou chastenest, O <span class=\"small-caps\">Lord</span>, and teachest him out of thy law;",
+      "churchId": "p12"
+    },
+    {
+      "slug": "psalm-94-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "That thou mayest give him rest from the days of adversity, until the pit be digged for the wicked.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "psalm-94-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "For the <span class=\"small-caps\">Lord</span> will not cast off his people, neither will he forsake his inheritance.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "psalm-94-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "But judgment shall return unto righteousness: and all the upright in heart shall follow it.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "psalm-94-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Who will rise up for me against the evildoers? <span class=\"clarity-word\">or</span> who will stand up for me against the workers of iniquity?",
+      "churchId": "p16"
+    },
+    {
+      "slug": "psalm-94-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Unless the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">had been</span> my help, my soul had almost dwelt in silence.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "psalm-94-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "When I said, My foot slippeth; thy mercy, O <span class=\"small-caps\">Lord</span>, held me up.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "psalm-94-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "In the multitude of my thoughts within me thy comforts delight my soul.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "psalm-94-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Shall the throne of iniquity have fellowship with thee, which frameth mischief by a law?",
+      "churchId": "p20"
+    },
+    {
+      "slug": "psalm-94-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "They gather themselves together against the soul of the righteous, and condemn the innocent blood.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "psalm-94-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "But the <span class=\"small-caps\">Lord</span> is my defence; and my God <span class=\"clarity-word\">is</span> the rock of my refuge.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "psalm-94-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And he shall bring upon them their own iniquity, and shall cut them off in their own wickedness; <span class=\"clarity-word\">yea,</span> the <span class=\"small-caps\">Lord</span> our God shall cut them off.",
+      "churchId": "p23"
+    }
+  ]
+}

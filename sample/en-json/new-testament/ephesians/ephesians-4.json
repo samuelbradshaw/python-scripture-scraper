@@ -1,0 +1,239 @@
+{
+  "name": "Ephesians 4",
+  "abbrev": "Eph. 4",
+  "number": "4",
+  "churchUri": "/scriptures/nt/eph/4",
+  "paragraphs": [
+    {
+      "slug": "ephesians-4-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 4",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "ephesians-4-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "I therefore, the prisoner of the Lord, beseech you that ye walk worthy of the vocation wherewith ye are called,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "ephesians-4-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "With all lowliness and meekness, with longsuffering, forbearing one another in love;",
+      "churchId": "p2"
+    },
+    {
+      "slug": "ephesians-4-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Endeavouring to keep the unity of the Spirit in the bond of peace.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "ephesians-4-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "<span class=\"clarity-word\">There is</span> one body, and one Spirit, even as ye are called in one hope of your calling;",
+      "churchId": "p4"
+    },
+    {
+      "slug": "ephesians-4-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "One Lord, one faith, one baptism,",
+      "churchId": "p5"
+    },
+    {
+      "slug": "ephesians-4-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "One God and Father of all, who <span class=\"clarity-word\">is</span> above all, and through all, and in you all.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "ephesians-4-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "But unto every one of us is given grace according to the measure of the gift of Christ.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "ephesians-4-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Wherefore he saith, When he ascended up on high, he led captivity captive, and gave gifts unto men.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "ephesians-4-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "(Now that he ascended, what is it but that he also descended first into the lower parts of the earth?",
+      "churchId": "p9"
+    },
+    {
+      "slug": "ephesians-4-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "He that descended is the same also that ascended up far above all heavens, that he might fill all things.)",
+      "churchId": "p10"
+    },
+    {
+      "slug": "ephesians-4-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And he gave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers;",
+      "churchId": "p11"
+    },
+    {
+      "slug": "ephesians-4-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "For the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ:",
+      "churchId": "p12"
+    },
+    {
+      "slug": "ephesians-4-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fulness of Christ:",
+      "churchId": "p13"
+    },
+    {
+      "slug": "ephesians-4-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "That we <span class=\"clarity-word\">henceforth</span> be no more children, tossed to and fro, and carried about with every wind of doctrine, by the sleight of men, <span class=\"clarity-word\">and</span> cunning craftiness, whereby they lie in wait to deceive;",
+      "churchId": "p14"
+    },
+    {
+      "slug": "ephesians-4-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "But speaking the truth in love, may grow up into him in all things, which is the head, <span class=\"clarity-word\">even</span> Christ:",
+      "churchId": "p15"
+    },
+    {
+      "slug": "ephesians-4-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "From whom the whole body fitly joined together and compacted by that which every joint supplieth, according to the effectual working in the measure of every part, maketh increase of the body unto the edifying of itself in love.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "ephesians-4-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "This I say therefore, and testify in the Lord, that ye henceforth walk not as other Gentiles walk, in the vanity of their mind,",
+      "churchId": "p17"
+    },
+    {
+      "slug": "ephesians-4-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Having the understanding darkened, being alienated from the life of God through the ignorance that is in them, because of the blindness of their heart:",
+      "churchId": "p18"
+    },
+    {
+      "slug": "ephesians-4-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Who being past feeling have given themselves over unto lasciviousness, to work all uncleanness with greediness.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "ephesians-4-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "But ye have not so learned Christ;",
+      "churchId": "p20"
+    },
+    {
+      "slug": "ephesians-4-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "If so be that ye have heard him, and have been taught by him, as the truth is in Jesus:",
+      "churchId": "p21"
+    },
+    {
+      "slug": "ephesians-4-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "That ye put off concerning the former conversation the old man, which is corrupt according to the deceitful lusts;",
+      "churchId": "p22"
+    },
+    {
+      "slug": "ephesians-4-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And be renewed in the spirit of your mind;",
+      "churchId": "p23"
+    },
+    {
+      "slug": "ephesians-4-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And that ye put on the new man, which after God is created in righteousness and true holiness.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "ephesians-4-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Wherefore putting away lying, speak every man truth with his neighbour: for we are members one of another.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "ephesians-4-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "Be ye angry, and sin not: let not the sun go down upon your wrath:",
+      "churchId": "p26"
+    },
+    {
+      "slug": "ephesians-4-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "Neither give place to the devil.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "ephesians-4-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "Let him that stole steal no more: but rather let him labour, working with <span class=\"clarity-word\">his</span> hands the thing which is good, that he may have to give to him that needeth.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "ephesians-4-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "Let no corrupt communication proceed out of your mouth, but that which is good to the use of edifying, that it may minister grace unto the hearers.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "ephesians-4-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And grieve not the holy Spirit of God, whereby ye are sealed unto the day of redemption.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "ephesians-4-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "Let all bitterness, and wrath, and anger, and clamour, and evil speaking, be put away from you, with all malice:",
+      "churchId": "p31"
+    },
+    {
+      "slug": "ephesians-4-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "And be ye kind one to another, tenderhearted, forgiving one another, even as God for Christ’s sake hath forgiven you.",
+      "churchId": "p32"
+    }
+  ]
+}

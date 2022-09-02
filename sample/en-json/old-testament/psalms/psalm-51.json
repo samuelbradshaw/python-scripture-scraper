@@ -1,0 +1,155 @@
+{
+  "name": "Psalm 51",
+  "abbrev": "Psalm 51",
+  "number": "51",
+  "churchUri": "/scriptures/ot/ps/51",
+  "paragraphs": [
+    {
+      "slug": "psalm-51-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 51",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-51-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "To the chief Musician, A Psalm of David, when Nathan the prophet came unto him, after he had gone in to Bath-sheba.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-51-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Have mercy upon me, O God, according to thy lovingkindness: according unto the multitude of thy tender mercies blot out my transgressions.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-51-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Wash me throughly from mine iniquity, and cleanse me from my sin.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-51-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "For I acknowledge my transgressions: and my sin <span class=\"clarity-word\">is</span> ever before me.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-51-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Against thee, thee only, have I sinned, and done <span class=\"clarity-word\">this</span> evil in thy sight: that thou mightest be justified when thou speakest, <span class=\"clarity-word\">and</span> be clear when thou judgest.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-51-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Behold, I was shapen in iniquity; and in sin did my mother conceive me.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-51-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Behold, thou desirest truth in the inward parts: and in the hidden <span class=\"clarity-word\">part</span> thou shalt make me to know wisdom.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-51-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Purge me with hyssop, and I shall be clean: wash me, and I shall be whiter than snow.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-51-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Make me to hear joy and gladness; <span class=\"clarity-word\">that</span> the bones <span class=\"clarity-word\">which</span> thou hast broken may rejoice.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "psalm-51-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Hide thy face from my sins, and blot out all mine iniquities.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "psalm-51-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Create in me a clean heart, O God; and renew a right spirit within me.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "psalm-51-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Cast me not away from thy presence; and take not thy holy spirit from me.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "psalm-51-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Restore unto me the joy of thy salvation; and uphold me <span class=\"clarity-word\">with thy</span> free spirit.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "psalm-51-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "<span class=\"clarity-word\">Then</span> will I teach transgressors thy ways; and sinners shall be converted unto thee.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "psalm-51-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Deliver me from bloodguiltiness, O God, thou God of my salvation: <span class=\"clarity-word\">and</span> my tongue shall sing aloud of thy righteousness.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "psalm-51-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "O Lord, open thou my lips; and my mouth shall shew forth thy praise.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "psalm-51-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "For thou desirest not sacrifice; else would I give <span class=\"clarity-word\">it:</span> thou delightest not in burnt offering.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "psalm-51-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "The sacrifices of God <span class=\"clarity-word\">are</span> a broken spirit: a broken and a contrite heart, O God, thou wilt not despise.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "psalm-51-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Do good in thy good pleasure unto Zion: build thou the walls of Jerusalem.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "psalm-51-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Then shalt thou be pleased with the sacrifices of righteousness, with burnt offering and whole burnt offering: then shall they offer bullocks upon thine altar.",
+      "churchId": "p19"
+    }
+  ]
+}

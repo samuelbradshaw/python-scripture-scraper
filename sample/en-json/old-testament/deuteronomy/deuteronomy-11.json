@@ -1,0 +1,239 @@
+{
+  "name": "Deuteronomy 11",
+  "abbrev": "Deut. 11",
+  "number": "11",
+  "churchUri": "/scriptures/ot/deut/11",
+  "paragraphs": [
+    {
+      "slug": "deuteronomy-11-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 11",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "deuteronomy-11-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Therefore thou shalt love the <span class=\"small-caps\">Lord</span> thy God, and keep his charge, and his statutes, and his judgments, and his commandments, alway.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "deuteronomy-11-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And know ye this day: for <span class=\"clarity-word\">I speak</span> not with your children which have not known, and which have not seen the chastisement of the <span class=\"small-caps\">Lord</span> your God, his greatness, his mighty hand, and his stretched out arm,",
+      "churchId": "p2"
+    },
+    {
+      "slug": "deuteronomy-11-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And his miracles, and his acts, which he did in the midst of Egypt unto Pharaoh the king of Egypt, and unto all his land;",
+      "churchId": "p3"
+    },
+    {
+      "slug": "deuteronomy-11-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And what he did unto the army of Egypt, unto their horses, and to their chariots; how he made the water of the Red sea to overflow them as they pursued after you, and <span class=\"clarity-word\">how</span> the <span class=\"small-caps\">Lord</span> hath destroyed them unto this day;",
+      "churchId": "p4"
+    },
+    {
+      "slug": "deuteronomy-11-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And what he did unto you in the wilderness, until ye came into this place;",
+      "churchId": "p5"
+    },
+    {
+      "slug": "deuteronomy-11-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And what he did unto Dathan and Abiram, the sons of Eliab, the son of Reuben: how the earth opened her mouth, and swallowed them up, and their households, and their tents, and all the substance that <span class=\"clarity-word\">was</span> in their possession, in the midst of all Israel:",
+      "churchId": "p6"
+    },
+    {
+      "slug": "deuteronomy-11-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "But your eyes have seen all the great acts of the <span class=\"small-caps\">Lord</span> which he did.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "deuteronomy-11-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Therefore shall ye keep all the commandments which I command you this day, that ye may be strong, and go in and possess the land, whither ye go to possess it;",
+      "churchId": "p8"
+    },
+    {
+      "slug": "deuteronomy-11-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And that ye may prolong <span class=\"clarity-word\">your</span> days in the land, which the <span class=\"small-caps\">Lord</span> sware unto your fathers to give unto them and to their seed, a land that floweth with milk and honey.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "deuteronomy-11-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "¶ For the land, whither thou goest in to possess it, <span class=\"clarity-word\">is</span> not as the land of Egypt, from whence ye came out, where thou sowedst thy seed, and wateredst <span class=\"clarity-word\">it</span> with thy foot, as a garden of herbs:",
+      "churchId": "p10"
+    },
+    {
+      "slug": "deuteronomy-11-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "But the land, whither ye go to possess it, <span class=\"clarity-word\">is</span> a land of hills and valleys, <span class=\"clarity-word\">and</span> drinketh water of the rain of heaven:",
+      "churchId": "p11"
+    },
+    {
+      "slug": "deuteronomy-11-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "A land which the <span class=\"small-caps\">Lord</span> thy God careth for: the eyes of the <span class=\"small-caps\">Lord</span> thy God <span class=\"clarity-word\">are</span> always upon it, from the beginning of the year even unto the end of the year.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "deuteronomy-11-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "¶ And it shall come to pass, if ye shall hearken diligently unto my commandments which I command you this day, to love the <span class=\"small-caps\">Lord</span> your God, and to serve him with all your heart and with all your soul,",
+      "churchId": "p13"
+    },
+    {
+      "slug": "deuteronomy-11-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "That I will give <span class=\"clarity-word\">you</span> the rain of your land in his due season, the first rain and the latter rain, that thou mayest gather in thy corn, and thy wine, and thine oil.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "deuteronomy-11-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And I will send grass in thy fields for thy cattle, that thou mayest eat and be full.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "deuteronomy-11-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Take heed to yourselves, that your heart be not deceived, and ye turn aside, and serve other gods, and worship them;",
+      "churchId": "p16"
+    },
+    {
+      "slug": "deuteronomy-11-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And <span class=\"clarity-word\">then</span> the <span class=\"small-caps\">Lord</span>’s wrath be kindled against you, and he shut up the heaven, that there be no rain, and that the land yield not her fruit; and <span class=\"clarity-word\">lest</span> ye perish quickly from off the good land which the <span class=\"small-caps\">Lord</span> giveth you.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "deuteronomy-11-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "¶ Therefore shall ye lay up these my words in your heart and in your soul, and bind them for a sign upon your hand, that they may be as frontlets between your eyes.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "deuteronomy-11-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And ye shall teach them your children, speaking of them when thou sittest in thine house, and when thou walkest by the way, when thou liest down, and when thou risest up.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "deuteronomy-11-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And thou shalt write them upon the door posts of thine house, and upon thy gates:",
+      "churchId": "p20"
+    },
+    {
+      "slug": "deuteronomy-11-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "That your days may be multiplied, and the days of your children, in the land which the <span class=\"small-caps\">Lord</span> sware unto your fathers to give them, as the days of heaven upon the earth.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "deuteronomy-11-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "¶ For if ye shall diligently keep all these commandments which I command you, to do them, to love the <span class=\"small-caps\">Lord</span> your God, to walk in all his ways, and to cleave unto him;",
+      "churchId": "p22"
+    },
+    {
+      "slug": "deuteronomy-11-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Then will the <span class=\"small-caps\">Lord</span> drive out all these nations from before you, and ye shall possess greater nations and mightier than yourselves.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "deuteronomy-11-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Every place whereon the soles of your feet shall tread shall be yours: from the wilderness and Lebanon, from the river, the river Euphrates, even unto the uttermost sea shall your coast be.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "deuteronomy-11-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "There shall no man be able to stand before you: <span class=\"clarity-word\">for</span> the <span class=\"small-caps\">Lord</span> your God shall lay the fear of you and the dread of you upon all the land that ye shall tread upon, as he hath said unto you.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "deuteronomy-11-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "¶ Behold, I set before you this day a blessing and a curse;",
+      "churchId": "p26"
+    },
+    {
+      "slug": "deuteronomy-11-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "A blessing, if ye obey the commandments of the <span class=\"small-caps\">Lord</span> your God, which I command you this day:",
+      "churchId": "p27"
+    },
+    {
+      "slug": "deuteronomy-11-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And a curse, if ye will not obey the commandments of the <span class=\"small-caps\">Lord</span> your God, but turn aside out of the way which I command you this day, to go after other gods, which ye have not known.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "deuteronomy-11-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "And it shall come to pass, when the <span class=\"small-caps\">Lord</span> thy God hath brought thee in unto the land whither thou goest to possess it, that thou shalt put the blessing upon mount Gerizim, and the curse upon mount Ebal.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "deuteronomy-11-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "<span class=\"clarity-word\">Are</span> they not on the other side Jordan, by the way where the sun goeth down, in the land of the Canaanites, which dwell in the champaign over against Gilgal, beside the plains of Moreh?",
+      "churchId": "p30"
+    },
+    {
+      "slug": "deuteronomy-11-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "For ye shall pass over Jordan to go in to possess the land which the <span class=\"small-caps\">Lord</span> your God giveth you, and ye shall possess it, and dwell therein.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "deuteronomy-11-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "And ye shall observe to do all the statutes and judgments which I set before you this day.",
+      "churchId": "p32"
+    }
+  ]
+}

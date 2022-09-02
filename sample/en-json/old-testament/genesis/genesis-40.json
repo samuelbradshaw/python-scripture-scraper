@@ -1,0 +1,176 @@
+{
+  "name": "Genesis 40",
+  "abbrev": "Gen. 40",
+  "number": "40",
+  "churchUri": "/scriptures/ot/gen/40",
+  "paragraphs": [
+    {
+      "slug": "genesis-40-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 40",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "genesis-40-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And it came to pass after these things, <span class=\"clarity-word\">that</span> the butler of the king of Egypt and <span class=\"clarity-word\">his</span> baker had offended their lord the king of Egypt.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "genesis-40-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And Pharaoh was wroth against two <span class=\"clarity-word\">of</span> his officers, against the chief of the butlers, and against the chief of the bakers.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "genesis-40-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And he put them in ward in the house of the captain of the guard, into the prison, the place where Joseph <span class=\"clarity-word\">was</span> bound.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "genesis-40-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And the captain of the guard charged Joseph with them, and he served them: and they continued a season in ward.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "genesis-40-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "¶ And they dreamed a dream both of them, each man his dream in one night, each man according to the interpretation of his dream, the butler and the baker of the king of Egypt, which <span class=\"clarity-word\">were</span> bound in the prison.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "genesis-40-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And Joseph came in unto them in the morning, and looked upon them, and, behold, they <span class=\"clarity-word\">were</span> sad.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "genesis-40-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And he asked Pharaoh’s officers that <span class=\"clarity-word\">were</span> with him in the ward of his lord’s house, saying, Wherefore look ye <span class=\"clarity-word\">so</span> sadly to day?",
+      "churchId": "p7"
+    },
+    {
+      "slug": "genesis-40-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And they said unto him, We have dreamed a dream, and <span class=\"clarity-word\">there is</span> no interpreter of it. And Joseph said unto them, <span class=\"clarity-word\">Do</span> not interpretations <span class=\"clarity-word\">belong</span> to God? tell me <span class=\"clarity-word\">them,</span> I pray you.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "genesis-40-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And the chief butler told his dream to Joseph, and said to him, In my dream, behold, a vine <span class=\"clarity-word\">was</span> before me;",
+      "churchId": "p9"
+    },
+    {
+      "slug": "genesis-40-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And in the vine <span class=\"clarity-word\">were</span> three branches: and it <span class=\"clarity-word\">was</span> as though it budded, <span class=\"clarity-word\">and</span> her blossoms shot forth; and the clusters thereof brought forth ripe grapes:",
+      "churchId": "p10"
+    },
+    {
+      "slug": "genesis-40-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And Pharaoh’s cup <span class=\"clarity-word\">was</span> in my hand: and I took the grapes, and pressed them into Pharaoh’s cup, and I gave the cup into Pharaoh’s hand.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "genesis-40-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And Joseph said unto him, This <span class=\"clarity-word\">is</span> the interpretation of it: The three branches <span class=\"clarity-word\">are</span> three days:",
+      "churchId": "p12"
+    },
+    {
+      "slug": "genesis-40-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Yet within three days shall Pharaoh lift up thine head, and restore thee unto thy place: and thou shalt deliver Pharaoh’s cup into his hand, after the former manner when thou wast his butler.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "genesis-40-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "But think on me when it shall be well with thee, and shew kindness, I pray thee, unto me, and make mention of me unto Pharaoh, and bring me out of this house:",
+      "churchId": "p14"
+    },
+    {
+      "slug": "genesis-40-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "For indeed I was stolen away out of the land of the Hebrews: and here also have I done nothing that they should put me into the dungeon.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "genesis-40-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "When the chief baker saw that the interpretation was good, he said unto Joseph, I also <span class=\"clarity-word\">was</span> in my dream, and, behold, <span class=\"clarity-word\">I had</span> three white baskets on my head:",
+      "churchId": "p16"
+    },
+    {
+      "slug": "genesis-40-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And in the uppermost basket <span class=\"clarity-word\">there was</span> of all manner of bakemeats for Pharaoh; and the birds did eat them out of the basket upon my head.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "genesis-40-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And Joseph answered and said, This <span class=\"clarity-word\">is</span> the interpretation thereof: The three baskets <span class=\"clarity-word\">are</span> three days:",
+      "churchId": "p18"
+    },
+    {
+      "slug": "genesis-40-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Yet within three days shall Pharaoh lift up thy head from off thee, and shall hang thee on a tree; and the birds shall eat thy flesh from off thee.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "genesis-40-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "¶ And it came to pass the third day, <span class=\"clarity-word\">which was</span> Pharaoh’s birthday, that he made a feast unto all his servants: and he lifted up the head of the chief butler and of the chief baker among his servants.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "genesis-40-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And he restored the chief butler unto his butlership again; and he gave the cup into Pharaoh’s hand:",
+      "churchId": "p21"
+    },
+    {
+      "slug": "genesis-40-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "But he hanged the chief baker: as Joseph had interpreted to them.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "genesis-40-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Yet did not the chief butler remember Joseph, but forgat him.",
+      "churchId": "p23"
+    }
+  ]
+}

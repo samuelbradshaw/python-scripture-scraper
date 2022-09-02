@@ -1,0 +1,148 @@
+{
+  "name": "Leviticus 5",
+  "abbrev": "Lev. 5",
+  "number": "5",
+  "churchUri": "/scriptures/ot/lev/5",
+  "paragraphs": [
+    {
+      "slug": "leviticus-5-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 5",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "leviticus-5-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And if a soul sin, and hear the voice of swearing, and <span class=\"clarity-word\">is</span> a witness, whether he hath seen or known <span class=\"clarity-word\">of it;</span> if he do not utter <span class=\"clarity-word\">it,</span> then he shall bear his iniquity.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "leviticus-5-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Or if a soul touch any unclean thing, whether <span class=\"clarity-word\">it be</span> a carcase of an unclean beast, or a carcase of unclean cattle, or the carcase of unclean creeping things, and <span class=\"clarity-word\">if</span> it be hidden from him; he also shall be unclean, and guilty.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "leviticus-5-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Or if he touch the uncleanness of man, whatsoever uncleanness <span class=\"clarity-word\">it be</span> that a man shall be defiled withal, and it be hid from him; when he knoweth <span class=\"clarity-word\">of it,</span> then he shall be guilty.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "leviticus-5-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Or if a soul swear, pronouncing with <span class=\"clarity-word\">his</span> lips to do evil, or to do good, whatsoever <span class=\"clarity-word\">it be</span> that a man shall pronounce with an oath, and it be hid from him; when he knoweth <span class=\"clarity-word\">of it,</span> then he shall be guilty in one of these.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "leviticus-5-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And it shall be, when he shall be guilty in one of these <span class=\"clarity-word\">things,</span> that he shall confess that he hath sinned in that <span class=\"clarity-word\">thing:</span>",
+      "churchId": "p5"
+    },
+    {
+      "slug": "leviticus-5-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And he shall bring his trespass offering unto the <span class=\"small-caps\">Lord</span> for his sin which he hath sinned, a female from the flock, a lamb or a kid of the goats, for a sin offering; and the priest shall make an atonement for him concerning his sin.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "leviticus-5-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And if he be not able to bring a lamb, then he shall bring for his trespass, which he hath committed, two turtledoves, or two young pigeons, unto the <span class=\"small-caps\">Lord</span>; one for a sin offering, and the other for a burnt offering.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "leviticus-5-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And he shall bring them unto the priest, who shall offer <span class=\"clarity-word\">that</span> which <span class=\"clarity-word\">is</span> for the sin offering first, and wring off his head from his neck, but shall not divide <span class=\"clarity-word\">it</span> asunder:",
+      "churchId": "p8"
+    },
+    {
+      "slug": "leviticus-5-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And he shall sprinkle of the blood of the sin offering upon the side of the altar; and the rest of the blood shall be wrung out at the bottom of the altar: it <span class=\"clarity-word\">is</span> a sin offering.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "leviticus-5-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And he shall offer the second <span class=\"clarity-word\">for</span> a burnt offering, according to the manner: and the priest shall make an atonement for him for his sin which he hath sinned, and it shall be forgiven him.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "leviticus-5-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "¶ But if he be not able to bring two turtledoves, or two young pigeons, then he that sinned shall bring for his offering the tenth part of an ephah of fine flour for a sin offering; he shall put no oil upon it, neither shall he put <span class=\"clarity-word\">any</span> frankincense thereon: for it <span class=\"clarity-word\">is</span> a sin offering.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "leviticus-5-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Then shall he bring it to the priest, and the priest shall take his handful of it, <span class=\"clarity-word\">even</span> a memorial thereof, and burn <span class=\"clarity-word\">it</span> on the altar, according to the offerings made by fire unto the <span class=\"small-caps\">Lord</span>: it <span class=\"clarity-word\">is</span> a sin offering.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "leviticus-5-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And the priest shall make an atonement for him as touching his sin that he hath sinned in one of these, and it shall be forgiven him: and <span class=\"clarity-word\">the remnant</span> shall be the priest’s, as a meat offering.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "leviticus-5-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "¶ And the <span class=\"small-caps\">Lord</span> spake unto Moses, saying,",
+      "churchId": "p14"
+    },
+    {
+      "slug": "leviticus-5-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "If a soul commit a trespass, and sin through ignorance, in the holy things of the <span class=\"small-caps\">Lord</span>; then he shall bring for his trespass unto the <span class=\"small-caps\">Lord</span> a ram without blemish out of the flocks, with thy estimation by shekels of silver, after the shekel of the sanctuary, for a trespass offering:",
+      "churchId": "p15"
+    },
+    {
+      "slug": "leviticus-5-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And he shall make amends for the harm that he hath done in the holy thing, and shall add the fifth part thereto, and give it unto the priest: and the priest shall make an atonement for him with the ram of the trespass offering, and it shall be forgiven him.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "leviticus-5-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "¶ And if a soul sin, and commit any of these things which are forbidden to be done by the commandments of the <span class=\"small-caps\">Lord</span>; though he wist <span class=\"clarity-word\">it</span> not, yet is he guilty, and shall bear his iniquity.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "leviticus-5-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And he shall bring a ram without blemish out of the flock, with thy estimation, for a trespass offering, unto the priest: and the priest shall make an atonement for him concerning his ignorance wherein he erred and wist <span class=\"clarity-word\">it</span> not, and it shall be forgiven him.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "leviticus-5-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "It <span class=\"clarity-word\">is</span> a trespass offering: he hath certainly trespassed against the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p19"
+    }
+  ]
+}

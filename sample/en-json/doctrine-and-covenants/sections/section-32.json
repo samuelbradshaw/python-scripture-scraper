@@ -1,0 +1,50 @@
+{
+  "name": "Doctrine and Covenants 32",
+  "abbrev": "D&C 32",
+  "number": "32",
+  "churchUri": "/scriptures/dc-testament/dc/32",
+  "paragraphs": [
+    {
+      "slug": "section-32-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Section 32",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "section-32-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And now concerning my servant Parley P. Pratt, behold, I say unto him that as I live I will that he shall declare my gospel and learn of me, and be meek and lowly of heart.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "section-32-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And that which I have appointed unto him is that he shall go with my servants, Oliver Cowdery and Peter Whitmer, Jun., into the wilderness among the Lamanites.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "section-32-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And Ziba Peterson also shall go with them; and I myself will go with them and be in their midst; and I am their advocate with the Father, and nothing shall prevail against them.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "section-32-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And they shall give heed to that which is written, and pretend to no other revelation; and they shall pray always that I may unfold the same to their understanding.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "section-32-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And they shall give heed unto these words and trifle not, and I will bless them. Amen.",
+      "churchId": "p5"
+    }
+  ]
+}

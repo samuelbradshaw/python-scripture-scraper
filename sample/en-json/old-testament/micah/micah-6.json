@@ -1,0 +1,127 @@
+{
+  "name": "Micah 6",
+  "abbrev": "Micah 6",
+  "number": "6",
+  "churchUri": "/scriptures/ot/micah/6",
+  "paragraphs": [
+    {
+      "slug": "micah-6-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 6",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "micah-6-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Hear ye now what the <span class=\"small-caps\">Lord</span> saith; Arise, contend thou before the mountains, and let the hills hear thy voice.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "micah-6-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Hear ye, O mountains, the <span class=\"small-caps\">Lord</span>’s controversy, and ye strong foundations of the earth: for the <span class=\"small-caps\">Lord</span> hath a controversy with his people, and he will plead with Israel.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "micah-6-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "O my people, what have I done unto thee? and wherein have I wearied thee? testify against me.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "micah-6-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "For I brought thee up out of the land of Egypt, and redeemed thee out of the house of servants; and I sent before thee Moses, Aaron, and Miriam.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "micah-6-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "O my people, remember now what Balak king of Moab consulted, and what Balaam the son of Beor answered him from Shittim unto Gilgal; that ye may know the righteousness of the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "micah-6-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "¶ Wherewith shall I come before the <span class=\"small-caps\">Lord</span>, <span class=\"clarity-word\">and</span> bow myself before the high God? shall I come before him with burnt offerings, with calves of a year old?",
+      "churchId": "p6"
+    },
+    {
+      "slug": "micah-6-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Will the <span class=\"small-caps\">Lord</span> be pleased with thousands of rams, <span class=\"clarity-word\">or</span> with ten thousands of rivers of oil? shall I give my firstborn <span class=\"clarity-word\">for</span> my transgression, the fruit of my body <span class=\"clarity-word\">for</span> the sin of my soul?",
+      "churchId": "p7"
+    },
+    {
+      "slug": "micah-6-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "He hath shewed thee, O man, what <span class=\"clarity-word\">is</span> good; and what doth the <span class=\"small-caps\">Lord</span> require of thee, but to do justly, and to love mercy, and to walk humbly with thy God?",
+      "churchId": "p8"
+    },
+    {
+      "slug": "micah-6-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "The <span class=\"small-caps\">Lord</span>’s voice crieth unto the city, and <span class=\"clarity-word\">the man of</span> wisdom shall see thy name: hear ye the rod, and who hath appointed it.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "micah-6-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "¶ Are there yet the treasures of wickedness in the house of the wicked, and the scant measure <span class=\"clarity-word\">that is</span> abominable?",
+      "churchId": "p10"
+    },
+    {
+      "slug": "micah-6-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Shall I count <span class=\"clarity-word\">them</span> pure with the wicked balances, and with the bag of deceitful weights?",
+      "churchId": "p11"
+    },
+    {
+      "slug": "micah-6-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "For the rich men thereof are full of violence, and the inhabitants thereof have spoken lies, and their tongue <span class=\"clarity-word\">is</span> deceitful in their mouth.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "micah-6-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Therefore also will I make <span class=\"clarity-word\">thee</span> sick in smiting thee, in making <span class=\"clarity-word\">thee</span> desolate because of thy sins.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "micah-6-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Thou shalt eat, but not be satisfied; and thy casting down <span class=\"clarity-word\">shall be</span> in the midst of thee; and thou shalt take hold, but shalt not deliver; and <span class=\"clarity-word\">that</span> which thou deliverest will I give up to the sword.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "micah-6-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Thou shalt sow, but thou shalt not reap; thou shalt tread the olives, but thou shalt not anoint thee with oil; and sweet wine, but shalt not drink wine.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "micah-6-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "¶ For the statutes of Omri are kept, and all the works of the house of Ahab, and ye walk in their counsels; that I should make thee a desolation, and the inhabitants thereof an hissing: therefore ye shall bear the reproach of my people.",
+      "churchId": "p16"
+    }
+  ]
+}

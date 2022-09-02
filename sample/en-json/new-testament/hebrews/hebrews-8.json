@@ -1,0 +1,106 @@
+{
+  "name": "Hebrews 8",
+  "abbrev": "Heb. 8",
+  "number": "8",
+  "churchUri": "/scriptures/nt/heb/8",
+  "paragraphs": [
+    {
+      "slug": "hebrews-8-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 8",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "hebrews-8-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Now of the things which we have spoken <span class=\"clarity-word\">this is</span> the sum: We have such an high priest, who is set on the right hand of the throne of the Majesty in the heavens;",
+      "churchId": "p1"
+    },
+    {
+      "slug": "hebrews-8-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "A minister of the sanctuary, and of the true tabernacle, which the Lord pitched, and not man.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "hebrews-8-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "For every high priest is ordained to offer gifts and sacrifices: wherefore <span class=\"clarity-word\">it is</span> of necessity that this man have somewhat also to offer.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "hebrews-8-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "For if he were on earth, he should not be a priest, seeing that there are priests that offer gifts according to the law:",
+      "churchId": "p4"
+    },
+    {
+      "slug": "hebrews-8-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Who serve unto the example and shadow of heavenly things, as Moses was admonished of God when he was about to make the tabernacle: for, See, saith he, <span class=\"clarity-word\">that</span> thou make all things according to the pattern shewed to thee in the mount.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "hebrews-8-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "But now hath he obtained a more excellent ministry, by how much also he is the mediator of a better covenant, which was established upon better promises.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "hebrews-8-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "For if that first <span class=\"clarity-word\">covenant</span> had been faultless, then should no place have been sought for the second.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "hebrews-8-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "For finding fault with them, he saith, Behold, the days come, saith the Lord, when I will make a new covenant with the house of Israel and with the house of Judah:",
+      "churchId": "p8"
+    },
+    {
+      "slug": "hebrews-8-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Not according to the covenant that I made with their fathers in the day when I took them by the hand to lead them out of the land of Egypt; because they continued not in my covenant, and I regarded them not, saith the Lord.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "hebrews-8-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "For this <span class=\"clarity-word\">is</span> the covenant that I will make with the house of Israel after those days, saith the Lord; I will put my laws into their mind, and write them in their hearts: and I will be to them a God, and they shall be to me a people:",
+      "churchId": "p10"
+    },
+    {
+      "slug": "hebrews-8-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And they shall not teach every man his neighbour, and every man his brother, saying, Know the Lord: for all shall know me, from the least to the greatest.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "hebrews-8-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "For I will be merciful to their unrighteousness, and their sins and their iniquities will I remember no more.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "hebrews-8-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "In that he saith, A new <span class=\"clarity-word\">covenant</span><span class=\"clarity-word\">,</span> he hath made the first old. Now that which decayeth and waxeth old <span class=\"clarity-word\">is</span> ready to vanish away.",
+      "churchId": "p13"
+    }
+  ]
+}

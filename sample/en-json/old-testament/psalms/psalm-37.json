@@ -1,0 +1,302 @@
+{
+  "name": "Psalm 37",
+  "abbrev": "Psalm 37",
+  "number": "37",
+  "churchUri": "/scriptures/ot/ps/37",
+  "paragraphs": [
+    {
+      "slug": "psalm-37-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 37",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-37-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "<span class=\"clarity-word\">A Psalm</span> of David.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-37-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Fret not thyself because of evildoers, neither be thou envious against the workers of iniquity.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-37-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "For they shall soon be cut down like the grass, and wither as the green herb.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-37-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Trust in the <span class=\"small-caps\">Lord</span>, and do good; <span class=\"clarity-word\">so</span> shalt thou dwell in the land, and verily thou shalt be fed.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-37-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Delight thyself also in the <span class=\"small-caps\">Lord</span>; and he shall give thee the desires of thine heart.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-37-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Commit thy way unto the <span class=\"small-caps\">Lord</span>; trust also in him; and he shall bring <span class=\"clarity-word\">it</span> to pass.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-37-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And he shall bring forth thy righteousness as the light, and thy judgment as the noonday.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-37-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Rest in the <span class=\"small-caps\">Lord</span>, and wait patiently for him: fret not thyself because of him who prospereth in his way, because of the man who bringeth wicked devices to pass.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-37-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Cease from anger, and forsake wrath: fret not thyself in any wise to do evil.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "psalm-37-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "For evildoers shall be cut off: but those that wait upon the <span class=\"small-caps\">Lord</span>, they shall inherit the earth.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "psalm-37-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "For yet a little while, and the wicked <span class=\"clarity-word\">shall</span> not <span class=\"clarity-word\">be:</span> yea, thou shalt diligently consider his place, and it <span class=\"clarity-word\">shall</span> not <span class=\"clarity-word\">be.</span>",
+      "churchId": "p10"
+    },
+    {
+      "slug": "psalm-37-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "But the meek shall inherit the earth; and shall delight themselves in the abundance of peace.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "psalm-37-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "The wicked plotteth against the just, and gnasheth upon him with his teeth.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "psalm-37-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "The Lord shall laugh at him: for he seeth that his day is coming.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "psalm-37-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "The wicked have drawn out the sword, and have bent their bow, to cast down the poor and needy, <span class=\"clarity-word\">and</span> to slay such as be of upright conversation.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "psalm-37-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Their sword shall enter into their own heart, and their bows shall be broken.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "psalm-37-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "A little that a righteous man hath <span class=\"clarity-word\">is</span> better than the riches of many wicked.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "psalm-37-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "For the arms of the wicked shall be broken: but the <span class=\"small-caps\">Lord</span> upholdeth the righteous.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "psalm-37-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "The <span class=\"small-caps\">Lord</span> knoweth the days of the upright: and their inheritance shall be for ever.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "psalm-37-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "They shall not be ashamed in the evil time: and in the days of famine they shall be satisfied.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "psalm-37-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "But the wicked shall perish, and the enemies of the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">shall be</span> as the fat of lambs: they shall consume; into smoke shall they consume away.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "psalm-37-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "The wicked borroweth, and payeth not again: but the righteous sheweth mercy, and giveth.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "psalm-37-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "For <span class=\"clarity-word\">such as be</span> blessed of him shall inherit the earth; and <span class=\"clarity-word\">they that be</span> cursed of him shall be cut off.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "psalm-37-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "The steps of a <span class=\"clarity-word\">good</span> man are ordered by the <span class=\"small-caps\">Lord</span>: and he delighteth in his way.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "psalm-37-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Though he fall, he shall not be utterly cast down: for the <span class=\"small-caps\">Lord</span> upholdeth <span class=\"clarity-word\">him with</span> his hand.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "psalm-37-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "I have been young, and <span class=\"clarity-word\">now</span> am old; yet have I not seen the righteous forsaken, nor his seed begging bread.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "psalm-37-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "<span class=\"clarity-word\">He is</span> ever merciful, and lendeth; and his seed <span class=\"clarity-word\">is</span> blessed.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "psalm-37-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "Depart from evil, and do good; and dwell for evermore.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "psalm-37-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "For the <span class=\"small-caps\">Lord</span> loveth judgment, and forsaketh not his saints; they are preserved for ever: but the seed of the wicked shall be cut off.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "psalm-37-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "The righteous shall inherit the land, and dwell therein for ever.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "psalm-37-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "The mouth of the righteous speaketh wisdom, and his tongue talketh of judgment.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "psalm-37-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "The law of his God <span class=\"clarity-word\">is</span> in his heart; none of his steps shall slide.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "psalm-37-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "The wicked watcheth the righteous, and seeketh to slay him.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "psalm-37-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "The <span class=\"small-caps\">Lord</span> will not leave him in his hand, nor condemn him when he is judged.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "psalm-37-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "Wait on the <span class=\"small-caps\">Lord</span>, and keep his way, and he shall exalt thee to inherit the land: when the wicked are cut off, thou shalt see <span class=\"clarity-word\">it.</span>",
+      "churchId": "p34"
+    },
+    {
+      "slug": "psalm-37-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "I have seen the wicked in great power, and spreading himself like a green bay tree.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "psalm-37-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "Yet he passed away, and, lo, he <span class=\"clarity-word\">was</span> not: yea, I sought him, but he could not be found.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "psalm-37-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "Mark the perfect <span class=\"clarity-word\">man,</span> and behold the upright: for the end of <span class=\"clarity-word\">that</span> man <span class=\"clarity-word\">is</span> peace.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "psalm-37-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "But the transgressors shall be destroyed together: the end of the wicked shall be cut off.",
+      "churchId": "p38"
+    },
+    {
+      "slug": "psalm-37-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "But the salvation of the righteous <span class=\"clarity-word\">is</span> of the <span class=\"small-caps\">Lord</span>: <span class=\"clarity-word\">he is</span> their strength in the time of trouble.",
+      "churchId": "p39"
+    },
+    {
+      "slug": "psalm-37-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "And the <span class=\"small-caps\">Lord</span> shall help them, and deliver them: he shall deliver them from the wicked, and save them, because they trust in him.",
+      "churchId": "p40"
+    }
+  ]
+}

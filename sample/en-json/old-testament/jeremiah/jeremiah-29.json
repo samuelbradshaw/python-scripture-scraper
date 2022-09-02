@@ -1,0 +1,239 @@
+{
+  "name": "Jeremiah 29",
+  "abbrev": "Jer. 29",
+  "number": "29",
+  "churchUri": "/scriptures/ot/jer/29",
+  "paragraphs": [
+    {
+      "slug": "jeremiah-29-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 29",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "jeremiah-29-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Now these <span class=\"clarity-word\">are</span> the words of the letter that Jeremiah the prophet sent from Jerusalem unto the residue of the elders which were carried away captives, and to the priests, and to the prophets, and to all the people whom Nebuchadnezzar had carried away captive from Jerusalem to Babylon;",
+      "churchId": "p1"
+    },
+    {
+      "slug": "jeremiah-29-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "(After that Jeconiah the king, and the queen, and the eunuchs, the princes of Judah and Jerusalem, and the carpenters, and the smiths, were departed from Jerusalem;)",
+      "churchId": "p2"
+    },
+    {
+      "slug": "jeremiah-29-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "By the hand of Elasah the son of Shaphan, and Gemariah the son of Hilkiah, (whom Zedekiah king of Judah sent unto Babylon to Nebuchadnezzar king of Babylon) saying,",
+      "churchId": "p3"
+    },
+    {
+      "slug": "jeremiah-29-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Thus saith the <span class=\"small-caps\">Lord</span> of hosts, the God of Israel, unto all that are carried away captives, whom I have caused to be carried away from Jerusalem unto Babylon;",
+      "churchId": "p4"
+    },
+    {
+      "slug": "jeremiah-29-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Build ye houses, and dwell <span class=\"clarity-word\">in them;</span> and plant gardens, and eat the fruit of them;",
+      "churchId": "p5"
+    },
+    {
+      "slug": "jeremiah-29-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Take ye wives, and beget sons and daughters; and take wives for your sons, and give your daughters to husbands, that they may bear sons and daughters; that ye may be increased there, and not diminished.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "jeremiah-29-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And seek the peace of the city whither I have caused you to be carried away captives, and pray unto the <span class=\"small-caps\">Lord</span> for it: for in the peace thereof shall ye have peace.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "jeremiah-29-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "¶ For thus saith the <span class=\"small-caps\">Lord</span> of hosts, the God of Israel; Let not your prophets and your diviners, that <span class=\"clarity-word\">be</span> in the midst of you, deceive you, neither hearken to your dreams which ye cause to be dreamed.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "jeremiah-29-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "For they prophesy falsely unto you in my name: I have not sent them, saith the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "jeremiah-29-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "¶ For thus saith the <span class=\"small-caps\">Lord</span>, That after seventy years be accomplished at Babylon I will visit you, and perform my good word toward you, in causing you to return to this place.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "jeremiah-29-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "For I know the thoughts that I think toward you, saith the <span class=\"small-caps\">Lord</span>, thoughts of peace, and not of evil, to give you an expected end.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "jeremiah-29-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Then shall ye call upon me, and ye shall go and pray unto me, and I will hearken unto you.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "jeremiah-29-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And ye shall seek me, and find <span class=\"clarity-word\">me,</span> when ye shall search for me with all your heart.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "jeremiah-29-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And I will be found of you, saith the <span class=\"small-caps\">Lord</span>: and I will turn away your captivity, and I will gather you from all the nations, and from all the places whither I have driven you, saith the <span class=\"small-caps\">Lord</span>; and I will bring you again into the place whence I caused you to be carried away captive.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "jeremiah-29-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "¶ Because ye have said, The <span class=\"small-caps\">Lord</span> hath raised us up prophets in Babylon;",
+      "churchId": "p15"
+    },
+    {
+      "slug": "jeremiah-29-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "<span class=\"clarity-word\">Know</span> that thus saith the <span class=\"small-caps\">Lord</span> of the king that sitteth upon the throne of David, and of all the people that dwelleth in this city, <span class=\"clarity-word\">and</span> of your brethren that are not gone forth with you into captivity;",
+      "churchId": "p16"
+    },
+    {
+      "slug": "jeremiah-29-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Thus saith the <span class=\"small-caps\">Lord</span> of hosts; Behold, I will send upon them the sword, the famine, and the pestilence, and will make them like vile figs, that cannot be eaten, they are so evil.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "jeremiah-29-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And I will persecute them with the sword, with the famine, and with the pestilence, and will deliver them to be removed to all the kingdoms of the earth, to be a curse, and an astonishment, and an hissing, and a reproach, among all the nations whither I have driven them:",
+      "churchId": "p18"
+    },
+    {
+      "slug": "jeremiah-29-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Because they have not hearkened to my words, saith the <span class=\"small-caps\">Lord</span>, which I sent unto them by my servants the prophets, rising up early and sending <span class=\"clarity-word\">them;</span> but ye would not hear, saith the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "jeremiah-29-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "¶ Hear ye therefore the word of the <span class=\"small-caps\">Lord</span>, all ye of the captivity, whom I have sent from Jerusalem to Babylon:",
+      "churchId": "p20"
+    },
+    {
+      "slug": "jeremiah-29-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Thus saith the <span class=\"small-caps\">Lord</span> of hosts, the God of Israel, of Ahab the son of Kolaiah, and of Zedekiah the son of Maaseiah, which prophesy a lie unto you in my name; Behold, I will deliver them into the hand of Nebuchadrezzar king of Babylon; and he shall slay them before your eyes;",
+      "churchId": "p21"
+    },
+    {
+      "slug": "jeremiah-29-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And of them shall be taken up a curse by all the captivity of Judah which <span class=\"clarity-word\">are</span> in Babylon, saying, The <span class=\"small-caps\">Lord</span> make thee like Zedekiah and like Ahab, whom the king of Babylon roasted in the fire;",
+      "churchId": "p22"
+    },
+    {
+      "slug": "jeremiah-29-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Because they have committed villany in Israel, and have committed adultery with their neighbours’ wives, and have spoken lying words in my name, which I have not commanded them; even I know, and <span class=\"clarity-word\">am</span> a witness, saith the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "jeremiah-29-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "¶ <span class=\"clarity-word\">Thus</span> shalt thou also speak to Shemaiah the Nehelamite, saying,",
+      "churchId": "p24"
+    },
+    {
+      "slug": "jeremiah-29-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Thus speaketh the <span class=\"small-caps\">Lord</span> of hosts, the God of Israel, saying, Because thou hast sent letters in thy name unto all the people that <span class=\"clarity-word\">are</span> at Jerusalem, and to Zephaniah the son of Maaseiah the priest, and to all the priests, saying,",
+      "churchId": "p25"
+    },
+    {
+      "slug": "jeremiah-29-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "The <span class=\"small-caps\">Lord</span> hath made thee priest in the stead of Jehoiada the priest, that ye should be officers in the house of the <span class=\"small-caps\">Lord</span>, for every man <span class=\"clarity-word\">that is</span> mad, and maketh himself a prophet, that thou shouldest put him in prison, and in the stocks.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "jeremiah-29-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "Now therefore why hast thou not reproved Jeremiah of Anathoth, which maketh himself a prophet to you?",
+      "churchId": "p27"
+    },
+    {
+      "slug": "jeremiah-29-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "For therefore he sent unto us <span class=\"clarity-word\">in</span> Babylon, saying, This <span class=\"clarity-word\">captivity is</span> long: build ye houses, and dwell <span class=\"clarity-word\">in them;</span> and plant gardens, and eat the fruit of them.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "jeremiah-29-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "And Zephaniah the priest read this letter in the ears of Jeremiah the prophet.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "jeremiah-29-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "¶ Then came the word of the <span class=\"small-caps\">Lord</span> unto Jeremiah, saying,",
+      "churchId": "p30"
+    },
+    {
+      "slug": "jeremiah-29-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "Send to all them of the captivity, saying, Thus saith the <span class=\"small-caps\">Lord</span> concerning Shemaiah the Nehelamite; Because that Shemaiah hath prophesied unto you, and I sent him not, and he caused you to trust in a lie:",
+      "churchId": "p31"
+    },
+    {
+      "slug": "jeremiah-29-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "Therefore thus saith the <span class=\"small-caps\">Lord</span>; Behold, I will punish Shemaiah the Nehelamite, and his seed: he shall not have a man to dwell among this people; neither shall he behold the good that I will do for my people, saith the <span class=\"small-caps\">Lord</span>; because he hath taught rebellion against the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p32"
+    }
+  ]
+}

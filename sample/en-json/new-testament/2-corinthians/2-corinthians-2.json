@@ -1,0 +1,134 @@
+{
+  "name": "2 Corinthians 2",
+  "abbrev": "2 Cor. 2",
+  "number": "2",
+  "churchUri": "/scriptures/nt/2-cor/2",
+  "paragraphs": [
+    {
+      "slug": "2-corinthians-2-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 2",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "2-corinthians-2-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "But I determined this with myself, that I would not come again to you in heaviness.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "2-corinthians-2-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "For if I make you sorry, who is he then that maketh me glad, but the same which is made sorry by me?",
+      "churchId": "p2"
+    },
+    {
+      "slug": "2-corinthians-2-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And I wrote this same unto you, lest, when I came, I should have sorrow from them of whom I ought to rejoice; having confidence in you all, that my joy is <span class=\"clarity-word\">the joy</span> of you all.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "2-corinthians-2-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "For out of much affliction and anguish of heart I wrote unto you with many tears; not that ye should be grieved, but that ye might know the love which I have more abundantly unto you.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "2-corinthians-2-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "But if any have caused grief, he hath not grieved me, but in part: that I may not overcharge you all.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "2-corinthians-2-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Sufficient to such a man <span class=\"clarity-word\">is</span> this punishment, which <span class=\"clarity-word\">was inflicted</span> of many.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "2-corinthians-2-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "So that contrariwise ye <span class=\"clarity-word\">ought</span> rather to forgive <span class=\"clarity-word\">him,</span> and comfort <span class=\"clarity-word\">him,</span> lest perhaps such a one should be swallowed up with overmuch sorrow.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "2-corinthians-2-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Wherefore I beseech you that ye would confirm <span class=\"clarity-word\">your</span> love toward him.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "2-corinthians-2-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "For to this end also did I write, that I might know the proof of you, whether ye be obedient in all things.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "2-corinthians-2-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "To whom ye forgive any thing, I <span class=\"clarity-word\">forgive</span> also: for if I forgave any thing, to whom I forgave <span class=\"clarity-word\">it,</span> for your sakes <span class=\"clarity-word\">forgave I it</span> in the person of Christ;",
+      "churchId": "p10"
+    },
+    {
+      "slug": "2-corinthians-2-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Lest Satan should get an advantage of us: for we are not ignorant of his devices.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "2-corinthians-2-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Furthermore, when I came to Troas to <span class=\"clarity-word\">preach</span> Christ’s gospel, and a door was opened unto me of the Lord,",
+      "churchId": "p12"
+    },
+    {
+      "slug": "2-corinthians-2-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "I had no rest in my spirit, because I found not Titus my brother: but taking my leave of them, I went from thence into Macedonia.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "2-corinthians-2-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Now thanks <span class=\"clarity-word\">be</span> unto God, which always causeth us to triumph in Christ, and maketh manifest the savour of his knowledge by us in every place.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "2-corinthians-2-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "For we are unto God a sweet savour of Christ, in them that are saved, and in them that perish:",
+      "churchId": "p15"
+    },
+    {
+      "slug": "2-corinthians-2-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "To the one <span class=\"clarity-word\">we are</span> the savour of death unto death; and to the other the savour of life unto life. And who <span class=\"clarity-word\">is</span> sufficient for these things?",
+      "churchId": "p16"
+    },
+    {
+      "slug": "2-corinthians-2-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "For we are not as many, which corrupt the word of God: but as of sincerity, but as of God, in the sight of God speak we in Christ.",
+      "churchId": "p17"
+    }
+  ]
+}

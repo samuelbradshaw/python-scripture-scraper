@@ -1,0 +1,253 @@
+{
+  "name": "Genesis 43",
+  "abbrev": "Gen. 43",
+  "number": "43",
+  "churchUri": "/scriptures/ot/gen/43",
+  "paragraphs": [
+    {
+      "slug": "genesis-43-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 43",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "genesis-43-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And the famine <span class=\"clarity-word\">was</span> sore in the land.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "genesis-43-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And it came to pass, when they had eaten up the corn which they had brought out of Egypt, their father said unto them, Go again, buy us a little food.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "genesis-43-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And Judah spake unto him, saying, The man did solemnly protest unto us, saying, Ye shall not see my face, except your brother <span class=\"clarity-word\">be</span> with you.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "genesis-43-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "If thou wilt send our brother with us, we will go down and buy thee food:",
+      "churchId": "p4"
+    },
+    {
+      "slug": "genesis-43-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "But if thou wilt not send <span class=\"clarity-word\">him,</span> we will not go down: for the man said unto us, Ye shall not see my face, except your brother <span class=\"clarity-word\">be</span> with you.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "genesis-43-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And Israel said, Wherefore dealt ye <span class=\"clarity-word\">so</span> ill with me, <span class=\"clarity-word\">as</span> to tell the man whether ye had yet a brother?",
+      "churchId": "p6"
+    },
+    {
+      "slug": "genesis-43-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And they said, The man asked us straitly of our state, and of our kindred, saying, <span class=\"clarity-word\">Is</span> your father yet alive? have ye <span class=\"clarity-word\">another</span> brother? and we told him according to the tenor of these words: could we certainly know that he would say, Bring your brother down?",
+      "churchId": "p7"
+    },
+    {
+      "slug": "genesis-43-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And Judah said unto Israel his father, Send the lad with me, and we will arise and go; that we may live, and not die, both we, and thou, <span class=\"clarity-word\">and</span> also our little ones.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "genesis-43-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "I will be surety for him; of my hand shalt thou require him: if I bring him not unto thee, and set him before thee, then let me bear the blame for ever:",
+      "churchId": "p9"
+    },
+    {
+      "slug": "genesis-43-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "For except we had lingered, surely now we had returned this second time.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "genesis-43-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And their father Israel said unto them, If <span class=\"clarity-word\">it must be</span> so now, do this; take of the best fruits in the land in your vessels, and carry down the man a present, a little balm, and a little honey, spices, and myrrh, nuts, and almonds:",
+      "churchId": "p11"
+    },
+    {
+      "slug": "genesis-43-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And take double money in your hand; and the money that was brought again in the mouth of your sacks, carry <span class=\"clarity-word\">it</span> again in your hand; peradventure it <span class=\"clarity-word\">was</span> an oversight:",
+      "churchId": "p12"
+    },
+    {
+      "slug": "genesis-43-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Take also your brother, and arise, go again unto the man:",
+      "churchId": "p13"
+    },
+    {
+      "slug": "genesis-43-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And God Almighty give you mercy before the man, that he may send away your other brother, and Benjamin. If I be bereaved <span class=\"clarity-word\">of my children,</span> I am bereaved.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "genesis-43-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "¶ And the men took that present, and they took double money in their hand, and Benjamin; and rose up, and went down to Egypt, and stood before Joseph.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "genesis-43-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And when Joseph saw Benjamin with them, he said to the ruler of his house, Bring <span class=\"clarity-word\">these</span> men home, and slay, and make ready; for <span class=\"clarity-word\">these</span> men shall dine with me at noon.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "genesis-43-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And the man did as Joseph bade; and the man brought the men into Joseph’s house.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "genesis-43-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And the men were afraid, because they were brought into Joseph’s house; and they said, Because of the money that was returned in our sacks at the first time are we brought in; that he may seek occasion against us, and fall upon us, and take us for bondmen, and our asses.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "genesis-43-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And they came near to the steward of Joseph’s house, and they communed with him at the door of the house,",
+      "churchId": "p19"
+    },
+    {
+      "slug": "genesis-43-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And said, O sir, we came indeed down at the first time to buy food:",
+      "churchId": "p20"
+    },
+    {
+      "slug": "genesis-43-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And it came to pass, when we came to the inn, that we opened our sacks, and, behold, <span class=\"clarity-word\">every</span> man’s money <span class=\"clarity-word\">was</span> in the mouth of his sack, our money in full weight: and we have brought it again in our hand.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "genesis-43-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And other money have we brought down in our hands to buy food: we cannot tell who put our money in our sacks.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "genesis-43-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And he said, Peace <span class=\"clarity-word\">be</span> to you, fear not: your God, and the God of your father, hath given you treasure in your sacks: I had your money. And he brought Simeon out unto them.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "genesis-43-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And the man brought the men into Joseph’s house, and gave <span class=\"clarity-word\">them</span> water, and they washed their feet; and he gave their asses provender.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "genesis-43-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And they made ready the present against Joseph came at noon: for they heard that they should eat bread there.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "genesis-43-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "¶ And when Joseph came home, they brought him the present which <span class=\"clarity-word\">was</span> in their hand into the house, and bowed themselves to him to the earth.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "genesis-43-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And he asked them of <span class=\"clarity-word\">their</span> welfare, and said, <span class=\"clarity-word\">Is</span> your father well, the old man of whom ye spake? <span class=\"clarity-word\">Is</span> he yet alive?",
+      "churchId": "p27"
+    },
+    {
+      "slug": "genesis-43-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And they answered, Thy servant our father <span class=\"clarity-word\">is</span> in good health, he <span class=\"clarity-word\">is</span> yet alive. And they bowed down their heads, and made obeisance.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "genesis-43-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "And he lifted up his eyes, and saw his brother Benjamin, his mother’s son, and said, <span class=\"clarity-word\">Is</span> this your younger brother, of whom ye spake unto me? And he said, God be gracious unto thee, my son.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "genesis-43-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And Joseph made haste; for his bowels did yearn upon his brother: and he sought <span class=\"clarity-word\">where</span> to weep; and he entered into <span class=\"clarity-word\">his</span> chamber, and wept there.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "genesis-43-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "And he washed his face, and went out, and refrained himself, and said, Set on bread.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "genesis-43-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "And they set on for him by himself, and for them by themselves, and for the Egyptians, which did eat with him, by themselves: because the Egyptians might not eat bread with the Hebrews; for that <span class=\"clarity-word\">is</span> an abomination unto the Egyptians.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "genesis-43-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "And they sat before him, the firstborn according to his birthright, and the youngest according to his youth: and the men marvelled one at another.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "genesis-43-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "And he took <span class=\"clarity-word\">and sent</span> messes unto them from before him: but Benjamin’s mess was five times so much as any of theirs. And they drank, and were merry with him.",
+      "churchId": "p34"
+    }
+  ]
+}

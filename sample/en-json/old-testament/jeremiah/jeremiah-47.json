@@ -1,0 +1,64 @@
+{
+  "name": "Jeremiah 47",
+  "abbrev": "Jer. 47",
+  "number": "47",
+  "churchUri": "/scriptures/ot/jer/47",
+  "paragraphs": [
+    {
+      "slug": "jeremiah-47-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 47",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "jeremiah-47-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "The word of the <span class=\"small-caps\">Lord</span> that came to Jeremiah the prophet against the Philistines, before that Pharaoh smote Gaza.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "jeremiah-47-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Thus saith the <span class=\"small-caps\">Lord</span>; Behold, waters rise up out of the north, and shall be an overflowing flood, and shall overflow the land, and all that is therein; the city, and them that dwell therein: then the men shall cry, and all the inhabitants of the land shall howl.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "jeremiah-47-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "At the noise of the stamping of the hoofs of his strong <span class=\"clarity-word\">horses,</span> at the rushing of his chariots, <span class=\"clarity-word\">and at</span> the rumbling of his wheels, the fathers shall not look back to <span class=\"clarity-word\">their</span> children for feebleness of hands;",
+      "churchId": "p3"
+    },
+    {
+      "slug": "jeremiah-47-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Because of the day that cometh to spoil all the Philistines, <span class=\"clarity-word\">and</span> to cut off from Tyrus and Zidon every helper that remaineth: for the <span class=\"small-caps\">Lord</span> will spoil the Philistines, the remnant of the country of Caphtor.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "jeremiah-47-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Baldness is come upon Gaza; Ashkelon is cut off <span class=\"clarity-word\">with</span> the remnant of their valley: how long wilt thou cut thyself?",
+      "churchId": "p5"
+    },
+    {
+      "slug": "jeremiah-47-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "O thou sword of the <span class=\"small-caps\">Lord</span>, how long <span class=\"clarity-word\">will it be</span> ere thou be quiet? put up thyself into thy scabbard, rest, and be still.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "jeremiah-47-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "How can it be quiet, seeing the <span class=\"small-caps\">Lord</span> hath given it a charge against Ashkelon, and against the sea shore? there hath he appointed it.",
+      "churchId": "p7"
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "name": "2 Peter 1",
+  "abbrev": "2 Pet. 1",
+  "number": "1",
+  "churchUri": "/scriptures/nt/2-pet/1",
+  "paragraphs": [
+    {
+      "slug": "2-peter-1-title1",
+      "type": "book-title",
+      "number": null,
+      "content": "<small>The Second Epistle General of </small>Peter",
+      "churchId": "title1"
+    },
+    {
+      "slug": "2-peter-1-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 1",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "2-peter-1-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Simon Peter, a servant and an apostle of Jesus Christ, to them that have obtained like precious faith with us through the righteousness of God and our Saviour Jesus Christ:",
+      "churchId": "p1"
+    },
+    {
+      "slug": "2-peter-1-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Grace and peace be multiplied unto you through the knowledge of God, and of Jesus our Lord,",
+      "churchId": "p2"
+    },
+    {
+      "slug": "2-peter-1-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "According as his divine power hath given unto us all things that <span class=\"clarity-word\">pertain</span> unto life and godliness, through the knowledge of him that hath called us to glory and virtue:",
+      "churchId": "p3"
+    },
+    {
+      "slug": "2-peter-1-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Whereby are given unto us exceeding great and precious promises: that by these ye might be partakers of the divine nature, having escaped the corruption that is in the world through lust.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "2-peter-1-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And beside this, giving all diligence, add to your faith virtue; and to virtue knowledge;",
+      "churchId": "p5"
+    },
+    {
+      "slug": "2-peter-1-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And to knowledge temperance; and to temperance patience; and to patience godliness;",
+      "churchId": "p6"
+    },
+    {
+      "slug": "2-peter-1-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And to godliness brotherly kindness; and to brotherly kindness charity.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "2-peter-1-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "For if these things be in you, and abound, they make <span class=\"clarity-word\">you that ye shall</span> neither <span class=\"clarity-word\">be</span> barren nor unfruitful in the knowledge of our Lord Jesus Christ.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "2-peter-1-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "But he that lacketh these things is blind, and cannot see afar off, and hath forgotten that he was purged from his old sins.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "2-peter-1-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Wherefore the rather, brethren, give diligence to make your calling and election sure: for if ye do these things, ye shall never fall:",
+      "churchId": "p10"
+    },
+    {
+      "slug": "2-peter-1-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "For so an entrance shall be ministered unto you abundantly into the everlasting kingdom of our Lord and Saviour Jesus Christ.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "2-peter-1-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Wherefore I will not be negligent to put you always in remembrance of these things, though ye know <span class=\"clarity-word\">them,</span> and be established in the present truth.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "2-peter-1-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Yea, I think it meet, as long as I am in this tabernacle, to stir you up by putting <span class=\"clarity-word\">you</span> in remembrance;",
+      "churchId": "p13"
+    },
+    {
+      "slug": "2-peter-1-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Knowing that shortly I must put off <span class=\"clarity-word\">this</span> my tabernacle, even as our Lord Jesus Christ hath shewed me.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "2-peter-1-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Moreover I will endeavour that ye may be able after my decease to have these things always in remembrance.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "2-peter-1-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "For we have not followed cunningly devised fables, when we made known unto you the power and coming of our Lord Jesus Christ, but were eyewitnesses of his majesty.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "2-peter-1-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "For he received from God the Father honour and glory, when there came such a voice to him from the excellent glory, This is my beloved Son, in whom I am well pleased.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "2-peter-1-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And this voice which came from heaven we heard, when we were with him in the holy mount.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "2-peter-1-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "We have also a more sure word of prophecy; whereunto ye do well that ye take heed, as unto a light that shineth in a dark place, until the day dawn, and the day star arise in your hearts:",
+      "churchId": "p19"
+    },
+    {
+      "slug": "2-peter-1-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Knowing this first, that no prophecy of the scripture is of any private interpretation.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "2-peter-1-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "For the prophecy came not in old time by the will of man: but holy men of God spake <span class=\"clarity-word\">as they were</span> moved by the Holy Ghost.",
+      "churchId": "p21"
+    }
+  ]
+}

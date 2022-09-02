@@ -1,0 +1,232 @@
+{
+  "name": "Galatians 4",
+  "abbrev": "Gal. 4",
+  "number": "4",
+  "churchUri": "/scriptures/nt/gal/4",
+  "paragraphs": [
+    {
+      "slug": "galations-4-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 4",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "galations-4-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Now I say, <span class=\"clarity-word\">That</span> the heir, as long as he is a child, differeth nothing from a servant, though he be lord of all;",
+      "churchId": "p1"
+    },
+    {
+      "slug": "galations-4-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "But is under tutors and governors until the time appointed of the father.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "galations-4-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Even so we, when we were children, were in bondage under the elements of the world:",
+      "churchId": "p3"
+    },
+    {
+      "slug": "galations-4-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "But when the fulness of the time was come, God sent forth his Son, made of a woman, made under the law,",
+      "churchId": "p4"
+    },
+    {
+      "slug": "galations-4-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "To redeem them that were under the law, that we might receive the adoption of sons.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "galations-4-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And because ye are sons, God hath sent forth the Spirit of his Son into your hearts, crying, Abba, Father.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "galations-4-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Wherefore thou art no more a servant, but a son; and if a son, then an heir of God through Christ.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "galations-4-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Howbeit then, when ye knew not God, ye did service unto them which by nature are no gods.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "galations-4-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "But now, after that ye have known God, or rather are known of God, how turn ye again to the weak and beggarly elements, whereunto ye desire again to be in bondage?",
+      "churchId": "p9"
+    },
+    {
+      "slug": "galations-4-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Ye observe days, and months, and times, and years.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "galations-4-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "I am afraid of you, lest I have bestowed upon you labour in vain.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "galations-4-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Brethren, I beseech you, be as I <span class=\"clarity-word\">am;</span> for I <span class=\"clarity-word\">am</span> as ye <span class=\"clarity-word\">are:</span> ye have not injured me at all.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "galations-4-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Ye know how through infirmity of the flesh I preached the gospel unto you at the first.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "galations-4-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And my temptation which was in my flesh ye despised not, nor rejected; but received me as an angel of God, <span class=\"clarity-word\">even</span> as Christ Jesus.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "galations-4-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Where is then the blessedness ye spake of? for I bear you record, that, if <span class=\"clarity-word\">it had been</span> possible, ye would have plucked out your own eyes, and have given them to me.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "galations-4-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Am I therefore become your enemy, because I tell you the truth?",
+      "churchId": "p16"
+    },
+    {
+      "slug": "galations-4-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "They zealously affect you, <span class=\"clarity-word\">but</span> not well; yea, they would exclude you, that ye might affect them.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "galations-4-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "But <span class=\"clarity-word\">it is</span> good to be zealously affected always in <span class=\"clarity-word\">a</span> good <span class=\"clarity-word\">thing,</span> and not only when I am present with you.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "galations-4-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "My little children, of whom I travail in birth again until Christ be formed in you,",
+      "churchId": "p19"
+    },
+    {
+      "slug": "galations-4-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "I desire to be present with you now, and to change my voice; for I stand in doubt of you.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "galations-4-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Tell me, ye that desire to be under the law, do ye not hear the law?",
+      "churchId": "p21"
+    },
+    {
+      "slug": "galations-4-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "For it is written, that Abraham had two sons, the one by a bondmaid, the other by a freewoman.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "galations-4-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "But he <span class=\"clarity-word\">who was</span> of the bondwoman was born after the flesh; but he of the freewoman <span class=\"clarity-word\">was</span> by promise.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "galations-4-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Which things are an allegory: for these are the two covenants; the one from the mount Sinai, which gendereth to bondage, which is Agar.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "galations-4-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "For this Agar is mount Sinai in Arabia, and answereth to Jerusalem which now is, and is in bondage with her children.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "galations-4-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "But Jerusalem which is above is free, which is the mother of us all.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "galations-4-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "For it is written, Rejoice, <span class=\"clarity-word\">thou</span> barren that bearest not; break forth and cry, thou that travailest not: for the desolate hath many more children than she which hath an husband.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "galations-4-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "Now we, brethren, as Isaac was, are the children of promise.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "galations-4-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "But as then he that was born after the flesh persecuted him <span class=\"clarity-word\">that was born</span> after the Spirit, even so <span class=\"clarity-word\">it is</span> now.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "galations-4-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "Nevertheless what saith the scripture? Cast out the bondwoman and her son: for the son of the bondwoman shall not be heir with the son of the freewoman.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "galations-4-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "So then, brethren, we are not children of the bondwoman, but of the free.",
+      "churchId": "p31"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Doctrine and Covenants 73",
+  "abbrev": "D&C 73",
+  "number": "73",
+  "churchUri": "/scriptures/dc-testament/dc/73",
+  "paragraphs": [
+    {
+      "slug": "section-73-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Section 73",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "section-73-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "For verily, thus saith the Lord, it is expedient in me that they should continue preaching the gospel, and in exhortation to the churches in the regions round about, until conference;",
+      "churchId": "p1"
+    },
+    {
+      "slug": "section-73-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And then, behold, it shall be made known unto them, by the voice of the conference, their several missions.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "section-73-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Now, verily I say unto you my servants, Joseph Smith, Jun., and Sidney Rigdon, saith the Lord, it is expedient to translate again;",
+      "churchId": "p3"
+    },
+    {
+      "slug": "section-73-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And, inasmuch as it is practicable, to preach in the regions round about until conference; and after that it is expedient to continue the work of translation until it be finished.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "section-73-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And let this be a pattern unto the elders until further knowledge, even as it is written.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "section-73-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Now I give no more unto you at this time. Gird up your loins and be sober. Even so. Amen.",
+      "churchId": "p6"
+    }
+  ]
+}

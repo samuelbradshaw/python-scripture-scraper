@@ -1,0 +1,253 @@
+{
+  "name": "1 Corinthians 11",
+  "abbrev": "1 Cor. 11",
+  "number": "11",
+  "churchUri": "/scriptures/nt/1-cor/11",
+  "paragraphs": [
+    {
+      "slug": "1-corinthians-11-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 11",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "1-corinthians-11-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Be ye followers of me, even as I also <span class=\"clarity-word\">am</span> of Christ.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "1-corinthians-11-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Now I praise you, brethren, that ye remember me in all things, and keep the ordinances, as I delivered <span class=\"clarity-word\">them</span> to you.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "1-corinthians-11-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "But I would have you know, that the head of every man is Christ; and the head of the woman <span class=\"clarity-word\">is</span> the man; and the head of Christ <span class=\"clarity-word\">is</span> God.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "1-corinthians-11-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Every man praying or prophesying, having <span class=\"clarity-word\">his</span> head covered, dishonoureth his head.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "1-corinthians-11-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "But every woman that prayeth or prophesieth with <span class=\"clarity-word\">her</span> head uncovered dishonoureth her head: for that is even all one as if she were shaven.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "1-corinthians-11-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "For if the woman be not covered, let her also be shorn: but if it be a shame for a woman to be shorn or shaven, let her be covered.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "1-corinthians-11-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "For a man indeed ought not to cover <span class=\"clarity-word\">his</span> head, forasmuch as he is the image and glory of God: but the woman is the glory of the man.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "1-corinthians-11-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "For the man is not of the woman; but the woman of the man.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "1-corinthians-11-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Neither was the man created for the woman; but the woman for the man.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "1-corinthians-11-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "For this cause ought the woman to have power on <span class=\"clarity-word\">her</span> head because of the angels.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "1-corinthians-11-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Nevertheless neither is the man without the woman, neither the woman without the man, in the Lord.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "1-corinthians-11-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "For as the woman <span class=\"clarity-word\">is</span> of the man, even so <span class=\"clarity-word\">is</span> the man also by the woman; but all things of God.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "1-corinthians-11-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Judge in yourselves: is it comely that a woman pray unto God uncovered?",
+      "churchId": "p13"
+    },
+    {
+      "slug": "1-corinthians-11-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Doth not even nature itself teach you, that, if a man have long hair, it is a shame unto him?",
+      "churchId": "p14"
+    },
+    {
+      "slug": "1-corinthians-11-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "But if a woman have long hair, it is a glory to her: for <span class=\"clarity-word\">her</span> hair is given her for a covering.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "1-corinthians-11-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "But if any man seem to be contentious, we have no such custom, neither the churches of God.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "1-corinthians-11-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Now in this that I declare <span class=\"clarity-word\">unto you</span> I praise <span class=\"clarity-word\">you</span> not, that ye come together not for the better, but for the worse.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "1-corinthians-11-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "For first of all, when ye come together in the church, I hear that there be divisions among you; and I partly believe it.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "1-corinthians-11-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "For there must be also heresies among you, that they which are approved may be made manifest among you.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "1-corinthians-11-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "When ye come together therefore into one place, <span class=\"clarity-word\">this</span> is not to eat the Lord’s supper.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "1-corinthians-11-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "For in eating every one taketh before <span class=\"clarity-word\">other</span> his own supper: and one is hungry, and another is drunken.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "1-corinthians-11-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "What? have ye not houses to eat and to drink in? or despise ye the church of God, and shame them that have not? What shall I say to you? shall I praise you in this? I praise <span class=\"clarity-word\">you</span> not.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "1-corinthians-11-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "For I have received of the Lord that which also I delivered unto you, That the Lord Jesus the <span class=\"clarity-word\">same</span> night in which he was betrayed took bread:",
+      "churchId": "p23"
+    },
+    {
+      "slug": "1-corinthians-11-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And when he had given thanks, he brake <span class=\"clarity-word\">it,</span> and said, Take, eat: this is my body, which is broken for you: this do in remembrance of me.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "1-corinthians-11-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "After the same manner also <span class=\"clarity-word\">he took</span> the cup, when he had supped, saying, This cup is the new testament in my blood: this do ye, as oft as ye drink <span class=\"clarity-word\">it,</span> in remembrance of me.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "1-corinthians-11-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "For as often as ye eat this bread, and drink this cup, ye do shew the Lord’s death till he come.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "1-corinthians-11-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "Wherefore whosoever shall eat this bread, and drink <span class=\"clarity-word\">this</span> cup of the Lord, unworthily, shall be guilty of the body and blood of the Lord.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "1-corinthians-11-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "But let a man examine himself, and so let him eat of <span class=\"clarity-word\">that</span> bread, and drink of <span class=\"clarity-word\">that</span> cup.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "1-corinthians-11-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "For he that eateth and drinketh unworthily, eateth and drinketh damnation to himself, not discerning the Lord’s body.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "1-corinthians-11-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "For this cause many <span class=\"clarity-word\">are</span> weak and sickly among you, and many sleep.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "1-corinthians-11-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "For if we would judge ourselves, we should not be judged.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "1-corinthians-11-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "But when we are judged, we are chastened of the Lord, that we should not be condemned with the world.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "1-corinthians-11-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "Wherefore, my brethren, when ye come together to eat, tarry one for another.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "1-corinthians-11-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "And if any man hunger, let him eat at home; that ye come not together unto condemnation. And the rest will I set in order when I come.",
+      "churchId": "p34"
+    }
+  ]
+}

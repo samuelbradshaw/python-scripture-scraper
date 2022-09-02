@@ -1,0 +1,239 @@
+{
+  "name": "Genesis 10",
+  "abbrev": "Gen. 10",
+  "number": "10",
+  "churchUri": "/scriptures/ot/gen/10",
+  "paragraphs": [
+    {
+      "slug": "genesis-10-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 10",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "genesis-10-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Now these <span class=\"clarity-word\">are</span> the generations of the sons of Noah, Shem, Ham, and Japheth: and unto them were sons born after the flood.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "genesis-10-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "The sons of Japheth; Gomer, and Magog, and Madai, and Javan, and Tubal, and Meshech, and Tiras.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "genesis-10-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And the sons of Gomer; Ashkenaz, and Riphath, and Togarmah.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "genesis-10-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And the sons of Javan; Elishah, and Tarshish, Kittim, and Dodanim.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "genesis-10-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "By these were the isles of the Gentiles divided in their lands; every one after his tongue, after their families, in their nations.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "genesis-10-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "¶ And the sons of Ham; Cush, and Mizraim, and Phut, and Canaan.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "genesis-10-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And the sons of Cush; Seba, and Havilah, and Sabtah, and Raamah, and Sabtecha: and the sons of Raamah; Sheba, and Dedan.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "genesis-10-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And Cush begat Nimrod: he began to be a mighty one in the earth.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "genesis-10-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "He was a mighty hunter before the <span class=\"small-caps\">Lord</span>: wherefore it is said, Even as Nimrod the mighty hunter before the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "genesis-10-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And the beginning of his kingdom was Babel, and Erech, and Accad, and Calneh, in the land of Shinar.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "genesis-10-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Out of that land went forth Asshur, and builded Nineveh, and the city Rehoboth, and Calah,",
+      "churchId": "p11"
+    },
+    {
+      "slug": "genesis-10-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And Resen between Nineveh and Calah: the same <span class=\"clarity-word\">is</span> a great city.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "genesis-10-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And Mizraim begat Ludim, and Anamim, and Lehabim, and Naphtuhim,",
+      "churchId": "p13"
+    },
+    {
+      "slug": "genesis-10-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And Pathrusim, and Casluhim, (out of whom came Philistim,) and Caphtorim.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "genesis-10-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "¶ And Canaan begat Sidon his firstborn, and Heth,",
+      "churchId": "p15"
+    },
+    {
+      "slug": "genesis-10-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And the Jebusite, and the Amorite, and the Girgasite,",
+      "churchId": "p16"
+    },
+    {
+      "slug": "genesis-10-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And the Hivite, and the Arkite, and the Sinite,",
+      "churchId": "p17"
+    },
+    {
+      "slug": "genesis-10-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And the Arvadite, and the Zemarite, and the Hamathite: and afterward were the families of the Canaanites spread abroad.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "genesis-10-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And the border of the Canaanites was from Sidon, as thou comest to Gerar, unto Gaza; as thou goest, unto Sodom, and Gomorrah, and Admah, and Zeboim, even unto Lasha.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "genesis-10-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "These <span class=\"clarity-word\">are</span> the sons of Ham, after their families, after their tongues, in their countries, <span class=\"clarity-word\">and</span> in their nations.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "genesis-10-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "¶ Unto Shem also, the father of all the children of Eber, the brother of Japheth the elder, even to him were <span class=\"clarity-word\">children</span> born.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "genesis-10-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "The children of Shem; Elam, and Asshur, and Arphaxad, and Lud, and Aram.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "genesis-10-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And the children of Aram; Uz, and Hul, and Gether, and Mash.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "genesis-10-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And Arphaxad begat Salah; and Salah begat Eber.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "genesis-10-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And unto Eber were born two sons: the name of one <span class=\"clarity-word\">was</span> Peleg; for in his days was the earth divided; and his brother’s name <span class=\"clarity-word\">was</span> Joktan.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "genesis-10-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And Joktan begat Almodad, and Sheleph, and Hazarmaveth, and Jerah,",
+      "churchId": "p26"
+    },
+    {
+      "slug": "genesis-10-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And Hadoram, and Uzal, and Diklah,",
+      "churchId": "p27"
+    },
+    {
+      "slug": "genesis-10-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And Obal, and Abimael, and Sheba,",
+      "churchId": "p28"
+    },
+    {
+      "slug": "genesis-10-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "And Ophir, and Havilah, and Jobab: all these <span class=\"clarity-word\">were</span> the sons of Joktan.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "genesis-10-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And their dwelling was from Mesha, as thou goest unto Sephar a mount of the east.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "genesis-10-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "These <span class=\"clarity-word\">are</span> the sons of Shem, after their families, after their tongues, in their lands, after their nations.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "genesis-10-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "These <span class=\"clarity-word\">are</span> the families of the sons of Noah, after their generations, in their nations: and by these were the nations divided in the earth after the flood.",
+      "churchId": "p32"
+    }
+  ]
+}

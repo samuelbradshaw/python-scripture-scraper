@@ -1,0 +1,239 @@
+{
+  "name": "1 Corinthians 1",
+  "abbrev": "1 Cor. 1",
+  "number": "1",
+  "churchUri": "/scriptures/nt/1-cor/1",
+  "paragraphs": [
+    {
+      "slug": "1-corinthians-1-title1",
+      "type": "book-title",
+      "number": null,
+      "content": "<small>The First Epistle of </small><small>Paul the Apostle to the </small>Corinthians",
+      "churchId": "title1"
+    },
+    {
+      "slug": "1-corinthians-1-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 1",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "1-corinthians-1-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Paul, called <span class=\"clarity-word\">to be</span> an apostle of Jesus Christ through the will of God, and Sosthenes <span class=\"clarity-word\">our</span> brother,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "1-corinthians-1-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Unto the church of God which is at Corinth, to them that are sanctified in Christ Jesus, called <span class=\"clarity-word\">to be</span> saints, with all that in every place call upon the name of Jesus Christ our Lord, both theirs and ours:",
+      "churchId": "p2"
+    },
+    {
+      "slug": "1-corinthians-1-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Grace <span class=\"clarity-word\">be</span> unto you, and peace, from God our Father, and <span class=\"clarity-word\">from</span> the Lord Jesus Christ.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "1-corinthians-1-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "I thank my God always on your behalf, for the grace of God which is given you by Jesus Christ;",
+      "churchId": "p4"
+    },
+    {
+      "slug": "1-corinthians-1-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "That in every thing ye are enriched by him, in all utterance, and <span class=\"clarity-word\">in</span> all knowledge;",
+      "churchId": "p5"
+    },
+    {
+      "slug": "1-corinthians-1-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Even as the testimony of Christ was confirmed in you:",
+      "churchId": "p6"
+    },
+    {
+      "slug": "1-corinthians-1-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "So that ye come behind in no gift; waiting for the coming of our Lord Jesus Christ:",
+      "churchId": "p7"
+    },
+    {
+      "slug": "1-corinthians-1-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Who shall also confirm you unto the end, <span class=\"clarity-word\">that ye may be</span> blameless in the day of our Lord Jesus Christ.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "1-corinthians-1-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "God <span class=\"clarity-word\">is</span> faithful, by whom ye were called unto the fellowship of his Son Jesus Christ our Lord.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "1-corinthians-1-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Now I beseech you, brethren, by the name of our Lord Jesus Christ, that ye all speak the same thing, and <span class=\"clarity-word\">that</span> there be no divisions among you; but <span class=\"clarity-word\">that</span> ye be perfectly joined together in the same mind and in the same judgment.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "1-corinthians-1-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "For it hath been declared unto me of you, my brethren, by them <span class=\"clarity-word\">which are of the house</span> of Chloe, that there are contentions among you.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "1-corinthians-1-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Now this I say, that every one of you saith, I am of Paul; and I of Apollos; and I of Cephas; and I of Christ.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "1-corinthians-1-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Is Christ divided? was Paul crucified for you? or were ye baptized in the name of Paul?",
+      "churchId": "p13"
+    },
+    {
+      "slug": "1-corinthians-1-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "I thank God that I baptized none of you, but Crispus and Gaius;",
+      "churchId": "p14"
+    },
+    {
+      "slug": "1-corinthians-1-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Lest any should say that I had baptized in mine own name.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "1-corinthians-1-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And I baptized also the household of Stephanas: besides, I know not whether I baptized any other.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "1-corinthians-1-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "For Christ sent me not to baptize, but to preach the gospel: not with wisdom of words, lest the cross of Christ should be made of none effect.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "1-corinthians-1-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "For the preaching of the cross is to them that perish foolishness; but unto us which are saved it is the power of God.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "1-corinthians-1-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "For it is written, I will destroy the wisdom of the wise, and will bring to nothing the understanding of the prudent.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "1-corinthians-1-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Where <span class=\"clarity-word\">is</span> the wise? where <span class=\"clarity-word\">is</span> the scribe? where <span class=\"clarity-word\">is</span> the disputer of this world? hath not God made foolish the wisdom of this world?",
+      "churchId": "p20"
+    },
+    {
+      "slug": "1-corinthians-1-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "For after that in the wisdom of God the world by wisdom knew not God, it pleased God by the foolishness of preaching to save them that believe.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "1-corinthians-1-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "For the Jews require a sign, and the Greeks seek after wisdom:",
+      "churchId": "p22"
+    },
+    {
+      "slug": "1-corinthians-1-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "But we preach Christ crucified, unto the Jews a stumblingblock, and unto the Greeks foolishness;",
+      "churchId": "p23"
+    },
+    {
+      "slug": "1-corinthians-1-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "But unto them which are called, both Jews and Greeks, Christ the power of God, and the wisdom of God.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "1-corinthians-1-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Because the foolishness of God is wiser than men; and the weakness of God is stronger than men.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "1-corinthians-1-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "For ye see your calling, brethren, how that not many wise men after the flesh, not many mighty, not many noble, <span class=\"clarity-word\">are called:</span>",
+      "churchId": "p26"
+    },
+    {
+      "slug": "1-corinthians-1-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "But God hath chosen the foolish things of the world to confound the wise; and God hath chosen the weak things of the world to confound the things which are mighty;",
+      "churchId": "p27"
+    },
+    {
+      "slug": "1-corinthians-1-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And base things of the world, and things which are despised, hath God chosen, <span class=\"clarity-word\">yea,</span> and things which are not, to bring to nought things that are:",
+      "churchId": "p28"
+    },
+    {
+      "slug": "1-corinthians-1-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "That no flesh should glory in his presence.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "1-corinthians-1-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "But of him are ye in Christ Jesus, who of God is made unto us wisdom, and righteousness, and sanctification, and redemption:",
+      "churchId": "p30"
+    },
+    {
+      "slug": "1-corinthians-1-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "That, according as it is written, He that glorieth, let him glory in the Lord.",
+      "churchId": "p31"
+    }
+  ]
+}

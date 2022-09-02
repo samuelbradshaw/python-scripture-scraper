@@ -1,0 +1,176 @@
+{
+  "name": "Psalm 34",
+  "abbrev": "Psalm 34",
+  "number": "34",
+  "churchUri": "/scriptures/ot/ps/34",
+  "paragraphs": [
+    {
+      "slug": "psalm-34-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 34",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-34-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "<span class=\"clarity-word\">A Psalm</span> of David, when he changed his behaviour before Abimelech; who drove him away, and he departed.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-34-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "I will bless the <span class=\"small-caps\">Lord</span> at all times: his praise <span class=\"clarity-word\">shall</span> continually <span class=\"clarity-word\">be</span> in my mouth.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-34-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "My soul shall make her boast in the <span class=\"small-caps\">Lord</span>: the humble shall hear <span class=\"clarity-word\">thereof,</span> and be glad.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-34-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "O magnify the <span class=\"small-caps\">Lord</span> with me, and let us exalt his name together.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-34-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "I sought the <span class=\"small-caps\">Lord</span>, and he heard me, and delivered me from all my fears.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-34-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "They looked unto him, and were lightened: and their faces were not ashamed.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-34-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "This poor man cried, and the <span class=\"small-caps\">Lord</span> heard <span class=\"clarity-word\">him,</span> and saved him out of all his troubles.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-34-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "The angel of the <span class=\"small-caps\">Lord</span> encampeth round about them that fear him, and delivereth them.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-34-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "O taste and see that the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">is</span> good: blessed <span class=\"clarity-word\">is</span> the man <span class=\"clarity-word\">that</span> trusteth in him.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "psalm-34-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "O fear the <span class=\"small-caps\">Lord</span>, ye his saints: for <span class=\"clarity-word\">there is</span> no want to them that fear him.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "psalm-34-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "The young lions do lack, and suffer hunger: but they that seek the <span class=\"small-caps\">Lord</span> shall not want any good <span class=\"clarity-word\">thing.</span>",
+      "churchId": "p10"
+    },
+    {
+      "slug": "psalm-34-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Come, ye children, hearken unto me: I will teach you the fear of the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "psalm-34-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "What man <span class=\"clarity-word\">is he that</span> desireth life, <span class=\"clarity-word\">and</span> loveth <span class=\"clarity-word\">many</span> days, that he may see good?",
+      "churchId": "p12"
+    },
+    {
+      "slug": "psalm-34-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Keep thy tongue from evil, and thy lips from speaking guile.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "psalm-34-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Depart from evil, and do good; seek peace, and pursue it.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "psalm-34-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "The eyes of the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">are</span> upon the righteous, and his ears <span class=\"clarity-word\">are open</span> unto their cry.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "psalm-34-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "The face of the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">is</span> against them that do evil, to cut off the remembrance of them from the earth.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "psalm-34-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "<span class=\"clarity-word\">The righteous</span> cry, and the <span class=\"small-caps\">Lord</span> heareth, and delivereth them out of all their troubles.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "psalm-34-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "The <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">is</span> nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "psalm-34-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Many <span class=\"clarity-word\">are</span> the afflictions of the righteous: but the <span class=\"small-caps\">Lord</span> delivereth him out of them all.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "psalm-34-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "He keepeth all his bones: not one of them is broken.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "psalm-34-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Evil shall slay the wicked: and they that hate the righteous shall be desolate.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "psalm-34-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "The <span class=\"small-caps\">Lord</span> redeemeth the soul of his servants: and none of them that trust in him shall be desolate.",
+      "churchId": "p22"
+    }
+  ]
+}

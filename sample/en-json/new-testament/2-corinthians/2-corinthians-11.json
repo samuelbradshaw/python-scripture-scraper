@@ -1,0 +1,246 @@
+{
+  "name": "2 Corinthians 11",
+  "abbrev": "2 Cor. 11",
+  "number": "11",
+  "churchUri": "/scriptures/nt/2-cor/11",
+  "paragraphs": [
+    {
+      "slug": "2-corinthians-11-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 11",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "2-corinthians-11-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Would to God ye could bear with me a little in <span class=\"clarity-word\">my</span> folly: and indeed bear with me.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "2-corinthians-11-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "For I am jealous over you with godly jealousy: for I have espoused you to one husband, that I may present <span class=\"clarity-word\">you as</span> a chaste virgin to Christ.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "2-corinthians-11-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "But I fear, lest by any means, as the serpent beguiled Eve through his subtilty, so your minds should be corrupted from the simplicity that is in Christ.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "2-corinthians-11-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "For if he that cometh preacheth another Jesus, whom we have not preached, or <span class=\"clarity-word\">if</span> ye receive another spirit, which ye have not received, or another gospel, which ye have not accepted, ye might well bear with <span class=\"clarity-word\">him.</span>",
+      "churchId": "p4"
+    },
+    {
+      "slug": "2-corinthians-11-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "For I suppose I was not a whit behind the very chiefest apostles.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "2-corinthians-11-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "But though <span class=\"clarity-word\">I be</span> rude in speech, yet not in knowledge; but we have been throughly made manifest among you in all things.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "2-corinthians-11-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Have I committed an offence in abasing myself that ye might be exalted, because I have preached to you the gospel of God freely?",
+      "churchId": "p7"
+    },
+    {
+      "slug": "2-corinthians-11-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "I robbed other churches, taking wages <span class=\"clarity-word\">of them,</span> to do you service.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "2-corinthians-11-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And when I was present with you, and wanted, I was chargeable to no man: for that which was lacking to me the brethren which came from Macedonia supplied: and in all <span class=\"clarity-word\">things</span> I have kept myself from being burdensome unto you, and <span class=\"clarity-word\">so</span> will I keep <span class=\"clarity-word\">myself.</span>",
+      "churchId": "p9"
+    },
+    {
+      "slug": "2-corinthians-11-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "As the truth of Christ is in me, no man shall stop me of this boasting in the regions of Achaia.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "2-corinthians-11-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Wherefore? because I love you not? God knoweth.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "2-corinthians-11-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "But what I do, that I will do, that I may cut off occasion from them which desire occasion; that wherein they glory, they may be found even as we.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "2-corinthians-11-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "For such <span class=\"clarity-word\">are</span> false apostles, deceitful workers, transforming themselves into the apostles of Christ.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "2-corinthians-11-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And no marvel; for Satan himself is transformed into an angel of light.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "2-corinthians-11-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Therefore <span class=\"clarity-word\">it is</span> no great thing if his ministers also be transformed as the ministers of righteousness; whose end shall be according to their works.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "2-corinthians-11-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "I say again, Let no man think me a fool; if otherwise, yet as a fool receive me, that I may boast myself a little.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "2-corinthians-11-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "That which I speak, I speak <span class=\"clarity-word\">it</span> not after the Lord, but as it were foolishly, in this confidence of boasting.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "2-corinthians-11-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Seeing that many glory after the flesh, I will glory also.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "2-corinthians-11-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "For ye suffer fools gladly, seeing ye <span class=\"clarity-word\">yourselves</span> are wise.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "2-corinthians-11-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "For ye suffer, if a man bring you into bondage, if a man devour <span class=\"clarity-word\">you,</span> if a man take <span class=\"clarity-word\">of you,</span> if a man exalt himself, if a man smite you on the face.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "2-corinthians-11-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "I speak as concerning reproach, as though we had been weak. Howbeit whereinsoever any is bold, (I speak foolishly,) I am bold also.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "2-corinthians-11-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Are they Hebrews? so <span class=\"clarity-word\">am</span> I. Are they Israelites? so <span class=\"clarity-word\">am</span> I. Are they the seed of Abraham? so <span class=\"clarity-word\">am</span> I.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "2-corinthians-11-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Are they ministers of Christ? (I speak as a fool) I <span class=\"clarity-word\">am</span> more; in labours more abundant, in stripes above measure, in prisons more frequent, in deaths oft.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "2-corinthians-11-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Of the Jews five times received I forty <span class=\"clarity-word\">stripes</span> save one.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "2-corinthians-11-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Thrice was I beaten with rods, once was I stoned, thrice I suffered shipwreck, a night and a day I have been in the deep;",
+      "churchId": "p25"
+    },
+    {
+      "slug": "2-corinthians-11-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "<span class=\"clarity-word\">In</span> journeyings often, <span class=\"clarity-word\">in</span> perils of waters, <span class=\"clarity-word\">in</span> perils of robbers, <span class=\"clarity-word\">in</span> perils by <span class=\"clarity-word\">mine own</span> countrymen, <span class=\"clarity-word\">in</span> perils by the heathen, <span class=\"clarity-word\">in</span> perils in the city, <span class=\"clarity-word\">in</span> perils in the wilderness, <span class=\"clarity-word\">in</span> perils in the sea, <span class=\"clarity-word\">in</span> perils among false brethren;",
+      "churchId": "p26"
+    },
+    {
+      "slug": "2-corinthians-11-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "In weariness and painfulness, in watchings often, in hunger and thirst, in fastings often, in cold and nakedness.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "2-corinthians-11-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "Beside those things that are without, that which cometh upon me daily, the care of all the churches.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "2-corinthians-11-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "Who is weak, and I am not weak? who is offended, and I burn not?",
+      "churchId": "p29"
+    },
+    {
+      "slug": "2-corinthians-11-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "If I must needs glory, I will glory of the things which concern mine infirmities.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "2-corinthians-11-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "The God and Father of our Lord Jesus Christ, which is blessed for evermore, knoweth that I lie not.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "2-corinthians-11-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "In Damascus the governor under Aretas the king kept the city of the Damascenes with a garrison, desirous to apprehend me:",
+      "churchId": "p32"
+    },
+    {
+      "slug": "2-corinthians-11-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "And through a window in a basket was I let down by the wall, and escaped his hands.",
+      "churchId": "p33"
+    }
+  ]
+}

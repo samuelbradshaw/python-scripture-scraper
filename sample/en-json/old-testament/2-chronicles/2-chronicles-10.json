@@ -1,0 +1,148 @@
+{
+  "name": "2 Chronicles 10",
+  "abbrev": "2 Chr. 10",
+  "number": "10",
+  "churchUri": "/scriptures/ot/2-chr/10",
+  "paragraphs": [
+    {
+      "slug": "2-chronicles-10-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 10",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "2-chronicles-10-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And Rehoboam went to Shechem: for to Shechem were all Israel come to make him king.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "2-chronicles-10-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And it came to pass, when Jeroboam the son of Nebat, who <span class=\"clarity-word\">was</span> in Egypt, whither he had fled from the presence of Solomon the king, heard <span class=\"clarity-word\">it,</span> that Jeroboam returned out of Egypt.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "2-chronicles-10-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And they sent and called him. So Jeroboam and all Israel came and spake to Rehoboam, saying,",
+      "churchId": "p3"
+    },
+    {
+      "slug": "2-chronicles-10-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Thy father made our yoke grievous: now therefore ease thou somewhat the grievous servitude of thy father, and his heavy yoke that he put upon us, and we will serve thee.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "2-chronicles-10-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And he said unto them, Come again unto me after three days. And the people departed.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "2-chronicles-10-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "¶ And king Rehoboam took counsel with the old men that had stood before Solomon his father while he yet lived, saying, What counsel give ye <span class=\"clarity-word\">me</span> to return answer to this people?",
+      "churchId": "p6"
+    },
+    {
+      "slug": "2-chronicles-10-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And they spake unto him, saying, If thou be kind to this people, and please them, and speak good words to them, they will be thy servants for ever.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "2-chronicles-10-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "But he forsook the counsel which the old men gave him, and took counsel with the young men that were brought up with him, that stood before him.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "2-chronicles-10-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And he said unto them, What advice give ye that we may return answer to this people, which have spoken to me, saying, Ease somewhat the yoke that thy father did put upon us?",
+      "churchId": "p9"
+    },
+    {
+      "slug": "2-chronicles-10-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And the young men that were brought up with him spake unto him, saying, Thus shalt thou answer the people that spake unto thee, saying, Thy father made our yoke heavy, but make thou <span class=\"clarity-word\">it</span> somewhat lighter for us; thus shalt thou say unto them, My little <span class=\"clarity-word\">finger</span> shall be thicker than my father’s loins.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "2-chronicles-10-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "For whereas my father put a heavy yoke upon you, I will put more to your yoke: my father chastised you with whips, but I <span class=\"clarity-word\">will chastise you</span> with scorpions.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "2-chronicles-10-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "So Jeroboam and all the people came to Rehoboam on the third day, as the king bade, saying, Come again to me on the third day.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "2-chronicles-10-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And the king answered them roughly; and king Rehoboam forsook the counsel of the old men,",
+      "churchId": "p13"
+    },
+    {
+      "slug": "2-chronicles-10-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And answered them after the advice of the young men, saying, My father made your yoke heavy, but I will add thereto: my father chastised you with whips, but I <span class=\"clarity-word\">will chastise you</span> with scorpions.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "2-chronicles-10-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "So the king hearkened not unto the people: for the cause was of God, that the <span class=\"small-caps\">Lord</span> might perform his word, which he spake by the hand of Ahijah the Shilonite to Jeroboam the son of Nebat.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "2-chronicles-10-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "¶ And when all Israel <span class=\"clarity-word\">saw</span> that the king would not hearken unto them, the people answered the king, saying, What portion have we in David? and <span class=\"clarity-word\">we have</span> none inheritance in the son of Jesse: every man to your tents, O Israel: <span class=\"clarity-word\">and</span> now, David, see to thine own house. So all Israel went to their tents.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "2-chronicles-10-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "But <span class=\"clarity-word\">as for</span> the children of Israel that dwelt in the cities of Judah, Rehoboam reigned over them.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "2-chronicles-10-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Then king Rehoboam sent Hadoram that <span class=\"clarity-word\">was</span> over the tribute; and the children of Israel stoned him with stones, that he died. But king Rehoboam made speed to get him up to <span class=\"clarity-word\">his</span> chariot, to flee to Jerusalem.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "2-chronicles-10-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And Israel rebelled against the house of David unto this day.",
+      "churchId": "p19"
+    }
+  ]
+}

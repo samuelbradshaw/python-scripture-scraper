@@ -1,0 +1,197 @@
+{
+  "name": "James 2",
+  "abbrev": "James 2",
+  "number": "2",
+  "churchUri": "/scriptures/nt/james/2",
+  "paragraphs": [
+    {
+      "slug": "james-2-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 2",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "james-2-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "My brethren, have not the faith of our Lord Jesus Christ, <span class=\"clarity-word\">the Lord</span> of glory, with respect of persons.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "james-2-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "For if there come unto your assembly a man with a gold ring, in goodly apparel, and there come in also a poor man in vile raiment;",
+      "churchId": "p2"
+    },
+    {
+      "slug": "james-2-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And ye have respect to him that weareth the gay clothing, and say unto him, Sit thou here in a good place; and say to the poor, Stand thou there, or sit here under my footstool:",
+      "churchId": "p3"
+    },
+    {
+      "slug": "james-2-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Are ye not then partial in yourselves, and are become judges of evil thoughts?",
+      "churchId": "p4"
+    },
+    {
+      "slug": "james-2-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Hearken, my beloved brethren, Hath not God chosen the poor of this world rich in faith, and heirs of the kingdom which he hath promised to them that love him?",
+      "churchId": "p5"
+    },
+    {
+      "slug": "james-2-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "But ye have despised the poor. Do not rich men oppress you, and draw you before the judgment seats?",
+      "churchId": "p6"
+    },
+    {
+      "slug": "james-2-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Do not they blaspheme that worthy name by the which ye are called?",
+      "churchId": "p7"
+    },
+    {
+      "slug": "james-2-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "If ye fulfil the royal law according to the scripture, Thou shalt love thy neighbour as thyself, ye do well:",
+      "churchId": "p8"
+    },
+    {
+      "slug": "james-2-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "But if ye have respect to persons, ye commit sin, and are convinced of the law as transgressors.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "james-2-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "For whosoever shall keep the whole law, and yet offend in one <span class=\"clarity-word\">point,</span> he is guilty of all.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "james-2-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "For he that said, Do not commit adultery, said also, Do not kill. Now if thou commit no adultery, yet if thou kill, thou art become a transgressor of the law.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "james-2-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "So speak ye, and so do, as they that shall be judged by the law of liberty.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "james-2-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "For he shall have judgment without mercy, that hath shewed no mercy; and mercy rejoiceth against judgment.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "james-2-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "What <span class=\"clarity-word\">doth it</span> profit, my brethren, though a man say he hath faith, and have not works? can faith save him?",
+      "churchId": "p14"
+    },
+    {
+      "slug": "james-2-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "If a brother or sister be naked, and destitute of daily food,",
+      "churchId": "p15"
+    },
+    {
+      "slug": "james-2-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And one of you say unto them, Depart in peace, be <span class=\"clarity-word\">ye</span> warmed and filled; notwithstanding ye give them not those things which are needful to the body; what <span class=\"clarity-word\">doth it</span> profit?",
+      "churchId": "p16"
+    },
+    {
+      "slug": "james-2-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Even so faith, if it hath not works, is dead, being alone.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "james-2-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Yea, a man may say, Thou hast faith, and I have works: shew me thy faith without thy works, and I will shew thee my faith by my works.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "james-2-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Thou believest that there is one God; thou doest well: the devils also believe, and tremble.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "james-2-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "But wilt thou know, O vain man, that faith without works is dead?",
+      "churchId": "p20"
+    },
+    {
+      "slug": "james-2-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Was not Abraham our father justified by works, when he had offered Isaac his son upon the altar?",
+      "churchId": "p21"
+    },
+    {
+      "slug": "james-2-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Seest thou how faith wrought with his works, and by works was faith made perfect?",
+      "churchId": "p22"
+    },
+    {
+      "slug": "james-2-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And the scripture was fulfilled which saith, Abraham believed God, and it was imputed unto him for righteousness: and he was called the Friend of God.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "james-2-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Ye see then how that by works a man is justified, and not by faith only.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "james-2-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Likewise also was not Rahab the harlot justified by works, when she had received the messengers, and had sent <span class=\"clarity-word\">them</span> out another way?",
+      "churchId": "p25"
+    },
+    {
+      "slug": "james-2-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "For as the body without the spirit is dead, so faith without works is dead also.",
+      "churchId": "p26"
+    }
+  ]
+}

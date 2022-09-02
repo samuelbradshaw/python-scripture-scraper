@@ -1,0 +1,169 @@
+{
+  "name": "Proverbs 2",
+  "abbrev": "Prov. 2",
+  "number": "2",
+  "churchUri": "/scriptures/ot/prov/2",
+  "paragraphs": [
+    {
+      "slug": "proverbs-2-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 2",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "proverbs-2-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "My son, if thou wilt receive my words, and hide my commandments with thee;",
+      "churchId": "p1"
+    },
+    {
+      "slug": "proverbs-2-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "So that thou incline thine ear unto wisdom, <span class=\"clarity-word\">and</span> apply thine heart to understanding;",
+      "churchId": "p2"
+    },
+    {
+      "slug": "proverbs-2-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Yea, if thou criest after knowledge, <span class=\"clarity-word\">and</span> liftest up thy voice for understanding;",
+      "churchId": "p3"
+    },
+    {
+      "slug": "proverbs-2-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "If thou seekest her as silver, and searchest for her as <span class=\"clarity-word\">for</span> hid treasures;",
+      "churchId": "p4"
+    },
+    {
+      "slug": "proverbs-2-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Then shalt thou understand the fear of the <span class=\"small-caps\">Lord</span>, and find the knowledge of God.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "proverbs-2-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "For the <span class=\"small-caps\">Lord</span> giveth wisdom: out of his mouth <span class=\"clarity-word\">cometh</span> knowledge and understanding.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "proverbs-2-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "He layeth up sound wisdom for the righteous: <span class=\"clarity-word\">he is</span> a buckler to them that walk uprightly.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "proverbs-2-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "He keepeth the paths of judgment, and preserveth the way of his saints.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "proverbs-2-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Then shalt thou understand righteousness, and judgment, and equity; <span class=\"clarity-word\">yea,</span> every good path.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "proverbs-2-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "¶ When wisdom entereth into thine heart, and knowledge is pleasant unto thy soul;",
+      "churchId": "p10"
+    },
+    {
+      "slug": "proverbs-2-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Discretion shall preserve thee, understanding shall keep thee:",
+      "churchId": "p11"
+    },
+    {
+      "slug": "proverbs-2-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "To deliver thee from the way of the evil <span class=\"clarity-word\">man,</span> from the man that speaketh froward things;",
+      "churchId": "p12"
+    },
+    {
+      "slug": "proverbs-2-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Who leave the paths of uprightness, to walk in the ways of darkness;",
+      "churchId": "p13"
+    },
+    {
+      "slug": "proverbs-2-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Who rejoice to do evil, <span class=\"clarity-word\">and</span> delight in the frowardness of the wicked;",
+      "churchId": "p14"
+    },
+    {
+      "slug": "proverbs-2-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Whose ways <span class=\"clarity-word\">are</span> crooked, and <span class=\"clarity-word\">they</span> froward in their paths:",
+      "churchId": "p15"
+    },
+    {
+      "slug": "proverbs-2-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "To deliver thee from the strange woman, <span class=\"clarity-word\">even</span> from the stranger <span class=\"clarity-word\">which</span> flattereth with her words;",
+      "churchId": "p16"
+    },
+    {
+      "slug": "proverbs-2-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Which forsaketh the guide of her youth, and forgetteth the covenant of her God.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "proverbs-2-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "For her house inclineth unto death, and her paths unto the dead.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "proverbs-2-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "None that go unto her return again, neither take they hold of the paths of life.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "proverbs-2-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "That thou mayest walk in the way of good <span class=\"clarity-word\">men,</span> and keep the paths of the righteous.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "proverbs-2-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "For the upright shall dwell in the land, and the perfect shall remain in it.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "proverbs-2-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "But the wicked shall be cut off from the earth, and the transgressors shall be rooted out of it.",
+      "churchId": "p22"
+    }
+  ]
+}

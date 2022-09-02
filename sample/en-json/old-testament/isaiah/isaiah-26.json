@@ -1,0 +1,162 @@
+{
+  "name": "Isaiah 26",
+  "abbrev": "Isa. 26",
+  "number": "26",
+  "churchUri": "/scriptures/ot/isa/26",
+  "paragraphs": [
+    {
+      "slug": "isaiah-26-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 26",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "isaiah-26-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "In that day shall this song be sung in the land of Judah; We have a strong city; salvation will <span class=\"clarity-word\">God</span> appoint <span class=\"clarity-word\">for</span> walls and bulwarks.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "isaiah-26-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Open ye the gates, that the righteous nation which keepeth the truth may enter in.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "isaiah-26-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Thou wilt keep <span class=\"clarity-word\">him</span> in perfect peace, <span class=\"clarity-word\">whose</span> mind <span class=\"clarity-word\">is</span> stayed <span class=\"clarity-word\">on thee:</span> because he trusteth in thee.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "isaiah-26-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Trust ye in the <span class=\"small-caps\">Lord</span> for ever: for in the <span class=\"small-caps\">Lord</span> <span class=\"uppercase\">Jehovah</span> <span class=\"clarity-word\">is</span> everlasting strength:",
+      "churchId": "p4"
+    },
+    {
+      "slug": "isaiah-26-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "¶ For he bringeth down them that dwell on high; the lofty city, he layeth it low; he layeth it low, <span class=\"clarity-word\">even</span> to the ground; he bringeth it <span class=\"clarity-word\">even</span> to the dust.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "isaiah-26-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "The foot shall tread it down, <span class=\"clarity-word\">even</span> the feet of the poor, <span class=\"clarity-word\">and</span> the steps of the needy.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "isaiah-26-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "The way of the just <span class=\"clarity-word\">is</span> uprightness: thou, most upright, dost weigh the path of the just.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "isaiah-26-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Yea, in the way of thy judgments, O <span class=\"small-caps\">Lord</span>, have we waited for thee; the desire of <span class=\"clarity-word\">our</span> soul <span class=\"clarity-word\">is</span> to thy name, and to the remembrance of thee.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "isaiah-26-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "With my soul have I desired thee in the night; yea, with my spirit within me will I seek thee early: for when thy judgments <span class=\"clarity-word\">are</span> in the earth, the inhabitants of the world will learn righteousness.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "isaiah-26-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Let favour be shewed to the wicked, <span class=\"clarity-word\">yet</span> will he not learn righteousness: in the land of uprightness will he deal unjustly, and will not behold the majesty of the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "isaiah-26-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "<span class=\"small-caps\">Lord</span>, <span class=\"clarity-word\">when</span> thy hand is lifted up, they will not see: <span class=\"clarity-word\">but</span> they shall see, and be ashamed for <span class=\"clarity-word\">their</span> envy at the people; yea, the fire of thine enemies shall devour them.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "isaiah-26-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "¶ <span class=\"small-caps\">Lord</span>, thou wilt ordain peace for us: for thou also hast wrought all our works in us.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "isaiah-26-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "O <span class=\"small-caps\">Lord</span> our God, <span class=\"clarity-word\">other</span> lords beside thee have had dominion over us: <span class=\"clarity-word\">but</span> by thee only will we make mention of thy name.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "isaiah-26-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "<span class=\"clarity-word\">They are</span> dead, they shall not live; <span class=\"clarity-word\">they are</span> deceased, they shall not rise: therefore hast thou visited and destroyed them, and made all their memory to perish.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "isaiah-26-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Thou hast increased the nation, O <span class=\"small-caps\">Lord</span>, thou hast increased the nation: thou art glorified: thou hadst removed <span class=\"clarity-word\">it</span> far <span class=\"clarity-word\">unto</span> all the ends of the earth.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "isaiah-26-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "<span class=\"small-caps\">Lord</span>, in trouble have they visited thee, they poured out a prayer <span class=\"clarity-word\">when</span> thy chastening <span class=\"clarity-word\">was</span> upon them.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "isaiah-26-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Like as a woman with child, <span class=\"clarity-word\">that</span> draweth near the time of her delivery, is in pain, <span class=\"clarity-word\">and</span> crieth out in her pangs; so have we been in thy sight, O <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "isaiah-26-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "We have been with child, we have been in pain, we have as it were brought forth wind; we have not wrought any deliverance in the earth; neither have the inhabitants of the world fallen.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "isaiah-26-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Thy dead <span class=\"clarity-word\">men</span> shall live, <span class=\"clarity-word\">together with</span> my dead body shall they arise. Awake and sing, ye that dwell in dust: for thy dew <span class=\"clarity-word\">is as</span> the dew of herbs, and the earth shall cast out the dead.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "isaiah-26-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "¶ Come, my people, enter thou into thy chambers, and shut thy doors about thee: hide thyself as it were for a little moment, until the indignation be overpast.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "isaiah-26-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "For, behold, the <span class=\"small-caps\">Lord</span> cometh out of his place to punish the inhabitants of the earth for their iniquity: the earth also shall disclose her blood, and shall no more cover her slain.",
+      "churchId": "p21"
+    }
+  ]
+}

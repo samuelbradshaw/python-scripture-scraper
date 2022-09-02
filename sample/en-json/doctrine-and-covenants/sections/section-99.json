@@ -1,0 +1,71 @@
+{
+  "name": "Doctrine and Covenants 99",
+  "abbrev": "D&C 99",
+  "number": "99",
+  "churchUri": "/scriptures/dc-testament/dc/99",
+  "paragraphs": [
+    {
+      "slug": "section-99-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Section 99",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "section-99-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Behold, thus saith the Lord unto my servant John Murdock—thou art called to go into the eastern countries from house to house, from village to village, and from city to city, to proclaim mine everlasting gospel unto the inhabitants thereof, in the midst of persecution and wickedness.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "section-99-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And who receiveth you receiveth me; and you shall have power to declare my word in the demonstration of my Holy Spirit.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "section-99-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And who receiveth you as a little child, receiveth my kingdom; and blessed are they, for they shall obtain mercy.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "section-99-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And whoso rejecteth you shall be rejected of my Father and his house; and you shall cleanse your feet in the secret places by the way for a testimony against them.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "section-99-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And behold, and lo, I come quickly to judgment, to convince all of their ungodly deeds which they have committed against me, as it is written of me in the volume of the book.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "section-99-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And now, verily I say unto you, that it is not expedient that you should go until your children are provided for, and sent up kindly unto the bishop of Zion.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "section-99-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And after a few years, if thou desirest of me, thou mayest go up also unto the goodly land, to possess thine inheritance;",
+      "churchId": "p7"
+    },
+    {
+      "slug": "section-99-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Otherwise thou shalt continue proclaiming my gospel until thou be taken. Amen.",
+      "churchId": "p8"
+    }
+  ]
+}

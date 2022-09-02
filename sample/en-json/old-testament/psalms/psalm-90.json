@@ -1,0 +1,141 @@
+{
+  "name": "Psalm 90",
+  "abbrev": "Psalm 90",
+  "number": "90",
+  "churchUri": "/scriptures/ot/ps/90",
+  "paragraphs": [
+    {
+      "slug": "psalm-90-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 90",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-90-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "A Prayer of Moses the man of God.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-90-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "<span class=\"small-caps\">Lord</span>, thou hast been our dwelling place in all generations.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-90-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Before the mountains were brought forth, or ever thou hadst formed the earth and the world, even from everlasting to everlasting, thou <span class=\"clarity-word\">art</span> God.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-90-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Thou turnest man to destruction; and sayest, Return, ye children of men.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-90-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "For a thousand years in thy sight <span class=\"clarity-word\">are but</span> as yesterday when it is past, and <span class=\"clarity-word\">as</span> a watch in the night.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-90-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Thou carriest them away as with a flood; they are <span class=\"clarity-word\">as</span> a sleep: in the morning <span class=\"clarity-word\">they are</span> like grass <span class=\"clarity-word\">which</span> groweth up.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-90-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "In the morning it flourisheth, and groweth up; in the evening it is cut down, and withereth.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-90-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "For we are consumed by thine anger, and by thy wrath are we troubled.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-90-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Thou hast set our iniquities before thee, our secret <span class=\"clarity-word\">sins</span> in the light of thy countenance.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "psalm-90-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "For all our days are passed away in thy wrath: we spend our years as a tale <span class=\"clarity-word\">that is told.</span>",
+      "churchId": "p9"
+    },
+    {
+      "slug": "psalm-90-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "The days of our years <span class=\"clarity-word\">are</span> threescore years and ten; and if by reason of strength <span class=\"clarity-word\">they be</span> fourscore years, yet <span class=\"clarity-word\">is</span> their strength labour and sorrow; for it is soon cut off, and we fly away.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "psalm-90-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Who knoweth the power of thine anger? even according to thy fear, <span class=\"clarity-word\">so is</span> thy wrath.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "psalm-90-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "So teach <span class=\"clarity-word\">us</span> to number our days, that we may apply <span class=\"clarity-word\">our</span> hearts unto wisdom.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "psalm-90-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Return, O <span class=\"small-caps\">Lord</span>, how long? and let it repent thee concerning thy servants.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "psalm-90-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "O satisfy us early with thy mercy; that we may rejoice and be glad all our days.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "psalm-90-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Make us glad according to the days <span class=\"clarity-word\">wherein</span> thou hast afflicted us, <span class=\"clarity-word\">and</span> the years <span class=\"clarity-word\">wherein</span> we have seen evil.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "psalm-90-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Let thy work appear unto thy servants, and thy glory unto their children.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "psalm-90-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And let the beauty of the <span class=\"small-caps\">Lord</span> our God be upon us: and establish thou the work of our hands upon us; yea, the work of our hands establish thou it.",
+      "churchId": "p17"
+    }
+  ]
+}

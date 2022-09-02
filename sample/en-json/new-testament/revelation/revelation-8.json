@@ -1,0 +1,106 @@
+{
+  "name": "Revelation 8",
+  "abbrev": "Rev. 8",
+  "number": "8",
+  "churchUri": "/scriptures/nt/rev/8",
+  "paragraphs": [
+    {
+      "slug": "revelation-8-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 8",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "revelation-8-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And when he had opened the seventh seal, there was silence in heaven about the space of half an hour.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "revelation-8-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And I saw the seven angels which stood before God; and to them were given seven trumpets.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "revelation-8-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And another angel came and stood at the altar, having a golden censer; and there was given unto him much incense, that he should offer <span class=\"clarity-word\">it</span> with the prayers of all saints upon the golden altar which was before the throne.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "revelation-8-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And the smoke of the incense, <span class=\"clarity-word\">which came</span> with the prayers of the saints, ascended up before God out of the angel’s hand.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "revelation-8-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And the angel took the censer, and filled it with fire of the altar, and cast <span class=\"clarity-word\">it</span> into the earth: and there were voices, and thunderings, and lightnings, and an earthquake.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "revelation-8-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And the seven angels which had the seven trumpets prepared themselves to sound.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "revelation-8-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "The first angel sounded, and there followed hail and fire mingled with blood, and they were cast upon the earth: and the third part of trees was burnt up, and all green grass was burnt up.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "revelation-8-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And the second angel sounded, and as it were a great mountain burning with fire was cast into the sea: and the third part of the sea became blood;",
+      "churchId": "p8"
+    },
+    {
+      "slug": "revelation-8-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And the third part of the creatures which were in the sea, and had life, died; and the third part of the ships were destroyed.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "revelation-8-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And the third angel sounded, and there fell a great star from heaven, burning as it were a lamp, and it fell upon the third part of the rivers, and upon the fountains of waters;",
+      "churchId": "p10"
+    },
+    {
+      "slug": "revelation-8-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And the name of the star is called Wormwood: and the third part of the waters became wormwood; and many men died of the waters, because they were made bitter.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "revelation-8-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And the fourth angel sounded, and the third part of the sun was smitten, and the third part of the moon, and the third part of the stars; so as the third part of them was darkened, and the day shone not for a third part of it, and the night likewise.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "revelation-8-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And I beheld, and heard an angel flying through the midst of heaven, saying with a loud voice, Woe, woe, woe, to the inhabiters of the earth by reason of the other voices of the trumpet of the three angels, which are yet to sound!",
+      "churchId": "p13"
+    }
+  ]
+}

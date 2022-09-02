@@ -1,0 +1,218 @@
+{
+  "name": "1 Kings 10",
+  "abbrev": "1 Kgs. 10",
+  "number": "10",
+  "churchUri": "/scriptures/ot/1-kgs/10",
+  "paragraphs": [
+    {
+      "slug": "1-kings-10-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 10",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "1-kings-10-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And when the queen of Sheba heard of the fame of Solomon concerning the name of the <span class=\"small-caps\">Lord</span>, she came to prove him with hard questions.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "1-kings-10-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And she came to Jerusalem with a very great train, with camels that bare spices, and very much gold, and precious stones: and when she was come to Solomon, she communed with him of all that was in her heart.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "1-kings-10-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And Solomon told her all her questions: there was not <span class=\"clarity-word\">any</span> thing hid from the king, which he told her not.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "1-kings-10-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And when the queen of Sheba had seen all Solomon’s wisdom, and the house that he had built,",
+      "churchId": "p4"
+    },
+    {
+      "slug": "1-kings-10-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And the meat of his table, and the sitting of his servants, and the attendance of his ministers, and their apparel, and his cupbearers, and his ascent by which he went up unto the house of the <span class=\"small-caps\">Lord</span>; there was no more spirit in her.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "1-kings-10-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And she said to the king, It was a true report that I heard in mine own land of thy acts and of thy wisdom.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "1-kings-10-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Howbeit I believed not the words, until I came, and mine eyes had seen <span class=\"clarity-word\">it:</span> and, behold, the half was not told me: thy wisdom and prosperity exceedeth the fame which I heard.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "1-kings-10-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Happy <span class=\"clarity-word\">are</span> thy men, happy <span class=\"clarity-word\">are</span> these thy servants, which stand continually before thee, <span class=\"clarity-word\">and</span> that hear thy wisdom.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "1-kings-10-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Blessed be the <span class=\"small-caps\">Lord</span> thy God, which delighted in thee, to set thee on the throne of Israel: because the <span class=\"small-caps\">Lord</span> loved Israel for ever, therefore made he thee king, to do judgment and justice.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "1-kings-10-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And she gave the king an hundred and twenty talents of gold, and of spices very great store, and precious stones: there came no more such abundance of spices as these which the queen of Sheba gave to king Solomon.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "1-kings-10-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And the navy also of Hiram, that brought gold from Ophir, brought in from Ophir great plenty of almug trees, and precious stones.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "1-kings-10-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And the king made of the almug trees pillars for the house of the <span class=\"small-caps\">Lord</span>, and for the king’s house, harps also and psalteries for singers: there came no such almug trees, nor were seen unto this day.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "1-kings-10-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And king Solomon gave unto the queen of Sheba all her desire, whatsoever she asked, beside <span class=\"clarity-word\">that</span> which Solomon gave her of his royal bounty. So she turned and went to her own country, she and her servants.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "1-kings-10-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "¶ Now the weight of gold that came to Solomon in one year was six hundred threescore and six talents of gold,",
+      "churchId": "p14"
+    },
+    {
+      "slug": "1-kings-10-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Beside <span class=\"clarity-word\">that he had</span> of the merchantmen, and of the traffick of the spice merchants, and of all the kings of Arabia, and of the governors of the country.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "1-kings-10-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "¶ And king Solomon made two hundred targets <span class=\"clarity-word\">of</span> beaten gold: six hundred <span class=\"clarity-word\">shekels</span> of gold went to one target.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "1-kings-10-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And <span class=\"clarity-word\">he made</span> three hundred shields <span class=\"clarity-word\">of</span> beaten gold; three pound of gold went to one shield: and the king put them in the house of the forest of Lebanon.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "1-kings-10-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "¶ Moreover the king made a great throne of ivory, and overlaid it with the best gold.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "1-kings-10-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "The throne had six steps, and the top of the throne <span class=\"clarity-word\">was</span> round behind: and <span class=\"clarity-word\">there were</span> stays on either side on the place of the seat, and two lions stood beside the stays.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "1-kings-10-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And twelve lions stood there on the one side and on the other upon the six steps: there was not the like made in any kingdom.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "1-kings-10-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "¶ And all king Solomon’s drinking vessels <span class=\"clarity-word\">were of</span> gold, and all the vessels of the house of the forest of Lebanon <span class=\"clarity-word\">were of</span> pure gold; none <span class=\"clarity-word\">were of</span> silver: it was nothing accounted of in the days of Solomon.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "1-kings-10-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "For the king had at sea a navy of Tharshish with the navy of Hiram: once in three years came the navy of Tharshish, bringing gold, and silver, ivory, and apes, and peacocks.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "1-kings-10-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "So king Solomon exceeded all the kings of the earth for riches and for wisdom.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "1-kings-10-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "¶ And all the earth sought to Solomon, to hear his wisdom, which God had put in his heart.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "1-kings-10-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And they brought every man his present, vessels of silver, and vessels of gold, and garments, and armour, and spices, horses, and mules, a rate year by year.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "1-kings-10-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "¶ And Solomon gathered together chariots and horsemen: and he had a thousand and four hundred chariots, and twelve thousand horsemen, whom he bestowed in the cities for chariots, and with the king at Jerusalem.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "1-kings-10-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And the king made silver <span class=\"clarity-word\">to be</span> in Jerusalem as stones, and cedars made he <span class=\"clarity-word\">to be</span> as the sycomore trees that <span class=\"clarity-word\">are</span> in the vale, for abundance.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "1-kings-10-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "¶ And Solomon had horses brought out of Egypt, and linen yarn: the king’s merchants received the linen yarn at a price.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "1-kings-10-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "And a chariot came up and went out of Egypt for six hundred <span class=\"clarity-word\">shekels</span> of silver, and an horse for an hundred and fifty: and so for all the kings of the Hittites, and for the kings of Syria, did they bring <span class=\"clarity-word\">them</span> out by their means.",
+      "churchId": "p29"
+    }
+  ]
+}

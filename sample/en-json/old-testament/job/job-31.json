@@ -1,0 +1,295 @@
+{
+  "name": "Job 31",
+  "abbrev": "Job 31",
+  "number": "31",
+  "churchUri": "/scriptures/ot/job/31",
+  "paragraphs": [
+    {
+      "slug": "job-31-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 31",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "job-31-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "I made a covenant with mine eyes; why then should I think upon a maid?",
+      "churchId": "p1"
+    },
+    {
+      "slug": "job-31-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "For what portion of God <span class=\"clarity-word\">is there</span> from above? and <span class=\"clarity-word\">what</span> inheritance of the Almighty from on high?",
+      "churchId": "p2"
+    },
+    {
+      "slug": "job-31-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "<span class=\"clarity-word\">Is</span> not destruction to the wicked? and a strange <span class=\"clarity-word\">punishment</span> to the workers of iniquity?",
+      "churchId": "p3"
+    },
+    {
+      "slug": "job-31-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Doth not he see my ways, and count all my steps?",
+      "churchId": "p4"
+    },
+    {
+      "slug": "job-31-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "If I have walked with vanity, or if my foot hath hasted to deceit;",
+      "churchId": "p5"
+    },
+    {
+      "slug": "job-31-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Let me be weighed in an even balance, that God may know mine integrity.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "job-31-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "If my step hath turned out of the way, and mine heart walked after mine eyes, and if any blot hath cleaved to mine hands;",
+      "churchId": "p7"
+    },
+    {
+      "slug": "job-31-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "<span class=\"clarity-word\">Then</span> let me sow, and let another eat; yea, let my offspring be rooted out.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "job-31-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "If mine heart have been deceived by a woman, or <span class=\"clarity-word\">if</span> I have laid wait at my neighbour’s door;",
+      "churchId": "p9"
+    },
+    {
+      "slug": "job-31-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "<span class=\"clarity-word\">Then</span> let my wife grind unto another, and let others bow down upon her.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "job-31-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "For this <span class=\"clarity-word\">is</span> an heinous crime; yea, it <span class=\"clarity-word\">is</span> an iniquity <span class=\"clarity-word\">to be punished by</span> the judges.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "job-31-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "For it <span class=\"clarity-word\">is</span> a fire <span class=\"clarity-word\">that</span> consumeth to destruction, and would root out all mine increase.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "job-31-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "If I did despise the cause of my manservant or of my maidservant, when they contended with me;",
+      "churchId": "p13"
+    },
+    {
+      "slug": "job-31-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "What then shall I do when God riseth up? and when he visiteth, what shall I answer him?",
+      "churchId": "p14"
+    },
+    {
+      "slug": "job-31-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Did not he that made me in the womb make him? and did not one fashion us in the womb?",
+      "churchId": "p15"
+    },
+    {
+      "slug": "job-31-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "If I have withheld the poor from <span class=\"clarity-word\">their</span> desire, or have caused the eyes of the widow to fail;",
+      "churchId": "p16"
+    },
+    {
+      "slug": "job-31-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Or have eaten my morsel myself alone, and the fatherless hath not eaten thereof;",
+      "churchId": "p17"
+    },
+    {
+      "slug": "job-31-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "(For from my youth he was brought up with me, as <span class=\"clarity-word\">with</span> a father, and I have guided her from my mother’s womb;)",
+      "churchId": "p18"
+    },
+    {
+      "slug": "job-31-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "If I have seen any perish for want of clothing, or any poor without covering;",
+      "churchId": "p19"
+    },
+    {
+      "slug": "job-31-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "If his loins have not blessed me, and <span class=\"clarity-word\">if</span> he were <span class=\"clarity-word\">not</span> warmed with the fleece of my sheep;",
+      "churchId": "p20"
+    },
+    {
+      "slug": "job-31-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "If I have lifted up my hand against the fatherless, when I saw my help in the gate:",
+      "churchId": "p21"
+    },
+    {
+      "slug": "job-31-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "<span class=\"clarity-word\">Then</span> let mine arm fall from my shoulder blade, and mine arm be broken from the bone.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "job-31-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "For destruction <span class=\"clarity-word\">from</span> God <span class=\"clarity-word\">was</span> a terror to me, and by reason of his highness I could not endure.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "job-31-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "If I have made gold my hope, or have said to the fine gold, <span class=\"clarity-word\">Thou art</span> my confidence;",
+      "churchId": "p24"
+    },
+    {
+      "slug": "job-31-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "If I rejoiced because my wealth <span class=\"clarity-word\">was</span> great, and because mine hand had gotten much;",
+      "churchId": "p25"
+    },
+    {
+      "slug": "job-31-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "If I beheld the sun when it shined, or the moon walking <span class=\"clarity-word\">in</span> brightness;",
+      "churchId": "p26"
+    },
+    {
+      "slug": "job-31-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And my heart hath been secretly enticed, or my mouth hath kissed my hand:",
+      "churchId": "p27"
+    },
+    {
+      "slug": "job-31-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "This also <span class=\"clarity-word\">were</span> an iniquity <span class=\"clarity-word\">to be punished by</span> the judge: for I should have denied the God <span class=\"clarity-word\">that is</span> above.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "job-31-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "If I rejoiced at the destruction of him that hated me, or lifted up myself when evil found him:",
+      "churchId": "p29"
+    },
+    {
+      "slug": "job-31-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "Neither have I suffered my mouth to sin by wishing a curse to his soul.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "job-31-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "If the men of my tabernacle said not, Oh that we had of his flesh! we cannot be satisfied.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "job-31-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "The stranger did not lodge in the street: <span class=\"clarity-word\">but</span> I opened my doors to the traveller.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "job-31-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "If I covered my transgressions as Adam, by hiding mine iniquity in my bosom:",
+      "churchId": "p33"
+    },
+    {
+      "slug": "job-31-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "Did I fear a great multitude, or did the contempt of families terrify me, that I kept silence, <span class=\"clarity-word\">and</span> went not out of the door?",
+      "churchId": "p34"
+    },
+    {
+      "slug": "job-31-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "Oh that one would hear me! behold, my desire <span class=\"clarity-word\">is, that</span> the Almighty would answer me, and <span class=\"clarity-word\">that</span> mine adversary had written a book.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "job-31-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "Surely I would take it upon my shoulder, <span class=\"clarity-word\">and</span> bind it <span class=\"clarity-word\">as</span> a crown to me.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "job-31-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "I would declare unto him the number of my steps; as a prince would I go near unto him.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "job-31-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "If my land cry against me, or that the furrows likewise thereof complain;",
+      "churchId": "p38"
+    },
+    {
+      "slug": "job-31-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "If I have eaten the fruits thereof without money, or have caused the owners thereof to lose their life:",
+      "churchId": "p39"
+    },
+    {
+      "slug": "job-31-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "Let thistles grow instead of wheat, and cockle instead of barley. The words of Job are ended.",
+      "churchId": "p40"
+    }
+  ]
+}

@@ -1,0 +1,512 @@
+{
+  "name": "Luke 22",
+  "abbrev": "Luke 22",
+  "number": "22",
+  "churchUri": "/scriptures/nt/luke/22",
+  "paragraphs": [
+    {
+      "slug": "luke-22-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 22",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "luke-22-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Now the feast of unleavened bread drew nigh, which is called the Passover.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "luke-22-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And the chief priests and scribes sought how they might kill him; for they feared the people.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "luke-22-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "¶ Then entered Satan into Judas surnamed Iscariot, being of the number of the twelve.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "luke-22-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And he went his way, and communed with the chief priests and captains, how he might betray him unto them.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "luke-22-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And they were glad, and covenanted to give him money.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "luke-22-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And he promised, and sought opportunity to betray him unto them in the absence of the multitude.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "luke-22-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "¶ Then came the day of unleavened bread, when the passover must be killed.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "luke-22-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And he sent Peter and John, saying, Go and prepare us the passover, that we may eat.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "luke-22-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And they said unto him, Where wilt thou that we prepare?",
+      "churchId": "p9"
+    },
+    {
+      "slug": "luke-22-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And he said unto them, Behold, when ye are entered into the city, there shall a man meet you, bearing a pitcher of water; follow him into the house where he entereth in.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "luke-22-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And ye shall say unto the goodman of the house, The Master saith unto thee, Where is the guestchamber, where I shall eat the passover with my disciples?",
+      "churchId": "p11"
+    },
+    {
+      "slug": "luke-22-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And he shall shew you a large upper room furnished: there make ready.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "luke-22-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And they went, and found as he had said unto them: and they made ready the passover.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "luke-22-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And when the hour was come, he sat down, and the twelve apostles with him.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "luke-22-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And he said unto them, With desire I have desired to eat this passover with you before I suffer:",
+      "churchId": "p15"
+    },
+    {
+      "slug": "luke-22-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "For I say unto you, I will not any more eat thereof, until it be fulfilled in the kingdom of God.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "luke-22-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And he took the cup, and gave thanks, and said, Take this, and divide <span class=\"clarity-word\">it</span> among yourselves:",
+      "churchId": "p17"
+    },
+    {
+      "slug": "luke-22-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "For I say unto you, I will not drink of the fruit of the vine, until the kingdom of God shall come.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "luke-22-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "¶ And he took bread, and gave thanks, and brake <span class=\"clarity-word\">it,</span> and gave unto them, saying, This is my body which is given for you: this do in remembrance of me.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "luke-22-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Likewise also the cup after supper, saying, This cup <span class=\"clarity-word\">is</span> the new testament in my blood, which is shed for you.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "luke-22-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "¶ But, behold, the hand of him that betrayeth me <span class=\"clarity-word\">is</span> with me on the table.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "luke-22-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And truly the Son of man goeth, as it was determined: but woe unto that man by whom he is betrayed!",
+      "churchId": "p22"
+    },
+    {
+      "slug": "luke-22-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And they began to inquire among themselves, which of them it was that should do this thing.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "luke-22-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "¶ And there was also a strife among them, which of them should be accounted the greatest.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "luke-22-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And he said unto them, The kings of the Gentiles exercise lordship over them; and they that exercise authority upon them are called benefactors.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "luke-22-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "But ye <span class=\"clarity-word\">shall</span> not <span class=\"clarity-word\">be</span> so: but he that is greatest among you, let him be as the younger; and he that is chief, as he that doth serve.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "luke-22-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "For whether <span class=\"clarity-word\">is</span> greater, he that sitteth at meat, or he that serveth? <span class=\"clarity-word\">is</span> not he that sitteth at meat? but I am among you as he that serveth.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "luke-22-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "Ye are they which have continued with me in my temptations.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "luke-22-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "And I appoint unto you a kingdom, as my Father hath appointed unto me;",
+      "churchId": "p29"
+    },
+    {
+      "slug": "luke-22-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "That ye may eat and drink at my table in my kingdom, and sit on thrones judging the twelve tribes of Israel.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "luke-22-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "¶ And the Lord said, Simon, Simon, behold, Satan hath desired <span class=\"clarity-word\">to have</span> you, that he may sift <span class=\"clarity-word\">you</span> as wheat:",
+      "churchId": "p31"
+    },
+    {
+      "slug": "luke-22-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "But I have prayed for thee, that thy faith fail not: and when thou art converted, strengthen thy brethren.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "luke-22-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "And he said unto him, Lord, I am ready to go with thee, both into prison, and to death.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "luke-22-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "And he said, I tell thee, Peter, the cock shall not crow this day, before that thou shalt thrice deny that thou knowest me.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "luke-22-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "And he said unto them, When I sent you without purse, and scrip, and shoes, lacked ye any thing? And they said, Nothing.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "luke-22-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "Then said he unto them, But now, he that hath a purse, let him take <span class=\"clarity-word\">it,</span> and likewise <span class=\"clarity-word\">his</span> scrip: and he that hath no sword, let him sell his garment, and buy one.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "luke-22-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "For I say unto you, that this that is written must yet be accomplished in me, And he was reckoned among the transgressors: for the things concerning me have an end.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "luke-22-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "And they said, Lord, behold, here <span class=\"clarity-word\">are</span> two swords. And he said unto them, It is enough.",
+      "churchId": "p38"
+    },
+    {
+      "slug": "luke-22-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "¶ And he came out, and went, as he was wont, to the mount of Olives; and his disciples also followed him.",
+      "churchId": "p39"
+    },
+    {
+      "slug": "luke-22-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "And when he was at the place, he said unto them, Pray that ye enter not into temptation.",
+      "churchId": "p40"
+    },
+    {
+      "slug": "luke-22-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "And he was withdrawn from them about a stone’s cast, and kneeled down, and prayed,",
+      "churchId": "p41"
+    },
+    {
+      "slug": "luke-22-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "Saying, Father, if thou be willing, remove this cup from me: nevertheless not my will, but thine, be done.",
+      "churchId": "p42"
+    },
+    {
+      "slug": "luke-22-p43",
+      "type": "verse",
+      "number": "43",
+      "content": "And there appeared an angel unto him from heaven, strengthening him.",
+      "churchId": "p43"
+    },
+    {
+      "slug": "luke-22-p44",
+      "type": "verse",
+      "number": "44",
+      "content": "And being in an agony he prayed more earnestly: and his sweat was as it were great drops of blood falling down to the ground.",
+      "churchId": "p44"
+    },
+    {
+      "slug": "luke-22-p45",
+      "type": "verse",
+      "number": "45",
+      "content": "And when he rose up from prayer, and was come to his disciples, he found them sleeping for sorrow,",
+      "churchId": "p45"
+    },
+    {
+      "slug": "luke-22-p46",
+      "type": "verse",
+      "number": "46",
+      "content": "And said unto them, Why sleep ye? rise and pray, lest ye enter into temptation.",
+      "churchId": "p46"
+    },
+    {
+      "slug": "luke-22-p47",
+      "type": "verse",
+      "number": "47",
+      "content": "¶ And while he yet spake, behold a multitude, and he that was called Judas, one of the twelve, went before them, and drew near unto Jesus to kiss him.",
+      "churchId": "p47"
+    },
+    {
+      "slug": "luke-22-p48",
+      "type": "verse",
+      "number": "48",
+      "content": "But Jesus said unto him, Judas, betrayest thou the Son of man with a kiss?",
+      "churchId": "p48"
+    },
+    {
+      "slug": "luke-22-p49",
+      "type": "verse",
+      "number": "49",
+      "content": "When they which were about him saw what would follow, they said unto him, Lord, shall we smite with the sword?",
+      "churchId": "p49"
+    },
+    {
+      "slug": "luke-22-p50",
+      "type": "verse",
+      "number": "50",
+      "content": "¶ And one of them smote the servant of the high priest, and cut off his right ear.",
+      "churchId": "p50"
+    },
+    {
+      "slug": "luke-22-p51",
+      "type": "verse",
+      "number": "51",
+      "content": "And Jesus answered and said, Suffer ye thus far. And he touched his ear, and healed him.",
+      "churchId": "p51"
+    },
+    {
+      "slug": "luke-22-p52",
+      "type": "verse",
+      "number": "52",
+      "content": "Then Jesus said unto the chief priests, and captains of the temple, and the elders, which were come to him, Be ye come out, as against a thief, with swords and staves?",
+      "churchId": "p52"
+    },
+    {
+      "slug": "luke-22-p53",
+      "type": "verse",
+      "number": "53",
+      "content": "When I was daily with you in the temple, ye stretched forth no hands against me: but this is your hour, and the power of darkness.",
+      "churchId": "p53"
+    },
+    {
+      "slug": "luke-22-p54",
+      "type": "verse",
+      "number": "54",
+      "content": "¶ Then took they him, and led <span class=\"clarity-word\">him,</span> and brought him into the high priest’s house. And Peter followed afar off.",
+      "churchId": "p54"
+    },
+    {
+      "slug": "luke-22-p55",
+      "type": "verse",
+      "number": "55",
+      "content": "And when they had kindled a fire in the midst of the hall, and were set down together, Peter sat down among them.",
+      "churchId": "p55"
+    },
+    {
+      "slug": "luke-22-p56",
+      "type": "verse",
+      "number": "56",
+      "content": "But a certain maid beheld him as he sat by the fire, and earnestly looked upon him, and said, This man was also with him.",
+      "churchId": "p56"
+    },
+    {
+      "slug": "luke-22-p57",
+      "type": "verse",
+      "number": "57",
+      "content": "And he denied him, saying, Woman, I know him not.",
+      "churchId": "p57"
+    },
+    {
+      "slug": "luke-22-p58",
+      "type": "verse",
+      "number": "58",
+      "content": "And after a little while another saw him, and said, Thou art also of them. And Peter said, Man, I am not.",
+      "churchId": "p58"
+    },
+    {
+      "slug": "luke-22-p59",
+      "type": "verse",
+      "number": "59",
+      "content": "And about the space of one hour after another confidently affirmed, saying, Of a truth this <span class=\"clarity-word\">fellow</span> also was with him: for he is a Galilæan.",
+      "churchId": "p59"
+    },
+    {
+      "slug": "luke-22-p60",
+      "type": "verse",
+      "number": "60",
+      "content": "And Peter said, Man, I know not what thou sayest. And immediately, while he yet spake, the cock crew.",
+      "churchId": "p60"
+    },
+    {
+      "slug": "luke-22-p61",
+      "type": "verse",
+      "number": "61",
+      "content": "And the Lord turned, and looked upon Peter. And Peter remembered the word of the Lord, how he had said unto him, Before the cock crow, thou shalt deny me thrice.",
+      "churchId": "p61"
+    },
+    {
+      "slug": "luke-22-p62",
+      "type": "verse",
+      "number": "62",
+      "content": "And Peter went out, and wept bitterly.",
+      "churchId": "p62"
+    },
+    {
+      "slug": "luke-22-p63",
+      "type": "verse",
+      "number": "63",
+      "content": "¶ And the men that held Jesus mocked him, and smote <span class=\"clarity-word\">him.</span>",
+      "churchId": "p63"
+    },
+    {
+      "slug": "luke-22-p64",
+      "type": "verse",
+      "number": "64",
+      "content": "And when they had blindfolded him, they struck him on the face, and asked him, saying, Prophesy, who is it that smote thee?",
+      "churchId": "p64"
+    },
+    {
+      "slug": "luke-22-p65",
+      "type": "verse",
+      "number": "65",
+      "content": "And many other things blasphemously spake they against him.",
+      "churchId": "p65"
+    },
+    {
+      "slug": "luke-22-p66",
+      "type": "verse",
+      "number": "66",
+      "content": "¶ And as soon as it was day, the elders of the people and the chief priests and the scribes came together, and led him into their council, saying,",
+      "churchId": "p66"
+    },
+    {
+      "slug": "luke-22-p67",
+      "type": "verse",
+      "number": "67",
+      "content": "Art thou the Christ? tell us. And he said unto them, If I tell you, ye will not believe:",
+      "churchId": "p67"
+    },
+    {
+      "slug": "luke-22-p68",
+      "type": "verse",
+      "number": "68",
+      "content": "And if I also ask <span class=\"clarity-word\">you,</span> ye will not answer me, nor let <span class=\"clarity-word\">me</span> go.",
+      "churchId": "p68"
+    },
+    {
+      "slug": "luke-22-p69",
+      "type": "verse",
+      "number": "69",
+      "content": "Hereafter shall the Son of man sit on the right hand of the power of God.",
+      "churchId": "p69"
+    },
+    {
+      "slug": "luke-22-p70",
+      "type": "verse",
+      "number": "70",
+      "content": "Then said they all, Art thou then the Son of God? And he said unto them, Ye say that I am.",
+      "churchId": "p70"
+    },
+    {
+      "slug": "luke-22-p71",
+      "type": "verse",
+      "number": "71",
+      "content": "And they said, What need we any further witness? for we ourselves have heard of his own mouth.",
+      "churchId": "p71"
+    }
+  ]
+}

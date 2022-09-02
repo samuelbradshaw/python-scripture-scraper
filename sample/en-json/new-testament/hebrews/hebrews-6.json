@@ -1,0 +1,155 @@
+{
+  "name": "Hebrews 6",
+  "abbrev": "Heb. 6",
+  "number": "6",
+  "churchUri": "/scriptures/nt/heb/6",
+  "paragraphs": [
+    {
+      "slug": "hebrews-6-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 6",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "hebrews-6-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Therefore leaving the principles of the doctrine of Christ, let us go on unto perfection; not laying again the foundation of repentance from dead works, and of faith toward God,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "hebrews-6-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Of the doctrine of baptisms, and of laying on of hands, and of resurrection of the dead, and of eternal judgment.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "hebrews-6-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And this will we do, if God permit.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "hebrews-6-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "For <span class=\"clarity-word\">it is</span> impossible for those who were once enlightened, and have tasted of the heavenly gift, and were made partakers of the Holy Ghost,",
+      "churchId": "p4"
+    },
+    {
+      "slug": "hebrews-6-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And have tasted the good word of God, and the powers of the world to come,",
+      "churchId": "p5"
+    },
+    {
+      "slug": "hebrews-6-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "If they shall fall away, to renew them again unto repentance; seeing they crucify to themselves the Son of God afresh, and put <span class=\"clarity-word\">him</span> to an open shame.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "hebrews-6-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "For the earth which drinketh in the rain that cometh oft upon it, and bringeth forth herbs meet for them by whom it is dressed, receiveth blessing from God:",
+      "churchId": "p7"
+    },
+    {
+      "slug": "hebrews-6-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "But that which beareth thorns and briers <span class=\"clarity-word\">is</span> rejected, and <span class=\"clarity-word\">is</span> nigh unto cursing; whose end <span class=\"clarity-word\">is</span> to be burned.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "hebrews-6-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "But, beloved, we are persuaded better things of you, and things that accompany salvation, though we thus speak.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "hebrews-6-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "For God <span class=\"clarity-word\">is</span> not unrighteous to forget your work and labour of love, which ye have shewed toward his name, in that ye have ministered to the saints, and do minister.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "hebrews-6-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And we desire that every one of you do shew the same diligence to the full assurance of hope unto the end:",
+      "churchId": "p11"
+    },
+    {
+      "slug": "hebrews-6-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "That ye be not slothful, but followers of them who through faith and patience inherit the promises.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "hebrews-6-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "For when God made promise to Abraham, because he could swear by no greater, he sware by himself,",
+      "churchId": "p13"
+    },
+    {
+      "slug": "hebrews-6-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Saying, Surely blessing I will bless thee, and multiplying I will multiply thee.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "hebrews-6-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And so, after he had patiently endured, he obtained the promise.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "hebrews-6-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "For men verily swear by the greater: and an oath for confirmation <span class=\"clarity-word\">is</span> to them an end of all strife.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "hebrews-6-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Wherein God, willing more abundantly to shew unto the heirs of promise the immutability of his counsel, confirmed <span class=\"clarity-word\">it</span> by an oath:",
+      "churchId": "p17"
+    },
+    {
+      "slug": "hebrews-6-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "That by two immutable things, in which <span class=\"clarity-word\">it was</span> impossible for God to lie, we might have a strong consolation, who have fled for refuge to lay hold upon the hope set before us:",
+      "churchId": "p18"
+    },
+    {
+      "slug": "hebrews-6-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Which <span class=\"clarity-word\">hope</span> we have as an anchor of the soul, both sure and steadfast, and which entereth into that within the veil;",
+      "churchId": "p19"
+    },
+    {
+      "slug": "hebrews-6-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Whither the forerunner is for us entered, <span class=\"clarity-word\">even</span> Jesus, made an high priest for ever after the order of Melchisedec.",
+      "churchId": "p20"
+    }
+  ]
+}

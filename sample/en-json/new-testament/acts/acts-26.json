@@ -1,0 +1,239 @@
+{
+  "name": "Acts 26",
+  "abbrev": "Acts 26",
+  "number": "26",
+  "churchUri": "/scriptures/nt/acts/26",
+  "paragraphs": [
+    {
+      "slug": "acts-26-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 26",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "acts-26-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Then Agrippa said unto Paul, Thou art permitted to speak for thyself. Then Paul stretched forth the hand, and answered for himself:",
+      "churchId": "p1"
+    },
+    {
+      "slug": "acts-26-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "I think myself happy, king Agrippa, because I shall answer for myself this day before thee touching all the things whereof I am accused of the Jews:",
+      "churchId": "p2"
+    },
+    {
+      "slug": "acts-26-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Especially <span class=\"clarity-word\">because I know</span> thee to be expert in all customs and questions which are among the Jews: wherefore I beseech thee to hear me patiently.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "acts-26-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "My manner of life from my youth, which was at the first among mine own nation at Jerusalem, know all the Jews;",
+      "churchId": "p4"
+    },
+    {
+      "slug": "acts-26-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Which knew me from the beginning, if they would testify, that after the most straitest sect of our religion I lived a Pharisee.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "acts-26-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And now I stand and am judged for the hope of the promise made of God unto our fathers:",
+      "churchId": "p6"
+    },
+    {
+      "slug": "acts-26-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Unto which <span class=\"clarity-word\">promise</span> our twelve tribes, instantly serving <span class=\"clarity-word\">God</span> day and night, hope to come. For which hope’s sake, king Agrippa, I am accused of the Jews.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "acts-26-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Why should it be thought a thing incredible with you, that God should raise the dead?",
+      "churchId": "p8"
+    },
+    {
+      "slug": "acts-26-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "I verily thought with myself, that I ought to do many things contrary to the name of Jesus of Nazareth.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "acts-26-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Which thing I also did in Jerusalem: and many of the saints did I shut up in prison, having received authority from the chief priests; and when they were put to death, I gave my voice against <span class=\"clarity-word\">them.</span>",
+      "churchId": "p10"
+    },
+    {
+      "slug": "acts-26-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And I punished them oft in every synagogue, and compelled <span class=\"clarity-word\">them</span> to blaspheme; and being exceedingly mad against them, I persecuted <span class=\"clarity-word\">them</span> even unto strange cities.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "acts-26-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Whereupon as I went to Damascus with authority and commission from the chief priests,",
+      "churchId": "p12"
+    },
+    {
+      "slug": "acts-26-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "At midday, O king, I saw in the way a light from heaven, above the brightness of the sun, shining round about me and them which journeyed with me.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "acts-26-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And when we were all fallen to the earth, I heard a voice speaking unto me, and saying in the Hebrew tongue, Saul, Saul, why persecutest thou me? <span class=\"clarity-word\">it is</span> hard for thee to kick against the pricks.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "acts-26-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And I said, Who art thou, Lord? And he said, I am Jesus whom thou persecutest.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "acts-26-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "But rise, and stand upon thy feet: for I have appeared unto thee for this purpose, to make thee a minister and a witness both of these things which thou hast seen, and of those things in the which I will appear unto thee;",
+      "churchId": "p16"
+    },
+    {
+      "slug": "acts-26-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Delivering thee from the people, and <span class=\"clarity-word\">from</span> the Gentiles, unto whom now I send thee,",
+      "churchId": "p17"
+    },
+    {
+      "slug": "acts-26-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "To open their eyes, <span class=\"clarity-word\">and</span> to turn <span class=\"clarity-word\">them</span> from darkness to light, and <span class=\"clarity-word\">from</span> the power of Satan unto God, that they may receive forgiveness of sins, and inheritance among them which are sanctified by faith that is in me.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "acts-26-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Whereupon, O king Agrippa, I was not disobedient unto the heavenly vision:",
+      "churchId": "p19"
+    },
+    {
+      "slug": "acts-26-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "But shewed first unto them of Damascus, and at Jerusalem, and throughout all the coasts of Judæa, and <span class=\"clarity-word\">then</span> to the Gentiles, that they should repent and turn to God, and do works meet for repentance.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "acts-26-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "For these causes the Jews caught me in the temple, and went about to kill <span class=\"clarity-word\">me.</span>",
+      "churchId": "p21"
+    },
+    {
+      "slug": "acts-26-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Having therefore obtained help of God, I continue unto this day, witnessing both to small and great, saying none other things than those which the prophets and Moses did say should come:",
+      "churchId": "p22"
+    },
+    {
+      "slug": "acts-26-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "That Christ should suffer, <span class=\"clarity-word\">and</span> that he should be the first that should rise from the dead, and should shew light unto the people, and to the Gentiles.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "acts-26-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And as he thus spake for himself, Festus said with a loud voice, Paul, thou art beside thyself; much learning doth make thee mad.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "acts-26-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "But he said, I am not mad, most noble Festus; but speak forth the words of truth and soberness.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "acts-26-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "For the king knoweth of these things, before whom also I speak freely: for I am persuaded that none of these things are hidden from him; for this thing was not done in a corner.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "acts-26-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "King Agrippa, believest thou the prophets? I know that thou believest.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "acts-26-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "Then Agrippa said unto Paul, Almost thou persuadest me to be a Christian.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "acts-26-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "And Paul said, I would to God, that not only thou, but also all that hear me this day, were both almost, and altogether such as I am, except these bonds.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "acts-26-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And when he had thus spoken, the king rose up, and the governor, and Bernice, and they that sat with them:",
+      "churchId": "p30"
+    },
+    {
+      "slug": "acts-26-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "And when they were gone aside, they talked between themselves, saying, This man doeth nothing worthy of death or of bonds.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "acts-26-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "Then said Agrippa unto Festus, This man might have been set at liberty, if he had not appealed unto Cæsar.",
+      "churchId": "p32"
+    }
+  ]
+}

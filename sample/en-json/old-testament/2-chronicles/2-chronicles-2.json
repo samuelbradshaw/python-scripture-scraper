@@ -1,0 +1,141 @@
+{
+  "name": "2 Chronicles 2",
+  "abbrev": "2 Chr. 2",
+  "number": "2",
+  "churchUri": "/scriptures/ot/2-chr/2",
+  "paragraphs": [
+    {
+      "slug": "2-chronicles-2-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 2",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "2-chronicles-2-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And Solomon determined to build an house for the name of the <span class=\"small-caps\">Lord</span>, and an house for his kingdom.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "2-chronicles-2-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And Solomon told out threescore and ten thousand men to bear burdens, and fourscore thousand to hew in the mountain, and three thousand and six hundred to oversee them.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "2-chronicles-2-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "¶ And Solomon sent to Huram the king of Tyre, saying, As thou didst deal with David my father, and didst send him cedars to build him an house to dwell therein, <span class=\"clarity-word\">even so deal with me.</span>",
+      "churchId": "p3"
+    },
+    {
+      "slug": "2-chronicles-2-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Behold, I build an house to the name of the <span class=\"small-caps\">Lord</span> my God, to dedicate <span class=\"clarity-word\">it</span> to him, <span class=\"clarity-word\">and</span> to burn before him sweet incense, and for the continual shewbread, and for the burnt offerings morning and evening, on the sabbaths, and on the new moons, and on the solemn feasts of the <span class=\"small-caps\">Lord</span> our God. This <span class=\"clarity-word\">is an ordinance</span> for ever to Israel.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "2-chronicles-2-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And the house which I build <span class=\"clarity-word\">is</span> great: for great <span class=\"clarity-word\">is</span> our God above all gods.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "2-chronicles-2-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "But who is able to build him an house, seeing the heaven and heaven of heavens cannot contain him? who <span class=\"clarity-word\">am</span> I then, that I should build him an house, save only to burn sacrifice before him?",
+      "churchId": "p6"
+    },
+    {
+      "slug": "2-chronicles-2-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Send me now therefore a man cunning to work in gold, and in silver, and in brass, and in iron, and in purple, and crimson, and blue, and that can skill to grave with the cunning men that <span class=\"clarity-word\">are</span> with me in Judah and in Jerusalem, whom David my father did provide.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "2-chronicles-2-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Send me also cedar trees, fir trees, and algum trees, out of Lebanon: for I know that thy servants can skill to cut timber in Lebanon; and, behold, my servants <span class=\"clarity-word\">shall be</span> with thy servants,",
+      "churchId": "p8"
+    },
+    {
+      "slug": "2-chronicles-2-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Even to prepare me timber in abundance: for the house which I am about to build <span class=\"clarity-word\">shall be</span> wonderful great.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "2-chronicles-2-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And, behold, I will give to thy servants, the hewers that cut timber, twenty thousand measures of beaten wheat, and twenty thousand measures of barley, and twenty thousand baths of wine, and twenty thousand baths of oil.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "2-chronicles-2-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "¶ Then Huram the king of Tyre answered in writing, which he sent to Solomon, Because the <span class=\"small-caps\">Lord</span> hath loved his people, he hath made thee king over them.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "2-chronicles-2-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Huram said moreover, Blessed <span class=\"clarity-word\">be</span> the <span class=\"small-caps\">Lord</span> God of Israel, that made heaven and earth, who hath given to David the king a wise son, endued with prudence and understanding, that might build an house for the <span class=\"small-caps\">Lord</span>, and an house for his kingdom.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "2-chronicles-2-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And now I have sent a cunning man, endued with understanding, of Huram my father’s,",
+      "churchId": "p13"
+    },
+    {
+      "slug": "2-chronicles-2-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "The son of a woman of the daughters of Dan, and his father <span class=\"clarity-word\">was</span> a man of Tyre, skilful to work in gold, and in silver, in brass, in iron, in stone, and in timber, in purple, in blue, and in fine linen, and in crimson; also to grave any manner of graving, and to find out every device which shall be put to him, with thy cunning men, and with the cunning men of my lord David thy father.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "2-chronicles-2-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Now therefore the wheat, and the barley, the oil, and the wine, which my lord hath spoken of, let him send unto his servants:",
+      "churchId": "p15"
+    },
+    {
+      "slug": "2-chronicles-2-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And we will cut wood out of Lebanon, as much as thou shalt need: and we will bring it to thee in floats by sea to Joppa; and thou shalt carry it up to Jerusalem.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "2-chronicles-2-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "¶ And Solomon numbered all the strangers that <span class=\"clarity-word\">were</span> in the land of Israel, after the numbering wherewith David his father had numbered them; and they were found an hundred and fifty thousand and three thousand and six hundred.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "2-chronicles-2-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And he set threescore and ten thousand of them <span class=\"clarity-word\">to be</span> bearers of burdens, and fourscore thousand <span class=\"clarity-word\">to be</span> hewers in the mountain, and three thousand and six hundred overseers to set the people a work.",
+      "churchId": "p18"
+    }
+  ]
+}

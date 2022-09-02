@@ -1,0 +1,127 @@
+{
+  "name": "Job 17",
+  "abbrev": "Job 17",
+  "number": "17",
+  "churchUri": "/scriptures/ot/job/17",
+  "paragraphs": [
+    {
+      "slug": "job-17-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 17",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "job-17-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "My breath is corrupt, my days are extinct, the graves <span class=\"clarity-word\">are ready</span> for me.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "job-17-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "<span class=\"clarity-word\">Are there</span> not mockers with me? and doth not mine eye continue in their provocation?",
+      "churchId": "p2"
+    },
+    {
+      "slug": "job-17-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Lay down now, put me in a surety with thee; who <span class=\"clarity-word\">is</span> he <span class=\"clarity-word\">that</span> will strike hands with me?",
+      "churchId": "p3"
+    },
+    {
+      "slug": "job-17-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "For thou hast hid their heart from understanding: therefore shalt thou not exalt <span class=\"clarity-word\">them.</span>",
+      "churchId": "p4"
+    },
+    {
+      "slug": "job-17-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "He that speaketh flattery to <span class=\"clarity-word\">his</span> friends, even the eyes of his children shall fail.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "job-17-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "He hath made me also a byword of the people; and aforetime I was as a tabret.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "job-17-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Mine eye also is dim by reason of sorrow, and all my members <span class=\"clarity-word\">are</span> as a shadow.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "job-17-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Upright <span class=\"clarity-word\">men</span> shall be astonied at this, and the innocent shall stir up himself against the hypocrite.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "job-17-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "The righteous also shall hold on his way, and he that hath clean hands shall be stronger and stronger.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "job-17-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "But as for you all, do ye return, and come now: for I cannot find <span class=\"clarity-word\">one</span> wise <span class=\"clarity-word\">man</span> among you.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "job-17-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "My days are past, my purposes are broken off, <span class=\"clarity-word\">even</span> the thoughts of my heart.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "job-17-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "They change the night into day: the light <span class=\"clarity-word\">is</span> short because of darkness.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "job-17-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "If I wait, the grave <span class=\"clarity-word\">is</span> mine house: I have made my bed in the darkness.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "job-17-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "I have said to corruption, Thou <span class=\"clarity-word\">art</span> my father: to the worm, <span class=\"clarity-word\">Thou art</span> my mother, and my sister.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "job-17-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And where <span class=\"clarity-word\">is</span> now my hope? as for my hope, who shall see it?",
+      "churchId": "p15"
+    },
+    {
+      "slug": "job-17-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "They shall go down to the bars of the pit, when <span class=\"clarity-word\">our</span> rest together <span class=\"clarity-word\">is</span> in the dust.",
+      "churchId": "p16"
+    }
+  ]
+}

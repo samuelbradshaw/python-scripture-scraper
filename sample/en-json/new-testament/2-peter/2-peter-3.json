@@ -1,0 +1,141 @@
+{
+  "name": "2 Peter 3",
+  "abbrev": "2 Pet. 3",
+  "number": "3",
+  "churchUri": "/scriptures/nt/2-pet/3",
+  "paragraphs": [
+    {
+      "slug": "2-peter-3-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 3",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "2-peter-3-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "This second epistle, beloved, I now write unto you; in <span class=\"clarity-word\">both</span> which I stir up your pure minds by way of remembrance:",
+      "churchId": "p1"
+    },
+    {
+      "slug": "2-peter-3-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "That ye may be mindful of the words which were spoken before by the holy prophets, and of the commandment of us the apostles of the Lord and Saviour:",
+      "churchId": "p2"
+    },
+    {
+      "slug": "2-peter-3-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Knowing this first, that there shall come in the last days scoffers, walking after their own lusts,",
+      "churchId": "p3"
+    },
+    {
+      "slug": "2-peter-3-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And saying, Where is the promise of his coming? for since the fathers fell asleep, all things continue as <span class=\"clarity-word\">they were</span> from the beginning of the creation.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "2-peter-3-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "For this they willingly are ignorant of, that by the word of God the heavens were of old, and the earth standing out of the water and in the water:",
+      "churchId": "p5"
+    },
+    {
+      "slug": "2-peter-3-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Whereby the world that then was, being overflowed with water, perished:",
+      "churchId": "p6"
+    },
+    {
+      "slug": "2-peter-3-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "But the heavens and the earth, which are now, by the same word are kept in store, reserved unto fire against the day of judgment and perdition of ungodly men.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "2-peter-3-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "But, beloved, be not ignorant of this one thing, that one day <span class=\"clarity-word\">is</span> with the Lord as a thousand years, and a thousand years as one day.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "2-peter-3-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "The Lord is not slack concerning his promise, as some men count slackness; but is longsuffering to us-ward, not willing that any should perish, but that all should come to repentance.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "2-peter-3-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "But the day of the Lord will come as a thief in the night; in the which the heavens shall pass away with a great noise, and the elements shall melt with fervent heat, the earth also and the works that are therein shall be burned up.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "2-peter-3-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "<span class=\"clarity-word\">Seeing</span> then <span class=\"clarity-word\">that</span> all these things shall be dissolved, what manner <span class=\"clarity-word\">of persons</span> ought ye to be in <span class=\"clarity-word\">all</span> holy conversation and godliness,",
+      "churchId": "p11"
+    },
+    {
+      "slug": "2-peter-3-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Looking for and hasting unto the coming of the day of God, wherein the heavens being on fire shall be dissolved, and the elements shall melt with fervent heat?",
+      "churchId": "p12"
+    },
+    {
+      "slug": "2-peter-3-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Nevertheless we, according to his promise, look for new heavens and a new earth, wherein dwelleth righteousness.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "2-peter-3-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Wherefore, beloved, seeing that ye look for such things, be diligent that ye may be found of him in peace, without spot, and blameless.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "2-peter-3-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And account <span class=\"clarity-word\">that</span> the longsuffering of our Lord <span class=\"clarity-word\">is</span> salvation; even as our beloved brother Paul also according to the wisdom given unto him hath written unto you;",
+      "churchId": "p15"
+    },
+    {
+      "slug": "2-peter-3-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "As also in all <span class=\"clarity-word\">his</span> epistles, speaking in them of these things; in which are some things hard to be understood, which they that are unlearned and unstable wrest, as <span class=\"clarity-word\">they do</span> also the other scriptures, unto their own destruction.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "2-peter-3-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Ye therefore, beloved, seeing ye know <span class=\"clarity-word\">these things</span> before, beware lest ye also, being led away with the error of the wicked, fall from your own steadfastness.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "2-peter-3-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "But grow in grace, and <span class=\"clarity-word\">in</span> the knowledge of our Lord and Saviour Jesus Christ. To him <span class=\"clarity-word\">be</span> glory both now and for ever. Amen.",
+      "churchId": "p18"
+    }
+  ]
+}

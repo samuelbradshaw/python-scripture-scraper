@@ -1,0 +1,183 @@
+{
+  "name": "Joshua 4",
+  "abbrev": "Josh. 4",
+  "number": "4",
+  "churchUri": "/scriptures/ot/josh/4",
+  "paragraphs": [
+    {
+      "slug": "joshua-4-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 4",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "joshua-4-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And it came to pass, when all the people were clean passed over Jordan, that the <span class=\"small-caps\">Lord</span> spake unto Joshua, saying,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "joshua-4-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Take you twelve men out of the people, out of every tribe a man,",
+      "churchId": "p2"
+    },
+    {
+      "slug": "joshua-4-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And command ye them, saying, Take you hence out of the midst of Jordan, out of the place where the priests’ feet stood firm, twelve stones, and ye shall carry them over with you, and leave them in the lodging place, where ye shall lodge this night.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "joshua-4-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Then Joshua called the twelve men, whom he had prepared of the children of Israel, out of every tribe a man:",
+      "churchId": "p4"
+    },
+    {
+      "slug": "joshua-4-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And Joshua said unto them, Pass over before the ark of the <span class=\"small-caps\">Lord</span> your God into the midst of Jordan, and take ye up every man of you a stone upon his shoulder, according unto the number of the tribes of the children of Israel:",
+      "churchId": "p5"
+    },
+    {
+      "slug": "joshua-4-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "That this may be a sign among you, <span class=\"clarity-word\">that</span> when your children ask <span class=\"clarity-word\">their fathers</span> in time to come, saying, What <span class=\"clarity-word\">mean</span> ye by these stones?",
+      "churchId": "p6"
+    },
+    {
+      "slug": "joshua-4-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Then ye shall answer them, That the waters of Jordan were cut off before the ark of the covenant of the <span class=\"small-caps\">Lord</span>; when it passed over Jordan, the waters of Jordan were cut off: and these stones shall be for a memorial unto the children of Israel for ever.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "joshua-4-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And the children of Israel did so as Joshua commanded, and took up twelve stones out of the midst of Jordan, as the <span class=\"small-caps\">Lord</span> spake unto Joshua, according to the number of the tribes of the children of Israel, and carried them over with them unto the place where they lodged, and laid them down there.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "joshua-4-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And Joshua set up twelve stones in the midst of Jordan, in the place where the feet of the priests which bare the ark of the covenant stood: and they are there unto this day.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "joshua-4-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "¶ For the priests which bare the ark stood in the midst of Jordan, until every thing was finished that the <span class=\"small-caps\">Lord</span> commanded Joshua to speak unto the people, according to all that Moses commanded Joshua: and the people hasted and passed over.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "joshua-4-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And it came to pass, when all the people were clean passed over, that the ark of the <span class=\"small-caps\">Lord</span> passed over, and the priests, in the presence of the people.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "joshua-4-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And the children of Reuben, and the children of Gad, and half the tribe of Manasseh, passed over armed before the children of Israel, as Moses spake unto them:",
+      "churchId": "p12"
+    },
+    {
+      "slug": "joshua-4-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "About forty thousand prepared for war passed over before the <span class=\"small-caps\">Lord</span> unto battle, to the plains of Jericho.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "joshua-4-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "¶ On that day the <span class=\"small-caps\">Lord</span> magnified Joshua in the sight of all Israel; and they feared him, as they feared Moses, all the days of his life.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "joshua-4-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And the <span class=\"small-caps\">Lord</span> spake unto Joshua, saying,",
+      "churchId": "p15"
+    },
+    {
+      "slug": "joshua-4-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Command the priests that bear the ark of the testimony, that they come up out of Jordan.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "joshua-4-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Joshua therefore commanded the priests, saying, Come ye up out of Jordan.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "joshua-4-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And it came to pass, when the priests that bare the ark of the covenant of the <span class=\"small-caps\">Lord</span> were come up out of the midst of Jordan, <span class=\"clarity-word\">and</span> the soles of the priests’ feet were lifted up unto the dry land, that the waters of Jordan returned unto their place, and flowed over all his banks, as <span class=\"clarity-word\">they did</span> before.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "joshua-4-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "¶ And the people came up out of Jordan on the tenth <span class=\"clarity-word\">day</span> of the first month, and encamped in Gilgal, in the east border of Jericho.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "joshua-4-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And those twelve stones, which they took out of Jordan, did Joshua pitch in Gilgal.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "joshua-4-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And he spake unto the children of Israel, saying, When your children shall ask their fathers in time to come, saying, What <span class=\"clarity-word\">mean</span> these stones?",
+      "churchId": "p21"
+    },
+    {
+      "slug": "joshua-4-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Then ye shall let your children know, saying, Israel came over this Jordan on dry land.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "joshua-4-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "For the <span class=\"small-caps\">Lord</span> your God dried up the waters of Jordan from before you, until ye were passed over, as the <span class=\"small-caps\">Lord</span> your God did to the Red sea, which he dried up from before us, until we were gone over:",
+      "churchId": "p23"
+    },
+    {
+      "slug": "joshua-4-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "That all the people of the earth might know the hand of the <span class=\"small-caps\">Lord</span>, that it <span class=\"clarity-word\">is</span> mighty: that ye might fear the <span class=\"small-caps\">Lord</span> your God for ever.",
+      "churchId": "p24"
+    }
+  ]
+}

@@ -1,0 +1,302 @@
+{
+  "name": "John 9",
+  "abbrev": "John 9",
+  "number": "9",
+  "churchUri": "/scriptures/nt/john/9",
+  "paragraphs": [
+    {
+      "slug": "john-9-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 9",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "john-9-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And as <span class=\"clarity-word\">Jesus</span> passed by, he saw a man which was blind from <span class=\"clarity-word\">his</span> birth.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "john-9-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And his disciples asked him, saying, Master, who did sin, this man, or his parents, that he was born blind?",
+      "churchId": "p2"
+    },
+    {
+      "slug": "john-9-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Jesus answered, Neither hath this man sinned, nor his parents: but that the works of God should be made manifest in him.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "john-9-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "I must work the works of him that sent me, while it is day: the night cometh, when no man can work.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "john-9-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "As long as I am in the world, I am the light of the world.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "john-9-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "When he had thus spoken, he spat on the ground, and made clay of the spittle, and he anointed the eyes of the blind man with the clay,",
+      "churchId": "p6"
+    },
+    {
+      "slug": "john-9-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And said unto him, Go, wash in the pool of Siloam, (which is by interpretation, Sent.) He went his way therefore, and washed, and came seeing.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "john-9-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "¶ The neighbours therefore, and they which before had seen him that he was blind, said, Is not this he that sat and begged?",
+      "churchId": "p8"
+    },
+    {
+      "slug": "john-9-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Some said, This is he: others <span class=\"clarity-word\">said,</span> He is like him: <span class=\"clarity-word\">but</span> he said, I am <span class=\"clarity-word\">he.</span>",
+      "churchId": "p9"
+    },
+    {
+      "slug": "john-9-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Therefore said they unto him, How were thine eyes opened?",
+      "churchId": "p10"
+    },
+    {
+      "slug": "john-9-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "He answered and said, A man that is called Jesus made clay, and anointed mine eyes, and said unto me, Go to the pool of Siloam, and wash: and I went and washed, and I received sight.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "john-9-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Then said they unto him, Where is he? He said, I know not.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "john-9-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "¶ They brought to the Pharisees him that aforetime was blind.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "john-9-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And it was the sabbath day when Jesus made the clay, and opened his eyes.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "john-9-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Then again the Pharisees also asked him how he had received his sight. He said unto them, He put clay upon mine eyes, and I washed, and do see.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "john-9-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Therefore said some of the Pharisees, This man is not of God, because he keepeth not the sabbath day. Others said, How can a man that is a sinner do such miracles? And there was a division among them.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "john-9-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "They say unto the blind man again, What sayest thou of him, that he hath opened thine eyes? He said, He is a prophet.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "john-9-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "But the Jews did not believe concerning him, that he had been blind, and received his sight, until they called the parents of him that had received his sight.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "john-9-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And they asked them, saying, Is this your son, who ye say was born blind? how then doth he now see?",
+      "churchId": "p19"
+    },
+    {
+      "slug": "john-9-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "His parents answered them and said, We know that this is our son, and that he was born blind:",
+      "churchId": "p20"
+    },
+    {
+      "slug": "john-9-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "But by what means he now seeth, we know not; or who hath opened his eyes, we know not: he is of age; ask him: he shall speak for himself.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "john-9-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "These <span class=\"clarity-word\">words</span> spake his parents, because they feared the Jews: for the Jews had agreed already, that if any man did confess that he was Christ, he should be put out of the synagogue.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "john-9-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Therefore said his parents, He is of age; ask him.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "john-9-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Then again called they the man that was blind, and said unto him, Give God the praise: we know that this man is a sinner.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "john-9-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "He answered and said, Whether he be a sinner <span class=\"clarity-word\">or no,</span> I know not: one thing I know, that, whereas I was blind, now I see.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "john-9-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "Then said they to him again, What did he to thee? how opened he thine eyes?",
+      "churchId": "p26"
+    },
+    {
+      "slug": "john-9-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "He answered them, I have told you already, and ye did not hear: wherefore would ye hear <span class=\"clarity-word\">it</span> again? will ye also be his disciples?",
+      "churchId": "p27"
+    },
+    {
+      "slug": "john-9-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "Then they reviled him, and said, Thou art his disciple; but we are Moses’ disciples.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "john-9-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "We know that God spake unto Moses: <span class=\"clarity-word\">as for</span> this <span class=\"clarity-word\">fellow,</span> we know not from whence he is.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "john-9-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "The man answered and said unto them, Why herein is a marvellous thing, that ye know not from whence he is, and <span class=\"clarity-word\">yet</span> he hath opened mine eyes.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "john-9-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "Now we know that God heareth not sinners: but if any man be a worshipper of God, and doeth his will, him he heareth.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "john-9-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "Since the world began was it not heard that any man opened the eyes of one that was born blind.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "john-9-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "If this man were not of God, he could do nothing.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "john-9-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "They answered and said unto him, Thou wast altogether born in sins, and dost thou teach us? And they cast him out.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "john-9-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "Jesus heard that they had cast him out; and when he had found him, he said unto him, Dost thou believe on the Son of God?",
+      "churchId": "p35"
+    },
+    {
+      "slug": "john-9-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "He answered and said, Who is he, Lord, that I might believe on him?",
+      "churchId": "p36"
+    },
+    {
+      "slug": "john-9-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "And Jesus said unto him, Thou hast both seen him, and it is he that talketh with thee.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "john-9-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "And he said, Lord, I believe. And he worshipped him.",
+      "churchId": "p38"
+    },
+    {
+      "slug": "john-9-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "¶ And Jesus said, For judgment I am come into this world, that they which see not might see; and that they which see might be made blind.",
+      "churchId": "p39"
+    },
+    {
+      "slug": "john-9-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "And <span class=\"clarity-word\">some</span> of the Pharisees which were with him heard these words, and said unto him, Are we blind also?",
+      "churchId": "p40"
+    },
+    {
+      "slug": "john-9-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "Jesus said unto them, If ye were blind, ye should have no sin: but now ye say, We see; therefore your sin remaineth.",
+      "churchId": "p41"
+    }
+  ]
+}

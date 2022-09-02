@@ -1,0 +1,253 @@
+{
+  "name": "Numbers 2",
+  "abbrev": "Num. 2",
+  "number": "2",
+  "churchUri": "/scriptures/ot/num/2",
+  "paragraphs": [
+    {
+      "slug": "numbers-2-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 2",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "numbers-2-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And the <span class=\"small-caps\">Lord</span> spake unto Moses and unto Aaron, saying,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "numbers-2-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Every man of the children of Israel shall pitch by his own standard, with the ensign of their father’s house: far off about the tabernacle of the congregation shall they pitch.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "numbers-2-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And on the east side toward the rising of the sun shall they of the standard of the camp of Judah pitch throughout their armies: and Nahshon the son of Amminadab <span class=\"clarity-word\">shall be</span> captain of the children of Judah.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "numbers-2-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And his host, and those that were numbered of them, <span class=\"clarity-word\">were</span> threescore and fourteen thousand and six hundred.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "numbers-2-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And those that do pitch next unto him <span class=\"clarity-word\">shall be</span> the tribe of Issachar: and Nethaneel the son of Zuar <span class=\"clarity-word\">shall be</span> captain of the children of Issachar.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "numbers-2-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And his host, and those that were numbered thereof, <span class=\"clarity-word\">were</span> fifty and four thousand and four hundred.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "numbers-2-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "<span class=\"clarity-word\">Then</span> the tribe of Zebulun: and Eliab the son of Helon <span class=\"clarity-word\">shall be</span> captain of the children of Zebulun.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "numbers-2-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And his host, and those that were numbered thereof, <span class=\"clarity-word\">were</span> fifty and seven thousand and four hundred.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "numbers-2-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "All that were numbered in the camp of Judah <span class=\"clarity-word\">were</span> an hundred thousand and fourscore thousand and six thousand and four hundred, throughout their armies. These shall first set forth.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "numbers-2-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "¶ On the south side <span class=\"clarity-word\">shall be</span> the standard of the camp of Reuben according to their armies: and the captain of the children of Reuben <span class=\"clarity-word\">shall be</span> Elizur the son of Shedeur.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "numbers-2-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And his host, and those that were numbered thereof, <span class=\"clarity-word\">were</span> forty and six thousand and five hundred.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "numbers-2-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And those which pitch by him <span class=\"clarity-word\">shall be</span> the tribe of Simeon: and the captain of the children of Simeon <span class=\"clarity-word\">shall be</span> Shelumiel the son of Zurishaddai.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "numbers-2-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And his host, and those that were numbered of them, <span class=\"clarity-word\">were</span> fifty and nine thousand and three hundred.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "numbers-2-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Then the tribe of Gad: and the captain of the sons of Gad <span class=\"clarity-word\">shall be</span> Eliasaph the son of Reuel.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "numbers-2-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And his host, and those that were numbered of them, <span class=\"clarity-word\">were</span> forty and five thousand and six hundred and fifty.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "numbers-2-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "All that were numbered in the camp of Reuben <span class=\"clarity-word\">were</span> an hundred thousand and fifty and one thousand and four hundred and fifty, throughout their armies. And they shall set forth in the second rank.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "numbers-2-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "¶ Then the tabernacle of the congregation shall set forward with the camp of the Levites in the midst of the camp: as they encamp, so shall they set forward, every man in his place by their standards.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "numbers-2-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "¶ On the west side <span class=\"clarity-word\">shall be</span> the standard of the camp of Ephraim according to their armies: and the captain of the sons of Ephraim <span class=\"clarity-word\">shall be</span> Elishama the son of Ammihud.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "numbers-2-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And his host, and those that were numbered of them, <span class=\"clarity-word\">were</span> forty thousand and five hundred.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "numbers-2-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And by him <span class=\"clarity-word\">shall be</span> the tribe of Manasseh: and the captain of the children of Manasseh <span class=\"clarity-word\">shall be</span> Gamaliel the son of Pedahzur.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "numbers-2-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And his host, and those that were numbered of them, <span class=\"clarity-word\">were</span> thirty and two thousand and two hundred.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "numbers-2-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Then the tribe of Benjamin: and the captain of the sons of Benjamin <span class=\"clarity-word\">shall be</span> Abidan the son of Gideoni.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "numbers-2-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And his host, and those that were numbered of them, <span class=\"clarity-word\">were</span> thirty and five thousand and four hundred.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "numbers-2-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "All that were numbered of the camp of Ephraim <span class=\"clarity-word\">were</span> an hundred thousand and eight thousand and an hundred, throughout their armies. And they shall go forward in the third rank.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "numbers-2-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "¶ The standard of the camp of Dan <span class=\"clarity-word\">shall be</span> on the north side by their armies: and the captain of the children of Dan <span class=\"clarity-word\">shall be</span> Ahiezer the son of Ammishaddai.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "numbers-2-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And his host, and those that were numbered of them, <span class=\"clarity-word\">were</span> threescore and two thousand and seven hundred.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "numbers-2-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And those that encamp by him <span class=\"clarity-word\">shall be</span> the tribe of Asher: and the captain of the children of Asher <span class=\"clarity-word\">shall be</span> Pagiel the son of Ocran.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "numbers-2-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And his host, and those that were numbered of them, <span class=\"clarity-word\">were</span> forty and one thousand and five hundred.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "numbers-2-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "¶ Then the tribe of Naphtali: and the captain of the children of Naphtali <span class=\"clarity-word\">shall be</span> Ahira the son of Enan.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "numbers-2-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And his host, and those that were numbered of them, <span class=\"clarity-word\">were</span> fifty and three thousand and four hundred.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "numbers-2-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "All they that were numbered in the camp of Dan <span class=\"clarity-word\">were</span> an hundred thousand and fifty and seven thousand and six hundred. They shall go hindmost with their standards.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "numbers-2-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "¶ These <span class=\"clarity-word\">are</span> those which were numbered of the children of Israel by the house of their fathers: all those that were numbered of the camps throughout their hosts <span class=\"clarity-word\">were</span> six hundred thousand and three thousand and five hundred and fifty.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "numbers-2-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "But the Levites were not numbered among the children of Israel; as the <span class=\"small-caps\">Lord</span> commanded Moses.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "numbers-2-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "And the children of Israel did according to all that the <span class=\"small-caps\">Lord</span> commanded Moses: so they pitched by their standards, and so they set forward, every one after their families, according to the house of their fathers.",
+      "churchId": "p34"
+    }
+  ]
+}

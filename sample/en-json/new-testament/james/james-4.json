@@ -1,0 +1,134 @@
+{
+  "name": "James 4",
+  "abbrev": "James 4",
+  "number": "4",
+  "churchUri": "/scriptures/nt/james/4",
+  "paragraphs": [
+    {
+      "slug": "james-4-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 4",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "james-4-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "From whence <span class=\"clarity-word\">come</span> wars and fightings among you? <span class=\"clarity-word\">come they</span> not hence, <span class=\"clarity-word\">even</span> of your lusts that war in your members?",
+      "churchId": "p1"
+    },
+    {
+      "slug": "james-4-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Ye lust, and have not: ye kill, and desire to have, and cannot obtain: ye fight and war, yet ye have not, because ye ask not.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "james-4-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Ye ask, and receive not, because ye ask amiss, that ye may consume <span class=\"clarity-word\">it</span> upon your lusts.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "james-4-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Ye adulterers and adulteresses, know ye not that the friendship of the world is enmity with God? whosoever therefore will be a friend of the world is the enemy of God.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "james-4-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Do ye think that the scripture saith in vain, The spirit that dwelleth in us lusteth to envy?",
+      "churchId": "p5"
+    },
+    {
+      "slug": "james-4-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "But he giveth more grace. Wherefore he saith, God resisteth the proud, but giveth grace unto the humble.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "james-4-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Submit yourselves therefore to God. Resist the devil, and he will flee from you.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "james-4-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Draw nigh to God, and he will draw nigh to you. Cleanse <span class=\"clarity-word\">your</span> hands, <span class=\"clarity-word\">ye</span> sinners; and purify <span class=\"clarity-word\">your</span> hearts, <span class=\"clarity-word\">ye</span> double minded.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "james-4-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Be afflicted, and mourn, and weep: let your laughter be turned to mourning, and <span class=\"clarity-word\">your</span> joy to heaviness.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "james-4-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Humble yourselves in the sight of the Lord, and he shall lift you up.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "james-4-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Speak not evil one of another, brethren. He that speaketh evil of <span class=\"clarity-word\">his</span> brother, and judgeth his brother, speaketh evil of the law, and judgeth the law: but if thou judge the law, thou art not a doer of the law, but a judge.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "james-4-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "There is one lawgiver, who is able to save and to destroy: who art thou that judgest another?",
+      "churchId": "p12"
+    },
+    {
+      "slug": "james-4-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Go to now, ye that say, To day or to morrow we will go into such a city, and continue there a year, and buy and sell, and get gain:",
+      "churchId": "p13"
+    },
+    {
+      "slug": "james-4-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Whereas ye know not what <span class=\"clarity-word\">shall be</span> on the morrow. For what <span class=\"clarity-word\">is</span> your life? It is even a vapour, that appeareth for a little time, and then vanisheth away.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "james-4-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "For that ye <span class=\"clarity-word\">ought</span> to say, If the Lord will, we shall live, and do this, or that.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "james-4-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "But now ye rejoice in your boastings: all such rejoicing is evil.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "james-4-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Therefore to him that knoweth to do good, and doeth <span class=\"clarity-word\">it</span> not, to him it is sin.",
+      "churchId": "p17"
+    }
+  ]
+}

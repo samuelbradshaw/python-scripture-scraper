@@ -1,0 +1,64 @@
+{
+  "name": "Psalm 13",
+  "abbrev": "Psalm 13",
+  "number": "13",
+  "churchUri": "/scriptures/ot/ps/13",
+  "paragraphs": [
+    {
+      "slug": "psalm-13-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 13",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-13-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "To the chief Musician, A Psalm of David.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-13-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "How long wilt thou forget me, O <span class=\"small-caps\">Lord</span>? for ever? how long wilt thou hide thy face from me?",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-13-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "How long shall I take counsel in my soul, <span class=\"clarity-word\">having</span> sorrow in my heart daily? how long shall mine enemy be exalted over me?",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-13-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Consider <span class=\"clarity-word\">and</span> hear me, O <span class=\"small-caps\">Lord</span> my God: lighten mine eyes, lest I sleep the <span class=\"clarity-word\">sleep of</span> death;",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-13-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Lest mine enemy say, I have prevailed against him; <span class=\"clarity-word\">and</span> those that trouble me rejoice when I am moved.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-13-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "But I have trusted in thy mercy; my heart shall rejoice in thy salvation.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-13-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "I will sing unto the <span class=\"small-caps\">Lord</span>, because he hath dealt bountifully with me.",
+      "churchId": "p6"
+    }
+  ]
+}

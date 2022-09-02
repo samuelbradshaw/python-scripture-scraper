@@ -1,0 +1,477 @@
+{
+  "name": "Matthew 27",
+  "abbrev": "Matt. 27",
+  "number": "27",
+  "churchUri": "/scriptures/nt/matt/27",
+  "paragraphs": [
+    {
+      "slug": "matthew-27-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 27",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "matthew-27-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "When the morning was come, all the chief priests and elders of the people took counsel against Jesus to put him to death:",
+      "churchId": "p1"
+    },
+    {
+      "slug": "matthew-27-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And when they had bound him, they led <span class=\"clarity-word\">him</span> away, and delivered him to Pontius Pilate the governor.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "matthew-27-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "¶ Then Judas, which had betrayed him, when he saw that he was condemned, repented himself, and brought again the thirty pieces of silver to the chief priests and elders,",
+      "churchId": "p3"
+    },
+    {
+      "slug": "matthew-27-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Saying, I have sinned in that I have betrayed the innocent blood. And they said, What <span class=\"clarity-word\">is that</span> to us? see thou <span class=\"clarity-word\">to that</span><span class=\"clarity-word\">.</span>",
+      "churchId": "p4"
+    },
+    {
+      "slug": "matthew-27-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And he cast down the pieces of silver in the temple, and departed, and went and hanged himself.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "matthew-27-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And the chief priests took the silver pieces, and said, It is not lawful for to put them into the treasury, because it is the price of blood.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "matthew-27-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And they took counsel, and bought with them the potter’s field, to bury strangers in.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "matthew-27-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Wherefore that field was called, The field of blood, unto this day.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "matthew-27-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Then was fulfilled that which was spoken by Jeremy the prophet, saying, And they took the thirty pieces of silver, the price of him that was valued, whom they of the children of Israel did value;",
+      "churchId": "p9"
+    },
+    {
+      "slug": "matthew-27-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And gave them for the potter’s field, as the Lord appointed me.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "matthew-27-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And Jesus stood before the governor: and the governor asked him, saying, Art thou the King of the Jews? And Jesus said unto him, Thou sayest.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "matthew-27-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And when he was accused of the chief priests and elders, he answered nothing.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "matthew-27-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Then said Pilate unto him, Hearest thou not how many things they witness against thee?",
+      "churchId": "p13"
+    },
+    {
+      "slug": "matthew-27-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And he answered him to never a word; insomuch that the governor marvelled greatly.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "matthew-27-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Now at <span class=\"clarity-word\">that</span> feast the governor was wont to release unto the people a prisoner, whom they would.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "matthew-27-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And they had then a notable prisoner, called Barabbas.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "matthew-27-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Therefore when they were gathered together, Pilate said unto them, Whom will ye that I release unto you? Barabbas, or Jesus which is called Christ?",
+      "churchId": "p17"
+    },
+    {
+      "slug": "matthew-27-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "For he knew that for envy they had delivered him.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "matthew-27-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "¶ When he was set down on the judgment seat, his wife sent unto him, saying, Have thou nothing to do with that just man: for I have suffered many things this day in a dream because of him.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "matthew-27-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "But the chief priests and elders persuaded the multitude that they should ask Barabbas, and destroy Jesus.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "matthew-27-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "The governor answered and said unto them, Whether of the twain will ye that I release unto you? They said, Barabbas.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "matthew-27-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Pilate saith unto them, What shall I do then with Jesus which is called Christ? <span class=\"clarity-word\">They</span> all say unto him, Let him be crucified.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "matthew-27-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And the governor said, Why, what evil hath he done? But they cried out the more, saying, Let him be crucified.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "matthew-27-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "¶ When Pilate saw that he could prevail nothing, but <span class=\"clarity-word\">that</span> rather a tumult was made, he took water, and washed <span class=\"clarity-word\">his</span> hands before the multitude, saying, I am innocent of the blood of this just person: see ye <span class=\"clarity-word\">to it.</span>",
+      "churchId": "p24"
+    },
+    {
+      "slug": "matthew-27-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Then answered all the people, and said, His blood <span class=\"clarity-word\">be</span> on us, and on our children.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "matthew-27-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "¶ Then released he Barabbas unto them: and when he had scourged Jesus, he delivered <span class=\"clarity-word\">him</span> to be crucified.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "matthew-27-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "Then the soldiers of the governor took Jesus into the common hall, and gathered unto him the whole band <span class=\"clarity-word\">of soldiers.</span>",
+      "churchId": "p27"
+    },
+    {
+      "slug": "matthew-27-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And they stripped him, and put on him a scarlet robe.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "matthew-27-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "¶ And when they had plaited a crown of thorns, they put <span class=\"clarity-word\">it</span> upon his head, and a reed in his right hand: and they bowed the knee before him, and mocked him, saying, Hail, King of the Jews!",
+      "churchId": "p29"
+    },
+    {
+      "slug": "matthew-27-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And they spit upon him, and took the reed, and smote him on the head.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "matthew-27-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "And after that they had mocked him, they took the robe off from him, and put his own raiment on him, and led him away to crucify <span class=\"clarity-word\">him.</span>",
+      "churchId": "p31"
+    },
+    {
+      "slug": "matthew-27-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "And as they came out, they found a man of Cyrene, Simon by name: him they compelled to bear his cross.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "matthew-27-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "And when they were come unto a place called Golgotha, that is to say, a place of a skull,",
+      "churchId": "p33"
+    },
+    {
+      "slug": "matthew-27-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "¶ They gave him vinegar to drink mingled with gall: and when he had tasted <span class=\"clarity-word\">thereof,</span> he would not drink.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "matthew-27-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "And they crucified him, and parted his garments, casting lots: that it might be fulfilled which was spoken by the prophet, They parted my garments among them, and upon my vesture did they cast lots.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "matthew-27-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "And sitting down they watched him there;",
+      "churchId": "p36"
+    },
+    {
+      "slug": "matthew-27-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "And set up over his head his accusation written, <span class=\"uppercase\">This Is Jesus the King of the Jews</span>.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "matthew-27-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "Then were there two thieves crucified with him, one on the right hand, and another on the left.",
+      "churchId": "p38"
+    },
+    {
+      "slug": "matthew-27-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "¶ And they that passed by reviled him, wagging their heads,",
+      "churchId": "p39"
+    },
+    {
+      "slug": "matthew-27-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "And saying, Thou that destroyest the temple, and buildest <span class=\"clarity-word\">it</span> in three days, save thyself. If thou be the Son of God, come down from the cross.",
+      "churchId": "p40"
+    },
+    {
+      "slug": "matthew-27-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "Likewise also the chief priests mocking <span class=\"clarity-word\">him,</span> with the scribes and elders, said,",
+      "churchId": "p41"
+    },
+    {
+      "slug": "matthew-27-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "He saved others; himself he cannot save. If he be the King of Israel, let him now come down from the cross, and we will believe him.",
+      "churchId": "p42"
+    },
+    {
+      "slug": "matthew-27-p43",
+      "type": "verse",
+      "number": "43",
+      "content": "He trusted in God; let him deliver him now, if he will have him: for he said, I am the Son of God.",
+      "churchId": "p43"
+    },
+    {
+      "slug": "matthew-27-p44",
+      "type": "verse",
+      "number": "44",
+      "content": "The thieves also, which were crucified with him, cast the same in his teeth.",
+      "churchId": "p44"
+    },
+    {
+      "slug": "matthew-27-p45",
+      "type": "verse",
+      "number": "45",
+      "content": "Now from the sixth hour there was darkness over all the land unto the ninth hour.",
+      "churchId": "p45"
+    },
+    {
+      "slug": "matthew-27-p46",
+      "type": "verse",
+      "number": "46",
+      "content": "And about the ninth hour Jesus cried with a loud voice, saying, Eli, Eli, lama sabachthani? that is to say, My God, my God, why hast thou forsaken me?",
+      "churchId": "p46"
+    },
+    {
+      "slug": "matthew-27-p47",
+      "type": "verse",
+      "number": "47",
+      "content": "Some of them that stood there, when they heard <span class=\"clarity-word\">that,</span> said, This <span class=\"clarity-word\">man</span> calleth for Elias.",
+      "churchId": "p47"
+    },
+    {
+      "slug": "matthew-27-p48",
+      "type": "verse",
+      "number": "48",
+      "content": "And straightway one of them ran, and took a sponge, and filled <span class=\"clarity-word\">it</span> with vinegar, and put <span class=\"clarity-word\">it</span> on a reed, and gave him to drink.",
+      "churchId": "p48"
+    },
+    {
+      "slug": "matthew-27-p49",
+      "type": "verse",
+      "number": "49",
+      "content": "The rest said, Let be, let us see whether Elias will come to save him.",
+      "churchId": "p49"
+    },
+    {
+      "slug": "matthew-27-p50",
+      "type": "verse",
+      "number": "50",
+      "content": "¶ Jesus, when he had cried again with a loud voice, yielded up the ghost.",
+      "churchId": "p50"
+    },
+    {
+      "slug": "matthew-27-p51",
+      "type": "verse",
+      "number": "51",
+      "content": "And, behold, the veil of the temple was rent in twain from the top to the bottom; and the earth did quake, and the rocks rent;",
+      "churchId": "p51"
+    },
+    {
+      "slug": "matthew-27-p52",
+      "type": "verse",
+      "number": "52",
+      "content": "And the graves were opened; and many bodies of the saints which slept arose,",
+      "churchId": "p52"
+    },
+    {
+      "slug": "matthew-27-p53",
+      "type": "verse",
+      "number": "53",
+      "content": "And came out of the graves after his resurrection, and went into the holy city, and appeared unto many.",
+      "churchId": "p53"
+    },
+    {
+      "slug": "matthew-27-p54",
+      "type": "verse",
+      "number": "54",
+      "content": "Now when the centurion, and they that were with him, watching Jesus, saw the earthquake, and those things that were done, they feared greatly, saying, Truly this was the Son of God.",
+      "churchId": "p54"
+    },
+    {
+      "slug": "matthew-27-p55",
+      "type": "verse",
+      "number": "55",
+      "content": "And many women were there beholding afar off, which followed Jesus from Galilee, ministering unto him:",
+      "churchId": "p55"
+    },
+    {
+      "slug": "matthew-27-p56",
+      "type": "verse",
+      "number": "56",
+      "content": "Among which was Mary Magdalene, and Mary the mother of James and Joses, and the mother of Zebedee’s children.",
+      "churchId": "p56"
+    },
+    {
+      "slug": "matthew-27-p57",
+      "type": "verse",
+      "number": "57",
+      "content": "When the even was come, there came a rich man of Arimathæa, named Joseph, who also himself was Jesus’ disciple:",
+      "churchId": "p57"
+    },
+    {
+      "slug": "matthew-27-p58",
+      "type": "verse",
+      "number": "58",
+      "content": "He went to Pilate, and begged the body of Jesus. Then Pilate commanded the body to be delivered.",
+      "churchId": "p58"
+    },
+    {
+      "slug": "matthew-27-p59",
+      "type": "verse",
+      "number": "59",
+      "content": "And when Joseph had taken the body, he wrapped it in a clean linen cloth,",
+      "churchId": "p59"
+    },
+    {
+      "slug": "matthew-27-p60",
+      "type": "verse",
+      "number": "60",
+      "content": "And laid it in his own new tomb, which he had hewn out in the rock: and he rolled a great stone to the door of the sepulchre, and departed.",
+      "churchId": "p60"
+    },
+    {
+      "slug": "matthew-27-p61",
+      "type": "verse",
+      "number": "61",
+      "content": "And there was Mary Magdalene, and the other Mary, sitting over against the sepulchre.",
+      "churchId": "p61"
+    },
+    {
+      "slug": "matthew-27-p62",
+      "type": "verse",
+      "number": "62",
+      "content": "¶ Now the next day, that followed the day of the preparation, the chief priests and Pharisees came together unto Pilate,",
+      "churchId": "p62"
+    },
+    {
+      "slug": "matthew-27-p63",
+      "type": "verse",
+      "number": "63",
+      "content": "Saying, Sir, we remember that that deceiver said, while he was yet alive, After three days I will rise again.",
+      "churchId": "p63"
+    },
+    {
+      "slug": "matthew-27-p64",
+      "type": "verse",
+      "number": "64",
+      "content": "Command therefore that the sepulchre be made sure until the third day, lest his disciples come by night, and steal him away, and say unto the people, He is risen from the dead: so the last error shall be worse than the first.",
+      "churchId": "p64"
+    },
+    {
+      "slug": "matthew-27-p65",
+      "type": "verse",
+      "number": "65",
+      "content": "Pilate said unto them, Ye have a watch: go your way, make <span class=\"clarity-word\">it</span> as sure as ye can.",
+      "churchId": "p65"
+    },
+    {
+      "slug": "matthew-27-p66",
+      "type": "verse",
+      "number": "66",
+      "content": "So they went, and made the sepulchre sure, sealing the stone, and setting a watch.",
+      "churchId": "p66"
+    }
+  ]
+}

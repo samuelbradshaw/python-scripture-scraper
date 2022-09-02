@@ -1,0 +1,316 @@
+{
+  "name": "Doctrine and Covenants 64",
+  "abbrev": "D&C 64",
+  "number": "64",
+  "churchUri": "/scriptures/dc-testament/dc/64",
+  "paragraphs": [
+    {
+      "slug": "section-64-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Section 64",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "section-64-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Behold, thus saith the Lord your God unto you, O ye elders of my church, hearken ye and hear, and receive my will concerning you.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "section-64-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "For verily I say unto you, I will that ye should overcome the world; wherefore I will have compassion upon you.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "section-64-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "There are those among you who have sinned; but verily I say, for this once, for mine own glory, and for the salvation of souls, I have forgiven you your sins.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "section-64-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "I will be merciful unto you, for I have given unto you the kingdom.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "section-64-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And the keys of the mysteries of the kingdom shall not be taken from my servant Joseph Smith, Jun., through the means I have appointed, while he liveth, inasmuch as he obeyeth mine ordinances.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "section-64-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "There are those who have sought occasion against him without cause;",
+      "churchId": "p6"
+    },
+    {
+      "slug": "section-64-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Nevertheless, he has sinned; but verily I say unto you, I, the Lord, forgive sins unto those who confess their sins before me and ask forgiveness, who have not sinned unto death.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "section-64-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "My disciples, in days of old, sought occasion against one another and forgave not one another in their hearts; and for this evil they were afflicted and sorely chastened.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "section-64-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Wherefore, I say unto you, that ye ought to forgive one another; for he that forgiveth not his brother his trespasses standeth condemned before the Lord; for there remaineth in him the greater sin.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "section-64-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "I, the Lord, will forgive whom I will forgive, but of you it is required to forgive all men.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "section-64-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And ye ought to say in your hearts—let God judge between me and thee, and reward thee according to thy deeds.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "section-64-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And him that repenteth not of his sins, and confesseth them not, ye shall bring before the church, and do with him as the scripture saith unto you, either by commandment or by revelation.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "section-64-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And this ye shall do that God may be glorified—not because ye forgive not, having not compassion, but that ye may be justified in the eyes of the law, that ye may not offend him who is your lawgiver—",
+      "churchId": "p13"
+    },
+    {
+      "slug": "section-64-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Verily I say, for this cause ye shall do these things.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "section-64-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Behold, I, the Lord, was angry with him who was my servant Ezra Booth, and also my servant Isaac Morley, for they kept not the law, neither the commandment;",
+      "churchId": "p15"
+    },
+    {
+      "slug": "section-64-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "They sought evil in their hearts, and I, the Lord, withheld my Spirit. They condemned for evil that thing in which there was no evil; nevertheless I have forgiven my servant Isaac Morley.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "section-64-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And also my servant Edward Partridge, behold, he hath sinned, and Satan seeketh to destroy his soul; but when these things are made known unto them, and they repent of the evil, they shall be forgiven.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "section-64-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And now, verily I say that it is expedient in me that my servant Sidney Gilbert, after a few weeks, shall return upon his business, and to his agency in the land of Zion;",
+      "churchId": "p18"
+    },
+    {
+      "slug": "section-64-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And that which he hath seen and heard may be made known unto my disciples, that they perish not. And for this cause have I spoken these things.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "section-64-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And again, I say unto you, that my servant Isaac Morley may not be tempted above that which he is able to bear, and counsel wrongfully to your hurt, I gave commandment that his farm should be sold.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "section-64-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "I will not that my servant Frederick G. Williams should sell his farm, for I, the Lord, will to retain a strong hold in the land of Kirtland, for the space of five years, in the which I will not overthrow the wicked, that thereby I may save some.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "section-64-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And after that day, I, the Lord, will not hold any guilty that shall go with an open heart up to the land of Zion; for I, the Lord, require the hearts of the children of men.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "section-64-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Behold, now it is called today until the coming of the Son of Man, and verily it is a day of sacrifice, and a day for the tithing of my people; for he that is tithed shall not be burned at his coming.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "section-64-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "For after today cometh the burning—this is speaking after the manner of the Lord—for verily I say, tomorrow all the proud and they that do wickedly shall be as stubble; and I will burn them up, for I am the Lord of Hosts; and I will not spare any that remain in Babylon.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "section-64-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Wherefore, if ye believe me, ye will labor while it is called today.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "section-64-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And it is not meet that my servants, Newel K. Whitney and Sidney Gilbert, should sell their store and their possessions here; for this is not wisdom until the residue of the church, which remaineth in this place, shall go up unto the land of Zion.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "section-64-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "Behold, it is said in my laws, or forbidden, to get in debt to thine enemies;",
+      "churchId": "p27"
+    },
+    {
+      "slug": "section-64-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "But behold, it is not said at any time that the Lord should not take when he please, and pay as seemeth him good.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "section-64-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "Wherefore, as ye are agents, ye are on the Lord’s errand; and whatever ye do according to the will of the Lord is the Lord’s business.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "section-64-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And he hath set you to provide for his saints in these last days, that they may obtain an inheritance in the land of Zion.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "section-64-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "And behold, I, the Lord, declare unto you, and my words are sure and shall not fail, that they shall obtain it.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "section-64-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "But all things must come to pass in their time.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "section-64-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "Wherefore, be not weary in well-doing, for ye are laying the foundation of a great work. And out of small things proceedeth that which is great.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "section-64-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "Behold, the Lord requireth the heart and a willing mind; and the willing and obedient shall eat the good of the land of Zion in these last days.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "section-64-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "And the rebellious shall be cut off out of the land of Zion, and shall be sent away, and shall not inherit the land.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "section-64-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "For, verily I say that the rebellious are not of the blood of Ephraim, wherefore they shall be plucked out.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "section-64-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "Behold, I, the Lord, have made my church in these last days like unto a judge sitting on a hill, or in a high place, to judge the nations.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "section-64-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "For it shall come to pass that the inhabitants of Zion shall judge all things pertaining to Zion.",
+      "churchId": "p38"
+    },
+    {
+      "slug": "section-64-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "And liars and hypocrites shall be proved by them, and they who are not apostles and prophets shall be known.",
+      "churchId": "p39"
+    },
+    {
+      "slug": "section-64-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "And even the bishop, who is a judge, and his counselors, if they are not faithful in their stewardships shall be condemned, and others shall be planted in their stead.",
+      "churchId": "p40"
+    },
+    {
+      "slug": "section-64-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "For, behold, I say unto you that Zion shall flourish, and the glory of the Lord shall be upon her;",
+      "churchId": "p41"
+    },
+    {
+      "slug": "section-64-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "And she shall be an ensign unto the people, and there shall come unto her out of every nation under heaven.",
+      "churchId": "p42"
+    },
+    {
+      "slug": "section-64-p43",
+      "type": "verse",
+      "number": "43",
+      "content": "And the day shall come when the nations of the earth shall tremble because of her, and shall fear because of her terrible ones. The Lord hath spoken it. Amen.",
+      "churchId": "p43"
+    }
+  ]
+}

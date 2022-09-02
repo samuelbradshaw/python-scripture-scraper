@@ -1,0 +1,99 @@
+{
+  "name": "Doctrine and Covenants 34",
+  "abbrev": "D&C 34",
+  "number": "34",
+  "churchUri": "/scriptures/dc-testament/dc/34",
+  "paragraphs": [
+    {
+      "slug": "section-34-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Section 34",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "section-34-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "My son Orson, hearken and hear and behold what I, the Lord God, shall say unto you, even Jesus Christ your Redeemer;",
+      "churchId": "p1"
+    },
+    {
+      "slug": "section-34-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "The light and the life of the world, a light which shineth in darkness and the darkness comprehendeth it not;",
+      "churchId": "p2"
+    },
+    {
+      "slug": "section-34-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Who so loved the world that he gave his own life, that as many as would believe might become the sons of God. Wherefore you are my son;",
+      "churchId": "p3"
+    },
+    {
+      "slug": "section-34-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And blessed are you because you have believed;",
+      "churchId": "p4"
+    },
+    {
+      "slug": "section-34-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And more blessed are you because you are called of me to preach my gospel—",
+      "churchId": "p5"
+    },
+    {
+      "slug": "section-34-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "To lift up your voice as with the sound of a trump, both long and loud, and cry repentance unto a crooked and perverse generation, preparing the way of the Lord for his second coming.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "section-34-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "For behold, verily, verily, I say unto you, the time is soon at hand that I shall come in a cloud with power and great glory.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "section-34-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And it shall be a great day at the time of my coming, for all nations shall tremble.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "section-34-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "But before that great day shall come, the sun shall be darkened, and the moon be turned into blood; and the stars shall refuse their shining, and some shall fall, and great destructions await the wicked.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "section-34-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Wherefore, lift up your voice and spare not, for the Lord God hath spoken; therefore prophesy, and it shall be given by the power of the Holy Ghost.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "section-34-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And if you are faithful, behold, I am with you until I come—",
+      "churchId": "p11"
+    },
+    {
+      "slug": "section-34-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And verily, verily, I say unto you, I come quickly. I am your Lord and your Redeemer. Even so. Amen.",
+      "churchId": "p12"
+    }
+  ]
+}

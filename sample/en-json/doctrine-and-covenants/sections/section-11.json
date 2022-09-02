@@ -1,0 +1,225 @@
+{
+  "name": "Doctrine and Covenants 11",
+  "abbrev": "D&C 11",
+  "number": "11",
+  "churchUri": "/scriptures/dc-testament/dc/11",
+  "paragraphs": [
+    {
+      "slug": "section-11-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Section 11",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "section-11-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "A great and marvelous work is about to come forth among the children of men.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "section-11-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Behold, I am God; give heed to my word, which is quick and powerful, sharper than a two-edged sword, to the dividing asunder of both joints and marrow; therefore give heed unto my word.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "section-11-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Behold, the field is white already to harvest; therefore, whoso desireth to reap let him thrust in his sickle with his might, and reap while the day lasts, that he may treasure up for his soul everlasting salvation in the kingdom of God.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "section-11-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Yea, whosoever will thrust in his sickle and reap, the same is called of God.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "section-11-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Therefore, if you will ask of me you shall receive; if you will knock it shall be opened unto you.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "section-11-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Now, as you have asked, behold, I say unto you, keep my commandments, and seek to bring forth and establish the cause of Zion.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "section-11-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Seek not for riches but for wisdom; and, behold, the mysteries of God shall be unfolded unto you, and then shall you be made rich. Behold, he that hath eternal life is rich.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "section-11-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Verily, verily, I say unto you, even as you desire of me so it shall be done unto you; and, if you desire, you shall be the means of doing much good in this generation.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "section-11-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Say nothing but repentance unto this generation. Keep my commandments, and assist to bring forth my work, according to my commandments, and you shall be blessed.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "section-11-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Behold, thou hast a gift, or thou shalt have a gift if thou wilt desire of me in faith, with an honest heart, believing in the power of Jesus Christ, or in my power which speaketh unto thee;",
+      "churchId": "p10"
+    },
+    {
+      "slug": "section-11-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "For, behold, it is I that speak; behold, I am the light which shineth in darkness, and by my power I give these words unto thee.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "section-11-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And now, verily, verily, I say unto thee, put your trust in that Spirit which leadeth to do good—yea, to do justly, to walk humbly, to judge righteously; and this is my Spirit.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "section-11-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Verily, verily, I say unto you, I will impart unto you of my Spirit, which shall enlighten your mind, which shall fill your soul with joy;",
+      "churchId": "p13"
+    },
+    {
+      "slug": "section-11-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And then shall ye know, or by this shall you know, all things whatsoever you desire of me, which are pertaining unto things of righteousness, in faith believing in me that you shall receive.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "section-11-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Behold, I command you that you need not suppose that you are called to preach until you are called.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "section-11-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Wait a little longer, until you shall have my word, my rock, my church, and my gospel, that you may know of a surety my doctrine.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "section-11-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And then, behold, according to your desires, yea, even according to your faith shall it be done unto you.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "section-11-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Keep my commandments; hold your peace; appeal unto my Spirit;",
+      "churchId": "p18"
+    },
+    {
+      "slug": "section-11-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Yea, cleave unto me with all your heart, that you may assist in bringing to light those things of which has been spoken—yea, the translation of my work; be patient until you shall accomplish it.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "section-11-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Behold, this is your work, to keep my commandments, yea, with all your might, mind and strength.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "section-11-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Seek not to declare my word, but first seek to obtain my word, and then shall your tongue be loosed; then, if you desire, you shall have my Spirit and my word, yea, the power of God unto the convincing of men.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "section-11-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "But now hold your peace; study my word which hath gone forth among the children of men, and also study my word which shall come forth among the children of men, or that which is now translating, yea, until you have obtained all which I shall grant unto the children of men in this generation, and then shall all things be added thereto.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "section-11-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Behold thou art Hyrum, my son; seek the kingdom of God, and all things shall be added according to that which is just.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "section-11-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Build upon my rock, which is my gospel;",
+      "churchId": "p24"
+    },
+    {
+      "slug": "section-11-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Deny not the spirit of revelation, nor the spirit of prophecy, for wo unto him that denieth these things;",
+      "churchId": "p25"
+    },
+    {
+      "slug": "section-11-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "Therefore, treasure up in your heart until the time which is in my wisdom that you shall go forth.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "section-11-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "Behold, I speak unto all who have good desires, and have thrust in their sickle to reap.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "section-11-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "Behold, I am Jesus Christ, the Son of God. I am the life and the light of the world.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "section-11-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "I am the same who came unto mine own and mine own received me not;",
+      "churchId": "p29"
+    },
+    {
+      "slug": "section-11-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "But verily, verily, I say unto you, that as many as receive me, to them will I give power to become the sons of God, even to them that believe on my name. Amen.",
+      "churchId": "p30"
+    }
+  ]
+}

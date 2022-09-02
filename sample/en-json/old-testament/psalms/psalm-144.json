@@ -1,0 +1,127 @@
+{
+  "name": "Psalm 144",
+  "abbrev": "Psalm 144",
+  "number": "144",
+  "churchUri": "/scriptures/ot/ps/144",
+  "paragraphs": [
+    {
+      "slug": "psalm-144-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 144",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-144-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "<span class=\"clarity-word\">A Psalm</span> of David.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-144-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Blessed <span class=\"clarity-word\">be</span> the <span class=\"small-caps\">Lord</span> my strength, which teacheth my hands to war, <span class=\"clarity-word\">and</span> my fingers to fight:",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-144-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "My goodness, and my fortress; my high tower, and my deliverer; my shield, and <span class=\"clarity-word\">he</span> in whom I trust; who subdueth my people under me.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-144-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "<span class=\"small-caps\">Lord</span>, what <span class=\"clarity-word\">is</span> man, that thou takest knowledge of him! <span class=\"clarity-word\">or</span> the son of man, that thou makest account of him!",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-144-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Man is like to vanity: his days <span class=\"clarity-word\">are</span> as a shadow that passeth away.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-144-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Bow thy heavens, O <span class=\"small-caps\">Lord</span>, and come down: touch the mountains, and they shall smoke.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-144-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Cast forth lightning, and scatter them: shoot out thine arrows, and destroy them.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-144-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Send thine hand from above; rid me, and deliver me out of great waters, from the hand of strange children;",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-144-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Whose mouth speaketh vanity, and their right hand <span class=\"clarity-word\">is</span> a right hand of falsehood.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "psalm-144-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "I will sing a new song unto thee, O God: upon a psaltery <span class=\"clarity-word\">and</span> an instrument of ten strings will I sing praises unto thee.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "psalm-144-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "<span class=\"clarity-word\">It is he</span> that giveth salvation unto kings: who delivereth David his servant from the hurtful sword.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "psalm-144-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Rid me, and deliver me from the hand of strange children, whose mouth speaketh vanity, and their right hand <span class=\"clarity-word\">is</span> a right hand of falsehood:",
+      "churchId": "p11"
+    },
+    {
+      "slug": "psalm-144-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "That our sons <span class=\"clarity-word\">may be</span> as plants grown up in their youth; <span class=\"clarity-word\">that</span> our daughters <span class=\"clarity-word\">may be</span> as corner stones, polished <span class=\"clarity-word\">after</span> the similitude of a palace:",
+      "churchId": "p12"
+    },
+    {
+      "slug": "psalm-144-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "<span class=\"clarity-word\">That</span> our garners <span class=\"clarity-word\">may be</span> full, affording all manner of store: <span class=\"clarity-word\">that</span> our sheep may bring forth thousands and ten thousands in our streets:",
+      "churchId": "p13"
+    },
+    {
+      "slug": "psalm-144-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "<span class=\"clarity-word\">That</span> our oxen <span class=\"clarity-word\">may be</span> strong to labour; <span class=\"clarity-word\">that there be</span> no breaking in, nor going out; that <span class=\"clarity-word\">there be</span> no complaining in our streets.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "psalm-144-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Happy <span class=\"clarity-word\">is that</span> people, that is in such a case: <span class=\"clarity-word\">yea,</span> happy <span class=\"clarity-word\">is that</span> people, whose God <span class=\"clarity-word\">is</span> the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p15"
+    }
+  ]
+}

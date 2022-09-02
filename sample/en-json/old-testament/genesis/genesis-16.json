@@ -1,0 +1,127 @@
+{
+  "name": "Genesis 16",
+  "abbrev": "Gen. 16",
+  "number": "16",
+  "churchUri": "/scriptures/ot/gen/16",
+  "paragraphs": [
+    {
+      "slug": "genesis-16-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 16",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "genesis-16-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Now Sarai Abram’s wife bare him no children: and she had an handmaid, an Egyptian, whose name <span class=\"clarity-word\">was</span> Hagar.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "genesis-16-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And Sarai said unto Abram, Behold now, the <span class=\"small-caps\">Lord</span> hath restrained me from bearing: I pray thee, go in unto my maid; it may be that I may obtain children by her. And Abram hearkened to the voice of Sarai.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "genesis-16-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And Sarai Abram’s wife took Hagar her maid the Egyptian, after Abram had dwelt ten years in the land of Canaan, and gave her to her husband Abram to be his wife.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "genesis-16-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "¶ And he went in unto Hagar, and she conceived: and when she saw that she had conceived, her mistress was despised in her eyes.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "genesis-16-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And Sarai said unto Abram, My wrong <span class=\"clarity-word\">be</span> upon thee: I have given my maid into thy bosom; and when she saw that she had conceived, I was despised in her eyes: the <span class=\"small-caps\">Lord</span> judge between me and thee.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "genesis-16-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "But Abram said unto Sarai, Behold, thy maid <span class=\"clarity-word\">is</span> in thy hand; do to her as it pleaseth thee. And when Sarai dealt hardly with her, she fled from her face.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "genesis-16-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "¶ And the angel of the <span class=\"small-caps\">Lord</span> found her by a fountain of water in the wilderness, by the fountain in the way to Shur.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "genesis-16-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And he said, Hagar, Sarai’s maid, whence camest thou? and whither wilt thou go? And she said, I flee from the face of my mistress Sarai.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "genesis-16-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And the angel of the <span class=\"small-caps\">Lord</span> said unto her, Return to thy mistress, and submit thyself under her hands.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "genesis-16-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And the angel of the <span class=\"small-caps\">Lord</span> said unto her, I will multiply thy seed exceedingly, that it shall not be numbered for multitude.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "genesis-16-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And the angel of the <span class=\"small-caps\">Lord</span> said unto her, Behold, thou <span class=\"clarity-word\">art</span> with child, and shalt bear a son, and shalt call his name Ishmael; because the <span class=\"small-caps\">Lord</span> hath heard thy affliction.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "genesis-16-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And he will be a wild man; his hand <span class=\"clarity-word\">will be</span> against every man, and every man’s hand against him; and he shall dwell in the presence of all his brethren.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "genesis-16-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And she called the name of the <span class=\"small-caps\">Lord</span> that spake unto her, Thou God seest me: for she said, Have I also here looked after him that seeth me?",
+      "churchId": "p13"
+    },
+    {
+      "slug": "genesis-16-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Wherefore the well was called Beer-lahai-roi; behold, <span class=\"clarity-word\">it is</span> between Kadesh and Bered.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "genesis-16-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "¶ And Hagar bare Abram a son: and Abram called his son’s name, which Hagar bare, Ishmael.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "genesis-16-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And Abram <span class=\"clarity-word\">was</span> fourscore and six years old, when Hagar bare Ishmael to Abram.",
+      "churchId": "p16"
+    }
+  ]
+}

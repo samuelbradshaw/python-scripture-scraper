@@ -1,0 +1,288 @@
+{
+  "name": "Matthew 15",
+  "abbrev": "Matt. 15",
+  "number": "15",
+  "churchUri": "/scriptures/nt/matt/15",
+  "paragraphs": [
+    {
+      "slug": "matthew-15-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 15",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "matthew-15-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Then came to Jesus scribes and Pharisees, which were of Jerusalem, saying,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "matthew-15-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Why do thy disciples transgress the tradition of the elders? for they wash not their hands when they eat bread.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "matthew-15-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "But he answered and said unto them, Why do ye also transgress the commandment of God by your tradition?",
+      "churchId": "p3"
+    },
+    {
+      "slug": "matthew-15-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "For God commanded, saying, Honour thy father and mother: and, He that curseth father or mother, let him die the death.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "matthew-15-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "But ye say, Whosoever shall say to <span class=\"clarity-word\">his</span> father or <span class=\"clarity-word\">his</span> mother, <span class=\"clarity-word\">It is</span> a gift, by whatsoever thou mightest be profited by me;",
+      "churchId": "p5"
+    },
+    {
+      "slug": "matthew-15-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And honour not his father or his mother, <span class=\"clarity-word\">he shall be free.</span> Thus have ye made the commandment of God of none effect by your tradition.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "matthew-15-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "<span class=\"clarity-word\">Ye</span> hypocrites, well did Esaias prophesy of you, saying,",
+      "churchId": "p7"
+    },
+    {
+      "slug": "matthew-15-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "This people draweth nigh unto me with their mouth, and honoureth me with <span class=\"clarity-word\">their</span> lips; but their heart is far from me.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "matthew-15-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "But in vain they do worship me, teaching <span class=\"clarity-word\">for</span> doctrines the commandments of men.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "matthew-15-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "¶ And he called the multitude, and said unto them, Hear, and understand:",
+      "churchId": "p10"
+    },
+    {
+      "slug": "matthew-15-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Not that which goeth into the mouth defileth a man; but that which cometh out of the mouth, this defileth a man.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "matthew-15-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Then came his disciples, and said unto him, Knowest thou that the Pharisees were offended, after they heard this saying?",
+      "churchId": "p12"
+    },
+    {
+      "slug": "matthew-15-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "But he answered and said, Every plant, which my heavenly Father hath not planted, shall be rooted up.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "matthew-15-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Let them alone: they be blind leaders of the blind. And if the blind lead the blind, both shall fall into the ditch.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "matthew-15-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Then answered Peter and said unto him, Declare unto us this parable.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "matthew-15-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And Jesus said, Are ye also yet without understanding?",
+      "churchId": "p16"
+    },
+    {
+      "slug": "matthew-15-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Do not ye yet understand, that whatsoever entereth in at the mouth goeth into the belly, and is cast out into the draught?",
+      "churchId": "p17"
+    },
+    {
+      "slug": "matthew-15-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "But those things which proceed out of the mouth come forth from the heart; and they defile the man.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "matthew-15-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "For out of the heart proceed evil thoughts, murders, adulteries, fornications, thefts, false witness, blasphemies:",
+      "churchId": "p19"
+    },
+    {
+      "slug": "matthew-15-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "These are <span class=\"clarity-word\">the things</span> which defile a man: but to eat with unwashen hands defileth not a man.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "matthew-15-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "¶ Then Jesus went thence, and departed into the coasts of Tyre and Sidon.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "matthew-15-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And, behold, a woman of Canaan came out of the same coasts, and cried unto him, saying, Have mercy on me, O Lord, <span class=\"clarity-word\">thou</span> Son of David; my daughter is grievously vexed with a devil.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "matthew-15-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "But he answered her not a word. And his disciples came and besought him, saying, Send her away; for she crieth after us.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "matthew-15-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "But he answered and said, I am not sent but unto the lost sheep of the house of Israel.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "matthew-15-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Then came she and worshipped him, saying, Lord, help me.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "matthew-15-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "But he answered and said, It is not meet to take the children’s bread, and to cast <span class=\"clarity-word\">it</span> to dogs.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "matthew-15-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And she said, Truth, Lord: yet the dogs eat of the crumbs which fall from their masters’ table.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "matthew-15-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "Then Jesus answered and said unto her, O woman, great <span class=\"clarity-word\">is</span> thy faith: be it unto thee even as thou wilt. And her daughter was made whole from that very hour.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "matthew-15-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "And Jesus departed from thence, and came nigh unto the sea of Galilee; and went up into a mountain, and sat down there.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "matthew-15-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And great multitudes came unto him, having with them <span class=\"clarity-word\">those that were</span> lame, blind, dumb, maimed, and many others, and cast them down at Jesus’ feet; and he healed them:",
+      "churchId": "p30"
+    },
+    {
+      "slug": "matthew-15-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "Insomuch that the multitude wondered, when they saw the dumb to speak, the maimed to be whole, the lame to walk, and the blind to see: and they glorified the God of Israel.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "matthew-15-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "¶ Then Jesus called his disciples <span class=\"clarity-word\">unto him,</span> and said, I have compassion on the multitude, because they continue with me now three days, and have nothing to eat: and I will not send them away fasting, lest they faint in the way.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "matthew-15-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "And his disciples say unto him, Whence should we have so much bread in the wilderness, as to fill so great a multitude?",
+      "churchId": "p33"
+    },
+    {
+      "slug": "matthew-15-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "And Jesus saith unto them, How many loaves have ye? And they said, Seven, and a few little fishes.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "matthew-15-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "And he commanded the multitude to sit down on the ground.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "matthew-15-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "And he took the seven loaves and the fishes, and gave thanks, and brake <span class=\"clarity-word\">them,</span> and gave to his disciples, and the disciples to the multitude.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "matthew-15-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "And they did all eat, and were filled: and they took up of the broken <span class=\"clarity-word\">meat</span> that was left seven baskets full.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "matthew-15-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "And they that did eat were four thousand men, beside women and children.",
+      "churchId": "p38"
+    },
+    {
+      "slug": "matthew-15-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "And he sent away the multitude, and took ship, and came into the coasts of Magdala.",
+      "churchId": "p39"
+    }
+  ]
+}

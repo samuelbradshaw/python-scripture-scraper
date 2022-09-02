@@ -1,0 +1,204 @@
+{
+  "name": "Proverbs 4",
+  "abbrev": "Prov. 4",
+  "number": "4",
+  "churchUri": "/scriptures/ot/prov/4",
+  "paragraphs": [
+    {
+      "slug": "proverbs-4-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 4",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "proverbs-4-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Hear, ye children, the instruction of a father, and attend to know understanding.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "proverbs-4-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "For I give you good doctrine, forsake ye not my law.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "proverbs-4-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "For I was my father’s son, tender and only <span class=\"clarity-word\">beloved</span> in the sight of my mother.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "proverbs-4-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "He taught me also, and said unto me, Let thine heart retain my words: keep my commandments, and live.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "proverbs-4-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Get wisdom, get understanding: forget <span class=\"clarity-word\">it</span> not; neither decline from the words of my mouth.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "proverbs-4-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Forsake her not, and she shall preserve thee: love her, and she shall keep thee.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "proverbs-4-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Wisdom <span class=\"clarity-word\">is</span> the principal thing; <span class=\"clarity-word\">therefore</span> get wisdom: and with all thy getting get understanding.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "proverbs-4-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Exalt her, and she shall promote thee: she shall bring thee to honour, when thou dost embrace her.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "proverbs-4-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "She shall give to thine head an ornament of grace: a crown of glory shall she deliver to thee.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "proverbs-4-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Hear, O my son, and receive my sayings; and the years of thy life shall be many.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "proverbs-4-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "I have taught thee in the way of wisdom; I have led thee in right paths.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "proverbs-4-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "When thou goest, thy steps shall not be straitened; and when thou runnest, thou shalt not stumble.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "proverbs-4-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Take fast hold of instruction; let <span class=\"clarity-word\">her</span> not go: keep her; for she <span class=\"clarity-word\">is</span> thy life.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "proverbs-4-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "¶ Enter not into the path of the wicked, and go not in the way of evil <span class=\"clarity-word\">men.</span>",
+      "churchId": "p14"
+    },
+    {
+      "slug": "proverbs-4-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Avoid it, pass not by it, turn from it, and pass away.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "proverbs-4-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "For they sleep not, except they have done mischief; and their sleep is taken away, unless they cause <span class=\"clarity-word\">some</span> to fall.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "proverbs-4-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "For they eat the bread of wickedness, and drink the wine of violence.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "proverbs-4-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "But the path of the just <span class=\"clarity-word\">is</span> as the shining light, that shineth more and more unto the perfect day.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "proverbs-4-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "The way of the wicked <span class=\"clarity-word\">is</span> as darkness: they know not at what they stumble.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "proverbs-4-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "¶ My son, attend to my words; incline thine ear unto my sayings.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "proverbs-4-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Let them not depart from thine eyes; keep them in the midst of thine heart.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "proverbs-4-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "For they <span class=\"clarity-word\">are</span> life unto those that find them, and health to all their flesh.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "proverbs-4-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "¶ Keep thy heart with all diligence; for out of it <span class=\"clarity-word\">are</span> the issues of life.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "proverbs-4-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Put away from thee a froward mouth, and perverse lips put far from thee.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "proverbs-4-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Let thine eyes look right on, and let thine eyelids look straight before thee.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "proverbs-4-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "Ponder the path of thy feet, and let all thy ways be established.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "proverbs-4-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "Turn not to the right hand nor to the left: remove thy foot from evil.",
+      "churchId": "p27"
+    }
+  ]
+}

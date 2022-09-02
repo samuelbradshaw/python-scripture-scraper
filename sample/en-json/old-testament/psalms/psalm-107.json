@@ -1,0 +1,316 @@
+{
+  "name": "Psalm 107",
+  "abbrev": "Psalm 107",
+  "number": "107",
+  "churchUri": "/scriptures/ot/ps/107",
+  "paragraphs": [
+    {
+      "slug": "psalm-107-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 107",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-107-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "O give thanks unto the <span class=\"small-caps\">Lord</span>, for <span class=\"clarity-word\">he is</span> good: for his mercy <span class=\"clarity-word\">endureth</span> for ever.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-107-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Let the redeemed of the <span class=\"small-caps\">Lord</span> say <span class=\"clarity-word\">so,</span> whom he hath redeemed from the hand of the enemy;",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-107-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And gathered them out of the lands, from the east, and from the west, from the north, and from the south.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-107-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "They wandered in the wilderness in a solitary way; they found no city to dwell in.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-107-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Hungry and thirsty, their soul fainted in them.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-107-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Then they cried unto the <span class=\"small-caps\">Lord</span> in their trouble, <span class=\"clarity-word\">and</span> he delivered them out of their distresses.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-107-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And he led them forth by the right way, that they might go to a city of habitation.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-107-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Oh that <span class=\"clarity-word\">men</span> would praise the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">for</span> his goodness, and <span class=\"clarity-word\">for</span> his wonderful works to the children of men!",
+      "churchId": "p8"
+    },
+    {
+      "slug": "psalm-107-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "For he satisfieth the longing soul, and filleth the hungry soul with goodness.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "psalm-107-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Such as sit in darkness and in the shadow of death, <span class=\"clarity-word\">being</span> bound in affliction and iron;",
+      "churchId": "p10"
+    },
+    {
+      "slug": "psalm-107-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Because they rebelled against the words of God, and contemned the counsel of the most High:",
+      "churchId": "p11"
+    },
+    {
+      "slug": "psalm-107-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Therefore he brought down their heart with labour; they fell down, and <span class=\"clarity-word\">there was</span> none to help.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "psalm-107-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Then they cried unto the <span class=\"small-caps\">Lord</span> in their trouble, <span class=\"clarity-word\">and</span> he saved them out of their distresses.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "psalm-107-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "He brought them out of darkness and the shadow of death, and brake their bands in sunder.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "psalm-107-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Oh that <span class=\"clarity-word\">men</span> would praise the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">for</span> his goodness, and <span class=\"clarity-word\">for</span> his wonderful works to the children of men!",
+      "churchId": "p15"
+    },
+    {
+      "slug": "psalm-107-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "For he hath broken the gates of brass, and cut the bars of iron in sunder.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "psalm-107-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Fools because of their transgression, and because of their iniquities, are afflicted.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "psalm-107-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Their soul abhorreth all manner of meat; and they draw near unto the gates of death.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "psalm-107-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Then they cry unto the <span class=\"small-caps\">Lord</span> in their trouble, <span class=\"clarity-word\">and</span> he saveth them out of their distresses.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "psalm-107-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "He sent his word, and healed them, and delivered <span class=\"clarity-word\">them</span> from their destructions.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "psalm-107-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Oh that <span class=\"clarity-word\">men</span> would praise the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">for</span> his goodness, and <span class=\"clarity-word\">for</span> his wonderful works to the children of men!",
+      "churchId": "p21"
+    },
+    {
+      "slug": "psalm-107-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And let them sacrifice the sacrifices of thanksgiving, and declare his works with rejoicing.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "psalm-107-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "They that go down to the sea in ships, that do business in great waters;",
+      "churchId": "p23"
+    },
+    {
+      "slug": "psalm-107-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "These see the works of the <span class=\"small-caps\">Lord</span>, and his wonders in the deep.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "psalm-107-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "For he commandeth, and raiseth the stormy wind, which lifteth up the waves thereof.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "psalm-107-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "They mount up to the heaven, they go down again to the depths: their soul is melted because of trouble.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "psalm-107-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "They reel to and fro, and stagger like a drunken man, and are at their wits’ end.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "psalm-107-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "Then they cry unto the <span class=\"small-caps\">Lord</span> in their trouble, and he bringeth them out of their distresses.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "psalm-107-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "He maketh the storm a calm, so that the waves thereof are still.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "psalm-107-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "Then are they glad because they be quiet; so he bringeth them unto their desired haven.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "psalm-107-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "Oh that <span class=\"clarity-word\">men</span> would praise the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">for</span> his goodness, and <span class=\"clarity-word\">for</span> his wonderful works to the children of men!",
+      "churchId": "p31"
+    },
+    {
+      "slug": "psalm-107-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "Let them exalt him also in the congregation of the people, and praise him in the assembly of the elders.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "psalm-107-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "He turneth rivers into a wilderness, and the watersprings into dry ground;",
+      "churchId": "p33"
+    },
+    {
+      "slug": "psalm-107-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "A fruitful land into barrenness, for the wickedness of them that dwell therein.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "psalm-107-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "He turneth the wilderness into a standing water, and dry ground into watersprings.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "psalm-107-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "And there he maketh the hungry to dwell, that they may prepare a city for habitation;",
+      "churchId": "p36"
+    },
+    {
+      "slug": "psalm-107-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "And sow the fields, and plant vineyards, which may yield fruits of increase.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "psalm-107-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "He blesseth them also, so that they are multiplied greatly; and suffereth not their cattle to decrease.",
+      "churchId": "p38"
+    },
+    {
+      "slug": "psalm-107-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "Again, they are minished and brought low through oppression, affliction, and sorrow.",
+      "churchId": "p39"
+    },
+    {
+      "slug": "psalm-107-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "He poureth contempt upon princes, and causeth them to wander in the wilderness, <span class=\"clarity-word\">where there is</span> no way.",
+      "churchId": "p40"
+    },
+    {
+      "slug": "psalm-107-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "Yet setteth he the poor on high from affliction, and maketh <span class=\"clarity-word\">him</span> families like a flock.",
+      "churchId": "p41"
+    },
+    {
+      "slug": "psalm-107-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "The righteous shall see <span class=\"clarity-word\">it,</span> and rejoice: and all iniquity shall stop her mouth.",
+      "churchId": "p42"
+    },
+    {
+      "slug": "psalm-107-p43",
+      "type": "verse",
+      "number": "43",
+      "content": "Whoso <span class=\"clarity-word\">is</span> wise, and will observe these <span class=\"clarity-word\">things,</span> even they shall understand the lovingkindness of the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p43"
+    }
+  ]
+}

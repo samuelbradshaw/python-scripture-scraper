@@ -1,0 +1,85 @@
+{
+  "name": "Psalm 28",
+  "abbrev": "Psalm 28",
+  "number": "28",
+  "churchUri": "/scriptures/ot/ps/28",
+  "paragraphs": [
+    {
+      "slug": "psalm-28-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 28",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-28-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "<span class=\"clarity-word\">A Psalm</span> of David.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-28-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Unto thee will I cry, O <span class=\"small-caps\">Lord</span> my rock; be not silent to me: lest, <span class=\"clarity-word\">if</span> thou be silent to me, I become like them that go down into the pit.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-28-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Hear the voice of my supplications, when I cry unto thee, when I lift up my hands toward thy holy oracle.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-28-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Draw me not away with the wicked, and with the workers of iniquity, which speak peace to their neighbours, but mischief <span class=\"clarity-word\">is</span> in their hearts.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-28-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Give them according to their deeds, and according to the wickedness of their endeavours: give them after the work of their hands; render to them their desert.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-28-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Because they regard not the works of the <span class=\"small-caps\">Lord</span>, nor the operation of his hands, he shall destroy them, and not build them up.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-28-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Blessed <span class=\"clarity-word\">be</span> the <span class=\"small-caps\">Lord</span>, because he hath heard the voice of my supplications.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-28-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "The <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">is</span> my strength and my shield; my heart trusted in him, and I am helped: therefore my heart greatly rejoiceth; and with my song will I praise him.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-28-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "The <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">is</span> their strength, and he <span class=\"clarity-word\">is</span> the saving strength of his anointed.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "psalm-28-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Save thy people, and bless thine inheritance: feed them also, and lift them up for ever.",
+      "churchId": "p9"
+    }
+  ]
+}

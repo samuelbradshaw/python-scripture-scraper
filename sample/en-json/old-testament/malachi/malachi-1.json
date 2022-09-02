@@ -1,0 +1,120 @@
+{
+  "name": "Malachi 1",
+  "abbrev": "Mal. 1",
+  "number": "1",
+  "churchUri": "/scriptures/ot/mal/1",
+  "paragraphs": [
+    {
+      "slug": "malachi-1-title1",
+      "type": "book-title",
+      "number": null,
+      "content": "Malachi",
+      "churchId": "title1"
+    },
+    {
+      "slug": "malachi-1-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 1",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "malachi-1-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "The burden of the word of the <span class=\"small-caps\">Lord</span> to Israel by Malachi.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "malachi-1-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "I have loved you, saith the <span class=\"small-caps\">Lord</span>. Yet ye say, Wherein hast thou loved us? <span class=\"clarity-word\">Was</span> not Esau Jacob’s brother? saith the <span class=\"small-caps\">Lord</span>: yet I loved Jacob,",
+      "churchId": "p2"
+    },
+    {
+      "slug": "malachi-1-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And I hated Esau, and laid his mountains and his heritage waste for the dragons of the wilderness.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "malachi-1-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Whereas Edom saith, We are impoverished, but we will return and build the desolate places; thus saith the <span class=\"small-caps\">Lord</span> of hosts, They shall build, but I will throw down; and they shall call them, The border of wickedness, and, The people against whom the <span class=\"small-caps\">Lord</span> hath indignation for ever.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "malachi-1-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And your eyes shall see, and ye shall say, The <span class=\"small-caps\">Lord</span> will be magnified from the border of Israel.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "malachi-1-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "¶ A son honoureth <span class=\"clarity-word\">his</span> father, and a servant his master: if then I <span class=\"clarity-word\">be</span> a father, where <span class=\"clarity-word\">is</span> mine honour? and if I <span class=\"clarity-word\">be</span> a master, where <span class=\"clarity-word\">is</span> my fear? saith the <span class=\"small-caps\">Lord</span> of hosts unto you, O priests, that despise my name. And ye say, Wherein have we despised thy name?",
+      "churchId": "p6"
+    },
+    {
+      "slug": "malachi-1-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Ye offer polluted bread upon mine altar; and ye say, Wherein have we polluted thee? In that ye say, The table of the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">is</span> contemptible.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "malachi-1-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And if ye offer the blind for sacrifice, <span class=\"clarity-word\">is it</span> not evil? and if ye offer the lame and sick, <span class=\"clarity-word\">is it</span> not evil? offer it now unto thy governor; will he be pleased with thee, or accept thy person? saith the <span class=\"small-caps\">Lord</span> of hosts.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "malachi-1-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And now, I pray you, beseech God that he will be gracious unto us: this hath been by your means: will he regard your persons? saith the <span class=\"small-caps\">Lord</span> of hosts.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "malachi-1-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Who <span class=\"clarity-word\">is there</span> even among you that would shut the doors <span class=\"clarity-word\">for nought?</span> neither do ye kindle <span class=\"clarity-word\">fire</span> on mine altar for nought. I have no pleasure in you, saith the <span class=\"small-caps\">Lord</span> of hosts, neither will I accept an offering at your hand.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "malachi-1-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "For from the rising of the sun even unto the going down of the same my name <span class=\"clarity-word\">shall be</span> great among the Gentiles; and in every place incense <span class=\"clarity-word\">shall be</span> offered unto my name, and a pure offering: for my name <span class=\"clarity-word\">shall be</span> great among the heathen, saith the <span class=\"small-caps\">Lord</span> of hosts.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "malachi-1-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "¶ But ye have profaned it, in that ye say, The table of the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">is</span> polluted; and the fruit thereof, <span class=\"clarity-word\">even</span> his meat, <span class=\"clarity-word\">is</span> contemptible.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "malachi-1-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Ye said also, Behold, what a weariness <span class=\"clarity-word\">is it!</span> and ye have snuffed at it, saith the <span class=\"small-caps\">Lord</span> of hosts; and ye brought <span class=\"clarity-word\">that which was</span> torn, and the lame, and the sick; thus ye brought an offering: should I accept this of your hand? saith the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "malachi-1-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "But cursed <span class=\"clarity-word\">be</span> the deceiver, which hath in his flock a male, and voweth, and sacrificeth unto the Lord a corrupt thing: for I <span class=\"clarity-word\">am</span> a great King, saith the <span class=\"small-caps\">Lord</span> of hosts, and my name <span class=\"clarity-word\">is</span> dreadful among the heathen.",
+      "churchId": "p14"
+    }
+  ]
+}

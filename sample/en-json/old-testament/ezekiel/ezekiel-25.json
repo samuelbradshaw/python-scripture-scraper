@@ -1,0 +1,134 @@
+{
+  "name": "Ezekiel 25",
+  "abbrev": "Ezek. 25",
+  "number": "25",
+  "churchUri": "/scriptures/ot/ezek/25",
+  "paragraphs": [
+    {
+      "slug": "ezekiel-25-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 25",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "ezekiel-25-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "The word of the <span class=\"small-caps\">Lord</span> came again unto me, saying,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "ezekiel-25-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Son of man, set thy face against the Ammonites, and prophesy against them;",
+      "churchId": "p2"
+    },
+    {
+      "slug": "ezekiel-25-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And say unto the Ammonites, Hear the word of the Lord <span class=\"small-caps\">God</span>; Thus saith the Lord <span class=\"small-caps\">God</span>; Because thou saidst, Aha, against my sanctuary, when it was profaned; and against the land of Israel, when it was desolate; and against the house of Judah, when they went into captivity;",
+      "churchId": "p3"
+    },
+    {
+      "slug": "ezekiel-25-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Behold, therefore I will deliver thee to the men of the east for a possession, and they shall set their palaces in thee, and make their dwellings in thee: they shall eat thy fruit, and they shall drink thy milk.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "ezekiel-25-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And I will make Rabbah a stable for camels, and the Ammonites a couchingplace for flocks: and ye shall know that I <span class=\"clarity-word\">am</span> the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "ezekiel-25-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "For thus saith the Lord <span class=\"small-caps\">God</span>; Because thou hast clapped <span class=\"clarity-word\">thine</span> hands, and stamped with the feet, and rejoiced in heart with all thy despite against the land of Israel;",
+      "churchId": "p6"
+    },
+    {
+      "slug": "ezekiel-25-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Behold, therefore I will stretch out mine hand upon thee, and will deliver thee for a spoil to the heathen; and I will cut thee off from the people, and I will cause thee to perish out of the countries: I will destroy thee; and thou shalt know that I <span class=\"clarity-word\">am</span> the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "ezekiel-25-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "¶ Thus saith the Lord <span class=\"small-caps\">God</span>; Because that Moab and Seir do say, Behold, the house of Judah <span class=\"clarity-word\">is</span> like unto all the heathen;",
+      "churchId": "p8"
+    },
+    {
+      "slug": "ezekiel-25-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Therefore, behold, I will open the side of Moab from the cities, from his cities <span class=\"clarity-word\">which are</span> on his frontiers, the glory of the country, Beth-jeshimoth, Baal-meon, and Kiriathaim,",
+      "churchId": "p9"
+    },
+    {
+      "slug": "ezekiel-25-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Unto the men of the east with the Ammonites, and will give them in possession, that the Ammonites may not be remembered among the nations.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "ezekiel-25-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And I will execute judgments upon Moab; and they shall know that I <span class=\"clarity-word\">am</span> the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "ezekiel-25-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "¶ Thus saith the Lord <span class=\"small-caps\">God</span>; Because that Edom hath dealt against the house of Judah by taking vengeance, and hath greatly offended, and revenged himself upon them;",
+      "churchId": "p12"
+    },
+    {
+      "slug": "ezekiel-25-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Therefore thus saith the Lord <span class=\"small-caps\">God</span>; I will also stretch out mine hand upon Edom, and will cut off man and beast from it; and I will make it desolate from Teman; and they of Dedan shall fall by the sword.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "ezekiel-25-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And I will lay my vengeance upon Edom by the hand of my people Israel: and they shall do in Edom according to mine anger and according to my fury; and they shall know my vengeance, saith the Lord <span class=\"small-caps\">God</span>.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "ezekiel-25-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "¶ Thus saith the Lord <span class=\"small-caps\">God</span>; Because the Philistines have dealt by revenge, and have taken vengeance with a despiteful heart, to destroy <span class=\"clarity-word\">it</span> for the old hatred;",
+      "churchId": "p15"
+    },
+    {
+      "slug": "ezekiel-25-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Therefore thus saith the Lord <span class=\"small-caps\">God</span>; Behold, I will stretch out mine hand upon the Philistines, and I will cut off the Cherethims, and destroy the remnant of the sea coast.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "ezekiel-25-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And I will execute great vengeance upon them with furious rebukes; and they shall know that I <span class=\"clarity-word\">am</span> the <span class=\"small-caps\">Lord</span>, when I shall lay my vengeance upon them.",
+      "churchId": "p17"
+    }
+  ]
+}

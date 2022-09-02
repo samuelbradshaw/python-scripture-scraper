@@ -1,0 +1,246 @@
+{
+  "name": "Job 36",
+  "abbrev": "Job 36",
+  "number": "36",
+  "churchUri": "/scriptures/ot/job/36",
+  "paragraphs": [
+    {
+      "slug": "job-36-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 36",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "job-36-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Elihu also proceeded, and said,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "job-36-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Suffer me a little, and I will shew thee that <span class=\"clarity-word\">I have</span> yet to speak on God’s behalf.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "job-36-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "I will fetch my knowledge from afar, and will ascribe righteousness to my Maker.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "job-36-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "For truly my words <span class=\"clarity-word\">shall</span> not <span class=\"clarity-word\">be</span> false: he that is perfect in knowledge <span class=\"clarity-word\">is</span> with thee.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "job-36-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Behold, God <span class=\"clarity-word\">is</span> mighty, and despiseth not <span class=\"clarity-word\">any: he is</span> mighty in strength <span class=\"clarity-word\">and</span> wisdom.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "job-36-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "He preserveth not the life of the wicked: but giveth right to the poor.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "job-36-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "He withdraweth not his eyes from the righteous: but with kings <span class=\"clarity-word\">are they</span> on the throne; yea, he doth establish them for ever, and they are exalted.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "job-36-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And if <span class=\"clarity-word\">they be</span> bound in fetters, <span class=\"clarity-word\">and</span> be holden in cords of affliction;",
+      "churchId": "p8"
+    },
+    {
+      "slug": "job-36-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Then he sheweth them their work, and their transgressions that they have exceeded.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "job-36-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "He openeth also their ear to discipline, and commandeth that they return from iniquity.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "job-36-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "If they obey and serve <span class=\"clarity-word\">him,</span> they shall spend their days in prosperity, and their years in pleasures.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "job-36-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "But if they obey not, they shall perish by the sword, and they shall die without knowledge.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "job-36-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "But the hypocrites in heart heap up wrath: they cry not when he bindeth them.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "job-36-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "They die in youth, and their life <span class=\"clarity-word\">is</span> among the unclean.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "job-36-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "He delivereth the poor in his affliction, and openeth their ears in oppression.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "job-36-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Even so would he have removed thee out of the strait <span class=\"clarity-word\">into</span> a broad place, where <span class=\"clarity-word\">there is</span> no straitness; and that which should be set on thy table <span class=\"clarity-word\">should be</span> full of fatness.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "job-36-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "But thou hast fulfilled the judgment of the wicked: judgment and justice take hold <span class=\"clarity-word\">on thee.</span>",
+      "churchId": "p17"
+    },
+    {
+      "slug": "job-36-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Because <span class=\"clarity-word\">there is</span> wrath, <span class=\"clarity-word\">beware</span> lest he take thee away with <span class=\"clarity-word\">his</span> stroke: then a great ransom cannot deliver thee.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "job-36-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Will he esteem thy riches? <span class=\"clarity-word\">no,</span> not gold, nor all the forces of strength.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "job-36-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Desire not the night, when people are cut off in their place.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "job-36-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Take heed, regard not iniquity: for this hast thou chosen rather than affliction.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "job-36-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Behold, God exalteth by his power: who teacheth like him?",
+      "churchId": "p22"
+    },
+    {
+      "slug": "job-36-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Who hath enjoined him his way? or who can say, Thou hast wrought iniquity?",
+      "churchId": "p23"
+    },
+    {
+      "slug": "job-36-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Remember that thou magnify his work, which men behold.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "job-36-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Every man may see it; man may behold <span class=\"clarity-word\">it</span> afar off.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "job-36-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "Behold, God <span class=\"clarity-word\">is</span> great, and we know <span class=\"clarity-word\">him</span> not, neither can the number of his years be searched out.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "job-36-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "For he maketh small the drops of water: they pour down rain according to the vapour thereof:",
+      "churchId": "p27"
+    },
+    {
+      "slug": "job-36-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "Which the clouds do drop <span class=\"clarity-word\">and</span> distil upon man abundantly.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "job-36-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "Also can <span class=\"clarity-word\">any</span> understand the spreadings of the clouds, <span class=\"clarity-word\">or</span> the noise of his tabernacle?",
+      "churchId": "p29"
+    },
+    {
+      "slug": "job-36-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "Behold, he spreadeth his light upon it, and covereth the bottom of the sea.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "job-36-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "For by them judgeth he the people; he giveth meat in abundance.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "job-36-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "With clouds he covereth the light; and commandeth it <span class=\"clarity-word\">not to shine</span> by <span class=\"clarity-word\">the cloud</span> that cometh betwixt.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "job-36-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "The noise thereof sheweth concerning it, the cattle also concerning the vapour.",
+      "churchId": "p33"
+    }
+  ]
+}

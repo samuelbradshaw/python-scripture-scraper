@@ -1,0 +1,148 @@
+{
+  "name": "2 Chronicles 17",
+  "abbrev": "2 Chr. 17",
+  "number": "17",
+  "churchUri": "/scriptures/ot/2-chr/17",
+  "paragraphs": [
+    {
+      "slug": "2-chronicles-17-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 17",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "2-chronicles-17-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And Jehoshaphat his son reigned in his stead, and strengthened himself against Israel.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "2-chronicles-17-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And he placed forces in all the fenced cities of Judah, and set garrisons in the land of Judah, and in the cities of Ephraim, which Asa his father had taken.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "2-chronicles-17-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And the <span class=\"small-caps\">Lord</span> was with Jehoshaphat, because he walked in the first ways of his father David, and sought not unto Baalim;",
+      "churchId": "p3"
+    },
+    {
+      "slug": "2-chronicles-17-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "But sought to the <span class=\"clarity-word\"><span class=\"small-caps\">Lord</span></span> God of his father, and walked in his commandments, and not after the doings of Israel.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "2-chronicles-17-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Therefore the <span class=\"small-caps\">Lord</span> stablished the kingdom in his hand; and all Judah brought to Jehoshaphat presents; and he had riches and honour in abundance.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "2-chronicles-17-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And his heart was lifted up in the ways of the <span class=\"small-caps\">Lord</span>: moreover he took away the high places and groves out of Judah.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "2-chronicles-17-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "¶ Also in the third year of his reign he sent to his princes, <span class=\"clarity-word\">even</span> to Ben-hail, and to Obadiah, and to Zechariah, and to Nethaneel, and to Michaiah, to teach in the cities of Judah.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "2-chronicles-17-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And with them <span class=\"clarity-word\">he sent</span> Levites, <span class=\"clarity-word\">even</span> Shemaiah, and Nethaniah, and Zebadiah, and Asahel, and Shemiramoth, and Jehonathan, and Adonijah, and Tobijah, and Tob-adonijah, Levites; and with them Elishama and Jehoram, priests.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "2-chronicles-17-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And they taught in Judah, and <span class=\"clarity-word\">had</span> the book of the law of the <span class=\"small-caps\">Lord</span> with them, and went about throughout all the cities of Judah, and taught the people.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "2-chronicles-17-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "¶ And the fear of the <span class=\"small-caps\">Lord</span> fell upon all the kingdoms of the lands that <span class=\"clarity-word\">were</span> round about Judah, so that they made no war against Jehoshaphat.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "2-chronicles-17-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Also <span class=\"clarity-word\">some</span> of the Philistines brought Jehoshaphat presents, and tribute silver; and the Arabians brought him flocks, seven thousand and seven hundred rams, and seven thousand and seven hundred he goats.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "2-chronicles-17-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "¶ And Jehoshaphat waxed great exceedingly; and he built in Judah castles, and cities of store.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "2-chronicles-17-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And he had much business in the cities of Judah: and the men of war, mighty men of valour, <span class=\"clarity-word\">were</span> in Jerusalem.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "2-chronicles-17-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And these <span class=\"clarity-word\">are</span> the numbers of them according to the house of their fathers: Of Judah, the captains of thousands; Adnah the chief, and with him mighty men of valour three hundred thousand.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "2-chronicles-17-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And next to him <span class=\"clarity-word\">was</span> Jehohanan the captain, and with him two hundred and fourscore thousand.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "2-chronicles-17-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And next him <span class=\"clarity-word\">was</span> Amasiah the son of Zichri, who willingly offered himself unto the <span class=\"small-caps\">Lord</span>; and with him two hundred thousand mighty men of valour.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "2-chronicles-17-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And of Benjamin; Eliada a mighty man of valour, and with him armed men with bow and shield two hundred thousand.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "2-chronicles-17-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And next him <span class=\"clarity-word\">was</span> Jehozabad, and with him an hundred and fourscore thousand ready prepared for the war.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "2-chronicles-17-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "These waited on the king, beside <span class=\"clarity-word\">those</span> whom the king put in the fenced cities throughout all Judah.",
+      "churchId": "p19"
+    }
+  ]
+}

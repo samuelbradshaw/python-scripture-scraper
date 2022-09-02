@@ -1,0 +1,855 @@
+{
+  "name": "Doctrine and Covenants 84",
+  "abbrev": "D&C 84",
+  "number": "84",
+  "churchUri": "/scriptures/dc-testament/dc/84",
+  "paragraphs": [
+    {
+      "slug": "section-84-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Section 84",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "section-84-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "A revelation of Jesus Christ unto his servant Joseph Smith, Jun., and six elders, as they united their hearts and lifted their voices on high.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "section-84-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Yea, the word of the Lord concerning his church, established in the last days for the restoration of his people, as he has spoken by the mouth of his prophets, and for the gathering of his saints to stand upon Mount Zion, which shall be the city of New Jerusalem.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "section-84-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Which city shall be built, beginning at the temple lot, which is appointed by the finger of the Lord, in the western boundaries of the State of Missouri, and dedicated by the hand of Joseph Smith, Jun., and others with whom the Lord was well pleased.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "section-84-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Verily this is the word of the Lord, that the city New Jerusalem shall be built by the gathering of the saints, beginning at this place, even the place of the temple, which temple shall be reared in this generation.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "section-84-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "For verily this generation shall not all pass away until an house shall be built unto the Lord, and a cloud shall rest upon it, which cloud shall be even the glory of the Lord, which shall fill the house.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "section-84-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And the sons of Moses, according to the Holy Priesthood which he received under the hand of his father-in-law, Jethro;",
+      "churchId": "p6"
+    },
+    {
+      "slug": "section-84-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And Jethro received it under the hand of Caleb;",
+      "churchId": "p7"
+    },
+    {
+      "slug": "section-84-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And Caleb received it under the hand of Elihu;",
+      "churchId": "p8"
+    },
+    {
+      "slug": "section-84-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And Elihu under the hand of Jeremy;",
+      "churchId": "p9"
+    },
+    {
+      "slug": "section-84-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And Jeremy under the hand of Gad;",
+      "churchId": "p10"
+    },
+    {
+      "slug": "section-84-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And Gad under the hand of Esaias;",
+      "churchId": "p11"
+    },
+    {
+      "slug": "section-84-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And Esaias received it under the hand of God.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "section-84-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Esaias also lived in the days of Abraham, and was blessed of him—",
+      "churchId": "p13"
+    },
+    {
+      "slug": "section-84-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Which Abraham received the priesthood from Melchizedek, who received it through the lineage of his fathers, even till Noah;",
+      "churchId": "p14"
+    },
+    {
+      "slug": "section-84-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And from Noah till Enoch, through the lineage of their fathers;",
+      "churchId": "p15"
+    },
+    {
+      "slug": "section-84-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And from Enoch to Abel, who was slain by the conspiracy of his brother, who received the priesthood by the commandments of God, by the hand of his father Adam, who was the first man—",
+      "churchId": "p16"
+    },
+    {
+      "slug": "section-84-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Which priesthood continueth in the church of God in all generations, and is without beginning of days or end of years.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "section-84-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And the Lord confirmed a priesthood also upon Aaron and his seed, throughout all their generations, which priesthood also continueth and abideth forever with the priesthood which is after the holiest order of God.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "section-84-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And this greater priesthood administereth the gospel and holdeth the key of the mysteries of the kingdom, even the key of the knowledge of God.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "section-84-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Therefore, in the ordinances thereof, the power of godliness is manifest.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "section-84-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And without the ordinances thereof, and the authority of the priesthood, the power of godliness is not manifest unto men in the flesh;",
+      "churchId": "p21"
+    },
+    {
+      "slug": "section-84-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "For without this no man can see the face of God, even the Father, and live.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "section-84-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Now this Moses plainly taught to the children of Israel in the wilderness, and sought diligently to sanctify his people that they might behold the face of God;",
+      "churchId": "p23"
+    },
+    {
+      "slug": "section-84-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "But they hardened their hearts and could not endure his presence; therefore, the Lord in his wrath, for his anger was kindled against them, swore that they should not enter into his rest while in the wilderness, which rest is the fulness of his glory.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "section-84-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Therefore, he took Moses out of their midst, and the Holy Priesthood also;",
+      "churchId": "p25"
+    },
+    {
+      "slug": "section-84-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And the lesser priesthood continued, which priesthood holdeth the key of the ministering of angels and the preparatory gospel;",
+      "churchId": "p26"
+    },
+    {
+      "slug": "section-84-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "Which gospel is the gospel of repentance and of baptism, and the remission of sins, and the law of carnal commandments, which the Lord in his wrath caused to continue with the house of Aaron among the children of Israel until John, whom God raised up, being filled with the Holy Ghost from his mother’s womb.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "section-84-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "For he was baptized while he was yet in his childhood, and was ordained by the angel of God at the time he was eight days old unto this power, to overthrow the kingdom of the Jews, and to make straight the way of the Lord before the face of his people, to prepare them for the coming of the Lord, in whose hand is given all power.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "section-84-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "And again, the offices of elder and bishop are necessary appendages belonging unto the high priesthood.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "section-84-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And again, the offices of teacher and deacon are necessary appendages belonging to the lesser priesthood, which priesthood was confirmed upon Aaron and his sons.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "section-84-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "Therefore, as I said concerning the sons of Moses—for the sons of Moses and also the sons of Aaron shall offer an acceptable offering and sacrifice in the house of the Lord, which house shall be built unto the Lord in this generation, upon the consecrated spot as I have appointed—",
+      "churchId": "p31"
+    },
+    {
+      "slug": "section-84-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "And the sons of Moses and of Aaron shall be filled with the glory of the Lord, upon Mount Zion in the Lord’s house, whose sons are ye; and also many whom I have called and sent forth to build up my church.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "section-84-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "For whoso is faithful unto the obtaining these two priesthoods of which I have spoken, and the magnifying their calling, are sanctified by the Spirit unto the renewing of their bodies.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "section-84-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "They become the sons of Moses and of Aaron and the seed of Abraham, and the church and kingdom, and the elect of God.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "section-84-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "And also all they who receive this priesthood receive me, saith the Lord;",
+      "churchId": "p35"
+    },
+    {
+      "slug": "section-84-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "For he that receiveth my servants receiveth me;",
+      "churchId": "p36"
+    },
+    {
+      "slug": "section-84-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "And he that receiveth me receiveth my Father;",
+      "churchId": "p37"
+    },
+    {
+      "slug": "section-84-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "And he that receiveth my Father receiveth my Father’s kingdom; therefore all that my Father hath shall be given unto him.",
+      "churchId": "p38"
+    },
+    {
+      "slug": "section-84-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "And this is according to the oath and covenant which belongeth to the priesthood.",
+      "churchId": "p39"
+    },
+    {
+      "slug": "section-84-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "Therefore, all those who receive the priesthood, receive this oath and covenant of my Father, which he cannot break, neither can it be moved.",
+      "churchId": "p40"
+    },
+    {
+      "slug": "section-84-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "But whoso breaketh this covenant after he hath received it, and altogether turneth therefrom, shall not have forgiveness of sins in this world nor in the world to come.",
+      "churchId": "p41"
+    },
+    {
+      "slug": "section-84-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "And wo unto all those who come not unto this priesthood which ye have received, which I now confirm upon you who are present this day, by mine own voice out of the heavens; and even I have given the heavenly hosts and mine angels charge concerning you.",
+      "churchId": "p42"
+    },
+    {
+      "slug": "section-84-p43",
+      "type": "verse",
+      "number": "43",
+      "content": "And I now give unto you a commandment to beware concerning yourselves, to give diligent heed to the words of eternal life.",
+      "churchId": "p43"
+    },
+    {
+      "slug": "section-84-p44",
+      "type": "verse",
+      "number": "44",
+      "content": "For you shall live by every word that proceedeth forth from the mouth of God.",
+      "churchId": "p44"
+    },
+    {
+      "slug": "section-84-p45",
+      "type": "verse",
+      "number": "45",
+      "content": "For the word of the Lord is truth, and whatsoever is truth is light, and whatsoever is light is Spirit, even the Spirit of Jesus Christ.",
+      "churchId": "p45"
+    },
+    {
+      "slug": "section-84-p46",
+      "type": "verse",
+      "number": "46",
+      "content": "And the Spirit giveth light to every man that cometh into the world; and the Spirit enlighteneth every man through the world, that hearkeneth to the voice of the Spirit.",
+      "churchId": "p46"
+    },
+    {
+      "slug": "section-84-p47",
+      "type": "verse",
+      "number": "47",
+      "content": "And every one that hearkeneth to the voice of the Spirit cometh unto God, even the Father.",
+      "churchId": "p47"
+    },
+    {
+      "slug": "section-84-p48",
+      "type": "verse",
+      "number": "48",
+      "content": "And the Father teacheth him of the covenant which he has renewed and confirmed upon you, which is confirmed upon you for your sakes, and not for your sakes only, but for the sake of the whole world.",
+      "churchId": "p48"
+    },
+    {
+      "slug": "section-84-p49",
+      "type": "verse",
+      "number": "49",
+      "content": "And the whole world lieth in sin, and groaneth under darkness and under the bondage of sin.",
+      "churchId": "p49"
+    },
+    {
+      "slug": "section-84-p50",
+      "type": "verse",
+      "number": "50",
+      "content": "And by this you may know they are under the bondage of sin, because they come not unto me.",
+      "churchId": "p50"
+    },
+    {
+      "slug": "section-84-p51",
+      "type": "verse",
+      "number": "51",
+      "content": "For whoso cometh not unto me is under the bondage of sin.",
+      "churchId": "p51"
+    },
+    {
+      "slug": "section-84-p52",
+      "type": "verse",
+      "number": "52",
+      "content": "And whoso receiveth not my voice is not acquainted with my voice, and is not of me.",
+      "churchId": "p52"
+    },
+    {
+      "slug": "section-84-p53",
+      "type": "verse",
+      "number": "53",
+      "content": "And by this you may know the righteous from the wicked, and that the whole world groaneth under sin and darkness even now.",
+      "churchId": "p53"
+    },
+    {
+      "slug": "section-84-p54",
+      "type": "verse",
+      "number": "54",
+      "content": "And your minds in times past have been darkened because of unbelief, and because you have treated lightly the things you have received—",
+      "churchId": "p54"
+    },
+    {
+      "slug": "section-84-p55",
+      "type": "verse",
+      "number": "55",
+      "content": "Which vanity and unbelief have brought the whole church under condemnation.",
+      "churchId": "p55"
+    },
+    {
+      "slug": "section-84-p56",
+      "type": "verse",
+      "number": "56",
+      "content": "And this condemnation resteth upon the children of Zion, even all.",
+      "churchId": "p56"
+    },
+    {
+      "slug": "section-84-p57",
+      "type": "verse",
+      "number": "57",
+      "content": "And they shall remain under this condemnation until they repent and remember the new covenant, even the Book of Mormon and the former commandments which I have given them, not only to say, but to do according to that which I have written—",
+      "churchId": "p57"
+    },
+    {
+      "slug": "section-84-p58",
+      "type": "verse",
+      "number": "58",
+      "content": "That they may bring forth fruit meet for their Father’s kingdom; otherwise there remaineth a scourge and judgment to be poured out upon the children of Zion.",
+      "churchId": "p58"
+    },
+    {
+      "slug": "section-84-p59",
+      "type": "verse",
+      "number": "59",
+      "content": "For shall the children of the kingdom pollute my holy land? Verily, I say unto you, Nay.",
+      "churchId": "p59"
+    },
+    {
+      "slug": "section-84-p60",
+      "type": "verse",
+      "number": "60",
+      "content": "Verily, verily, I say unto you who now hear my words, which are my voice, blessed are ye inasmuch as you receive these things;",
+      "churchId": "p60"
+    },
+    {
+      "slug": "section-84-p61",
+      "type": "verse",
+      "number": "61",
+      "content": "For I will forgive you of your sins with this commandment—that you remain steadfast in your minds in solemnity and the spirit of prayer, in bearing testimony to all the world of those things which are communicated unto you.",
+      "churchId": "p61"
+    },
+    {
+      "slug": "section-84-p62",
+      "type": "verse",
+      "number": "62",
+      "content": "Therefore, go ye into all the world; and unto whatsoever place ye cannot go ye shall send, that the testimony may go from you into all the world unto every creature.",
+      "churchId": "p62"
+    },
+    {
+      "slug": "section-84-p63",
+      "type": "verse",
+      "number": "63",
+      "content": "And as I said unto mine apostles, even so I say unto you, for you are mine apostles, even God’s high priests; ye are they whom my Father hath given me; ye are my friends;",
+      "churchId": "p63"
+    },
+    {
+      "slug": "section-84-p64",
+      "type": "verse",
+      "number": "64",
+      "content": "Therefore, as I said unto mine apostles I say unto you again, that every soul who believeth on your words, and is baptized by water for the remission of sins, shall receive the Holy Ghost.",
+      "churchId": "p64"
+    },
+    {
+      "slug": "section-84-p65",
+      "type": "verse",
+      "number": "65",
+      "content": "And these signs shall follow them that believe—",
+      "churchId": "p65"
+    },
+    {
+      "slug": "section-84-p66",
+      "type": "verse",
+      "number": "66",
+      "content": "In my name they shall do many wonderful works;",
+      "churchId": "p66"
+    },
+    {
+      "slug": "section-84-p67",
+      "type": "verse",
+      "number": "67",
+      "content": "In my name they shall cast out devils;",
+      "churchId": "p67"
+    },
+    {
+      "slug": "section-84-p68",
+      "type": "verse",
+      "number": "68",
+      "content": "In my name they shall heal the sick;",
+      "churchId": "p68"
+    },
+    {
+      "slug": "section-84-p69",
+      "type": "verse",
+      "number": "69",
+      "content": "In my name they shall open the eyes of the blind, and unstop the ears of the deaf;",
+      "churchId": "p69"
+    },
+    {
+      "slug": "section-84-p70",
+      "type": "verse",
+      "number": "70",
+      "content": "And the tongue of the dumb shall speak;",
+      "churchId": "p70"
+    },
+    {
+      "slug": "section-84-p71",
+      "type": "verse",
+      "number": "71",
+      "content": "And if any man shall administer poison unto them it shall not hurt them;",
+      "churchId": "p71"
+    },
+    {
+      "slug": "section-84-p72",
+      "type": "verse",
+      "number": "72",
+      "content": "And the poison of a serpent shall not have power to harm them.",
+      "churchId": "p72"
+    },
+    {
+      "slug": "section-84-p73",
+      "type": "verse",
+      "number": "73",
+      "content": "But a commandment I give unto them, that they shall not boast themselves of these things, neither speak them before the world; for these things are given unto you for your profit and for salvation.",
+      "churchId": "p73"
+    },
+    {
+      "slug": "section-84-p74",
+      "type": "verse",
+      "number": "74",
+      "content": "Verily, verily, I say unto you, they who believe not on your words, and are not baptized in water in my name, for the remission of their sins, that they may receive the Holy Ghost, shall be damned, and shall not come into my Father’s kingdom where my Father and I am.",
+      "churchId": "p74"
+    },
+    {
+      "slug": "section-84-p75",
+      "type": "verse",
+      "number": "75",
+      "content": "And this revelation unto you, and commandment, is in force from this very hour upon all the world, and the gospel is unto all who have not received it.",
+      "churchId": "p75"
+    },
+    {
+      "slug": "section-84-p76",
+      "type": "verse",
+      "number": "76",
+      "content": "But, verily I say unto all those to whom the kingdom has been given—from you it must be preached unto them, that they shall repent of their former evil works; for they are to be upbraided for their evil hearts of unbelief, and your brethren in Zion for their rebellion against you at the time I sent you.",
+      "churchId": "p76"
+    },
+    {
+      "slug": "section-84-p77",
+      "type": "verse",
+      "number": "77",
+      "content": "And again I say unto you, my friends, for from henceforth I shall call you friends, it is expedient that I give unto you this commandment, that ye become even as my friends in days when I was with them, traveling to preach the gospel in my power;",
+      "churchId": "p77"
+    },
+    {
+      "slug": "section-84-p78",
+      "type": "verse",
+      "number": "78",
+      "content": "For I suffered them not to have purse or scrip, neither two coats.",
+      "churchId": "p78"
+    },
+    {
+      "slug": "section-84-p79",
+      "type": "verse",
+      "number": "79",
+      "content": "Behold, I send you out to prove the world, and the laborer is worthy of his hire.",
+      "churchId": "p79"
+    },
+    {
+      "slug": "section-84-p80",
+      "type": "verse",
+      "number": "80",
+      "content": "And any man that shall go and preach this gospel of the kingdom, and fail not to continue faithful in all things, shall not be weary in mind, neither darkened, neither in body, limb, nor joint; and a hair of his head shall not fall to the ground unnoticed. And they shall not go hungry, neither athirst.",
+      "churchId": "p80"
+    },
+    {
+      "slug": "section-84-p81",
+      "type": "verse",
+      "number": "81",
+      "content": "Therefore, take ye no thought for the morrow, for what ye shall eat, or what ye shall drink, or wherewithal ye shall be clothed.",
+      "churchId": "p81"
+    },
+    {
+      "slug": "section-84-p82",
+      "type": "verse",
+      "number": "82",
+      "content": "For, consider the lilies of the field, how they grow, they toil not, neither do they spin; and the kingdoms of the world, in all their glory, are not arrayed like one of these.",
+      "churchId": "p82"
+    },
+    {
+      "slug": "section-84-p83",
+      "type": "verse",
+      "number": "83",
+      "content": "For your Father, who is in heaven, knoweth that you have need of all these things.",
+      "churchId": "p83"
+    },
+    {
+      "slug": "section-84-p84",
+      "type": "verse",
+      "number": "84",
+      "content": "Therefore, let the morrow take thought for the things of itself.",
+      "churchId": "p84"
+    },
+    {
+      "slug": "section-84-p85",
+      "type": "verse",
+      "number": "85",
+      "content": "Neither take ye thought beforehand what ye shall say; but treasure up in your minds continually the words of life, and it shall be given you in the very hour that portion that shall be meted unto every man.",
+      "churchId": "p85"
+    },
+    {
+      "slug": "section-84-p86",
+      "type": "verse",
+      "number": "86",
+      "content": "Therefore, let no man among you, for this commandment is unto all the faithful who are called of God in the church unto the ministry, from this hour take purse or scrip, that goeth forth to proclaim this gospel of the kingdom.",
+      "churchId": "p86"
+    },
+    {
+      "slug": "section-84-p87",
+      "type": "verse",
+      "number": "87",
+      "content": "Behold, I send you out to reprove the world of all their unrighteous deeds, and to teach them of a judgment which is to come.",
+      "churchId": "p87"
+    },
+    {
+      "slug": "section-84-p88",
+      "type": "verse",
+      "number": "88",
+      "content": "And whoso receiveth you, there I will be also, for I will go before your face. I will be on your right hand and on your left, and my Spirit shall be in your hearts, and mine angels round about you, to bear you up.",
+      "churchId": "p88"
+    },
+    {
+      "slug": "section-84-p89",
+      "type": "verse",
+      "number": "89",
+      "content": "Whoso receiveth you receiveth me; and the same will feed you, and clothe you, and give you money.",
+      "churchId": "p89"
+    },
+    {
+      "slug": "section-84-p90",
+      "type": "verse",
+      "number": "90",
+      "content": "And he who feeds you, or clothes you, or gives you money, shall in nowise lose his reward.",
+      "churchId": "p90"
+    },
+    {
+      "slug": "section-84-p91",
+      "type": "verse",
+      "number": "91",
+      "content": "And he that doeth not these things is not my disciple; by this you may know my disciples.",
+      "churchId": "p91"
+    },
+    {
+      "slug": "section-84-p92",
+      "type": "verse",
+      "number": "92",
+      "content": "He that receiveth you not, go away from him alone by yourselves, and cleanse your feet even with water, pure water, whether in heat or in cold, and bear testimony of it unto your Father which is in heaven, and return not again unto that man.",
+      "churchId": "p92"
+    },
+    {
+      "slug": "section-84-p93",
+      "type": "verse",
+      "number": "93",
+      "content": "And in whatsoever village or city ye enter, do likewise.",
+      "churchId": "p93"
+    },
+    {
+      "slug": "section-84-p94",
+      "type": "verse",
+      "number": "94",
+      "content": "Nevertheless, search diligently and spare not; and wo unto that house, or that village or city that rejecteth you, or your words, or your testimony concerning me.",
+      "churchId": "p94"
+    },
+    {
+      "slug": "section-84-p95",
+      "type": "verse",
+      "number": "95",
+      "content": "Wo, I say again, unto that house, or that village or city that rejecteth you, or your words, or your testimony of me;",
+      "churchId": "p95"
+    },
+    {
+      "slug": "section-84-p96",
+      "type": "verse",
+      "number": "96",
+      "content": "For I, the Almighty, have laid my hands upon the nations, to scourge them for their wickedness.",
+      "churchId": "p96"
+    },
+    {
+      "slug": "section-84-p97",
+      "type": "verse",
+      "number": "97",
+      "content": "And plagues shall go forth, and they shall not be taken from the earth until I have completed my work, which shall be cut short in righteousness—",
+      "churchId": "p97"
+    },
+    {
+      "slug": "section-84-p98",
+      "type": "verse",
+      "number": "98",
+      "content": "Until all shall know me, who remain, even from the least unto the greatest, and shall be filled with the knowledge of the Lord, and shall see eye to eye, and shall lift up their voice, and with the voice together sing this new song, saying:",
+      "churchId": "p98"
+    },
+    {
+      "slug": "section-84-p99",
+      "type": "verse",
+      "number": "99",
+      "content": "The Lord hath brought again Zion;<br/>\nThe Lord hath redeemed his people, Israel,<br/>\nAccording to the election of grace,<br/>\nWhich was brought to pass by the faith<br/>\nAnd covenant of their fathers.<br/>",
+      "churchId": "p99"
+    },
+    {
+      "slug": "section-84-p100",
+      "type": "verse",
+      "number": "100",
+      "content": "The Lord hath redeemed his people;<br/>\nAnd Satan is bound and time is no longer.<br/>\nThe Lord hath gathered all things in one.<br/>\nThe Lord hath brought down Zion from above.<br/>\nThe Lord hath brought up Zion from beneath.<br/>",
+      "churchId": "p100"
+    },
+    {
+      "slug": "section-84-p101",
+      "type": "verse",
+      "number": "101",
+      "content": "The earth hath travailed and brought forth her strength;<br/>\nAnd truth is established in her bowels;<br/>\nAnd the heavens have smiled upon her;<br/>\nAnd she is clothed with the glory of her God;<br/>\nFor he stands in the midst of his people.<br/>",
+      "churchId": "p101"
+    },
+    {
+      "slug": "section-84-p102",
+      "type": "verse",
+      "number": "102",
+      "content": "Glory, and honor, and power, and might,<br/>\nBe ascribed to our God; for he is full of mercy,<br/>\nJustice, grace and truth, and peace,<br/>\nForever and ever, Amen.<br/>",
+      "churchId": "p102"
+    },
+    {
+      "slug": "section-84-p103",
+      "type": "verse",
+      "number": "103",
+      "content": "And again, verily, verily, I say unto you, it is expedient that every man who goes forth to proclaim mine everlasting gospel, that inasmuch as they have families, and receive money by gift, that they should send it unto them or make use of it for their benefit, as the Lord shall direct them, for thus it seemeth me good.",
+      "churchId": "p103"
+    },
+    {
+      "slug": "section-84-p104",
+      "type": "verse",
+      "number": "104",
+      "content": "And let all those who have not families, who receive money, send it up unto the bishop in Zion, or unto the bishop in Ohio, that it may be consecrated for the bringing forth of the revelations and the printing thereof, and for establishing Zion.",
+      "churchId": "p104"
+    },
+    {
+      "slug": "section-84-p105",
+      "type": "verse",
+      "number": "105",
+      "content": "And if any man shall give unto any of you a coat, or a suit, take the old and cast it unto the poor, and go on your way rejoicing.",
+      "churchId": "p105"
+    },
+    {
+      "slug": "section-84-p106",
+      "type": "verse",
+      "number": "106",
+      "content": "And if any man among you be strong in the Spirit, let him take with him him that is weak, that he may be edified in all meekness, that he may become strong also.",
+      "churchId": "p106"
+    },
+    {
+      "slug": "section-84-p107",
+      "type": "verse",
+      "number": "107",
+      "content": "Therefore, take with you those who are ordained unto the lesser priesthood, and send them before you to make appointments, and to prepare the way, and to fill appointments that you yourselves are not able to fill.",
+      "churchId": "p107"
+    },
+    {
+      "slug": "section-84-p108",
+      "type": "verse",
+      "number": "108",
+      "content": "Behold, this is the way that mine apostles, in ancient days, built up my church unto me.",
+      "churchId": "p108"
+    },
+    {
+      "slug": "section-84-p109",
+      "type": "verse",
+      "number": "109",
+      "content": "Therefore, let every man stand in his own office, and labor in his own calling; and let not the head say unto the feet it hath no need of the feet; for without the feet how shall the body be able to stand?",
+      "churchId": "p109"
+    },
+    {
+      "slug": "section-84-p110",
+      "type": "verse",
+      "number": "110",
+      "content": "Also the body hath need of every member, that all may be edified together, that the system may be kept perfect.",
+      "churchId": "p110"
+    },
+    {
+      "slug": "section-84-p111",
+      "type": "verse",
+      "number": "111",
+      "content": "And behold, the high priests should travel, and also the elders, and also the lesser priests; but the deacons and teachers should be appointed to watch over the church, to be standing ministers unto the church.",
+      "churchId": "p111"
+    },
+    {
+      "slug": "section-84-p112",
+      "type": "verse",
+      "number": "112",
+      "content": "And the bishop, Newel K. Whitney, also should travel round about and among all the churches, searching after the poor to administer to their wants by humbling the rich and the proud.",
+      "churchId": "p112"
+    },
+    {
+      "slug": "section-84-p113",
+      "type": "verse",
+      "number": "113",
+      "content": "He should also employ an agent to take charge and to do his secular business as he shall direct.",
+      "churchId": "p113"
+    },
+    {
+      "slug": "section-84-p114",
+      "type": "verse",
+      "number": "114",
+      "content": "Nevertheless, let the bishop go unto the city of New York, also to the city of Albany, and also to the city of Boston, and warn the people of those cities with the sound of the gospel, with a loud voice, of the desolation and utter abolishment which await them if they do reject these things.",
+      "churchId": "p114"
+    },
+    {
+      "slug": "section-84-p115",
+      "type": "verse",
+      "number": "115",
+      "content": "For if they do reject these things the hour of their judgment is nigh, and their house shall be left unto them desolate.",
+      "churchId": "p115"
+    },
+    {
+      "slug": "section-84-p116",
+      "type": "verse",
+      "number": "116",
+      "content": "Let him trust in me and he shall not be confounded; and a hair of his head shall not fall to the ground unnoticed.",
+      "churchId": "p116"
+    },
+    {
+      "slug": "section-84-p117",
+      "type": "verse",
+      "number": "117",
+      "content": "And verily I say unto you, the rest of my servants, go ye forth as your circumstances shall permit, in your several callings, unto the great and notable cities and villages, reproving the world in righteousness of all their unrighteous and ungodly deeds, setting forth clearly and understandingly the desolation of abomination in the last days.",
+      "churchId": "p117"
+    },
+    {
+      "slug": "section-84-p118",
+      "type": "verse",
+      "number": "118",
+      "content": "For, with you saith the Lord Almighty, I will rend their kingdoms; I will not only shake the earth, but the starry heavens shall tremble.",
+      "churchId": "p118"
+    },
+    {
+      "slug": "section-84-p119",
+      "type": "verse",
+      "number": "119",
+      "content": "For I, the Lord, have put forth my hand to exert the powers of heaven; ye cannot see it now, yet a little while and ye shall see it, and know that I am, and that I will come and reign with my people.",
+      "churchId": "p119"
+    },
+    {
+      "slug": "section-84-p120",
+      "type": "verse",
+      "number": "120",
+      "content": "I am Alpha and Omega, the beginning and the end. Amen.",
+      "churchId": "p120"
+    }
+  ]
+}

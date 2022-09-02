@@ -1,0 +1,134 @@
+{
+  "name": "2 Thessalonians 2",
+  "abbrev": "2 Thes. 2",
+  "number": "2",
+  "churchUri": "/scriptures/nt/2-thes/2",
+  "paragraphs": [
+    {
+      "slug": "2-thessalonians-2-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 2",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "2-thessalonians-2-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Now we beseech you, brethren, by the coming of our Lord Jesus Christ, and <span class=\"clarity-word\">by</span> our gathering together unto him,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "2-thessalonians-2-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "That ye be not soon shaken in mind, or be troubled, neither by spirit, nor by word, nor by letter as from us, as that the day of Christ is at hand.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "2-thessalonians-2-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Let no man deceive you by any means: for <span class=\"clarity-word\">that day shall not come,</span> except there come a falling away first, and that man of sin be revealed, the son of perdition;",
+      "churchId": "p3"
+    },
+    {
+      "slug": "2-thessalonians-2-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Who opposeth and exalteth himself above all that is called God, or that is worshipped; so that he as God sitteth in the temple of God, shewing himself that he is God.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "2-thessalonians-2-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Remember ye not, that, when I was yet with you, I told you these things?",
+      "churchId": "p5"
+    },
+    {
+      "slug": "2-thessalonians-2-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And now ye know what withholdeth that he might be revealed in his time.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "2-thessalonians-2-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "For the mystery of iniquity doth already work: only he who now letteth <span class=\"clarity-word\">will let,</span> until he be taken out of the way.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "2-thessalonians-2-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And then shall that Wicked be revealed, whom the Lord shall consume with the spirit of his mouth, and shall destroy with the brightness of his coming:",
+      "churchId": "p8"
+    },
+    {
+      "slug": "2-thessalonians-2-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "<span class=\"clarity-word\">Even him,</span> whose coming is after the working of Satan with all power and signs and lying wonders,",
+      "churchId": "p9"
+    },
+    {
+      "slug": "2-thessalonians-2-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And with all deceivableness of unrighteousness in them that perish; because they received not the love of the truth, that they might be saved.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "2-thessalonians-2-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And for this cause God shall send them strong delusion, that they should believe a lie:",
+      "churchId": "p11"
+    },
+    {
+      "slug": "2-thessalonians-2-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "That they all might be damned who believed not the truth, but had pleasure in unrighteousness.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "2-thessalonians-2-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "But we are bound to give thanks alway to God for you, brethren beloved of the Lord, because God hath from the beginning chosen you to salvation through sanctification of the Spirit and belief of the truth:",
+      "churchId": "p13"
+    },
+    {
+      "slug": "2-thessalonians-2-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Whereunto he called you by our gospel, to the obtaining of the glory of our Lord Jesus Christ.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "2-thessalonians-2-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Therefore, brethren, stand fast, and hold the traditions which ye have been taught, whether by word, or our epistle.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "2-thessalonians-2-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Now our Lord Jesus Christ himself, and God, even our Father, which hath loved us, and hath given <span class=\"clarity-word\">us</span> everlasting consolation and good hope through grace,",
+      "churchId": "p16"
+    },
+    {
+      "slug": "2-thessalonians-2-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Comfort your hearts, and stablish you in every good word and work.",
+      "churchId": "p17"
+    }
+  ]
+}

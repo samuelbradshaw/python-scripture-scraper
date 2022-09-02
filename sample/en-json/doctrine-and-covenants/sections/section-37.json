@@ -1,0 +1,43 @@
+{
+  "name": "Doctrine and Covenants 37",
+  "abbrev": "D&C 37",
+  "number": "37",
+  "churchUri": "/scriptures/dc-testament/dc/37",
+  "paragraphs": [
+    {
+      "slug": "section-37-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Section 37",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "section-37-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Behold, I say unto you that it is not expedient in me that ye should translate any more until ye shall go to the Ohio, and this because of the enemy and for your sakes.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "section-37-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And again, I say unto you that ye shall not go until ye have preached my gospel in those parts, and have strengthened up the church whithersoever it is found, and more especially in Colesville; for, behold, they pray unto me in much faith.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "section-37-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And again, a commandment I give unto the church, that it is expedient in me that they should assemble together at the Ohio, against the time that my servant Oliver Cowdery shall return unto them.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "section-37-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Behold, here is wisdom, and let every man choose for himself until I come. Even so. Amen.",
+      "churchId": "p4"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "name": "Haggai 1",
+  "abbrev": "Hag. 1",
+  "number": "1",
+  "churchUri": "/scriptures/ot/hag/1",
+  "paragraphs": [
+    {
+      "slug": "haggai-1-title1",
+      "type": "book-title",
+      "number": null,
+      "content": "Haggai",
+      "churchId": "title1"
+    },
+    {
+      "slug": "haggai-1-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 1",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "haggai-1-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "In the second year of Darius the king, in the sixth month, in the first day of the month, came the word of the <span class=\"small-caps\">Lord</span> by Haggai the prophet unto Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Josedech, the high priest, saying,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "haggai-1-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Thus speaketh the <span class=\"small-caps\">Lord</span> of hosts, saying, This people say, The time is not come, the time that the <span class=\"small-caps\">Lord</span>’s house should be built.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "haggai-1-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Then came the word of the <span class=\"small-caps\">Lord</span> by Haggai the prophet, saying,",
+      "churchId": "p3"
+    },
+    {
+      "slug": "haggai-1-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "<span class=\"clarity-word\">Is it</span> time for you, O ye, to dwell in your ceiled houses, and this house <span class=\"clarity-word\">lie</span> waste?",
+      "churchId": "p4"
+    },
+    {
+      "slug": "haggai-1-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Now therefore thus saith the <span class=\"small-caps\">Lord</span> of hosts; Consider your ways.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "haggai-1-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Ye have sown much, and bring in little; ye eat, but ye have not enough; ye drink, but ye are not filled with drink; ye clothe you, but there is none warm; and he that earneth wages earneth wages <span class=\"clarity-word\">to put it</span> into a bag with holes.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "haggai-1-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "¶ Thus saith the <span class=\"small-caps\">Lord</span> of hosts; Consider your ways.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "haggai-1-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Go up to the mountain, and bring wood, and build the house; and I will take pleasure in it, and I will be glorified, saith the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "haggai-1-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Ye looked for much, and, lo, <span class=\"clarity-word\">it came</span> to little; and when ye brought <span class=\"clarity-word\">it</span> home, I did blow upon it. Why? saith the <span class=\"small-caps\">Lord</span> of hosts. Because of mine house that <span class=\"clarity-word\">is</span> waste, and ye run every man unto his own house.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "haggai-1-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Therefore the heaven over you is stayed from dew, and the earth is stayed <span class=\"clarity-word\">from</span> her fruit.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "haggai-1-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And I called for a drought upon the land, and upon the mountains, and upon the corn, and upon the new wine, and upon the oil, and upon <span class=\"clarity-word\">that</span> which the ground bringeth forth, and upon men, and upon cattle, and upon all the labour of the hands.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "haggai-1-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "¶ Then Zerubbabel the son of Shealtiel, and Joshua the son of Josedech, the high priest, with all the remnant of the people, obeyed the voice of the <span class=\"small-caps\">Lord</span> their God, and the words of Haggai the prophet, as the <span class=\"small-caps\">Lord</span> their God had sent him, and the people did fear before the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "haggai-1-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Then spake Haggai the <span class=\"small-caps\">Lord</span>’s messenger in the <span class=\"small-caps\">Lord</span>’s message unto the people, saying, I <span class=\"clarity-word\">am</span> with you, saith the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "haggai-1-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And the <span class=\"small-caps\">Lord</span> stirred up the spirit of Zerubbabel the son of Shealtiel, governor of Judah, and the spirit of Joshua the son of Josedech, the high priest, and the spirit of all the remnant of the people; and they came and did work in the house of the <span class=\"small-caps\">Lord</span> of hosts, their God,",
+      "churchId": "p14"
+    },
+    {
+      "slug": "haggai-1-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "In the four and twentieth day of the sixth month, in the second year of Darius the king.",
+      "churchId": "p15"
+    }
+  ]
+}

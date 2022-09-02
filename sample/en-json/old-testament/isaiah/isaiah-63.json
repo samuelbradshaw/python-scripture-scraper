@@ -1,0 +1,148 @@
+{
+  "name": "Isaiah 63",
+  "abbrev": "Isa. 63",
+  "number": "63",
+  "churchUri": "/scriptures/ot/isa/63",
+  "paragraphs": [
+    {
+      "slug": "isaiah-63-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 63",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "isaiah-63-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Who <span class=\"clarity-word\">is</span> this that cometh from Edom, with dyed garments from Bozrah? this <span class=\"clarity-word\">that is</span> glorious in his apparel, travelling in the greatness of his strength? I that speak in righteousness, mighty to save.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "isaiah-63-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Wherefore <span class=\"clarity-word\">art thou</span> red in thine apparel, and thy garments like him that treadeth in the winefat?",
+      "churchId": "p2"
+    },
+    {
+      "slug": "isaiah-63-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "I have trodden the winepress alone; and of the people <span class=\"clarity-word\">there was</span> none with me: for I will tread them in mine anger, and trample them in my fury; and their blood shall be sprinkled upon my garments, and I will stain all my raiment.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "isaiah-63-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "For the day of vengeance <span class=\"clarity-word\">is</span> in mine heart, and the year of my redeemed is come.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "isaiah-63-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And I looked, and <span class=\"clarity-word\">there was</span> none to help; and I wondered that <span class=\"clarity-word\">there was</span> none to uphold: therefore mine own arm brought salvation unto me; and my fury, it upheld me.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "isaiah-63-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And I will tread down the people in mine anger, and make them drunk in my fury, and I will bring down their strength to the earth.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "isaiah-63-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "¶ I will mention the lovingkindnesses of the <span class=\"small-caps\">Lord</span>, <span class=\"clarity-word\">and</span> the praises of the <span class=\"small-caps\">Lord</span>, according to all that the <span class=\"small-caps\">Lord</span> hath bestowed on us, and the great goodness toward the house of Israel, which he hath bestowed on them according to his mercies, and according to the multitude of his lovingkindnesses.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "isaiah-63-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "For he said, Surely they <span class=\"clarity-word\">are</span> my people, children <span class=\"clarity-word\">that</span> will not lie: so he was their Saviour.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "isaiah-63-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "In all their affliction he was afflicted, and the angel of his presence saved them: in his love and in his pity he redeemed them; and he bare them, and carried them all the days of old.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "isaiah-63-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "¶ But they rebelled, and vexed his holy Spirit: therefore he was turned to be their enemy, <span class=\"clarity-word\">and</span> he fought against them.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "isaiah-63-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Then he remembered the days of old, Moses, <span class=\"clarity-word\">and</span> his people, <span class=\"clarity-word\">saying,</span> Where <span class=\"clarity-word\">is</span> he that brought them up out of the sea with the shepherd of his flock? where <span class=\"clarity-word\">is</span> he that put his holy Spirit within him?",
+      "churchId": "p11"
+    },
+    {
+      "slug": "isaiah-63-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "That led <span class=\"clarity-word\">them</span> by the right hand of Moses with his glorious arm, dividing the water before them, to make himself an everlasting name?",
+      "churchId": "p12"
+    },
+    {
+      "slug": "isaiah-63-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "That led them through the deep, as an horse in the wilderness, <span class=\"clarity-word\">that</span> they should not stumble?",
+      "churchId": "p13"
+    },
+    {
+      "slug": "isaiah-63-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "As a beast goeth down into the valley, the Spirit of the <span class=\"small-caps\">Lord</span> caused him to rest: so didst thou lead thy people, to make thyself a glorious name.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "isaiah-63-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "¶ Look down from heaven, and behold from the habitation of thy holiness and of thy glory: where <span class=\"clarity-word\">is</span> thy zeal and thy strength, the sounding of thy bowels and of thy mercies toward me? are they restrained?",
+      "churchId": "p15"
+    },
+    {
+      "slug": "isaiah-63-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Doubtless thou <span class=\"clarity-word\">art</span> our father, though Abraham be ignorant of us, and Israel acknowledge us not: thou, O <span class=\"small-caps\">Lord</span>, <span class=\"clarity-word\">art</span> our father, our redeemer; thy name <span class=\"clarity-word\">is</span> from everlasting.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "isaiah-63-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "¶ O <span class=\"small-caps\">Lord</span>, why hast thou made us to err from thy ways, <span class=\"clarity-word\">and</span> hardened our heart from thy fear? Return for thy servants’ sake, the tribes of thine inheritance.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "isaiah-63-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "The people of thy holiness have possessed <span class=\"clarity-word\">it</span> but a little while: our adversaries have trodden down thy sanctuary.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "isaiah-63-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "We are <span class=\"clarity-word\">thine:</span> thou never barest rule over them; they were not called by thy name.",
+      "churchId": "p19"
+    }
+  ]
+}

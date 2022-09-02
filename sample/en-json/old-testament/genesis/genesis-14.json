@@ -1,0 +1,183 @@
+{
+  "name": "Genesis 14",
+  "abbrev": "Gen. 14",
+  "number": "14",
+  "churchUri": "/scriptures/ot/gen/14",
+  "paragraphs": [
+    {
+      "slug": "genesis-14-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 14",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "genesis-14-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And it came to pass in the days of Amraphel king of Shinar, Arioch king of Ellasar, Chedorlaomer king of Elam, and Tidal king of nations;",
+      "churchId": "p1"
+    },
+    {
+      "slug": "genesis-14-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "<span class=\"clarity-word\">That these</span> made war with Bera king of Sodom, and with Birsha king of Gomorrah, Shinab king of Admah, and Shemeber king of Zeboiim, and the king of Bela, which is Zoar.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "genesis-14-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "All these were joined together in the vale of Siddim, which is the salt sea.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "genesis-14-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Twelve years they served Chedorlaomer, and in the thirteenth year they rebelled.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "genesis-14-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And in the fourteenth year came Chedorlaomer, and the kings that <span class=\"clarity-word\">were</span> with him, and smote the Rephaims in Ashteroth Karnaim, and the Zuzims in Ham, and the Emims in Shaveh Kiriathaim,",
+      "churchId": "p5"
+    },
+    {
+      "slug": "genesis-14-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And the Horites in their mount Seir, unto El-paran, which <span class=\"clarity-word\">is</span> by the wilderness.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "genesis-14-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And they returned, and came to En-mishpat, which <span class=\"clarity-word\">is</span> Kadesh, and smote all the country of the Amalekites, and also the Amorites, that dwelt in Hazezon-tamar.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "genesis-14-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And there went out the king of Sodom, and the king of Gomorrah, and the king of Admah, and the king of Zeboiim, and the king of Bela (the same <span class=\"clarity-word\">is</span> Zoar;) and they joined battle with them in the vale of Siddim;",
+      "churchId": "p8"
+    },
+    {
+      "slug": "genesis-14-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "With Chedorlaomer the king of Elam, and with Tidal king of nations, and Amraphel king of Shinar, and Arioch king of Ellasar; four kings with five.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "genesis-14-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And the vale of Siddim <span class=\"clarity-word\">was full of</span> slimepits; and the kings of Sodom and Gomorrah fled, and fell there; and they that remained fled to the mountain.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "genesis-14-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And they took all the goods of Sodom and Gomorrah, and all their victuals, and went their way.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "genesis-14-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And they took Lot, Abram’s brother’s son, who dwelt in Sodom, and his goods, and departed.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "genesis-14-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "¶ And there came one that had escaped, and told Abram the Hebrew; for he dwelt in the plain of Mamre the Amorite, brother of Eshcol, and brother of Aner: and these <span class=\"clarity-word\">were</span> confederate with Abram.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "genesis-14-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And when Abram heard that his brother was taken captive, he armed his trained <span class=\"clarity-word\">servants,</span> born in his own house, three hundred and eighteen, and pursued <span class=\"clarity-word\">them</span> unto Dan.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "genesis-14-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And he divided himself against them, he and his servants, by night, and smote them, and pursued them unto Hobah, which <span class=\"clarity-word\">is</span> on the left hand of Damascus.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "genesis-14-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And he brought back all the goods, and also brought again his brother Lot, and his goods, and the women also, and the people.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "genesis-14-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "¶ And the king of Sodom went out to meet him after his return from the slaughter of Chedorlaomer, and of the kings that <span class=\"clarity-word\">were</span> with him, at the valley of Shaveh, which <span class=\"clarity-word\">is</span> the king’s dale.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "genesis-14-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And Melchizedek king of Salem brought forth bread and wine: and he <span class=\"clarity-word\">was</span> the priest of the most high God.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "genesis-14-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And he blessed him, and said, Blessed <span class=\"clarity-word\">be</span> Abram of the most high God, possessor of heaven and earth:",
+      "churchId": "p19"
+    },
+    {
+      "slug": "genesis-14-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And blessed be the most high God, which hath delivered thine enemies into thy hand. And he gave him tithes of all.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "genesis-14-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And the king of Sodom said unto Abram, Give me the persons, and take the goods to thyself.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "genesis-14-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And Abram said to the king of Sodom, I have lift up mine hand unto the <span class=\"small-caps\">Lord</span>, the most high God, the possessor of heaven and earth,",
+      "churchId": "p22"
+    },
+    {
+      "slug": "genesis-14-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "That I will not <span class=\"clarity-word\">take</span> from a thread even to a shoelatchet, and that I will not take any thing that <span class=\"clarity-word\">is</span> thine, lest thou shouldest say, I have made Abram rich:",
+      "churchId": "p23"
+    },
+    {
+      "slug": "genesis-14-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Save only that which the young men have eaten, and the portion of the men which went with me, Aner, Eshcol, and Mamre; let them take their portion.",
+      "churchId": "p24"
+    }
+  ]
+}

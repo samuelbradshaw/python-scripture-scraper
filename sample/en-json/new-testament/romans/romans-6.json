@@ -1,0 +1,176 @@
+{
+  "name": "Romans 6",
+  "abbrev": "Rom. 6",
+  "number": "6",
+  "churchUri": "/scriptures/nt/rom/6",
+  "paragraphs": [
+    {
+      "slug": "romans-6-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 6",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "romans-6-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "What shall we say then? Shall we continue in sin, that grace may abound?",
+      "churchId": "p1"
+    },
+    {
+      "slug": "romans-6-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "God forbid. How shall we, that are dead to sin, live any longer therein?",
+      "churchId": "p2"
+    },
+    {
+      "slug": "romans-6-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Know ye not, that so many of us as were baptized into Jesus Christ were baptized into his death?",
+      "churchId": "p3"
+    },
+    {
+      "slug": "romans-6-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Therefore we are buried with him by baptism into death: that like as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "romans-6-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "For if we have been planted together in the likeness of his death, we shall be also <span class=\"clarity-word\">in the likeness</span> of <span class=\"clarity-word\">his</span> resurrection:",
+      "churchId": "p5"
+    },
+    {
+      "slug": "romans-6-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Knowing this, that our old man is crucified with <span class=\"clarity-word\">him,</span> that the body of sin might be destroyed, that henceforth we should not serve sin.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "romans-6-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "For he that is dead is freed from sin.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "romans-6-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Now if we be dead with Christ, we believe that we shall also live with him:",
+      "churchId": "p8"
+    },
+    {
+      "slug": "romans-6-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Knowing that Christ being raised from the dead dieth no more; death hath no more dominion over him.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "romans-6-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "For in that he died, he died unto sin once: but in that he liveth, he liveth unto God.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "romans-6-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Likewise reckon ye also yourselves to be dead indeed unto sin, but alive unto God through Jesus Christ our Lord.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "romans-6-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Let not sin therefore reign in your mortal body, that ye should obey it in the lusts thereof.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "romans-6-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Neither yield ye your members <span class=\"clarity-word\">as</span> instruments of unrighteousness unto sin: but yield yourselves unto God, as those that are alive from the dead, and your members <span class=\"clarity-word\">as</span> instruments of righteousness unto God.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "romans-6-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "For sin shall not have dominion over you: for ye are not under the law, but under grace.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "romans-6-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "What then? shall we sin, because we are not under the law, but under grace? God forbid.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "romans-6-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Know ye not, that to whom ye yield yourselves servants to obey, his servants ye are to whom ye obey; whether of sin unto death, or of obedience unto righteousness?",
+      "churchId": "p16"
+    },
+    {
+      "slug": "romans-6-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "But God be thanked, that ye were the servants of sin, but ye have obeyed from the heart that form of doctrine which was delivered you.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "romans-6-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Being then made free from sin, ye became the servants of righteousness.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "romans-6-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "I speak after the manner of men because of the infirmity of your flesh: for as ye have yielded your members servants to uncleanness and to iniquity unto iniquity; even so now yield your members servants to righteousness unto holiness.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "romans-6-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "For when ye were the servants of sin, ye were free from righteousness.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "romans-6-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "What fruit had ye then in those things whereof ye are now ashamed? for the end of those things <span class=\"clarity-word\">is</span> death.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "romans-6-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "But now being made free from sin, and become servants to God, ye have your fruit unto holiness, and the end everlasting life.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "romans-6-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "For the wages of sin <span class=\"clarity-word\">is</span> death; but the gift of God <span class=\"clarity-word\">is</span> eternal life through Jesus Christ our Lord.",
+      "churchId": "p23"
+    }
+  ]
+}

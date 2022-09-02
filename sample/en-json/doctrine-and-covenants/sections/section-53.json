@@ -1,0 +1,64 @@
+{
+  "name": "Doctrine and Covenants 53",
+  "abbrev": "D&C 53",
+  "number": "53",
+  "churchUri": "/scriptures/dc-testament/dc/53",
+  "paragraphs": [
+    {
+      "slug": "section-53-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Section 53",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "section-53-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Behold, I say unto you, my servant Sidney Gilbert, that I have heard your prayers; and you have called upon me that it should be made known unto you, of the Lord your God, concerning your calling and election in the church, which I, the Lord, have raised up in these last days.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "section-53-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Behold, I, the Lord, who was crucified for the sins of the world, give unto you a commandment that you shall forsake the world.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "section-53-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Take upon you mine ordination, even that of an elder, to preach faith and repentance and remission of sins, according to my word, and the reception of the Holy Spirit by the laying on of hands;",
+      "churchId": "p3"
+    },
+    {
+      "slug": "section-53-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And also to be an agent unto this church in the place which shall be appointed by the bishop, according to commandments which shall be given hereafter.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "section-53-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And again, verily I say unto you, you shall take your journey with my servants Joseph Smith, Jun., and Sidney Rigdon.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "section-53-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Behold, these are the first ordinances which you shall receive; and the residue shall be made known in a time to come, according to your labor in my vineyard.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "section-53-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And again, I would that ye should learn that he only is saved who endureth unto the end. Even so. Amen.",
+      "churchId": "p7"
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "name": "Exodus 23",
+  "abbrev": "Ex. 23",
+  "number": "23",
+  "churchUri": "/scriptures/ot/ex/23",
+  "paragraphs": [
+    {
+      "slug": "exodus-23-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 23",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "exodus-23-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Thou shalt not raise a false report: put not thine hand with the wicked to be an unrighteous witness.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "exodus-23-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "¶ Thou shalt not follow a multitude to <span class=\"clarity-word\">do</span> evil; neither shalt thou speak in a cause to decline after many to wrest <span class=\"clarity-word\">judgment:</span>",
+      "churchId": "p2"
+    },
+    {
+      "slug": "exodus-23-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "¶ Neither shalt thou countenance a poor man in his cause.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "exodus-23-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "¶ If thou meet thine enemy’s ox or his ass going astray, thou shalt surely bring it back to him again.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "exodus-23-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "If thou see the ass of him that hateth thee lying under his burden, and wouldest forbear to help him, thou shalt surely help with him.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "exodus-23-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Thou shalt not wrest the judgment of thy poor in his cause.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "exodus-23-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Keep thee far from a false matter; and the innocent and righteous slay thou not: for I will not justify the wicked.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "exodus-23-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "¶ And thou shalt take no gift: for the gift blindeth the wise, and perverteth the words of the righteous.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "exodus-23-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "¶ Also thou shalt not oppress a stranger: for ye know the heart of a stranger, seeing ye were strangers in the land of Egypt.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "exodus-23-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And six years thou shalt sow thy land, and shalt gather in the fruits thereof:",
+      "churchId": "p10"
+    },
+    {
+      "slug": "exodus-23-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "But the seventh <span class=\"clarity-word\">year</span> thou shalt let it rest and lie still; that the poor of thy people may eat: and what they leave the beasts of the field shall eat. In like manner thou shalt deal with thy vineyard, <span class=\"clarity-word\">and</span> with thy oliveyard.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "exodus-23-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Six days thou shalt do thy work, and on the seventh day thou shalt rest: that thine ox and thine ass may rest, and the son of thy handmaid, and the stranger, may be refreshed.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "exodus-23-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And in all <span class=\"clarity-word\">things</span> that I have said unto you be circumspect: and make no mention of the name of other gods, neither let it be heard out of thy mouth.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "exodus-23-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "¶ Three times thou shalt keep a feast unto me in the year.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "exodus-23-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Thou shalt keep the feast of unleavened bread: (thou shalt eat unleavened bread seven days, as I commanded thee, in the time appointed of the month Abib; for in it thou camest out from Egypt: and none shall appear before me empty:)",
+      "churchId": "p15"
+    },
+    {
+      "slug": "exodus-23-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And the feast of harvest, the firstfruits of thy labours, which thou hast sown in the field: and the feast of ingathering, <span class=\"clarity-word\">which is</span> in the end of the year, when thou hast gathered in thy labours out of the field.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "exodus-23-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Three times in the year all thy males shall appear before the Lord <span class=\"small-caps\">God</span>.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "exodus-23-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Thou shalt not offer the blood of my sacrifice with leavened bread; neither shall the fat of my sacrifice remain until the morning.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "exodus-23-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "The first of the firstfruits of thy land thou shalt bring into the house of the <span class=\"small-caps\">Lord</span> thy God. Thou shalt not seethe a kid in his mother’s milk.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "exodus-23-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "¶ Behold, I send an Angel before thee, to keep thee in the way, and to bring thee into the place which I have prepared.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "exodus-23-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Beware of him, and obey his voice, provoke him not; for he will not pardon your transgressions: for my name <span class=\"clarity-word\">is</span> in him.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "exodus-23-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "But if thou shalt indeed obey his voice, and do all that I speak; then I will be an enemy unto thine enemies, and an adversary unto thine adversaries.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "exodus-23-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "For mine Angel shall go before thee, and bring thee in unto the Amorites, and the Hittites, and the Perizzites, and the Canaanites, the Hivites, and the Jebusites: and I will cut them off.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "exodus-23-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Thou shalt not bow down to their gods, nor serve them, nor do after their works: but thou shalt utterly overthrow them, and quite break down their images.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "exodus-23-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And ye shall serve the <span class=\"small-caps\">Lord</span> your God, and he shall bless thy bread, and thy water; and I will take sickness away from the midst of thee.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "exodus-23-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "¶ There shall nothing cast their young, nor be barren, in thy land: the number of thy days I will fulfil.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "exodus-23-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "I will send my fear before thee, and will destroy all the people to whom thou shalt come, and I will make all thine enemies turn their backs unto thee.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "exodus-23-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And I will send hornets before thee, which shall drive out the Hivite, the Canaanite, and the Hittite, from before thee.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "exodus-23-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "I will not drive them out from before thee in one year; lest the land become desolate, and the beast of the field multiply against thee.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "exodus-23-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "By little and little I will drive them out from before thee, until thou be increased, and inherit the land.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "exodus-23-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "And I will set thy bounds from the Red sea even unto the sea of the Philistines, and from the desert unto the river: for I will deliver the inhabitants of the land into your hand; and thou shalt drive them out before thee.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "exodus-23-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "Thou shalt make no covenant with them, nor with their gods.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "exodus-23-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "They shall not dwell in thy land, lest they make thee sin against me: for if thou serve their gods, it will surely be a snare unto thee.",
+      "churchId": "p33"
+    }
+  ]
+}

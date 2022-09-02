@@ -1,0 +1,43 @@
+{
+  "name": "Doctrine and Covenants 79",
+  "abbrev": "D&C 79",
+  "number": "79",
+  "churchUri": "/scriptures/dc-testament/dc/79",
+  "paragraphs": [
+    {
+      "slug": "section-79-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Section 79",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "section-79-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Verily I say unto you, that it is my will that my servant Jared Carter should go again into the eastern countries, from place to place, and from city to city, in the power of the ordination wherewith he has been ordained, proclaiming glad tidings of great joy, even the everlasting gospel.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "section-79-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And I will send upon him the Comforter, which shall teach him the truth and the way whither he shall go;",
+      "churchId": "p2"
+    },
+    {
+      "slug": "section-79-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And inasmuch as he is faithful, I will crown him again with sheaves.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "section-79-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Wherefore, let your heart be glad, my servant Jared Carter, and fear not, saith your Lord, even Jesus Christ. Amen.",
+      "churchId": "p4"
+    }
+  ]
+}

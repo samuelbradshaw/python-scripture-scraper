@@ -1,0 +1,372 @@
+{
+  "name": "Matthew 24",
+  "abbrev": "Matt. 24",
+  "number": "24",
+  "churchUri": "/scriptures/nt/matt/24",
+  "paragraphs": [
+    {
+      "slug": "matthew-24-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 24",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "matthew-24-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And Jesus went out, and departed from the temple: and his disciples came to <span class=\"clarity-word\">him</span> for to shew him the buildings of the temple.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "matthew-24-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And Jesus said unto them, See ye not all these things? verily I say unto you, There shall not be left here one stone upon another, that shall not be thrown down.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "matthew-24-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "¶ And as he sat upon the mount of Olives, the disciples came unto him privately, saying, Tell us, when shall these things be? and what <span class=\"clarity-word\">shall be</span> the sign of thy coming, and of the end of the world?",
+      "churchId": "p3"
+    },
+    {
+      "slug": "matthew-24-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And Jesus answered and said unto them, Take heed that no man deceive you.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "matthew-24-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "For many shall come in my name, saying, I am Christ; and shall deceive many.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "matthew-24-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And ye shall hear of wars and rumours of wars: see that ye be not troubled: for all <span class=\"clarity-word\">these things</span> must come to pass, but the end is not yet.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "matthew-24-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "For nation shall rise against nation, and kingdom against kingdom: and there shall be famines, and pestilences, and earthquakes, in divers places.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "matthew-24-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "All these <span class=\"clarity-word\">are</span> the beginning of sorrows.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "matthew-24-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Then shall they deliver you up to be afflicted, and shall kill you: and ye shall be hated of all nations for my name’s sake.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "matthew-24-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And then shall many be offended, and shall betray one another, and shall hate one another.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "matthew-24-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And many false prophets shall rise, and shall deceive many.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "matthew-24-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And because iniquity shall abound, the love of many shall wax cold.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "matthew-24-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "But he that shall endure unto the end, the same shall be saved.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "matthew-24-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And this gospel of the kingdom shall be preached in all the world for a witness unto all nations; and then shall the end come.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "matthew-24-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "When ye therefore shall see the abomination of desolation, spoken of by Daniel the prophet, stand in the holy place, (whoso readeth, let him understand:)",
+      "churchId": "p15"
+    },
+    {
+      "slug": "matthew-24-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Then let them which be in Judæa flee into the mountains:",
+      "churchId": "p16"
+    },
+    {
+      "slug": "matthew-24-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Let him which is on the housetop not come down to take any thing out of his house:",
+      "churchId": "p17"
+    },
+    {
+      "slug": "matthew-24-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Neither let him which is in the field return back to take his clothes.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "matthew-24-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And woe unto them that are with child, and to them that give suck in those days!",
+      "churchId": "p19"
+    },
+    {
+      "slug": "matthew-24-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "But pray ye that your flight be not in the winter, neither on the sabbath day:",
+      "churchId": "p20"
+    },
+    {
+      "slug": "matthew-24-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "For then shall be great tribulation, such as was not since the beginning of the world to this time, no, nor ever shall be.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "matthew-24-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And except those days should be shortened, there should no flesh be saved: but for the elect’s sake those days shall be shortened.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "matthew-24-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Then if any man shall say unto you, Lo, here <span class=\"clarity-word\">is</span> Christ, or there; believe <span class=\"clarity-word\">it</span> not.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "matthew-24-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "For there shall arise false Christs, and false prophets, and shall shew great signs and wonders; insomuch that, if <span class=\"clarity-word\">it were</span> possible, they shall deceive the very elect.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "matthew-24-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Behold, I have told you before.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "matthew-24-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "Wherefore if they shall say unto you, Behold, he is in the desert; go not forth: behold, <span class=\"clarity-word\">he is</span> in the secret chambers; believe <span class=\"clarity-word\">it</span> not.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "matthew-24-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "For as the lightning cometh out of the east, and shineth even unto the west; so shall also the coming of the Son of man be.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "matthew-24-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "For wheresoever the carcase is, there will the eagles be gathered together.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "matthew-24-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "¶ Immediately after the tribulation of those days shall the sun be darkened, and the moon shall not give her light, and the stars shall fall from heaven, and the powers of the heavens shall be shaken:",
+      "churchId": "p29"
+    },
+    {
+      "slug": "matthew-24-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And then shall appear the sign of the Son of man in heaven: and then shall all the tribes of the earth mourn, and they shall see the Son of man coming in the clouds of heaven with power and great glory.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "matthew-24-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "And he shall send his angels with a great sound of a trumpet, and they shall gather together his elect from the four winds, from one end of heaven to the other.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "matthew-24-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "Now learn a parable of the fig tree; When his branch is yet tender, and putteth forth leaves, ye know that summer <span class=\"clarity-word\">is</span> nigh:",
+      "churchId": "p32"
+    },
+    {
+      "slug": "matthew-24-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "So likewise ye, when ye shall see all these things, know that it is near, <span class=\"clarity-word\">even</span> at the doors.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "matthew-24-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "Verily I say unto you, This generation shall not pass, till all these things be fulfilled.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "matthew-24-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "Heaven and earth shall pass away, but my words shall not pass away.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "matthew-24-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "¶ But of that day and hour knoweth no <span class=\"clarity-word\">man,</span> no, not the angels of heaven, but my Father only.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "matthew-24-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "But as the days of Noe <span class=\"clarity-word\">were,</span> so shall also the coming of the Son of man be.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "matthew-24-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "For as in the days that were before the flood they were eating and drinking, marrying and giving in marriage, until the day that Noe entered into the ark,",
+      "churchId": "p38"
+    },
+    {
+      "slug": "matthew-24-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "And knew not until the flood came, and took them all away; so shall also the coming of the Son of man be.",
+      "churchId": "p39"
+    },
+    {
+      "slug": "matthew-24-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "Then shall two be in the field; the one shall be taken, and the other left.",
+      "churchId": "p40"
+    },
+    {
+      "slug": "matthew-24-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "Two <span class=\"clarity-word\">women shall be</span> grinding at the mill; the one shall be taken, and the other left.",
+      "churchId": "p41"
+    },
+    {
+      "slug": "matthew-24-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "¶ Watch therefore: for ye know not what hour your Lord doth come.",
+      "churchId": "p42"
+    },
+    {
+      "slug": "matthew-24-p43",
+      "type": "verse",
+      "number": "43",
+      "content": "But know this, that if the goodman of the house had known in what watch the thief would come, he would have watched, and would not have suffered his house to be broken up.",
+      "churchId": "p43"
+    },
+    {
+      "slug": "matthew-24-p44",
+      "type": "verse",
+      "number": "44",
+      "content": "Therefore be ye also ready: for in such an hour as ye think not the Son of man cometh.",
+      "churchId": "p44"
+    },
+    {
+      "slug": "matthew-24-p45",
+      "type": "verse",
+      "number": "45",
+      "content": "Who then is a faithful and wise servant, whom his lord hath made ruler over his household, to give them meat in due season?",
+      "churchId": "p45"
+    },
+    {
+      "slug": "matthew-24-p46",
+      "type": "verse",
+      "number": "46",
+      "content": "Blessed <span class=\"clarity-word\">is</span> that servant, whom his lord when he cometh shall find so doing.",
+      "churchId": "p46"
+    },
+    {
+      "slug": "matthew-24-p47",
+      "type": "verse",
+      "number": "47",
+      "content": "Verily I say unto you, That he shall make him ruler over all his goods.",
+      "churchId": "p47"
+    },
+    {
+      "slug": "matthew-24-p48",
+      "type": "verse",
+      "number": "48",
+      "content": "But and if that evil servant shall say in his heart, My lord delayeth his coming;",
+      "churchId": "p48"
+    },
+    {
+      "slug": "matthew-24-p49",
+      "type": "verse",
+      "number": "49",
+      "content": "And shall begin to smite <span class=\"clarity-word\">his</span> fellowservants, and to eat and drink with the drunken;",
+      "churchId": "p49"
+    },
+    {
+      "slug": "matthew-24-p50",
+      "type": "verse",
+      "number": "50",
+      "content": "The lord of that servant shall come in a day when he looketh not for <span class=\"clarity-word\">him,</span> and in an hour that he is not aware of,",
+      "churchId": "p50"
+    },
+    {
+      "slug": "matthew-24-p51",
+      "type": "verse",
+      "number": "51",
+      "content": "And shall cut him asunder, and appoint <span class=\"clarity-word\">him</span> his portion with the hypocrites: there shall be weeping and gnashing of teeth.",
+      "churchId": "p51"
+    }
+  ]
+}

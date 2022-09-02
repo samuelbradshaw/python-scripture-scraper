@@ -1,0 +1,211 @@
+{
+  "name": "Doctrine and Covenants 49",
+  "abbrev": "D&C 49",
+  "number": "49",
+  "churchUri": "/scriptures/dc-testament/dc/49",
+  "paragraphs": [
+    {
+      "slug": "section-49-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Section 49",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "section-49-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Hearken unto my word, my servants Sidney, and Parley, and Leman; for behold, verily I say unto you, that I give unto you a commandment that you shall go and preach my gospel which ye have received, even as ye have received it, unto the Shakers.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "section-49-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Behold, I say unto you, that they desire to know the truth in part, but not all, for they are not right before me and must needs repent.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "section-49-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Wherefore, I send you, my servants Sidney and Parley, to preach the gospel unto them.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "section-49-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And my servant Leman shall be ordained unto this work, that he may reason with them, not according to that which he has received of them, but according to that which shall be taught him by you my servants; and by so doing I will bless him, otherwise he shall not prosper.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "section-49-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Thus saith the Lord; for I am God, and have sent mine Only Begotten Son into the world for the redemption of the world, and have decreed that he that receiveth him shall be saved, and he that receiveth him not shall be damned—",
+      "churchId": "p5"
+    },
+    {
+      "slug": "section-49-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And they have done unto the Son of Man even as they listed; and he has taken his power on the right hand of his glory, and now reigneth in the heavens, and will reign till he descends on the earth to put all enemies under his feet, which time is nigh at hand—",
+      "churchId": "p6"
+    },
+    {
+      "slug": "section-49-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "I, the Lord God, have spoken it; but the hour and the day no man knoweth, neither the angels in heaven, nor shall they know until he comes.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "section-49-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Wherefore, I will that all men shall repent, for all are under sin, except those which I have reserved unto myself, holy men that ye know not of.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "section-49-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Wherefore, I say unto you that I have sent unto you mine everlasting covenant, even that which was from the beginning.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "section-49-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And that which I have promised I have so fulfilled, and the nations of the earth shall bow to it; and, if not of themselves, they shall come down, for that which is now exalted of itself shall be laid low of power.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "section-49-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Wherefore, I give unto you a commandment that ye go among this people, and say unto them, like unto mine apostle of old, whose name was Peter:",
+      "churchId": "p11"
+    },
+    {
+      "slug": "section-49-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Believe on the name of the Lord Jesus, who was on the earth, and is to come, the beginning and the end;",
+      "churchId": "p12"
+    },
+    {
+      "slug": "section-49-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Repent and be baptized in the name of Jesus Christ, according to the holy commandment, for the remission of sins;",
+      "churchId": "p13"
+    },
+    {
+      "slug": "section-49-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And whoso doeth this shall receive the gift of the Holy Ghost, by the laying on of the hands of the elders of the church.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "section-49-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And again, verily I say unto you, that whoso forbiddeth to marry is not ordained of God, for marriage is ordained of God unto man.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "section-49-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Wherefore, it is lawful that he should have one wife, and they twain shall be one flesh, and all this that the earth might answer the end of its creation;",
+      "churchId": "p16"
+    },
+    {
+      "slug": "section-49-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And that it might be filled with the measure of man, according to his creation before the world was made.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "section-49-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And whoso forbiddeth to abstain from meats, that man should not eat the same, is not ordained of God;",
+      "churchId": "p18"
+    },
+    {
+      "slug": "section-49-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "For, behold, the beasts of the field and the fowls of the air, and that which cometh of the earth, is ordained for the use of man for food and for raiment, and that he might have in abundance.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "section-49-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "But it is not given that one man should possess that which is above another, wherefore the world lieth in sin.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "section-49-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And wo be unto man that sheddeth blood or that wasteth flesh and hath no need.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "section-49-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And again, verily I say unto you, that the Son of Man cometh not in the form of a woman, neither of a man traveling on the earth.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "section-49-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Wherefore, be not deceived, but continue in steadfastness, looking forth for the heavens to be shaken, and the earth to tremble and to reel to and fro as a drunken man, and for the valleys to be exalted, and for the mountains to be made low, and for the rough places to become smooth—and all this when the angel shall sound his trumpet.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "section-49-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "But before the great day of the Lord shall come, Jacob shall flourish in the wilderness, and the Lamanites shall blossom as the rose.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "section-49-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Zion shall flourish upon the hills and rejoice upon the mountains, and shall be assembled together unto the place which I have appointed.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "section-49-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "Behold, I say unto you, go forth as I have commanded you; repent of all your sins; ask and ye shall receive; knock and it shall be opened unto you.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "section-49-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "Behold, I will go before you and be your rearward; and I will be in your midst, and you shall not be confounded.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "section-49-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "Behold, I am Jesus Christ, and I come quickly. Even so. Amen.",
+      "churchId": "p28"
+    }
+  ]
+}

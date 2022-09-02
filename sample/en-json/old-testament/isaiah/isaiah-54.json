@@ -1,0 +1,134 @@
+{
+  "name": "Isaiah 54",
+  "abbrev": "Isa. 54",
+  "number": "54",
+  "churchUri": "/scriptures/ot/isa/54",
+  "paragraphs": [
+    {
+      "slug": "isaiah-54-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 54",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "isaiah-54-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Sing, O barren, thou <span class=\"clarity-word\">that</span> didst not bear; break forth into singing, and cry aloud, thou <span class=\"clarity-word\">that</span> didst not travail with child: for more <span class=\"clarity-word\">are</span> the children of the desolate than the children of the married wife, saith the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "isaiah-54-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Enlarge the place of thy tent, and let them stretch forth the curtains of thine habitations: spare not, lengthen thy cords, and strengthen thy stakes;",
+      "churchId": "p2"
+    },
+    {
+      "slug": "isaiah-54-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "For thou shalt break forth on the right hand and on the left; and thy seed shall inherit the Gentiles, and make the desolate cities to be inhabited.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "isaiah-54-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Fear not; for thou shalt not be ashamed: neither be thou confounded; for thou shalt not be put to shame: for thou shalt forget the shame of thy youth, and shalt not remember the reproach of thy widowhood any more.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "isaiah-54-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "For thy Maker <span class=\"clarity-word\">is</span> thine husband; the <span class=\"small-caps\">Lord</span> of hosts <span class=\"clarity-word\">is</span> his name; and thy Redeemer the Holy One of Israel; The God of the whole earth shall he be called.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "isaiah-54-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "For the <span class=\"small-caps\">Lord</span> hath called thee as a woman forsaken and grieved in spirit, and a wife of youth, when thou wast refused, saith thy God.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "isaiah-54-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "For a small moment have I forsaken thee; but with great mercies will I gather thee.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "isaiah-54-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "In a little wrath I hid my face from thee for a moment; but with everlasting kindness will I have mercy on thee, saith the <span class=\"small-caps\">Lord</span> thy Redeemer.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "isaiah-54-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "For this <span class=\"clarity-word\">is as</span> the waters of Noah unto me: for <span class=\"clarity-word\">as</span> I have sworn that the waters of Noah should no more go over the earth; so have I sworn that I would not be wroth with thee, nor rebuke thee.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "isaiah-54-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "For the mountains shall depart, and the hills be removed; but my kindness shall not depart from thee, neither shall the covenant of my peace be removed, saith the <span class=\"small-caps\">Lord</span> that hath mercy on thee.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "isaiah-54-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "¶ O thou afflicted, tossed with tempest, <span class=\"clarity-word\">and</span> not comforted, behold, I will lay thy stones with fair colours, and lay thy foundations with sapphires.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "isaiah-54-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And I will make thy windows of agates, and thy gates of carbuncles, and all thy borders of pleasant stones.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "isaiah-54-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And all thy children <span class=\"clarity-word\">shall be</span> taught of the <span class=\"small-caps\">Lord</span>; and great <span class=\"clarity-word\">shall be</span> the peace of thy children.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "isaiah-54-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "In righteousness shalt thou be established: thou shalt be far from oppression; for thou shalt not fear: and from terror; for it shall not come near thee.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "isaiah-54-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Behold, they shall surely gather together, <span class=\"clarity-word\">but</span> not by me: whosoever shall gather together against thee shall fall for thy sake.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "isaiah-54-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Behold, I have created the smith that bloweth the coals in the fire, and that bringeth forth an instrument for his work; and I have created the waster to destroy.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "isaiah-54-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "¶ No weapon that is formed against thee shall prosper; and every tongue <span class=\"clarity-word\">that</span> shall rise against thee in judgment thou shalt condemn. This <span class=\"clarity-word\">is</span> the heritage of the servants of the <span class=\"small-caps\">Lord</span>, and their righteousness <span class=\"clarity-word\">is</span> of me, saith the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p17"
+    }
+  ]
+}

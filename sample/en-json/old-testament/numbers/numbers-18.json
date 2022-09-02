@@ -1,0 +1,239 @@
+{
+  "name": "Numbers 18",
+  "abbrev": "Num. 18",
+  "number": "18",
+  "churchUri": "/scriptures/ot/num/18",
+  "paragraphs": [
+    {
+      "slug": "numbers-18-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 18",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "numbers-18-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And the <span class=\"small-caps\">Lord</span> said unto Aaron, Thou and thy sons and thy father’s house with thee shall bear the iniquity of the sanctuary: and thou and thy sons with thee shall bear the iniquity of your priesthood.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "numbers-18-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And thy brethren also of the tribe of Levi, the tribe of thy father, bring thou with thee, that they may be joined unto thee, and minister unto thee: but thou and thy sons with thee <span class=\"clarity-word\">shall minister</span> before the tabernacle of witness.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "numbers-18-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And they shall keep thy charge, and the charge of all the tabernacle: only they shall not come nigh the vessels of the sanctuary and the altar, that neither they, nor ye also, die.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "numbers-18-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And they shall be joined unto thee, and keep the charge of the tabernacle of the congregation, for all the service of the tabernacle: and a stranger shall not come nigh unto you.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "numbers-18-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And ye shall keep the charge of the sanctuary, and the charge of the altar: that there be no wrath any more upon the children of Israel.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "numbers-18-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And I, behold, I have taken your brethren the Levites from among the children of Israel: to you <span class=\"clarity-word\">they are</span> given <span class=\"clarity-word\">as</span> a gift for the <span class=\"small-caps\">Lord</span>, to do the service of the tabernacle of the congregation.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "numbers-18-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Therefore thou and thy sons with thee shall keep your priest’s office for every thing of the altar, and within the veil; and ye shall serve: I have given your priest’s office <span class=\"clarity-word\">unto you as</span> a service of gift: and the stranger that cometh nigh shall be put to death.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "numbers-18-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "¶ And the <span class=\"small-caps\">Lord</span> spake unto Aaron, Behold, I also have given thee the charge of mine heave offerings of all the hallowed things of the children of Israel; unto thee have I given them by reason of the anointing, and to thy sons, by an ordinance for ever.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "numbers-18-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "This shall be thine of the most holy things, <span class=\"clarity-word\">reserved</span> from the fire: every oblation of theirs, every meat offering of theirs, and every sin offering of theirs, and every trespass offering of theirs, which they shall render unto me, <span class=\"clarity-word\">shall be</span> most holy for thee and for thy sons.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "numbers-18-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "In the most holy <span class=\"clarity-word\">place</span> shalt thou eat it; every male shall eat it: it shall be holy unto thee.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "numbers-18-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And this <span class=\"clarity-word\">is</span> thine; the heave offering of their gift, with all the wave offerings of the children of Israel: I have given them unto thee, and to thy sons and to thy daughters with thee, by a statute for ever: every one that is clean in thy house shall eat of it.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "numbers-18-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "All the best of the oil, and all the best of the wine, and of the wheat, the firstfruits of them which they shall offer unto the <span class=\"small-caps\">Lord</span>, them have I given thee.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "numbers-18-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "<span class=\"clarity-word\">And</span> whatsoever is first ripe in the land, which they shall bring unto the <span class=\"small-caps\">Lord</span>, shall be thine; every one that is clean in thine house shall eat <span class=\"clarity-word\">of</span> it.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "numbers-18-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Every thing devoted in Israel shall be thine.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "numbers-18-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Every thing that openeth the matrix in all flesh, which they bring unto the <span class=\"small-caps\">Lord</span>, <span class=\"clarity-word\">whether it be</span> of men or beasts, shall be thine: nevertheless the firstborn of man shalt thou surely redeem, and the firstling of unclean beasts shalt thou redeem.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "numbers-18-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And those that are to be redeemed from a month old shalt thou redeem, according to thine estimation, for the money of five shekels, after the shekel of the sanctuary, which <span class=\"clarity-word\">is</span> twenty gerahs.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "numbers-18-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "But the firstling of a cow, or the firstling of a sheep, or the firstling of a goat, thou shalt not redeem; they <span class=\"clarity-word\">are</span> holy: thou shalt sprinkle their blood upon the altar, and shalt burn their fat <span class=\"clarity-word\">for</span> an offering made by fire, for a sweet savour unto the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "numbers-18-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And the flesh of them shall be thine, as the wave breast and as the right shoulder are thine.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "numbers-18-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "All the heave offerings of the holy things, which the children of Israel offer unto the <span class=\"small-caps\">Lord</span>, have I given thee, and thy sons and thy daughters with thee, by a statute for ever: it <span class=\"clarity-word\">is</span> a covenant of salt for ever before the <span class=\"small-caps\">Lord</span> unto thee and to thy seed with thee.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "numbers-18-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "¶ And the <span class=\"small-caps\">Lord</span> spake unto Aaron, Thou shalt have no inheritance in their land, neither shalt thou have any part among them: I <span class=\"clarity-word\">am</span> thy part and thine inheritance among the children of Israel.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "numbers-18-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And, behold, I have given the children of Levi all the tenth in Israel for an inheritance, for their service which they serve, <span class=\"clarity-word\">even</span> the service of the tabernacle of the congregation.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "numbers-18-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Neither must the children of Israel henceforth come nigh the tabernacle of the congregation, lest they bear sin, and die.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "numbers-18-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "But the Levites shall do the service of the tabernacle of the congregation, and they shall bear their iniquity: <span class=\"clarity-word\">it shall be</span> a statute for ever throughout your generations, that among the children of Israel they have no inheritance.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "numbers-18-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "But the tithes of the children of Israel, which they offer <span class=\"clarity-word\">as</span> an heave offering unto the <span class=\"small-caps\">Lord</span>, I have given to the Levites to inherit: therefore I have said unto them, Among the children of Israel they shall have no inheritance.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "numbers-18-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "¶ And the <span class=\"small-caps\">Lord</span> spake unto Moses, saying,",
+      "churchId": "p25"
+    },
+    {
+      "slug": "numbers-18-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "Thus speak unto the Levites, and say unto them, When ye take of the children of Israel the tithes which I have given you from them for your inheritance, then ye shall offer up an heave offering of it for the <span class=\"small-caps\">Lord</span>, <span class=\"clarity-word\">even</span> a tenth <span class=\"clarity-word\">part</span> of the tithe.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "numbers-18-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And <span class=\"clarity-word\">this</span> your heave offering shall be reckoned unto you, as though <span class=\"clarity-word\">it were</span> the corn of the threshingfloor, and as the fulness of the winepress.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "numbers-18-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "Thus ye also shall offer an heave offering unto the <span class=\"small-caps\">Lord</span> of all your tithes, which ye receive of the children of Israel; and ye shall give thereof the <span class=\"small-caps\">Lord</span>’s heave offering to Aaron the priest.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "numbers-18-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "Out of all your gifts ye shall offer every heave offering of the <span class=\"small-caps\">Lord</span>, of all the best thereof, <span class=\"clarity-word\">even</span> the hallowed part thereof out of it.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "numbers-18-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "Therefore thou shalt say unto them, When ye have heaved the best thereof from it, then it shall be counted unto the Levites as the increase of the threshingfloor, and as the increase of the winepress.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "numbers-18-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "And ye shall eat it in every place, ye and your households: for it <span class=\"clarity-word\">is</span> your reward for your service in the tabernacle of the congregation.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "numbers-18-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "And ye shall bear no sin by reason of it, when ye have heaved from it the best of it: neither shall ye pollute the holy things of the children of Israel, lest ye die.",
+      "churchId": "p32"
+    }
+  ]
+}

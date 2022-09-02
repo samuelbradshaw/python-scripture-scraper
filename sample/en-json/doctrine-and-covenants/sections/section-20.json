@@ -1,0 +1,603 @@
+{
+  "name": "Doctrine and Covenants 20",
+  "abbrev": "D&C 20",
+  "number": "20",
+  "churchUri": "/scriptures/dc-testament/dc/20",
+  "paragraphs": [
+    {
+      "slug": "section-20-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Section 20",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "section-20-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "The rise of the Church of Christ in these last days, being one thousand eight hundred and thirty years since the coming of our Lord and Savior Jesus Christ in the flesh, it being regularly organized and established agreeable to the laws of our country, by the will and commandments of God, in the fourth month, and on the sixth day of the month which is called April—",
+      "churchId": "p1"
+    },
+    {
+      "slug": "section-20-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Which commandments were given to Joseph Smith, Jun., who was called of God, and ordained an apostle of Jesus Christ, to be the first elder of this church;",
+      "churchId": "p2"
+    },
+    {
+      "slug": "section-20-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And to Oliver Cowdery, who was also called of God, an apostle of Jesus Christ, to be the second elder of this church, and ordained under his hand;",
+      "churchId": "p3"
+    },
+    {
+      "slug": "section-20-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And this according to the grace of our Lord and Savior Jesus Christ, to whom be all glory, both now and forever. Amen.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "section-20-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "After it was truly manifested unto this first elder that he had received a remission of his sins, he was entangled again in the vanities of the world;",
+      "churchId": "p5"
+    },
+    {
+      "slug": "section-20-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "But after repenting, and humbling himself sincerely, through faith, God ministered unto him by an holy angel, whose countenance was as lightning, and whose garments were pure and white above all other whiteness;",
+      "churchId": "p6"
+    },
+    {
+      "slug": "section-20-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And gave unto him commandments which inspired him;",
+      "churchId": "p7"
+    },
+    {
+      "slug": "section-20-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And gave him power from on high, by the means which were before prepared, to translate the Book of Mormon;",
+      "churchId": "p8"
+    },
+    {
+      "slug": "section-20-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Which contains a record of a fallen people, and the fulness of the gospel of Jesus Christ to the Gentiles and to the Jews also;",
+      "churchId": "p9"
+    },
+    {
+      "slug": "section-20-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Which was given by inspiration, and is confirmed to others by the ministering of angels, and is declared unto the world by them—",
+      "churchId": "p10"
+    },
+    {
+      "slug": "section-20-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Proving to the world that the holy scriptures are true, and that God does inspire men and call them to his holy work in this age and generation, as well as in generations of old;",
+      "churchId": "p11"
+    },
+    {
+      "slug": "section-20-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Thereby showing that he is the same God yesterday, today, and forever. Amen.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "section-20-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Therefore, having so great witnesses, by them shall the world be judged, even as many as shall hereafter come to a knowledge of this work.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "section-20-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And those who receive it in faith, and work righteousness, shall receive a crown of eternal life;",
+      "churchId": "p14"
+    },
+    {
+      "slug": "section-20-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "But those who harden their hearts in unbelief, and reject it, it shall turn to their own condemnation—",
+      "churchId": "p15"
+    },
+    {
+      "slug": "section-20-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "For the Lord God has spoken it; and we, the elders of the church, have heard and bear witness to the words of the glorious Majesty on high, to whom be glory forever and ever. Amen.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "section-20-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "By these things we know that there is a God in heaven, who is infinite and eternal, from everlasting to everlasting the same unchangeable God, the framer of heaven and earth, and all things which are in them;",
+      "churchId": "p17"
+    },
+    {
+      "slug": "section-20-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And that he created man, male and female, after his own image and in his own likeness, created he them;",
+      "churchId": "p18"
+    },
+    {
+      "slug": "section-20-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And gave unto them commandments that they should love and serve him, the only living and true God, and that he should be the only being whom they should worship.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "section-20-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "But by the transgression of these holy laws man became sensual and devilish, and became fallen man.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "section-20-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Wherefore, the Almighty God gave his Only Begotten Son, as it is written in those scriptures which have been given of him.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "section-20-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "He suffered temptations but gave no heed unto them.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "section-20-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "He was crucified, died, and rose again the third day;",
+      "churchId": "p23"
+    },
+    {
+      "slug": "section-20-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And ascended into heaven, to sit down on the right hand of the Father, to reign with almighty power according to the will of the Father;",
+      "churchId": "p24"
+    },
+    {
+      "slug": "section-20-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "That as many as would believe and be baptized in his holy name, and endure in faith to the end, should be saved—",
+      "churchId": "p25"
+    },
+    {
+      "slug": "section-20-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "Not only those who believed after he came in the meridian of time, in the flesh, but all those from the beginning, even as many as were before he came, who believed in the words of the holy prophets, who spake as they were inspired by the gift of the Holy Ghost, who truly testified of him in all things, should have eternal life,",
+      "churchId": "p26"
+    },
+    {
+      "slug": "section-20-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "As well as those who should come after, who should believe in the gifts and callings of God by the Holy Ghost, which beareth record of the Father and of the Son;",
+      "churchId": "p27"
+    },
+    {
+      "slug": "section-20-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "Which Father, Son, and Holy Ghost are one God, infinite and eternal, without end. Amen.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "section-20-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "And we know that all men must repent and believe on the name of Jesus Christ, and worship the Father in his name, and endure in faith on his name to the end, or they cannot be saved in the kingdom of God.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "section-20-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And we know that justification through the grace of our Lord and Savior Jesus Christ is just and true;",
+      "churchId": "p30"
+    },
+    {
+      "slug": "section-20-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "And we know also, that sanctification through the grace of our Lord and Savior Jesus Christ is just and true, to all those who love and serve God with all their mights, minds, and strength.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "section-20-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "But there is a possibility that man may fall from grace and depart from the living God;",
+      "churchId": "p32"
+    },
+    {
+      "slug": "section-20-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "Therefore let the church take heed and pray always, lest they fall into temptation;",
+      "churchId": "p33"
+    },
+    {
+      "slug": "section-20-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "Yea, and even let those who are sanctified take heed also.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "section-20-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "And we know that these things are true and according to the revelations of John, neither adding to, nor diminishing from the prophecy of his book, the holy scriptures, or the revelations of God which shall come hereafter by the gift and power of the Holy Ghost, the voice of God, or the ministering of angels.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "section-20-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "And the Lord God has spoken it; and honor, power and glory be rendered to his holy name, both now and ever. Amen.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "section-20-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "<em>And again, by way of commandment to the church concerning the manner of baptism</em>—All those who humble themselves before God, and desire to be baptized, and come forth with broken hearts and contrite spirits, and witness before the church that they have truly repented of all their sins, and are willing to take upon them the name of Jesus Christ, having a determination to serve him to the end, and truly manifest by their works that they have received of the Spirit of Christ unto the remission of their sins, shall be received by baptism into his church.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "section-20-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "<em>The duty of the elders, priests, teachers, deacons, and members of the church of Christ</em>—An apostle is an elder, and it is his calling to baptize;",
+      "churchId": "p38"
+    },
+    {
+      "slug": "section-20-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "And to ordain other elders, priests, teachers, and deacons;",
+      "churchId": "p39"
+    },
+    {
+      "slug": "section-20-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "And to administer bread and wine—the emblems of the flesh and blood of Christ—",
+      "churchId": "p40"
+    },
+    {
+      "slug": "section-20-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "And to confirm those who are baptized into the church, by the laying on of hands for the baptism of fire and the Holy Ghost, according to the scriptures;",
+      "churchId": "p41"
+    },
+    {
+      "slug": "section-20-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "And to teach, expound, exhort, baptize, and watch over the church;",
+      "churchId": "p42"
+    },
+    {
+      "slug": "section-20-p43",
+      "type": "verse",
+      "number": "43",
+      "content": "And to confirm the church by the laying on of the hands, and the giving of the Holy Ghost;",
+      "churchId": "p43"
+    },
+    {
+      "slug": "section-20-p44",
+      "type": "verse",
+      "number": "44",
+      "content": "And to take the lead of all meetings.",
+      "churchId": "p44"
+    },
+    {
+      "slug": "section-20-p45",
+      "type": "verse",
+      "number": "45",
+      "content": "The elders are to conduct the meetings as they are led by the Holy Ghost, according to the commandments and revelations of God.",
+      "churchId": "p45"
+    },
+    {
+      "slug": "section-20-p46",
+      "type": "verse",
+      "number": "46",
+      "content": "The priest’s duty is to preach, teach, expound, exhort, and baptize, and administer the sacrament,",
+      "churchId": "p46"
+    },
+    {
+      "slug": "section-20-p47",
+      "type": "verse",
+      "number": "47",
+      "content": "And visit the house of each member, and exhort them to pray vocally and in secret and attend to all family duties.",
+      "churchId": "p47"
+    },
+    {
+      "slug": "section-20-p48",
+      "type": "verse",
+      "number": "48",
+      "content": "And he may also ordain other priests, teachers, and deacons.",
+      "churchId": "p48"
+    },
+    {
+      "slug": "section-20-p49",
+      "type": "verse",
+      "number": "49",
+      "content": "And he is to take the lead of meetings when there is no elder present;",
+      "churchId": "p49"
+    },
+    {
+      "slug": "section-20-p50",
+      "type": "verse",
+      "number": "50",
+      "content": "But when there is an elder present, he is only to preach, teach, expound, exhort, and baptize,",
+      "churchId": "p50"
+    },
+    {
+      "slug": "section-20-p51",
+      "type": "verse",
+      "number": "51",
+      "content": "And visit the house of each member, exhorting them to pray vocally and in secret and attend to all family duties.",
+      "churchId": "p51"
+    },
+    {
+      "slug": "section-20-p52",
+      "type": "verse",
+      "number": "52",
+      "content": "In all these duties the priest is to assist the elder if occasion requires.",
+      "churchId": "p52"
+    },
+    {
+      "slug": "section-20-p53",
+      "type": "verse",
+      "number": "53",
+      "content": "The teacher’s duty is to watch over the church always, and be with and strengthen them;",
+      "churchId": "p53"
+    },
+    {
+      "slug": "section-20-p54",
+      "type": "verse",
+      "number": "54",
+      "content": "And see that there is no iniquity in the church, neither hardness with each other, neither lying, backbiting, nor evil speaking;",
+      "churchId": "p54"
+    },
+    {
+      "slug": "section-20-p55",
+      "type": "verse",
+      "number": "55",
+      "content": "And see that the church meet together often, and also see that all the members do their duty.",
+      "churchId": "p55"
+    },
+    {
+      "slug": "section-20-p56",
+      "type": "verse",
+      "number": "56",
+      "content": "And he is to take the lead of meetings in the absence of the elder or priest—",
+      "churchId": "p56"
+    },
+    {
+      "slug": "section-20-p57",
+      "type": "verse",
+      "number": "57",
+      "content": "And is to be assisted always, in all his duties in the church, by the deacons, if occasion requires.",
+      "churchId": "p57"
+    },
+    {
+      "slug": "section-20-p58",
+      "type": "verse",
+      "number": "58",
+      "content": "But neither teachers nor deacons have authority to baptize, administer the sacrament, or lay on hands;",
+      "churchId": "p58"
+    },
+    {
+      "slug": "section-20-p59",
+      "type": "verse",
+      "number": "59",
+      "content": "They are, however, to warn, expound, exhort, and teach, and invite all to come unto Christ.",
+      "churchId": "p59"
+    },
+    {
+      "slug": "section-20-p60",
+      "type": "verse",
+      "number": "60",
+      "content": "Every elder, priest, teacher, or deacon is to be ordained according to the gifts and callings of God unto him; and he is to be ordained by the power of the Holy Ghost, which is in the one who ordains him.",
+      "churchId": "p60"
+    },
+    {
+      "slug": "section-20-p61",
+      "type": "verse",
+      "number": "61",
+      "content": "The several elders composing this church of Christ are to meet in conference once in three months, or from time to time as said conferences shall direct or appoint;",
+      "churchId": "p61"
+    },
+    {
+      "slug": "section-20-p62",
+      "type": "verse",
+      "number": "62",
+      "content": "And said conferences are to do whatever church business is necessary to be done at the time.",
+      "churchId": "p62"
+    },
+    {
+      "slug": "section-20-p63",
+      "type": "verse",
+      "number": "63",
+      "content": "The elders are to receive their licenses from other elders, by vote of the church to which they belong, or from the conferences.",
+      "churchId": "p63"
+    },
+    {
+      "slug": "section-20-p64",
+      "type": "verse",
+      "number": "64",
+      "content": "Each priest, teacher, or deacon, who is ordained by a priest, may take a certificate from him at the time, which certificate, when presented to an elder, shall entitle him to a license, which shall authorize him to perform the duties of his calling, or he may receive it from a conference.",
+      "churchId": "p64"
+    },
+    {
+      "slug": "section-20-p65",
+      "type": "verse",
+      "number": "65",
+      "content": "No person is to be ordained to any office in this church, where there is a regularly organized branch of the same, without the vote of that church;",
+      "churchId": "p65"
+    },
+    {
+      "slug": "section-20-p66",
+      "type": "verse",
+      "number": "66",
+      "content": "But the presiding elders, traveling bishops, high councilors, high priests, and elders, may have the privilege of ordaining, where there is no branch of the church that a vote may be called.",
+      "churchId": "p66"
+    },
+    {
+      "slug": "section-20-p67",
+      "type": "verse",
+      "number": "67",
+      "content": "Every president of the high priesthood (or presiding elder), bishop, high councilor, and high priest, is to be ordained by the direction of a high council or general conference.",
+      "churchId": "p67"
+    },
+    {
+      "slug": "section-20-p68",
+      "type": "verse",
+      "number": "68",
+      "content": "<em>The duty of the members after they are received by baptism</em>—The elders or priests are to have a sufficient time to expound all things concerning the church of Christ to their understanding, previous to their partaking of the sacrament and being confirmed by the laying on of the hands of the elders, so that all things may be done in order.",
+      "churchId": "p68"
+    },
+    {
+      "slug": "section-20-p69",
+      "type": "verse",
+      "number": "69",
+      "content": "And the members shall manifest before the church, and also before the elders, by a godly walk and conversation, that they are worthy of it, that there may be works and faith agreeable to the holy scriptures—walking in holiness before the Lord.",
+      "churchId": "p69"
+    },
+    {
+      "slug": "section-20-p70",
+      "type": "verse",
+      "number": "70",
+      "content": "Every member of the church of Christ having children is to bring them unto the elders before the church, who are to lay their hands upon them in the name of Jesus Christ, and bless them in his name.",
+      "churchId": "p70"
+    },
+    {
+      "slug": "section-20-p71",
+      "type": "verse",
+      "number": "71",
+      "content": "No one can be received into the church of Christ unless he has arrived unto the years of accountability before God, and is capable of repentance.",
+      "churchId": "p71"
+    },
+    {
+      "slug": "section-20-p72",
+      "type": "verse",
+      "number": "72",
+      "content": "Baptism is to be administered in the following manner unto all those who repent—",
+      "churchId": "p72"
+    },
+    {
+      "slug": "section-20-p73",
+      "type": "verse",
+      "number": "73",
+      "content": "The person who is called of God and has authority from Jesus Christ to baptize, shall go down into the water with the person who has presented himself or herself for baptism, and shall say, calling him or her by name: Having been commissioned of Jesus Christ, I baptize you in the name of the Father, and of the Son, and of the Holy Ghost. Amen.",
+      "churchId": "p73"
+    },
+    {
+      "slug": "section-20-p74",
+      "type": "verse",
+      "number": "74",
+      "content": "Then shall he immerse him or her in the water, and come forth again out of the water.",
+      "churchId": "p74"
+    },
+    {
+      "slug": "section-20-p75",
+      "type": "verse",
+      "number": "75",
+      "content": "It is expedient that the church meet together often to partake of bread and wine in the remembrance of the Lord Jesus;",
+      "churchId": "p75"
+    },
+    {
+      "slug": "section-20-p76",
+      "type": "verse",
+      "number": "76",
+      "content": "And the elder or priest shall administer it; and after this manner shall he administer it—he shall kneel with the church and call upon the Father in solemn prayer, saying:",
+      "churchId": "p76"
+    },
+    {
+      "slug": "section-20-p77",
+      "type": "verse",
+      "number": "77",
+      "content": "O God, the Eternal Father, we ask thee in the name of thy Son, Jesus Christ, to bless and sanctify this bread to the souls of all those who partake of it, that they may eat in remembrance of the body of thy Son, and witness unto thee, O God, the Eternal Father, that they are willing to take upon them the name of thy Son, and always remember him and keep his commandments which he has given them; that they may always have his Spirit to be with them. Amen.",
+      "churchId": "p77"
+    },
+    {
+      "slug": "section-20-p78",
+      "type": "verse",
+      "number": "78",
+      "content": "The manner of administering the wine—he shall take the cup also, and say:",
+      "churchId": "p78"
+    },
+    {
+      "slug": "section-20-p79",
+      "type": "verse",
+      "number": "79",
+      "content": "O God, the Eternal Father, we ask thee in the name of thy Son, Jesus Christ, to bless and sanctify this wine to the souls of all those who drink of it, that they may do it in remembrance of the blood of thy Son, which was shed for them; that they may witness unto thee, O God, the Eternal Father, that they do always remember him, that they may have his Spirit to be with them. Amen.",
+      "churchId": "p79"
+    },
+    {
+      "slug": "section-20-p80",
+      "type": "verse",
+      "number": "80",
+      "content": "Any member of the church of Christ transgressing, or being overtaken in a fault, shall be dealt with as the scriptures direct.",
+      "churchId": "p80"
+    },
+    {
+      "slug": "section-20-p81",
+      "type": "verse",
+      "number": "81",
+      "content": "It shall be the duty of the several churches, composing the church of Christ, to send one or more of their teachers to attend the several conferences held by the elders of the church,",
+      "churchId": "p81"
+    },
+    {
+      "slug": "section-20-p82",
+      "type": "verse",
+      "number": "82",
+      "content": "With a list of the names of the several members uniting themselves with the church since the last conference; or send by the hand of some priest; so that a regular list of all the names of the whole church may be kept in a book by one of the elders, whomsoever the other elders shall appoint from time to time;",
+      "churchId": "p82"
+    },
+    {
+      "slug": "section-20-p83",
+      "type": "verse",
+      "number": "83",
+      "content": "And also, if any have been expelled from the church, so that their names may be blotted out of the general church record of names.",
+      "churchId": "p83"
+    },
+    {
+      "slug": "section-20-p84",
+      "type": "verse",
+      "number": "84",
+      "content": "All members removing from the church where they reside, if going to a church where they are not known, may take a letter certifying that they are regular members and in good standing, which certificate may be signed by any elder or priest if the member receiving the letter is personally acquainted with the elder or priest, or it may be signed by the teachers or deacons of the church.",
+      "churchId": "p84"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+body {
+  margin: 0; padding: 1em;
+  font-family: "Georgia", serif;
+  color: hsl(0, 0%, 10%);
+}
+p { line-height: 1.4; }
+.subtitle {}
+.verse {}
+h1 {
+  text-transform: uppercase;
+  font-weight: normal;
+}
+h1 small {
+  display: block;
+  font-size: 0.8em;
+}
+h2, h3 { font-family: "Helvetica", sans-serif; }
+hr {
+  height: 1px;
+  margin-top: 2em;
+  border: none;
+  background-color: currentColor;
+}
+a { color: DarkOliveGreen; }
+.verse-number {
+  font-weight: bold;
+  margin: 0 0.5em
+}
+sup {
+  display:inline-block;
+  text-decoration: none;
+  margin: 0 0.1em;
+}
+img { max-width: 100%; }
+.clarity-word { font-style: italic; }
+.small-caps { font-variant: small-caps; }
+.uppercase { text-transform: uppercase; }
+.study-summary, .study-intro { font-style: italic; }
+[id], [name] { scroll-margin-top: 60px; }

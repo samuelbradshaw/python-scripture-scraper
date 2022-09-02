@@ -1,0 +1,64 @@
+{
+  "name": "Psalm 23",
+  "abbrev": "Psalm 23",
+  "number": "23",
+  "churchUri": "/scriptures/ot/ps/23",
+  "paragraphs": [
+    {
+      "slug": "psalm-23-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 23",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-23-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "A Psalm of David.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-23-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "The <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">is</span> my shepherd; I shall not want.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-23-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "He maketh me to lie down in green pastures: he leadeth me beside the still waters.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-23-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "He restoreth my soul: he leadeth me in the paths of righteousness for his name’s sake.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-23-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou <span class=\"clarity-word\">art</span> with me; thy rod and thy staff they comfort me.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-23-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-23-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the <span class=\"small-caps\">Lord</span> for ever.",
+      "churchId": "p6"
+    }
+  ]
+}

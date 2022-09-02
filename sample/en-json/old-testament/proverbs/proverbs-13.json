@@ -1,0 +1,190 @@
+{
+  "name": "Proverbs 13",
+  "abbrev": "Prov. 13",
+  "number": "13",
+  "churchUri": "/scriptures/ot/prov/13",
+  "paragraphs": [
+    {
+      "slug": "proverbs-13-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 13",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "proverbs-13-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "A wise son <span class=\"clarity-word\">heareth</span> his father’s instruction: but a scorner heareth not rebuke.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "proverbs-13-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "A man shall eat good by the fruit of <span class=\"clarity-word\">his</span> mouth: but the soul of the transgressors <span class=\"clarity-word\">shall eat</span> violence.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "proverbs-13-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "He that keepeth his mouth keepeth his life: <span class=\"clarity-word\">but</span> he that openeth wide his lips shall have destruction.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "proverbs-13-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "The soul of the sluggard desireth, and <span class=\"clarity-word\">hath</span> nothing: but the soul of the diligent shall be made fat.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "proverbs-13-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "A righteous <span class=\"clarity-word\">man</span> hateth lying: but a wicked <span class=\"clarity-word\">man</span> is loathsome, and cometh to shame.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "proverbs-13-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Righteousness keepeth <span class=\"clarity-word\">him that is</span> upright in the way: but wickedness overthroweth the sinner.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "proverbs-13-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "There is that maketh himself rich, yet <span class=\"clarity-word\">hath</span> nothing: <span class=\"clarity-word\">there is</span> that maketh himself poor, yet <span class=\"clarity-word\">hath</span> great riches.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "proverbs-13-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "The ransom of a man’s life <span class=\"clarity-word\">are</span> his riches: but the poor heareth not rebuke.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "proverbs-13-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "The light of the righteous rejoiceth: but the lamp of the wicked shall be put out.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "proverbs-13-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Only by pride cometh contention: but with the well advised <span class=\"clarity-word\">is</span> wisdom.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "proverbs-13-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Wealth <span class=\"clarity-word\">gotten</span> by vanity shall be diminished: but he that gathereth by labour shall increase.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "proverbs-13-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Hope deferred maketh the heart sick: but <span class=\"clarity-word\">when</span> the desire cometh, <span class=\"clarity-word\">it is</span> a tree of life.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "proverbs-13-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Whoso despiseth the word shall be destroyed: but he that feareth the commandment shall be rewarded.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "proverbs-13-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "The law of the wise <span class=\"clarity-word\">is</span> a fountain of life, to depart from the snares of death.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "proverbs-13-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Good understanding giveth favour: but the way of transgressors <span class=\"clarity-word\">is</span> hard.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "proverbs-13-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Every prudent <span class=\"clarity-word\">man</span> dealeth with knowledge: but a fool layeth open <span class=\"clarity-word\">his</span> folly.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "proverbs-13-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "A wicked messenger falleth into mischief: but a faithful ambassador <span class=\"clarity-word\">is</span> health.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "proverbs-13-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Poverty and shame <span class=\"clarity-word\">shall be to</span> him that refuseth instruction: but he that regardeth reproof shall be honoured.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "proverbs-13-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "The desire accomplished is sweet to the soul: but <span class=\"clarity-word\">it is</span> abomination to fools to depart from evil.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "proverbs-13-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "He that walketh with wise <span class=\"clarity-word\">men</span> shall be wise: but a companion of fools shall be destroyed.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "proverbs-13-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Evil pursueth sinners: but to the righteous good shall be repayed.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "proverbs-13-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "A good <span class=\"clarity-word\">man</span> leaveth an inheritance to his children’s children: and the wealth of the sinner <span class=\"clarity-word\">is</span> laid up for the just.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "proverbs-13-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Much food <span class=\"clarity-word\">is in</span> the tillage of the poor: but there is <span class=\"clarity-word\">that is</span> destroyed for want of judgment.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "proverbs-13-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "He that spareth his rod hateth his son: but he that loveth him chasteneth him betimes.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "proverbs-13-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "The righteous eateth to the satisfying of his soul: but the belly of the wicked shall want.",
+      "churchId": "p25"
+    }
+  ]
+}

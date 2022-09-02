@@ -1,0 +1,99 @@
+{
+  "name": "Hosea 1",
+  "abbrev": "Hosea 1",
+  "number": "1",
+  "churchUri": "/scriptures/ot/hosea/1",
+  "paragraphs": [
+    {
+      "slug": "hosea-1-title1",
+      "type": "book-title",
+      "number": null,
+      "content": "Hosea",
+      "churchId": "title1"
+    },
+    {
+      "slug": "hosea-1-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 1",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "hosea-1-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "The word of the <span class=\"small-caps\">Lord</span> that came unto Hosea, the son of Beeri, in the days of Uzziah, Jotham, Ahaz, <span class=\"clarity-word\">and</span> Hezekiah, kings of Judah, and in the days of Jeroboam the son of Joash, king of Israel.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "hosea-1-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "The beginning of the word of the <span class=\"small-caps\">Lord</span> by Hosea. And the <span class=\"small-caps\">Lord</span> said to Hosea, Go, take unto thee a wife of whoredoms and children of whoredoms: for the land hath committed great whoredom, <span class=\"clarity-word\">departing</span> from the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "hosea-1-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "So he went and took Gomer the daughter of Diblaim; which conceived, and bare him a son.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "hosea-1-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And the <span class=\"small-caps\">Lord</span> said unto him, Call his name Jezreel; for yet a little <span class=\"clarity-word\">while,</span> and I will avenge the blood of Jezreel upon the house of Jehu, and will cause to cease the kingdom of the house of Israel.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "hosea-1-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And it shall come to pass at that day, that I will break the bow of Israel in the valley of Jezreel.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "hosea-1-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "¶ And she conceived again, and bare a daughter. And <span class=\"clarity-word\">God</span> said unto him, Call her name Lo-ruhamah: for I will no more have mercy upon the house of Israel; but I will utterly take them away.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "hosea-1-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "But I will have mercy upon the house of Judah, and will save them by the <span class=\"small-caps\">Lord</span> their God, and will not save them by bow, nor by sword, nor by battle, by horses, nor by horsemen.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "hosea-1-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "¶ Now when she had weaned Lo-ruhamah, she conceived, and bare a son.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "hosea-1-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Then said <span class=\"clarity-word\">God,</span> Call his name Lo-ammi: for ye <span class=\"clarity-word\">are</span> not my people, and I will not be your <span class=\"clarity-word\">God.</span>",
+      "churchId": "p9"
+    },
+    {
+      "slug": "hosea-1-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "¶ Yet the number of the children of Israel shall be as the sand of the sea, which cannot be measured nor numbered; and it shall come to pass, <span class=\"clarity-word\">that</span> in the place where it was said unto them, Ye <span class=\"clarity-word\">are</span> not my people, <span class=\"clarity-word\">there</span> it shall be said unto them, <span class=\"clarity-word\">Ye are</span> the sons of the living God.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "hosea-1-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Then shall the children of Judah and the children of Israel be gathered together, and appoint themselves one head, and they shall come up out of the land: for great <span class=\"clarity-word\">shall be</span> the day of Jezreel.",
+      "churchId": "p11"
+    }
+  ]
+}

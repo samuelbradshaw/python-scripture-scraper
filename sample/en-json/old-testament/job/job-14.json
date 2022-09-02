@@ -1,0 +1,169 @@
+{
+  "name": "Job 14",
+  "abbrev": "Job 14",
+  "number": "14",
+  "churchUri": "/scriptures/ot/job/14",
+  "paragraphs": [
+    {
+      "slug": "job-14-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 14",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "job-14-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Man <span class=\"clarity-word\">that is</span> born of a woman <span class=\"clarity-word\">is</span> of few days, and full of trouble.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "job-14-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "He cometh forth like a flower, and is cut down: he fleeth also as a shadow, and continueth not.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "job-14-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And dost thou open thine eyes upon such an one, and bringest me into judgment with thee?",
+      "churchId": "p3"
+    },
+    {
+      "slug": "job-14-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Who can bring a clean <span class=\"clarity-word\">thing</span> out of an unclean? not one.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "job-14-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Seeing his days <span class=\"clarity-word\">are</span> determined, the number of his months <span class=\"clarity-word\">are</span> with thee, thou hast appointed his bounds that he cannot pass;",
+      "churchId": "p5"
+    },
+    {
+      "slug": "job-14-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Turn from him, that he may rest, till he shall accomplish, as an hireling, his day.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "job-14-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "For there is hope of a tree, if it be cut down, that it will sprout again, and that the tender branch thereof will not cease.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "job-14-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Though the root thereof wax old in the earth, and the stock thereof die in the ground;",
+      "churchId": "p8"
+    },
+    {
+      "slug": "job-14-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "<span class=\"clarity-word\">Yet</span> through the scent of water it will bud, and bring forth boughs like a plant.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "job-14-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "But man dieth, and wasteth away: yea, man giveth up the ghost, and where <span class=\"clarity-word\">is</span> he?",
+      "churchId": "p10"
+    },
+    {
+      "slug": "job-14-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "<span class=\"clarity-word\">As</span> the waters fail from the sea, and the flood decayeth and drieth up:",
+      "churchId": "p11"
+    },
+    {
+      "slug": "job-14-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "So man lieth down, and riseth not: till the heavens <span class=\"clarity-word\">be</span> no more, they shall not awake, nor be raised out of their sleep.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "job-14-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "O that thou wouldest hide me in the grave, that thou wouldest keep me secret, until thy wrath be past, that thou wouldest appoint me a set time, and remember me!",
+      "churchId": "p13"
+    },
+    {
+      "slug": "job-14-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "If a man die, shall he live <span class=\"clarity-word\">again?</span> all the days of my appointed time will I wait, till my change come.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "job-14-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Thou shalt call, and I will answer thee: thou wilt have a desire to the work of thine hands.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "job-14-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "For now thou numberest my steps: dost thou not watch over my sin?",
+      "churchId": "p16"
+    },
+    {
+      "slug": "job-14-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "My transgression <span class=\"clarity-word\">is</span> sealed up in a bag, and thou sewest up mine iniquity.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "job-14-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And surely the mountain falling cometh to nought, and the rock is removed out of his place.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "job-14-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "The waters wear the stones: thou washest away the things which grow <span class=\"clarity-word\">out</span> of the dust of the earth; and thou destroyest the hope of man.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "job-14-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Thou prevailest for ever against him, and he passeth: thou changest his countenance, and sendest him away.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "job-14-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "His sons come to honour, and he knoweth <span class=\"clarity-word\">it</span> not; and they are brought low, but he perceiveth <span class=\"clarity-word\">it</span> not of them.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "job-14-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "But his flesh upon him shall have pain, and his soul within him shall mourn.",
+      "churchId": "p22"
+    }
+  ]
+}

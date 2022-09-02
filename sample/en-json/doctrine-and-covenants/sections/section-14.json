@@ -1,0 +1,92 @@
+{
+  "name": "Doctrine and Covenants 14",
+  "abbrev": "D&C 14",
+  "number": "14",
+  "churchUri": "/scriptures/dc-testament/dc/14",
+  "paragraphs": [
+    {
+      "slug": "section-14-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Section 14",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "section-14-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "A great and marvelous work is about to come forth unto the children of men.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "section-14-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Behold, I am God; give heed to my word, which is quick and powerful, sharper than a two-edged sword, to the dividing asunder of both joints and marrow; therefore give heed unto my word.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "section-14-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Behold, the field is white already to harvest; therefore, whoso desireth to reap let him thrust in his sickle with his might, and reap while the day lasts, that he may treasure up for his soul everlasting salvation in the kingdom of God.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "section-14-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Yea, whosoever will thrust in his sickle and reap, the same is called of God.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "section-14-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Therefore, if you will ask of me you shall receive; if you will knock it shall be opened unto you.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "section-14-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Seek to bring forth and establish my Zion. Keep my commandments in all things.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "section-14-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And, if you keep my commandments and endure to the end you shall have eternal life, which gift is the greatest of all the gifts of God.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "section-14-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And it shall come to pass, that if you shall ask the Father in my name, in faith believing, you shall receive the Holy Ghost, which giveth utterance, that you may stand as a witness of the things of which you shall both hear and see, and also that you may declare repentance unto this generation.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "section-14-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Behold, I am Jesus Christ, the Son of the living God, who created the heavens and the earth, a light which cannot be hid in darkness;",
+      "churchId": "p9"
+    },
+    {
+      "slug": "section-14-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Wherefore, I must bring forth the fulness of my gospel from the Gentiles unto the house of Israel.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "section-14-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And behold, thou art David, and thou art called to assist; which thing if ye do, and are faithful, ye shall be blessed both spiritually and temporally, and great shall be your reward. Amen.",
+      "churchId": "p11"
+    }
+  ]
+}

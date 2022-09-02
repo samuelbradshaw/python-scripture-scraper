@@ -1,0 +1,225 @@
+{
+  "name": "Genesis 38",
+  "abbrev": "Gen. 38",
+  "number": "38",
+  "churchUri": "/scriptures/ot/gen/38",
+  "paragraphs": [
+    {
+      "slug": "genesis-38-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 38",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "genesis-38-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And it came to pass at that time, that Judah went down from his brethren, and turned in to a certain Adullamite, whose name <span class=\"clarity-word\">was</span> Hirah.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "genesis-38-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And Judah saw there a daughter of a certain Canaanite, whose name <span class=\"clarity-word\">was</span> Shuah; and he took her, and went in unto her.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "genesis-38-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And she conceived, and bare a son; and he called his name Er.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "genesis-38-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And she conceived again, and bare a son; and she called his name Onan.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "genesis-38-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And she yet again conceived, and bare a son; and called his name Shelah: and he was at Chezib, when she bare him.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "genesis-38-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And Judah took a wife for Er his firstborn, whose name <span class=\"clarity-word\">was</span> Tamar.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "genesis-38-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And Er, Judah’s firstborn, was wicked in the sight of the <span class=\"small-caps\">Lord</span>; and the <span class=\"small-caps\">Lord</span> slew him.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "genesis-38-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And Judah said unto Onan, Go in unto thy brother’s wife, and marry her, and raise up seed to thy brother.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "genesis-38-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And Onan knew that the seed should not be his; and it came to pass, when he went in unto his brother’s wife, that he spilled <span class=\"clarity-word\">it</span> on the ground, lest that he should give seed to his brother.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "genesis-38-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And the thing which he did displeased the <span class=\"small-caps\">Lord</span>: wherefore he slew him also.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "genesis-38-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Then said Judah to Tamar his daughter in law, Remain a widow at thy father’s house, till Shelah my son be grown: for he said, Lest peradventure he die also, as his brethren <span class=\"clarity-word\">did.</span> And Tamar went and dwelt in her father’s house.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "genesis-38-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "¶ And in process of time the daughter of Shuah Judah’s wife died; and Judah was comforted, and went up unto his sheepshearers to Timnath, he and his friend Hirah the Adullamite.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "genesis-38-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And it was told Tamar, saying, Behold thy father in law goeth up to Timnath to shear his sheep.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "genesis-38-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And she put her widow’s garments off from her, and covered her with a veil, and wrapped herself, and sat in an open place, which <span class=\"clarity-word\">is</span> by the way to Timnath; for she saw that Shelah was grown, and she was not given unto him to wife.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "genesis-38-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "When Judah saw her, he thought her <span class=\"clarity-word\">to be</span> an harlot; because she had covered her face.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "genesis-38-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And he turned unto her by the way, and said, Go to, I pray thee, let me come in unto thee; (for he knew not that she <span class=\"clarity-word\">was</span> his daughter in law.) And she said, What wilt thou give me, that thou mayest come in unto me?",
+      "churchId": "p16"
+    },
+    {
+      "slug": "genesis-38-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And he said, I will send <span class=\"clarity-word\">thee</span> a kid from the flock. And she said, Wilt thou give <span class=\"clarity-word\">me</span> a pledge, till thou send <span class=\"clarity-word\">it?</span>",
+      "churchId": "p17"
+    },
+    {
+      "slug": "genesis-38-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And he said, What pledge shall I give thee? And she said, Thy signet, and thy bracelets, and thy staff that <span class=\"clarity-word\">is</span> in thine hand. And he gave <span class=\"clarity-word\">it</span> her, and came in unto her, and she conceived by him.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "genesis-38-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And she arose, and went away, and laid by her veil from her, and put on the garments of her widowhood.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "genesis-38-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And Judah sent the kid by the hand of his friend the Adullamite, to receive <span class=\"clarity-word\">his</span> pledge from the woman’s hand: but he found her not.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "genesis-38-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Then he asked the men of that place, saying, Where <span class=\"clarity-word\">is</span> the harlot, that <span class=\"clarity-word\">was</span> openly by the way side? And they said, There was no harlot in this <span class=\"clarity-word\">place.</span>",
+      "churchId": "p21"
+    },
+    {
+      "slug": "genesis-38-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And he returned to Judah, and said, I cannot find her; and also the men of the place said, <span class=\"clarity-word\">that</span> there was no harlot in this <span class=\"clarity-word\">place.</span>",
+      "churchId": "p22"
+    },
+    {
+      "slug": "genesis-38-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And Judah said, Let her take <span class=\"clarity-word\">it</span> to her, lest we be shamed: behold, I sent this kid, and thou hast not found her.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "genesis-38-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "¶ And it came to pass about three months after, that it was told Judah, saying, Tamar thy daughter in law hath played the harlot; and also, behold, she <span class=\"clarity-word\">is</span> with child by whoredom. And Judah said, Bring her forth, and let her be burnt.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "genesis-38-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "When she <span class=\"clarity-word\">was</span> brought forth, she sent to her father in law, saying, By the man, whose these <span class=\"clarity-word\">are, am</span> I with child: and she said, Discern, I pray thee, whose <span class=\"clarity-word\">are</span> these, the signet, and bracelets, and staff.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "genesis-38-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And Judah acknowledged <span class=\"clarity-word\">them,</span> and said, She hath been more righteous than I; because that I gave her not to Shelah my son. And he knew her again no more.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "genesis-38-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "¶ And it came to pass in the time of her travail, that, behold, twins <span class=\"clarity-word\">were</span> in her womb.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "genesis-38-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And it came to pass, when she travailed, that <span class=\"clarity-word\">the one</span> put out <span class=\"clarity-word\">his</span> hand: and the midwife took and bound upon his hand a scarlet thread, saying, This came out first.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "genesis-38-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "And it came to pass, as he drew back his hand, that, behold, his brother came out: and she said, How hast thou broken forth? <span class=\"clarity-word\">this</span> breach <span class=\"clarity-word\">be</span> upon thee: therefore his name was called Pharez.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "genesis-38-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And afterward came out his brother, that had the scarlet thread upon his hand: and his name was called Zarah.",
+      "churchId": "p30"
+    }
+  ]
+}

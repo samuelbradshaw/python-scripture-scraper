@@ -1,0 +1,78 @@
+{
+  "name": "Psalm 61",
+  "abbrev": "Psalm 61",
+  "number": "61",
+  "churchUri": "/scriptures/ot/ps/61",
+  "paragraphs": [
+    {
+      "slug": "psalm-61-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 61",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-61-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "To the chief Musician upon Neginah, <span class=\"clarity-word\">A Psalm</span> of David.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-61-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Hear my cry, O God; attend unto my prayer.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-61-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "From the end of the earth will I cry unto thee, when my heart is overwhelmed: lead me to the rock <span class=\"clarity-word\">that</span> is higher than I.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-61-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "For thou hast been a shelter for me, <span class=\"clarity-word\">and</span> a strong tower from the enemy.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-61-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "I will abide in thy tabernacle for ever: I will trust in the covert of thy wings. Selah.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-61-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "For thou, O God, hast heard my vows: thou hast given <span class=\"clarity-word\">me</span> the heritage of those that fear thy name.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-61-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Thou wilt prolong the king’s life: <span class=\"clarity-word\">and</span> his years as many generations.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-61-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "He shall abide before God for ever: O prepare mercy and truth, <span class=\"clarity-word\">which</span> may preserve him.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-61-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "So will I sing praise unto thy name for ever, that I may daily perform my vows.",
+      "churchId": "p8"
+    }
+  ]
+}

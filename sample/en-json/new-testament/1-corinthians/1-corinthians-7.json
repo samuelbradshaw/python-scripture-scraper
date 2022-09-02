@@ -1,0 +1,295 @@
+{
+  "name": "1 Corinthians 7",
+  "abbrev": "1 Cor. 7",
+  "number": "7",
+  "churchUri": "/scriptures/nt/1-cor/7",
+  "paragraphs": [
+    {
+      "slug": "1-corinthians-7-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 7",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "1-corinthians-7-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Now concerning the things whereof ye wrote unto me: <span class=\"clarity-word\">It is</span> good for a man not to touch a woman.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "1-corinthians-7-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Nevertheless, <span class=\"clarity-word\">to avoid</span> fornication, let every man have his own wife, and let every woman have her own husband.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "1-corinthians-7-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Let the husband render unto the wife due benevolence: and likewise also the wife unto the husband.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "1-corinthians-7-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "The wife hath not power of her own body, but the husband: and likewise also the husband hath not power of his own body, but the wife.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "1-corinthians-7-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Defraud ye not one the other, except <span class=\"clarity-word\">it be</span> with consent for a time, that ye may give yourselves to fasting and prayer; and come together again, that Satan tempt you not for your incontinency.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "1-corinthians-7-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "But I speak this by permission, <span class=\"clarity-word\">and</span> not of commandment.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "1-corinthians-7-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "For I would that all men were even as I myself. But every man hath his proper gift of God, one after this manner, and another after that.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "1-corinthians-7-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "I say therefore to the unmarried and widows, It is good for them if they abide even as I.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "1-corinthians-7-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "But if they cannot contain, let them marry: for it is better to marry than to burn.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "1-corinthians-7-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And unto the married I command, <span class=\"clarity-word\">yet</span> not I, but the Lord, Let not the wife depart from <span class=\"clarity-word\">her</span> husband:",
+      "churchId": "p10"
+    },
+    {
+      "slug": "1-corinthians-7-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "But and if she depart, let her remain unmarried, or be reconciled to <span class=\"clarity-word\">her</span> husband: and let not the husband put away <span class=\"clarity-word\">his</span> wife.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "1-corinthians-7-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "But to the rest speak I, not the Lord: If any brother hath a wife that believeth not, and she be pleased to dwell with him, let him not put her away.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "1-corinthians-7-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And the woman which hath an husband that believeth not, and if he be pleased to dwell with her, let her not leave him.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "1-corinthians-7-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "For the unbelieving husband is sanctified by the wife, and the unbelieving wife is sanctified by the husband: else were your children unclean; but now are they holy.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "1-corinthians-7-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "But if the unbelieving depart, let him depart. A brother or a sister is not under bondage in such <span class=\"clarity-word\">cases:</span> but God hath called us to peace.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "1-corinthians-7-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "For what knowest thou, O wife, whether thou shalt save <span class=\"clarity-word\">thy</span> husband? or how knowest thou, O man, whether thou shalt save <span class=\"clarity-word\">thy</span> wife?",
+      "churchId": "p16"
+    },
+    {
+      "slug": "1-corinthians-7-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "But as God hath distributed to every man, as the Lord hath called every one, so let him walk. And so ordain I in all churches.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "1-corinthians-7-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Is any man called being circumcised? let him not become uncircumcised. Is any called in uncircumcision? let him not be circumcised.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "1-corinthians-7-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Circumcision is nothing, and uncircumcision is nothing, but the keeping of the commandments of God.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "1-corinthians-7-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Let every man abide in the same calling wherein he was called.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "1-corinthians-7-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Art thou called <span class=\"clarity-word\">being</span> a servant? care not for it: but if thou mayest be made free, use <span class=\"clarity-word\">it</span> rather.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "1-corinthians-7-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "For he that is called in the Lord, <span class=\"clarity-word\">being</span> a servant, is the Lord’s freeman: likewise also he that is called, <span class=\"clarity-word\">being</span> free, is Christ’s servant.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "1-corinthians-7-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Ye are bought with a price; be not ye the servants of men.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "1-corinthians-7-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Brethren, let every man, wherein he is called, therein abide with God.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "1-corinthians-7-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Now concerning virgins I have no commandment of the Lord: yet I give my judgment, as one that hath obtained mercy of the Lord to be faithful.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "1-corinthians-7-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "I suppose therefore that this is good for the present distress, <span class=\"clarity-word\">I say,</span> that <span class=\"clarity-word\">it is</span> good for a man so to be.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "1-corinthians-7-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "Art thou bound unto a wife? seek not to be loosed. Art thou loosed from a wife? seek not a wife.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "1-corinthians-7-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "But and if thou marry, thou hast not sinned; and if a virgin marry, she hath not sinned. Nevertheless such shall have trouble in the flesh: but I spare you.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "1-corinthians-7-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "But this I say, brethren, the time <span class=\"clarity-word\">is</span> short: it remaineth, that both they that have wives be as though they had none;",
+      "churchId": "p29"
+    },
+    {
+      "slug": "1-corinthians-7-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And they that weep, as though they wept not; and they that rejoice, as though they rejoiced not; and they that buy, as though they possessed not;",
+      "churchId": "p30"
+    },
+    {
+      "slug": "1-corinthians-7-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "And they that use this world, as not abusing <span class=\"clarity-word\">it:</span> for the fashion of this world passeth away.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "1-corinthians-7-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "But I would have you without carefulness. He that is unmarried careth for the things that belong to the Lord, how he may please the Lord:",
+      "churchId": "p32"
+    },
+    {
+      "slug": "1-corinthians-7-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "But he that is married careth for the things that are of the world, how he may please <span class=\"clarity-word\">his</span> wife.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "1-corinthians-7-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "There is difference <span class=\"clarity-word\">also</span> between a wife and a virgin. The unmarried woman careth for the things of the Lord, that she may be holy both in body and in spirit: but she that is married careth for the things of the world, how she may please <span class=\"clarity-word\">her</span> husband.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "1-corinthians-7-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "And this I speak for your own profit; not that I may cast a snare upon you, but for that which is comely, and that ye may attend upon the Lord without distraction.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "1-corinthians-7-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "But if any man think that he behaveth himself uncomely toward his virgin, if she pass the flower of <span class=\"clarity-word\">her</span> age, and need so require, let him do what he will, he sinneth not: let them marry.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "1-corinthians-7-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "Nevertheless he that standeth steadfast in his heart, having no necessity, but hath power over his own will, and hath so decreed in his heart that he will keep his virgin, doeth well.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "1-corinthians-7-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "So then he that giveth <span class=\"clarity-word\">her</span> in marriage doeth well; but he that giveth <span class=\"clarity-word\">her</span> not in marriage doeth better.",
+      "churchId": "p38"
+    },
+    {
+      "slug": "1-corinthians-7-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "The wife is bound by the law as long as her husband liveth; but if her husband be dead, she is at liberty to be married to whom she will; only in the Lord.",
+      "churchId": "p39"
+    },
+    {
+      "slug": "1-corinthians-7-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "But she is happier if she so abide, after my judgment: and I think also that I have the Spirit of God.",
+      "churchId": "p40"
+    }
+  ]
+}

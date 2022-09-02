@@ -1,0 +1,92 @@
+{
+  "name": "Revelation 4",
+  "abbrev": "Rev. 4",
+  "number": "4",
+  "churchUri": "/scriptures/nt/rev/4",
+  "paragraphs": [
+    {
+      "slug": "revelation-4-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 4",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "revelation-4-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "After this I looked, and, behold, a door <span class=\"clarity-word\">was</span> opened in heaven: and the first voice which I heard <span class=\"clarity-word\">was</span> as it were of a trumpet talking with me; which said, Come up hither, and I will shew thee things which must be hereafter.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "revelation-4-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And immediately I was in the spirit: and, behold, a throne was set in heaven, and <span class=\"clarity-word\">one</span> sat on the throne.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "revelation-4-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And he that sat was to look upon like a jasper and a sardine stone: and <span class=\"clarity-word\">there was</span> a rainbow round about the throne, in sight like unto an emerald.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "revelation-4-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And round about the throne <span class=\"clarity-word\">were</span> four and twenty seats: and upon the seats I saw four and twenty elders sitting, clothed in white raiment; and they had on their heads crowns of gold.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "revelation-4-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And out of the throne proceeded lightnings and thunderings and voices: and <span class=\"clarity-word\">there were</span> seven lamps of fire burning before the throne, which are the seven Spirits of God.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "revelation-4-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And before the throne <span class=\"clarity-word\">there was</span> a sea of glass like unto crystal: and in the midst of the throne, and round about the throne, <span class=\"clarity-word\">were</span> four beasts full of eyes before and behind.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "revelation-4-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And the first beast <span class=\"clarity-word\">was</span> like a lion, and the second beast like a calf, and the third beast had a face as a man, and the fourth beast <span class=\"clarity-word\">was</span> like a flying eagle.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "revelation-4-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And the four beasts had each of them six wings about <span class=\"clarity-word\">him;</span> and <span class=\"clarity-word\">they were</span> full of eyes within: and they rest not day and night, saying, Holy, holy, holy, Lord God Almighty, which was, and is, and is to come.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "revelation-4-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And when those beasts give glory and honour and thanks to him that sat on the throne, who liveth for ever and ever,",
+      "churchId": "p9"
+    },
+    {
+      "slug": "revelation-4-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "The four and twenty elders fall down before him that sat on the throne, and worship him that liveth for ever and ever, and cast their crowns before the throne, saying,",
+      "churchId": "p10"
+    },
+    {
+      "slug": "revelation-4-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Thou art worthy, O Lord, to receive glory and honour and power: for thou hast created all things, and for thy pleasure they are and were created.",
+      "churchId": "p11"
+    }
+  ]
+}

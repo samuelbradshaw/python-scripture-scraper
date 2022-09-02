@@ -1,0 +1,260 @@
+{
+  "name": "Jacob 2",
+  "abbrev": "Jacob 2",
+  "number": "2",
+  "churchUri": "/scriptures/bofm/jacob/2",
+  "paragraphs": [
+    {
+      "slug": "jacob-2-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 2",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "jacob-2-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "The words which Jacob, the brother of Nephi, spake unto the people of Nephi, after the death of Nephi:",
+      "churchId": "p1"
+    },
+    {
+      "slug": "jacob-2-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Now, my beloved brethren, I, Jacob, according to the responsibility which I am under to God, to magnify mine office with soberness, and that I might rid my garments of your sins, I come up into the temple this day that I might declare unto you the word of God.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "jacob-2-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And ye yourselves know that I have hitherto been diligent in the office of my calling; but I this day am weighed down with much more desire and anxiety for the welfare of your souls than I have hitherto been.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "jacob-2-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "For behold, as yet, ye have been obedient unto the word of the Lord, which I have given unto you.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "jacob-2-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "But behold, hearken ye unto me, and know that by the help of the all-powerful Creator of heaven and earth I can tell you concerning your thoughts, how that ye are beginning to labor in sin, which sin appeareth very abominable unto me, yea, and abominable unto God.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "jacob-2-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Yea, it grieveth my soul and causeth me to shrink with shame before the presence of my Maker, that I must testify unto you concerning the wickedness of your hearts.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "jacob-2-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And also it grieveth me that I must use so much boldness of speech concerning you, before your wives and your children, many of whose feelings are exceedingly tender and chaste and delicate before God, which thing is pleasing unto God;",
+      "churchId": "p7"
+    },
+    {
+      "slug": "jacob-2-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And it supposeth me that they have come up hither to hear the pleasing word of God, yea, the word which healeth the wounded soul.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "jacob-2-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Wherefore, it burdeneth my soul that I should be constrained, because of the strict commandment which I have received from God, to admonish you according to your crimes, to enlarge the wounds of those who are already wounded, instead of consoling and healing their wounds; and those who have not been wounded, instead of feasting upon the pleasing word of God have daggers placed to pierce their souls and wound their delicate minds.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "jacob-2-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "But, notwithstanding the greatness of the task, I must do according to the strict commands of God, and tell you concerning your wickedness and abominations, in the presence of the pure in heart, and the broken heart, and under the glance of the piercing eye of the Almighty God.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "jacob-2-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Wherefore, I must tell you the truth according to the plainness of the word of God. For behold, as I inquired of the Lord, thus came the word unto me, saying: Jacob, get thou up into the temple on the morrow, and declare the word which I shall give thee unto this people.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "jacob-2-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And now behold, my brethren, this is the word which I declare unto you, that many of you have begun to search for gold, and for silver, and for all manner of precious ores, in the which this land, which is a land of promise unto you and to your seed, doth abound most plentifully.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "jacob-2-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And the hand of providence hath smiled upon you most pleasingly, that you have obtained many riches; and because some of you have obtained more abundantly than that of your brethren ye are lifted up in the pride of your hearts, and wear stiff necks and high heads because of the costliness of your apparel, and persecute your brethren because ye suppose that ye are better than they.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "jacob-2-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And now, my brethren, do ye suppose that God justifieth you in this thing? Behold, I say unto you, Nay. But he condemneth you, and if ye persist in these things his judgments must speedily come unto you.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "jacob-2-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "O that he would show you that he can pierce you, and with one glance of his eye he can smite you to the dust!",
+      "churchId": "p15"
+    },
+    {
+      "slug": "jacob-2-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "O that he would rid you from this iniquity and abomination. And, O that ye would listen unto the word of his commands, and let not this pride of your hearts destroy your souls!",
+      "churchId": "p16"
+    },
+    {
+      "slug": "jacob-2-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Think of your brethren like unto yourselves, and be familiar with all and free with your substance, that they may be rich like unto you.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "jacob-2-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "But before ye seek for riches, seek ye for the kingdom of God.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "jacob-2-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And after ye have obtained a hope in Christ ye shall obtain riches, if ye seek them; and ye will seek them for the intent to do good—to clothe the naked, and to feed the hungry, and to liberate the captive, and administer relief to the sick and the afflicted.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "jacob-2-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And now, my brethren, I have spoken unto you concerning pride; and those of you which have afflicted your neighbor, and persecuted him because ye were proud in your hearts, of the things which God hath given you, what say ye of it?",
+      "churchId": "p20"
+    },
+    {
+      "slug": "jacob-2-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Do ye not suppose that such things are abominable unto him who created all flesh? And the one being is as precious in his sight as the other. And all flesh is of the dust; and for the selfsame end hath he created them, that they should keep his commandments and glorify him forever.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "jacob-2-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And now I make an end of speaking unto you concerning this pride. And were it not that I must speak unto you concerning a grosser crime, my heart would rejoice exceedingly because of you.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "jacob-2-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "But the word of God burdens me because of your grosser crimes. For behold, thus saith the Lord: This people begin to wax in iniquity; they understand not the scriptures, for they seek to excuse themselves in committing whoredoms, because of the things which were written concerning David, and Solomon his son.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "jacob-2-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Behold, David and Solomon truly had many wives and concubines, which thing was abominable before me, saith the Lord.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "jacob-2-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Wherefore, thus saith the Lord, I have led this people forth out of the land of Jerusalem, by the power of mine arm, that I might raise up unto me a righteous branch from the fruit of the loins of Joseph.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "jacob-2-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "Wherefore, I the Lord God will not suffer that this people shall do like unto them of old.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "jacob-2-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "Wherefore, my brethren, hear me, and hearken to the word of the Lord: For there shall not any man among you have save it be one wife; and concubines he shall have none;",
+      "churchId": "p27"
+    },
+    {
+      "slug": "jacob-2-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "For I, the Lord God, delight in the chastity of women. And whoredoms are an abomination before me; thus saith the Lord of Hosts.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "jacob-2-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "Wherefore, this people shall keep my commandments, saith the Lord of Hosts, or cursed be the land for their sakes.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "jacob-2-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "For if I will, saith the Lord of Hosts, raise up seed unto me, I will command my people; otherwise they shall hearken unto these things.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "jacob-2-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "For behold, I, the Lord, have seen the sorrow, and heard the mourning of the daughters of my people in the land of Jerusalem, yea, and in all the lands of my people, because of the wickedness and abominations of their husbands.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "jacob-2-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "And I will not suffer, saith the Lord of Hosts, that the cries of the fair daughters of this people, which I have led out of the land of Jerusalem, shall come up unto me against the men of my people, saith the Lord of Hosts.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "jacob-2-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "For they shall not lead away captive the daughters of my people because of their tenderness, save I shall visit them with a sore curse, even unto destruction; for they shall not commit whoredoms, like unto them of old, saith the Lord of Hosts.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "jacob-2-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "And now behold, my brethren, ye know that these commandments were given to our father, Lehi; wherefore, ye have known them before; and ye have come unto great condemnation; for ye have done these things which ye ought not to have done.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "jacob-2-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "Behold, ye have done greater iniquities than the Lamanites, our brethren. Ye have broken the hearts of your tender wives, and lost the confidence of your children, because of your bad examples before them; and the sobbings of their hearts ascend up to God against you. And because of the strictness of the word of God, which cometh down against you, many hearts died, pierced with deep wounds.",
+      "churchId": "p35"
+    }
+  ]
+}

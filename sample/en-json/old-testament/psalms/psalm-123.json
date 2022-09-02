@@ -1,0 +1,50 @@
+{
+  "name": "Psalm 123",
+  "abbrev": "Psalm 123",
+  "number": "123",
+  "churchUri": "/scriptures/ot/ps/123",
+  "paragraphs": [
+    {
+      "slug": "psalm-123-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 123",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-123-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "A Song of degrees.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-123-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Unto thee lift I up mine eyes, O thou that dwellest in the heavens.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-123-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Behold, as the eyes of servants <span class=\"clarity-word\">look</span> unto the hand of their masters, <span class=\"clarity-word\">and</span> as the eyes of a maiden unto the hand of her mistress; so our eyes <span class=\"clarity-word\">wait</span> upon the <span class=\"small-caps\">Lord</span> our God, until that he have mercy upon us.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-123-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Have mercy upon us, O <span class=\"small-caps\">Lord</span>, have mercy upon us: for we are exceedingly filled with contempt.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-123-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Our soul is exceedingly filled with the scorning of those that are at ease, <span class=\"clarity-word\">and</span> with the contempt of the proud.",
+      "churchId": "p4"
+    }
+  ]
+}

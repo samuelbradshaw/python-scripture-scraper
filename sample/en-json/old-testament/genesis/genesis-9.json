@@ -1,0 +1,218 @@
+{
+  "name": "Genesis 9",
+  "abbrev": "Gen. 9",
+  "number": "9",
+  "churchUri": "/scriptures/ot/gen/9",
+  "paragraphs": [
+    {
+      "slug": "genesis-9-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 9",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "genesis-9-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And God blessed Noah and his sons, and said unto them, Be fruitful, and multiply, and replenish the earth.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "genesis-9-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And the fear of you and the dread of you shall be upon every beast of the earth, and upon every fowl of the air, upon all that moveth <span class=\"clarity-word\">upon</span> the earth, and upon all the fishes of the sea; into your hand are they delivered.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "genesis-9-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Every moving thing that liveth shall be meat for you; even as the green herb have I given you all things.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "genesis-9-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "But flesh with the life thereof, <span class=\"clarity-word\">which is</span> the blood thereof, shall ye not eat.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "genesis-9-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And surely your blood of your lives will I require; at the hand of every beast will I require it, and at the hand of man; at the hand of every man’s brother will I require the life of man.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "genesis-9-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Whoso sheddeth man’s blood, by man shall his blood be shed: for in the image of God made he man.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "genesis-9-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And you, be ye fruitful, and multiply; bring forth abundantly in the earth, and multiply therein.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "genesis-9-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "¶ And God spake unto Noah, and to his sons with him, saying,",
+      "churchId": "p8"
+    },
+    {
+      "slug": "genesis-9-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And I, behold, I establish my covenant with you, and with your seed after you;",
+      "churchId": "p9"
+    },
+    {
+      "slug": "genesis-9-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And with every living creature that <span class=\"clarity-word\">is</span> with you, of the fowl, of the cattle, and of every beast of the earth with you; from all that go out of the ark, to every beast of the earth.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "genesis-9-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And I will establish my covenant with you; neither shall all flesh be cut off any more by the waters of a flood; neither shall there any more be a flood to destroy the earth.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "genesis-9-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And God said, This <span class=\"clarity-word\">is</span> the token of the covenant which I make between me and you and every living creature that <span class=\"clarity-word\">is</span> with you, for perpetual generations:",
+      "churchId": "p12"
+    },
+    {
+      "slug": "genesis-9-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "I do set my bow in the cloud, and it shall be for a token of a covenant between me and the earth.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "genesis-9-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And it shall come to pass, when I bring a cloud over the earth, that the bow shall be seen in the cloud:",
+      "churchId": "p14"
+    },
+    {
+      "slug": "genesis-9-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And I will remember my covenant, which <span class=\"clarity-word\">is</span> between me and you and every living creature of all flesh; and the waters shall no more become a flood to destroy all flesh.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "genesis-9-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And the bow shall be in the cloud; and I will look upon it, that I may remember the everlasting covenant between God and every living creature of all flesh that <span class=\"clarity-word\">is</span> upon the earth.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "genesis-9-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And God said unto Noah, This <span class=\"clarity-word\">is</span> the token of the covenant, which I have established between me and all flesh that <span class=\"clarity-word\">is</span> upon the earth.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "genesis-9-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "¶ And the sons of Noah, that went forth of the ark, were Shem, and Ham, and Japheth: and Ham <span class=\"clarity-word\">is</span> the father of Canaan.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "genesis-9-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "These <span class=\"clarity-word\">are</span> the three sons of Noah: and of them was the whole earth overspread.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "genesis-9-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And Noah began <span class=\"clarity-word\">to be</span> an husbandman, and he planted a vineyard:",
+      "churchId": "p20"
+    },
+    {
+      "slug": "genesis-9-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And he drank of the wine, and was drunken; and he was uncovered within his tent.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "genesis-9-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And Ham, the father of Canaan, saw the nakedness of his father, and told his two brethren without.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "genesis-9-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And Shem and Japheth took a garment, and laid <span class=\"clarity-word\">it</span> upon both their shoulders, and went backward, and covered the nakedness of their father; and their faces <span class=\"clarity-word\">were</span> backward, and they saw not their father’s nakedness.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "genesis-9-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And Noah awoke from his wine, and knew what his younger son had done unto him.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "genesis-9-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And he said, Cursed <span class=\"clarity-word\">be</span> Canaan; a servant of servants shall he be unto his brethren.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "genesis-9-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And he said, Blessed <span class=\"clarity-word\">be</span> the <span class=\"small-caps\">Lord</span> God of Shem; and Canaan shall be his servant.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "genesis-9-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "God shall enlarge Japheth, and he shall dwell in the tents of Shem; and Canaan shall be his servant.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "genesis-9-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "¶ And Noah lived after the flood three hundred and fifty years.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "genesis-9-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "And all the days of Noah were nine hundred and fifty years: and he died.",
+      "churchId": "p29"
+    }
+  ]
+}

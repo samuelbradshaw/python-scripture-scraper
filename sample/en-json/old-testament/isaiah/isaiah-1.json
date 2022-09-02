@@ -1,0 +1,239 @@
+{
+  "name": "Isaiah 1",
+  "abbrev": "Isa. 1",
+  "number": "1",
+  "churchUri": "/scriptures/ot/isa/1",
+  "paragraphs": [
+    {
+      "slug": "isaiah-1-title1",
+      "type": "book-title",
+      "number": null,
+      "content": "<small>The Book of the Prophet </small>Isaiah",
+      "churchId": "title1"
+    },
+    {
+      "slug": "isaiah-1-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 1",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "isaiah-1-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "The vision of Isaiah the son of Amoz, which he saw concerning Judah and Jerusalem in the days of Uzziah, Jotham, Ahaz, <span class=\"clarity-word\">and</span> Hezekiah, kings of Judah.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "isaiah-1-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Hear, O heavens, and give ear, O earth: for the <span class=\"small-caps\">Lord</span> hath spoken, I have nourished and brought up children, and they have rebelled against me.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "isaiah-1-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "The ox knoweth his owner, and the ass his master’s crib: <span class=\"clarity-word\">but</span> Israel doth not know, my people doth not consider.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "isaiah-1-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Ah sinful nation, a people laden with iniquity, a seed of evildoers, children that are corrupters: they have forsaken the <span class=\"small-caps\">Lord</span>, they have provoked the Holy One of Israel unto anger, they are gone away backward.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "isaiah-1-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "¶ Why should ye be stricken any more? ye will revolt more and more: the whole head is sick, and the whole heart faint.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "isaiah-1-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "From the sole of the foot even unto the head <span class=\"clarity-word\">there is</span> no soundness in it; <span class=\"clarity-word\">but</span> wounds, and bruises, and putrifying sores: they have not been closed, neither bound up, neither mollified with ointment.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "isaiah-1-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Your country <span class=\"clarity-word\">is</span> desolate, your cities <span class=\"clarity-word\">are</span> burned with fire: your land, strangers devour it in your presence, and <span class=\"clarity-word\">it is</span> desolate, as overthrown by strangers.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "isaiah-1-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And the daughter of Zion is left as a cottage in a vineyard, as a lodge in a garden of cucumbers, as a besieged city.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "isaiah-1-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Except the <span class=\"small-caps\">Lord</span> of hosts had left unto us a very small remnant, we should have been as Sodom, <span class=\"clarity-word\">and</span> we should have been like unto Gomorrah.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "isaiah-1-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "¶ Hear the word of the <span class=\"small-caps\">Lord</span>, ye rulers of Sodom; give ear unto the law of our God, ye people of Gomorrah.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "isaiah-1-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "To what purpose <span class=\"clarity-word\">is</span> the multitude of your sacrifices unto me? saith the <span class=\"small-caps\">Lord</span>: I am full of the burnt offerings of rams, and the fat of fed beasts; and I delight not in the blood of bullocks, or of lambs, or of he goats.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "isaiah-1-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "When ye come to appear before me, who hath required this at your hand, to tread my courts?",
+      "churchId": "p12"
+    },
+    {
+      "slug": "isaiah-1-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Bring no more vain oblations; incense is an abomination unto me; the new moons and sabbaths, the calling of assemblies, I cannot away with; <span class=\"clarity-word\">it is</span> iniquity, even the solemn meeting.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "isaiah-1-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Your new moons and your appointed feasts my soul hateth: they are a trouble unto me; I am weary to bear <span class=\"clarity-word\">them.</span>",
+      "churchId": "p14"
+    },
+    {
+      "slug": "isaiah-1-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And when ye spread forth your hands, I will hide mine eyes from you: yea, when ye make many prayers, I will not hear: your hands are full of blood.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "isaiah-1-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "¶ Wash you, make you clean; put away the evil of your doings from before mine eyes; cease to do evil;",
+      "churchId": "p16"
+    },
+    {
+      "slug": "isaiah-1-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Learn to do well; seek judgment, relieve the oppressed, judge the fatherless, plead for the widow.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "isaiah-1-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Come now, and let us reason together, saith the <span class=\"small-caps\">Lord</span>: though your sins be as scarlet, they shall be as white as snow; though they be red like crimson, they shall be as wool.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "isaiah-1-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "If ye be willing and obedient, ye shall eat the good of the land:",
+      "churchId": "p19"
+    },
+    {
+      "slug": "isaiah-1-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "But if ye refuse and rebel, ye shall be devoured with the sword: for the mouth of the <span class=\"small-caps\">Lord</span> hath spoken <span class=\"clarity-word\">it.</span>",
+      "churchId": "p20"
+    },
+    {
+      "slug": "isaiah-1-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "¶ How is the faithful city become an harlot! it was full of judgment; righteousness lodged in it; but now murderers.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "isaiah-1-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Thy silver is become dross, thy wine mixed with water:",
+      "churchId": "p22"
+    },
+    {
+      "slug": "isaiah-1-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Thy princes <span class=\"clarity-word\">are</span> rebellious, and companions of thieves: every one loveth gifts, and followeth after rewards: they judge not the fatherless, neither doth the cause of the widow come unto them.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "isaiah-1-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Therefore saith the Lord, the <span class=\"small-caps\">Lord</span> of hosts, the mighty One of Israel, Ah, I will ease me of mine adversaries, and avenge me of mine enemies:",
+      "churchId": "p24"
+    },
+    {
+      "slug": "isaiah-1-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "¶ And I will turn my hand upon thee, and purely purge away thy dross, and take away all thy tin:",
+      "churchId": "p25"
+    },
+    {
+      "slug": "isaiah-1-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And I will restore thy judges as at the first, and thy counsellors as at the beginning: afterward thou shalt be called, The city of righteousness, the faithful city.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "isaiah-1-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "Zion shall be redeemed with judgment, and her converts with righteousness.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "isaiah-1-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "¶ And the destruction of the transgressors and of the sinners <span class=\"clarity-word\">shall be</span> together, and they that forsake the <span class=\"small-caps\">Lord</span> shall be consumed.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "isaiah-1-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "For they shall be ashamed of the oaks which ye have desired, and ye shall be confounded for the gardens that ye have chosen.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "isaiah-1-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "For ye shall be as an oak whose leaf fadeth, and as a garden that hath no water.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "isaiah-1-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "And the strong shall be as tow, and the maker of it as a spark, and they shall both burn together, and none shall quench <span class=\"clarity-word\">them.</span>",
+      "churchId": "p31"
+    }
+  ]
+}

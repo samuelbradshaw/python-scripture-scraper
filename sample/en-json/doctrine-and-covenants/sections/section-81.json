@@ -1,0 +1,64 @@
+{
+  "name": "Doctrine and Covenants 81",
+  "abbrev": "D&C 81",
+  "number": "81",
+  "churchUri": "/scriptures/dc-testament/dc/81",
+  "paragraphs": [
+    {
+      "slug": "section-81-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Section 81",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "section-81-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Verily, verily, I say unto you my servant Frederick G. Williams: Listen to the voice of him who speaketh, to the word of the Lord your God, and hearken to the calling wherewith you are called, even to be a high priest in my church, and a counselor unto my servant Joseph Smith, Jun.;",
+      "churchId": "p1"
+    },
+    {
+      "slug": "section-81-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Unto whom I have given the keys of the kingdom, which belong always unto the Presidency of the High Priesthood:",
+      "churchId": "p2"
+    },
+    {
+      "slug": "section-81-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Therefore, verily I acknowledge him and will bless him, and also thee, inasmuch as thou art faithful in counsel, in the office which I have appointed unto you, in prayer always, vocally and in thy heart, in public and in private, also in thy ministry in proclaiming the gospel in the land of the living, and among thy brethren.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "section-81-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And in doing these things thou wilt do the greatest good unto thy fellow beings, and wilt promote the glory of him who is your Lord.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "section-81-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Wherefore, be faithful; stand in the office which I have appointed unto you; succor the weak, lift up the hands which hang down, and strengthen the feeble knees.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "section-81-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And if thou art faithful unto the end thou shalt have a crown of immortality, and eternal life in the mansions which I have prepared in the house of my Father.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "section-81-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Behold, and lo, these are the words of Alpha and Omega, even Jesus Christ. Amen.",
+      "churchId": "p7"
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+{
+  "name": "Matthew 23",
+  "abbrev": "Matt. 23",
+  "number": "23",
+  "churchUri": "/scriptures/nt/matt/23",
+  "paragraphs": [
+    {
+      "slug": "matthew-23-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 23",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "matthew-23-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Then spake Jesus to the multitude, and to his disciples,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "matthew-23-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Saying, The scribes and the Pharisees sit in Moses’ seat:",
+      "churchId": "p2"
+    },
+    {
+      "slug": "matthew-23-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "All therefore whatsoever they bid you observe, <span class=\"clarity-word\">that</span> observe and do; but do not ye after their works: for they say, and do not.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "matthew-23-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "For they bind heavy burdens and grievous to be borne, and lay <span class=\"clarity-word\">them</span> on men’s shoulders; but they <span class=\"clarity-word\">themselves</span> will not move them with one of their fingers.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "matthew-23-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "But all their works they do for to be seen of men: they make broad their phylacteries, and enlarge the borders of their garments,",
+      "churchId": "p5"
+    },
+    {
+      "slug": "matthew-23-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And love the uppermost rooms at feasts, and the chief seats in the synagogues,",
+      "churchId": "p6"
+    },
+    {
+      "slug": "matthew-23-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And greetings in the markets, and to be called of men, Rabbi, Rabbi.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "matthew-23-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "But be not ye called Rabbi: for one is your Master, <span class=\"clarity-word\">even</span> Christ; and all ye are brethren.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "matthew-23-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And call no <span class=\"clarity-word\">man</span> your father upon the earth: for one is your Father, which is in heaven.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "matthew-23-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Neither be ye called masters: for one is your Master, <span class=\"clarity-word\">even</span> Christ.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "matthew-23-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "But he that is greatest among you shall be your servant.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "matthew-23-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And whosoever shall exalt himself shall be abased; and he that shall humble himself shall be exalted.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "matthew-23-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "¶ But woe unto you, scribes and Pharisees, hypocrites! for ye shut up the kingdom of heaven against men: for ye neither go in <span class=\"clarity-word\">yourselves,</span> neither suffer ye them that are entering to go in.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "matthew-23-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Woe unto you, scribes and Pharisees, hypocrites! for ye devour widows’ houses, and for a pretence make long prayer: therefore ye shall receive the greater damnation.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "matthew-23-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Woe unto you, scribes and Pharisees, hypocrites! for ye compass sea and land to make one proselyte, and when he is made, ye make him twofold more the child of hell than yourselves.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "matthew-23-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Woe unto you, <span class=\"clarity-word\">ye</span> blind guides, which say, Whosoever shall swear by the temple, it is nothing; but whosoever shall swear by the gold of the temple, he is a debtor!",
+      "churchId": "p16"
+    },
+    {
+      "slug": "matthew-23-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "<span class=\"clarity-word\">Ye</span> fools and blind: for whether is greater, the gold, or the temple that sanctifieth the gold?",
+      "churchId": "p17"
+    },
+    {
+      "slug": "matthew-23-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And, Whosoever shall swear by the altar, it is nothing; but whosoever sweareth by the gift that is upon it, he is guilty.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "matthew-23-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "<span class=\"clarity-word\">Ye</span> fools and blind: for whether <span class=\"clarity-word\">is</span> greater, the gift, or the altar that sanctifieth the gift?",
+      "churchId": "p19"
+    },
+    {
+      "slug": "matthew-23-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Whoso therefore shall swear by the altar, sweareth by it, and by all things thereon.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "matthew-23-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And whoso shall swear by the temple, sweareth by it, and by him that dwelleth therein.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "matthew-23-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And he that shall swear by heaven, sweareth by the throne of God, and by him that sitteth thereon.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "matthew-23-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Woe unto you, scribes and Pharisees, hypocrites! for ye pay tithe of mint and anise and cummin, and have omitted the weightier <span class=\"clarity-word\">matters</span> of the law, judgment, mercy, and faith: these ought ye to have done, and not to leave the other undone.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "matthew-23-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "<span class=\"clarity-word\">Ye</span> blind guides, which strain at a gnat, and swallow a camel.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "matthew-23-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Woe unto you, scribes and Pharisees, hypocrites! for ye make clean the outside of the cup and of the platter, but within they are full of extortion and excess.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "matthew-23-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "<span class=\"clarity-word\">Thou</span> blind Pharisee, cleanse first that <span class=\"clarity-word\">which is</span> within the cup and platter, that the outside of them may be clean also.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "matthew-23-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "Woe unto you, scribes and Pharisees, hypocrites! for ye are like unto whited sepulchres, which indeed appear beautiful outward, but are within full of dead <span class=\"clarity-word\">men’s</span> bones, and of all uncleanness.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "matthew-23-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "Even so ye also outwardly appear righteous unto men, but within ye are full of hypocrisy and iniquity.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "matthew-23-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "Woe unto you, scribes and Pharisees, hypocrites! because ye build the tombs of the prophets, and garnish the sepulchres of the righteous,",
+      "churchId": "p29"
+    },
+    {
+      "slug": "matthew-23-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And say, If we had been in the days of our fathers, we would not have been partakers with them in the blood of the prophets.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "matthew-23-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "Wherefore ye be witnesses unto yourselves, that ye are the children of them which killed the prophets.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "matthew-23-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "Fill ye up then the measure of your fathers.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "matthew-23-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "<span class=\"clarity-word\">Ye</span> serpents, <span class=\"clarity-word\">ye</span> generation of vipers, how can ye escape the damnation of hell?",
+      "churchId": "p33"
+    },
+    {
+      "slug": "matthew-23-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "¶ Wherefore, behold, I send unto you prophets, and wise men, and scribes: and <span class=\"clarity-word\">some</span> of them ye shall kill and crucify; and <span class=\"clarity-word\">some</span> of them shall ye scourge in your synagogues, and persecute <span class=\"clarity-word\">them</span> from city to city:",
+      "churchId": "p34"
+    },
+    {
+      "slug": "matthew-23-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "That upon you may come all the righteous blood shed upon the earth, from the blood of righteous Abel unto the blood of Zacharias son of Barachias, whom ye slew between the temple and the altar.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "matthew-23-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "Verily I say unto you, All these things shall come upon this generation.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "matthew-23-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "O Jerusalem, Jerusalem, <span class=\"clarity-word\">thou</span> that killest the prophets, and stonest them which are sent unto thee, how often would I have gathered thy children together, even as a hen gathereth her chickens under <span class=\"clarity-word\">her</span> wings, and ye would not!",
+      "churchId": "p37"
+    },
+    {
+      "slug": "matthew-23-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "Behold, your house is left unto you desolate.",
+      "churchId": "p38"
+    },
+    {
+      "slug": "matthew-23-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "For I say unto you, Ye shall not see me henceforth, till ye shall say, Blessed <span class=\"clarity-word\">is</span> he that cometh in the name of the Lord.",
+      "churchId": "p39"
+    }
+  ]
+}

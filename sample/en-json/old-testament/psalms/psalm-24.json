@@ -1,0 +1,92 @@
+{
+  "name": "Psalm 24",
+  "abbrev": "Psalm 24",
+  "number": "24",
+  "churchUri": "/scriptures/ot/ps/24",
+  "paragraphs": [
+    {
+      "slug": "psalm-24-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 24",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-24-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "A Psalm of David.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-24-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "The earth <span class=\"clarity-word\">is</span> the <span class=\"small-caps\">Lord</span>’s, and the fulness thereof; the world, and they that dwell therein.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-24-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "For he hath founded it upon the seas, and established it upon the floods.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-24-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Who shall ascend into the hill of the <span class=\"small-caps\">Lord</span>? or who shall stand in his holy place?",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-24-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "He that hath clean hands, and a pure heart; who hath not lifted up his soul unto vanity, nor sworn deceitfully.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-24-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "He shall receive the blessing from the <span class=\"small-caps\">Lord</span>, and righteousness from the God of his salvation.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-24-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "This <span class=\"clarity-word\">is</span> the generation of them that seek him, that seek thy face, O Jacob. Selah.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-24-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Lift up your heads, O ye gates; and be ye lift up, ye everlasting doors; and the King of glory shall come in.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-24-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Who <span class=\"clarity-word\">is</span> this King of glory? The <span class=\"small-caps\">Lord</span> strong and mighty, the <span class=\"small-caps\">Lord</span> mighty in battle.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "psalm-24-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Lift up your heads, O ye gates; even lift <span class=\"clarity-word\">them</span> up, ye everlasting doors; and the King of glory shall come in.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "psalm-24-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Who is this King of glory? The <span class=\"small-caps\">Lord</span> of hosts, he <span class=\"clarity-word\">is</span> the King of glory. Selah.",
+      "churchId": "p10"
+    }
+  ]
+}

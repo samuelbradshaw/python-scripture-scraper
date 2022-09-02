@@ -1,0 +1,78 @@
+{
+  "name": "Psalm 113",
+  "abbrev": "Psalm 113",
+  "number": "113",
+  "churchUri": "/scriptures/ot/ps/113",
+  "paragraphs": [
+    {
+      "slug": "psalm-113-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 113",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-113-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Praise ye the <span class=\"small-caps\">Lord</span>. Praise, O ye servants of the <span class=\"small-caps\">Lord</span>, praise the name of the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-113-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Blessed be the name of the <span class=\"small-caps\">Lord</span> from this time forth and for evermore.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-113-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "From the rising of the sun unto the going down of the same the <span class=\"small-caps\">Lord</span>’s name <span class=\"clarity-word\">is</span> to be praised.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-113-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "The <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">is</span> high above all nations, <span class=\"clarity-word\">and</span> his glory above the heavens.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-113-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Who <span class=\"clarity-word\">is</span> like unto the <span class=\"small-caps\">Lord</span> our God, who dwelleth on high,",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-113-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Who humbleth <span class=\"clarity-word\">himself</span> to behold <span class=\"clarity-word\">the things that are</span> in heaven, and in the earth!",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-113-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "He raiseth up the poor out of the dust, <span class=\"clarity-word\">and</span> lifteth the needy out of the dunghill;",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-113-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "That he may set <span class=\"clarity-word\">him</span> with princes, <span class=\"clarity-word\">even</span> with the princes of his people.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "psalm-113-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "He maketh the barren woman to keep house, <span class=\"clarity-word\">and to be</span> a joyful mother of children. Praise ye the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p9"
+    }
+  ]
+}

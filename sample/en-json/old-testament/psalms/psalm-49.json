@@ -1,0 +1,162 @@
+{
+  "name": "Psalm 49",
+  "abbrev": "Psalm 49",
+  "number": "49",
+  "churchUri": "/scriptures/ot/ps/49",
+  "paragraphs": [
+    {
+      "slug": "psalm-49-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 49",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-49-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "To the chief Musician, A Psalm for the sons of Korah.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-49-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Hear this, all <span class=\"clarity-word\">ye</span> people; give ear, all <span class=\"clarity-word\">ye</span> inhabitants of the world:",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-49-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Both low and high, rich and poor, together.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-49-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "My mouth shall speak of wisdom; and the meditation of my heart <span class=\"clarity-word\">shall be</span> of understanding.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-49-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "I will incline mine ear to a parable: I will open my dark saying upon the harp.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-49-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Wherefore should I fear in the days of evil, <span class=\"clarity-word\">when</span> the iniquity of my heels shall compass me about?",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-49-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "They that trust in their wealth, and boast themselves in the multitude of their riches;",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-49-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "None <span class=\"clarity-word\">of them</span> can by any means redeem his brother, nor give to God a ransom for him:",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-49-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "(For the redemption of their soul <span class=\"clarity-word\">is</span> precious, and it ceaseth for ever:)",
+      "churchId": "p8"
+    },
+    {
+      "slug": "psalm-49-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "That he should still live for ever, <span class=\"clarity-word\">and</span> not see corruption.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "psalm-49-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "For he seeth <span class=\"clarity-word\">that</span> wise men die, likewise the fool and the brutish person perish, and leave their wealth to others.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "psalm-49-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Their inward thought <span class=\"clarity-word\">is, that</span> their houses <span class=\"clarity-word\">shall continue</span> for ever, <span class=\"clarity-word\">and</span> their dwelling places to all generations; they call <span class=\"clarity-word\">their</span> lands after their own names.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "psalm-49-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Nevertheless man <span class=\"clarity-word\">being</span> in honour abideth not: he is like the beasts <span class=\"clarity-word\">that</span> perish.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "psalm-49-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "This their way <span class=\"clarity-word\">is</span> their folly: yet their posterity approve their sayings. Selah.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "psalm-49-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Like sheep they are laid in the grave; death shall feed on them; and the upright shall have dominion over them in the morning; and their beauty shall consume in the grave from their dwelling.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "psalm-49-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "But God will redeem my soul from the power of the grave: for he shall receive me. Selah.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "psalm-49-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Be not thou afraid when one is made rich, when the glory of his house is increased;",
+      "churchId": "p16"
+    },
+    {
+      "slug": "psalm-49-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "For when he dieth he shall carry nothing away: his glory shall not descend after him.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "psalm-49-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Though while he lived he blessed his soul: and <span class=\"clarity-word\">men</span> will praise thee, when thou doest well to thyself.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "psalm-49-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "He shall go to the generation of his fathers; they shall never see light.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "psalm-49-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Man <span class=\"clarity-word\">that is</span> in honour, and understandeth not, is like the beasts <span class=\"clarity-word\">that</span> perish.",
+      "churchId": "p20"
+    }
+  ]
+}

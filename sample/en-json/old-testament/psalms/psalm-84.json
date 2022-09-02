@@ -1,0 +1,106 @@
+{
+  "name": "Psalm 84",
+  "abbrev": "Psalm 84",
+  "number": "84",
+  "churchUri": "/scriptures/ot/ps/84",
+  "paragraphs": [
+    {
+      "slug": "psalm-84-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 84",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-84-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "To the chief Musician upon Gittith, A Psalm for the sons of Korah.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-84-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "How amiable <span class=\"clarity-word\">are</span> thy tabernacles, O <span class=\"small-caps\">Lord</span> of hosts!",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-84-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "My soul longeth, yea, even fainteth for the courts of the <span class=\"small-caps\">Lord</span>: my heart and my flesh crieth out for the living God.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-84-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Yea, the sparrow hath found an house, and the swallow a nest for herself, where she may lay her young, <span class=\"clarity-word\">even</span> thine altars, O <span class=\"small-caps\">Lord</span> of hosts, my King, and my God.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-84-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Blessed <span class=\"clarity-word\">are</span> they that dwell in thy house: they will be still praising thee. Selah.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-84-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Blessed <span class=\"clarity-word\">is</span> the man whose strength <span class=\"clarity-word\">is</span> in thee; in whose heart <span class=\"clarity-word\">are</span> the ways <span class=\"clarity-word\">of them.</span>",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-84-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "<span class=\"clarity-word\">Who</span> passing through the valley of Baca make it a well; the rain also filleth the pools.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-84-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "They go from strength to strength, <span class=\"clarity-word\">every one of them</span> in Zion appeareth before God.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-84-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "O <span class=\"small-caps\">Lord</span> God of hosts, hear my prayer: give ear, O God of Jacob. Selah.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "psalm-84-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Behold, O God our shield, and look upon the face of thine anointed.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "psalm-84-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "For a day in thy courts <span class=\"clarity-word\">is</span> better than a thousand. I had rather be a doorkeeper in the house of my God, than to dwell in the tents of wickedness.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "psalm-84-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "For the <span class=\"small-caps\">Lord</span> God <span class=\"clarity-word\">is</span> a sun and shield: the <span class=\"small-caps\">Lord</span> will give grace and glory: no good <span class=\"clarity-word\">thing</span> will he withhold from them that walk uprightly.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "psalm-84-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "O <span class=\"small-caps\">Lord</span> of hosts, blessed <span class=\"clarity-word\">is</span> the man that trusteth in thee.",
+      "churchId": "p12"
+    }
+  ]
+}

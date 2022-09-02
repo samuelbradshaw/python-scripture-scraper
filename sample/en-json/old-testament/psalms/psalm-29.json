@@ -1,0 +1,99 @@
+{
+  "name": "Psalm 29",
+  "abbrev": "Psalm 29",
+  "number": "29",
+  "churchUri": "/scriptures/ot/ps/29",
+  "paragraphs": [
+    {
+      "slug": "psalm-29-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 29",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-29-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "A Psalm of David.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-29-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Give unto the <span class=\"small-caps\">Lord</span>, O ye mighty, give unto the <span class=\"small-caps\">Lord</span> glory and strength.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-29-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Give unto the <span class=\"small-caps\">Lord</span> the glory due unto his name; worship the <span class=\"small-caps\">Lord</span> in the beauty of holiness.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-29-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "The voice of the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">is</span> upon the waters: the God of glory thundereth: the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">is</span> upon many waters.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-29-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "The voice of the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">is</span> powerful; the voice of the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">is</span> full of majesty.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-29-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "The voice of the <span class=\"small-caps\">Lord</span> breaketh the cedars; yea, the <span class=\"small-caps\">Lord</span> breaketh the cedars of Lebanon.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-29-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "He maketh them also to skip like a calf; Lebanon and Sirion like a young unicorn.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-29-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "The voice of the <span class=\"small-caps\">Lord</span> divideth the flames of fire.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-29-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "The voice of the <span class=\"small-caps\">Lord</span> shaketh the wilderness; the <span class=\"small-caps\">Lord</span> shaketh the wilderness of Kadesh.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "psalm-29-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "The voice of the <span class=\"small-caps\">Lord</span> maketh the hinds to calve, and discovereth the forests: and in his temple doth every one speak of <span class=\"clarity-word\">his</span> glory.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "psalm-29-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "The <span class=\"small-caps\">Lord</span> sitteth upon the flood; yea, the <span class=\"small-caps\">Lord</span> sitteth King for ever.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "psalm-29-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "The <span class=\"small-caps\">Lord</span> will give strength unto his people; the <span class=\"small-caps\">Lord</span> will bless his people with peace.",
+      "churchId": "p11"
+    }
+  ]
+}

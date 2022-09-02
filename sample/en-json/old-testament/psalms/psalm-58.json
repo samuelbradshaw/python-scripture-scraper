@@ -1,0 +1,99 @@
+{
+  "name": "Psalm 58",
+  "abbrev": "Psalm 58",
+  "number": "58",
+  "churchUri": "/scriptures/ot/ps/58",
+  "paragraphs": [
+    {
+      "slug": "psalm-58-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 58",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-58-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "To the chief Musician, Al-taschith, Michtam of David.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-58-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Do ye indeed speak righteousness, O congregation? do ye judge uprightly, O ye sons of men?",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-58-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Yea, in heart ye work wickedness; ye weigh the violence of your hands in the earth.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-58-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "The wicked are estranged from the womb: they go astray as soon as they be born, speaking lies.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-58-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Their poison <span class=\"clarity-word\">is</span> like the poison of a serpent: <span class=\"clarity-word\">they are</span> like the deaf adder <span class=\"clarity-word\">that</span> stoppeth her ear;",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-58-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Which will not hearken to the voice of charmers, charming never so wisely.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-58-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Break their teeth, O God, in their mouth: break out the great teeth of the young lions, O <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-58-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Let them melt away as waters <span class=\"clarity-word\">which</span> run continually: <span class=\"clarity-word\">when</span> he bendeth <span class=\"clarity-word\">his bow to shoot</span> his arrows, let them be as cut in pieces.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-58-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "As a snail <span class=\"clarity-word\">which</span> melteth, let <span class=\"clarity-word\">every one of them</span> pass away: <span class=\"clarity-word\">like</span> the untimely birth of a woman, <span class=\"clarity-word\">that</span> they may not see the sun.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "psalm-58-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Before your pots can feel the thorns, he shall take them away as with a whirlwind, both living, and in <span class=\"clarity-word\">his</span> wrath.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "psalm-58-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "The righteous shall rejoice when he seeth the vengeance: he shall wash his feet in the blood of the wicked.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "psalm-58-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "So that a man shall say, Verily <span class=\"clarity-word\">there is</span> a reward for the righteous: verily he is a God that judgeth in the earth.",
+      "churchId": "p11"
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "name": "Amos 5",
+  "abbrev": "Amos 5",
+  "number": "5",
+  "churchUri": "/scriptures/ot/amos/5",
+  "paragraphs": [
+    {
+      "slug": "amos-5-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 5",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "amos-5-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Hear ye this word which I take up against you, <span class=\"clarity-word\">even</span> a lamentation, O house of Israel.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "amos-5-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "The virgin of Israel is fallen; she shall no more rise: she is forsaken upon her land; <span class=\"clarity-word\">there is</span> none to raise her up.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "amos-5-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "For thus saith the Lord <span class=\"small-caps\">God</span>; The city that went out <span class=\"clarity-word\">by</span> a thousand shall leave an hundred, and that which went forth <span class=\"clarity-word\">by</span> an hundred shall leave ten, to the house of Israel.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "amos-5-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "¶ For thus saith the <span class=\"small-caps\">Lord</span> unto the house of Israel, Seek ye me, and ye shall live:",
+      "churchId": "p4"
+    },
+    {
+      "slug": "amos-5-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "But seek not Beth-el, nor enter into Gilgal, and pass not to Beer-sheba: for Gilgal shall surely go into captivity, and Beth-el shall come to nought.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "amos-5-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Seek the <span class=\"small-caps\">Lord</span>, and ye shall live; lest he break out like fire in the house of Joseph, and devour <span class=\"clarity-word\">it,</span> and <span class=\"clarity-word\">there be</span> none to quench <span class=\"clarity-word\">it</span> in Beth-el.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "amos-5-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Ye who turn judgment to wormwood, and leave off righteousness in the earth,",
+      "churchId": "p7"
+    },
+    {
+      "slug": "amos-5-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "<span class=\"clarity-word\">Seek him</span> that maketh the seven stars and Orion, and turneth the shadow of death into the morning, and maketh the day dark with night: that calleth for the waters of the sea, and poureth them out upon the face of the earth: The <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">is</span> his name:",
+      "churchId": "p8"
+    },
+    {
+      "slug": "amos-5-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "That strengtheneth the spoiled against the strong, so that the spoiled shall come against the fortress.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "amos-5-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "They hate him that rebuketh in the gate, and they abhor him that speaketh uprightly.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "amos-5-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Forasmuch therefore as your treading <span class=\"clarity-word\">is</span> upon the poor, and ye take from him burdens of wheat: ye have built houses of hewn stone, but ye shall not dwell in them; ye have planted pleasant vineyards, but ye shall not drink wine of them.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "amos-5-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "For I know your manifold transgressions and your mighty sins: they afflict the just, they take a bribe, and they turn aside the poor in the gate <span class=\"clarity-word\">from their right.</span>",
+      "churchId": "p12"
+    },
+    {
+      "slug": "amos-5-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Therefore the prudent shall keep silence in that time; for it <span class=\"clarity-word\">is</span> an evil time.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "amos-5-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Seek good, and not evil, that ye may live: and so the <span class=\"small-caps\">Lord</span>, the God of hosts, shall be with you, as ye have spoken.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "amos-5-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Hate the evil, and love the good, and establish judgment in the gate: it may be that the <span class=\"small-caps\">Lord</span> God of hosts will be gracious unto the remnant of Joseph.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "amos-5-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Therefore the <span class=\"small-caps\">Lord</span>, the God of hosts, the Lord, saith thus; Wailing <span class=\"clarity-word\">shall be</span> in all streets; and they shall say in all the highways, Alas! alas! and they shall call the husbandman to mourning, and such as are skilful of lamentation to wailing.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "amos-5-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And in all vineyards <span class=\"clarity-word\">shall be</span> wailing: for I will pass through thee, saith the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "amos-5-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Woe unto you that desire the day of the <span class=\"small-caps\">Lord</span>! to what end <span class=\"clarity-word\">is</span> it for you? the day of the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">is</span> darkness, and not light.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "amos-5-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "As if a man did flee from a lion, and a bear met him; or went into the house, and leaned his hand on the wall, and a serpent bit him.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "amos-5-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "<span class=\"clarity-word\">Shall</span> not the day of the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">be</span> darkness, and not light? even very dark, and no brightness in it?",
+      "churchId": "p20"
+    },
+    {
+      "slug": "amos-5-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "¶ I hate, I despise your feast days, and I will not smell in your solemn assemblies.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "amos-5-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Though ye offer me burnt offerings and your meat offerings, I will not accept <span class=\"clarity-word\">them:</span> neither will I regard the peace offerings of your fat beasts.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "amos-5-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Take thou away from me the noise of thy songs; for I will not hear the melody of thy viols.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "amos-5-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "But let judgment run down as waters, and righteousness as a mighty stream.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "amos-5-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Have ye offered unto me sacrifices and offerings in the wilderness forty years, O house of Israel?",
+      "churchId": "p25"
+    },
+    {
+      "slug": "amos-5-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "But ye have borne the tabernacle of your Moloch and Chiun your images, the star of your god, which ye made to yourselves.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "amos-5-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "Therefore will I cause you to go into captivity beyond Damascus, saith the <span class=\"small-caps\">Lord</span>, whose name <span class=\"clarity-word\">is</span> The God of hosts.",
+      "churchId": "p27"
+    }
+  ]
+}

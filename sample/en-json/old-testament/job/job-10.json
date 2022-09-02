@@ -1,0 +1,169 @@
+{
+  "name": "Job 10",
+  "abbrev": "Job 10",
+  "number": "10",
+  "churchUri": "/scriptures/ot/job/10",
+  "paragraphs": [
+    {
+      "slug": "job-10-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 10",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "job-10-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "My soul is weary of my life; I will leave my complaint upon myself; I will speak in the bitterness of my soul.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "job-10-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "I will say unto God, Do not condemn me; shew me wherefore thou contendest with me.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "job-10-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "<span class=\"clarity-word\">Is it</span> good unto thee that thou shouldest oppress, that thou shouldest despise the work of thine hands, and shine upon the counsel of the wicked?",
+      "churchId": "p3"
+    },
+    {
+      "slug": "job-10-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Hast thou eyes of flesh? or seest thou as man seeth?",
+      "churchId": "p4"
+    },
+    {
+      "slug": "job-10-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "<span class=\"clarity-word\">Are</span> thy days as the days of man? <span class=\"clarity-word\">are</span> thy years as man’s days,",
+      "churchId": "p5"
+    },
+    {
+      "slug": "job-10-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "That thou inquirest after mine iniquity, and searchest after my sin?",
+      "churchId": "p6"
+    },
+    {
+      "slug": "job-10-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Thou knowest that I am not wicked; and <span class=\"clarity-word\">there is</span> none that can deliver out of thine hand.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "job-10-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Thine hands have made me and fashioned me together round about; yet thou dost destroy me.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "job-10-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Remember, I beseech thee, that thou hast made me as the clay; and wilt thou bring me into dust again?",
+      "churchId": "p9"
+    },
+    {
+      "slug": "job-10-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Hast thou not poured me out as milk, and curdled me like cheese?",
+      "churchId": "p10"
+    },
+    {
+      "slug": "job-10-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Thou hast clothed me with skin and flesh, and hast fenced me with bones and sinews.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "job-10-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Thou hast granted me life and favour, and thy visitation hath preserved my spirit.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "job-10-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And these <span class=\"clarity-word\">things</span> hast thou hid in thine heart: I know that this <span class=\"clarity-word\">is</span> with thee.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "job-10-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "If I sin, then thou markest me, and thou wilt not acquit me from mine iniquity.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "job-10-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "If I be wicked, woe unto me; and <span class=\"clarity-word\">if</span> I be righteous, <span class=\"clarity-word\">yet</span> will I not lift up my head. <span class=\"clarity-word\">I am</span> full of confusion; therefore see thou mine affliction;",
+      "churchId": "p15"
+    },
+    {
+      "slug": "job-10-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "For it increaseth. Thou huntest me as a fierce lion: and again thou shewest thyself marvellous upon me.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "job-10-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Thou renewest thy witnesses against me, and increasest thine indignation upon me; changes and war <span class=\"clarity-word\">are</span> against me.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "job-10-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Wherefore then hast thou brought me forth out of the womb? Oh that I had given up the ghost, and no eye had seen me!",
+      "churchId": "p18"
+    },
+    {
+      "slug": "job-10-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "I should have been as though I had not been; I should have been carried from the womb to the grave.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "job-10-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "<span class=\"clarity-word\">Are</span> not my days few? cease <span class=\"clarity-word\">then, and</span> let me alone, that I may take comfort a little,",
+      "churchId": "p20"
+    },
+    {
+      "slug": "job-10-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Before I go <span class=\"clarity-word\">whence</span> I shall not return, <span class=\"clarity-word\">even</span> to the land of darkness and the shadow of death;",
+      "churchId": "p21"
+    },
+    {
+      "slug": "job-10-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "A land of darkness, as darkness <span class=\"clarity-word\">itself; and</span> of the shadow of death, without any order, and <span class=\"clarity-word\">where</span> the light <span class=\"clarity-word\">is</span> as darkness.",
+      "churchId": "p22"
+    }
+  ]
+}

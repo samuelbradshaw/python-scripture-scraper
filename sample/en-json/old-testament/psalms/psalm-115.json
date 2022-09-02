@@ -1,0 +1,141 @@
+{
+  "name": "Psalm 115",
+  "abbrev": "Psalm 115",
+  "number": "115",
+  "churchUri": "/scriptures/ot/ps/115",
+  "paragraphs": [
+    {
+      "slug": "psalm-115-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 115",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-115-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Not unto us, O <span class=\"small-caps\">Lord</span>, not unto us, but unto thy name give glory, for thy mercy, <span class=\"clarity-word\">and</span> for thy truth’s sake.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-115-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Wherefore should the heathen say, Where <span class=\"clarity-word\">is</span> now their God?",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-115-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "But our God <span class=\"clarity-word\">is</span> in the heavens: he hath done whatsoever he hath pleased.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-115-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Their idols <span class=\"clarity-word\">are</span> silver and gold, the work of men’s hands.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-115-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "They have mouths, but they speak not: eyes have they, but they see not:",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-115-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "They have ears, but they hear not: noses have they, but they smell not:",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-115-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "They have hands, but they handle not: feet have they, but they walk not: neither speak they through their throat.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-115-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "They that make them are like unto them; <span class=\"clarity-word\">so is</span> every one that trusteth in them.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "psalm-115-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "O Israel, trust thou in the <span class=\"small-caps\">Lord</span>: he <span class=\"clarity-word\">is</span> their help and their shield.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "psalm-115-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "O house of Aaron, trust in the <span class=\"small-caps\">Lord</span>: he <span class=\"clarity-word\">is</span> their help and their shield.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "psalm-115-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Ye that fear the <span class=\"small-caps\">Lord</span>, trust in the <span class=\"small-caps\">Lord</span>: he <span class=\"clarity-word\">is</span> their help and their shield.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "psalm-115-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "The <span class=\"small-caps\">Lord</span> hath been mindful of us: he will bless <span class=\"clarity-word\">us;</span> he will bless the house of Israel; he will bless the house of Aaron.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "psalm-115-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "He will bless them that fear the <span class=\"small-caps\">Lord</span>, <span class=\"clarity-word\">both</span> small and great.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "psalm-115-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "The <span class=\"small-caps\">Lord</span> shall increase you more and more, you and your children.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "psalm-115-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Ye <span class=\"clarity-word\">are</span> blessed of the <span class=\"small-caps\">Lord</span> which made heaven and earth.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "psalm-115-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "The heaven, <span class=\"clarity-word\">even</span> the heavens, <span class=\"clarity-word\">are</span> the <span class=\"small-caps\">Lord</span>’s: but the earth hath he given to the children of men.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "psalm-115-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "The dead praise not the <span class=\"small-caps\">Lord</span>, neither any that go down into silence.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "psalm-115-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "But we will bless the <span class=\"small-caps\">Lord</span> from this time forth and for evermore. Praise the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p18"
+    }
+  ]
+}

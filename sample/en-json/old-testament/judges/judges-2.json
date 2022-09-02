@@ -1,0 +1,176 @@
+{
+  "name": "Judges 2",
+  "abbrev": "Judg. 2",
+  "number": "2",
+  "churchUri": "/scriptures/ot/judg/2",
+  "paragraphs": [
+    {
+      "slug": "judges-2-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 2",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "judges-2-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And an angel of the <span class=\"small-caps\">Lord</span> came up from Gilgal to Bochim, and said, I made you to go up out of Egypt, and have brought you unto the land which I sware unto your fathers; and I said, I will never break my covenant with you.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "judges-2-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And ye shall make no league with the inhabitants of this land; ye shall throw down their altars: but ye have not obeyed my voice: why have ye done this?",
+      "churchId": "p2"
+    },
+    {
+      "slug": "judges-2-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Wherefore I also said, I will not drive them out from before you; but they shall be <span class=\"clarity-word\">as thorns</span> in your sides, and their gods shall be a snare unto you.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "judges-2-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And it came to pass, when the angel of the <span class=\"small-caps\">Lord</span> spake these words unto all the children of Israel, that the people lifted up their voice, and wept.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "judges-2-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And they called the name of that place Bochim: and they sacrificed there unto the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "judges-2-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "¶ And when Joshua had let the people go, the children of Israel went every man unto his inheritance to possess the land.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "judges-2-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And the people served the <span class=\"small-caps\">Lord</span> all the days of Joshua, and all the days of the elders that outlived Joshua, who had seen all the great works of the <span class=\"small-caps\">Lord</span>, that he did for Israel.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "judges-2-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And Joshua the son of Nun, the servant of the <span class=\"small-caps\">Lord</span>, died, <span class=\"clarity-word\">being</span> an hundred and ten years old.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "judges-2-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And they buried him in the border of his inheritance in Timnath-heres, in the mount of Ephraim, on the north side of the hill Gaash.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "judges-2-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And also all that generation were gathered unto their fathers: and there arose another generation after them, which knew not the <span class=\"small-caps\">Lord</span>, nor yet the works which he had done for Israel.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "judges-2-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "¶ And the children of Israel did evil in the sight of the <span class=\"small-caps\">Lord</span>, and served Baalim:",
+      "churchId": "p11"
+    },
+    {
+      "slug": "judges-2-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And they forsook the <span class=\"small-caps\">Lord</span> God of their fathers, which brought them out of the land of Egypt, and followed other gods, of the gods of the people that <span class=\"clarity-word\">were</span> round about them, and bowed themselves unto them, and provoked the <span class=\"small-caps\">Lord</span> to anger.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "judges-2-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And they forsook the <span class=\"small-caps\">Lord</span>, and served Baal and Ashtaroth.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "judges-2-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "¶ And the anger of the <span class=\"small-caps\">Lord</span> was hot against Israel, and he delivered them into the hands of spoilers that spoiled them, and he sold them into the hands of their enemies round about, so that they could not any longer stand before their enemies.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "judges-2-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Whithersoever they went out, the hand of the <span class=\"small-caps\">Lord</span> was against them for evil, as the <span class=\"small-caps\">Lord</span> had said, and as the <span class=\"small-caps\">Lord</span> had sworn unto them: and they were greatly distressed.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "judges-2-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "¶ Nevertheless the <span class=\"small-caps\">Lord</span> raised up judges, which delivered them out of the hand of those that spoiled them.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "judges-2-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And yet they would not hearken unto their judges, but they went a whoring after other gods, and bowed themselves unto them: they turned quickly out of the way which their fathers walked in, obeying the commandments of the <span class=\"small-caps\">Lord</span>; <span class=\"clarity-word\">but</span> they did not so.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "judges-2-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And when the <span class=\"small-caps\">Lord</span> raised them up judges, then the <span class=\"small-caps\">Lord</span> was with the judge, and delivered them out of the hand of their enemies all the days of the judge: for it repented the <span class=\"small-caps\">Lord</span> because of their groanings by reason of them that oppressed them and vexed them.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "judges-2-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And it came to pass, when the judge was dead, <span class=\"clarity-word\">that</span> they returned, and corrupted <span class=\"clarity-word\">themselves</span> more than their fathers, in following other gods to serve them, and to bow down unto them; they ceased not from their own doings, nor from their stubborn way.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "judges-2-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "¶ And the anger of the <span class=\"small-caps\">Lord</span> was hot against Israel; and he said, Because that this people hath transgressed my covenant which I commanded their fathers, and have not hearkened unto my voice;",
+      "churchId": "p20"
+    },
+    {
+      "slug": "judges-2-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "I also will not henceforth drive out any from before them of the nations which Joshua left when he died:",
+      "churchId": "p21"
+    },
+    {
+      "slug": "judges-2-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "That through them I may prove Israel, whether they will keep the way of the <span class=\"small-caps\">Lord</span> to walk therein, as their fathers did keep <span class=\"clarity-word\">it,</span> or not.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "judges-2-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Therefore the <span class=\"small-caps\">Lord</span> left those nations, without driving them out hastily; neither delivered he them into the hand of Joshua.",
+      "churchId": "p23"
+    }
+  ]
+}

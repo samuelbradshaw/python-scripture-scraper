@@ -1,0 +1,211 @@
+{
+  "name": "James 1",
+  "abbrev": "James 1",
+  "number": "1",
+  "churchUri": "/scriptures/nt/james/1",
+  "paragraphs": [
+    {
+      "slug": "james-1-title1",
+      "type": "book-title",
+      "number": null,
+      "content": "<small>The General Epistle of </small>James",
+      "churchId": "title1"
+    },
+    {
+      "slug": "james-1-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 1",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "james-1-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "James, a servant of God and of the Lord Jesus Christ, to the twelve tribes which are scattered abroad, greeting.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "james-1-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "My brethren, count it all joy when ye fall into divers temptations;",
+      "churchId": "p2"
+    },
+    {
+      "slug": "james-1-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Knowing <span class=\"clarity-word\">this,</span> that the trying of your faith worketh patience.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "james-1-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "But let patience have <span class=\"clarity-word\">her</span> perfect work, that ye may be perfect and entire, wanting nothing.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "james-1-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "If any of you lack wisdom, let him ask of God, that giveth to all <span class=\"clarity-word\">men</span> liberally, and upbraideth not; and it shall be given him.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "james-1-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "But let him ask in faith, nothing wavering. For he that wavereth is like a wave of the sea driven with the wind and tossed.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "james-1-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "For let not that man think that he shall receive any thing of the Lord.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "james-1-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "A double minded man <span class=\"clarity-word\">is</span> unstable in all his ways.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "james-1-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Let the brother of low degree rejoice in that he is exalted:",
+      "churchId": "p9"
+    },
+    {
+      "slug": "james-1-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "But the rich, in that he is made low: because as the flower of the grass he shall pass away.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "james-1-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "For the sun is no sooner risen with a burning heat, but it withereth the grass, and the flower thereof falleth, and the grace of the fashion of it perisheth: so also shall the rich man fade away in his ways.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "james-1-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Blessed <span class=\"clarity-word\">is</span> the man that endureth temptation: for when he is tried, he shall receive the crown of life, which the Lord hath promised to them that love him.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "james-1-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Let no man say when he is tempted, I am tempted of God: for God cannot be tempted with evil, neither tempteth he any man:",
+      "churchId": "p13"
+    },
+    {
+      "slug": "james-1-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "But every man is tempted, when he is drawn away of his own lust, and enticed.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "james-1-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Then when lust hath conceived, it bringeth forth sin: and sin, when it is finished, bringeth forth death.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "james-1-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Do not err, my beloved brethren.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "james-1-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Every good gift and every perfect gift is from above, and cometh down from the Father of lights, with whom is no variableness, neither shadow of turning.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "james-1-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Of his own will begat he us with the word of truth, that we should be a kind of firstfruits of his creatures.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "james-1-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Wherefore, my beloved brethren, let every man be swift to hear, slow to speak, slow to wrath:",
+      "churchId": "p19"
+    },
+    {
+      "slug": "james-1-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "For the wrath of man worketh not the righteousness of God.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "james-1-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Wherefore lay apart all filthiness and superfluity of naughtiness, and receive with meekness the engrafted word, which is able to save your souls.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "james-1-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "But be ye doers of the word, and not hearers only, deceiving your own selves.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "james-1-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "For if any be a hearer of the word, and not a doer, he is like unto a man beholding his natural face in a glass:",
+      "churchId": "p23"
+    },
+    {
+      "slug": "james-1-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "For he beholdeth himself, and goeth his way, and straightway forgetteth what manner of man he was.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "james-1-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "But whoso looketh into the perfect law of liberty, and continueth <span class=\"clarity-word\">therein,</span> he being not a forgetful hearer, but a doer of the work, this man shall be blessed in his deed.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "james-1-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "If any man among you seem to be religious, and bridleth not his tongue, but deceiveth his own heart, this man’s religion <span class=\"clarity-word\">is</span> vain.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "james-1-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "Pure religion and undefiled before God and the Father is this, To visit the fatherless and widows in their affliction, <span class=\"clarity-word\">and</span> to keep himself unspotted from the world.",
+      "churchId": "p27"
+    }
+  ]
+}

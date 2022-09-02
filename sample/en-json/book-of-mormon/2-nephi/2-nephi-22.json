@@ -1,0 +1,57 @@
+{
+  "name": "2 Nephi 22",
+  "abbrev": "2 Ne. 22",
+  "number": "22",
+  "churchUri": "/scriptures/bofm/2-ne/22",
+  "paragraphs": [
+    {
+      "slug": "2-nephi-22-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 22",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "2-nephi-22-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And in that day thou shalt say: O Lord, I will praise thee; though thou wast angry with me thine anger is turned away, and thou comfortedst me.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "2-nephi-22-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Behold, God is my salvation; I will trust, and not be afraid; for the Lord <span class=\"small-caps\">Jehovah</span> is my strength and my song; he also has become my salvation.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "2-nephi-22-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Therefore, with joy shall ye draw water out of the wells of salvation.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "2-nephi-22-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And in that day shall ye say: Praise the Lord, call upon his name, declare his doings among the people, make mention that his name is exalted.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "2-nephi-22-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Sing unto the Lord; for he hath done excellent things; this is known in all the earth.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "2-nephi-22-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Cry out and shout, thou inhabitant of Zion; for great is the Holy One of Israel in the midst of thee.",
+      "churchId": "p6"
+    }
+  ]
+}

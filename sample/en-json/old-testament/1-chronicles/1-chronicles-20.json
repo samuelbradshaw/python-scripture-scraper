@@ -1,0 +1,71 @@
+{
+  "name": "1 Chronicles 20",
+  "abbrev": "1 Chr. 20",
+  "number": "20",
+  "churchUri": "/scriptures/ot/1-chr/20",
+  "paragraphs": [
+    {
+      "slug": "1-chronicles-20-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 20",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "1-chronicles-20-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And it came to pass, that after the year was expired, at the time that kings go out <span class=\"clarity-word\">to battle,</span> Joab led forth the power of the army, and wasted the country of the children of Ammon, and came and besieged Rabbah. But David tarried at Jerusalem. And Joab smote Rabbah, and destroyed it.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "1-chronicles-20-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And David took the crown of their king from off his head, and found it to weigh a talent of gold, and <span class=\"clarity-word\">there were</span> precious stones in it; and it was set upon David’s head: and he brought also exceeding much spoil out of the city.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "1-chronicles-20-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And he brought out the people that <span class=\"clarity-word\">were</span> in it, and cut <span class=\"clarity-word\">them</span> with saws, and with harrows of iron, and with axes. Even so dealt David with all the cities of the children of Ammon. And David and all the people returned to Jerusalem.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "1-chronicles-20-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "¶ And it came to pass after this, that there arose war at Gezer with the Philistines; at which time Sibbechai the Hushathite slew Sippai, <span class=\"clarity-word\">that was</span> of the children of the giant: and they were subdued.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "1-chronicles-20-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And there was war again with the Philistines; and Elhanan the son of Jair slew Lahmi the brother of Goliath the Gittite, whose spear staff <span class=\"clarity-word\">was</span> like a weaver’s beam.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "1-chronicles-20-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And yet again there was war at Gath, where was a man of <span class=\"clarity-word\">great</span> stature, whose fingers and toes <span class=\"clarity-word\">were</span> four and twenty, six <span class=\"clarity-word\">on each hand,</span> and six <span class=\"clarity-word\">on each foot:</span> and he also was the son of the giant.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "1-chronicles-20-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "But when he defied Israel, Jonathan the son of Shimea David’s brother slew him.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "1-chronicles-20-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "These were born unto the giant in Gath; and they fell by the hand of David, and by the hand of his servants.",
+      "churchId": "p8"
+    }
+  ]
+}

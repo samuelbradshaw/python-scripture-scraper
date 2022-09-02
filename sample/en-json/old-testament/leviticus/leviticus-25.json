@@ -1,0 +1,400 @@
+{
+  "name": "Leviticus 25",
+  "abbrev": "Lev. 25",
+  "number": "25",
+  "churchUri": "/scriptures/ot/lev/25",
+  "paragraphs": [
+    {
+      "slug": "leviticus-25-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 25",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "leviticus-25-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And the <span class=\"small-caps\">Lord</span> spake unto Moses in mount Sinai, saying,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "leviticus-25-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Speak unto the children of Israel, and say unto them, When ye come into the land which I give you, then shall the land keep a sabbath unto the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "leviticus-25-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Six years thou shalt sow thy field, and six years thou shalt prune thy vineyard, and gather in the fruit thereof;",
+      "churchId": "p3"
+    },
+    {
+      "slug": "leviticus-25-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "But in the seventh year shall be a sabbath of rest unto the land, a sabbath for the <span class=\"small-caps\">Lord</span>: thou shalt neither sow thy field, nor prune thy vineyard.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "leviticus-25-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "That which groweth of its own accord of thy harvest thou shalt not reap, neither gather the grapes of thy vine undressed: <span class=\"clarity-word\">for</span> it is a year of rest unto the land.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "leviticus-25-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And the sabbath of the land shall be meat for you; for thee, and for thy servant, and for thy maid, and for thy hired servant, and for thy stranger that sojourneth with thee,",
+      "churchId": "p6"
+    },
+    {
+      "slug": "leviticus-25-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And for thy cattle, and for the beast that <span class=\"clarity-word\">are</span> in thy land, shall all the increase thereof be meat.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "leviticus-25-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "¶ And thou shalt number seven sabbaths of years unto thee, seven times seven years; and the space of the seven sabbaths of years shall be unto thee forty and nine years.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "leviticus-25-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Then shalt thou cause the trumpet of the jubilee to sound on the tenth <span class=\"clarity-word\">day</span> of the seventh month, in the day of atonement shall ye make the trumpet sound throughout all your land.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "leviticus-25-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And ye shall hallow the fiftieth year, and proclaim liberty throughout <span class=\"clarity-word\">all</span> the land unto all the inhabitants thereof: it shall be a jubilee unto you; and ye shall return every man unto his possession, and ye shall return every man unto his family.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "leviticus-25-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "A jubilee shall that fiftieth year be unto you: ye shall not sow, neither reap that which groweth of itself in it, nor gather <span class=\"clarity-word\">the grapes</span> in it of thy vine undressed.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "leviticus-25-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "For it <span class=\"clarity-word\">is</span> the jubilee; it shall be holy unto you: ye shall eat the increase thereof out of the field.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "leviticus-25-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "In the year of this jubilee ye shall return every man unto his possession.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "leviticus-25-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And if thou sell ought unto thy neighbour, or buyest <span class=\"clarity-word\">ought</span> of thy neighbour’s hand, ye shall not oppress one another:",
+      "churchId": "p14"
+    },
+    {
+      "slug": "leviticus-25-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "According to the number of years after the jubilee thou shalt buy of thy neighbour, <span class=\"clarity-word\">and</span> according unto the number of years of the fruits he shall sell unto thee:",
+      "churchId": "p15"
+    },
+    {
+      "slug": "leviticus-25-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "According to the multitude of years thou shalt increase the price thereof, and according to the fewness of years thou shalt diminish the price of it: for <span class=\"clarity-word\">according</span> to the number <span class=\"clarity-word\">of the years</span> of the fruits doth he sell unto thee.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "leviticus-25-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Ye shall not therefore oppress one another; but thou shalt fear thy God: for I <span class=\"clarity-word\">am</span> the <span class=\"small-caps\">Lord</span> your God.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "leviticus-25-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "¶ Wherefore ye shall do my statutes, and keep my judgments, and do them; and ye shall dwell in the land in safety.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "leviticus-25-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And the land shall yield her fruit, and ye shall eat your fill, and dwell therein in safety.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "leviticus-25-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And if ye shall say, What shall we eat the seventh year? behold, we shall not sow, nor gather in our increase:",
+      "churchId": "p20"
+    },
+    {
+      "slug": "leviticus-25-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Then I will command my blessing upon you in the sixth year, and it shall bring forth fruit for three years.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "leviticus-25-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And ye shall sow the eighth year, and eat <span class=\"clarity-word\">yet</span> of old fruit until the ninth year; until her fruits come in ye shall eat <span class=\"clarity-word\">of</span> the old <span class=\"clarity-word\">store.</span>",
+      "churchId": "p22"
+    },
+    {
+      "slug": "leviticus-25-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "¶ The land shall not be sold for ever: for the land <span class=\"clarity-word\">is</span> mine; for ye <span class=\"clarity-word\">are</span> strangers and sojourners with me.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "leviticus-25-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And in all the land of your possession ye shall grant a redemption for the land.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "leviticus-25-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "¶ If thy brother be waxen poor, and hath sold away <span class=\"clarity-word\">some</span> of his possession, and if any of his kin come to redeem it, then shall he redeem that which his brother sold.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "leviticus-25-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And if the man have none to redeem it, and himself be able to redeem it;",
+      "churchId": "p26"
+    },
+    {
+      "slug": "leviticus-25-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "Then let him count the years of the sale thereof, and restore the overplus unto the man to whom he sold it; that he may return unto his possession.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "leviticus-25-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "But if he be not able to restore <span class=\"clarity-word\">it</span> to him, then that which is sold shall remain in the hand of him that hath bought it until the year of jubilee: and in the jubilee it shall go out, and he shall return unto his possession.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "leviticus-25-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "And if a man sell a dwelling house in a walled city, then he may redeem it within a whole year after it is sold; <span class=\"clarity-word\">within</span> a full year may he redeem it.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "leviticus-25-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And if it be not redeemed within the space of a full year, then the house that <span class=\"clarity-word\">is</span> in the walled city shall be established for ever to him that bought it throughout his generations: it shall not go out in the jubilee.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "leviticus-25-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "But the houses of the villages which have no wall round about them shall be counted as the fields of the country: they may be redeemed, and they shall go out in the jubilee.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "leviticus-25-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "Notwithstanding the cities of the Levites, <span class=\"clarity-word\">and</span> the houses of the cities of their possession, may the Levites redeem at any time.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "leviticus-25-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "And if a man purchase of the Levites, then the house that was sold, and the city of his possession, shall go out in <span class=\"clarity-word\">the year of</span> jubilee: for the houses of the cities of the Levites <span class=\"clarity-word\">are</span> their possession among the children of Israel.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "leviticus-25-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "But the field of the suburbs of their cities may not be sold; for it <span class=\"clarity-word\">is</span> their perpetual possession.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "leviticus-25-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "¶ And if thy brother be waxen poor, and fallen in decay with thee; then thou shalt relieve him: <span class=\"clarity-word\">yea, though he be</span> a stranger, or a sojourner; that he may live with thee.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "leviticus-25-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "Take thou no usury of him, or increase: but fear thy God; that thy brother may live with thee.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "leviticus-25-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "Thou shalt not give him thy money upon usury, nor lend him thy victuals for increase.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "leviticus-25-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "I <span class=\"clarity-word\">am</span> the <span class=\"small-caps\">Lord</span> your God, which brought you forth out of the land of Egypt, to give you the land of Canaan, <span class=\"clarity-word\">and</span> to be your God.",
+      "churchId": "p38"
+    },
+    {
+      "slug": "leviticus-25-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "¶ And if thy brother <span class=\"clarity-word\">that dwelleth</span> by thee be waxen poor, and be sold unto thee; thou shalt not compel him to serve as a bondservant:",
+      "churchId": "p39"
+    },
+    {
+      "slug": "leviticus-25-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "<span class=\"clarity-word\">But</span> as an hired servant, <span class=\"clarity-word\">and</span> as a sojourner, he shall be with thee, <span class=\"clarity-word\">and</span> shall serve thee unto the year of jubilee:",
+      "churchId": "p40"
+    },
+    {
+      "slug": "leviticus-25-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "And <span class=\"clarity-word\">then</span> shall he depart from thee, <span class=\"clarity-word\">both</span> he and his children with him, and shall return unto his own family, and unto the possession of his fathers shall he return.",
+      "churchId": "p41"
+    },
+    {
+      "slug": "leviticus-25-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "For they <span class=\"clarity-word\">are</span> my servants, which I brought forth out of the land of Egypt: they shall not be sold as bondmen.",
+      "churchId": "p42"
+    },
+    {
+      "slug": "leviticus-25-p43",
+      "type": "verse",
+      "number": "43",
+      "content": "Thou shalt not rule over him with rigour; but shalt fear thy God.",
+      "churchId": "p43"
+    },
+    {
+      "slug": "leviticus-25-p44",
+      "type": "verse",
+      "number": "44",
+      "content": "Both thy bondmen, and thy bondmaids, which thou shalt have, <span class=\"clarity-word\">shall be</span> of the heathen that are round about you; of them shall ye buy bondmen and bondmaids.",
+      "churchId": "p44"
+    },
+    {
+      "slug": "leviticus-25-p45",
+      "type": "verse",
+      "number": "45",
+      "content": "Moreover of the children of the strangers that do sojourn among you, of them shall ye buy, and of their families that <span class=\"clarity-word\">are</span> with you, which they begat in your land: and they shall be your possession.",
+      "churchId": "p45"
+    },
+    {
+      "slug": "leviticus-25-p46",
+      "type": "verse",
+      "number": "46",
+      "content": "And ye shall take them as an inheritance for your children after you, to inherit <span class=\"clarity-word\">them for</span> a possession; they shall be your bondmen for ever: but over your brethren the children of Israel, ye shall not rule one over another with rigour.",
+      "churchId": "p46"
+    },
+    {
+      "slug": "leviticus-25-p47",
+      "type": "verse",
+      "number": "47",
+      "content": "¶ And if a sojourner or stranger wax rich by thee, and thy brother <span class=\"clarity-word\">that dwelleth</span> by him wax poor, and sell himself unto the stranger <span class=\"clarity-word\">or</span> sojourner by thee, or to the stock of the stranger’s family:",
+      "churchId": "p47"
+    },
+    {
+      "slug": "leviticus-25-p48",
+      "type": "verse",
+      "number": "48",
+      "content": "After that he is sold he may be redeemed again; one of his brethren may redeem him:",
+      "churchId": "p48"
+    },
+    {
+      "slug": "leviticus-25-p49",
+      "type": "verse",
+      "number": "49",
+      "content": "Either his uncle, or his uncle’s son, may redeem him, or <span class=\"clarity-word\">any</span> that is nigh of kin unto him of his family may redeem him; or if he be able, he may redeem himself.",
+      "churchId": "p49"
+    },
+    {
+      "slug": "leviticus-25-p50",
+      "type": "verse",
+      "number": "50",
+      "content": "And he shall reckon with him that bought him from the year that he was sold to him unto the year of jubilee: and the price of his sale shall be according unto the number of years, according to the time of an hired servant shall it be with him.",
+      "churchId": "p50"
+    },
+    {
+      "slug": "leviticus-25-p51",
+      "type": "verse",
+      "number": "51",
+      "content": "If <span class=\"clarity-word\">there be</span> yet many years <span class=\"clarity-word\">behind,</span> according unto them he shall give again the price of his redemption out of the money that he was bought for.",
+      "churchId": "p51"
+    },
+    {
+      "slug": "leviticus-25-p52",
+      "type": "verse",
+      "number": "52",
+      "content": "And if there remain but few years unto the year of jubilee, then he shall count with him, <span class=\"clarity-word\">and</span> according unto his years shall he give him again the price of his redemption.",
+      "churchId": "p52"
+    },
+    {
+      "slug": "leviticus-25-p53",
+      "type": "verse",
+      "number": "53",
+      "content": "<span class=\"clarity-word\">And</span> as a yearly hired servant shall he be with him: <span class=\"clarity-word\">and the other</span> shall not rule with rigour over him in thy sight.",
+      "churchId": "p53"
+    },
+    {
+      "slug": "leviticus-25-p54",
+      "type": "verse",
+      "number": "54",
+      "content": "And if he be not redeemed in these <span class=\"clarity-word\">years,</span> then he shall go out in the year of jubilee, <span class=\"clarity-word\">both</span> he, and his children with him.",
+      "churchId": "p54"
+    },
+    {
+      "slug": "leviticus-25-p55",
+      "type": "verse",
+      "number": "55",
+      "content": "For unto me the children of Israel <span class=\"clarity-word\">are</span> servants; they <span class=\"clarity-word\">are</span> my servants whom I brought forth out of the land of Egypt: I <span class=\"clarity-word\">am</span> the <span class=\"small-caps\">Lord</span> your God.",
+      "churchId": "p55"
+    }
+  ]
+}

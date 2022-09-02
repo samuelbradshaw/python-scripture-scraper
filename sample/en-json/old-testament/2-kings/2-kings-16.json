@@ -1,0 +1,155 @@
+{
+  "name": "2 Kings 16",
+  "abbrev": "2 Kgs. 16",
+  "number": "16",
+  "churchUri": "/scriptures/ot/2-kgs/16",
+  "paragraphs": [
+    {
+      "slug": "2-kings-16-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 16",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "2-kings-16-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "In the seventeenth year of Pekah the son of Remaliah Ahaz the son of Jotham king of Judah began to reign.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "2-kings-16-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Twenty years old <span class=\"clarity-word\">was</span> Ahaz when he began to reign, and reigned sixteen years in Jerusalem, and did not <span class=\"clarity-word\">that which was</span> right in the sight of the <span class=\"small-caps\">Lord</span> his God, like David his father.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "2-kings-16-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "But he walked in the way of the kings of Israel, yea, and made his son to pass through the fire, according to the abominations of the heathen, whom the <span class=\"small-caps\">Lord</span> cast out from before the children of Israel.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "2-kings-16-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And he sacrificed and burnt incense in the high places, and on the hills, and under every green tree.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "2-kings-16-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "¶ Then Rezin king of Syria and Pekah son of Remaliah king of Israel came up to Jerusalem to war: and they besieged Ahaz, but could not overcome <span class=\"clarity-word\">him.</span>",
+      "churchId": "p5"
+    },
+    {
+      "slug": "2-kings-16-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "At that time Rezin king of Syria recovered Elath to Syria, and drave the Jews from Elath: and the Syrians came to Elath, and dwelt there unto this day.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "2-kings-16-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "So Ahaz sent messengers to Tiglath-pileser king of Assyria, saying, I <span class=\"clarity-word\">am</span> thy servant and thy son: come up, and save me out of the hand of the king of Syria, and out of the hand of the king of Israel, which rise up against me.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "2-kings-16-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And Ahaz took the silver and gold that was found in the house of the <span class=\"small-caps\">Lord</span>, and in the treasures of the king’s house, and sent <span class=\"clarity-word\">it for</span> a present to the king of Assyria.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "2-kings-16-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And the king of Assyria hearkened unto him: for the king of Assyria went up against Damascus, and took it, and carried <span class=\"clarity-word\">the people of</span> it captive to Kir, and slew Rezin.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "2-kings-16-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "¶ And king Ahaz went to Damascus to meet Tiglath-pileser king of Assyria, and saw an altar that <span class=\"clarity-word\">was</span> at Damascus: and king Ahaz sent to Urijah the priest the fashion of the altar, and the pattern of it, according to all the workmanship thereof.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "2-kings-16-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And Urijah the priest built an altar according to all that king Ahaz had sent from Damascus: so Urijah the priest made <span class=\"clarity-word\">it</span> against king Ahaz came from Damascus.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "2-kings-16-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And when the king was come from Damascus, the king saw the altar: and the king approached to the altar, and offered thereon.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "2-kings-16-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And he burnt his burnt offering and his meat offering, and poured his drink offering, and sprinkled the blood of his peace offerings, upon the altar.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "2-kings-16-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And he brought also the brasen altar, which <span class=\"clarity-word\">was</span> before the <span class=\"small-caps\">Lord</span>, from the forefront of the house, from between the altar and the house of the <span class=\"small-caps\">Lord</span>, and put it on the north side of the altar.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "2-kings-16-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And king Ahaz commanded Urijah the priest, saying, Upon the great altar burn the morning burnt offering, and the evening meat offering, and the king’s burnt sacrifice, and his meat offering, with the burnt offering of all the people of the land, and their meat offering, and their drink offerings; and sprinkle upon it all the blood of the burnt offering, and all the blood of the sacrifice: and the brasen altar shall be for me to inquire <span class=\"clarity-word\">by.</span>",
+      "churchId": "p15"
+    },
+    {
+      "slug": "2-kings-16-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Thus did Urijah the priest, according to all that king Ahaz commanded.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "2-kings-16-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "¶ And king Ahaz cut off the borders of the bases, and removed the laver from off them; and took down the sea from off the brasen oxen that <span class=\"clarity-word\">were</span> under it, and put it upon a pavement of stones.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "2-kings-16-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And the covert for the sabbath that they had built in the house, and the king’s entry without, turned he from the house of the <span class=\"small-caps\">Lord</span> for the king of Assyria.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "2-kings-16-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "¶ Now the rest of the acts of Ahaz which he did, <span class=\"clarity-word\">are</span> they not written in the book of the chronicles of the kings of Judah?",
+      "churchId": "p19"
+    },
+    {
+      "slug": "2-kings-16-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And Ahaz slept with his fathers, and was buried with his fathers in the city of David: and Hezekiah his son reigned in his stead.",
+      "churchId": "p20"
+    }
+  ]
+}

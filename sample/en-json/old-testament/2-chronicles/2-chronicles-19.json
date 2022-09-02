@@ -1,0 +1,92 @@
+{
+  "name": "2 Chronicles 19",
+  "abbrev": "2 Chr. 19",
+  "number": "19",
+  "churchUri": "/scriptures/ot/2-chr/19",
+  "paragraphs": [
+    {
+      "slug": "2-chronicles-19-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 19",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "2-chronicles-19-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And Jehoshaphat the king of Judah returned to his house in peace to Jerusalem.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "2-chronicles-19-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And Jehu the son of Hanani the seer went out to meet him, and said to king Jehoshaphat, Shouldest thou help the ungodly, and love them that hate the <span class=\"small-caps\">Lord</span>? therefore <span class=\"clarity-word\">is</span> wrath upon thee from before the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "2-chronicles-19-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Nevertheless there are good things found in thee, in that thou hast taken away the groves out of the land, and hast prepared thine heart to seek God.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "2-chronicles-19-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And Jehoshaphat dwelt at Jerusalem: and he went out again through the people from Beer-sheba to mount Ephraim, and brought them back unto the <span class=\"small-caps\">Lord</span> God of their fathers.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "2-chronicles-19-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "¶ And he set judges in the land throughout all the fenced cities of Judah, city by city,",
+      "churchId": "p5"
+    },
+    {
+      "slug": "2-chronicles-19-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And said to the judges, Take heed what ye do: for ye judge not for man, but for the <span class=\"small-caps\">Lord</span>, who <span class=\"clarity-word\">is</span> with you in the judgment.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "2-chronicles-19-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Wherefore now let the fear of the <span class=\"small-caps\">Lord</span> be upon you; take heed and do <span class=\"clarity-word\">it:</span> for <span class=\"clarity-word\">there is</span> no iniquity with the <span class=\"small-caps\">Lord</span> our God, nor respect of persons, nor taking of gifts.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "2-chronicles-19-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "¶ Moreover in Jerusalem did Jehoshaphat set of the Levites, and <span class=\"clarity-word\">of</span> the priests, and of the chief of the fathers of Israel, for the judgment of the <span class=\"small-caps\">Lord</span>, and for controversies, when they returned to Jerusalem.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "2-chronicles-19-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And he charged them, saying, Thus shall ye do in the fear of the <span class=\"small-caps\">Lord</span>, faithfully, and with a perfect heart.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "2-chronicles-19-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And what cause soever shall come to you of your brethren that dwell in their cities, between blood and blood, between law and commandment, statutes and judgments, ye shall even warn them that they trespass not against the <span class=\"small-caps\">Lord</span>, and <span class=\"clarity-word\">so</span> wrath come upon you, and upon your brethren: this do, and ye shall not trespass.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "2-chronicles-19-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And, behold, Amariah the chief priest <span class=\"clarity-word\">is</span> over you in all matters of the <span class=\"small-caps\">Lord</span>; and Zebadiah the son of Ishmael, the ruler of the house of Judah, for all the king’s matters: also the Levites <span class=\"clarity-word\">shall be</span> officers before you. Deal courageously, and the <span class=\"small-caps\">Lord</span> shall be with the good.",
+      "churchId": "p11"
+    }
+  ]
+}

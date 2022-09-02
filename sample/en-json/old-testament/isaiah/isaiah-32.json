@@ -1,0 +1,155 @@
+{
+  "name": "Isaiah 32",
+  "abbrev": "Isa. 32",
+  "number": "32",
+  "churchUri": "/scriptures/ot/isa/32",
+  "paragraphs": [
+    {
+      "slug": "isaiah-32-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 32",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "isaiah-32-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Behold, a king shall reign in righteousness, and princes shall rule in judgment.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "isaiah-32-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And a man shall be as an hiding place from the wind, and a covert from the tempest; as rivers of water in a dry place, as the shadow of a great rock in a weary land.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "isaiah-32-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And the eyes of them that see shall not be dim, and the ears of them that hear shall hearken.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "isaiah-32-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "The heart also of the rash shall understand knowledge, and the tongue of the stammerers shall be ready to speak plainly.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "isaiah-32-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "The vile person shall be no more called liberal, nor the churl said <span class=\"clarity-word\">to be</span> bountiful.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "isaiah-32-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "For the vile person will speak villany, and his heart will work iniquity, to practise hypocrisy, and to utter error against the <span class=\"small-caps\">Lord</span>, to make empty the soul of the hungry, and he will cause the drink of the thirsty to fail.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "isaiah-32-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "The instruments also of the churl <span class=\"clarity-word\">are</span> evil: he deviseth wicked devices to destroy the poor with lying words, even when the needy speaketh right.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "isaiah-32-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "But the liberal deviseth liberal things; and by liberal things shall he stand.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "isaiah-32-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "¶ Rise up, ye women that are at ease; hear my voice, ye careless daughters; give ear unto my speech.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "isaiah-32-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Many days and years shall ye be troubled, ye careless women: for the vintage shall fail, the gathering shall not come.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "isaiah-32-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Tremble, ye women that are at ease; be troubled, ye careless ones: strip you, and make you bare, and gird <span class=\"clarity-word\">sackcloth</span> upon <span class=\"clarity-word\">your</span> loins.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "isaiah-32-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "They shall lament for the teats, for the pleasant fields, for the fruitful vine.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "isaiah-32-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Upon the land of my people shall come up thorns <span class=\"clarity-word\">and</span> briers; yea, upon all the houses of joy <span class=\"clarity-word\">in</span> the joyous city:",
+      "churchId": "p13"
+    },
+    {
+      "slug": "isaiah-32-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Because the palaces shall be forsaken; the multitude of the city shall be left; the forts and towers shall be for dens for ever, a joy of wild asses, a pasture of flocks;",
+      "churchId": "p14"
+    },
+    {
+      "slug": "isaiah-32-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Until the spirit be poured upon us from on high, and the wilderness be a fruitful field, and the fruitful field be counted for a forest.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "isaiah-32-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Then judgment shall dwell in the wilderness, and righteousness remain in the fruitful field.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "isaiah-32-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And the work of righteousness shall be peace; and the effect of righteousness quietness and assurance for ever.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "isaiah-32-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And my people shall dwell in a peaceable habitation, and in sure dwellings, and in quiet resting places;",
+      "churchId": "p18"
+    },
+    {
+      "slug": "isaiah-32-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "When it shall hail, coming down on the forest; and the city shall be low in a low place.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "isaiah-32-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Blessed <span class=\"clarity-word\">are</span> ye that sow beside all waters, that send forth <span class=\"clarity-word\">thither</span> the feet of the ox and the ass.",
+      "churchId": "p20"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "name": "Exodus 31",
+  "abbrev": "Ex. 31",
+  "number": "31",
+  "churchUri": "/scriptures/ot/ex/31",
+  "paragraphs": [
+    {
+      "slug": "exodus-31-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 31",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "exodus-31-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And the <span class=\"small-caps\">Lord</span> spake unto Moses, saying,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "exodus-31-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "See, I have called by name Bezaleel the son of Uri, the son of Hur, of the tribe of Judah:",
+      "churchId": "p2"
+    },
+    {
+      "slug": "exodus-31-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And I have filled him with the spirit of God, in wisdom, and in understanding, and in knowledge, and in all manner of workmanship,",
+      "churchId": "p3"
+    },
+    {
+      "slug": "exodus-31-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "To devise cunning works, to work in gold, and in silver, and in brass,",
+      "churchId": "p4"
+    },
+    {
+      "slug": "exodus-31-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And in cutting of stones, to set <span class=\"clarity-word\">them,</span> and in carving of timber, to work in all manner of workmanship.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "exodus-31-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And I, behold, I have given with him Aholiab, the son of Ahisamach, of the tribe of Dan: and in the hearts of all that are wise hearted I have put wisdom, that they may make all that I have commanded thee;",
+      "churchId": "p6"
+    },
+    {
+      "slug": "exodus-31-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "The tabernacle of the congregation, and the ark of the testimony, and the mercy seat that <span class=\"clarity-word\">is</span> thereupon, and all the furniture of the tabernacle,",
+      "churchId": "p7"
+    },
+    {
+      "slug": "exodus-31-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And the table and his furniture, and the pure candlestick with all his furniture, and the altar of incense,",
+      "churchId": "p8"
+    },
+    {
+      "slug": "exodus-31-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And the altar of burnt offering with all his furniture, and the laver and his foot,",
+      "churchId": "p9"
+    },
+    {
+      "slug": "exodus-31-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And the cloths of service, and the holy garments for Aaron the priest, and the garments of his sons, to minister in the priest’s office,",
+      "churchId": "p10"
+    },
+    {
+      "slug": "exodus-31-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And the anointing oil, and sweet incense for the holy <span class=\"clarity-word\">place:</span> according to all that I have commanded thee shall they do.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "exodus-31-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "¶ And the <span class=\"small-caps\">Lord</span> spake unto Moses, saying,",
+      "churchId": "p12"
+    },
+    {
+      "slug": "exodus-31-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Speak thou also unto the children of Israel, saying, Verily my sabbaths ye shall keep: for it <span class=\"clarity-word\">is</span> a sign between me and you throughout your generations; that <span class=\"clarity-word\">ye</span> may know that I <span class=\"clarity-word\">am</span> the <span class=\"small-caps\">Lord</span> that doth sanctify you.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "exodus-31-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Ye shall keep the sabbath therefore; for it <span class=\"clarity-word\">is</span> holy unto you: every one that defileth it shall surely be put to death: for whosoever doeth <span class=\"clarity-word\">any</span> work therein, that soul shall be cut off from among his people.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "exodus-31-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Six days may work be done; but in the seventh <span class=\"clarity-word\">is</span> the sabbath of rest, holy to the <span class=\"small-caps\">Lord</span>: whosoever doeth <span class=\"clarity-word\">any</span> work in the sabbath day, he shall surely be put to death.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "exodus-31-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Wherefore the children of Israel shall keep the sabbath, to observe the sabbath throughout their generations, <span class=\"clarity-word\">for</span> a perpetual covenant.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "exodus-31-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "It <span class=\"clarity-word\">is</span> a sign between me and the children of Israel for ever: for <span class=\"clarity-word\">in</span> six days the <span class=\"small-caps\">Lord</span> made heaven and earth, and on the seventh day he rested, and was refreshed.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "exodus-31-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "¶ And he gave unto Moses, when he had made an end of communing with him upon mount Sinai, two tables of testimony, tables of stone, written with the finger of God.",
+      "churchId": "p18"
+    }
+  ]
+}

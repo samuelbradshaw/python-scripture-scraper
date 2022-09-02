@@ -1,0 +1,57 @@
+{
+  "name": "Psalm 127",
+  "abbrev": "Psalm 127",
+  "number": "127",
+  "churchUri": "/scriptures/ot/ps/127",
+  "paragraphs": [
+    {
+      "slug": "psalm-127-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 127",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-127-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "A Song of degrees for Solomon.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-127-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Except the <span class=\"small-caps\">Lord</span> build the house, they labour in vain that build it: except the <span class=\"small-caps\">Lord</span> keep the city, the watchman waketh <span class=\"clarity-word\">but</span> in vain.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-127-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "<span class=\"clarity-word\">It is</span> vain for you to rise up early, to sit up late, to eat the bread of sorrows: <span class=\"clarity-word\">for</span> so he giveth his beloved sleep.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-127-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Lo, children <span class=\"clarity-word\">are</span> an heritage of the <span class=\"small-caps\">Lord</span>: <span class=\"clarity-word\">and</span> the fruit of the womb <span class=\"clarity-word\">is his</span> reward.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-127-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "As arrows <span class=\"clarity-word\">are</span> in the hand of a mighty man; so <span class=\"clarity-word\">are</span> children of the youth.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-127-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Happy <span class=\"clarity-word\">is</span> the man that hath his quiver full of them: they shall not be ashamed, but they shall speak with the enemies in the gate.",
+      "churchId": "p5"
+    }
+  ]
+}

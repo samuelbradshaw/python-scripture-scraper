@@ -1,0 +1,71 @@
+{
+  "name": "Psalm 142",
+  "abbrev": "Psalm 142",
+  "number": "142",
+  "churchUri": "/scriptures/ot/ps/142",
+  "paragraphs": [
+    {
+      "slug": "psalm-142-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 142",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-142-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "Maschil of David; A Prayer when he was in the cave.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-142-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "I cried unto the <span class=\"small-caps\">Lord</span> with my voice; with my voice unto the <span class=\"small-caps\">Lord</span> did I make my supplication.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-142-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "I poured out my complaint before him; I shewed before him my trouble.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-142-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "When my spirit was overwhelmed within me, then thou knewest my path. In the way wherein I walked have they privily laid a snare for me.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-142-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "I looked on <span class=\"clarity-word\">my</span> right hand, and beheld, but <span class=\"clarity-word\">there was</span> no man that would know me: refuge failed me; no man cared for my soul.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-142-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "I cried unto thee, O <span class=\"small-caps\">Lord</span>: I said, Thou <span class=\"clarity-word\">art</span> my refuge <span class=\"clarity-word\">and</span> my portion in the land of the living.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-142-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Attend unto my cry; for I am brought very low: deliver me from my persecutors; for they are stronger than I.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-142-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Bring my soul out of prison, that I may praise thy name: the righteous shall compass me about; for thou shalt deal bountifully with me.",
+      "churchId": "p7"
+    }
+  ]
+}

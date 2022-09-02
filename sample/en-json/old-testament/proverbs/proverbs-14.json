@@ -1,0 +1,260 @@
+{
+  "name": "Proverbs 14",
+  "abbrev": "Prov. 14",
+  "number": "14",
+  "churchUri": "/scriptures/ot/prov/14",
+  "paragraphs": [
+    {
+      "slug": "proverbs-14-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 14",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "proverbs-14-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Every wise woman buildeth her house: but the foolish plucketh it down with her hands.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "proverbs-14-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "He that walketh in his uprightness feareth the <span class=\"small-caps\">Lord</span>: but <span class=\"clarity-word\">he that is</span> perverse in his ways despiseth him.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "proverbs-14-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "In the mouth of the foolish <span class=\"clarity-word\">is</span> a rod of pride: but the lips of the wise shall preserve them.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "proverbs-14-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Where no oxen <span class=\"clarity-word\">are,</span> the crib <span class=\"clarity-word\">is</span> clean: but much increase <span class=\"clarity-word\">is</span> by the strength of the ox.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "proverbs-14-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "A faithful witness will not lie: but a false witness will utter lies.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "proverbs-14-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "A scorner seeketh wisdom, and <span class=\"clarity-word\">findeth it</span> not: but knowledge <span class=\"clarity-word\">is</span> easy unto him that understandeth.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "proverbs-14-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Go from the presence of a foolish man, when thou perceivest not <span class=\"clarity-word\">in him</span> the lips of knowledge.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "proverbs-14-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "The wisdom of the prudent <span class=\"clarity-word\">is</span> to understand his way: but the folly of fools <span class=\"clarity-word\">is</span> deceit.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "proverbs-14-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Fools make a mock at sin: but among the righteous <span class=\"clarity-word\">there is</span> favour.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "proverbs-14-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "The heart knoweth his own bitterness; and a stranger doth not intermeddle with his joy.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "proverbs-14-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "The house of the wicked shall be overthrown: but the tabernacle of the upright shall flourish.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "proverbs-14-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "There is a way which seemeth right unto a man, but the end thereof <span class=\"clarity-word\">are</span> the ways of death.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "proverbs-14-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Even in laughter the heart is sorrowful; and the end of that mirth <span class=\"clarity-word\">is</span> heaviness.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "proverbs-14-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "The backslider in heart shall be filled with his own ways: and a good man <span class=\"clarity-word\">shall be satisfied</span> from himself.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "proverbs-14-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "The simple believeth every word: but the prudent <span class=\"clarity-word\">man</span> looketh well to his going.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "proverbs-14-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "A wise <span class=\"clarity-word\">man</span> feareth, and departeth from evil: but the fool rageth, and is confident.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "proverbs-14-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "<span class=\"clarity-word\">He that is</span> soon angry dealeth foolishly: and a man of wicked devices is hated.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "proverbs-14-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "The simple inherit folly: but the prudent are crowned with knowledge.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "proverbs-14-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "The evil bow before the good; and the wicked at the gates of the righteous.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "proverbs-14-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "The poor is hated even of his own neighbour: but the rich <span class=\"clarity-word\">hath</span> many friends.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "proverbs-14-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "He that despiseth his neighbour sinneth: but he that hath mercy on the poor, happy <span class=\"clarity-word\">is</span> he.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "proverbs-14-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Do they not err that devise evil? but mercy and truth <span class=\"clarity-word\">shall be</span> to them that devise good.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "proverbs-14-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "In all labour there is profit: but the talk of the lips <span class=\"clarity-word\">tendeth</span> only to penury.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "proverbs-14-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "The crown of the wise <span class=\"clarity-word\">is</span> their riches: <span class=\"clarity-word\">but</span> the foolishness of fools <span class=\"clarity-word\">is</span> folly.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "proverbs-14-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "A true witness delivereth souls: but a deceitful <span class=\"clarity-word\">witness</span> speaketh lies.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "proverbs-14-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "In the fear of the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">is</span> strong confidence: and his children shall have a place of refuge.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "proverbs-14-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "The fear of the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">is</span> a fountain of life, to depart from the snares of death.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "proverbs-14-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "In the multitude of people <span class=\"clarity-word\">is</span> the king’s honour: but in the want of people <span class=\"clarity-word\">is</span> the destruction of the prince.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "proverbs-14-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "<span class=\"clarity-word\">He that is</span> slow to wrath <span class=\"clarity-word\">is</span> of great understanding: but <span class=\"clarity-word\">he that is</span> hasty of spirit exalteth folly.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "proverbs-14-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "A sound heart <span class=\"clarity-word\">is</span> the life of the flesh: but envy the rottenness of the bones.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "proverbs-14-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "He that oppresseth the poor reproacheth his Maker: but he that honoureth him hath mercy on the poor.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "proverbs-14-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "The wicked is driven away in his wickedness: but the righteous hath hope in his death.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "proverbs-14-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "Wisdom resteth in the heart of him that hath understanding: but <span class=\"clarity-word\">that which is</span> in the midst of fools is made known.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "proverbs-14-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "Righteousness exalteth a nation: but sin <span class=\"clarity-word\">is</span> a reproach to any people.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "proverbs-14-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "The king’s favour <span class=\"clarity-word\">is</span> toward a wise servant: but his wrath is <span class=\"clarity-word\">against</span> him that causeth shame.",
+      "churchId": "p35"
+    }
+  ]
+}

@@ -1,0 +1,358 @@
+{
+  "name": "Ezekiel 20",
+  "abbrev": "Ezek. 20",
+  "number": "20",
+  "churchUri": "/scriptures/ot/ezek/20",
+  "paragraphs": [
+    {
+      "slug": "ezekiel-20-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 20",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "ezekiel-20-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And it came to pass in the seventh year, in the fifth <span class=\"clarity-word\">month,</span> the tenth <span class=\"clarity-word\">day</span> of the month, <span class=\"clarity-word\">that</span> certain of the elders of Israel came to inquire of the <span class=\"small-caps\">Lord</span>, and sat before me.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "ezekiel-20-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Then came the word of the <span class=\"small-caps\">Lord</span> unto me, saying,",
+      "churchId": "p2"
+    },
+    {
+      "slug": "ezekiel-20-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Son of man, speak unto the elders of Israel, and say unto them, Thus saith the Lord <span class=\"small-caps\">God</span>; Are ye come to inquire of me? <span class=\"clarity-word\">As</span> I live, saith the Lord <span class=\"small-caps\">God</span>, I will not be inquired of by you.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "ezekiel-20-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Wilt thou judge them, son of man, wilt thou judge <span class=\"clarity-word\">them?</span> cause them to know the abominations of their fathers:",
+      "churchId": "p4"
+    },
+    {
+      "slug": "ezekiel-20-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "¶ And say unto them, Thus saith the Lord <span class=\"small-caps\">God</span>; In the day when I chose Israel, and lifted up mine hand unto the seed of the house of Jacob, and made myself known unto them in the land of Egypt, when I lifted up mine hand unto them, saying, I <span class=\"clarity-word\">am</span> the <span class=\"small-caps\">Lord</span> your God;",
+      "churchId": "p5"
+    },
+    {
+      "slug": "ezekiel-20-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "In the day <span class=\"clarity-word\">that</span> I lifted up mine hand unto them, to bring them forth of the land of Egypt into a land that I had espied for them, flowing with milk and honey, which <span class=\"clarity-word\">is</span> the glory of all lands:",
+      "churchId": "p6"
+    },
+    {
+      "slug": "ezekiel-20-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Then said I unto them, Cast ye away every man the abominations of his eyes, and defile not yourselves with the idols of Egypt: I <span class=\"clarity-word\">am</span> the <span class=\"small-caps\">Lord</span> your God.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "ezekiel-20-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "But they rebelled against me, and would not hearken unto me: they did not every man cast away the abominations of their eyes, neither did they forsake the idols of Egypt: then I said, I will pour out my fury upon them, to accomplish my anger against them in the midst of the land of Egypt.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "ezekiel-20-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "But I wrought for my name’s sake, that it should not be polluted before the heathen, among whom they <span class=\"clarity-word\">were,</span> in whose sight I made myself known unto them, in bringing them forth out of the land of Egypt.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "ezekiel-20-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "¶ Wherefore I caused them to go forth out of the land of Egypt, and brought them into the wilderness.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "ezekiel-20-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And I gave them my statutes, and shewed them my judgments, which <span class=\"clarity-word\">if</span> a man do, he shall even live in them.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "ezekiel-20-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Moreover also I gave them my sabbaths, to be a sign between me and them, that they might know that I <span class=\"clarity-word\">am</span> the <span class=\"small-caps\">Lord</span> that sanctify them.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "ezekiel-20-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "But the house of Israel rebelled against me in the wilderness: they walked not in my statutes, and they despised my judgments, which <span class=\"clarity-word\">if</span> a man do, he shall even live in them; and my sabbaths they greatly polluted: then I said, I would pour out my fury upon them in the wilderness, to consume them.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "ezekiel-20-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "But I wrought for my name’s sake, that it should not be polluted before the heathen, in whose sight I brought them out.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "ezekiel-20-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Yet also I lifted up my hand unto them in the wilderness, that I would not bring them into the land which I had given <span class=\"clarity-word\">them,</span> flowing with milk and honey, which <span class=\"clarity-word\">is</span> the glory of all lands;",
+      "churchId": "p15"
+    },
+    {
+      "slug": "ezekiel-20-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Because they despised my judgments, and walked not in my statutes, but polluted my sabbaths: for their heart went after their idols.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "ezekiel-20-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Nevertheless mine eye spared them from destroying them, neither did I make an end of them in the wilderness.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "ezekiel-20-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "But I said unto their children in the wilderness, Walk ye not in the statutes of your fathers, neither observe their judgments, nor defile yourselves with their idols:",
+      "churchId": "p18"
+    },
+    {
+      "slug": "ezekiel-20-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "I <span class=\"clarity-word\">am</span> the <span class=\"small-caps\">Lord</span> your God; walk in my statutes, and keep my judgments, and do them;",
+      "churchId": "p19"
+    },
+    {
+      "slug": "ezekiel-20-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And hallow my sabbaths; and they shall be a sign between me and you, that ye may know that I <span class=\"clarity-word\">am</span> the <span class=\"small-caps\">Lord</span> your God.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "ezekiel-20-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Notwithstanding the children rebelled against me: they walked not in my statutes, neither kept my judgments to do them, which <span class=\"clarity-word\">if</span> a man do, he shall even live in them; they polluted my sabbaths: then I said, I would pour out my fury upon them, to accomplish my anger against them in the wilderness.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "ezekiel-20-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Nevertheless I withdrew mine hand, and wrought for my name’s sake, that it should not be polluted in the sight of the heathen, in whose sight I brought them forth.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "ezekiel-20-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "I lifted up mine hand unto them also in the wilderness, that I would scatter them among the heathen, and disperse them through the countries;",
+      "churchId": "p23"
+    },
+    {
+      "slug": "ezekiel-20-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Because they had not executed my judgments, but had despised my statutes, and had polluted my sabbaths, and their eyes were after their fathers’ idols.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "ezekiel-20-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Wherefore I gave them also statutes <span class=\"clarity-word\">that were</span> not good, and judgments whereby they should not live;",
+      "churchId": "p25"
+    },
+    {
+      "slug": "ezekiel-20-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And I polluted them in their own gifts, in that they caused to pass through <span class=\"clarity-word\">the fire</span> all that openeth the womb, that I might make them desolate, to the end that they might know that I <span class=\"clarity-word\">am</span> the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "ezekiel-20-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "¶ Therefore, son of man, speak unto the house of Israel, and say unto them, Thus saith the Lord <span class=\"small-caps\">God</span>; Yet in this your fathers have blasphemed me, in that they have committed a trespass against me.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "ezekiel-20-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "<span class=\"clarity-word\">For</span> when I had brought them into the land, <span class=\"clarity-word\">for</span> the which I lifted up mine hand to give it to them, then they saw every high hill, and all the thick trees, and they offered there their sacrifices, and there they presented the provocation of their offering: there also they made their sweet savour, and poured out there their drink offerings.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "ezekiel-20-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "Then I said unto them, What <span class=\"clarity-word\">is</span> the high place whereunto ye go? And the name thereof is called Bamah unto this day.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "ezekiel-20-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "Wherefore say unto the house of Israel, Thus saith the Lord <span class=\"small-caps\">God</span>; Are ye polluted after the manner of your fathers? and commit ye whoredom after their abominations?",
+      "churchId": "p30"
+    },
+    {
+      "slug": "ezekiel-20-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "For when ye offer your gifts, when ye make your sons to pass through the fire, ye pollute yourselves with all your idols, even unto this day: and shall I be inquired of by you, O house of Israel? <span class=\"clarity-word\">As</span> I live, saith the Lord <span class=\"small-caps\">God</span>, I will not be inquired of by you.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "ezekiel-20-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "And that which cometh into your mind shall not be at all, that ye say, We will be as the heathen, as the families of the countries, to serve wood and stone.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "ezekiel-20-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "¶ <span class=\"clarity-word\">As</span> I live, saith the Lord <span class=\"small-caps\">God</span>, surely with a mighty hand, and with a stretched out arm, and with fury poured out, will I rule over you:",
+      "churchId": "p33"
+    },
+    {
+      "slug": "ezekiel-20-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "And I will bring you out from the people, and will gather you out of the countries wherein ye are scattered, with a mighty hand, and with a stretched out arm, and with fury poured out.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "ezekiel-20-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "And I will bring you into the wilderness of the people, and there will I plead with you face to face.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "ezekiel-20-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "Like as I pleaded with your fathers in the wilderness of the land of Egypt, so will I plead with you, saith the Lord <span class=\"small-caps\">God</span>.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "ezekiel-20-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "And I will cause you to pass under the rod, and I will bring you into the bond of the covenant:",
+      "churchId": "p37"
+    },
+    {
+      "slug": "ezekiel-20-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "And I will purge out from among you the rebels, and them that transgress against me: I will bring them forth out of the country where they sojourn, and they shall not enter into the land of Israel: and ye shall know that I <span class=\"clarity-word\">am</span> the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p38"
+    },
+    {
+      "slug": "ezekiel-20-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "As for you, O house of Israel, thus saith the Lord <span class=\"small-caps\">God</span>; Go ye, serve ye every one his idols, and hereafter <span class=\"clarity-word\">also,</span> if ye will not hearken unto me: but pollute ye my holy name no more with your gifts, and with your idols.",
+      "churchId": "p39"
+    },
+    {
+      "slug": "ezekiel-20-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "For in mine holy mountain, in the mountain of the height of Israel, saith the Lord <span class=\"small-caps\">God</span>, there shall all the house of Israel, all of them in the land, serve me: there will I accept them, and there will I require your offerings, and the firstfruits of your oblations, with all your holy things.",
+      "churchId": "p40"
+    },
+    {
+      "slug": "ezekiel-20-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "I will accept you with your sweet savour, when I bring you out from the people, and gather you out of the countries wherein ye have been scattered; and I will be sanctified in you before the heathen.",
+      "churchId": "p41"
+    },
+    {
+      "slug": "ezekiel-20-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "And ye shall know that I <span class=\"clarity-word\">am</span> the <span class=\"small-caps\">Lord</span>, when I shall bring you into the land of Israel, into the country <span class=\"clarity-word\">for</span> the which I lifted up mine hand to give it to your fathers.",
+      "churchId": "p42"
+    },
+    {
+      "slug": "ezekiel-20-p43",
+      "type": "verse",
+      "number": "43",
+      "content": "And there shall ye remember your ways, and all your doings, wherein ye have been defiled; and ye shall lothe yourselves in your own sight for all your evils that ye have committed.",
+      "churchId": "p43"
+    },
+    {
+      "slug": "ezekiel-20-p44",
+      "type": "verse",
+      "number": "44",
+      "content": "And ye shall know that I <span class=\"clarity-word\">am</span> the <span class=\"small-caps\">Lord</span>, when I have wrought with you for my name’s sake, not according to your wicked ways, nor according to your corrupt doings, O ye house of Israel, saith the Lord <span class=\"small-caps\">God</span>.",
+      "churchId": "p44"
+    },
+    {
+      "slug": "ezekiel-20-p45",
+      "type": "verse",
+      "number": "45",
+      "content": "¶ Moreover the word of the <span class=\"small-caps\">Lord</span> came unto me, saying,",
+      "churchId": "p45"
+    },
+    {
+      "slug": "ezekiel-20-p46",
+      "type": "verse",
+      "number": "46",
+      "content": "Son of man, set thy face toward the south, and drop <span class=\"clarity-word\">thy word</span> toward the south, and prophesy against the forest of the south field;",
+      "churchId": "p46"
+    },
+    {
+      "slug": "ezekiel-20-p47",
+      "type": "verse",
+      "number": "47",
+      "content": "And say to the forest of the south, Hear the word of the <span class=\"small-caps\">Lord</span>; Thus saith the Lord <span class=\"small-caps\">God</span>; Behold, I will kindle a fire in thee, and it shall devour every green tree in thee, and every dry tree: the flaming flame shall not be quenched, and all faces from the south to the north shall be burned therein.",
+      "churchId": "p47"
+    },
+    {
+      "slug": "ezekiel-20-p48",
+      "type": "verse",
+      "number": "48",
+      "content": "And all flesh shall see that I the <span class=\"small-caps\">Lord</span> have kindled it: it shall not be quenched.",
+      "churchId": "p48"
+    },
+    {
+      "slug": "ezekiel-20-p49",
+      "type": "verse",
+      "number": "49",
+      "content": "Then said I, Ah Lord <span class=\"small-caps\">God</span>! they say of me, Doth he not speak parables?",
+      "churchId": "p49"
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "name": "Doctrine and Covenants 59",
+  "abbrev": "D&C 59",
+  "number": "59",
+  "churchUri": "/scriptures/dc-testament/dc/59",
+  "paragraphs": [
+    {
+      "slug": "section-59-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Section 59",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "section-59-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Behold, blessed, saith the Lord, are they who have come up unto this land with an eye single to my glory, according to my commandments.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "section-59-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "For those that live shall inherit the earth, and those that die shall rest from all their labors, and their works shall follow them; and they shall receive a crown in the mansions of my Father, which I have prepared for them.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "section-59-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Yea, blessed are they whose feet stand upon the land of Zion, who have obeyed my gospel; for they shall receive for their reward the good things of the earth, and it shall bring forth in its strength.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "section-59-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And they shall also be crowned with blessings from above, yea, and with commandments not a few, and with revelations in their time—they that are faithful and diligent before me.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "section-59-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Wherefore, I give unto them a commandment, saying thus: Thou shalt love the Lord thy God with all thy heart, with all thy might, mind, and strength; and in the name of Jesus Christ thou shalt serve him.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "section-59-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Thou shalt love thy neighbor as thyself. Thou shalt not steal; neither commit adultery, nor kill, nor do anything like unto it.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "section-59-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Thou shalt thank the Lord thy God in all things.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "section-59-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Thou shalt offer a sacrifice unto the Lord thy God in righteousness, even that of a broken heart and a contrite spirit.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "section-59-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And that thou mayest more fully keep thyself unspotted from the world, thou shalt go to the house of prayer and offer up thy sacraments upon my holy day;",
+      "churchId": "p9"
+    },
+    {
+      "slug": "section-59-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "For verily this is a day appointed unto you to rest from your labors, and to pay thy devotions unto the Most High;",
+      "churchId": "p10"
+    },
+    {
+      "slug": "section-59-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Nevertheless thy vows shall be offered up in righteousness on all days and at all times;",
+      "churchId": "p11"
+    },
+    {
+      "slug": "section-59-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "But remember that on this, the Lord’s day, thou shalt offer thine oblations and thy sacraments unto the Most High, confessing thy sins unto thy brethren, and before the Lord.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "section-59-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And on this day thou shalt do none other thing, only let thy food be prepared with singleness of heart that thy fasting may be perfect, or, in other words, that thy joy may be full.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "section-59-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Verily, this is fasting and prayer, or in other words, rejoicing and prayer.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "section-59-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And inasmuch as ye do these things with thanksgiving, with cheerful hearts and countenances, not with much laughter, for this is sin, but with a glad heart and a cheerful countenance—",
+      "churchId": "p15"
+    },
+    {
+      "slug": "section-59-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Verily I say, that inasmuch as ye do this, the fulness of the earth is yours, the beasts of the field and the fowls of the air, and that which climbeth upon the trees and walketh upon the earth;",
+      "churchId": "p16"
+    },
+    {
+      "slug": "section-59-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Yea, and the herb, and the good things which come of the earth, whether for food or for raiment, or for houses, or for barns, or for orchards, or for gardens, or for vineyards;",
+      "churchId": "p17"
+    },
+    {
+      "slug": "section-59-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Yea, all things which come of the earth, in the season thereof, are made for the benefit and the use of man, both to please the eye and to gladden the heart;",
+      "churchId": "p18"
+    },
+    {
+      "slug": "section-59-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Yea, for food and for raiment, for taste and for smell, to strengthen the body and to enliven the soul.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "section-59-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And it pleaseth God that he hath given all these things unto man; for unto this end were they made to be used, with judgment, not to excess, neither by extortion.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "section-59-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And in nothing doth man offend God, or against none is his wrath kindled, save those who confess not his hand in all things, and obey not his commandments.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "section-59-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Behold, this is according to the law and the prophets; wherefore, trouble me no more concerning this matter.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "section-59-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "But learn that he who doeth the works of righteousness shall receive his reward, even peace in this world, and eternal life in the world to come.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "section-59-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "I, the Lord, have spoken it, and the Spirit beareth record. Amen.",
+      "churchId": "p24"
+    }
+  ]
+}

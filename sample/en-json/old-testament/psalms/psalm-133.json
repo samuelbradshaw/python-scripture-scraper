@@ -1,0 +1,43 @@
+{
+  "name": "Psalm 133",
+  "abbrev": "Psalm 133",
+  "number": "133",
+  "churchUri": "/scriptures/ot/ps/133",
+  "paragraphs": [
+    {
+      "slug": "psalm-133-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 133",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-133-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "A Song of degrees of David.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-133-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Behold, how good and how pleasant <span class=\"clarity-word\">it is</span> for brethren to dwell together in unity!",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-133-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "<span class=\"clarity-word\">It is</span> like the precious ointment upon the head, that ran down upon the beard, <span class=\"clarity-word\">even</span> Aaron’s beard: that went down to the skirts of his garments;",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-133-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "As the dew of Hermon, <span class=\"clarity-word\">and as the dew</span> that descended upon the mountains of Zion: for there the <span class=\"small-caps\">Lord</span> commanded the blessing, <span class=\"clarity-word\">even</span> life for evermore.",
+      "churchId": "p3"
+    }
+  ]
+}

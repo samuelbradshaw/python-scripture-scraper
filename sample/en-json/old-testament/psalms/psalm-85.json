@@ -1,0 +1,113 @@
+{
+  "name": "Psalm 85",
+  "abbrev": "Psalm 85",
+  "number": "85",
+  "churchUri": "/scriptures/ot/ps/85",
+  "paragraphs": [
+    {
+      "slug": "psalm-85-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 85",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-85-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "To the chief Musician, A Psalm for the sons of Korah.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-85-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "<span class=\"small-caps\">Lord</span>, thou hast been favourable unto thy land: thou hast brought back the captivity of Jacob.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-85-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Thou hast forgiven the iniquity of thy people, thou hast covered all their sin. Selah.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-85-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Thou hast taken away all thy wrath: thou hast turned <span class=\"clarity-word\">thyself</span> from the fierceness of thine anger.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-85-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Turn us, O God of our salvation, and cause thine anger toward us to cease.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-85-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Wilt thou be angry with us for ever? wilt thou draw out thine anger to all generations?",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-85-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Wilt thou not revive us again: that thy people may rejoice in thee?",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-85-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Shew us thy mercy, O <span class=\"small-caps\">Lord</span>, and grant us thy salvation.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-85-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "I will hear what God the <span class=\"small-caps\">Lord</span> will speak: for he will speak peace unto his people, and to his saints: but let them not turn again to folly.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "psalm-85-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Surely his salvation <span class=\"clarity-word\">is</span> nigh them that fear him; that glory may dwell in our land.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "psalm-85-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Mercy and truth are met together; righteousness and peace have kissed <span class=\"clarity-word\">each other.</span>",
+      "churchId": "p10"
+    },
+    {
+      "slug": "psalm-85-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Truth shall spring out of the earth; and righteousness shall look down from heaven.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "psalm-85-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Yea, the <span class=\"small-caps\">Lord</span> shall give <span class=\"clarity-word\">that which is</span> good; and our land shall yield her increase.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "psalm-85-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Righteousness shall go before him; and shall set <span class=\"clarity-word\">us</span> in the way of his steps.",
+      "churchId": "p13"
+    }
+  ]
+}

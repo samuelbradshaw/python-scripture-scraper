@@ -1,0 +1,113 @@
+{
+  "name": "Psalm 140",
+  "abbrev": "Psalm 140",
+  "number": "140",
+  "churchUri": "/scriptures/ot/ps/140",
+  "paragraphs": [
+    {
+      "slug": "psalm-140-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 140",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-140-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "To the chief Musician, A Psalm of David.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-140-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Deliver me, O <span class=\"small-caps\">Lord</span>, from the evil man: preserve me from the violent man;",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-140-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Which imagine mischiefs in <span class=\"clarity-word\">their</span> heart; continually are they gathered together <span class=\"clarity-word\">for</span> war.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-140-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "They have sharpened their tongues like a serpent; adders’ poison <span class=\"clarity-word\">is</span> under their lips. Selah.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-140-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Keep me, O <span class=\"small-caps\">Lord</span>, from the hands of the wicked; preserve me from the violent man; who have purposed to overthrow my goings.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-140-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "The proud have hid a snare for me, and cords; they have spread a net by the wayside; they have set gins for me. Selah.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-140-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "I said unto the <span class=\"small-caps\">Lord</span>, Thou <span class=\"clarity-word\">art</span> my God: hear the voice of my supplications, O <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-140-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "O <span class=\"small-caps\">God</span> the Lord, the strength of my salvation, thou hast covered my head in the day of battle.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-140-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Grant not, O <span class=\"small-caps\">Lord</span>, the desires of the wicked: further not his wicked device; <span class=\"clarity-word\">lest</span> they exalt themselves. Selah.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "psalm-140-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "<span class=\"clarity-word\">As for</span> the head of those that compass me about, let the mischief of their own lips cover them.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "psalm-140-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Let burning coals fall upon them: let them be cast into the fire; into deep pits, that they rise not up again.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "psalm-140-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Let not an evil speaker be established in the earth: evil shall hunt the violent man to overthrow <span class=\"clarity-word\">him.</span>",
+      "churchId": "p11"
+    },
+    {
+      "slug": "psalm-140-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "I know that the <span class=\"small-caps\">Lord</span> will maintain the cause of the afflicted, <span class=\"clarity-word\">and</span> the right of the poor.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "psalm-140-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Surely the righteous shall give thanks unto thy name: the upright shall dwell in thy presence.",
+      "churchId": "p13"
+    }
+  ]
+}

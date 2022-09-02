@@ -1,0 +1,29 @@
+{
+  "name": "Doctrine and Covenants 92",
+  "abbrev": "D&C 92",
+  "number": "92",
+  "churchUri": "/scriptures/dc-testament/dc/92",
+  "paragraphs": [
+    {
+      "slug": "section-92-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Section 92",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "section-92-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Verily, thus saith the Lord, I give unto the united order, organized agreeable to the commandment previously given, a revelation and commandment concerning my servant Frederick G. Williams, that ye shall receive him into the order. What I say unto one I say unto all.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "section-92-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And again, I say unto you my servant Frederick G. Williams, you shall be a lively member in this order; and inasmuch as you are faithful in keeping all former commandments you shall be blessed forever. Amen.",
+      "churchId": "p2"
+    }
+  ]
+}

@@ -1,0 +1,400 @@
+{
+  "name": "Numbers 1",
+  "abbrev": "Num. 1",
+  "number": "1",
+  "churchUri": "/scriptures/ot/num/1",
+  "paragraphs": [
+    {
+      "slug": "numbers-1-title1",
+      "type": "book-title",
+      "number": null,
+      "content": "<small>The Fourth Book of Moses </small><small>Called </small>Numbers",
+      "churchId": "title1"
+    },
+    {
+      "slug": "numbers-1-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 1",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "numbers-1-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And the <span class=\"small-caps\">Lord</span> spake unto Moses in the wilderness of Sinai, in the tabernacle of the congregation, on the first <span class=\"clarity-word\">day</span> of the second month, in the second year after they were come out of the land of Egypt, saying,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "numbers-1-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Take ye the sum of all the congregation of the children of Israel, after their families, by the house of their fathers, with the number of <span class=\"clarity-word\">their</span> names, every male by their polls;",
+      "churchId": "p2"
+    },
+    {
+      "slug": "numbers-1-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "From twenty years old and upward, all that are able to go forth to war in Israel: thou and Aaron shall number them by their armies.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "numbers-1-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And with you there shall be a man of every tribe; every one head of the house of his fathers.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "numbers-1-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "¶ And these <span class=\"clarity-word\">are</span> the names of the men that shall stand with you: of <span class=\"clarity-word\">the tribe of</span> Reuben; Elizur the son of Shedeur.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "numbers-1-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Of Simeon; Shelumiel the son of Zurishaddai.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "numbers-1-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Of Judah; Nahshon the son of Amminadab.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "numbers-1-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Of Issachar; Nethaneel the son of Zuar.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "numbers-1-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Of Zebulun; Eliab the son of Helon.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "numbers-1-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Of the children of Joseph: of Ephraim; Elishama the son of Ammihud: of Manasseh; Gamaliel the son of Pedahzur.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "numbers-1-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Of Benjamin; Abidan the son of Gideoni.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "numbers-1-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Of Dan; Ahiezer the son of Ammishaddai.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "numbers-1-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Of Asher; Pagiel the son of Ocran.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "numbers-1-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Of Gad; Eliasaph the son of Deuel.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "numbers-1-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Of Naphtali; Ahira the son of Enan.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "numbers-1-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "These <span class=\"clarity-word\">were</span> the renowned of the congregation, princes of the tribes of their fathers, heads of thousands in Israel.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "numbers-1-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "¶ And Moses and Aaron took these men which are expressed by <span class=\"clarity-word\">their</span> names:",
+      "churchId": "p17"
+    },
+    {
+      "slug": "numbers-1-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And they assembled all the congregation together on the first <span class=\"clarity-word\">day</span> of the second month, and they declared their pedigrees after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, by their polls.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "numbers-1-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "As the <span class=\"small-caps\">Lord</span> commanded Moses, so he numbered them in the wilderness of Sinai.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "numbers-1-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And the children of Reuben, Israel’s eldest son, by their generations, after their families, by the house of their fathers, according to the number of the names, by their polls, every male from twenty years old and upward, all that were able to go forth to war;",
+      "churchId": "p20"
+    },
+    {
+      "slug": "numbers-1-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Those that were numbered of them, <span class=\"clarity-word\">even</span> of the tribe of Reuben, <span class=\"clarity-word\">were</span> forty and six thousand and five hundred.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "numbers-1-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "¶ Of the children of Simeon, by their generations, after their families, by the house of their fathers, those that were numbered of them, according to the number of the names, by their polls, every male from twenty years old and upward, all that were able to go forth to war;",
+      "churchId": "p22"
+    },
+    {
+      "slug": "numbers-1-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Those that were numbered of them, <span class=\"clarity-word\">even</span> of the tribe of Simeon, <span class=\"clarity-word\">were</span> fifty and nine thousand and three hundred.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "numbers-1-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "¶ Of the children of Gad, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+      "churchId": "p24"
+    },
+    {
+      "slug": "numbers-1-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Those that were numbered of them, <span class=\"clarity-word\">even</span> of the tribe of Gad, <span class=\"clarity-word\">were</span> forty and five thousand six hundred and fifty.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "numbers-1-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "¶ Of the children of Judah, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+      "churchId": "p26"
+    },
+    {
+      "slug": "numbers-1-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "Those that were numbered of them, <span class=\"clarity-word\">even</span> of the tribe of Judah, <span class=\"clarity-word\">were</span> threescore and fourteen thousand and six hundred.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "numbers-1-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "¶ Of the children of Issachar, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+      "churchId": "p28"
+    },
+    {
+      "slug": "numbers-1-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "Those that were numbered of them, <span class=\"clarity-word\">even</span> of the tribe of Issachar, <span class=\"clarity-word\">were</span> fifty and four thousand and four hundred.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "numbers-1-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "¶ Of the children of Zebulun, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+      "churchId": "p30"
+    },
+    {
+      "slug": "numbers-1-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "Those that were numbered of them, <span class=\"clarity-word\">even</span> of the tribe of Zebulun, <span class=\"clarity-word\">were</span> fifty and seven thousand and four hundred.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "numbers-1-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "¶ Of the children of Joseph, <span class=\"clarity-word\">namely,</span> of the children of Ephraim, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+      "churchId": "p32"
+    },
+    {
+      "slug": "numbers-1-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "Those that were numbered of them, <span class=\"clarity-word\">even</span> of the tribe of Ephraim, <span class=\"clarity-word\">were</span> forty thousand and five hundred.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "numbers-1-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "¶ Of the children of Manasseh, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+      "churchId": "p34"
+    },
+    {
+      "slug": "numbers-1-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "Those that were numbered of them, <span class=\"clarity-word\">even</span> of the tribe of Manasseh, <span class=\"clarity-word\">were</span> thirty and two thousand and two hundred.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "numbers-1-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "¶ Of the children of Benjamin, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+      "churchId": "p36"
+    },
+    {
+      "slug": "numbers-1-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "Those that were numbered of them, <span class=\"clarity-word\">even</span> of the tribe of Benjamin, <span class=\"clarity-word\">were</span> thirty and five thousand and four hundred.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "numbers-1-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "¶ Of the children of Dan, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+      "churchId": "p38"
+    },
+    {
+      "slug": "numbers-1-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "Those that were numbered of them, <span class=\"clarity-word\">even</span> of the tribe of Dan, <span class=\"clarity-word\">were</span> threescore and two thousand and seven hundred.",
+      "churchId": "p39"
+    },
+    {
+      "slug": "numbers-1-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "¶ Of the children of Asher, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+      "churchId": "p40"
+    },
+    {
+      "slug": "numbers-1-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "Those that were numbered of them, <span class=\"clarity-word\">even</span> of the tribe of Asher, <span class=\"clarity-word\">were</span> forty and one thousand and five hundred.",
+      "churchId": "p41"
+    },
+    {
+      "slug": "numbers-1-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "¶ Of the children of Naphtali, throughout their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+      "churchId": "p42"
+    },
+    {
+      "slug": "numbers-1-p43",
+      "type": "verse",
+      "number": "43",
+      "content": "Those that were numbered of them, <span class=\"clarity-word\">even</span> of the tribe of Naphtali, <span class=\"clarity-word\">were</span> fifty and three thousand and four hundred.",
+      "churchId": "p43"
+    },
+    {
+      "slug": "numbers-1-p44",
+      "type": "verse",
+      "number": "44",
+      "content": "These <span class=\"clarity-word\">are</span> those that were numbered, which Moses and Aaron numbered, and the princes of Israel, <span class=\"clarity-word\">being</span> twelve men: each one was for the house of his fathers.",
+      "churchId": "p44"
+    },
+    {
+      "slug": "numbers-1-p45",
+      "type": "verse",
+      "number": "45",
+      "content": "So were all those that were numbered of the children of Israel, by the house of their fathers, from twenty years old and upward, all that were able to go forth to war in Israel;",
+      "churchId": "p45"
+    },
+    {
+      "slug": "numbers-1-p46",
+      "type": "verse",
+      "number": "46",
+      "content": "Even all they that were numbered were six hundred thousand and three thousand and five hundred and fifty.",
+      "churchId": "p46"
+    },
+    {
+      "slug": "numbers-1-p47",
+      "type": "verse",
+      "number": "47",
+      "content": "¶ But the Levites after the tribe of their fathers were not numbered among them.",
+      "churchId": "p47"
+    },
+    {
+      "slug": "numbers-1-p48",
+      "type": "verse",
+      "number": "48",
+      "content": "For the <span class=\"small-caps\">Lord</span> had spoken unto Moses, saying,",
+      "churchId": "p48"
+    },
+    {
+      "slug": "numbers-1-p49",
+      "type": "verse",
+      "number": "49",
+      "content": "Only thou shalt not number the tribe of Levi, neither take the sum of them among the children of Israel:",
+      "churchId": "p49"
+    },
+    {
+      "slug": "numbers-1-p50",
+      "type": "verse",
+      "number": "50",
+      "content": "But thou shalt appoint the Levites over the tabernacle of testimony, and over all the vessels thereof, and over all things that <span class=\"clarity-word\">belong</span> to it: they shall bear the tabernacle, and all the vessels thereof; and they shall minister unto it, and shall encamp round about the tabernacle.",
+      "churchId": "p50"
+    },
+    {
+      "slug": "numbers-1-p51",
+      "type": "verse",
+      "number": "51",
+      "content": "And when the tabernacle setteth forward, the Levites shall take it down: and when the tabernacle is to be pitched, the Levites shall set it up: and the stranger that cometh nigh shall be put to death.",
+      "churchId": "p51"
+    },
+    {
+      "slug": "numbers-1-p52",
+      "type": "verse",
+      "number": "52",
+      "content": "And the children of Israel shall pitch their tents, every man by his own camp, and every man by his own standard, throughout their hosts.",
+      "churchId": "p52"
+    },
+    {
+      "slug": "numbers-1-p53",
+      "type": "verse",
+      "number": "53",
+      "content": "But the Levites shall pitch round about the tabernacle of testimony, that there be no wrath upon the congregation of the children of Israel: and the Levites shall keep the charge of the tabernacle of testimony.",
+      "churchId": "p53"
+    },
+    {
+      "slug": "numbers-1-p54",
+      "type": "verse",
+      "number": "54",
+      "content": "And the children of Israel did according to all that the <span class=\"small-caps\">Lord</span> commanded Moses, so did they.",
+      "churchId": "p54"
+    }
+  ]
+}

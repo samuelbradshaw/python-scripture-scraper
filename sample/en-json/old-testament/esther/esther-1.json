@@ -1,0 +1,176 @@
+{
+  "name": "Esther 1",
+  "abbrev": "Esth. 1",
+  "number": "1",
+  "churchUri": "/scriptures/ot/esth/1",
+  "paragraphs": [
+    {
+      "slug": "esther-1-title1",
+      "type": "book-title",
+      "number": null,
+      "content": "<small>The Book of </small>Esther",
+      "churchId": "title1"
+    },
+    {
+      "slug": "esther-1-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 1",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "esther-1-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Now it came to pass in the days of Ahasuerus, (this <span class=\"clarity-word\">is</span> Ahasuerus which reigned, from India even unto Ethiopia, <span class=\"clarity-word\">over</span> an hundred and seven and twenty provinces:)",
+      "churchId": "p1"
+    },
+    {
+      "slug": "esther-1-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "<span class=\"clarity-word\">That</span> in those days, when the king Ahasuerus sat on the throne of his kingdom, which <span class=\"clarity-word\">was</span> in Shushan the palace,",
+      "churchId": "p2"
+    },
+    {
+      "slug": "esther-1-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "In the third year of his reign, he made a feast unto all his princes and his servants; the power of Persia and Media, the nobles and princes of the provinces, <span class=\"clarity-word\">being</span> before him:",
+      "churchId": "p3"
+    },
+    {
+      "slug": "esther-1-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "When he shewed the riches of his glorious kingdom and the honour of his excellent majesty many days, <span class=\"clarity-word\">even</span> an hundred and fourscore days.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "esther-1-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And when these days were expired, the king made a feast unto all the people that were present in Shushan the palace, both unto great and small, seven days, in the court of the garden of the king’s palace;",
+      "churchId": "p5"
+    },
+    {
+      "slug": "esther-1-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "<span class=\"clarity-word\">Where were</span> white, green, and blue, <span class=\"clarity-word\">hangings,</span> fastened with cords of fine linen and purple to silver rings and pillars of marble: the beds <span class=\"clarity-word\">were of</span> gold and silver, upon a pavement of red, and blue, and white, and black, marble.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "esther-1-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And they gave <span class=\"clarity-word\">them</span> drink in vessels of gold, (the vessels being diverse one from another,) and royal wine in abundance, according to the state of the king.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "esther-1-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And the drinking <span class=\"clarity-word\">was</span> according to the law; none did compel: for so the king had appointed to all the officers of his house, that they should do according to every man’s pleasure.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "esther-1-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Also Vashti the queen made a feast for the women <span class=\"clarity-word\">in</span> the royal house which <span class=\"clarity-word\">belonged</span> to king Ahasuerus.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "esther-1-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "¶ On the seventh day, when the heart of the king was merry with wine, he commanded Mehuman, Biztha, Harbona, Bigtha, and Abagtha, Zethar, and Carcas, the seven chamberlains that served in the presence of Ahasuerus the king,",
+      "churchId": "p10"
+    },
+    {
+      "slug": "esther-1-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "To bring Vashti the queen before the king with the crown royal, to shew the people and the princes her beauty: for she <span class=\"clarity-word\">was</span> fair to look on.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "esther-1-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "But the queen Vashti refused to come at the king’s commandment by <span class=\"clarity-word\">his</span> chamberlains: therefore was the king very wroth, and his anger burned in him.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "esther-1-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "¶ Then the king said to the wise men, which knew the times, (for so <span class=\"clarity-word\">was</span> the king’s manner toward all that knew law and judgment:",
+      "churchId": "p13"
+    },
+    {
+      "slug": "esther-1-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And the next unto him <span class=\"clarity-word\">was</span> Carshena, Shethar, Admatha, Tarshish, Meres, Marsena, <span class=\"clarity-word\">and</span> Memucan, the seven princes of Persia and Media, which saw the king’s face, <span class=\"clarity-word\">and</span> which sat the first in the kingdom;)",
+      "churchId": "p14"
+    },
+    {
+      "slug": "esther-1-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "What shall we do unto the queen Vashti according to law, because she hath not performed the commandment of the king Ahasuerus by the chamberlains?",
+      "churchId": "p15"
+    },
+    {
+      "slug": "esther-1-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And Memucan answered before the king and the princes, Vashti the queen hath not done wrong to the king only, but also to all the princes, and to all the people that <span class=\"clarity-word\">are</span> in all the provinces of the king Ahasuerus.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "esther-1-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "For <span class=\"clarity-word\">this</span> deed of the queen shall come abroad unto all women, so that they shall despise their husbands in their eyes, when it shall be reported, The king Ahasuerus commanded Vashti the queen to be brought in before him, but she came not.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "esther-1-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "<span class=\"clarity-word\">Likewise</span> shall the ladies of Persia and Media say this day unto all the king’s princes, which have heard of the deed of the queen. Thus <span class=\"clarity-word\">shall there arise</span> too much contempt and wrath.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "esther-1-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "If it please the king, let there go a royal commandment from him, and let it be written among the laws of the Persians and the Medes, that it be not altered, That Vashti come no more before king Ahasuerus; and let the king give her royal estate unto another that is better than she.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "esther-1-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And when the king’s decree which he shall make shall be published throughout all his empire, (for it is great,) all the wives shall give to their husbands honour, both to great and small.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "esther-1-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And the saying pleased the king and the princes; and the king did according to the word of Memucan:",
+      "churchId": "p21"
+    },
+    {
+      "slug": "esther-1-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "For he sent letters into all the king’s provinces, into every province according to the writing thereof, and to every people after their language, that every man should bear rule in his own house, and that <span class=\"clarity-word\">it</span> should be published according to the language of every people.",
+      "churchId": "p22"
+    }
+  ]
+}

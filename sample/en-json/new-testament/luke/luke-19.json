@@ -1,0 +1,351 @@
+{
+  "name": "Luke 19",
+  "abbrev": "Luke 19",
+  "number": "19",
+  "churchUri": "/scriptures/nt/luke/19",
+  "paragraphs": [
+    {
+      "slug": "luke-19-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 19",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "luke-19-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And <span class=\"clarity-word\">Jesus</span> entered and passed through Jericho.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "luke-19-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And, behold, <span class=\"clarity-word\">there was</span> a man named Zacchæus, which was the chief among the publicans, and he was rich.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "luke-19-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And he sought to see Jesus who he was; and could not for the press, because he was little of stature.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "luke-19-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And he ran before, and climbed up into a sycomore tree to see him: for he was to pass that <span class=\"clarity-word\">way.</span>",
+      "churchId": "p4"
+    },
+    {
+      "slug": "luke-19-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And when Jesus came to the place, he looked up, and saw him, and said unto him, Zacchæus, make haste, and come down; for to day I must abide at thy house.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "luke-19-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And he made haste, and came down, and received him joyfully.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "luke-19-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And when they saw <span class=\"clarity-word\">it,</span> they all murmured, saying, That he was gone to be guest with a man that is a sinner.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "luke-19-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And Zacchæus stood, and said unto the Lord; Behold, Lord, the half of my goods I give to the poor; and if I have taken any thing from any man by false accusation, I restore <span class=\"clarity-word\">him</span> fourfold.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "luke-19-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And Jesus said unto him, This day is salvation come to this house, forsomuch as he also is a son of Abraham.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "luke-19-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "For the Son of man is come to seek and to save that which was lost.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "luke-19-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And as they heard these things, he added and spake a parable, because he was nigh to Jerusalem, and because they thought that the kingdom of God should immediately appear.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "luke-19-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "He said therefore, A certain nobleman went into a far country to receive for himself a kingdom, and to return.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "luke-19-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And he called his ten servants, and delivered them ten pounds, and said unto them, Occupy till I come.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "luke-19-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "But his citizens hated him, and sent a message after him, saying, We will not have this <span class=\"clarity-word\">man</span> to reign over us.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "luke-19-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And it came to pass, that when he was returned, having received the kingdom, then he commanded these servants to be called unto him, to whom he had given the money, that he might know how much every man had gained by trading.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "luke-19-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Then came the first, saying, Lord, thy pound hath gained ten pounds.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "luke-19-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And he said unto him, Well, thou good servant: because thou hast been faithful in a very little, have thou authority over ten cities.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "luke-19-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And the second came, saying, Lord, thy pound hath gained five pounds.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "luke-19-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And he said likewise to him, Be thou also over five cities.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "luke-19-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And another came, saying, Lord, behold, <span class=\"clarity-word\">here is</span> thy pound, which I have kept laid up in a napkin:",
+      "churchId": "p20"
+    },
+    {
+      "slug": "luke-19-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "For I feared thee, because thou art an austere man: thou takest up that thou layedst not down, and reapest that thou didst not sow.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "luke-19-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And he saith unto him, Out of thine own mouth will I judge thee, <span class=\"clarity-word\">thou</span> wicked servant. Thou knewest that I was an austere man, taking up that I laid not down, and reaping that I did not sow:",
+      "churchId": "p22"
+    },
+    {
+      "slug": "luke-19-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Wherefore then gavest not thou my money into the bank, that at my coming I might have required mine own with usury?",
+      "churchId": "p23"
+    },
+    {
+      "slug": "luke-19-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And he said unto them that stood by, Take from him the pound, and give <span class=\"clarity-word\">it</span> to him that hath ten pounds.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "luke-19-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "(And they said unto him, Lord, he hath ten pounds.)",
+      "churchId": "p25"
+    },
+    {
+      "slug": "luke-19-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "For I say unto you, That unto every one which hath shall be given; and from him that hath not, even that he hath shall be taken away from him.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "luke-19-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "But those mine enemies, which would not that I should reign over them, bring hither, and slay <span class=\"clarity-word\">them</span> before me.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "luke-19-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "¶ And when he had thus spoken, he went before, ascending up to Jerusalem.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "luke-19-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "And it came to pass, when he was come nigh to Bethphage and Bethany, at the mount called <span class=\"clarity-word\">the mount</span> of Olives, he sent two of his disciples,",
+      "churchId": "p29"
+    },
+    {
+      "slug": "luke-19-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "Saying, Go ye into the village over against <span class=\"clarity-word\">you;</span> in the which at your entering ye shall find a colt tied, whereon yet never man sat: loose him, and bring <span class=\"clarity-word\">him hither.</span>",
+      "churchId": "p30"
+    },
+    {
+      "slug": "luke-19-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "And if any man ask you, Why do ye loose <span class=\"clarity-word\">him?</span> thus shall ye say unto him, Because the Lord hath need of him.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "luke-19-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "And they that were sent went their way, and found even as he had said unto them.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "luke-19-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "And as they were loosing the colt, the owners thereof said unto them, Why loose ye the colt?",
+      "churchId": "p33"
+    },
+    {
+      "slug": "luke-19-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "And they said, The Lord hath need of him.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "luke-19-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "And they brought him to Jesus: and they cast their garments upon the colt, and they set Jesus thereon.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "luke-19-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "And as he went, they spread their clothes in the way.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "luke-19-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "And when he was come nigh, even now at the descent of the mount of Olives, the whole multitude of the disciples began to rejoice and praise God with a loud voice for all the mighty works that they had seen;",
+      "churchId": "p37"
+    },
+    {
+      "slug": "luke-19-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "Saying, Blessed <span class=\"clarity-word\">be</span> the King that cometh in the name of the Lord: peace in heaven, and glory in the highest.",
+      "churchId": "p38"
+    },
+    {
+      "slug": "luke-19-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "And some of the Pharisees from among the multitude said unto him, Master, rebuke thy disciples.",
+      "churchId": "p39"
+    },
+    {
+      "slug": "luke-19-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "And he answered and said unto them, I tell you that, if these should hold their peace, the stones would immediately cry out.",
+      "churchId": "p40"
+    },
+    {
+      "slug": "luke-19-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "¶ And when he was come near, he beheld the city, and wept over it,",
+      "churchId": "p41"
+    },
+    {
+      "slug": "luke-19-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "Saying, If thou hadst known, even thou, at least in this thy day, the things <span class=\"clarity-word\">which belong</span> unto thy peace! but now they are hid from thine eyes.",
+      "churchId": "p42"
+    },
+    {
+      "slug": "luke-19-p43",
+      "type": "verse",
+      "number": "43",
+      "content": "For the days shall come upon thee, that thine enemies shall cast a trench about thee, and compass thee round, and keep thee in on every side,",
+      "churchId": "p43"
+    },
+    {
+      "slug": "luke-19-p44",
+      "type": "verse",
+      "number": "44",
+      "content": "And shall lay thee even with the ground, and thy children within thee; and they shall not leave in thee one stone upon another; because thou knewest not the time of thy visitation.",
+      "churchId": "p44"
+    },
+    {
+      "slug": "luke-19-p45",
+      "type": "verse",
+      "number": "45",
+      "content": "And he went into the temple, and began to cast out them that sold therein, and them that bought;",
+      "churchId": "p45"
+    },
+    {
+      "slug": "luke-19-p46",
+      "type": "verse",
+      "number": "46",
+      "content": "Saying unto them, It is written, My house is the house of prayer: but ye have made it a den of thieves.",
+      "churchId": "p46"
+    },
+    {
+      "slug": "luke-19-p47",
+      "type": "verse",
+      "number": "47",
+      "content": "And he taught daily in the temple. But the chief priests and the scribes and the chief of the people sought to destroy him,",
+      "churchId": "p47"
+    },
+    {
+      "slug": "luke-19-p48",
+      "type": "verse",
+      "number": "48",
+      "content": "And could not find what they might do: for all the people were very attentive to hear him.",
+      "churchId": "p48"
+    }
+  ]
+}

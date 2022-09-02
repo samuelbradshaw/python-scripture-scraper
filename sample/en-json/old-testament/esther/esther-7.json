@@ -1,0 +1,85 @@
+{
+  "name": "Esther 7",
+  "abbrev": "Esth. 7",
+  "number": "7",
+  "churchUri": "/scriptures/ot/esth/7",
+  "paragraphs": [
+    {
+      "slug": "esther-7-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 7",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "esther-7-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "So the king and Haman came to banquet with Esther the queen.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "esther-7-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And the king said again unto Esther on the second day at the banquet of wine, What <span class=\"clarity-word\">is</span> thy petition, queen Esther? and it shall be granted thee: and what <span class=\"clarity-word\">is</span> thy request? and it shall be performed, <span class=\"clarity-word\">even</span> to the half of the kingdom.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "esther-7-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Then Esther the queen answered and said, If I have found favour in thy sight, O king, and if it please the king, let my life be given me at my petition, and my people at my request:",
+      "churchId": "p3"
+    },
+    {
+      "slug": "esther-7-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "For we are sold, I and my people, to be destroyed, to be slain, and to perish. But if we had been sold for bondmen and bondwomen, I had held my tongue, although the enemy could not countervail the king’s damage.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "esther-7-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "¶ Then the king Ahasuerus answered and said unto Esther the queen, Who is he, and where is he, that durst presume in his heart to do so?",
+      "churchId": "p5"
+    },
+    {
+      "slug": "esther-7-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And Esther said, The adversary and enemy <span class=\"clarity-word\">is</span> this wicked Haman. Then Haman was afraid before the king and the queen.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "esther-7-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "¶ And the king arising from the banquet of wine in his wrath <span class=\"clarity-word\">went</span> into the palace garden: and Haman stood up to make request for his life to Esther the queen; for he saw that there was evil determined against him by the king.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "esther-7-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Then the king returned out of the palace garden into the place of the banquet of wine; and Haman was fallen upon the bed whereon Esther <span class=\"clarity-word\">was.</span> Then said the king, Will he force the queen also before me in the house? As the word went out of the king’s mouth, they covered Haman’s face.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "esther-7-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And Harbonah, one of the chamberlains, said before the king, Behold also, the gallows fifty cubits high, which Haman had made for Mordecai, who had spoken good for the king, standeth in the house of Haman. Then the king said, Hang him thereon.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "esther-7-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "So they hanged Haman on the gallows that he had prepared for Mordecai. Then was the king’s wrath pacified.",
+      "churchId": "p10"
+    }
+  ]
+}

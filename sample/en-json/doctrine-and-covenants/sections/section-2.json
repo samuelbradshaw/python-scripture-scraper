@@ -1,0 +1,36 @@
+{
+  "name": "Doctrine and Covenants 2",
+  "abbrev": "D&C 2",
+  "number": "2",
+  "churchUri": "/scriptures/dc-testament/dc/2",
+  "paragraphs": [
+    {
+      "slug": "section-2-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Section 2",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "section-2-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Behold, I will reveal unto you the Priesthood, by the hand of Elijah the prophet, before the coming of the great and dreadful day of the Lord.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "section-2-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And he shall plant in the hearts of the children the promises made to the fathers, and the hearts of the children shall turn to their fathers.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "section-2-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "If it were not so, the whole earth would be utterly wasted at his coming.",
+      "churchId": "p3"
+    }
+  ]
+}

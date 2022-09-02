@@ -1,0 +1,162 @@
+{
+  "name": "1 Timothy 1",
+  "abbrev": "1 Tim. 1",
+  "number": "1",
+  "churchUri": "/scriptures/nt/1-tim/1",
+  "paragraphs": [
+    {
+      "slug": "1-timothy-1-title1",
+      "type": "book-title",
+      "number": null,
+      "content": "<small>The First Epistle of </small><small>Paul the Apostle to </small>Timothy",
+      "churchId": "title1"
+    },
+    {
+      "slug": "1-timothy-1-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 1",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "1-timothy-1-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Paul, an apostle of Jesus Christ by the commandment of God our Saviour, and Lord Jesus Christ, <span class=\"clarity-word\">which is</span> our hope;",
+      "churchId": "p1"
+    },
+    {
+      "slug": "1-timothy-1-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Unto Timothy, <span class=\"clarity-word\">my</span> own son in the faith: Grace, mercy, <span class=\"clarity-word\">and</span> peace, from God our Father and Jesus Christ our Lord.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "1-timothy-1-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "As I besought thee to abide still at Ephesus, when I went into Macedonia, that thou mightest charge some that they teach no other doctrine,",
+      "churchId": "p3"
+    },
+    {
+      "slug": "1-timothy-1-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Neither give heed to fables and endless genealogies, which minister questions, rather than godly edifying which is in faith: <span class=\"clarity-word\">so do.</span>",
+      "churchId": "p4"
+    },
+    {
+      "slug": "1-timothy-1-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Now the end of the commandment is charity out of a pure heart, and <span class=\"clarity-word\">of</span> a good conscience, and <span class=\"clarity-word\">of</span> faith unfeigned:",
+      "churchId": "p5"
+    },
+    {
+      "slug": "1-timothy-1-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "From which some having swerved have turned aside unto vain jangling;",
+      "churchId": "p6"
+    },
+    {
+      "slug": "1-timothy-1-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Desiring to be teachers of the law; understanding neither what they say, nor whereof they affirm.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "1-timothy-1-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "But we know that the law <span class=\"clarity-word\">is</span> good, if a man use it lawfully;",
+      "churchId": "p8"
+    },
+    {
+      "slug": "1-timothy-1-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Knowing this, that the law is not made for a righteous man, but for the lawless and disobedient, for the ungodly and for sinners, for unholy and profane, for murderers of fathers and murderers of mothers, for manslayers,",
+      "churchId": "p9"
+    },
+    {
+      "slug": "1-timothy-1-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "For whoremongers, for them that defile themselves with mankind, for menstealers, for liars, for perjured persons, and if there be any other thing that is contrary to sound doctrine;",
+      "churchId": "p10"
+    },
+    {
+      "slug": "1-timothy-1-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "According to the glorious gospel of the blessed God, which was committed to my trust.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "1-timothy-1-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And I thank Christ Jesus our Lord, who hath enabled me, for that he counted me faithful, putting me into the ministry;",
+      "churchId": "p12"
+    },
+    {
+      "slug": "1-timothy-1-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Who was before a blasphemer, and a persecutor, and injurious: but I obtained mercy, because I did <span class=\"clarity-word\">it</span> ignorantly in unbelief.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "1-timothy-1-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And the grace of our Lord was exceeding abundant with faith and love which is in Christ Jesus.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "1-timothy-1-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "This <span class=\"clarity-word\">is</span> a faithful saying, and worthy of all acceptation, that Christ Jesus came into the world to save sinners; of whom I am chief.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "1-timothy-1-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Howbeit for this cause I obtained mercy, that in me first Jesus Christ might shew forth all longsuffering, for a pattern to them which should hereafter believe on him to life everlasting.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "1-timothy-1-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Now unto the King eternal, immortal, invisible, the only wise God, <span class=\"clarity-word\">be</span> honour and glory for ever and ever. Amen.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "1-timothy-1-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "This charge I commit unto thee, son Timothy, according to the prophecies which went before on thee, that thou by them mightest war a good warfare;",
+      "churchId": "p18"
+    },
+    {
+      "slug": "1-timothy-1-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Holding faith, and a good conscience; which some having put away concerning faith have made shipwreck:",
+      "churchId": "p19"
+    },
+    {
+      "slug": "1-timothy-1-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Of whom is Hymenæus and Alexander; whom I have delivered unto Satan, that they may learn not to blaspheme.",
+      "churchId": "p20"
+    }
+  ]
+}

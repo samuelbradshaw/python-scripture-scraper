@@ -1,0 +1,106 @@
+{
+  "name": "2 Samuel 9",
+  "abbrev": "2 Sam. 9",
+  "number": "9",
+  "churchUri": "/scriptures/ot/2-sam/9",
+  "paragraphs": [
+    {
+      "slug": "2-samuel-9-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 9",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "2-samuel-9-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And David said, Is there yet any that is left of the house of Saul, that I may shew him kindness for Jonathan’s sake?",
+      "churchId": "p1"
+    },
+    {
+      "slug": "2-samuel-9-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And <span class=\"clarity-word\">there was</span> of the house of Saul a servant whose name <span class=\"clarity-word\">was</span> Ziba. And when they had called him unto David, the king said unto him, <span class=\"clarity-word\">Art</span> thou Ziba? And he said, Thy servant <span class=\"clarity-word\">is he.</span>",
+      "churchId": "p2"
+    },
+    {
+      "slug": "2-samuel-9-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And the king said, <span class=\"clarity-word\">Is</span> there not yet any of the house of Saul, that I may shew the kindness of God unto him? And Ziba said unto the king, Jonathan hath yet a son, <span class=\"clarity-word\">which is</span> lame on <span class=\"clarity-word\">his</span> feet.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "2-samuel-9-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And the king said unto him, Where <span class=\"clarity-word\">is</span> he? And Ziba said unto the king, Behold, he <span class=\"clarity-word\">is</span> in the house of Machir, the son of Ammiel, in Lo-debar.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "2-samuel-9-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "¶ Then king David sent, and fetched him out of the house of Machir, the son of Ammiel, from Lo-debar.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "2-samuel-9-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Now when Mephibosheth, the son of Jonathan, the son of Saul, was come unto David, he fell on his face, and did reverence. And David said, Mephibosheth. And he answered, Behold thy servant!",
+      "churchId": "p6"
+    },
+    {
+      "slug": "2-samuel-9-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "¶ And David said unto him, Fear not: for I will surely shew thee kindness for Jonathan thy father’s sake, and will restore thee all the land of Saul thy father; and thou shalt eat bread at my table continually.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "2-samuel-9-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And he bowed himself, and said, What <span class=\"clarity-word\">is</span> thy servant, that thou shouldest look upon such a dead dog as I <span class=\"clarity-word\">am?</span>",
+      "churchId": "p8"
+    },
+    {
+      "slug": "2-samuel-9-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "¶ Then the king called to Ziba, Saul’s servant, and said unto him, I have given unto thy master’s son all that pertained to Saul and to all his house.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "2-samuel-9-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Thou therefore, and thy sons, and thy servants, shall till the land for him, and thou shalt bring in <span class=\"clarity-word\">the fruits,</span> that thy master’s son may have food to eat: but Mephibosheth thy master’s son shall eat bread alway at my table. Now Ziba had fifteen sons and twenty servants.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "2-samuel-9-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Then said Ziba unto the king, According to all that my lord the king hath commanded his servant, so shall thy servant do. As for Mephibosheth, <span class=\"clarity-word\">said the king,</span> he shall eat at my table, as one of the king’s sons.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "2-samuel-9-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And Mephibosheth had a young son, whose name <span class=\"clarity-word\">was</span> Micha. And all that dwelt in the house of Ziba <span class=\"clarity-word\">were</span> servants unto Mephibosheth.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "2-samuel-9-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "So Mephibosheth dwelt in Jerusalem: for he did eat continually at the king’s table; and was lame on both his feet.",
+      "churchId": "p13"
+    }
+  ]
+}

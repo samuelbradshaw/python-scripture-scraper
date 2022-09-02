@@ -1,0 +1,169 @@
+{
+  "name": "Isaiah 60",
+  "abbrev": "Isa. 60",
+  "number": "60",
+  "churchUri": "/scriptures/ot/isa/60",
+  "paragraphs": [
+    {
+      "slug": "isaiah-60-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 60",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "isaiah-60-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Arise, shine; for thy light is come, and the glory of the <span class=\"small-caps\">Lord</span> is risen upon thee.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "isaiah-60-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "For, behold, the darkness shall cover the earth, and gross darkness the people: but the <span class=\"small-caps\">Lord</span> shall arise upon thee, and his glory shall be seen upon thee.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "isaiah-60-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And the Gentiles shall come to thy light, and kings to the brightness of thy rising.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "isaiah-60-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Lift up thine eyes round about, and see: all they gather themselves together, they come to thee: thy sons shall come from far, and thy daughters shall be nursed at <span class=\"clarity-word\">thy</span> side.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "isaiah-60-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Then thou shalt see, and flow together, and thine heart shall fear, and be enlarged; because the abundance of the sea shall be converted unto thee, the forces of the Gentiles shall come unto thee.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "isaiah-60-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "The multitude of camels shall cover thee, the dromedaries of Midian and Ephah; all they from Sheba shall come: they shall bring gold and incense; and they shall shew forth the praises of the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "isaiah-60-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "All the flocks of Kedar shall be gathered together unto thee, the rams of Nebaioth shall minister unto thee: they shall come up with acceptance on mine altar, and I will glorify the house of my glory.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "isaiah-60-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Who <span class=\"clarity-word\">are</span> these <span class=\"clarity-word\">that</span> fly as a cloud, and as the doves to their windows?",
+      "churchId": "p8"
+    },
+    {
+      "slug": "isaiah-60-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Surely the isles shall wait for me, and the ships of Tarshish first, to bring thy sons from far, their silver and their gold with them, unto the name of the <span class=\"small-caps\">Lord</span> thy God, and to the Holy One of Israel, because he hath glorified thee.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "isaiah-60-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And the sons of strangers shall build up thy walls, and their kings shall minister unto thee: for in my wrath I smote thee, but in my favour have I had mercy on thee.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "isaiah-60-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Therefore thy gates shall be open continually; they shall not be shut day nor night; that <span class=\"clarity-word\">men</span> may bring unto thee the forces of the Gentiles, and <span class=\"clarity-word\">that</span> their kings <span class=\"clarity-word\">may be</span> brought.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "isaiah-60-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "For the nation and kingdom that will not serve thee shall perish; yea, <span class=\"clarity-word\">those</span> nations shall be utterly wasted.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "isaiah-60-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "The glory of Lebanon shall come unto thee, the fir tree, the pine tree, and the box together, to beautify the place of my sanctuary; and I will make the place of my feet glorious.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "isaiah-60-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "The sons also of them that afflicted thee shall come bending unto thee; and all they that despised thee shall bow themselves down at the soles of thy feet; and they shall call thee, The city of the <span class=\"small-caps\">Lord</span>, The Zion of the Holy One of Israel.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "isaiah-60-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Whereas thou hast been forsaken and hated, so that no man went through <span class=\"clarity-word\">thee,</span> I will make thee an eternal excellency, a joy of many generations.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "isaiah-60-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Thou shalt also suck the milk of the Gentiles, and shalt suck the breast of kings: and thou shalt know that I the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">am</span> thy Saviour and thy Redeemer, the mighty One of Jacob.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "isaiah-60-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "For brass I will bring gold, and for iron I will bring silver, and for wood brass, and for stones iron: I will also make thy officers peace, and thine exactors righteousness.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "isaiah-60-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Violence shall no more be heard in thy land, wasting nor destruction within thy borders; but thou shalt call thy walls Salvation, and thy gates Praise.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "isaiah-60-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "The sun shall be no more thy light by day; neither for brightness shall the moon give light unto thee: but the <span class=\"small-caps\">Lord</span> shall be unto thee an everlasting light, and thy God thy glory.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "isaiah-60-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Thy sun shall no more go down; neither shall thy moon withdraw itself: for the <span class=\"small-caps\">Lord</span> shall be thine everlasting light, and the days of thy mourning shall be ended.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "isaiah-60-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Thy people also <span class=\"clarity-word\">shall be</span> all righteous: they shall inherit the land for ever, the branch of my planting, the work of my hands, that I may be glorified.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "isaiah-60-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "A little one shall become a thousand, and a small one a strong nation: I the <span class=\"small-caps\">Lord</span> will hasten it in his time.",
+      "churchId": "p22"
+    }
+  ]
+}

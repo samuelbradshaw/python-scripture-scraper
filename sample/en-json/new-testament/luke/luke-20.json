@@ -1,0 +1,344 @@
+{
+  "name": "Luke 20",
+  "abbrev": "Luke 20",
+  "number": "20",
+  "churchUri": "/scriptures/nt/luke/20",
+  "paragraphs": [
+    {
+      "slug": "luke-20-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 20",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "luke-20-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And it came to pass, <span class=\"clarity-word\">that</span> on one of those days, as he taught the people in the temple, and preached the gospel, the chief priests and the scribes came upon <span class=\"clarity-word\">him</span> with the elders,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "luke-20-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And spake unto him, saying, Tell us, by what authority doest thou these things? or who is he that gave thee this authority?",
+      "churchId": "p2"
+    },
+    {
+      "slug": "luke-20-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And he answered and said unto them, I will also ask you one thing; and answer me:",
+      "churchId": "p3"
+    },
+    {
+      "slug": "luke-20-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "The baptism of John, was it from heaven, or of men?",
+      "churchId": "p4"
+    },
+    {
+      "slug": "luke-20-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And they reasoned with themselves, saying, If we shall say, From heaven; he will say, Why then believed ye him not?",
+      "churchId": "p5"
+    },
+    {
+      "slug": "luke-20-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "But and if we say, Of men; all the people will stone us: for they be persuaded that John was a prophet.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "luke-20-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And they answered, that they could not tell whence <span class=\"clarity-word\">it was.</span>",
+      "churchId": "p7"
+    },
+    {
+      "slug": "luke-20-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And Jesus said unto them, Neither tell I you by what authority I do these things.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "luke-20-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Then began he to speak to the people this parable; A certain man planted a vineyard, and let it forth to husbandmen, and went into a far country for a long time.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "luke-20-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And at the season he sent a servant to the husbandmen, that they should give him of the fruit of the vineyard: but the husbandmen beat him, and sent <span class=\"clarity-word\">him</span> away empty.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "luke-20-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And again he sent another servant: and they beat him also, and entreated <span class=\"clarity-word\">him</span> shamefully, and sent <span class=\"clarity-word\">him</span> away empty.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "luke-20-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And again he sent a third: and they wounded him also, and cast <span class=\"clarity-word\">him</span> out.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "luke-20-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Then said the lord of the vineyard, What shall I do? I will send my beloved son: it may be they will reverence <span class=\"clarity-word\">him</span> when they see him.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "luke-20-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "But when the husbandmen saw him, they reasoned among themselves, saying, This is the heir: come, let us kill him, that the inheritance may be ours.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "luke-20-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "So they cast him out of the vineyard, and killed <span class=\"clarity-word\">him.</span> What therefore shall the lord of the vineyard do unto them?",
+      "churchId": "p15"
+    },
+    {
+      "slug": "luke-20-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "He shall come and destroy these husbandmen, and shall give the vineyard to others. And when they heard <span class=\"clarity-word\">it,</span> they said, God forbid.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "luke-20-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And he beheld them, and said, What is this then that is written, The stone which the builders rejected, the same is become the head of the corner?",
+      "churchId": "p17"
+    },
+    {
+      "slug": "luke-20-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Whosoever shall fall upon that stone shall be broken; but on whomsoever it shall fall, it will grind him to powder.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "luke-20-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "¶ And the chief priests and the scribes the same hour sought to lay hands on him; and they feared the people: for they perceived that he had spoken this parable against them.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "luke-20-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And they watched <span class=\"clarity-word\">him,</span> and sent forth spies, which should feign themselves just men, that they might take hold of his words, that so they might deliver him unto the power and authority of the governor.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "luke-20-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And they asked him, saying, Master, we know that thou sayest and teachest rightly, neither acceptest thou the person <span class=\"clarity-word\">of any,</span> but teachest the way of God truly:",
+      "churchId": "p21"
+    },
+    {
+      "slug": "luke-20-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Is it lawful for us to give tribute unto Cæsar, or no?",
+      "churchId": "p22"
+    },
+    {
+      "slug": "luke-20-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "But he perceived their craftiness, and said unto them, Why tempt ye me?",
+      "churchId": "p23"
+    },
+    {
+      "slug": "luke-20-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Shew me a penny. Whose image and superscription hath it? They answered and said, Cæsar’s.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "luke-20-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And he said unto them, Render therefore unto Cæsar the things which be Cæsar’s, and unto God the things which be God’s.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "luke-20-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And they could not take hold of his words before the people: and they marvelled at his answer, and held their peace.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "luke-20-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "¶ Then came to <span class=\"clarity-word\">him</span> certain of the Sadducees, which deny that there is any resurrection; and they asked him,",
+      "churchId": "p27"
+    },
+    {
+      "slug": "luke-20-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "Saying, Master, Moses wrote unto us, If any man’s brother die, having a wife, and he die without children, that his brother should take his wife, and raise up seed unto his brother.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "luke-20-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "There were therefore seven brethren: and the first took a wife, and died without children.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "luke-20-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And the second took her to wife, and he died childless.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "luke-20-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "And the third took her; and in like manner the seven also: and they left no children, and died.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "luke-20-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "Last of all the woman died also.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "luke-20-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "Therefore in the resurrection whose wife of them is she? for seven had her to wife.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "luke-20-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "And Jesus answering said unto them, The children of this world marry, and are given in marriage:",
+      "churchId": "p34"
+    },
+    {
+      "slug": "luke-20-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "But they which shall be accounted worthy to obtain that world, and the resurrection from the dead, neither marry, nor are given in marriage:",
+      "churchId": "p35"
+    },
+    {
+      "slug": "luke-20-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "Neither can they die any more: for they are equal unto the angels; and are the children of God, being the children of the resurrection.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "luke-20-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "Now that the dead are raised, even Moses shewed at the bush, when he calleth the Lord the God of Abraham, and the God of Isaac, and the God of Jacob.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "luke-20-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "For he is not a God of the dead, but of the living: for all live unto him.",
+      "churchId": "p38"
+    },
+    {
+      "slug": "luke-20-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "¶ Then certain of the scribes answering said, Master, thou hast well said.",
+      "churchId": "p39"
+    },
+    {
+      "slug": "luke-20-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "And after that they durst not ask him any <span class=\"clarity-word\">question at all.</span>",
+      "churchId": "p40"
+    },
+    {
+      "slug": "luke-20-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "And he said unto them, How say they that Christ is David’s son?",
+      "churchId": "p41"
+    },
+    {
+      "slug": "luke-20-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "And David himself saith in the book of Psalms, The <span class=\"small-caps\">Lord</span> said unto my Lord, Sit thou on my right hand,",
+      "churchId": "p42"
+    },
+    {
+      "slug": "luke-20-p43",
+      "type": "verse",
+      "number": "43",
+      "content": "Till I make thine enemies thy footstool.",
+      "churchId": "p43"
+    },
+    {
+      "slug": "luke-20-p44",
+      "type": "verse",
+      "number": "44",
+      "content": "David therefore calleth him Lord, how is he then his son?",
+      "churchId": "p44"
+    },
+    {
+      "slug": "luke-20-p45",
+      "type": "verse",
+      "number": "45",
+      "content": "¶ Then in the audience of all the people he said unto his disciples,",
+      "churchId": "p45"
+    },
+    {
+      "slug": "luke-20-p46",
+      "type": "verse",
+      "number": "46",
+      "content": "Beware of the scribes, which desire to walk in long robes, and love greetings in the markets, and the highest seats in the synagogues, and the chief rooms at feasts;",
+      "churchId": "p46"
+    },
+    {
+      "slug": "luke-20-p47",
+      "type": "verse",
+      "number": "47",
+      "content": "Which devour widows’ houses, and for a shew make long prayers: the same shall receive greater damnation.",
+      "churchId": "p47"
+    }
+  ]
+}

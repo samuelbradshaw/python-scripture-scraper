@@ -1,0 +1,148 @@
+{
+  "name": "Galatians 6",
+  "abbrev": "Gal. 6",
+  "number": "6",
+  "churchUri": "/scriptures/nt/gal/6",
+  "paragraphs": [
+    {
+      "slug": "galations-6-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 6",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "galations-6-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Brethren, if a man be overtaken in a fault, ye which are spiritual, restore such an one in the spirit of meekness; considering thyself, lest thou also be tempted.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "galations-6-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Bear ye one another’s burdens, and so fulfil the law of Christ.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "galations-6-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "For if a man think himself to be something, when he is nothing, he deceiveth himself.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "galations-6-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "But let every man prove his own work, and then shall he have rejoicing in himself alone, and not in another.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "galations-6-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "For every man shall bear his own burden.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "galations-6-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Let him that is taught in the word communicate unto him that teacheth in all good things.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "galations-6-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Be not deceived; God is not mocked: for whatsoever a man soweth, that shall he also reap.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "galations-6-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "For he that soweth to his flesh shall of the flesh reap corruption; but he that soweth to the Spirit shall of the Spirit reap life everlasting.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "galations-6-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And let us not be weary in well doing: for in due season we shall reap, if we faint not.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "galations-6-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "As we have therefore opportunity, let us do good unto all <span class=\"clarity-word\">men,</span> especially unto them who are of the household of faith.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "galations-6-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Ye see how large a letter I have written unto you with mine own hand.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "galations-6-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "As many as desire to make a fair shew in the flesh, they constrain you to be circumcised; only lest they should suffer persecution for the cross of Christ.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "galations-6-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "For neither they themselves who are circumcised keep the law; but desire to have you circumcised, that they may glory in your flesh.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "galations-6-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "But God forbid that I should glory, save in the cross of our Lord Jesus Christ, by whom the world is crucified unto me, and I unto the world.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "galations-6-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "For in Christ Jesus neither circumcision availeth any thing, nor uncircumcision, but a new creature.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "galations-6-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And as many as walk according to this rule, peace <span class=\"clarity-word\">be</span> on them, and mercy, and upon the Israel of God.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "galations-6-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "From henceforth let no man trouble me: for I bear in my body the marks of the Lord Jesus.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "galations-6-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Brethren, the grace of our Lord Jesus Christ <span class=\"clarity-word\">be</span> with your spirit. Amen.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "galations-6-closing1",
+      "type": "paragraph",
+      "number": null,
+      "content": "¶ Unto the Galatians written from Rome.",
+      "churchId": "closing1"
+    }
+  ]
+}

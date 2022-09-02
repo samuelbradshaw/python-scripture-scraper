@@ -1,0 +1,232 @@
+{
+  "name": "1 Corinthians 12",
+  "abbrev": "1 Cor. 12",
+  "number": "12",
+  "churchUri": "/scriptures/nt/1-cor/12",
+  "paragraphs": [
+    {
+      "slug": "1-corinthians-12-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 12",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "1-corinthians-12-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Now concerning spiritual <span class=\"clarity-word\">gifts,</span> brethren, I would not have you ignorant.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "1-corinthians-12-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Ye know that ye were Gentiles, carried away unto these dumb idols, even as ye were led.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "1-corinthians-12-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Wherefore I give you to understand, that no man speaking by the Spirit of God calleth Jesus accursed: and <span class=\"clarity-word\">that</span> no man can say that Jesus is the Lord, but by the Holy Ghost.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "1-corinthians-12-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Now there are diversities of gifts, but the same Spirit.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "1-corinthians-12-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And there are differences of administrations, but the same Lord.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "1-corinthians-12-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And there are diversities of operations, but it is the same God which worketh all in all.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "1-corinthians-12-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "But the manifestation of the Spirit is given to every man to profit withal.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "1-corinthians-12-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "For to one is given by the Spirit the word of wisdom; to another the word of knowledge by the same Spirit;",
+      "churchId": "p8"
+    },
+    {
+      "slug": "1-corinthians-12-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "To another faith by the same Spirit; to another the gifts of healing by the same Spirit;",
+      "churchId": "p9"
+    },
+    {
+      "slug": "1-corinthians-12-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "To another the working of miracles; to another prophecy; to another discerning of spirits; to another <span class=\"clarity-word\">divers</span> kinds of tongues; to another the interpretation of tongues:",
+      "churchId": "p10"
+    },
+    {
+      "slug": "1-corinthians-12-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "But all these worketh that one and the selfsame Spirit, dividing to every man severally as he will.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "1-corinthians-12-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "For as the body is one, and hath many members, and all the members of that one body, being many, are one body: so also <span class=\"clarity-word\">is</span> Christ.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "1-corinthians-12-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "For by one Spirit are we all baptized into one body, whether <span class=\"clarity-word\">we be</span> Jews or Gentiles, whether <span class=\"clarity-word\">we be</span> bond or free; and have been all made to drink into one Spirit.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "1-corinthians-12-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "For the body is not one member, but many.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "1-corinthians-12-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "If the foot shall say, Because I am not the hand, I am not of the body; is it therefore not of the body?",
+      "churchId": "p15"
+    },
+    {
+      "slug": "1-corinthians-12-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And if the ear shall say, Because I am not the eye, I am not of the body; is it therefore not of the body?",
+      "churchId": "p16"
+    },
+    {
+      "slug": "1-corinthians-12-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "If the whole body <span class=\"clarity-word\">were</span> an eye, where <span class=\"clarity-word\">were</span> the hearing? If the whole <span class=\"clarity-word\">were</span> hearing, where <span class=\"clarity-word\">were</span> the smelling?",
+      "churchId": "p17"
+    },
+    {
+      "slug": "1-corinthians-12-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "But now hath God set the members every one of them in the body, as it hath pleased him.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "1-corinthians-12-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And if they were all one member, where <span class=\"clarity-word\">were</span> the body?",
+      "churchId": "p19"
+    },
+    {
+      "slug": "1-corinthians-12-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "But now <span class=\"clarity-word\">are they</span> many members, yet but one body.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "1-corinthians-12-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And the eye cannot say unto the hand, I have no need of thee: nor again the head to the feet, I have no need of you.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "1-corinthians-12-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Nay, much more those members of the body, which seem to be more feeble, are necessary:",
+      "churchId": "p22"
+    },
+    {
+      "slug": "1-corinthians-12-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And those <span class=\"clarity-word\">members</span> of the body, which we think to be less honourable, upon these we bestow more abundant honour; and our uncomely <span class=\"clarity-word\">parts</span> have more abundant comeliness.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "1-corinthians-12-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "For our comely <span class=\"clarity-word\">parts</span> have no need: but God hath tempered the body together, having given more abundant honour to that <span class=\"clarity-word\">part</span> which lacked:",
+      "churchId": "p24"
+    },
+    {
+      "slug": "1-corinthians-12-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "That there should be no schism in the body; but <span class=\"clarity-word\">that</span> the members should have the same care one for another.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "1-corinthians-12-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And whether one member suffer, all the members suffer with it; or one member be honoured, all the members rejoice with it.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "1-corinthians-12-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "Now ye are the body of Christ, and members in particular.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "1-corinthians-12-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And God hath set some in the church, first apostles, secondarily prophets, thirdly teachers, after that miracles, then gifts of healings, helps, governments, diversities of tongues.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "1-corinthians-12-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "<span class=\"clarity-word\">Are</span> all apostles? <span class=\"clarity-word\">are</span> all prophets? <span class=\"clarity-word\">are</span> all teachers? <span class=\"clarity-word\">are</span> all workers of miracles?",
+      "churchId": "p29"
+    },
+    {
+      "slug": "1-corinthians-12-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "Have all the gifts of healing? do all speak with tongues? do all interpret?",
+      "churchId": "p30"
+    },
+    {
+      "slug": "1-corinthians-12-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "But covet earnestly the best gifts: and yet shew I unto you a more excellent way.",
+      "churchId": "p31"
+    }
+  ]
+}

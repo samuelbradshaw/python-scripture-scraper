@@ -1,0 +1,92 @@
+{
+  "name": "Isaiah 61",
+  "abbrev": "Isa. 61",
+  "number": "61",
+  "churchUri": "/scriptures/ot/isa/61",
+  "paragraphs": [
+    {
+      "slug": "isaiah-61-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 61",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "isaiah-61-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "The Spirit of the Lord <span class=\"small-caps\">God</span> <span class=\"clarity-word\">is</span> upon me; because the <span class=\"small-caps\">Lord</span> hath anointed me to preach good tidings unto the meek; he hath sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to <span class=\"clarity-word\">them that are</span> bound;",
+      "churchId": "p1"
+    },
+    {
+      "slug": "isaiah-61-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "To proclaim the acceptable year of the <span class=\"small-caps\">Lord</span>, and the day of vengeance of our God; to comfort all that mourn;",
+      "churchId": "p2"
+    },
+    {
+      "slug": "isaiah-61-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "To appoint unto them that mourn in Zion, to give unto them beauty for ashes, the oil of joy for mourning, the garment of praise for the spirit of heaviness; that they might be called trees of righteousness, the planting of the <span class=\"small-caps\">Lord</span>, that he might be glorified.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "isaiah-61-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "¶ And they shall build the old wastes, they shall raise up the former desolations, and they shall repair the waste cities, the desolations of many generations.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "isaiah-61-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And strangers shall stand and feed your flocks, and the sons of the alien <span class=\"clarity-word\">shall be</span> your plowmen and your vinedressers.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "isaiah-61-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "But ye shall be named the Priests of the <span class=\"small-caps\">Lord</span>: <span class=\"clarity-word\">men</span> shall call you the Ministers of our God: ye shall eat the riches of the Gentiles, and in their glory shall ye boast yourselves.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "isaiah-61-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "¶ For your shame <span class=\"clarity-word\">ye shall have</span> double; and <span class=\"clarity-word\">for</span> confusion they shall rejoice in their portion: therefore in their land they shall possess the double: everlasting joy shall be unto them.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "isaiah-61-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "For I the <span class=\"small-caps\">Lord</span> love judgment, I hate robbery for burnt offering; and I will direct their work in truth, and I will make an everlasting covenant with them.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "isaiah-61-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And their seed shall be known among the Gentiles, and their offspring among the people: all that see them shall acknowledge them, that they <span class=\"clarity-word\">are</span> the seed <span class=\"clarity-word\">which</span> the <span class=\"small-caps\">Lord</span> hath blessed.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "isaiah-61-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "I will greatly rejoice in the <span class=\"small-caps\">Lord</span>, my soul shall be joyful in my God; for he hath clothed me with the garments of salvation, he hath covered me with the robe of righteousness, as a bridegroom decketh <span class=\"clarity-word\">himself</span> with ornaments, and as a bride adorneth <span class=\"clarity-word\">herself</span> with her jewels.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "isaiah-61-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "For as the earth bringeth forth her bud, and as the garden causeth the things that are sown in it to spring forth; so the Lord <span class=\"small-caps\">God</span> will cause righteousness and praise to spring forth before all the nations.",
+      "churchId": "p11"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "name": "Joshua 14",
+  "abbrev": "Josh. 14",
+  "number": "14",
+  "churchUri": "/scriptures/ot/josh/14",
+  "paragraphs": [
+    {
+      "slug": "joshua-14-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 14",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "joshua-14-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And these <span class=\"clarity-word\">are the countries</span> which the children of Israel inherited in the land of Canaan, which Eleazar the priest, and Joshua the son of Nun, and the heads of the fathers of the tribes of the children of Israel, distributed for inheritance to them.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "joshua-14-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "By lot <span class=\"clarity-word\">was</span> their inheritance, as the <span class=\"small-caps\">Lord</span> commanded by the hand of Moses, for the nine tribes, and <span class=\"clarity-word\">for</span> the half tribe.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "joshua-14-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "For Moses had given the inheritance of two tribes and an half tribe on the other side Jordan: but unto the Levites he gave none inheritance among them.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "joshua-14-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "For the children of Joseph were two tribes, Manasseh and Ephraim: therefore they gave no part unto the Levites in the land, save cities to dwell <span class=\"clarity-word\">in,</span> with their suburbs for their cattle and for their substance.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "joshua-14-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "As the <span class=\"small-caps\">Lord</span> commanded Moses, so the children of Israel did, and they divided the land.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "joshua-14-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "¶ Then the children of Judah came unto Joshua in Gilgal: and Caleb the son of Jephunneh the Kenezite said unto him, Thou knowest the thing that the <span class=\"small-caps\">Lord</span> said unto Moses the man of God concerning me and thee in Kadesh-barnea.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "joshua-14-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Forty years old <span class=\"clarity-word\">was</span> I when Moses the servant of the <span class=\"small-caps\">Lord</span> sent me from Kadesh-barnea to espy out the land; and I brought him word again as <span class=\"clarity-word\">it was</span> in mine heart.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "joshua-14-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Nevertheless my brethren that went up with me made the heart of the people melt: but I wholly followed the <span class=\"small-caps\">Lord</span> my God.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "joshua-14-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And Moses sware on that day, saying, Surely the land whereon thy feet have trodden shall be thine inheritance, and thy children’s for ever, because thou hast wholly followed the <span class=\"small-caps\">Lord</span> my God.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "joshua-14-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And now, behold, the <span class=\"small-caps\">Lord</span> hath kept me alive, as he said, these forty and five years, even since the <span class=\"small-caps\">Lord</span> spake this word unto Moses, while <span class=\"clarity-word\">the children of</span> Israel wandered in the wilderness: and now, lo, I <span class=\"clarity-word\">am</span> this day fourscore and five years old.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "joshua-14-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "As yet I <span class=\"clarity-word\">am as</span> strong this day as <span class=\"clarity-word\">I was</span> in the day that Moses sent me: as my strength <span class=\"clarity-word\">was</span> then, even so <span class=\"clarity-word\">is</span> my strength now, for war, both to go out, and to come in.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "joshua-14-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Now therefore give me this mountain, whereof the <span class=\"small-caps\">Lord</span> spake in that day; for thou heardest in that day how the Anakims <span class=\"clarity-word\">were</span> there, and <span class=\"clarity-word\">that</span> the cities <span class=\"clarity-word\">were</span> great <span class=\"clarity-word\">and</span> fenced: if so be the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">will be</span> with me, then I shall be able to drive them out, as the <span class=\"small-caps\">Lord</span> said.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "joshua-14-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And Joshua blessed him, and gave unto Caleb the son of Jephunneh Hebron for an inheritance.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "joshua-14-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Hebron therefore became the inheritance of Caleb the son of Jephunneh the Kenezite unto this day, because that he wholly followed the <span class=\"small-caps\">Lord</span> God of Israel.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "joshua-14-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And the name of Hebron before <span class=\"clarity-word\">was</span> Kirjath-arba; <span class=\"clarity-word\">which Arba was</span> a great man among the Anakims. And the land had rest from war.",
+      "churchId": "p15"
+    }
+  ]
+}

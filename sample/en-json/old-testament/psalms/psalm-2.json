@@ -1,0 +1,99 @@
+{
+  "name": "Psalm 2",
+  "abbrev": "Psalm 2",
+  "number": "2",
+  "churchUri": "/scriptures/ot/ps/2",
+  "paragraphs": [
+    {
+      "slug": "psalm-2-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 2",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-2-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Why do the heathen rage, and the people imagine a vain thing?",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-2-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "The kings of the earth set themselves, and the rulers take counsel together, against the <span class=\"small-caps\">Lord</span>, and against his anointed, <span class=\"clarity-word\">saying,</span>",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-2-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Let us break their bands asunder, and cast away their cords from us.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-2-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "He that sitteth in the heavens shall laugh: the Lord shall have them in derision.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-2-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Then shall he speak unto them in his wrath, and vex them in his sore displeasure.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-2-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Yet have I set my king upon my holy hill of Zion.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-2-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "I will declare the decree: the <span class=\"small-caps\">Lord</span> hath said unto me, Thou <span class=\"clarity-word\">art</span> my Son; this day have I begotten thee.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-2-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Ask of me, and I shall give <span class=\"clarity-word\">thee</span> the heathen <span class=\"clarity-word\">for</span> thine inheritance, and the uttermost parts of the earth <span class=\"clarity-word\">for</span> thy possession.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "psalm-2-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Thou shalt break them with a rod of iron; thou shalt dash them in pieces like a potter’s vessel.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "psalm-2-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Be wise now therefore, O ye kings: be instructed, ye judges of the earth.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "psalm-2-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Serve the <span class=\"small-caps\">Lord</span> with fear, and rejoice with trembling.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "psalm-2-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Kiss the Son, lest he be angry, and ye perish <span class=\"clarity-word\">from</span> the way, when his wrath is kindled but a little. Blessed <span class=\"clarity-word\">are</span> all they that put their trust in him.",
+      "churchId": "p12"
+    }
+  ]
+}

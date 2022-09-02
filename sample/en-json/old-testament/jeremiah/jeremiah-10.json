@@ -1,0 +1,190 @@
+{
+  "name": "Jeremiah 10",
+  "abbrev": "Jer. 10",
+  "number": "10",
+  "churchUri": "/scriptures/ot/jer/10",
+  "paragraphs": [
+    {
+      "slug": "jeremiah-10-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 10",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "jeremiah-10-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Hear ye the word which the <span class=\"small-caps\">Lord</span> speaketh unto you, O house of Israel:",
+      "churchId": "p1"
+    },
+    {
+      "slug": "jeremiah-10-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Thus saith the <span class=\"small-caps\">Lord</span>, Learn not the way of the heathen, and be not dismayed at the signs of heaven; for the heathen are dismayed at them.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "jeremiah-10-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "For the customs of the people <span class=\"clarity-word\">are</span> vain: for <span class=\"clarity-word\">one</span> cutteth a tree out of the forest, the work of the hands of the workman, with the axe.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "jeremiah-10-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "They deck it with silver and with gold; they fasten it with nails and with hammers, that it move not.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "jeremiah-10-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "They <span class=\"clarity-word\">are</span> upright as the palm tree, but speak not: they must needs be borne, because they cannot go. Be not afraid of them; for they cannot do evil, neither also <span class=\"clarity-word\">is it</span> in them to do good.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "jeremiah-10-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Forasmuch as <span class=\"clarity-word\">there is</span> none like unto thee, O <span class=\"small-caps\">Lord</span>; thou <span class=\"clarity-word\">art</span> great, and thy name <span class=\"clarity-word\">is</span> great in might.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "jeremiah-10-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Who would not fear thee, O King of nations? for to thee doth it appertain: forasmuch as among all the wise <span class=\"clarity-word\">men</span> of the nations, and in all their kingdoms, <span class=\"clarity-word\">there is</span> none like unto thee.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "jeremiah-10-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "But they are altogether brutish and foolish: the stock <span class=\"clarity-word\">is</span> a doctrine of vanities.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "jeremiah-10-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Silver spread into plates is brought from Tarshish, and gold from Uphaz, the work of the workman, and of the hands of the founder: blue and purple <span class=\"clarity-word\">is</span> their clothing: they <span class=\"clarity-word\">are</span> all the work of cunning <span class=\"clarity-word\">men.</span>",
+      "churchId": "p9"
+    },
+    {
+      "slug": "jeremiah-10-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "But the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">is</span> the true God, he <span class=\"clarity-word\">is</span> the living God, and an everlasting king: at his wrath the earth shall tremble, and the nations shall not be able to abide his indignation.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "jeremiah-10-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Thus shall ye say unto them, The gods that have not made the heavens and the earth, <span class=\"clarity-word\">even</span> they shall perish from the earth, and from under these heavens.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "jeremiah-10-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "He hath made the earth by his power, he hath established the world by his wisdom, and hath stretched out the heavens by his discretion.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "jeremiah-10-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "When he uttereth his voice, <span class=\"clarity-word\">there is</span> a multitude of waters in the heavens, and he causeth the vapours to ascend from the ends of the earth; he maketh lightnings with rain, and bringeth forth the wind out of his treasures.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "jeremiah-10-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Every man is brutish in <span class=\"clarity-word\">his</span> knowledge: every founder is confounded by the graven image: for his molten image <span class=\"clarity-word\">is</span> falsehood, and <span class=\"clarity-word\">there is</span> no breath in them.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "jeremiah-10-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "They <span class=\"clarity-word\">are</span> vanity, <span class=\"clarity-word\">and</span> the work of errors: in the time of their visitation they shall perish.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "jeremiah-10-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "The portion of Jacob <span class=\"clarity-word\">is</span> not like them: for he <span class=\"clarity-word\">is</span> the former of all <span class=\"clarity-word\">things;</span> and Israel <span class=\"clarity-word\">is</span> the rod of his inheritance: The <span class=\"small-caps\">Lord</span> of hosts <span class=\"clarity-word\">is</span> his name.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "jeremiah-10-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "¶ Gather up thy wares out of the land, O inhabitant of the fortress.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "jeremiah-10-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "For thus saith the <span class=\"small-caps\">Lord</span>, Behold, I will sling out the inhabitants of the land at this once, and will distress them, that they may find <span class=\"clarity-word\">it so.</span>",
+      "churchId": "p18"
+    },
+    {
+      "slug": "jeremiah-10-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "¶ Woe is me for my hurt! my wound is grievous: but I said, Truly this <span class=\"clarity-word\">is</span> a grief, and I must bear it.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "jeremiah-10-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "My tabernacle is spoiled, and all my cords are broken: my children are gone forth of me, and they <span class=\"clarity-word\">are</span> not: <span class=\"clarity-word\">there is</span> none to stretch forth my tent any more, and to set up my curtains.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "jeremiah-10-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "For the pastors are become brutish, and have not sought the <span class=\"small-caps\">Lord</span>: therefore they shall not prosper, and all their flocks shall be scattered.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "jeremiah-10-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Behold, the noise of the bruit is come, and a great commotion out of the north country, to make the cities of Judah desolate, <span class=\"clarity-word\">and</span> a den of dragons.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "jeremiah-10-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "¶ O <span class=\"small-caps\">Lord</span>, I know that the way of man <span class=\"clarity-word\">is</span> not in himself: <span class=\"clarity-word\">it is</span> not in man that walketh to direct his steps.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "jeremiah-10-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "O <span class=\"small-caps\">Lord</span>, correct me, but with judgment; not in thine anger, lest thou bring me to nothing.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "jeremiah-10-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Pour out thy fury upon the heathen that know thee not, and upon the families that call not on thy name: for they have eaten up Jacob, and devoured him, and consumed him, and have made his habitation desolate.",
+      "churchId": "p25"
+    }
+  ]
+}

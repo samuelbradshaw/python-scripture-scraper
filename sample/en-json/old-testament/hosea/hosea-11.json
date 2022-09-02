@@ -1,0 +1,99 @@
+{
+  "name": "Hosea 11",
+  "abbrev": "Hosea 11",
+  "number": "11",
+  "churchUri": "/scriptures/ot/hosea/11",
+  "paragraphs": [
+    {
+      "slug": "hosea-11-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 11",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "hosea-11-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "When Israel <span class=\"clarity-word\">was</span> a child, then I loved him, and called my son out of Egypt.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "hosea-11-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "<span class=\"clarity-word\">As</span> they called them, so they went from them: they sacrificed unto Baalim, and burned incense to graven images.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "hosea-11-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "I taught Ephraim also to go, taking them by their arms; but they knew not that I healed them.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "hosea-11-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "I drew them with cords of a man, with bands of love: and I was to them as they that take off the yoke on their jaws, and I laid meat unto them.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "hosea-11-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "¶ He shall not return into the land of Egypt, but the Assyrian shall be his king, because they refused to return.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "hosea-11-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And the sword shall abide on his cities, and shall consume his branches, and devour <span class=\"clarity-word\">them,</span> because of their own counsels.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "hosea-11-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And my people are bent to backsliding from me: though they called them to the most High, none at all would exalt <span class=\"clarity-word\">him.</span>",
+      "churchId": "p7"
+    },
+    {
+      "slug": "hosea-11-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "How shall I give thee up, Ephraim? <span class=\"clarity-word\">how</span> shall I deliver thee, Israel? how shall I make thee as Admah? <span class=\"clarity-word\">how</span> shall I set thee as Zeboim? mine heart is turned within me, my repentings are kindled together.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "hosea-11-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "I will not execute the fierceness of mine anger, I will not return to destroy Ephraim: for I <span class=\"clarity-word\">am</span> God, and not man; the Holy One in the midst of thee: and I will not enter into the city.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "hosea-11-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "They shall walk after the <span class=\"small-caps\">Lord</span>: he shall roar like a lion: when he shall roar, then the children shall tremble from the west.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "hosea-11-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "They shall tremble as a bird out of Egypt, and as a dove out of the land of Assyria: and I will place them in their houses, saith the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "hosea-11-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Ephraim compasseth me about with lies, and the house of Israel with deceit: but Judah yet ruleth with God, and is faithful with the saints.",
+      "churchId": "p12"
+    }
+  ]
+}

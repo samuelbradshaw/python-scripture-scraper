@@ -1,0 +1,162 @@
+{
+  "name": "Psalm 135",
+  "abbrev": "Psalm 135",
+  "number": "135",
+  "churchUri": "/scriptures/ot/ps/135",
+  "paragraphs": [
+    {
+      "slug": "psalm-135-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 135",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-135-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Praise ye the <span class=\"small-caps\">Lord</span>. Praise ye the name of the <span class=\"small-caps\">Lord</span>; praise <span class=\"clarity-word\">him,</span> O ye servants of the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-135-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Ye that stand in the house of the <span class=\"small-caps\">Lord</span>, in the courts of the house of our God,",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-135-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Praise the <span class=\"small-caps\">Lord</span>; for the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">is</span> good: sing praises unto his name; for <span class=\"clarity-word\">it is</span> pleasant.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-135-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "For the <span class=\"small-caps\">Lord</span> hath chosen Jacob unto himself, <span class=\"clarity-word\">and</span> Israel for his peculiar treasure.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-135-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "For I know that the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">is</span> great, and <span class=\"clarity-word\">that</span> our Lord <span class=\"clarity-word\">is</span> above all gods.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-135-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Whatsoever the <span class=\"small-caps\">Lord</span> pleased, <span class=\"clarity-word\">that</span> did he in heaven, and in earth, in the seas, and all deep places.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-135-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "He causeth the vapours to ascend from the ends of the earth; he maketh lightnings for the rain; he bringeth the wind out of his treasuries.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-135-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Who smote the firstborn of Egypt, both of man and beast.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "psalm-135-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "<span class=\"clarity-word\">Who</span> sent tokens and wonders into the midst of thee, O Egypt, upon Pharaoh, and upon all his servants.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "psalm-135-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Who smote great nations, and slew mighty kings;",
+      "churchId": "p10"
+    },
+    {
+      "slug": "psalm-135-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Sihon king of the Amorites, and Og king of Bashan, and all the kingdoms of Canaan:",
+      "churchId": "p11"
+    },
+    {
+      "slug": "psalm-135-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And gave their land <span class=\"clarity-word\">for</span> an heritage, an heritage unto Israel his people.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "psalm-135-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Thy name, O <span class=\"small-caps\">Lord</span>, <span class=\"clarity-word\">endureth</span> for ever; <span class=\"clarity-word\">and</span> thy memorial, O <span class=\"small-caps\">Lord</span>, throughout all generations.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "psalm-135-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "For the <span class=\"small-caps\">Lord</span> will judge his people, and he will repent himself concerning his servants.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "psalm-135-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "The idols of the heathen <span class=\"clarity-word\">are</span> silver and gold, the work of men’s hands.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "psalm-135-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "They have mouths, but they speak not; eyes have they, but they see not;",
+      "churchId": "p16"
+    },
+    {
+      "slug": "psalm-135-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "They have ears, but they hear not; neither is there <span class=\"clarity-word\">any</span> breath in their mouths.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "psalm-135-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "They that make them are like unto them: <span class=\"clarity-word\">so is</span> every one that trusteth in them.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "psalm-135-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Bless the <span class=\"small-caps\">Lord</span>, O house of Israel: bless the <span class=\"small-caps\">Lord</span>, O house of Aaron:",
+      "churchId": "p19"
+    },
+    {
+      "slug": "psalm-135-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Bless the <span class=\"small-caps\">Lord</span>, O house of Levi: ye that fear the <span class=\"small-caps\">Lord</span>, bless the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "psalm-135-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Blessed be the <span class=\"small-caps\">Lord</span> out of Zion, which dwelleth at Jerusalem. Praise ye the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p21"
+    }
+  ]
+}

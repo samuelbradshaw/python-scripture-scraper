@@ -1,0 +1,120 @@
+{
+  "name": "Hosea 10",
+  "abbrev": "Hosea 10",
+  "number": "10",
+  "churchUri": "/scriptures/ot/hosea/10",
+  "paragraphs": [
+    {
+      "slug": "hosea-10-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 10",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "hosea-10-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Israel <span class=\"clarity-word\">is</span> an empty vine, he bringeth forth fruit unto himself: according to the multitude of his fruit he hath increased the altars; according to the goodness of his land they have made goodly images.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "hosea-10-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Their heart is divided; now shall they be found faulty: he shall break down their altars, he shall spoil their images.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "hosea-10-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "For now they shall say, We have no king, because we feared not the <span class=\"small-caps\">Lord</span>; what then should a king do to us?",
+      "churchId": "p3"
+    },
+    {
+      "slug": "hosea-10-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "They have spoken words, swearing falsely in making a covenant: thus judgment springeth up as hemlock in the furrows of the field.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "hosea-10-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "The inhabitants of Samaria shall fear because of the calves of Beth-aven: for the people thereof shall mourn over it, and the priests thereof <span class=\"clarity-word\">that</span> rejoiced on it, for the glory thereof, because it is departed from it.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "hosea-10-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "It shall be also carried unto Assyria <span class=\"clarity-word\">for</span> a present to king Jareb: Ephraim shall receive shame, and Israel shall be ashamed of his own counsel.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "hosea-10-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "<span class=\"clarity-word\">As for</span> Samaria, her king is cut off as the foam upon the water.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "hosea-10-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "The high places also of Aven, the sin of Israel, shall be destroyed: the thorn and the thistle shall come up on their altars; and they shall say to the mountains, Cover us; and to the hills, Fall on us.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "hosea-10-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "O Israel, thou hast sinned from the days of Gibeah: there they stood: the battle in Gibeah against the children of iniquity did not overtake them.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "hosea-10-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "<span class=\"clarity-word\">It is</span> in my desire that I should chastise them; and the people shall be gathered against them, when they shall bind themselves in their two furrows.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "hosea-10-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And Ephraim <span class=\"clarity-word\">is as</span> an heifer <span class=\"clarity-word\">that is</span> taught, <span class=\"clarity-word\">and</span> loveth to tread out <span class=\"clarity-word\">the corn;</span> but I passed over upon her fair neck: I will make Ephraim to ride; Judah shall plow, <span class=\"clarity-word\">and</span> Jacob shall break his clods.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "hosea-10-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Sow to yourselves in righteousness, reap in mercy; break up your fallow ground: for <span class=\"clarity-word\">it is</span> time to seek the <span class=\"small-caps\">Lord</span>, till he come and rain righteousness upon you.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "hosea-10-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Ye have plowed wickedness, ye have reaped iniquity; ye have eaten the fruit of lies: because thou didst trust in thy way, in the multitude of thy mighty men.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "hosea-10-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Therefore shall a tumult arise among thy people, and all thy fortresses shall be spoiled, as Shalman spoiled Beth-arbel in the day of battle: the mother was dashed in pieces upon <span class=\"clarity-word\">her</span> children.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "hosea-10-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "So shall Beth-el do unto you because of your great wickedness: in a morning shall the king of Israel utterly be cut off.",
+      "churchId": "p15"
+    }
+  ]
+}

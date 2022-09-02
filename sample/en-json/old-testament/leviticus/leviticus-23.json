@@ -1,0 +1,323 @@
+{
+  "name": "Leviticus 23",
+  "abbrev": "Lev. 23",
+  "number": "23",
+  "churchUri": "/scriptures/ot/lev/23",
+  "paragraphs": [
+    {
+      "slug": "leviticus-23-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 23",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "leviticus-23-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And the <span class=\"small-caps\">Lord</span> spake unto Moses, saying,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "leviticus-23-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Speak unto the children of Israel, and say unto them, <span class=\"clarity-word\">Concerning</span> the feasts of the <span class=\"small-caps\">Lord</span>, which ye shall proclaim <span class=\"clarity-word\">to be</span> holy convocations, <span class=\"clarity-word\">even</span> these <span class=\"clarity-word\">are</span> my feasts.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "leviticus-23-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Six days shall work be done: but the seventh day <span class=\"clarity-word\">is</span> the sabbath of rest, an holy convocation; ye shall do no work <span class=\"clarity-word\">therein:</span> it <span class=\"clarity-word\">is</span> the sabbath of the <span class=\"small-caps\">Lord</span> in all your dwellings.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "leviticus-23-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "¶ These <span class=\"clarity-word\">are</span> the feasts of the <span class=\"small-caps\">Lord</span>, <span class=\"clarity-word\">even</span> holy convocations, which ye shall proclaim in their seasons.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "leviticus-23-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "In the fourteenth <span class=\"clarity-word\">day</span> of the first month at even <span class=\"clarity-word\">is</span> the <span class=\"small-caps\">Lord</span>’s passover.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "leviticus-23-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And on the fifteenth day of the same month <span class=\"clarity-word\">is</span> the feast of unleavened bread unto the <span class=\"small-caps\">Lord</span>: seven days ye must eat unleavened bread.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "leviticus-23-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "In the first day ye shall have an holy convocation: ye shall do no servile work therein.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "leviticus-23-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "But ye shall offer an offering made by fire unto the <span class=\"small-caps\">Lord</span> seven days: in the seventh day <span class=\"clarity-word\">is</span> an holy convocation: ye shall do no servile work <span class=\"clarity-word\">therein.</span>",
+      "churchId": "p8"
+    },
+    {
+      "slug": "leviticus-23-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "¶ And the <span class=\"small-caps\">Lord</span> spake unto Moses, saying,",
+      "churchId": "p9"
+    },
+    {
+      "slug": "leviticus-23-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Speak unto the children of Israel, and say unto them, When ye be come into the land which I give unto you, and shall reap the harvest thereof, then ye shall bring a sheaf of the firstfruits of your harvest unto the priest:",
+      "churchId": "p10"
+    },
+    {
+      "slug": "leviticus-23-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And he shall wave the sheaf before the <span class=\"small-caps\">Lord</span>, to be accepted for you: on the morrow after the sabbath the priest shall wave it.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "leviticus-23-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And ye shall offer that day when ye wave the sheaf an he lamb without blemish of the first year for a burnt offering unto the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "leviticus-23-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And the meat offering thereof <span class=\"clarity-word\">shall be</span> two tenth deals of fine flour mingled with oil, an offering made by fire unto the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">for</span> a sweet savour: and the drink offering thereof <span class=\"clarity-word\">shall be</span> of wine, the fourth <span class=\"clarity-word\">part</span> of an hin.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "leviticus-23-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And ye shall eat neither bread, nor parched corn, nor green ears, until the selfsame day that ye have brought an offering unto your God: <span class=\"clarity-word\">it shall be</span> a statute for ever throughout your generations in all your dwellings.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "leviticus-23-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "¶ And ye shall count unto you from the morrow after the sabbath, from the day that ye brought the sheaf of the wave offering; seven sabbaths shall be complete:",
+      "churchId": "p15"
+    },
+    {
+      "slug": "leviticus-23-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Even unto the morrow after the seventh sabbath shall ye number fifty days; and ye shall offer a new meat offering unto the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "leviticus-23-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Ye shall bring out of your habitations two wave loaves of two tenth deals: they shall be of fine flour; they shall be baken with leaven; <span class=\"clarity-word\">they are</span> the firstfruits unto the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "leviticus-23-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And ye shall offer with the bread seven lambs without blemish of the first year, and one young bullock, and two rams: they shall be <span class=\"clarity-word\">for</span> a burnt offering unto the <span class=\"small-caps\">Lord</span>, with their meat offering, and their drink offerings, <span class=\"clarity-word\">even</span> an offering made by fire, of sweet savour unto the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "leviticus-23-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Then ye shall sacrifice one kid of the goats for a sin offering, and two lambs of the first year for a sacrifice of peace offerings.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "leviticus-23-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And the priest shall wave them with the bread of the firstfruits <span class=\"clarity-word\">for</span> a wave offering before the <span class=\"small-caps\">Lord</span>, with the two lambs: they shall be holy to the <span class=\"small-caps\">Lord</span> for the priest.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "leviticus-23-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And ye shall proclaim on the selfsame day, <span class=\"clarity-word\">that</span> it may be an holy convocation unto you: ye shall do no servile work <span class=\"clarity-word\">therein: it shall be</span> a statute for ever in all your dwellings throughout your generations.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "leviticus-23-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "¶ And when ye reap the harvest of your land, thou shalt not make clean riddance of the corners of thy field when thou reapest, neither shalt thou gather any gleaning of thy harvest: thou shalt leave them unto the poor, and to the stranger: I <span class=\"clarity-word\">am</span> the <span class=\"small-caps\">Lord</span> your God.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "leviticus-23-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "¶ And the <span class=\"small-caps\">Lord</span> spake unto Moses, saying,",
+      "churchId": "p23"
+    },
+    {
+      "slug": "leviticus-23-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Speak unto the children of Israel, saying, In the seventh month, in the first <span class=\"clarity-word\">day</span> of the month, shall ye have a sabbath, a memorial of blowing of trumpets, an holy convocation.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "leviticus-23-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Ye shall do no servile work <span class=\"clarity-word\">therein:</span> but ye shall offer an offering made by fire unto the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "leviticus-23-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "¶ And the <span class=\"small-caps\">Lord</span> spake unto Moses, saying,",
+      "churchId": "p26"
+    },
+    {
+      "slug": "leviticus-23-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "Also on the tenth <span class=\"clarity-word\">day</span> of this seventh month <span class=\"clarity-word\">there shall be</span> a day of atonement: it shall be an holy convocation unto you; and ye shall afflict your souls, and offer an offering made by fire unto the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "leviticus-23-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And ye shall do no work in that same day: for it <span class=\"clarity-word\">is</span> a day of atonement, to make an atonement for you before the <span class=\"small-caps\">Lord</span> your God.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "leviticus-23-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "For whatsoever soul <span class=\"clarity-word\">it be</span> that shall not be afflicted in that same day, he shall be cut off from among his people.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "leviticus-23-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And whatsoever soul <span class=\"clarity-word\">it be</span> that doeth any work in that same day, the same soul will I destroy from among his people.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "leviticus-23-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "Ye shall do no manner of work: <span class=\"clarity-word\">it shall be</span> a statute for ever throughout your generations in all your dwellings.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "leviticus-23-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "It <span class=\"clarity-word\">shall be</span> unto you a sabbath of rest, and ye shall afflict your souls: in the ninth <span class=\"clarity-word\">day</span> of the month at even, from even unto even, shall ye celebrate your sabbath.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "leviticus-23-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "¶ And the <span class=\"small-caps\">Lord</span> spake unto Moses, saying,",
+      "churchId": "p33"
+    },
+    {
+      "slug": "leviticus-23-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "Speak unto the children of Israel, saying, The fifteenth day of this seventh month <span class=\"clarity-word\">shall be</span> the feast of tabernacles <span class=\"clarity-word\">for</span> seven days unto the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "leviticus-23-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "On the first day <span class=\"clarity-word\">shall be</span> an holy convocation: ye shall do no servile work <span class=\"clarity-word\">therein.</span>",
+      "churchId": "p35"
+    },
+    {
+      "slug": "leviticus-23-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "Seven days ye shall offer an offering made by fire unto the <span class=\"small-caps\">Lord</span>: on the eighth day shall be an holy convocation unto you; and ye shall offer an offering made by fire unto the <span class=\"small-caps\">Lord</span>: it <span class=\"clarity-word\">is</span> a solemn assembly; <span class=\"clarity-word\">and</span> ye shall do no servile work <span class=\"clarity-word\">therein.</span>",
+      "churchId": "p36"
+    },
+    {
+      "slug": "leviticus-23-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "These <span class=\"clarity-word\">are</span> the feasts of the <span class=\"small-caps\">Lord</span>, which ye shall proclaim <span class=\"clarity-word\">to be</span> holy convocations, to offer an offering made by fire unto the <span class=\"small-caps\">Lord</span>, a burnt offering, and a meat offering, a sacrifice, and drink offerings, every thing upon his day:",
+      "churchId": "p37"
+    },
+    {
+      "slug": "leviticus-23-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "Beside the sabbaths of the <span class=\"small-caps\">Lord</span>, and beside your gifts, and beside all your vows, and beside all your freewill offerings, which ye give unto the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p38"
+    },
+    {
+      "slug": "leviticus-23-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "Also in the fifteenth day of the seventh month, when ye have gathered in the fruit of the land, ye shall keep a feast unto the <span class=\"small-caps\">Lord</span> seven days: on the first day <span class=\"clarity-word\">shall be</span> a sabbath, and on the eighth day <span class=\"clarity-word\">shall be</span> a sabbath.",
+      "churchId": "p39"
+    },
+    {
+      "slug": "leviticus-23-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "And ye shall take you on the first day the boughs of goodly trees, branches of palm trees, and the boughs of thick trees, and willows of the brook; and ye shall rejoice before the <span class=\"small-caps\">Lord</span> your God seven days.",
+      "churchId": "p40"
+    },
+    {
+      "slug": "leviticus-23-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "And ye shall keep it a feast unto the <span class=\"small-caps\">Lord</span> seven days in the year. <span class=\"clarity-word\">It shall be</span> a statute for ever in your generations: ye shall celebrate it in the seventh month.",
+      "churchId": "p41"
+    },
+    {
+      "slug": "leviticus-23-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "Ye shall dwell in booths seven days; all that are Israelites born shall dwell in booths:",
+      "churchId": "p42"
+    },
+    {
+      "slug": "leviticus-23-p43",
+      "type": "verse",
+      "number": "43",
+      "content": "That your generations may know that I made the children of Israel to dwell in booths, when I brought them out of the land of Egypt: I <span class=\"clarity-word\">am</span> the <span class=\"small-caps\">Lord</span> your God.",
+      "churchId": "p43"
+    },
+    {
+      "slug": "leviticus-23-p44",
+      "type": "verse",
+      "number": "44",
+      "content": "And Moses declared unto the children of Israel the feasts of the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p44"
+    }
+  ]
+}

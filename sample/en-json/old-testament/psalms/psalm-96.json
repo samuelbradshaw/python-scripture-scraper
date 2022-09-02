@@ -1,0 +1,106 @@
+{
+  "name": "Psalm 96",
+  "abbrev": "Psalm 96",
+  "number": "96",
+  "churchUri": "/scriptures/ot/ps/96",
+  "paragraphs": [
+    {
+      "slug": "psalm-96-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 96",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-96-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "O sing unto the <span class=\"small-caps\">Lord</span> a new song: sing unto the <span class=\"small-caps\">Lord</span>, all the earth.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-96-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Sing unto the <span class=\"small-caps\">Lord</span>, bless his name; shew forth his salvation from day to day.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-96-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Declare his glory among the heathen, his wonders among all people.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-96-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "For the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">is</span> great, and greatly to be praised: he <span class=\"clarity-word\">is</span> to be feared above all gods.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-96-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "For all the gods of the nations <span class=\"clarity-word\">are</span> idols: but the <span class=\"small-caps\">Lord</span> made the heavens.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-96-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Honour and majesty <span class=\"clarity-word\">are</span> before him: strength and beauty <span class=\"clarity-word\">are</span> in his sanctuary.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-96-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Give unto the <span class=\"small-caps\">Lord</span>, O ye kindreds of the people, give unto the <span class=\"small-caps\">Lord</span> glory and strength.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-96-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Give unto the <span class=\"small-caps\">Lord</span> the glory <span class=\"clarity-word\">due unto</span> his name: bring an offering, and come into his courts.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "psalm-96-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "O worship the <span class=\"small-caps\">Lord</span> in the beauty of holiness: fear before him, all the earth.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "psalm-96-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Say among the heathen <span class=\"clarity-word\">that</span> the <span class=\"small-caps\">Lord</span> reigneth: the world also shall be established that it shall not be moved: he shall judge the people righteously.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "psalm-96-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Let the heavens rejoice, and let the earth be glad; let the sea roar, and the fulness thereof.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "psalm-96-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Let the field be joyful, and all that <span class=\"clarity-word\">is</span> therein: then shall all the trees of the wood rejoice",
+      "churchId": "p12"
+    },
+    {
+      "slug": "psalm-96-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Before the <span class=\"small-caps\">Lord</span>: for he cometh, for he cometh to judge the earth: he shall judge the world with righteousness, and the people with his truth.",
+      "churchId": "p13"
+    }
+  ]
+}

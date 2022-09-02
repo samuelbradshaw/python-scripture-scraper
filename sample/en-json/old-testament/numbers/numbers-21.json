@@ -1,0 +1,260 @@
+{
+  "name": "Numbers 21",
+  "abbrev": "Num. 21",
+  "number": "21",
+  "churchUri": "/scriptures/ot/num/21",
+  "paragraphs": [
+    {
+      "slug": "numbers-21-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 21",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "numbers-21-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And <span class=\"clarity-word\">when</span> king Arad the Canaanite, which dwelt in the south, heard tell that Israel came by the way of the spies; then he fought against Israel, and took <span class=\"clarity-word\">some</span> of them prisoners.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "numbers-21-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And Israel vowed a vow unto the <span class=\"small-caps\">Lord</span>, and said, If thou wilt indeed deliver this people into my hand, then I will utterly destroy their cities.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "numbers-21-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And the <span class=\"small-caps\">Lord</span> hearkened to the voice of Israel, and delivered up the Canaanites; and they utterly destroyed them and their cities: and he called the name of the place Hormah.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "numbers-21-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "¶ And they journeyed from mount Hor by the way of the Red sea, to compass the land of Edom: and the soul of the people was much discouraged because of the way.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "numbers-21-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And the people spake against God, and against Moses, Wherefore have ye brought us up out of Egypt to die in the wilderness? for <span class=\"clarity-word\">there is</span> no bread, neither <span class=\"clarity-word\">is there any</span> water; and our soul loatheth this light bread.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "numbers-21-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And the <span class=\"small-caps\">Lord</span> sent fiery serpents among the people, and they bit the people; and much people of Israel died.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "numbers-21-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "¶ Therefore the people came to Moses, and said, We have sinned, for we have spoken against the <span class=\"small-caps\">Lord</span>, and against thee; pray unto the <span class=\"small-caps\">Lord</span>, that he take away the serpents from us. And Moses prayed for the people.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "numbers-21-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And the <span class=\"small-caps\">Lord</span> said unto Moses, Make thee a fiery serpent, and set it upon a pole: and it shall come to pass, that every one that is bitten, when he looketh upon it, shall live.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "numbers-21-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And Moses made a serpent of brass, and put it upon a pole, and it came to pass, that if a serpent had bitten any man, when he beheld the serpent of brass, he lived.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "numbers-21-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "¶ And the children of Israel set forward, and pitched in Oboth.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "numbers-21-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And they journeyed from Oboth, and pitched at Ije-abarim, in the wilderness which <span class=\"clarity-word\">is</span> before Moab, toward the sunrising.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "numbers-21-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "¶ From thence they removed, and pitched in the valley of Zared.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "numbers-21-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "From thence they removed, and pitched on the other side of Arnon, which <span class=\"clarity-word\">is</span> in the wilderness that cometh out of the coasts of the Amorites: for Arnon <span class=\"clarity-word\">is</span> the border of Moab, between Moab and the Amorites.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "numbers-21-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Wherefore it is said in the book of the wars of the <span class=\"small-caps\">Lord</span>, What he did in the Red sea, and in the brooks of Arnon,",
+      "churchId": "p14"
+    },
+    {
+      "slug": "numbers-21-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And at the stream of the brooks that goeth down to the dwelling of Ar, and lieth upon the border of Moab.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "numbers-21-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And from thence <span class=\"clarity-word\">they went</span> to Beer: that <span class=\"clarity-word\">is</span> the well whereof the <span class=\"small-caps\">Lord</span> spake unto Moses, Gather the people together, and I will give them water.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "numbers-21-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "¶ Then Israel sang this song, Spring up, O well; sing ye unto it:",
+      "churchId": "p17"
+    },
+    {
+      "slug": "numbers-21-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "The princes digged the well, the nobles of the people digged it, by <span class=\"clarity-word\">the direction of</span> the lawgiver, with their staves. And from the wilderness <span class=\"clarity-word\">they went</span> to Mattanah:",
+      "churchId": "p18"
+    },
+    {
+      "slug": "numbers-21-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And from Mattanah to Nahaliel: and from Nahaliel to Bamoth:",
+      "churchId": "p19"
+    },
+    {
+      "slug": "numbers-21-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And from Bamoth <span class=\"clarity-word\">in</span> the valley, that <span class=\"clarity-word\">is</span> in the country of Moab, to the top of Pisgah, which looketh toward Jeshimon.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "numbers-21-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "¶ And Israel sent messengers unto Sihon king of the Amorites, saying,",
+      "churchId": "p21"
+    },
+    {
+      "slug": "numbers-21-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Let me pass through thy land: we will not turn into the fields, or into the vineyards; we will not drink <span class=\"clarity-word\">of</span> the waters of the well: <span class=\"clarity-word\">but</span> we will go along by the king’s <span class=\"clarity-word\">high</span> way, until we be past thy borders.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "numbers-21-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And Sihon would not suffer Israel to pass through his border: but Sihon gathered all his people together, and went out against Israel into the wilderness: and he came to Jahaz, and fought against Israel.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "numbers-21-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And Israel smote him with the edge of the sword, and possessed his land from Arnon unto Jabbok, even unto the children of Ammon: for the border of the children of Ammon <span class=\"clarity-word\">was</span> strong.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "numbers-21-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And Israel took all these cities: and Israel dwelt in all the cities of the Amorites, in Heshbon, and in all the villages thereof.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "numbers-21-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "For Heshbon <span class=\"clarity-word\">was</span> the city of Sihon the king of the Amorites, who had fought against the former king of Moab, and taken all his land out of his hand, even unto Arnon.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "numbers-21-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "Wherefore they that speak in proverbs say, Come into Heshbon, let the city of Sihon be built and prepared:",
+      "churchId": "p27"
+    },
+    {
+      "slug": "numbers-21-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "For there is a fire gone out of Heshbon, a flame from the city of Sihon: it hath consumed Ar of Moab, <span class=\"clarity-word\">and</span> the lords of the high places of Arnon.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "numbers-21-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "Woe to thee, Moab! thou art undone, O people of Chemosh: he hath given his sons that escaped, and his daughters, into captivity unto Sihon king of the Amorites.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "numbers-21-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "We have shot at them; Heshbon is perished even unto Dibon, and we have laid them waste even unto Nophah, which <span class=\"clarity-word\">reacheth</span> unto Medeba.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "numbers-21-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "¶ Thus Israel dwelt in the land of the Amorites.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "numbers-21-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "And Moses sent to spy out Jaazer, and they took the villages thereof, and drove out the Amorites that <span class=\"clarity-word\">were</span> there.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "numbers-21-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "¶ And they turned and went up by the way of Bashan: and Og the king of Bashan went out against them, he, and all his people, to the battle at Edrei.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "numbers-21-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "And the <span class=\"small-caps\">Lord</span> said unto Moses, Fear him not: for I have delivered him into thy hand, and all his people, and his land; and thou shalt do to him as thou didst unto Sihon king of the Amorites, which dwelt at Heshbon.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "numbers-21-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "So they smote him, and his sons, and all his people, until there was none left him alive: and they possessed his land.",
+      "churchId": "p35"
+    }
+  ]
+}

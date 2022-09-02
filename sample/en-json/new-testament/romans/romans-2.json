@@ -1,0 +1,218 @@
+{
+  "name": "Romans 2",
+  "abbrev": "Rom. 2",
+  "number": "2",
+  "churchUri": "/scriptures/nt/rom/2",
+  "paragraphs": [
+    {
+      "slug": "romans-2-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 2",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "romans-2-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Therefore thou art inexcusable, O man, whosoever thou art that judgest: for wherein thou judgest another, thou condemnest thyself; for thou that judgest doest the same things.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "romans-2-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "But we are sure that the judgment of God is according to truth against them which commit such things.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "romans-2-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And thinkest thou this, O man, that judgest them which do such things, and doest the same, that thou shalt escape the judgment of God?",
+      "churchId": "p3"
+    },
+    {
+      "slug": "romans-2-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Or despisest thou the riches of his goodness and forbearance and longsuffering; not knowing that the goodness of God leadeth thee to repentance?",
+      "churchId": "p4"
+    },
+    {
+      "slug": "romans-2-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "But after thy hardness and impenitent heart treasurest up unto thyself wrath against the day of wrath and revelation of the righteous judgment of God;",
+      "churchId": "p5"
+    },
+    {
+      "slug": "romans-2-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Who will render to every man according to his deeds:",
+      "churchId": "p6"
+    },
+    {
+      "slug": "romans-2-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "To them who by patient continuance in well doing seek for glory and honour and immortality, eternal life:",
+      "churchId": "p7"
+    },
+    {
+      "slug": "romans-2-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "But unto them that are contentious, and do not obey the truth, but obey unrighteousness, indignation and wrath,",
+      "churchId": "p8"
+    },
+    {
+      "slug": "romans-2-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Tribulation and anguish, upon every soul of man that doeth evil, of the Jew first, and also of the Gentile;",
+      "churchId": "p9"
+    },
+    {
+      "slug": "romans-2-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "But glory, honour, and peace, to every man that worketh good, to the Jew first, and also to the Gentile:",
+      "churchId": "p10"
+    },
+    {
+      "slug": "romans-2-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "For there is no respect of persons with God.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "romans-2-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "For as many as have sinned without law shall also perish without law: and as many as have sinned in the law shall be judged by the law;",
+      "churchId": "p12"
+    },
+    {
+      "slug": "romans-2-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "(For not the hearers of the law <span class=\"clarity-word\">are</span> just before God, but the doers of the law shall be justified.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "romans-2-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "For when the Gentiles, which have not the law, do by nature the things contained in the law, these, having not the law, are a law unto themselves:",
+      "churchId": "p14"
+    },
+    {
+      "slug": "romans-2-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Which shew the work of the law written in their hearts, their conscience also bearing witness, and <span class=\"clarity-word\">their</span> thoughts the mean while accusing or else excusing one another;)",
+      "churchId": "p15"
+    },
+    {
+      "slug": "romans-2-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "In the day when God shall judge the secrets of men by Jesus Christ according to my gospel.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "romans-2-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Behold, thou art called a Jew, and restest in the law, and makest thy boast of God,",
+      "churchId": "p17"
+    },
+    {
+      "slug": "romans-2-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And knowest <span class=\"clarity-word\">his</span> will, and approvest the things that are more excellent, being instructed out of the law;",
+      "churchId": "p18"
+    },
+    {
+      "slug": "romans-2-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And art confident that thou thyself art a guide of the blind, a light of them which are in darkness,",
+      "churchId": "p19"
+    },
+    {
+      "slug": "romans-2-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "An instructor of the foolish, a teacher of babes, which hast the form of knowledge and of the truth in the law.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "romans-2-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Thou therefore which teachest another, teachest thou not thyself? thou that preachest a man should not steal, dost thou steal?",
+      "churchId": "p21"
+    },
+    {
+      "slug": "romans-2-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Thou that sayest a man should not commit adultery, dost thou commit adultery? thou that abhorrest idols, dost thou commit sacrilege?",
+      "churchId": "p22"
+    },
+    {
+      "slug": "romans-2-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Thou that makest thy boast of the law, through breaking the law dishonourest thou God?",
+      "churchId": "p23"
+    },
+    {
+      "slug": "romans-2-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "For the name of God is blasphemed among the Gentiles through you, as it is written.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "romans-2-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "For circumcision verily profiteth, if thou keep the law: but if thou be a breaker of the law, thy circumcision is made uncircumcision.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "romans-2-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "Therefore if the uncircumcision keep the righteousness of the law, shall not his uncircumcision be counted for circumcision?",
+      "churchId": "p26"
+    },
+    {
+      "slug": "romans-2-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And shall not uncircumcision which is by nature, if it fulfil the law, judge thee, who by the letter and circumcision dost transgress the law?",
+      "churchId": "p27"
+    },
+    {
+      "slug": "romans-2-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "For he is not a Jew, which is one outwardly; neither <span class=\"clarity-word\">is that</span> circumcision, which is outward in the flesh:",
+      "churchId": "p28"
+    },
+    {
+      "slug": "romans-2-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "But he <span class=\"clarity-word\">is</span> a Jew, which is one inwardly; and circumcision <span class=\"clarity-word\">is that</span> of the heart, in the spirit, <span class=\"clarity-word\">and</span> not in the letter; whose praise <span class=\"clarity-word\">is</span> not of men, but of God.",
+      "churchId": "p29"
+    }
+  ]
+}

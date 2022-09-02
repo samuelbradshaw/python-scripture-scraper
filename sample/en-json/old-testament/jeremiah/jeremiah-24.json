@@ -1,0 +1,85 @@
+{
+  "name": "Jeremiah 24",
+  "abbrev": "Jer. 24",
+  "number": "24",
+  "churchUri": "/scriptures/ot/jer/24",
+  "paragraphs": [
+    {
+      "slug": "jeremiah-24-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 24",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "jeremiah-24-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "The <span class=\"small-caps\">Lord</span> shewed me, and, behold, two baskets of figs <span class=\"clarity-word\">were</span> set before the temple of the <span class=\"small-caps\">Lord</span>, after that Nebuchadrezzar king of Babylon had carried away captive Jeconiah the son of Jehoiakim king of Judah, and the princes of Judah, with the carpenters and smiths, from Jerusalem, and had brought them to Babylon.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "jeremiah-24-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "One basket <span class=\"clarity-word\">had</span> very good figs, <span class=\"clarity-word\">even</span> like the figs <span class=\"clarity-word\">that are</span> first ripe: and the other basket <span class=\"clarity-word\">had</span> very naughty figs, which could not be eaten, they were so bad.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "jeremiah-24-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Then said the <span class=\"small-caps\">Lord</span> unto me, What seest thou, Jeremiah? And I said, Figs; the good figs, very good; and the evil, very evil, that cannot be eaten, they are so evil.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "jeremiah-24-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "¶ Again the word of the <span class=\"small-caps\">Lord</span> came unto me, saying,",
+      "churchId": "p4"
+    },
+    {
+      "slug": "jeremiah-24-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Thus saith the <span class=\"small-caps\">Lord</span>, the God of Israel; Like these good figs, so will I acknowledge them that are carried away captive of Judah, whom I have sent out of this place into the land of the Chaldeans for <span class=\"clarity-word\">their</span> good.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "jeremiah-24-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "For I will set mine eyes upon them for good, and I will bring them again to this land: and I will build them, and not pull <span class=\"clarity-word\">them</span> down; and I will plant them, and not pluck <span class=\"clarity-word\">them</span> up.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "jeremiah-24-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And I will give them an heart to know me, that I <span class=\"clarity-word\">am</span> the <span class=\"small-caps\">Lord</span>: and they shall be my people, and I will be their God: for they shall return unto me with their whole heart.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "jeremiah-24-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "¶ And as the evil figs, which cannot be eaten, they are so evil; surely thus saith the <span class=\"small-caps\">Lord</span>, So will I give Zedekiah the king of Judah, and his princes, and the residue of Jerusalem, that remain in this land, and them that dwell in the land of Egypt:",
+      "churchId": "p8"
+    },
+    {
+      "slug": "jeremiah-24-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And I will deliver them to be removed into all the kingdoms of the earth for <span class=\"clarity-word\">their</span> hurt, <span class=\"clarity-word\">to be</span> a reproach and a proverb, a taunt and a curse, in all places whither I shall drive them.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "jeremiah-24-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And I will send the sword, the famine, and the pestilence, among them, till they be consumed from off the land that I gave unto them and to their fathers.",
+      "churchId": "p10"
+    }
+  ]
+}

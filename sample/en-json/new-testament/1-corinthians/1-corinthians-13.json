@@ -1,0 +1,106 @@
+{
+  "name": "1 Corinthians 13",
+  "abbrev": "1 Cor. 13",
+  "number": "13",
+  "churchUri": "/scriptures/nt/1-cor/13",
+  "paragraphs": [
+    {
+      "slug": "1-corinthians-13-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 13",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "1-corinthians-13-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Though I speak with the tongues of men and of angels, and have not charity, I am become <span class=\"clarity-word\">as</span> sounding brass, or a tinkling cymbal.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "1-corinthians-13-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And though I have <span class=\"clarity-word\">the gift of</span> prophecy, and understand all mysteries, and all knowledge; and though I have all faith, so that I could remove mountains, and have not charity, I am nothing.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "1-corinthians-13-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And though I bestow all my goods to feed <span class=\"clarity-word\">the poor,</span> and though I give my body to be burned, and have not charity, it profiteth me nothing.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "1-corinthians-13-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Charity suffereth long, <span class=\"clarity-word\">and</span> is kind; charity envieth not; charity vaunteth not itself, is not puffed up,",
+      "churchId": "p4"
+    },
+    {
+      "slug": "1-corinthians-13-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Doth not behave itself unseemly, seeketh not her own, is not easily provoked, thinketh no evil;",
+      "churchId": "p5"
+    },
+    {
+      "slug": "1-corinthians-13-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Rejoiceth not in iniquity, but rejoiceth in the truth;",
+      "churchId": "p6"
+    },
+    {
+      "slug": "1-corinthians-13-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Beareth all things, believeth all things, hopeth all things, endureth all things.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "1-corinthians-13-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Charity never faileth: but whether <span class=\"clarity-word\">there be</span> prophecies, they shall fail; whether <span class=\"clarity-word\">there be</span> tongues, they shall cease; whether <span class=\"clarity-word\">there be</span> knowledge, it shall vanish away.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "1-corinthians-13-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "For we know in part, and we prophesy in part.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "1-corinthians-13-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "But when that which is perfect is come, then that which is in part shall be done away.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "1-corinthians-13-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "When I was a child, I spake as a child, I understood as a child, I thought as a child: but when I became a man, I put away childish things.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "1-corinthians-13-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "For now we see through a glass, darkly; but then face to face: now I know in part; but then shall I know even as also I am known.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "1-corinthians-13-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And now abideth faith, hope, charity, these three; but the greatest of these <span class=\"clarity-word\">is</span> charity.",
+      "churchId": "p13"
+    }
+  ]
+}

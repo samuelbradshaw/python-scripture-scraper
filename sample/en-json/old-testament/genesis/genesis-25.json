@@ -1,0 +1,253 @@
+{
+  "name": "Genesis 25",
+  "abbrev": "Gen. 25",
+  "number": "25",
+  "churchUri": "/scriptures/ot/gen/25",
+  "paragraphs": [
+    {
+      "slug": "genesis-25-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 25",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "genesis-25-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Then again Abraham took a wife, and her name <span class=\"clarity-word\">was</span> Keturah.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "genesis-25-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And she bare him Zimran, and Jokshan, and Medan, and Midian, and Ishbak, and Shuah.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "genesis-25-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And Jokshan begat Sheba, and Dedan. And the sons of Dedan were Asshurim, and Letushim, and Leummim.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "genesis-25-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And the sons of Midian; Ephah, and Epher, and Hanoch, and Abida, and Eldaah. All these <span class=\"clarity-word\">were</span> the children of Keturah.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "genesis-25-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "¶ And Abraham gave all that he had unto Isaac.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "genesis-25-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "But unto the sons of the concubines, which Abraham had, Abraham gave gifts, and sent them away from Isaac his son, while he yet lived, eastward, unto the east country.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "genesis-25-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And these <span class=\"clarity-word\">are</span> the days of the years of Abraham’s life which he lived, an hundred threescore and fifteen years.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "genesis-25-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Then Abraham gave up the ghost, and died in a good old age, an old man, and full <span class=\"clarity-word\">of years;</span> and was gathered to his people.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "genesis-25-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And his sons Isaac and Ishmael buried him in the cave of Machpelah, in the field of Ephron the son of Zohar the Hittite, which <span class=\"clarity-word\">is</span> before Mamre;",
+      "churchId": "p9"
+    },
+    {
+      "slug": "genesis-25-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "The field which Abraham purchased of the sons of Heth: there was Abraham buried, and Sarah his wife.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "genesis-25-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "¶ And it came to pass after the death of Abraham, that God blessed his son Isaac; and Isaac dwelt by the well Lahai-roi.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "genesis-25-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "¶ Now these <span class=\"clarity-word\">are</span> the generations of Ishmael, Abraham’s son, whom Hagar the Egyptian, Sarah’s handmaid, bare unto Abraham:",
+      "churchId": "p12"
+    },
+    {
+      "slug": "genesis-25-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And these <span class=\"clarity-word\">are</span> the names of the sons of Ishmael, by their names, according to their generations: the firstborn of Ishmael, Nebajoth; and Kedar, and Adbeel, and Mibsam,",
+      "churchId": "p13"
+    },
+    {
+      "slug": "genesis-25-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And Mishma, and Dumah, and Massa,",
+      "churchId": "p14"
+    },
+    {
+      "slug": "genesis-25-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Hadar, and Tema, Jetur, Naphish, and Kedemah:",
+      "churchId": "p15"
+    },
+    {
+      "slug": "genesis-25-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "These <span class=\"clarity-word\">are</span> the sons of Ishmael, and these <span class=\"clarity-word\">are</span> their names, by their towns, and by their castles; twelve princes according to their nations.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "genesis-25-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And these <span class=\"clarity-word\">are</span> the years of the life of Ishmael, an hundred and thirty and seven years: and he gave up the ghost and died; and was gathered unto his people.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "genesis-25-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And they dwelt from Havilah unto Shur, that <span class=\"clarity-word\">is</span> before Egypt, as thou goest toward Assyria: <span class=\"clarity-word\">and</span> he died in the presence of all his brethren.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "genesis-25-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "¶ And these <span class=\"clarity-word\">are</span> the generations of Isaac, Abraham’s son: Abraham begat Isaac:",
+      "churchId": "p19"
+    },
+    {
+      "slug": "genesis-25-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And Isaac was forty years old when he took Rebekah to wife, the daughter of Bethuel the Syrian of Padan-aram, the sister to Laban the Syrian.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "genesis-25-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And Isaac entreated the <span class=\"small-caps\">Lord</span> for his wife, because she <span class=\"clarity-word\">was</span> barren: and the <span class=\"small-caps\">Lord</span> was entreated of him, and Rebekah his wife conceived.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "genesis-25-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And the children struggled together within her; and she said, If <span class=\"clarity-word\">it be</span> so, why <span class=\"clarity-word\">am</span> I thus? And she went to inquire of the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "genesis-25-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And the <span class=\"small-caps\">Lord</span> said unto her, Two nations <span class=\"clarity-word\">are</span> in thy womb, and two manner of people shall be separated from thy bowels; and <span class=\"clarity-word\">the one</span> people shall be stronger than <span class=\"clarity-word\">the other</span> people; and the elder shall serve the younger.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "genesis-25-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "¶ And when her days to be delivered were fulfilled, behold, <span class=\"clarity-word\">there were</span> twins in her womb.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "genesis-25-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And the first came out red, all over like an hairy garment; and they called his name Esau.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "genesis-25-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And after that came his brother out, and his hand took hold on Esau’s heel; and his name was called Jacob: and Isaac <span class=\"clarity-word\">was</span> threescore years old when she bare them.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "genesis-25-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And the boys grew: and Esau was a cunning hunter, a man of the field; and Jacob <span class=\"clarity-word\">was</span> a plain man, dwelling in tents.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "genesis-25-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And Isaac loved Esau, because he did eat of <span class=\"clarity-word\">his</span> venison: but Rebekah loved Jacob.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "genesis-25-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "¶ And Jacob sod pottage: and Esau came from the field, and he <span class=\"clarity-word\">was</span> faint:",
+      "churchId": "p29"
+    },
+    {
+      "slug": "genesis-25-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And Esau said to Jacob, Feed me, I pray thee, with that same red <span class=\"clarity-word\">pottage;</span> for I <span class=\"clarity-word\">am</span> faint: therefore was his name called Edom.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "genesis-25-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "And Jacob said, Sell me this day thy birthright.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "genesis-25-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "And Esau said, Behold, I <span class=\"clarity-word\">am</span> at the point to die: and what profit shall this birthright do to me?",
+      "churchId": "p32"
+    },
+    {
+      "slug": "genesis-25-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "And Jacob said, Swear to me this day; and he sware unto him: and he sold his birthright unto Jacob.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "genesis-25-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "Then Jacob gave Esau bread and pottage of lentiles; and he did eat and drink, and rose up, and went his way: thus Esau despised <span class=\"clarity-word\">his</span> birthright.",
+      "churchId": "p34"
+    }
+  ]
+}

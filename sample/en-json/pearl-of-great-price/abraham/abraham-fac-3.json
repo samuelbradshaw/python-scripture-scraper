@@ -1,0 +1,78 @@
+{
+  "name": "Facsimile 3",
+  "abbrev": "Facsimile 3",
+  "number": "fac-3",
+  "churchUri": "/scriptures/pgp/abr/fac-3",
+  "paragraphs": [
+    {
+      "slug": "abraham-fac-3-title1",
+      "type": "book-title",
+      "number": null,
+      "content": "A Facsimile from the Book of Abraham",
+      "churchId": "title1"
+    },
+    {
+      "slug": "abraham-fac-3-subtitle1",
+      "type": "subtitle",
+      "number": null,
+      "content": "No. 3",
+      "churchId": "subtitle1"
+    },
+    {
+      "slug": "abraham-fac-3-figure1_title1",
+      "type": "paragraph",
+      "number": null,
+      "content": "Explanation",
+      "churchId": "figure1_title1"
+    },
+    {
+      "slug": "abraham-fac-3-figure1_p1",
+      "type": "paragraph",
+      "number": null,
+      "content": "Fig. 1. Abraham sitting upon Pharaoh’s throne, by the politeness of the king, with a crown upon his head, representing the Priesthood, as emblematical of the grand Presidency in Heaven; with the scepter of justice and judgment in his hand.",
+      "churchId": "figure1_p1"
+    },
+    {
+      "slug": "abraham-fac-3-figure1_p2",
+      "type": "paragraph",
+      "number": null,
+      "content": "Fig. 2. King Pharaoh, whose name is given in the characters above his head.",
+      "churchId": "figure1_p2"
+    },
+    {
+      "slug": "abraham-fac-3-figure1_p3",
+      "type": "paragraph",
+      "number": null,
+      "content": "Fig. 3. Signifies Abraham in Egypt as given also in Figure 10 of Facsimile No. 1.",
+      "churchId": "figure1_p3"
+    },
+    {
+      "slug": "abraham-fac-3-figure1_p4",
+      "type": "paragraph",
+      "number": null,
+      "content": "Fig. 4. Prince of Pharaoh, King of Egypt, as written above the hand.",
+      "churchId": "figure1_p4"
+    },
+    {
+      "slug": "abraham-fac-3-figure1_p5",
+      "type": "paragraph",
+      "number": null,
+      "content": "Fig. 5. Shulem, one of the king’s principal waiters, as represented by the characters above his hand.",
+      "churchId": "figure1_p5"
+    },
+    {
+      "slug": "abraham-fac-3-figure1_p6",
+      "type": "paragraph",
+      "number": null,
+      "content": "Fig. 6. Olimlah, a slave belonging to the prince.",
+      "churchId": "figure1_p6"
+    },
+    {
+      "slug": "abraham-fac-3-figure1_p7",
+      "type": "paragraph",
+      "number": null,
+      "content": "Abraham is reasoning upon the principles of Astronomy, in the king’s court.",
+      "churchId": "figure1_p7"
+    }
+  ]
+}

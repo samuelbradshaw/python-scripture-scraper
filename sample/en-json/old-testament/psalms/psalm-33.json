@@ -1,0 +1,169 @@
+{
+  "name": "Psalm 33",
+  "abbrev": "Psalm 33",
+  "number": "33",
+  "churchUri": "/scriptures/ot/ps/33",
+  "paragraphs": [
+    {
+      "slug": "psalm-33-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 33",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-33-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Rejoice in the <span class=\"small-caps\">Lord</span>, O ye righteous: <span class=\"clarity-word\">for</span> praise is comely for the upright.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-33-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Praise the <span class=\"small-caps\">Lord</span> with harp: sing unto him with the psaltery <span class=\"clarity-word\">and</span> an instrument of ten strings.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-33-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Sing unto him a new song; play skilfully with a loud noise.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-33-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "For the word of the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">is</span> right; and all his works <span class=\"clarity-word\">are done</span> in truth.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-33-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "He loveth righteousness and judgment: the earth is full of the goodness of the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-33-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "By the word of the <span class=\"small-caps\">Lord</span> were the heavens made; and all the host of them by the breath of his mouth.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-33-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "He gathereth the waters of the sea together as an heap: he layeth up the depth in storehouses.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-33-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Let all the earth fear the <span class=\"small-caps\">Lord</span>: let all the inhabitants of the world stand in awe of him.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "psalm-33-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "For he spake, and it was <span class=\"clarity-word\">done;</span> he commanded, and it stood fast.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "psalm-33-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "The <span class=\"small-caps\">Lord</span> bringeth the counsel of the heathen to nought: he maketh the devices of the people of none effect.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "psalm-33-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "The counsel of the <span class=\"small-caps\">Lord</span> standeth for ever, the thoughts of his heart to all generations.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "psalm-33-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Blessed <span class=\"clarity-word\">is</span> the nation whose God <span class=\"clarity-word\">is</span> the <span class=\"small-caps\">Lord</span>; <span class=\"clarity-word\">and</span> the people <span class=\"clarity-word\">whom</span> he hath chosen for his own inheritance.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "psalm-33-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "The <span class=\"small-caps\">Lord</span> looketh from heaven; he beholdeth all the sons of men.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "psalm-33-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "From the place of his habitation he looketh upon all the inhabitants of the earth.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "psalm-33-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "He fashioneth their hearts alike; he considereth all their works.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "psalm-33-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "There is no king saved by the multitude of an host: a mighty man is not delivered by much strength.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "psalm-33-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "An horse <span class=\"clarity-word\">is</span> a vain thing for safety: neither shall he deliver <span class=\"clarity-word\">any</span> by his great strength.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "psalm-33-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Behold, the eye of the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">is</span> upon them that fear him, upon them that hope in his mercy;",
+      "churchId": "p18"
+    },
+    {
+      "slug": "psalm-33-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "To deliver their soul from death, and to keep them alive in famine.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "psalm-33-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Our soul waiteth for the <span class=\"small-caps\">Lord</span>: he <span class=\"clarity-word\">is</span> our help and our shield.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "psalm-33-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "For our heart shall rejoice in him, because we have trusted in his holy name.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "psalm-33-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Let thy mercy, O <span class=\"small-caps\">Lord</span>, be upon us, according as we hope in thee.",
+      "churchId": "p22"
+    }
+  ]
+}

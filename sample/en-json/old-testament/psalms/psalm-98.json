@@ -1,0 +1,85 @@
+{
+  "name": "Psalm 98",
+  "abbrev": "Psalm 98",
+  "number": "98",
+  "churchUri": "/scriptures/ot/ps/98",
+  "paragraphs": [
+    {
+      "slug": "psalm-98-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 98",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-98-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "A Psalm.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-98-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "O sing unto the <span class=\"small-caps\">Lord</span> a new song; for he hath done marvellous things: his right hand, and his holy arm, hath gotten him the victory.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-98-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "The <span class=\"small-caps\">Lord</span> hath made known his salvation: his righteousness hath he openly shewed in the sight of the heathen.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-98-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "He hath remembered his mercy and his truth toward the house of Israel: all the ends of the earth have seen the salvation of our God.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-98-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Make a joyful noise unto the <span class=\"small-caps\">Lord</span>, all the earth: make a loud noise, and rejoice, and sing praise.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-98-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Sing unto the <span class=\"small-caps\">Lord</span> with the harp; with the harp, and the voice of a psalm.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-98-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "With trumpets and sound of cornet make a joyful noise before the <span class=\"small-caps\">Lord</span>, the King.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-98-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Let the sea roar, and the fulness thereof; the world, and they that dwell therein.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-98-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Let the floods clap <span class=\"clarity-word\">their</span> hands: let the hills be joyful together",
+      "churchId": "p8"
+    },
+    {
+      "slug": "psalm-98-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Before the <span class=\"small-caps\">Lord</span>; for he cometh to judge the earth: with righteousness shall he judge the world, and the people with equity.",
+      "churchId": "p9"
+    }
+  ]
+}

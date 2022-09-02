@@ -1,0 +1,246 @@
+{
+  "name": "John 16",
+  "abbrev": "John 16",
+  "number": "16",
+  "churchUri": "/scriptures/nt/john/16",
+  "paragraphs": [
+    {
+      "slug": "john-16-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 16",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "john-16-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "These things have I spoken unto you, that ye should not be offended.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "john-16-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "They shall put you out of the synagogues: yea, the time cometh, that whosoever killeth you will think that he doeth God service.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "john-16-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And these things will they do unto you, because they have not known the Father, nor me.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "john-16-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "But these things have I told you, that when the time shall come, ye may remember that I told you of them. And these things I said not unto you at the beginning, because I was with you.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "john-16-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "But now I go my way to him that sent me; and none of you asketh me, Whither goest thou?",
+      "churchId": "p5"
+    },
+    {
+      "slug": "john-16-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "But because I have said these things unto you, sorrow hath filled your heart.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "john-16-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Nevertheless I tell you the truth; It is expedient for you that I go away: for if I go not away, the Comforter will not come unto you; but if I depart, I will send him unto you.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "john-16-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And when he is come, he will reprove the world of sin, and of righteousness, and of judgment:",
+      "churchId": "p8"
+    },
+    {
+      "slug": "john-16-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Of sin, because they believe not on me;",
+      "churchId": "p9"
+    },
+    {
+      "slug": "john-16-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Of righteousness, because I go to my Father, and ye see me no more;",
+      "churchId": "p10"
+    },
+    {
+      "slug": "john-16-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Of judgment, because the prince of this world is judged.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "john-16-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "I have yet many things to say unto you, but ye cannot bear them now.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "john-16-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Howbeit when he, the Spirit of truth, is come, he will guide you into all truth: for he shall not speak of himself; but whatsoever he shall hear, <span class=\"clarity-word\">that</span> shall he speak: and he will shew you things to come.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "john-16-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "He shall glorify me: for he shall receive of mine, and shall shew <span class=\"clarity-word\">it</span> unto you.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "john-16-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "All things that the Father hath are mine: therefore said I, that he shall take of mine, and shall shew <span class=\"clarity-word\">it</span> unto you.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "john-16-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "A little while, and ye shall not see me: and again, a little while, and ye shall see me, because I go to the Father.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "john-16-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Then said <span class=\"clarity-word\">some</span> of his disciples among themselves, What is this that he saith unto us, A little while, and ye shall not see me: and again, a little while, and ye shall see me: and, Because I go to the Father?",
+      "churchId": "p17"
+    },
+    {
+      "slug": "john-16-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "They said therefore, What is this that he saith, A little while? we cannot tell what he saith.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "john-16-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Now Jesus knew that they were desirous to ask him, and said unto them, Do ye inquire among yourselves of that I said, A little while, and ye shall not see me: and again, a little while, and ye shall see me?",
+      "churchId": "p19"
+    },
+    {
+      "slug": "john-16-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Verily, verily, I say unto you, That ye shall weep and lament, but the world shall rejoice: and ye shall be sorrowful, but your sorrow shall be turned into joy.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "john-16-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "A woman when she is in travail hath sorrow, because her hour is come: but as soon as she is delivered of the child, she remembereth no more the anguish, for joy that a man is born into the world.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "john-16-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And ye now therefore have sorrow: but I will see you again, and your heart shall rejoice, and your joy no man taketh from you.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "john-16-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And in that day ye shall ask me nothing. Verily, verily, I say unto you, Whatsoever ye shall ask the Father in my name, he will give <span class=\"clarity-word\">it</span> you.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "john-16-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Hitherto have ye asked nothing in my name: ask, and ye shall receive, that your joy may be full.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "john-16-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "These things have I spoken unto you in proverbs: but the time cometh, when I shall no more speak unto you in proverbs, but I shall shew you plainly of the Father.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "john-16-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "At that day ye shall ask in my name: and I say not unto you, that I will pray the Father for you:",
+      "churchId": "p26"
+    },
+    {
+      "slug": "john-16-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "For the Father himself loveth you, because ye have loved me, and have believed that I came out from God.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "john-16-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "I came forth from the Father, and am come into the world: again, I leave the world, and go to the Father.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "john-16-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "His disciples said unto him, Lo, now speakest thou plainly, and speakest no proverb.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "john-16-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "Now are we sure that thou knowest all things, and needest not that any man should ask thee: by this we believe that thou camest forth from God.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "john-16-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "Jesus answered them, Do ye now believe?",
+      "churchId": "p31"
+    },
+    {
+      "slug": "john-16-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "Behold, the hour cometh, yea, is now come, that ye shall be scattered, every man to his own, and shall leave me alone: and yet I am not alone, because the Father is with me.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "john-16-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "These things I have spoken unto you, that in me ye might have peace. In the world ye shall have tribulation: but be of good cheer; I have overcome the world.",
+      "churchId": "p33"
+    }
+  ]
+}

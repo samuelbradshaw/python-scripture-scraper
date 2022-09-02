@@ -1,0 +1,106 @@
+{
+  "name": "Doctrine and Covenants 31",
+  "abbrev": "D&C 31",
+  "number": "31",
+  "churchUri": "/scriptures/dc-testament/dc/31",
+  "paragraphs": [
+    {
+      "slug": "section-31-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Section 31",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "section-31-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Thomas, my son, blessed are you because of your faith in my work.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "section-31-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Behold, you have had many afflictions because of your family; nevertheless, I will bless you and your family, yea, your little ones; and the day cometh that they will believe and know the truth and be one with you in my church.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "section-31-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Lift up your heart and rejoice, for the hour of your mission is come; and your tongue shall be loosed, and you shall declare glad tidings of great joy unto this generation.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "section-31-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "You shall declare the things which have been revealed to my servant, Joseph Smith, Jun. You shall begin to preach from this time forth, yea, to reap in the field which is white already to be burned.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "section-31-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Therefore, thrust in your sickle with all your soul, and your sins are forgiven you, and you shall be laden with sheaves upon your back, for the laborer is worthy of his hire. Wherefore, your family shall live.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "section-31-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Behold, verily I say unto you, go from them only for a little time, and declare my word, and I will prepare a place for them.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "section-31-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Yea, I will open the hearts of the people, and they will receive you. And I will establish a church by your hand;",
+      "churchId": "p7"
+    },
+    {
+      "slug": "section-31-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And you shall strengthen them and prepare them against the time when they shall be gathered.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "section-31-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Be patient in afflictions, revile not against those that revile. Govern your house in meekness, and be steadfast.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "section-31-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Behold, I say unto you that you shall be a physician unto the church, but not unto the world, for they will not receive you.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "section-31-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Go your way whithersoever I will, and it shall be given you by the Comforter what you shall do and whither you shall go.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "section-31-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Pray always, lest you enter into temptation and lose your reward.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "section-31-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Be faithful unto the end, and lo, I am with you. These words are not of man nor of men, but of me, even Jesus Christ, your Redeemer, by the will of the Father. Amen.",
+      "churchId": "p13"
+    }
+  ]
+}

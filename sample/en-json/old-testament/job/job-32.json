@@ -1,0 +1,169 @@
+{
+  "name": "Job 32",
+  "abbrev": "Job 32",
+  "number": "32",
+  "churchUri": "/scriptures/ot/job/32",
+  "paragraphs": [
+    {
+      "slug": "job-32-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 32",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "job-32-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "So these three men ceased to answer Job, because he <span class=\"clarity-word\">was</span> righteous in his own eyes.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "job-32-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Then was kindled the wrath of Elihu the son of Barachel the Buzite, of the kindred of Ram: against Job was his wrath kindled, because he justified himself rather than God.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "job-32-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Also against his three friends was his wrath kindled, because they had found no answer, and <span class=\"clarity-word\">yet</span> had condemned Job.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "job-32-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Now Elihu had waited till Job had spoken, because they <span class=\"clarity-word\">were</span> elder than he.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "job-32-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "When Elihu saw that <span class=\"clarity-word\">there was</span> no answer in the mouth of <span class=\"clarity-word\">these</span> three men, then his wrath was kindled.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "job-32-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And Elihu the son of Barachel the Buzite answered and said, I <span class=\"clarity-word\">am</span> young, and ye <span class=\"clarity-word\">are</span> very old; wherefore I was afraid, and durst not shew you mine opinion.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "job-32-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "I said, Days should speak, and multitude of years should teach wisdom.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "job-32-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "But <span class=\"clarity-word\">there is</span> a spirit in man: and the inspiration of the Almighty giveth them understanding.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "job-32-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Great men are not <span class=\"clarity-word\">always</span> wise: neither do the aged understand judgment.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "job-32-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Therefore I said, Hearken to me; I also will shew mine opinion.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "job-32-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Behold, I waited for your words; I gave ear to your reasons, whilst ye searched out what to say.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "job-32-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Yea, I attended unto you, and, behold, <span class=\"clarity-word\">there was</span> none of you that convinced Job, <span class=\"clarity-word\">or</span> that answered his words:",
+      "churchId": "p12"
+    },
+    {
+      "slug": "job-32-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Lest ye should say, We have found out wisdom: God thrusteth him down, not man.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "job-32-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Now he hath not directed <span class=\"clarity-word\">his</span> words against me: neither will I answer him with your speeches.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "job-32-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "They were amazed, they answered no more: they left off speaking.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "job-32-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "When I had waited, (for they spake not, but stood still, <span class=\"clarity-word\">and</span> answered no more;)",
+      "churchId": "p16"
+    },
+    {
+      "slug": "job-32-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "<span class=\"clarity-word\">I said,</span> I will answer also my part, I also will shew mine opinion.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "job-32-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "For I am full of matter, the spirit within me constraineth me.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "job-32-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Behold, my belly <span class=\"clarity-word\">is</span> as wine <span class=\"clarity-word\">which</span> hath no vent; it is ready to burst like new bottles.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "job-32-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "I will speak, that I may be refreshed: I will open my lips and answer.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "job-32-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Let me not, I pray you, accept any man’s person, neither let me give flattering titles unto man.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "job-32-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "For I know not to give flattering titles; <span class=\"clarity-word\">in so doing</span> my maker would soon take me away.",
+      "churchId": "p22"
+    }
+  ]
+}

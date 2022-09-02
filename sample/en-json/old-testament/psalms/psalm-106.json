@@ -1,0 +1,351 @@
+{
+  "name": "Psalm 106",
+  "abbrev": "Psalm 106",
+  "number": "106",
+  "churchUri": "/scriptures/ot/ps/106",
+  "paragraphs": [
+    {
+      "slug": "psalm-106-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 106",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-106-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Praise ye the <span class=\"small-caps\">Lord</span>. O give thanks unto the <span class=\"small-caps\">Lord</span>; for <span class=\"clarity-word\">he is</span> good: for his mercy <span class=\"clarity-word\">endureth</span> for ever.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-106-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Who can utter the mighty acts of the <span class=\"small-caps\">Lord</span>? <span class=\"clarity-word\">who</span> can shew forth all his praise?",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-106-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Blessed <span class=\"clarity-word\">are</span> they that keep judgment, <span class=\"clarity-word\">and</span> he that doeth righteousness at all times.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-106-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Remember me, O <span class=\"small-caps\">Lord</span>, with the favour <span class=\"clarity-word\">that thou bearest unto</span> thy people: O visit me with thy salvation;",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-106-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "That I may see the good of thy chosen, that I may rejoice in the gladness of thy nation, that I may glory with thine inheritance.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-106-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "We have sinned with our fathers, we have committed iniquity, we have done wickedly.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-106-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Our fathers understood not thy wonders in Egypt; they remembered not the multitude of thy mercies; but provoked <span class=\"clarity-word\">him</span> at the sea, <span class=\"clarity-word\">even</span> at the Red sea.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-106-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Nevertheless he saved them for his name’s sake, that he might make his mighty power to be known.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "psalm-106-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "He rebuked the Red sea also, and it was dried up: so he led them through the depths, as through the wilderness.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "psalm-106-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And he saved them from the hand of him that hated <span class=\"clarity-word\">them,</span> and redeemed them from the hand of the enemy.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "psalm-106-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And the waters covered their enemies: there was not one of them left.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "psalm-106-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Then believed they his words; they sang his praise.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "psalm-106-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "They soon forgat his works; they waited not for his counsel:",
+      "churchId": "p13"
+    },
+    {
+      "slug": "psalm-106-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "But lusted exceedingly in the wilderness, and tempted God in the desert.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "psalm-106-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And he gave them their request; but sent leanness into their soul.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "psalm-106-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "They envied Moses also in the camp, <span class=\"clarity-word\">and</span> Aaron the saint of the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "psalm-106-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "The earth opened and swallowed up Dathan, and covered the company of Abiram.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "psalm-106-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And a fire was kindled in their company; the flame burned up the wicked.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "psalm-106-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "They made a calf in Horeb, and worshipped the molten image.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "psalm-106-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Thus they changed their glory into the similitude of an ox that eateth grass.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "psalm-106-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "They forgat God their saviour, which had done great things in Egypt;",
+      "churchId": "p21"
+    },
+    {
+      "slug": "psalm-106-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Wondrous works in the land of Ham, <span class=\"clarity-word\">and</span> terrible things by the Red sea.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "psalm-106-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Therefore he said that he would destroy them, had not Moses his chosen stood before him in the breach, to turn away his wrath, lest he should destroy <span class=\"clarity-word\">them.</span>",
+      "churchId": "p23"
+    },
+    {
+      "slug": "psalm-106-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Yea, they despised the pleasant land, they believed not his word:",
+      "churchId": "p24"
+    },
+    {
+      "slug": "psalm-106-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "But murmured in their tents, <span class=\"clarity-word\">and</span> hearkened not unto the voice of the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "psalm-106-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "Therefore he lifted up his hand against them, to overthrow them in the wilderness:",
+      "churchId": "p26"
+    },
+    {
+      "slug": "psalm-106-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "To overthrow their seed also among the nations, and to scatter them in the lands.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "psalm-106-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "They joined themselves also unto Baal-peor, and ate the sacrifices of the dead.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "psalm-106-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "Thus they provoked <span class=\"clarity-word\">him</span> to anger with their inventions: and the plague brake in upon them.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "psalm-106-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "Then stood up Phinehas, and executed judgment: and <span class=\"clarity-word\">so</span> the plague was stayed.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "psalm-106-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "And that was counted unto him for righteousness unto all generations for evermore.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "psalm-106-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "They angered <span class=\"clarity-word\">him</span> also at the waters of strife, so that it went ill with Moses for their sakes:",
+      "churchId": "p32"
+    },
+    {
+      "slug": "psalm-106-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "Because they provoked his spirit, so that he spake unadvisedly with his lips.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "psalm-106-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "They did not destroy the nations, concerning whom the <span class=\"small-caps\">Lord</span> commanded them:",
+      "churchId": "p34"
+    },
+    {
+      "slug": "psalm-106-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "But were mingled among the heathen, and learned their works.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "psalm-106-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "And they served their idols: which were a snare unto them.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "psalm-106-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "Yea, they sacrificed their sons and their daughters unto devils,",
+      "churchId": "p37"
+    },
+    {
+      "slug": "psalm-106-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "And shed innocent blood, <span class=\"clarity-word\">even</span> the blood of their sons and of their daughters, whom they sacrificed unto the idols of Canaan: and the land was polluted with blood.",
+      "churchId": "p38"
+    },
+    {
+      "slug": "psalm-106-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "Thus were they defiled with their own works, and went a whoring with their own inventions.",
+      "churchId": "p39"
+    },
+    {
+      "slug": "psalm-106-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "Therefore was the wrath of the <span class=\"small-caps\">Lord</span> kindled against his people, insomuch that he abhorred his own inheritance.",
+      "churchId": "p40"
+    },
+    {
+      "slug": "psalm-106-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "And he gave them into the hand of the heathen; and they that hated them ruled over them.",
+      "churchId": "p41"
+    },
+    {
+      "slug": "psalm-106-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "Their enemies also oppressed them, and they were brought into subjection under their hand.",
+      "churchId": "p42"
+    },
+    {
+      "slug": "psalm-106-p43",
+      "type": "verse",
+      "number": "43",
+      "content": "Many times did he deliver them; but they provoked <span class=\"clarity-word\">him</span> with their counsel, and were brought low for their iniquity.",
+      "churchId": "p43"
+    },
+    {
+      "slug": "psalm-106-p44",
+      "type": "verse",
+      "number": "44",
+      "content": "Nevertheless he regarded their affliction, when he heard their cry:",
+      "churchId": "p44"
+    },
+    {
+      "slug": "psalm-106-p45",
+      "type": "verse",
+      "number": "45",
+      "content": "And he remembered for them his covenant, and repented according to the multitude of his mercies.",
+      "churchId": "p45"
+    },
+    {
+      "slug": "psalm-106-p46",
+      "type": "verse",
+      "number": "46",
+      "content": "He made them also to be pitied of all those that carried them captives.",
+      "churchId": "p46"
+    },
+    {
+      "slug": "psalm-106-p47",
+      "type": "verse",
+      "number": "47",
+      "content": "Save us, O <span class=\"small-caps\">Lord</span> our God, and gather us from among the heathen, to give thanks unto thy holy name, <span class=\"clarity-word\">and</span> to triumph in thy praise.",
+      "churchId": "p47"
+    },
+    {
+      "slug": "psalm-106-p48",
+      "type": "verse",
+      "number": "48",
+      "content": "Blessed <span class=\"clarity-word\">be</span> the <span class=\"small-caps\">Lord</span> God of Israel from everlasting to everlasting: and let all the people say, Amen. Praise ye the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p48"
+    }
+  ]
+}

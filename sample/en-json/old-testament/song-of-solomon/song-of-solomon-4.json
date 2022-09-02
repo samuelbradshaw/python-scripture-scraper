@@ -1,0 +1,127 @@
+{
+  "name": "Song of Solomon 4",
+  "abbrev": "Song 4",
+  "number": "4",
+  "churchUri": "/scriptures/ot/song/4",
+  "paragraphs": [
+    {
+      "slug": "song-of-solomon-4-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 4",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "song-of-solomon-4-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Behold, thou <span class=\"clarity-word\">art</span> fair, my love; behold, thou <span class=\"clarity-word\">art</span> fair; thou <span class=\"clarity-word\">hast</span> doves’ eyes within thy locks: thy hair <span class=\"clarity-word\">is</span> as a flock of goats, that appear from mount Gilead.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "song-of-solomon-4-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Thy teeth <span class=\"clarity-word\">are</span> like a flock <span class=\"clarity-word\">of sheep that are even</span> shorn, which came up from the washing; whereof every one bear twins, and none <span class=\"clarity-word\">is</span> barren among them.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "song-of-solomon-4-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Thy lips <span class=\"clarity-word\">are</span> like a thread of scarlet, and thy speech <span class=\"clarity-word\">is</span> comely: thy temples <span class=\"clarity-word\">are</span> like a piece of a pomegranate within thy locks.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "song-of-solomon-4-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Thy neck <span class=\"clarity-word\">is</span> like the tower of David builded for an armoury, whereon there hang a thousand bucklers, all shields of mighty men.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "song-of-solomon-4-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Thy two breasts <span class=\"clarity-word\">are</span> like two young roes that are twins, which feed among the lilies.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "song-of-solomon-4-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Until the day break, and the shadows flee away, I will get me to the mountain of myrrh, and to the hill of frankincense.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "song-of-solomon-4-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Thou <span class=\"clarity-word\">art</span> all fair, my love; <span class=\"clarity-word\">there is</span> no spot in thee.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "song-of-solomon-4-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "¶ Come with me from Lebanon, <span class=\"clarity-word\">my</span> spouse, with me from Lebanon: look from the top of Amana, from the top of Shenir and Hermon, from the lions’ dens, from the mountains of the leopards.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "song-of-solomon-4-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Thou hast ravished my heart, my sister, <span class=\"clarity-word\">my</span> spouse; thou hast ravished my heart with one of thine eyes, with one chain of thy neck.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "song-of-solomon-4-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "How fair is thy love, my sister, <span class=\"clarity-word\">my</span> spouse! how much better is thy love than wine! and the smell of thine ointments than all spices!",
+      "churchId": "p10"
+    },
+    {
+      "slug": "song-of-solomon-4-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Thy lips, O <span class=\"clarity-word\">my</span> spouse, drop <span class=\"clarity-word\">as</span> the honeycomb: honey and milk <span class=\"clarity-word\">are</span> under thy tongue; and the smell of thy garments <span class=\"clarity-word\">is</span> like the smell of Lebanon.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "song-of-solomon-4-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "A garden inclosed <span class=\"clarity-word\">is</span> my sister, <span class=\"clarity-word\">my</span> spouse; a spring shut up, a fountain sealed.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "song-of-solomon-4-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Thy plants <span class=\"clarity-word\">are</span> an orchard of pomegranates, with pleasant fruits; camphire, with spikenard,",
+      "churchId": "p13"
+    },
+    {
+      "slug": "song-of-solomon-4-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Spikenard and saffron; calamus and cinnamon, with all trees of frankincense; myrrh and aloes, with all the chief spices:",
+      "churchId": "p14"
+    },
+    {
+      "slug": "song-of-solomon-4-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "A fountain of gardens, a well of living waters, and streams from Lebanon.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "song-of-solomon-4-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "¶ Awake, O north wind; and come, thou south; blow upon my garden, <span class=\"clarity-word\">that</span> the spices thereof may flow out. Let my beloved come into his garden, and eat his pleasant fruits.",
+      "churchId": "p16"
+    }
+  ]
+}

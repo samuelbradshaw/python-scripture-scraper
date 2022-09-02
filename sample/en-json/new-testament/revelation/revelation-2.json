@@ -1,0 +1,218 @@
+{
+  "name": "Revelation 2",
+  "abbrev": "Rev. 2",
+  "number": "2",
+  "churchUri": "/scriptures/nt/rev/2",
+  "paragraphs": [
+    {
+      "slug": "revelation-2-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 2",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "revelation-2-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Unto the angel of the church of Ephesus write; These things saith he that holdeth the seven stars in his right hand, who walketh in the midst of the seven golden candlesticks;",
+      "churchId": "p1"
+    },
+    {
+      "slug": "revelation-2-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "I know thy works, and thy labour, and thy patience, and how thou canst not bear them which are evil: and thou hast tried them which say they are apostles, and are not, and hast found them liars:",
+      "churchId": "p2"
+    },
+    {
+      "slug": "revelation-2-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And hast borne, and hast patience, and for my name’s sake hast laboured, and hast not fainted.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "revelation-2-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Nevertheless I have <span class=\"clarity-word\">somewhat</span> against thee, because thou hast left thy first love.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "revelation-2-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Remember therefore from whence thou art fallen, and repent, and do the first works; or else I will come unto thee quickly, and will remove thy candlestick out of his place, except thou repent.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "revelation-2-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "But this thou hast, that thou hatest the deeds of the Nicolaitans, which I also hate.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "revelation-2-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "He that hath an ear, let him hear what the Spirit saith unto the churches; To him that overcometh will I give to eat of the tree of life, which is in the midst of the paradise of God.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "revelation-2-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And unto the angel of the church in Smyrna write; These things saith the first and the last, which was dead, and is alive;",
+      "churchId": "p8"
+    },
+    {
+      "slug": "revelation-2-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "I know thy works, and tribulation, and poverty, (but thou art rich) and <span class=\"clarity-word\">I know</span> the blasphemy of them which say they are Jews, and are not, but <span class=\"clarity-word\">are</span> the synagogue of Satan.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "revelation-2-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Fear none of those things which thou shalt suffer: behold, the devil shall cast <span class=\"clarity-word\">some</span> of you into prison, that ye may be tried; and ye shall have tribulation ten days: be thou faithful unto death, and I will give thee a crown of life.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "revelation-2-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "He that hath an ear, let him hear what the Spirit saith unto the churches; He that overcometh shall not be hurt of the second death.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "revelation-2-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And to the angel of the church in Pergamos write; These things saith he which hath the sharp sword with two edges;",
+      "churchId": "p12"
+    },
+    {
+      "slug": "revelation-2-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "I know thy works, and where thou dwellest, <span class=\"clarity-word\">even</span> where Satan’s seat <span class=\"clarity-word\">is:</span> and thou holdest fast my name, and hast not denied my faith, even in those days wherein Antipas <span class=\"clarity-word\">was</span> my faithful martyr, who was slain among you, where Satan dwelleth.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "revelation-2-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "But I have a few things against thee, because thou hast there them that hold the doctrine of Balaam, who taught Balac to cast a stumblingblock before the children of Israel, to eat things sacrificed unto idols, and to commit fornication.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "revelation-2-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "So hast thou also them that hold the doctrine of the Nicolaitans, which thing I hate.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "revelation-2-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Repent; or else I will come unto thee quickly, and will fight against them with the sword of my mouth.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "revelation-2-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "He that hath an ear, let him hear what the Spirit saith unto the churches; To him that overcometh will I give to eat of the hidden manna, and will give him a white stone, and in the stone a new name written, which no man knoweth saving he that receiveth <span class=\"clarity-word\">it.</span>",
+      "churchId": "p17"
+    },
+    {
+      "slug": "revelation-2-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And unto the angel of the church in Thyatira write; These things saith the Son of God, who hath his eyes like unto a flame of fire, and his feet <span class=\"clarity-word\">are</span> like fine brass;",
+      "churchId": "p18"
+    },
+    {
+      "slug": "revelation-2-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "I know thy works, and charity, and service, and faith, and thy patience, and thy works; and the last <span class=\"clarity-word\">to be</span> more than the first.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "revelation-2-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Notwithstanding I have a few things against thee, because thou sufferest that woman Jezebel, which calleth herself a prophetess, to teach and to seduce my servants to commit fornication, and to eat things sacrificed unto idols.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "revelation-2-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And I gave her space to repent of her fornication; and she repented not.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "revelation-2-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Behold, I will cast her into a bed, and them that commit adultery with her into great tribulation, except they repent of their deeds.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "revelation-2-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And I will kill her children with death; and all the churches shall know that I am he which searcheth the reins and hearts: and I will give unto every one of you according to your works.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "revelation-2-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "But unto you I say, and unto the rest in Thyatira, as many as have not this doctrine, and which have not known the depths of Satan, as they speak; I will put upon you none other burden.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "revelation-2-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "But that which ye have <span class=\"clarity-word\">already</span> hold fast till I come.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "revelation-2-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And he that overcometh, and keepeth my works unto the end, to him will I give power over the nations:",
+      "churchId": "p26"
+    },
+    {
+      "slug": "revelation-2-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And he shall rule them with a rod of iron; as the vessels of a potter shall they be broken to shivers: even as I received of my Father.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "revelation-2-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And I will give him the morning star.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "revelation-2-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "He that hath an ear, let him hear what the Spirit saith unto the churches.",
+      "churchId": "p29"
+    }
+  ]
+}

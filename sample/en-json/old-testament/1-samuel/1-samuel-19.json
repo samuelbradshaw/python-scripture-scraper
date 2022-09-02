@@ -1,0 +1,183 @@
+{
+  "name": "1 Samuel 19",
+  "abbrev": "1 Sam. 19",
+  "number": "19",
+  "churchUri": "/scriptures/ot/1-sam/19",
+  "paragraphs": [
+    {
+      "slug": "1-samuel-19-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 19",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "1-samuel-19-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And Saul spake to Jonathan his son, and to all his servants, that they should kill David.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "1-samuel-19-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "But Jonathan Saul’s son delighted much in David: and Jonathan told David, saying, Saul my father seeketh to kill thee: now therefore, I pray thee, take heed to thyself until the morning, and abide in a secret <span class=\"clarity-word\">place,</span> and hide thyself:",
+      "churchId": "p2"
+    },
+    {
+      "slug": "1-samuel-19-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And I will go out and stand beside my father in the field where thou <span class=\"clarity-word\">art,</span> and I will commune with my father of thee; and what I see, that I will tell thee.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "1-samuel-19-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "¶ And Jonathan spake good of David unto Saul his father, and said unto him, Let not the king sin against his servant, against David; because he hath not sinned against thee, and because his works <span class=\"clarity-word\">have been</span> to thee-ward very good:",
+      "churchId": "p4"
+    },
+    {
+      "slug": "1-samuel-19-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "For he did put his life in his hand, and slew the Philistine, and the <span class=\"small-caps\">Lord</span> wrought a great salvation for all Israel: thou sawest <span class=\"clarity-word\">it,</span> and didst rejoice: wherefore then wilt thou sin against innocent blood, to slay David without a cause?",
+      "churchId": "p5"
+    },
+    {
+      "slug": "1-samuel-19-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And Saul hearkened unto the voice of Jonathan: and Saul sware, <span class=\"clarity-word\">As</span> the <span class=\"small-caps\">Lord</span> liveth, he shall not be slain.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "1-samuel-19-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And Jonathan called David, and Jonathan shewed him all those things. And Jonathan brought David to Saul, and he was in his presence, as in times past.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "1-samuel-19-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "¶ And there was war again: and David went out, and fought with the Philistines, and slew them with a great slaughter; and they fled from him.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "1-samuel-19-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And the evil spirit from the <span class=\"small-caps\">Lord</span> was upon Saul, as he sat in his house with his javelin in his hand: and David played with <span class=\"clarity-word\">his</span> hand.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "1-samuel-19-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And Saul sought to smite David even to the wall with the javelin; but he slipped away out of Saul’s presence, and he smote the javelin into the wall: and David fled, and escaped that night.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "1-samuel-19-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Saul also sent messengers unto David’s house, to watch him, and to slay him in the morning: and Michal David’s wife told him, saying, If thou save not thy life to night, to morrow thou shalt be slain.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "1-samuel-19-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "¶ So Michal let David down through a window: and he went, and fled, and escaped.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "1-samuel-19-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And Michal took an image, and laid <span class=\"clarity-word\">it</span> in the bed, and put a pillow of goats’ <span class=\"clarity-word\">hair</span> for his bolster, and covered <span class=\"clarity-word\">it</span> with a cloth.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "1-samuel-19-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And when Saul sent messengers to take David, she said, He <span class=\"clarity-word\">is</span> sick.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "1-samuel-19-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And Saul sent the messengers <span class=\"clarity-word\">again</span> to see David, saying, Bring him up to me in the bed, that I may slay him.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "1-samuel-19-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And when the messengers were come in, behold, <span class=\"clarity-word\">there was</span> an image in the bed, with a pillow of goats’ <span class=\"clarity-word\">hair</span> for his bolster.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "1-samuel-19-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And Saul said unto Michal, Why hast thou deceived me so, and sent away mine enemy, that he is escaped? And Michal answered Saul, He said unto me, Let me go; why should I kill thee?",
+      "churchId": "p17"
+    },
+    {
+      "slug": "1-samuel-19-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "¶ So David fled, and escaped, and came to Samuel to Ramah, and told him all that Saul had done to him. And he and Samuel went and dwelt in Naioth.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "1-samuel-19-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And it was told Saul, saying, Behold, David <span class=\"clarity-word\">is</span> at Naioth in Ramah.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "1-samuel-19-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And Saul sent messengers to take David: and when they saw the company of the prophets prophesying, and Samuel standing <span class=\"clarity-word\">as</span> appointed over them, the Spirit of God was upon the messengers of Saul, and they also prophesied.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "1-samuel-19-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And when it was told Saul, he sent other messengers, and they prophesied likewise. And Saul sent messengers again the third time, and they prophesied also.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "1-samuel-19-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Then went he also to Ramah, and came to a great well that <span class=\"clarity-word\">is</span> in Sechu: and he asked and said, Where <span class=\"clarity-word\">are</span> Samuel and David? And <span class=\"clarity-word\">one</span> said, Behold, <span class=\"clarity-word\">they be</span> at Naioth in Ramah.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "1-samuel-19-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And he went thither to Naioth in Ramah: and the Spirit of God was upon him also, and he went on, and prophesied, until he came to Naioth in Ramah.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "1-samuel-19-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And he stripped off his clothes also, and prophesied before Samuel in like manner, and lay down naked all that day and all that night. Wherefore they say, <span class=\"clarity-word\">Is</span> Saul also among the prophets?",
+      "churchId": "p24"
+    }
+  ]
+}

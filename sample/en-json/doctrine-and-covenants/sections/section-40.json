@@ -1,0 +1,36 @@
+{
+  "name": "Doctrine and Covenants 40",
+  "abbrev": "D&C 40",
+  "number": "40",
+  "churchUri": "/scriptures/dc-testament/dc/40",
+  "paragraphs": [
+    {
+      "slug": "section-40-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Section 40",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "section-40-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Behold, verily I say unto you, that the heart of my servant James Covel was right before me, for he covenanted with me that he would obey my word.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "section-40-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And he received the word with gladness, but straightway Satan tempted him; and the fear of persecution and the cares of the world caused him to reject the word.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "section-40-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Wherefore he broke my covenant, and it remaineth with me to do with him as seemeth me good. Amen.",
+      "churchId": "p3"
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "name": "Hebrews 9",
+  "abbrev": "Heb. 9",
+  "number": "9",
+  "churchUri": "/scriptures/nt/heb/9",
+  "paragraphs": [
+    {
+      "slug": "hebrews-9-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 9",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "hebrews-9-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Then verily the first <span class=\"clarity-word\">covenant</span> had also ordinances of divine service, and a worldly sanctuary.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "hebrews-9-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "For there was a tabernacle made; the first, wherein <span class=\"clarity-word\">was</span> the candlestick, and the table, and the shewbread; which is called the sanctuary.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "hebrews-9-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And after the second veil, the tabernacle which is called the Holiest of all;",
+      "churchId": "p3"
+    },
+    {
+      "slug": "hebrews-9-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Which had the golden censer, and the ark of the covenant overlaid round about with gold, wherein <span class=\"clarity-word\">was</span> the golden pot that had manna, and Aaron’s rod that budded, and the tables of the covenant;",
+      "churchId": "p4"
+    },
+    {
+      "slug": "hebrews-9-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And over it the cherubims of glory shadowing the mercyseat; of which we cannot now speak particularly.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "hebrews-9-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Now when these things were thus ordained, the priests went always into the first tabernacle, accomplishing the service <span class=\"clarity-word\">of God.</span>",
+      "churchId": "p6"
+    },
+    {
+      "slug": "hebrews-9-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "But into the second <span class=\"clarity-word\">went</span> the high priest alone once every year, not without blood, which he offered for himself, and <span class=\"clarity-word\">for</span> the errors of the people:",
+      "churchId": "p7"
+    },
+    {
+      "slug": "hebrews-9-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "The Holy Ghost this signifying, that the way into the holiest of all was not yet made manifest, while as the first tabernacle was yet standing:",
+      "churchId": "p8"
+    },
+    {
+      "slug": "hebrews-9-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Which <span class=\"clarity-word\">was</span> a figure for the time then present, in which were offered both gifts and sacrifices, that could not make him that did the service perfect, as pertaining to the conscience;",
+      "churchId": "p9"
+    },
+    {
+      "slug": "hebrews-9-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "<span class=\"clarity-word\">Which stood</span> only in meats and drinks, and divers washings, and carnal ordinances, imposed <span class=\"clarity-word\">on them</span> until the time of reformation.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "hebrews-9-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "But Christ being come an high priest of good things to come, by a greater and more perfect tabernacle, not made with hands, that is to say, not of this building;",
+      "churchId": "p11"
+    },
+    {
+      "slug": "hebrews-9-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Neither by the blood of goats and calves, but by his own blood he entered in once into the holy place, having obtained eternal redemption <span class=\"clarity-word\">for us.</span>",
+      "churchId": "p12"
+    },
+    {
+      "slug": "hebrews-9-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "For if the blood of bulls and of goats, and the ashes of an heifer sprinkling the unclean, sanctifieth to the purifying of the flesh:",
+      "churchId": "p13"
+    },
+    {
+      "slug": "hebrews-9-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "How much more shall the blood of Christ, who through the eternal Spirit offered himself without spot to God, purge your conscience from dead works to serve the living God?",
+      "churchId": "p14"
+    },
+    {
+      "slug": "hebrews-9-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And for this cause he is the mediator of the new testament, that by means of death, for the redemption of the transgressions <span class=\"clarity-word\">that were</span> under the first testament, they which are called might receive the promise of eternal inheritance.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "hebrews-9-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "For where a testament <span class=\"clarity-word\">is,</span> there must also of necessity be the death of the testator.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "hebrews-9-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "For a testament <span class=\"clarity-word\">is</span> of force after men are dead: otherwise it is of no strength at all while the testator liveth.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "hebrews-9-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Whereupon neither the first <span class=\"clarity-word\">testament</span> was dedicated without blood.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "hebrews-9-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "For when Moses had spoken every precept to all the people according to the law, he took the blood of calves and of goats, with water, and scarlet wool, and hyssop, and sprinkled both the book, and all the people,",
+      "churchId": "p19"
+    },
+    {
+      "slug": "hebrews-9-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Saying, This <span class=\"clarity-word\">is</span> the blood of the testament which God hath enjoined unto you.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "hebrews-9-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Moreover he sprinkled with blood both the tabernacle, and all the vessels of the ministry.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "hebrews-9-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And almost all things are by the law purged with blood; and without shedding of blood is no remission.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "hebrews-9-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "<span class=\"clarity-word\">It was</span> therefore necessary that the patterns of things in the heavens should be purified with these; but the heavenly things themselves with better sacrifices than these.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "hebrews-9-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "For Christ is not entered into the holy places made with hands, <span class=\"clarity-word\">which are</span> the figures of the true; but into heaven itself, now to appear in the presence of God for us:",
+      "churchId": "p24"
+    },
+    {
+      "slug": "hebrews-9-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Nor yet that he should offer himself often, as the high priest entereth into the holy place every year with blood of others;",
+      "churchId": "p25"
+    },
+    {
+      "slug": "hebrews-9-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "For then must he often have suffered since the foundation of the world: but now once in the end of the world hath he appeared to put away sin by the sacrifice of himself.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "hebrews-9-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And as it is appointed unto men once to die, but after this the judgment:",
+      "churchId": "p27"
+    },
+    {
+      "slug": "hebrews-9-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "So Christ was once offered to bear the sins of many; and unto them that look for him shall he appear the second time without sin unto salvation.",
+      "churchId": "p28"
+    }
+  ]
+}

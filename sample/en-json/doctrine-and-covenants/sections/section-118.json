@@ -1,0 +1,57 @@
+{
+  "name": "Doctrine and Covenants 118",
+  "abbrev": "D&C 118",
+  "number": "118",
+  "churchUri": "/scriptures/dc-testament/dc/118",
+  "paragraphs": [
+    {
+      "slug": "section-118-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Section 118",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "section-118-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Verily, thus saith the Lord: Let a conference be held immediately; let the Twelve be organized; and let men be appointed to supply the place of those who are fallen.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "section-118-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Let my servant Thomas remain for a season in the land of Zion, to publish my word.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "section-118-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Let the residue continue to preach from that hour, and if they will do this in all lowliness of heart, in meekness and humility, and long-suffering, I, the Lord, give unto them a promise that I will provide for their families; and an effectual door shall be opened for them, from henceforth.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "section-118-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And next spring let them depart to go over the great waters, and there promulgate my gospel, the fulness thereof, and bear record of my name.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "section-118-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Let them take leave of my saints in the city of Far West, on the twenty-sixth day of April next, on the building-spot of my house, saith the Lord.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "section-118-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Let my servant John Taylor, and also my servant John E. Page, and also my servant Wilford Woodruff, and also my servant Willard Richards, be appointed to fill the places of those who have fallen, and be officially notified of their appointment.",
+      "churchId": "p6"
+    }
+  ]
+}

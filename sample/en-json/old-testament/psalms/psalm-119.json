@@ -1,0 +1,1401 @@
+{
+  "name": "Psalm 119",
+  "abbrev": "Psalm 119",
+  "number": "119",
+  "churchUri": "/scriptures/ot/ps/119",
+  "paragraphs": [
+    {
+      "slug": "psalm-119-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 119",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-119-title1",
+      "type": "section-title",
+      "number": null,
+      "content": "א Aleph",
+      "churchId": "title1"
+    },
+    {
+      "slug": "psalm-119-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Blessed <span class=\"clarity-word\">are</span> the undefiled in the way, who walk in the law of the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-119-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Blessed <span class=\"clarity-word\">are</span> they that keep his testimonies, <span class=\"clarity-word\">and that</span> seek him with the whole heart.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-119-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "They also do no iniquity: they walk in his ways.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-119-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Thou hast commanded <span class=\"clarity-word\">us</span> to keep thy precepts diligently.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-119-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "O that my ways were directed to keep thy statutes!",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-119-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Then shall I not be ashamed, when I have respect unto all thy commandments.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-119-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "I will praise thee with uprightness of heart, when I shall have learned thy righteous judgments.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-119-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "I will keep thy statutes: O forsake me not utterly.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "psalm-119-title2",
+      "type": "section-title",
+      "number": null,
+      "content": "ב Beth",
+      "churchId": "title2"
+    },
+    {
+      "slug": "psalm-119-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Wherewithal shall a young man cleanse his way? by taking heed <span class=\"clarity-word\">thereto</span> according to thy word.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "psalm-119-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "With my whole heart have I sought thee: O let me not wander from thy commandments.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "psalm-119-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Thy word have I hid in mine heart, that I might not sin against thee.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "psalm-119-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Blessed <span class=\"clarity-word\">art</span> thou, O <span class=\"small-caps\">Lord</span>: teach me thy statutes.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "psalm-119-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "With my lips have I declared all the judgments of thy mouth.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "psalm-119-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "I have rejoiced in the way of thy testimonies, as <span class=\"clarity-word\">much as</span> in all riches.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "psalm-119-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "I will meditate in thy precepts, and have respect unto thy ways.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "psalm-119-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "I will delight myself in thy statutes: I will not forget thy word.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "psalm-119-title3",
+      "type": "section-title",
+      "number": null,
+      "content": "ג Gimel",
+      "churchId": "title3"
+    },
+    {
+      "slug": "psalm-119-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Deal bountifully with thy servant, <span class=\"clarity-word\">that</span> I may live, and keep thy word.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "psalm-119-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Open thou mine eyes, that I may behold wondrous things out of thy law.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "psalm-119-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "I <span class=\"clarity-word\">am</span> a stranger in the earth: hide not thy commandments from me.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "psalm-119-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "My soul breaketh for the longing <span class=\"clarity-word\">that it hath</span> unto thy judgments at all times.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "psalm-119-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Thou hast rebuked the proud <span class=\"clarity-word\">that are</span> cursed, which do err from thy commandments.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "psalm-119-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Remove from me reproach and contempt; for I have kept thy testimonies.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "psalm-119-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Princes also did sit <span class=\"clarity-word\">and</span> speak against me: <span class=\"clarity-word\">but</span> thy servant did meditate in thy statutes.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "psalm-119-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Thy testimonies also <span class=\"clarity-word\">are</span> my delight <span class=\"clarity-word\">and</span> my counsellors.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "psalm-119-title4",
+      "type": "section-title",
+      "number": null,
+      "content": "ד Daleth",
+      "churchId": "title4"
+    },
+    {
+      "slug": "psalm-119-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "My soul cleaveth unto the dust: quicken thou me according to thy word.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "psalm-119-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "I have declared my ways, and thou heardest me: teach me thy statutes.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "psalm-119-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "Make me to understand the way of thy precepts: so shall I talk of thy wondrous works.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "psalm-119-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "My soul melteth for heaviness: strengthen thou me according unto thy word.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "psalm-119-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "Remove from me the way of lying: and grant me thy law graciously.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "psalm-119-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "I have chosen the way of truth: thy judgments have I laid <span class=\"clarity-word\">before me.</span>",
+      "churchId": "p30"
+    },
+    {
+      "slug": "psalm-119-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "I have stuck unto thy testimonies: O <span class=\"small-caps\">Lord</span>, put me not to shame.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "psalm-119-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "I will run the way of thy commandments, when thou shalt enlarge my heart.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "psalm-119-title5",
+      "type": "section-title",
+      "number": null,
+      "content": "ה He",
+      "churchId": "title5"
+    },
+    {
+      "slug": "psalm-119-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "Teach me, O <span class=\"small-caps\">Lord</span>, the way of thy statutes; and I shall keep it <span class=\"clarity-word\">unto</span> the end.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "psalm-119-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "Give me understanding, and I shall keep thy law; yea, I shall observe it with <span class=\"clarity-word\">my</span> whole heart.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "psalm-119-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "Make me to go in the path of thy commandments; for therein do I delight.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "psalm-119-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "Incline my heart unto thy testimonies, and not to covetousness.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "psalm-119-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "Turn away mine eyes from beholding vanity; <span class=\"clarity-word\">and</span> quicken thou me in thy way.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "psalm-119-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "Stablish thy word unto thy servant, who <span class=\"clarity-word\">is devoted</span> to thy fear.",
+      "churchId": "p38"
+    },
+    {
+      "slug": "psalm-119-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "Turn away my reproach which I fear: for thy judgments <span class=\"clarity-word\">are</span> good.",
+      "churchId": "p39"
+    },
+    {
+      "slug": "psalm-119-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "Behold, I have longed after thy precepts: quicken me in thy righteousness.",
+      "churchId": "p40"
+    },
+    {
+      "slug": "psalm-119-title6",
+      "type": "section-title",
+      "number": null,
+      "content": "ו Vau",
+      "churchId": "title6"
+    },
+    {
+      "slug": "psalm-119-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "Let thy mercies come also unto me, O <span class=\"small-caps\">Lord</span>, <span class=\"clarity-word\">even</span> thy salvation, according to thy word.",
+      "churchId": "p41"
+    },
+    {
+      "slug": "psalm-119-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "So shall I have wherewith to answer him that reproacheth me: for I trust in thy word.",
+      "churchId": "p42"
+    },
+    {
+      "slug": "psalm-119-p43",
+      "type": "verse",
+      "number": "43",
+      "content": "And take not the word of truth utterly out of my mouth; for I have hoped in thy judgments.",
+      "churchId": "p43"
+    },
+    {
+      "slug": "psalm-119-p44",
+      "type": "verse",
+      "number": "44",
+      "content": "So shall I keep thy law continually for ever and ever.",
+      "churchId": "p44"
+    },
+    {
+      "slug": "psalm-119-p45",
+      "type": "verse",
+      "number": "45",
+      "content": "And I will walk at liberty: for I seek thy precepts.",
+      "churchId": "p45"
+    },
+    {
+      "slug": "psalm-119-p46",
+      "type": "verse",
+      "number": "46",
+      "content": "I will speak of thy testimonies also before kings, and will not be ashamed.",
+      "churchId": "p46"
+    },
+    {
+      "slug": "psalm-119-p47",
+      "type": "verse",
+      "number": "47",
+      "content": "And I will delight myself in thy commandments, which I have loved.",
+      "churchId": "p47"
+    },
+    {
+      "slug": "psalm-119-p48",
+      "type": "verse",
+      "number": "48",
+      "content": "My hands also will I lift up unto thy commandments, which I have loved; and I will meditate in thy statutes.",
+      "churchId": "p48"
+    },
+    {
+      "slug": "psalm-119-title7",
+      "type": "section-title",
+      "number": null,
+      "content": "ז Zain",
+      "churchId": "title7"
+    },
+    {
+      "slug": "psalm-119-p49",
+      "type": "verse",
+      "number": "49",
+      "content": "Remember the word unto thy servant, upon which thou hast caused me to hope.",
+      "churchId": "p49"
+    },
+    {
+      "slug": "psalm-119-p50",
+      "type": "verse",
+      "number": "50",
+      "content": "This <span class=\"clarity-word\">is</span> my comfort in my affliction: for thy word hath quickened me.",
+      "churchId": "p50"
+    },
+    {
+      "slug": "psalm-119-p51",
+      "type": "verse",
+      "number": "51",
+      "content": "The proud have had me greatly in derision: <span class=\"clarity-word\">yet</span> have I not declined from thy law.",
+      "churchId": "p51"
+    },
+    {
+      "slug": "psalm-119-p52",
+      "type": "verse",
+      "number": "52",
+      "content": "I remembered thy judgments of old, O <span class=\"small-caps\">Lord</span>; and have comforted myself.",
+      "churchId": "p52"
+    },
+    {
+      "slug": "psalm-119-p53",
+      "type": "verse",
+      "number": "53",
+      "content": "Horror hath taken hold upon me because of the wicked that forsake thy law.",
+      "churchId": "p53"
+    },
+    {
+      "slug": "psalm-119-p54",
+      "type": "verse",
+      "number": "54",
+      "content": "Thy statutes have been my songs in the house of my pilgrimage.",
+      "churchId": "p54"
+    },
+    {
+      "slug": "psalm-119-p55",
+      "type": "verse",
+      "number": "55",
+      "content": "I have remembered thy name, O <span class=\"small-caps\">Lord</span>, in the night, and have kept thy law.",
+      "churchId": "p55"
+    },
+    {
+      "slug": "psalm-119-p56",
+      "type": "verse",
+      "number": "56",
+      "content": "This I had, because I kept thy precepts.",
+      "churchId": "p56"
+    },
+    {
+      "slug": "psalm-119-title8",
+      "type": "section-title",
+      "number": null,
+      "content": "ח Cheth",
+      "churchId": "title8"
+    },
+    {
+      "slug": "psalm-119-p57",
+      "type": "verse",
+      "number": "57",
+      "content": "<span class=\"clarity-word\">Thou art</span> my portion, O <span class=\"small-caps\">Lord</span>: I have said that I would keep thy words.",
+      "churchId": "p57"
+    },
+    {
+      "slug": "psalm-119-p58",
+      "type": "verse",
+      "number": "58",
+      "content": "I entreated thy favour with <span class=\"clarity-word\">my</span> whole heart: be merciful unto me according to thy word.",
+      "churchId": "p58"
+    },
+    {
+      "slug": "psalm-119-p59",
+      "type": "verse",
+      "number": "59",
+      "content": "I thought on my ways, and turned my feet unto thy testimonies.",
+      "churchId": "p59"
+    },
+    {
+      "slug": "psalm-119-p60",
+      "type": "verse",
+      "number": "60",
+      "content": "I made haste, and delayed not to keep thy commandments.",
+      "churchId": "p60"
+    },
+    {
+      "slug": "psalm-119-p61",
+      "type": "verse",
+      "number": "61",
+      "content": "The bands of the wicked have robbed me: <span class=\"clarity-word\">but</span> I have not forgotten thy law.",
+      "churchId": "p61"
+    },
+    {
+      "slug": "psalm-119-p62",
+      "type": "verse",
+      "number": "62",
+      "content": "At midnight I will rise to give thanks unto thee because of thy righteous judgments.",
+      "churchId": "p62"
+    },
+    {
+      "slug": "psalm-119-p63",
+      "type": "verse",
+      "number": "63",
+      "content": "I <span class=\"clarity-word\">am</span> a companion of all <span class=\"clarity-word\">them</span> that fear thee, and of them that keep thy precepts.",
+      "churchId": "p63"
+    },
+    {
+      "slug": "psalm-119-p64",
+      "type": "verse",
+      "number": "64",
+      "content": "The earth, O <span class=\"small-caps\">Lord</span>, is full of thy mercy: teach me thy statutes.",
+      "churchId": "p64"
+    },
+    {
+      "slug": "psalm-119-title9",
+      "type": "section-title",
+      "number": null,
+      "content": "ט Teth",
+      "churchId": "title9"
+    },
+    {
+      "slug": "psalm-119-p65",
+      "type": "verse",
+      "number": "65",
+      "content": "Thou hast dealt well with thy servant, O <span class=\"small-caps\">Lord</span>, according unto thy word.",
+      "churchId": "p65"
+    },
+    {
+      "slug": "psalm-119-p66",
+      "type": "verse",
+      "number": "66",
+      "content": "Teach me good judgment and knowledge: for I have believed thy commandments.",
+      "churchId": "p66"
+    },
+    {
+      "slug": "psalm-119-p67",
+      "type": "verse",
+      "number": "67",
+      "content": "Before I was afflicted I went astray: but now have I kept thy word.",
+      "churchId": "p67"
+    },
+    {
+      "slug": "psalm-119-p68",
+      "type": "verse",
+      "number": "68",
+      "content": "Thou <span class=\"clarity-word\">art</span> good, and doest good; teach me thy statutes.",
+      "churchId": "p68"
+    },
+    {
+      "slug": "psalm-119-p69",
+      "type": "verse",
+      "number": "69",
+      "content": "The proud have forged a lie against me: <span class=\"clarity-word\">but</span> I will keep thy precepts with <span class=\"clarity-word\">my</span> whole heart.",
+      "churchId": "p69"
+    },
+    {
+      "slug": "psalm-119-p70",
+      "type": "verse",
+      "number": "70",
+      "content": "Their heart is as fat as grease; <span class=\"clarity-word\">but</span> I delight in thy law.",
+      "churchId": "p70"
+    },
+    {
+      "slug": "psalm-119-p71",
+      "type": "verse",
+      "number": "71",
+      "content": "<span class=\"clarity-word\">It is</span> good for me that I have been afflicted; that I might learn thy statutes.",
+      "churchId": "p71"
+    },
+    {
+      "slug": "psalm-119-p72",
+      "type": "verse",
+      "number": "72",
+      "content": "The law of thy mouth <span class=\"clarity-word\">is</span> better unto me than thousands of gold and silver.",
+      "churchId": "p72"
+    },
+    {
+      "slug": "psalm-119-title10",
+      "type": "section-title",
+      "number": null,
+      "content": "י Jod",
+      "churchId": "title10"
+    },
+    {
+      "slug": "psalm-119-p73",
+      "type": "verse",
+      "number": "73",
+      "content": "Thy hands have made me and fashioned me: give me understanding, that I may learn thy commandments.",
+      "churchId": "p73"
+    },
+    {
+      "slug": "psalm-119-p74",
+      "type": "verse",
+      "number": "74",
+      "content": "They that fear thee will be glad when they see me; because I have hoped in thy word.",
+      "churchId": "p74"
+    },
+    {
+      "slug": "psalm-119-p75",
+      "type": "verse",
+      "number": "75",
+      "content": "I know, O <span class=\"small-caps\">Lord</span>, that thy judgments <span class=\"clarity-word\">are</span> right, and <span class=\"clarity-word\">that</span> thou in faithfulness hast afflicted me.",
+      "churchId": "p75"
+    },
+    {
+      "slug": "psalm-119-p76",
+      "type": "verse",
+      "number": "76",
+      "content": "Let, I pray thee, thy merciful kindness be for my comfort, according to thy word unto thy servant.",
+      "churchId": "p76"
+    },
+    {
+      "slug": "psalm-119-p77",
+      "type": "verse",
+      "number": "77",
+      "content": "Let thy tender mercies come unto me, that I may live: for thy law <span class=\"clarity-word\">is</span> my delight.",
+      "churchId": "p77"
+    },
+    {
+      "slug": "psalm-119-p78",
+      "type": "verse",
+      "number": "78",
+      "content": "Let the proud be ashamed; for they dealt perversely with me without a cause: <span class=\"clarity-word\">but</span> I will meditate in thy precepts.",
+      "churchId": "p78"
+    },
+    {
+      "slug": "psalm-119-p79",
+      "type": "verse",
+      "number": "79",
+      "content": "Let those that fear thee turn unto me, and those that have known thy testimonies.",
+      "churchId": "p79"
+    },
+    {
+      "slug": "psalm-119-p80",
+      "type": "verse",
+      "number": "80",
+      "content": "Let my heart be sound in thy statutes; that I be not ashamed.",
+      "churchId": "p80"
+    },
+    {
+      "slug": "psalm-119-title11",
+      "type": "section-title",
+      "number": null,
+      "content": "כ Caph",
+      "churchId": "title11"
+    },
+    {
+      "slug": "psalm-119-p81",
+      "type": "verse",
+      "number": "81",
+      "content": "My soul fainteth for thy salvation: <span class=\"clarity-word\">but</span> I hope in thy word.",
+      "churchId": "p81"
+    },
+    {
+      "slug": "psalm-119-p82",
+      "type": "verse",
+      "number": "82",
+      "content": "Mine eyes fail for thy word, saying, When wilt thou comfort me?",
+      "churchId": "p82"
+    },
+    {
+      "slug": "psalm-119-p83",
+      "type": "verse",
+      "number": "83",
+      "content": "For I am become like a bottle in the smoke; <span class=\"clarity-word\">yet</span> do I not forget thy statutes.",
+      "churchId": "p83"
+    },
+    {
+      "slug": "psalm-119-p84",
+      "type": "verse",
+      "number": "84",
+      "content": "How many <span class=\"clarity-word\">are</span> the days of thy servant? when wilt thou execute judgment on them that persecute me?",
+      "churchId": "p84"
+    },
+    {
+      "slug": "psalm-119-p85",
+      "type": "verse",
+      "number": "85",
+      "content": "The proud have digged pits for me, which <span class=\"clarity-word\">are</span> not after thy law.",
+      "churchId": "p85"
+    },
+    {
+      "slug": "psalm-119-p86",
+      "type": "verse",
+      "number": "86",
+      "content": "All thy commandments <span class=\"clarity-word\">are</span> faithful: they persecute me wrongfully; help thou me.",
+      "churchId": "p86"
+    },
+    {
+      "slug": "psalm-119-p87",
+      "type": "verse",
+      "number": "87",
+      "content": "They had almost consumed me upon earth; but I forsook not thy precepts.",
+      "churchId": "p87"
+    },
+    {
+      "slug": "psalm-119-p88",
+      "type": "verse",
+      "number": "88",
+      "content": "Quicken me after thy lovingkindness; so shall I keep the testimony of thy mouth.",
+      "churchId": "p88"
+    },
+    {
+      "slug": "psalm-119-title12",
+      "type": "section-title",
+      "number": null,
+      "content": "ל Lamed",
+      "churchId": "title12"
+    },
+    {
+      "slug": "psalm-119-p89",
+      "type": "verse",
+      "number": "89",
+      "content": "For ever, O <span class=\"small-caps\">Lord</span>, thy word is settled in heaven.",
+      "churchId": "p89"
+    },
+    {
+      "slug": "psalm-119-p90",
+      "type": "verse",
+      "number": "90",
+      "content": "Thy faithfulness <span class=\"clarity-word\">is</span> unto all generations: thou hast established the earth, and it abideth.",
+      "churchId": "p90"
+    },
+    {
+      "slug": "psalm-119-p91",
+      "type": "verse",
+      "number": "91",
+      "content": "They continue this day according to thine ordinances: for all <span class=\"clarity-word\">are</span> thy servants.",
+      "churchId": "p91"
+    },
+    {
+      "slug": "psalm-119-p92",
+      "type": "verse",
+      "number": "92",
+      "content": "Unless thy law <span class=\"clarity-word\">had been</span> my delights, I should then have perished in mine affliction.",
+      "churchId": "p92"
+    },
+    {
+      "slug": "psalm-119-p93",
+      "type": "verse",
+      "number": "93",
+      "content": "I will never forget thy precepts: for with them thou hast quickened me.",
+      "churchId": "p93"
+    },
+    {
+      "slug": "psalm-119-p94",
+      "type": "verse",
+      "number": "94",
+      "content": "I <span class=\"clarity-word\">am</span> thine, save me; for I have sought thy precepts.",
+      "churchId": "p94"
+    },
+    {
+      "slug": "psalm-119-p95",
+      "type": "verse",
+      "number": "95",
+      "content": "The wicked have waited for me to destroy me: <span class=\"clarity-word\">but</span> I will consider thy testimonies.",
+      "churchId": "p95"
+    },
+    {
+      "slug": "psalm-119-p96",
+      "type": "verse",
+      "number": "96",
+      "content": "I have seen an end of all perfection: <span class=\"clarity-word\">but</span> thy commandment <span class=\"clarity-word\">is</span> exceeding broad.",
+      "churchId": "p96"
+    },
+    {
+      "slug": "psalm-119-title13",
+      "type": "section-title",
+      "number": null,
+      "content": "מ Mem",
+      "churchId": "title13"
+    },
+    {
+      "slug": "psalm-119-p97",
+      "type": "verse",
+      "number": "97",
+      "content": "O how love I thy law! it <span class=\"clarity-word\">is</span> my meditation all the day.",
+      "churchId": "p97"
+    },
+    {
+      "slug": "psalm-119-p98",
+      "type": "verse",
+      "number": "98",
+      "content": "Thou through thy commandments hast made me wiser than mine enemies: for they <span class=\"clarity-word\">are</span> ever with me.",
+      "churchId": "p98"
+    },
+    {
+      "slug": "psalm-119-p99",
+      "type": "verse",
+      "number": "99",
+      "content": "I have more understanding than all my teachers: for thy testimonies <span class=\"clarity-word\">are</span> my meditation.",
+      "churchId": "p99"
+    },
+    {
+      "slug": "psalm-119-p100",
+      "type": "verse",
+      "number": "100",
+      "content": "I understand more than the ancients, because I keep thy precepts.",
+      "churchId": "p100"
+    },
+    {
+      "slug": "psalm-119-p101",
+      "type": "verse",
+      "number": "101",
+      "content": "I have refrained my feet from every evil way, that I might keep thy word.",
+      "churchId": "p101"
+    },
+    {
+      "slug": "psalm-119-p102",
+      "type": "verse",
+      "number": "102",
+      "content": "I have not departed from thy judgments: for thou hast taught me.",
+      "churchId": "p102"
+    },
+    {
+      "slug": "psalm-119-p103",
+      "type": "verse",
+      "number": "103",
+      "content": "How sweet are thy words unto my taste! <span class=\"clarity-word\">yea, sweeter</span> than honey to my mouth!",
+      "churchId": "p103"
+    },
+    {
+      "slug": "psalm-119-p104",
+      "type": "verse",
+      "number": "104",
+      "content": "Through thy precepts I get understanding: therefore I hate every false way.",
+      "churchId": "p104"
+    },
+    {
+      "slug": "psalm-119-title14",
+      "type": "section-title",
+      "number": null,
+      "content": "נ Nun",
+      "churchId": "title14"
+    },
+    {
+      "slug": "psalm-119-p105",
+      "type": "verse",
+      "number": "105",
+      "content": "Thy word <span class=\"clarity-word\">is</span> a lamp unto my feet, and a light unto my path.",
+      "churchId": "p105"
+    },
+    {
+      "slug": "psalm-119-p106",
+      "type": "verse",
+      "number": "106",
+      "content": "I have sworn, and I will perform <span class=\"clarity-word\">it,</span> that I will keep thy righteous judgments.",
+      "churchId": "p106"
+    },
+    {
+      "slug": "psalm-119-p107",
+      "type": "verse",
+      "number": "107",
+      "content": "I am afflicted very much: quicken me, O <span class=\"small-caps\">Lord</span>, according unto thy word.",
+      "churchId": "p107"
+    },
+    {
+      "slug": "psalm-119-p108",
+      "type": "verse",
+      "number": "108",
+      "content": "Accept, I beseech thee, the freewill offerings of my mouth, O <span class=\"small-caps\">Lord</span>, and teach me thy judgments.",
+      "churchId": "p108"
+    },
+    {
+      "slug": "psalm-119-p109",
+      "type": "verse",
+      "number": "109",
+      "content": "My soul <span class=\"clarity-word\">is</span> continually in my hand: yet do I not forget thy law.",
+      "churchId": "p109"
+    },
+    {
+      "slug": "psalm-119-p110",
+      "type": "verse",
+      "number": "110",
+      "content": "The wicked have laid a snare for me: yet I erred not from thy precepts.",
+      "churchId": "p110"
+    },
+    {
+      "slug": "psalm-119-p111",
+      "type": "verse",
+      "number": "111",
+      "content": "Thy testimonies have I taken as an heritage for ever: for they <span class=\"clarity-word\">are</span> the rejoicing of my heart.",
+      "churchId": "p111"
+    },
+    {
+      "slug": "psalm-119-p112",
+      "type": "verse",
+      "number": "112",
+      "content": "I have inclined mine heart to perform thy statutes alway, <span class=\"clarity-word\">even unto</span> the end.",
+      "churchId": "p112"
+    },
+    {
+      "slug": "psalm-119-title15",
+      "type": "section-title",
+      "number": null,
+      "content": "ס Samech",
+      "churchId": "title15"
+    },
+    {
+      "slug": "psalm-119-p113",
+      "type": "verse",
+      "number": "113",
+      "content": "I hate <span class=\"clarity-word\">vain</span> thoughts: but thy law do I love.",
+      "churchId": "p113"
+    },
+    {
+      "slug": "psalm-119-p114",
+      "type": "verse",
+      "number": "114",
+      "content": "Thou <span class=\"clarity-word\">art</span> my hiding place and my shield: I hope in thy word.",
+      "churchId": "p114"
+    },
+    {
+      "slug": "psalm-119-p115",
+      "type": "verse",
+      "number": "115",
+      "content": "Depart from me, ye evildoers: for I will keep the commandments of my God.",
+      "churchId": "p115"
+    },
+    {
+      "slug": "psalm-119-p116",
+      "type": "verse",
+      "number": "116",
+      "content": "Uphold me according unto thy word, that I may live: and let me not be ashamed of my hope.",
+      "churchId": "p116"
+    },
+    {
+      "slug": "psalm-119-p117",
+      "type": "verse",
+      "number": "117",
+      "content": "Hold thou me up, and I shall be safe: and I will have respect unto thy statutes continually.",
+      "churchId": "p117"
+    },
+    {
+      "slug": "psalm-119-p118",
+      "type": "verse",
+      "number": "118",
+      "content": "Thou hast trodden down all them that err from thy statutes: for their deceit <span class=\"clarity-word\">is</span> falsehood.",
+      "churchId": "p118"
+    },
+    {
+      "slug": "psalm-119-p119",
+      "type": "verse",
+      "number": "119",
+      "content": "Thou puttest away all the wicked of the earth <span class=\"clarity-word\">like</span> dross: therefore I love thy testimonies.",
+      "churchId": "p119"
+    },
+    {
+      "slug": "psalm-119-p120",
+      "type": "verse",
+      "number": "120",
+      "content": "My flesh trembleth for fear of thee; and I am afraid of thy judgments.",
+      "churchId": "p120"
+    },
+    {
+      "slug": "psalm-119-title16",
+      "type": "section-title",
+      "number": null,
+      "content": "ע Ain",
+      "churchId": "title16"
+    },
+    {
+      "slug": "psalm-119-p121",
+      "type": "verse",
+      "number": "121",
+      "content": "I have done judgment and justice: leave me not to mine oppressors.",
+      "churchId": "p121"
+    },
+    {
+      "slug": "psalm-119-p122",
+      "type": "verse",
+      "number": "122",
+      "content": "Be surety for thy servant for good: let not the proud oppress me.",
+      "churchId": "p122"
+    },
+    {
+      "slug": "psalm-119-p123",
+      "type": "verse",
+      "number": "123",
+      "content": "Mine eyes fail for thy salvation, and for the word of thy righteousness.",
+      "churchId": "p123"
+    },
+    {
+      "slug": "psalm-119-p124",
+      "type": "verse",
+      "number": "124",
+      "content": "Deal with thy servant according unto thy mercy, and teach me thy statutes.",
+      "churchId": "p124"
+    },
+    {
+      "slug": "psalm-119-p125",
+      "type": "verse",
+      "number": "125",
+      "content": "I <span class=\"clarity-word\">am</span> thy servant; give me understanding, that I may know thy testimonies.",
+      "churchId": "p125"
+    },
+    {
+      "slug": "psalm-119-p126",
+      "type": "verse",
+      "number": "126",
+      "content": "<span class=\"clarity-word\">It is</span> time for <span class=\"clarity-word\">thee,</span> <span class=\"small-caps\">Lord</span>, to work: <span class=\"clarity-word\">for</span> they have made void thy law.",
+      "churchId": "p126"
+    },
+    {
+      "slug": "psalm-119-p127",
+      "type": "verse",
+      "number": "127",
+      "content": "Therefore I love thy commandments above gold; yea, above fine gold.",
+      "churchId": "p127"
+    },
+    {
+      "slug": "psalm-119-p128",
+      "type": "verse",
+      "number": "128",
+      "content": "Therefore I esteem all <span class=\"clarity-word\">thy</span> precepts <span class=\"clarity-word\">concerning</span> all <span class=\"clarity-word\">things to be</span> right; <span class=\"clarity-word\">and</span> I hate every false way.",
+      "churchId": "p128"
+    },
+    {
+      "slug": "psalm-119-title17",
+      "type": "section-title",
+      "number": null,
+      "content": "פ Pe",
+      "churchId": "title17"
+    },
+    {
+      "slug": "psalm-119-p129",
+      "type": "verse",
+      "number": "129",
+      "content": "Thy testimonies <span class=\"clarity-word\">are</span> wonderful: therefore doth my soul keep them.",
+      "churchId": "p129"
+    },
+    {
+      "slug": "psalm-119-p130",
+      "type": "verse",
+      "number": "130",
+      "content": "The entrance of thy words giveth light; it giveth understanding unto the simple.",
+      "churchId": "p130"
+    },
+    {
+      "slug": "psalm-119-p131",
+      "type": "verse",
+      "number": "131",
+      "content": "I opened my mouth, and panted: for I longed for thy commandments.",
+      "churchId": "p131"
+    },
+    {
+      "slug": "psalm-119-p132",
+      "type": "verse",
+      "number": "132",
+      "content": "Look thou upon me, and be merciful unto me, as thou usest to do unto those that love thy name.",
+      "churchId": "p132"
+    },
+    {
+      "slug": "psalm-119-p133",
+      "type": "verse",
+      "number": "133",
+      "content": "Order my steps in thy word: and let not any iniquity have dominion over me.",
+      "churchId": "p133"
+    },
+    {
+      "slug": "psalm-119-p134",
+      "type": "verse",
+      "number": "134",
+      "content": "Deliver me from the oppression of man: so will I keep thy precepts.",
+      "churchId": "p134"
+    },
+    {
+      "slug": "psalm-119-p135",
+      "type": "verse",
+      "number": "135",
+      "content": "Make thy face to shine upon thy servant; and teach me thy statutes.",
+      "churchId": "p135"
+    },
+    {
+      "slug": "psalm-119-p136",
+      "type": "verse",
+      "number": "136",
+      "content": "Rivers of waters run down mine eyes, because they keep not thy law.",
+      "churchId": "p136"
+    },
+    {
+      "slug": "psalm-119-title18",
+      "type": "section-title",
+      "number": null,
+      "content": "צ Tzaddi",
+      "churchId": "title18"
+    },
+    {
+      "slug": "psalm-119-p137",
+      "type": "verse",
+      "number": "137",
+      "content": "Righteous <span class=\"clarity-word\">art</span> thou, O <span class=\"small-caps\">Lord</span>, and upright <span class=\"clarity-word\">are</span> thy judgments.",
+      "churchId": "p137"
+    },
+    {
+      "slug": "psalm-119-p138",
+      "type": "verse",
+      "number": "138",
+      "content": "Thy testimonies <span class=\"clarity-word\">that</span> thou hast commanded <span class=\"clarity-word\">are</span> righteous and very faithful.",
+      "churchId": "p138"
+    },
+    {
+      "slug": "psalm-119-p139",
+      "type": "verse",
+      "number": "139",
+      "content": "My zeal hath consumed me, because mine enemies have forgotten thy words.",
+      "churchId": "p139"
+    },
+    {
+      "slug": "psalm-119-p140",
+      "type": "verse",
+      "number": "140",
+      "content": "Thy word <span class=\"clarity-word\">is</span> very pure: therefore thy servant loveth it.",
+      "churchId": "p140"
+    },
+    {
+      "slug": "psalm-119-p141",
+      "type": "verse",
+      "number": "141",
+      "content": "I <span class=\"clarity-word\">am</span> small and despised: <span class=\"clarity-word\">yet</span> do not I forget thy precepts.",
+      "churchId": "p141"
+    },
+    {
+      "slug": "psalm-119-p142",
+      "type": "verse",
+      "number": "142",
+      "content": "Thy righteousness <span class=\"clarity-word\">is</span> an everlasting righteousness, and thy law <span class=\"clarity-word\">is</span> the truth.",
+      "churchId": "p142"
+    },
+    {
+      "slug": "psalm-119-p143",
+      "type": "verse",
+      "number": "143",
+      "content": "Trouble and anguish have taken hold on me: <span class=\"clarity-word\">yet</span> thy commandments <span class=\"clarity-word\">are</span> my delights.",
+      "churchId": "p143"
+    },
+    {
+      "slug": "psalm-119-p144",
+      "type": "verse",
+      "number": "144",
+      "content": "The righteousness of thy testimonies <span class=\"clarity-word\">is</span> everlasting: give me understanding, and I shall live.",
+      "churchId": "p144"
+    },
+    {
+      "slug": "psalm-119-title19",
+      "type": "section-title",
+      "number": null,
+      "content": "ק Koph",
+      "churchId": "title19"
+    },
+    {
+      "slug": "psalm-119-p145",
+      "type": "verse",
+      "number": "145",
+      "content": "I cried with <span class=\"clarity-word\">my</span> whole heart; hear me, O <span class=\"small-caps\">Lord</span>: I will keep thy statutes.",
+      "churchId": "p145"
+    },
+    {
+      "slug": "psalm-119-p146",
+      "type": "verse",
+      "number": "146",
+      "content": "I cried unto thee; save me, and I shall keep thy testimonies.",
+      "churchId": "p146"
+    },
+    {
+      "slug": "psalm-119-p147",
+      "type": "verse",
+      "number": "147",
+      "content": "I prevented the dawning of the morning, and cried: I hoped in thy word.",
+      "churchId": "p147"
+    },
+    {
+      "slug": "psalm-119-p148",
+      "type": "verse",
+      "number": "148",
+      "content": "Mine eyes prevent the <span class=\"clarity-word\">night</span> watches, that I might meditate in thy word.",
+      "churchId": "p148"
+    },
+    {
+      "slug": "psalm-119-p149",
+      "type": "verse",
+      "number": "149",
+      "content": "Hear my voice according unto thy lovingkindness: O <span class=\"small-caps\">Lord</span>, quicken me according to thy judgment.",
+      "churchId": "p149"
+    },
+    {
+      "slug": "psalm-119-p150",
+      "type": "verse",
+      "number": "150",
+      "content": "They draw nigh that follow after mischief: they are far from thy law.",
+      "churchId": "p150"
+    },
+    {
+      "slug": "psalm-119-p151",
+      "type": "verse",
+      "number": "151",
+      "content": "Thou <span class=\"clarity-word\">art</span> near, O <span class=\"small-caps\">Lord</span>; and all thy commandments <span class=\"clarity-word\">are</span> truth.",
+      "churchId": "p151"
+    },
+    {
+      "slug": "psalm-119-p152",
+      "type": "verse",
+      "number": "152",
+      "content": "Concerning thy testimonies, I have known of old that thou hast founded them for ever.",
+      "churchId": "p152"
+    },
+    {
+      "slug": "psalm-119-title20",
+      "type": "section-title",
+      "number": null,
+      "content": "ר Resh",
+      "churchId": "title20"
+    },
+    {
+      "slug": "psalm-119-p153",
+      "type": "verse",
+      "number": "153",
+      "content": "Consider mine affliction, and deliver me: for I do not forget thy law.",
+      "churchId": "p153"
+    },
+    {
+      "slug": "psalm-119-p154",
+      "type": "verse",
+      "number": "154",
+      "content": "Plead my cause, and deliver me: quicken me according to thy word.",
+      "churchId": "p154"
+    },
+    {
+      "slug": "psalm-119-p155",
+      "type": "verse",
+      "number": "155",
+      "content": "Salvation <span class=\"clarity-word\">is</span> far from the wicked: for they seek not thy statutes.",
+      "churchId": "p155"
+    },
+    {
+      "slug": "psalm-119-p156",
+      "type": "verse",
+      "number": "156",
+      "content": "Great <span class=\"clarity-word\">are</span> thy tender mercies, O <span class=\"small-caps\">Lord</span>: quicken me according to thy judgments.",
+      "churchId": "p156"
+    },
+    {
+      "slug": "psalm-119-p157",
+      "type": "verse",
+      "number": "157",
+      "content": "Many <span class=\"clarity-word\">are</span> my persecutors and mine enemies; <span class=\"clarity-word\">yet</span> do I not decline from thy testimonies.",
+      "churchId": "p157"
+    },
+    {
+      "slug": "psalm-119-p158",
+      "type": "verse",
+      "number": "158",
+      "content": "I beheld the transgressors, and was grieved; because they kept not thy word.",
+      "churchId": "p158"
+    },
+    {
+      "slug": "psalm-119-p159",
+      "type": "verse",
+      "number": "159",
+      "content": "Consider how I love thy precepts: quicken me, O <span class=\"small-caps\">Lord</span>, according to thy lovingkindness.",
+      "churchId": "p159"
+    },
+    {
+      "slug": "psalm-119-p160",
+      "type": "verse",
+      "number": "160",
+      "content": "Thy word <span class=\"clarity-word\">is</span> true <span class=\"clarity-word\">from</span> the beginning: and every one of thy righteous judgments <span class=\"clarity-word\">endureth</span> for ever.",
+      "churchId": "p160"
+    },
+    {
+      "slug": "psalm-119-title21",
+      "type": "section-title",
+      "number": null,
+      "content": "ש Schin",
+      "churchId": "title21"
+    },
+    {
+      "slug": "psalm-119-p161",
+      "type": "verse",
+      "number": "161",
+      "content": "Princes have persecuted me without a cause: but my heart standeth in awe of thy word.",
+      "churchId": "p161"
+    },
+    {
+      "slug": "psalm-119-p162",
+      "type": "verse",
+      "number": "162",
+      "content": "I rejoice at thy word, as one that findeth great spoil.",
+      "churchId": "p162"
+    },
+    {
+      "slug": "psalm-119-p163",
+      "type": "verse",
+      "number": "163",
+      "content": "I hate and abhor lying: <span class=\"clarity-word\">but</span> thy law do I love.",
+      "churchId": "p163"
+    },
+    {
+      "slug": "psalm-119-p164",
+      "type": "verse",
+      "number": "164",
+      "content": "Seven times a day do I praise thee because of thy righteous judgments.",
+      "churchId": "p164"
+    },
+    {
+      "slug": "psalm-119-p165",
+      "type": "verse",
+      "number": "165",
+      "content": "Great peace have they which love thy law: and nothing shall offend them.",
+      "churchId": "p165"
+    },
+    {
+      "slug": "psalm-119-p166",
+      "type": "verse",
+      "number": "166",
+      "content": "<span class=\"small-caps\">Lord</span>, I have hoped for thy salvation, and done thy commandments.",
+      "churchId": "p166"
+    },
+    {
+      "slug": "psalm-119-p167",
+      "type": "verse",
+      "number": "167",
+      "content": "My soul hath kept thy testimonies; and I love them exceedingly.",
+      "churchId": "p167"
+    },
+    {
+      "slug": "psalm-119-p168",
+      "type": "verse",
+      "number": "168",
+      "content": "I have kept thy precepts and thy testimonies: for all my ways <span class=\"clarity-word\">are</span> before thee.",
+      "churchId": "p168"
+    },
+    {
+      "slug": "psalm-119-title22",
+      "type": "section-title",
+      "number": null,
+      "content": "ת Tau",
+      "churchId": "title22"
+    },
+    {
+      "slug": "psalm-119-p169",
+      "type": "verse",
+      "number": "169",
+      "content": "Let my cry come near before thee, O <span class=\"small-caps\">Lord</span>: give me understanding according to thy word.",
+      "churchId": "p169"
+    },
+    {
+      "slug": "psalm-119-p170",
+      "type": "verse",
+      "number": "170",
+      "content": "Let my supplication come before thee: deliver me according to thy word.",
+      "churchId": "p170"
+    },
+    {
+      "slug": "psalm-119-p171",
+      "type": "verse",
+      "number": "171",
+      "content": "My lips shall utter praise, when thou hast taught me thy statutes.",
+      "churchId": "p171"
+    },
+    {
+      "slug": "psalm-119-p172",
+      "type": "verse",
+      "number": "172",
+      "content": "My tongue shall speak of thy word: for all thy commandments <span class=\"clarity-word\">are</span> righteousness.",
+      "churchId": "p172"
+    },
+    {
+      "slug": "psalm-119-p173",
+      "type": "verse",
+      "number": "173",
+      "content": "Let thine hand help me; for I have chosen thy precepts.",
+      "churchId": "p173"
+    },
+    {
+      "slug": "psalm-119-p174",
+      "type": "verse",
+      "number": "174",
+      "content": "I have longed for thy salvation, O <span class=\"small-caps\">Lord</span>; and thy law <span class=\"clarity-word\">is</span> my delight.",
+      "churchId": "p174"
+    },
+    {
+      "slug": "psalm-119-p175",
+      "type": "verse",
+      "number": "175",
+      "content": "Let my soul live, and it shall praise thee; and let thy judgments help me.",
+      "churchId": "p175"
+    },
+    {
+      "slug": "psalm-119-p176",
+      "type": "verse",
+      "number": "176",
+      "content": "I have gone astray like a lost sheep; seek thy servant; for I do not forget thy commandments.",
+      "churchId": "p176"
+    }
+  ]
+}

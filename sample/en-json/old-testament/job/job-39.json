@@ -1,0 +1,225 @@
+{
+  "name": "Job 39",
+  "abbrev": "Job 39",
+  "number": "39",
+  "churchUri": "/scriptures/ot/job/39",
+  "paragraphs": [
+    {
+      "slug": "job-39-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 39",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "job-39-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Knowest thou the time when the wild goats of the rock bring forth? <span class=\"clarity-word\">or</span> canst thou mark when the hinds do calve?",
+      "churchId": "p1"
+    },
+    {
+      "slug": "job-39-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Canst thou number the months <span class=\"clarity-word\">that</span> they fulfil? or knowest thou the time when they bring forth?",
+      "churchId": "p2"
+    },
+    {
+      "slug": "job-39-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "They bow themselves, they bring forth their young ones, they cast out their sorrows.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "job-39-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Their young ones are in good liking, they grow up with corn; they go forth, and return not unto them.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "job-39-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Who hath sent out the wild ass free? or who hath loosed the bands of the wild ass?",
+      "churchId": "p5"
+    },
+    {
+      "slug": "job-39-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Whose house I have made the wilderness, and the barren land his dwellings.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "job-39-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "He scorneth the multitude of the city, neither regardeth he the crying of the driver.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "job-39-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "The range of the mountains <span class=\"clarity-word\">is</span> his pasture, and he searcheth after every green thing.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "job-39-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Will the unicorn be willing to serve thee, or abide by thy crib?",
+      "churchId": "p9"
+    },
+    {
+      "slug": "job-39-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Canst thou bind the unicorn with his band in the furrow? or will he harrow the valleys after thee?",
+      "churchId": "p10"
+    },
+    {
+      "slug": "job-39-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Wilt thou trust him, because his strength <span class=\"clarity-word\">is</span> great? or wilt thou leave thy labour to him?",
+      "churchId": "p11"
+    },
+    {
+      "slug": "job-39-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Wilt thou believe him, that he will bring home thy seed, and gather <span class=\"clarity-word\">it into</span> thy barn?",
+      "churchId": "p12"
+    },
+    {
+      "slug": "job-39-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "<span class=\"clarity-word\">Gavest thou</span> the goodly wings unto the peacocks? or wings and feathers unto the ostrich?",
+      "churchId": "p13"
+    },
+    {
+      "slug": "job-39-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Which leaveth her eggs in the earth, and warmeth them in dust,",
+      "churchId": "p14"
+    },
+    {
+      "slug": "job-39-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And forgetteth that the foot may crush them, or that the wild beast may break them.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "job-39-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "She is hardened against her young ones, as though <span class=\"clarity-word\">they were</span> not hers: her labour is in vain without fear;",
+      "churchId": "p16"
+    },
+    {
+      "slug": "job-39-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Because God hath deprived her of wisdom, neither hath he imparted to her understanding.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "job-39-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "What time she lifteth up herself on high, she scorneth the horse and his rider.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "job-39-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Hast thou given the horse strength? hast thou clothed his neck with thunder?",
+      "churchId": "p19"
+    },
+    {
+      "slug": "job-39-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Canst thou make him afraid as a grasshopper? the glory of his nostrils <span class=\"clarity-word\">is</span> terrible.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "job-39-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "He paweth in the valley, and rejoiceth in <span class=\"clarity-word\">his</span> strength: he goeth on to meet the armed men.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "job-39-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "He mocketh at fear, and is not affrighted; neither turneth he back from the sword.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "job-39-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "The quiver rattleth against him, the glittering spear and the shield.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "job-39-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "He swalloweth the ground with fierceness and rage: neither believeth he that <span class=\"clarity-word\">it is</span> the sound of the trumpet.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "job-39-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "He saith among the trumpets, Ha, ha; and he smelleth the battle afar off, the thunder of the captains, and the shouting.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "job-39-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "Doth the hawk fly by thy wisdom, <span class=\"clarity-word\">and</span> stretch her wings toward the south?",
+      "churchId": "p26"
+    },
+    {
+      "slug": "job-39-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "Doth the eagle mount up at thy command, and make her nest on high?",
+      "churchId": "p27"
+    },
+    {
+      "slug": "job-39-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "She dwelleth and abideth on the rock, upon the crag of the rock, and the strong place.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "job-39-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "From thence she seeketh the prey, <span class=\"clarity-word\">and</span> her eyes behold afar off.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "job-39-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "Her young ones also suck up blood: and where the slain <span class=\"clarity-word\">are,</span> there <span class=\"clarity-word\">is</span> she.",
+      "churchId": "p30"
+    }
+  ]
+}

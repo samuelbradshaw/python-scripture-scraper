@@ -1,0 +1,57 @@
+{
+  "name": "Psalm 150",
+  "abbrev": "Psalm 150",
+  "number": "150",
+  "churchUri": "/scriptures/ot/ps/150",
+  "paragraphs": [
+    {
+      "slug": "psalm-150-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 150",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-150-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Praise ye the <span class=\"small-caps\">Lord</span>. Praise God in his sanctuary: praise him in the firmament of his power.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-150-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Praise him for his mighty acts: praise him according to his excellent greatness.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-150-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Praise him with the sound of the trumpet: praise him with the psaltery and harp.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-150-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Praise him with the timbrel and dance: praise him with stringed instruments and organs.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-150-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Praise him upon the loud cymbals: praise him upon the high sounding cymbals.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-150-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Let every thing that hath breath praise the <span class=\"small-caps\">Lord</span>. Praise ye the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p6"
+    }
+  ]
+}

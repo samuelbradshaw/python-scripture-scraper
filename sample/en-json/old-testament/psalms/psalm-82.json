@@ -1,0 +1,78 @@
+{
+  "name": "Psalm 82",
+  "abbrev": "Psalm 82",
+  "number": "82",
+  "churchUri": "/scriptures/ot/ps/82",
+  "paragraphs": [
+    {
+      "slug": "psalm-82-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 82",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-82-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "A Psalm of Asaph.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-82-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "God standeth in the congregation of the mighty; he judgeth among the gods.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-82-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "How long will ye judge unjustly, and accept the persons of the wicked? Selah.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-82-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Defend the poor and fatherless: do justice to the afflicted and needy.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-82-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Deliver the poor and needy: rid <span class=\"clarity-word\">them</span> out of the hand of the wicked.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-82-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "They know not, neither will they understand; they walk on in darkness: all the foundations of the earth are out of course.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-82-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "I have said, Ye <span class=\"clarity-word\">are</span> gods; and all of you <span class=\"clarity-word\">are</span> children of the most High.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-82-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "But ye shall die like men, and fall like one of the princes.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-82-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Arise, O God, judge the earth: for thou shalt inherit all nations.",
+      "churchId": "p8"
+    }
+  ]
+}

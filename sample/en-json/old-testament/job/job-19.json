@@ -1,0 +1,218 @@
+{
+  "name": "Job 19",
+  "abbrev": "Job 19",
+  "number": "19",
+  "churchUri": "/scriptures/ot/job/19",
+  "paragraphs": [
+    {
+      "slug": "job-19-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 19",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "job-19-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Then Job answered and said,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "job-19-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "How long will ye vex my soul, and break me in pieces with words?",
+      "churchId": "p2"
+    },
+    {
+      "slug": "job-19-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "These ten times have ye reproached me: ye are not ashamed <span class=\"clarity-word\">that</span> ye make yourselves strange to me.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "job-19-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And be it indeed <span class=\"clarity-word\">that</span> I have erred, mine error remaineth with myself.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "job-19-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "If indeed ye will magnify <span class=\"clarity-word\">yourselves</span> against me, and plead against me my reproach:",
+      "churchId": "p5"
+    },
+    {
+      "slug": "job-19-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Know now that God hath overthrown me, and hath compassed me with his net.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "job-19-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Behold, I cry out of wrong, but I am not heard: I cry aloud, but <span class=\"clarity-word\">there is</span> no judgment.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "job-19-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "He hath fenced up my way that I cannot pass, and he hath set darkness in my paths.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "job-19-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "He hath stripped me of my glory, and taken the crown <span class=\"clarity-word\">from</span> my head.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "job-19-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "He hath destroyed me on every side, and I am gone: and mine hope hath he removed like a tree.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "job-19-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "He hath also kindled his wrath against me, and he counteth me unto him as <span class=\"clarity-word\">one of</span> his enemies.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "job-19-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "His troops come together, and raise up their way against me, and encamp round about my tabernacle.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "job-19-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "He hath put my brethren far from me, and mine acquaintance are verily estranged from me.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "job-19-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "My kinsfolk have failed, and my familiar friends have forgotten me.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "job-19-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "They that dwell in mine house, and my maids, count me for a stranger: I am an alien in their sight.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "job-19-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "I called my servant, and he gave <span class=\"clarity-word\">me</span> no answer; I entreated him with my mouth.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "job-19-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "My breath is strange to my wife, though I entreated for the children’s <span class=\"clarity-word\">sake</span> of mine own body.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "job-19-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Yea, young children despised me; I arose, and they spake against me.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "job-19-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "All my inward friends abhorred me: and they whom I loved are turned against me.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "job-19-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "My bone cleaveth to my skin and to my flesh, and I am escaped with the skin of my teeth.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "job-19-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Have pity upon me, have pity upon me, O ye my friends; for the hand of God hath touched me.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "job-19-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Why do ye persecute me as God, and are not satisfied with my flesh?",
+      "churchId": "p22"
+    },
+    {
+      "slug": "job-19-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Oh that my words were now written! oh that they were printed in a book!",
+      "churchId": "p23"
+    },
+    {
+      "slug": "job-19-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "That they were graven with an iron pen and lead in the rock for ever!",
+      "churchId": "p24"
+    },
+    {
+      "slug": "job-19-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "For I know <span class=\"clarity-word\">that</span> my redeemer liveth, and <span class=\"clarity-word\">that</span> he shall stand at the latter <span class=\"clarity-word\">day</span> upon the earth:",
+      "churchId": "p25"
+    },
+    {
+      "slug": "job-19-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And <span class=\"clarity-word\">though</span> after my skin <span class=\"clarity-word\">worms</span> destroy this <span class=\"clarity-word\">body,</span> yet in my flesh shall I see God:",
+      "churchId": "p26"
+    },
+    {
+      "slug": "job-19-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "Whom I shall see for myself, and mine eyes shall behold, and not another; <span class=\"clarity-word\">though</span> my reins be consumed within me.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "job-19-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "But ye should say, Why persecute we him, seeing the root of the matter is found in me?",
+      "churchId": "p28"
+    },
+    {
+      "slug": "job-19-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "Be ye afraid of the sword: for wrath <span class=\"clarity-word\">bringeth</span> the punishments of the sword, that ye may know <span class=\"clarity-word\">there is</span> a judgment.",
+      "churchId": "p29"
+    }
+  ]
+}

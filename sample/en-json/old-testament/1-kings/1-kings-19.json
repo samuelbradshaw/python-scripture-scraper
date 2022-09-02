@@ -1,0 +1,162 @@
+{
+  "name": "1 Kings 19",
+  "abbrev": "1 Kgs. 19",
+  "number": "19",
+  "churchUri": "/scriptures/ot/1-kgs/19",
+  "paragraphs": [
+    {
+      "slug": "1-kings-19-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 19",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "1-kings-19-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And Ahab told Jezebel all that Elijah had done, and withal how he had slain all the prophets with the sword.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "1-kings-19-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Then Jezebel sent a messenger unto Elijah, saying, So let the gods do <span class=\"clarity-word\">to me,</span> and more also, if I make not thy life as the life of one of them by to morrow about this time.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "1-kings-19-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And when he saw <span class=\"clarity-word\">that,</span> he arose, and went for his life, and came to Beer-sheba, which <span class=\"clarity-word\">belongeth</span> to Judah, and left his servant there.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "1-kings-19-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "¶ But he himself went a day’s journey into the wilderness, and came and sat down under a juniper tree: and he requested for himself that he might die; and said, It is enough; now, O <span class=\"small-caps\">Lord</span>, take away my life; for I <span class=\"clarity-word\">am</span> not better than my fathers.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "1-kings-19-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And as he lay and slept under a juniper tree, behold, then an angel touched him, and said unto him, Arise <span class=\"clarity-word\">and</span> eat.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "1-kings-19-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And he looked, and, behold, <span class=\"clarity-word\">there was</span> a cake baken on the coals, and a cruse of water at his head. And he did eat and drink, and laid him down again.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "1-kings-19-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And the angel of the <span class=\"small-caps\">Lord</span> came again the second time, and touched him, and said, Arise <span class=\"clarity-word\">and</span> eat; because the journey <span class=\"clarity-word\">is</span> too great for thee.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "1-kings-19-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And he arose, and did eat and drink, and went in the strength of that meat forty days and forty nights unto Horeb the mount of God.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "1-kings-19-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "¶ And he came thither unto a cave, and lodged there; and, behold, the word of the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">came</span> to him, and he said unto him, What doest thou here, Elijah?",
+      "churchId": "p9"
+    },
+    {
+      "slug": "1-kings-19-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And he said, I have been very jealous for the <span class=\"small-caps\">Lord</span> God of hosts: for the children of Israel have forsaken thy covenant, thrown down thine altars, and slain thy prophets with the sword; and I, <span class=\"clarity-word\">even</span> I only, am left; and they seek my life, to take it away.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "1-kings-19-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And he said, Go forth, and stand upon the mount before the <span class=\"small-caps\">Lord</span>. And, behold, the <span class=\"small-caps\">Lord</span> passed by, and a great and strong wind rent the mountains, and brake in pieces the rocks before the <span class=\"small-caps\">Lord</span>; <span class=\"clarity-word\">but</span> the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">was</span> not in the wind: and after the wind an earthquake; <span class=\"clarity-word\">but</span> the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">was</span> not in the earthquake:",
+      "churchId": "p11"
+    },
+    {
+      "slug": "1-kings-19-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And after the earthquake a fire; <span class=\"clarity-word\">but</span> the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">was</span> not in the fire: and after the fire a still small voice.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "1-kings-19-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And it was <span class=\"clarity-word\">so,</span> when Elijah heard <span class=\"clarity-word\">it,</span> that he wrapped his face in his mantle, and went out, and stood in the entering in of the cave. And, behold, <span class=\"clarity-word\">there came</span> a voice unto him, and said, What doest thou here, Elijah?",
+      "churchId": "p13"
+    },
+    {
+      "slug": "1-kings-19-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And he said, I have been very jealous for the <span class=\"small-caps\">Lord</span> God of hosts: because the children of Israel have forsaken thy covenant, thrown down thine altars, and slain thy prophets with the sword; and I, <span class=\"clarity-word\">even</span> I only, am left; and they seek my life, to take it away.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "1-kings-19-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And the <span class=\"small-caps\">Lord</span> said unto him, Go, return on thy way to the wilderness of Damascus: and when thou comest, anoint Hazael <span class=\"clarity-word\">to be</span> king over Syria:",
+      "churchId": "p15"
+    },
+    {
+      "slug": "1-kings-19-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And Jehu the son of Nimshi shalt thou anoint <span class=\"clarity-word\">to be</span> king over Israel: and Elisha the son of Shaphat of Abel-meholah shalt thou anoint <span class=\"clarity-word\">to be</span> prophet in thy room.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "1-kings-19-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And it shall come to pass, <span class=\"clarity-word\">that</span> him that escapeth the sword of Hazael shall Jehu slay: and him that escapeth from the sword of Jehu shall Elisha slay.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "1-kings-19-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Yet I have left <span class=\"clarity-word\">me</span> seven thousand in Israel, all the knees which have not bowed unto Baal, and every mouth which hath not kissed him.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "1-kings-19-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "¶ So he departed thence, and found Elisha the son of Shaphat, who <span class=\"clarity-word\">was</span> plowing <span class=\"clarity-word\">with</span> twelve yoke <span class=\"clarity-word\">of oxen</span> before him, and he with the twelfth: and Elijah passed by him, and cast his mantle upon him.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "1-kings-19-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And he left the oxen, and ran after Elijah, and said, Let me, I pray thee, kiss my father and my mother, and <span class=\"clarity-word\">then</span> I will follow thee. And he said unto him, Go back again: for what have I done to thee?",
+      "churchId": "p20"
+    },
+    {
+      "slug": "1-kings-19-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And he returned back from him, and took a yoke of oxen, and slew them, and boiled their flesh with the instruments of the oxen, and gave unto the people, and they did eat. Then he arose, and went after Elijah, and ministered unto him.",
+      "churchId": "p21"
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "name": "Jeremiah 16",
+  "abbrev": "Jer. 16",
+  "number": "16",
+  "churchUri": "/scriptures/ot/jer/16",
+  "paragraphs": [
+    {
+      "slug": "jeremiah-16-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 16",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "jeremiah-16-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "The word of the <span class=\"small-caps\">Lord</span> came also unto me, saying,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "jeremiah-16-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Thou shalt not take thee a wife, neither shalt thou have sons or daughters in this place.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "jeremiah-16-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "For thus saith the <span class=\"small-caps\">Lord</span> concerning the sons and concerning the daughters that are born in this place, and concerning their mothers that bare them, and concerning their fathers that begat them in this land;",
+      "churchId": "p3"
+    },
+    {
+      "slug": "jeremiah-16-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "They shall die of grievous deaths; they shall not be lamented; neither shall they be buried; <span class=\"clarity-word\">but</span> they shall be as dung upon the face of the earth: and they shall be consumed by the sword, and by famine; and their carcases shall be meat for the fowls of heaven, and for the beasts of the earth.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "jeremiah-16-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "For thus saith the <span class=\"small-caps\">Lord</span>, Enter not into the house of mourning, neither go to lament nor bemoan them: for I have taken away my peace from this people, saith the <span class=\"small-caps\">Lord</span>, <span class=\"clarity-word\">even</span> lovingkindness and mercies.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "jeremiah-16-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Both the great and the small shall die in this land: they shall not be buried, neither shall <span class=\"clarity-word\">men</span> lament for them, nor cut themselves, nor make themselves bald for them:",
+      "churchId": "p6"
+    },
+    {
+      "slug": "jeremiah-16-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Neither shall <span class=\"clarity-word\">men</span> tear <span class=\"clarity-word\">themselves</span> for them in mourning, to comfort them for the dead; neither shall <span class=\"clarity-word\">men</span> give them the cup of consolation to drink for their father or for their mother.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "jeremiah-16-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Thou shalt not also go into the house of feasting, to sit with them to eat and to drink.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "jeremiah-16-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "For thus saith the <span class=\"small-caps\">Lord</span> of hosts, the God of Israel; Behold, I will cause to cease out of this place in your eyes, and in your days, the voice of mirth, and the voice of gladness, the voice of the bridegroom, and the voice of the bride.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "jeremiah-16-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "¶ And it shall come to pass, when thou shalt shew this people all these words, and they shall say unto thee, Wherefore hath the <span class=\"small-caps\">Lord</span> pronounced all this great evil against us? or what <span class=\"clarity-word\">is</span> our iniquity? or what <span class=\"clarity-word\">is</span> our sin that we have committed against the <span class=\"small-caps\">Lord</span> our God?",
+      "churchId": "p10"
+    },
+    {
+      "slug": "jeremiah-16-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Then shalt thou say unto them, Because your fathers have forsaken me, saith the <span class=\"small-caps\">Lord</span>, and have walked after other gods, and have served them, and have worshipped them, and have forsaken me, and have not kept my law;",
+      "churchId": "p11"
+    },
+    {
+      "slug": "jeremiah-16-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And ye have done worse than your fathers; for, behold, ye walk every one after the imagination of his evil heart, that they may not hearken unto me:",
+      "churchId": "p12"
+    },
+    {
+      "slug": "jeremiah-16-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Therefore will I cast you out of this land into a land that ye know not, <span class=\"clarity-word\">neither</span> ye nor your fathers; and there shall ye serve other gods day and night; where I will not shew you favour.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "jeremiah-16-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "¶ Therefore, behold, the days come, saith the <span class=\"small-caps\">Lord</span>, that it shall no more be said, The <span class=\"small-caps\">Lord</span> liveth, that brought up the children of Israel out of the land of Egypt;",
+      "churchId": "p14"
+    },
+    {
+      "slug": "jeremiah-16-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "But, The <span class=\"small-caps\">Lord</span> liveth, that brought up the children of Israel from the land of the north, and from all the lands whither he had driven them: and I will bring them again into their land that I gave unto their fathers.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "jeremiah-16-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "¶ Behold, I will send for many fishers, saith the <span class=\"small-caps\">Lord</span>, and they shall fish them; and after will I send for many hunters, and they shall hunt them from every mountain, and from every hill, and out of the holes of the rocks.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "jeremiah-16-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "For mine eyes <span class=\"clarity-word\">are</span> upon all their ways: they are not hid from my face, neither is their iniquity hid from mine eyes.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "jeremiah-16-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And first I will recompense their iniquity and their sin double; because they have defiled my land, they have filled mine inheritance with the carcases of their detestable and abominable things.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "jeremiah-16-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "O <span class=\"small-caps\">Lord</span>, my strength, and my fortress, and my refuge in the day of affliction, the Gentiles shall come unto thee from the ends of the earth, and shall say, Surely our fathers have inherited lies, vanity, and <span class=\"clarity-word\">things</span> wherein <span class=\"clarity-word\">there is</span> no profit.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "jeremiah-16-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Shall a man make gods unto himself, and they <span class=\"clarity-word\">are</span> no gods?",
+      "churchId": "p20"
+    },
+    {
+      "slug": "jeremiah-16-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Therefore, behold, I will this once cause them to know, I will cause them to know mine hand and my might; and they shall know that my name <span class=\"clarity-word\">is</span> The <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p21"
+    }
+  ]
+}

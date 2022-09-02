@@ -1,0 +1,211 @@
+{
+  "name": "Ezekiel 12",
+  "abbrev": "Ezek. 12",
+  "number": "12",
+  "churchUri": "/scriptures/ot/ezek/12",
+  "paragraphs": [
+    {
+      "slug": "ezekiel-12-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 12",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "ezekiel-12-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "The word of the <span class=\"small-caps\">Lord</span> also came unto me, saying,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "ezekiel-12-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Son of man, thou dwellest in the midst of a rebellious house, which have eyes to see, and see not; they have ears to hear, and hear not: for they <span class=\"clarity-word\">are</span> a rebellious house.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "ezekiel-12-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Therefore, thou son of man, prepare thee stuff for removing, and remove by day in their sight; and thou shalt remove from thy place to another place in their sight: it may be they will consider, though they <span class=\"clarity-word\">be</span> a rebellious house.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "ezekiel-12-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Then shalt thou bring forth thy stuff by day in their sight, as stuff for removing: and thou shalt go forth at even in their sight, as they that go forth into captivity.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "ezekiel-12-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Dig thou through the wall in their sight, and carry out thereby.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "ezekiel-12-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "In their sight shalt thou bear <span class=\"clarity-word\">it</span> upon <span class=\"clarity-word\">thy</span> shoulders, <span class=\"clarity-word\">and</span> carry <span class=\"clarity-word\">it</span> forth in the twilight: thou shalt cover thy face, that thou see not the ground: for I have set thee <span class=\"clarity-word\">for</span> a sign unto the house of Israel.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "ezekiel-12-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And I did so as I was commanded: I brought forth my stuff by day, as stuff for captivity, and in the even I digged through the wall with mine hand; I brought <span class=\"clarity-word\">it</span> forth in the twilight, <span class=\"clarity-word\">and</span> I bare <span class=\"clarity-word\">it</span> upon <span class=\"clarity-word\">my</span> shoulder in their sight.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "ezekiel-12-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "¶ And in the morning came the word of the <span class=\"small-caps\">Lord</span> unto me, saying,",
+      "churchId": "p8"
+    },
+    {
+      "slug": "ezekiel-12-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Son of man, hath not the house of Israel, the rebellious house, said unto thee, What doest thou?",
+      "churchId": "p9"
+    },
+    {
+      "slug": "ezekiel-12-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Say thou unto them, Thus saith the Lord <span class=\"small-caps\">God</span>; This burden <span class=\"clarity-word\">concerneth</span> the prince in Jerusalem, and all the house of Israel that <span class=\"clarity-word\">are</span> among them.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "ezekiel-12-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Say, I <span class=\"clarity-word\">am</span> your sign: like as I have done, so shall it be done unto them: they shall remove <span class=\"clarity-word\">and</span> go into captivity.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "ezekiel-12-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And the prince that <span class=\"clarity-word\">is</span> among them shall bear upon <span class=\"clarity-word\">his</span> shoulder in the twilight, and shall go forth: they shall dig through the wall to carry out thereby: he shall cover his face, that he see not the ground with <span class=\"clarity-word\">his</span> eyes.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "ezekiel-12-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "My net also will I spread upon him, and he shall be taken in my snare: and I will bring him to Babylon <span class=\"clarity-word\">to</span> the land of the Chaldeans; yet shall he not see it, though he shall die there.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "ezekiel-12-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And I will scatter toward every wind all that <span class=\"clarity-word\">are</span> about him to help him, and all his bands; and I will draw out the sword after them.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "ezekiel-12-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And they shall know that I <span class=\"clarity-word\">am</span> the <span class=\"small-caps\">Lord</span>, when I shall scatter them among the nations, and disperse them in the countries.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "ezekiel-12-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "But I will leave a few men of them from the sword, from the famine, and from the pestilence; that they may declare all their abominations among the heathen whither they come; and they shall know that I <span class=\"clarity-word\">am</span> the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "ezekiel-12-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "¶ Moreover the word of the <span class=\"small-caps\">Lord</span> came to me, saying,",
+      "churchId": "p17"
+    },
+    {
+      "slug": "ezekiel-12-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Son of man, eat thy bread with quaking, and drink thy water with trembling and with carefulness;",
+      "churchId": "p18"
+    },
+    {
+      "slug": "ezekiel-12-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And say unto the people of the land, Thus saith the Lord <span class=\"small-caps\">God</span> of the inhabitants of Jerusalem, <span class=\"clarity-word\">and</span> of the land of Israel; They shall eat their bread with carefulness, and drink their water with astonishment, that her land may be desolate from all that is therein, because of the violence of all them that dwell therein.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "ezekiel-12-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And the cities that are inhabited shall be laid waste, and the land shall be desolate; and ye shall know that I <span class=\"clarity-word\">am</span> the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "ezekiel-12-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "¶ And the word of the <span class=\"small-caps\">Lord</span> came unto me, saying,",
+      "churchId": "p21"
+    },
+    {
+      "slug": "ezekiel-12-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Son of man, what <span class=\"clarity-word\">is</span> that proverb <span class=\"clarity-word\">that</span> ye have in the land of Israel, saying, The days are prolonged, and every vision faileth?",
+      "churchId": "p22"
+    },
+    {
+      "slug": "ezekiel-12-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Tell them therefore, Thus saith the Lord <span class=\"small-caps\">God</span>; I will make this proverb to cease, and they shall no more use it as a proverb in Israel; but say unto them, The days are at hand, and the effect of every vision.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "ezekiel-12-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "For there shall be no more any vain vision nor flattering divination within the house of Israel.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "ezekiel-12-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "For I <span class=\"clarity-word\">am</span> the <span class=\"small-caps\">Lord</span>: I will speak, and the word that I shall speak shall come to pass; it shall be no more prolonged: for in your days, O rebellious house, will I say the word, and will perform it, saith the Lord <span class=\"small-caps\">God</span>.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "ezekiel-12-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "¶ Again the word of the <span class=\"small-caps\">Lord</span> came to me, saying,",
+      "churchId": "p26"
+    },
+    {
+      "slug": "ezekiel-12-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "Son of man, behold, <span class=\"clarity-word\">they of</span> the house of Israel say, The vision that he seeth <span class=\"clarity-word\">is</span> for many days <span class=\"clarity-word\">to come,</span> and he prophesieth of the times <span class=\"clarity-word\">that are</span> far off.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "ezekiel-12-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "Therefore say unto them, Thus saith the Lord <span class=\"small-caps\">God</span>; There shall none of my words be prolonged any more, but the word which I have spoken shall be done, saith the Lord <span class=\"small-caps\">God</span>.",
+      "churchId": "p28"
+    }
+  ]
+}

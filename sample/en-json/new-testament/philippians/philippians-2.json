@@ -1,0 +1,225 @@
+{
+  "name": "Philippians 2",
+  "abbrev": "Philip. 2",
+  "number": "2",
+  "churchUri": "/scriptures/nt/philip/2",
+  "paragraphs": [
+    {
+      "slug": "philippians-2-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 2",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "philippians-2-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "If <span class=\"clarity-word\">there be</span> therefore any consolation in Christ, if any comfort of love, if any fellowship of the Spirit, if any bowels and mercies,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "philippians-2-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Fulfil ye my joy, that ye be likeminded, having the same love, <span class=\"clarity-word\">being</span> of one accord, of one mind.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "philippians-2-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "<span class=\"clarity-word\">Let</span> nothing <span class=\"clarity-word\">be done</span> through strife or vainglory; but in lowliness of mind let each esteem other better than themselves.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "philippians-2-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Look not every man on his own things, but every man also on the things of others.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "philippians-2-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Let this mind be in you, which was also in Christ Jesus:",
+      "churchId": "p5"
+    },
+    {
+      "slug": "philippians-2-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Who, being in the form of God, thought it not robbery to be equal with God:",
+      "churchId": "p6"
+    },
+    {
+      "slug": "philippians-2-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "But made himself of no reputation, and took upon him the form of a servant, and was made in the likeness of men:",
+      "churchId": "p7"
+    },
+    {
+      "slug": "philippians-2-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And being found in fashion as a man, he humbled himself, and became obedient unto death, even the death of the cross.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "philippians-2-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Wherefore God also hath highly exalted him, and given him a name which is above every name:",
+      "churchId": "p9"
+    },
+    {
+      "slug": "philippians-2-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "That at the name of Jesus every knee should bow, of <span class=\"clarity-word\">things</span> in heaven, and <span class=\"clarity-word\">things</span> in earth, and <span class=\"clarity-word\">things</span> under the earth;",
+      "churchId": "p10"
+    },
+    {
+      "slug": "philippians-2-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And <span class=\"clarity-word\">that</span> every tongue should confess that Jesus Christ <span class=\"clarity-word\">is</span> Lord, to the glory of God the Father.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "philippians-2-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Wherefore, my beloved, as ye have always obeyed, not as in my presence only, but now much more in my absence, work out your own salvation with fear and trembling.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "philippians-2-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "For it is God which worketh in you both to will and to do of <span class=\"clarity-word\">his</span> good pleasure.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "philippians-2-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Do all things without murmurings and disputings:",
+      "churchId": "p14"
+    },
+    {
+      "slug": "philippians-2-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "That ye may be blameless and harmless, the sons of God, without rebuke, in the midst of a crooked and perverse nation, among whom ye shine as lights in the world;",
+      "churchId": "p15"
+    },
+    {
+      "slug": "philippians-2-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Holding forth the word of life; that I may rejoice in the day of Christ, that I have not run in vain, neither laboured in vain.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "philippians-2-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Yea, and if I be offered upon the sacrifice and service of your faith, I joy, and rejoice with you all.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "philippians-2-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "For the same cause also do ye joy, and rejoice with me.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "philippians-2-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "But I trust in the Lord Jesus to send Timotheus shortly unto you, that I also may be of good comfort, when I know your state.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "philippians-2-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "For I have no man likeminded, who will naturally care for your state.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "philippians-2-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "For all seek their own, not the things which are Jesus Christ’s.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "philippians-2-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "But ye know the proof of him, that, as a son with the father, he hath served with me in the gospel.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "philippians-2-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Him therefore I hope to send presently, so soon as I shall see how it will go with me.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "philippians-2-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "But I trust in the Lord that I also myself shall come shortly.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "philippians-2-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Yet I supposed it necessary to send to you Epaphroditus, my brother, and companion in labour, and fellowsoldier, but your messenger, and he that ministered to my wants.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "philippians-2-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "For he longed after you all, and was full of heaviness, because that ye had heard that he had been sick.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "philippians-2-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "For indeed he was sick nigh unto death: but God had mercy on him; and not on him only, but on me also, lest I should have sorrow upon sorrow.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "philippians-2-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "I sent him therefore the more carefully, that, when ye see him again, ye may rejoice, and that I may be the less sorrowful.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "philippians-2-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "Receive him therefore in the Lord with all gladness; and hold such in reputation:",
+      "churchId": "p29"
+    },
+    {
+      "slug": "philippians-2-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "Because for the work of Christ he was nigh unto death, not regarding his life, to supply your lack of service toward me.",
+      "churchId": "p30"
+    }
+  ]
+}

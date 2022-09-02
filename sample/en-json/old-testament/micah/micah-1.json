@@ -1,0 +1,134 @@
+{
+  "name": "Micah 1",
+  "abbrev": "Micah 1",
+  "number": "1",
+  "churchUri": "/scriptures/ot/micah/1",
+  "paragraphs": [
+    {
+      "slug": "micah-1-title1",
+      "type": "book-title",
+      "number": null,
+      "content": "Micah",
+      "churchId": "title1"
+    },
+    {
+      "slug": "micah-1-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 1",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "micah-1-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "The word of the <span class=\"small-caps\">Lord</span> that came to Micah the Morasthite in the days of Jotham, Ahaz, <span class=\"clarity-word\">and</span> Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "micah-1-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Hear, all ye people; hearken, O earth, and all that therein is: and let the Lord <span class=\"small-caps\">God</span> be witness against you, the Lord from his holy temple.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "micah-1-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "For, behold, the <span class=\"small-caps\">Lord</span> cometh forth out of his place, and will come down, and tread upon the high places of the earth.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "micah-1-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And the mountains shall be molten under him, and the valleys shall be cleft, as wax before the fire, <span class=\"clarity-word\">and</span> as the waters <span class=\"clarity-word\">that are</span> poured down a steep place.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "micah-1-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "For the transgression of Jacob <span class=\"clarity-word\">is</span> all this, and for the sins of the house of Israel. What <span class=\"clarity-word\">is</span> the transgression of Jacob? <span class=\"clarity-word\">is it</span> not Samaria? and what <span class=\"clarity-word\">are</span> the high places of Judah? <span class=\"clarity-word\">are they</span> not Jerusalem?",
+      "churchId": "p5"
+    },
+    {
+      "slug": "micah-1-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Therefore I will make Samaria as an heap of the field, <span class=\"clarity-word\">and</span> as plantings of a vineyard: and I will pour down the stones thereof into the valley, and I will discover the foundations thereof.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "micah-1-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And all the graven images thereof shall be beaten to pieces, and all the hires thereof shall be burned with the fire, and all the idols thereof will I lay desolate: for she gathered <span class=\"clarity-word\">it</span> of the hire of an harlot, and they shall return to the hire of an harlot.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "micah-1-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Therefore I will wail and howl, I will go stripped and naked: I will make a wailing like the dragons, and mourning as the owls.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "micah-1-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "For her wound <span class=\"clarity-word\">is</span> incurable; for it is come unto Judah; he is come unto the gate of my people, <span class=\"clarity-word\">even</span> to Jerusalem.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "micah-1-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "¶ Declare ye <span class=\"clarity-word\">it</span> not at Gath, weep ye not at all: in the house of Aphrah roll thyself in the dust.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "micah-1-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Pass ye away, thou inhabitant of Saphir, having thy shame naked: the inhabitant of Zaanan came not forth in the mourning of Beth-ezel; he shall receive of you his standing.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "micah-1-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "For the inhabitant of Maroth waited carefully for good: but evil came down from the <span class=\"small-caps\">Lord</span> unto the gate of Jerusalem.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "micah-1-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "O thou inhabitant of Lachish, bind the chariot to the swift beast: she <span class=\"clarity-word\">is</span> the beginning of the sin to the daughter of Zion: for the transgressions of Israel were found in thee.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "micah-1-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Therefore shalt thou give presents to Moresheth-gath: the houses of Achzib <span class=\"clarity-word\">shall be</span> a lie to the kings of Israel.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "micah-1-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Yet will I bring an heir unto thee, O inhabitant of Mareshah: he shall come unto Adullam the glory of Israel.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "micah-1-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Make thee bald, and poll thee for thy delicate children; enlarge thy baldness as the eagle; for they are gone into captivity from thee.",
+      "churchId": "p16"
+    }
+  ]
+}

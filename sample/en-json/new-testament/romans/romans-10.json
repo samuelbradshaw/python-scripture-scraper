@@ -1,0 +1,162 @@
+{
+  "name": "Romans 10",
+  "abbrev": "Rom. 10",
+  "number": "10",
+  "churchUri": "/scriptures/nt/rom/10",
+  "paragraphs": [
+    {
+      "slug": "romans-10-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 10",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "romans-10-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Brethren, my heart’s desire and prayer to God for Israel is, that they might be saved.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "romans-10-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "For I bear them record that they have a zeal of God, but not according to knowledge.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "romans-10-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "For they being ignorant of God’s righteousness, and going about to establish their own righteousness, have not submitted themselves unto the righteousness of God.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "romans-10-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "For Christ <span class=\"clarity-word\">is</span> the end of the law for righteousness to every one that believeth.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "romans-10-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "For Moses describeth the righteousness which is of the law, That the man which doeth those things shall live by them.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "romans-10-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "But the righteousness which is of faith speaketh on this wise, Say not in thine heart, Who shall ascend into heaven? (that is, to bring Christ down <span class=\"clarity-word\">from above:</span>)",
+      "churchId": "p6"
+    },
+    {
+      "slug": "romans-10-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Or, Who shall descend into the deep? (that is, to bring up Christ again from the dead.)",
+      "churchId": "p7"
+    },
+    {
+      "slug": "romans-10-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "But what saith it? The word is nigh thee, <span class=\"clarity-word\">even</span> in thy mouth, and in thy heart: that is, the word of faith, which we preach;",
+      "churchId": "p8"
+    },
+    {
+      "slug": "romans-10-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "romans-10-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "For with the heart man believeth unto righteousness; and with the mouth confession is made unto salvation.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "romans-10-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "For the scripture saith, Whosoever believeth on him shall not be ashamed.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "romans-10-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "For there is no difference between the Jew and the Greek: for the same Lord over all is rich unto all that call upon him.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "romans-10-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "For whosoever shall call upon the name of the Lord shall be saved.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "romans-10-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "How then shall they call on him in whom they have not believed? and how shall they believe in him of whom they have not heard? and how shall they hear without a preacher?",
+      "churchId": "p14"
+    },
+    {
+      "slug": "romans-10-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And how shall they preach, except they be sent? as it is written, How beautiful are the feet of them that preach the gospel of peace, and bring glad tidings of good things!",
+      "churchId": "p15"
+    },
+    {
+      "slug": "romans-10-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "But they have not all obeyed the gospel. For Esaias saith, Lord, who hath believed our report?",
+      "churchId": "p16"
+    },
+    {
+      "slug": "romans-10-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "So then faith <span class=\"clarity-word\">cometh</span> by hearing, and hearing by the word of God.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "romans-10-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "But I say, Have they not heard? Yes verily, their sound went into all the earth, and their words unto the ends of the world.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "romans-10-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "But I say, Did not Israel know? First Moses saith, I will provoke you to jealousy by <span class=\"clarity-word\">them that are</span> no people, <span class=\"clarity-word\">and</span> by a foolish nation I will anger you.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "romans-10-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "But Esaias is very bold, and saith, I was found of them that sought me not; I was made manifest unto them that asked not after me.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "romans-10-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "But to Israel he saith, All day long I have stretched forth my hands unto a disobedient and gainsaying people.",
+      "churchId": "p21"
+    }
+  ]
+}

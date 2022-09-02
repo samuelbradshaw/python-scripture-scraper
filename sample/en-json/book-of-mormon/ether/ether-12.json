@@ -1,0 +1,302 @@
+{
+  "name": "Ether 12",
+  "abbrev": "Ether 12",
+  "number": "12",
+  "churchUri": "/scriptures/bofm/ether/12",
+  "paragraphs": [
+    {
+      "slug": "ether-12-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 12",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "ether-12-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And it came to pass that the days of Ether were in the days of Coriantumr; and Coriantumr was king over all the land.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "ether-12-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And Ether was a prophet of the Lord; wherefore Ether came forth in the days of Coriantumr, and began to prophesy unto the people, for he could not be restrained because of the Spirit of the Lord which was in him.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "ether-12-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "For he did cry from the morning, even until the going down of the sun, exhorting the people to believe in God unto repentance lest they should be destroyed, saying unto them that by faith all things are fulfilled—",
+      "churchId": "p3"
+    },
+    {
+      "slug": "ether-12-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Wherefore, whoso believeth in God might with surety hope for a better world, yea, even a place at the right hand of God, which hope cometh of faith, maketh an anchor to the souls of men, which would make them sure and steadfast, always abounding in good works, being led to glorify God.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "ether-12-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And it came to pass that Ether did prophesy great and marvelous things unto the people, which they did not believe, because they saw them not.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "ether-12-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And now, I, Moroni, would speak somewhat concerning these things; I would show unto the world that faith is things which are hoped for and not seen; wherefore, dispute not because ye see not, for ye receive no witness until after the trial of your faith.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "ether-12-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "For it was by faith that Christ showed himself unto our fathers, after he had risen from the dead; and he showed not himself unto them until after they had faith in him; wherefore, it must needs be that some had faith in him, for he showed himself not unto the world.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "ether-12-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "But because of the faith of men he has shown himself unto the world, and glorified the name of the Father, and prepared a way that thereby others might be partakers of the heavenly gift, that they might hope for those things which they have not seen.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "ether-12-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Wherefore, ye may also have hope, and be partakers of the gift, if ye will but have faith.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "ether-12-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Behold it was by faith that they of old were called after the holy order of God.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "ether-12-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Wherefore, by faith was the law of Moses given. But in the gift of his Son hath God prepared a more excellent way; and it is by faith that it hath been fulfilled.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "ether-12-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "For if there be no faith among the children of men God can do no miracle among them; wherefore, he showed not himself until after their faith.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "ether-12-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Behold, it was the faith of Alma and Amulek that caused the prison to tumble to the earth.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "ether-12-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Behold, it was the faith of Nephi and Lehi that wrought the change upon the Lamanites, that they were baptized with fire and with the Holy Ghost.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "ether-12-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Behold, it was the faith of Ammon and his brethren which wrought so great a miracle among the Lamanites.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "ether-12-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Yea, and even all they who wrought miracles wrought them by faith, even those who were before Christ and also those who were after.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "ether-12-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And it was by faith that the three disciples obtained a promise that they should not taste of death; and they obtained not the promise until after their faith.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "ether-12-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And neither at any time hath any wrought miracles until after their faith; wherefore they first believed in the Son of God.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "ether-12-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And there were many whose faith was so exceedingly strong, even before Christ came, who could not be kept from within the veil, but truly saw with their eyes the things which they had beheld with an eye of faith, and they were glad.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "ether-12-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And behold, we have seen in this record that one of these was the brother of Jared; for so great was his faith in God, that when God put forth his finger he could not hide it from the sight of the brother of Jared, because of his word which he had spoken unto him, which word he had obtained by faith.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "ether-12-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And after the brother of Jared had beheld the finger of the Lord, because of the promise which the brother of Jared had obtained by faith, the Lord could not withhold anything from his sight; wherefore he showed him all things, for he could no longer be kept without the veil.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "ether-12-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And it is by faith that my fathers have obtained the promise that these things should come unto their brethren through the Gentiles; therefore the Lord hath commanded me, yea, even Jesus Christ.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "ether-12-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And I said unto him: Lord, the Gentiles will mock at these things, because of our weakness in writing; for Lord thou hast made us mighty in word by faith, but thou hast not made us mighty in writing; for thou hast made all this people that they could speak much, because of the Holy Ghost which thou hast given them;",
+      "churchId": "p23"
+    },
+    {
+      "slug": "ether-12-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And thou hast made us that we could write but little, because of the awkwardness of our hands. Behold, thou hast not made us mighty in writing like unto the brother of Jared, for thou madest him that the things which he wrote were mighty even as thou art, unto the overpowering of man to read them.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "ether-12-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Thou hast also made our words powerful and great, even that we cannot write them; wherefore, when we write we behold our weakness, and stumble because of the placing of our words; and I fear lest the Gentiles shall mock at our words.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "ether-12-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And when I had said this, the Lord spake unto me, saying: Fools mock, but they shall mourn; and my grace is sufficient for the meek, that they shall take no advantage of your weakness;",
+      "churchId": "p26"
+    },
+    {
+      "slug": "ether-12-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And if men come unto me I will show unto them their weakness. I give unto men weakness that they may be humble; and my grace is sufficient for all men that humble themselves before me; for if they humble themselves before me, and have faith in me, then will I make weak things become strong unto them.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "ether-12-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "Behold, I will show unto the Gentiles their weakness, and I will show unto them that faith, hope and charity bringeth unto me—the fountain of all righteousness.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "ether-12-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "And I, Moroni, having heard these words, was comforted, and said: O Lord, thy righteous will be done, for I know that thou workest unto the children of men according to their faith;",
+      "churchId": "p29"
+    },
+    {
+      "slug": "ether-12-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "For the brother of Jared said unto the mountain Zerin, Remove—and it was removed. And if he had not had faith it would not have moved; wherefore thou workest after men have faith.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "ether-12-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "For thus didst thou manifest thyself unto thy disciples; for after they had faith, and did speak in thy name, thou didst show thyself unto them in great power.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "ether-12-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "And I also remember that thou hast said that thou hast prepared a house for man, yea, even among the mansions of thy Father, in which man might have a more excellent hope; wherefore man must hope, or he cannot receive an inheritance in the place which thou hast prepared.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "ether-12-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "And again, I remember that thou hast said that thou hast loved the world, even unto the laying down of thy life for the world, that thou mightest take it again to prepare a place for the children of men.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "ether-12-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "And now I know that this love which thou hast had for the children of men is charity; wherefore, except men shall have charity they cannot inherit that place which thou hast prepared in the mansions of thy Father.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "ether-12-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "Wherefore, I know by this thing which thou hast said, that if the Gentiles have not charity, because of our weakness, that thou wilt prove them, and take away their talent, yea, even that which they have received, and give unto them who shall have more abundantly.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "ether-12-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "And it came to pass that I prayed unto the Lord that he would give unto the Gentiles grace, that they might have charity.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "ether-12-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "And it came to pass that the Lord said unto me: If they have not charity it mattereth not unto thee, thou hast been faithful; wherefore, thy garments shall be made clean. And because thou hast seen thy weakness thou shalt be made strong, even unto the sitting down in the place which I have prepared in the mansions of my Father.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "ether-12-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "And now I, Moroni, bid farewell unto the Gentiles, yea, and also unto my brethren whom I love, until we shall meet before the judgment-seat of Christ, where all men shall know that my garments are not spotted with your blood.",
+      "churchId": "p38"
+    },
+    {
+      "slug": "ether-12-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "And then shall ye know that I have seen Jesus, and that he hath talked with me face to face, and that he told me in plain humility, even as a man telleth another in mine own language, concerning these things;",
+      "churchId": "p39"
+    },
+    {
+      "slug": "ether-12-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "And only a few have I written, because of my weakness in writing.",
+      "churchId": "p40"
+    },
+    {
+      "slug": "ether-12-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "And now, I would commend you to seek this Jesus of whom the prophets and apostles have written, that the grace of God the Father, and also the Lord Jesus Christ, and the Holy Ghost, which beareth record of them, may be and abide in you forever. Amen.",
+      "churchId": "p41"
+    }
+  ]
+}

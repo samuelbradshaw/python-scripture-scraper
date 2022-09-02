@@ -1,0 +1,71 @@
+{
+  "name": "Psalm 114",
+  "abbrev": "Psalm 114",
+  "number": "114",
+  "churchUri": "/scriptures/ot/ps/114",
+  "paragraphs": [
+    {
+      "slug": "psalm-114-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 114",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-114-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "When Israel went out of Egypt, the house of Jacob from a people of strange language;",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-114-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Judah was his sanctuary, <span class=\"clarity-word\">and</span> Israel his dominion.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-114-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "The sea saw <span class=\"clarity-word\">it,</span> and fled: Jordan was driven back.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-114-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "The mountains skipped like rams, <span class=\"clarity-word\">and</span> the little hills like lambs.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-114-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "What <span class=\"clarity-word\">ailed</span> thee, O thou sea, that thou fleddest? thou Jordan, <span class=\"clarity-word\">that</span> thou wast driven back?",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-114-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Ye mountains, <span class=\"clarity-word\">that</span> ye skipped like rams; <span class=\"clarity-word\">and</span> ye little hills, like lambs?",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-114-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Tremble, thou earth, at the presence of the Lord, at the presence of the God of Jacob;",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-114-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Which turned the rock <span class=\"clarity-word\">into</span> a standing water, the flint into a fountain of waters.",
+      "churchId": "p8"
+    }
+  ]
+}

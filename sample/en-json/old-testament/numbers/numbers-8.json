@@ -1,0 +1,197 @@
+{
+  "name": "Numbers 8",
+  "abbrev": "Num. 8",
+  "number": "8",
+  "churchUri": "/scriptures/ot/num/8",
+  "paragraphs": [
+    {
+      "slug": "numbers-8-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 8",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "numbers-8-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And the <span class=\"small-caps\">Lord</span> spake unto Moses, saying,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "numbers-8-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Speak unto Aaron, and say unto him, When thou lightest the lamps, the seven lamps shall give light over against the candlestick.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "numbers-8-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And Aaron did so; he lighted the lamps thereof over against the candlestick, as the <span class=\"small-caps\">Lord</span> commanded Moses.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "numbers-8-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And this work of the candlestick <span class=\"clarity-word\">was of</span> beaten gold, unto the shaft thereof, unto the flowers thereof, <span class=\"clarity-word\">was</span> beaten work: according unto the pattern which the <span class=\"small-caps\">Lord</span> had shewed Moses, so he made the candlestick.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "numbers-8-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "¶ And the <span class=\"small-caps\">Lord</span> spake unto Moses, saying,",
+      "churchId": "p5"
+    },
+    {
+      "slug": "numbers-8-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Take the Levites from among the children of Israel, and cleanse them.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "numbers-8-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And thus shalt thou do unto them, to cleanse them: Sprinkle water of purifying upon them, and let them shave all their flesh, and let them wash their clothes, and <span class=\"clarity-word\">so</span> make themselves clean.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "numbers-8-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Then let them take a young bullock with his meat offering, <span class=\"clarity-word\">even</span> fine flour mingled with oil, and another young bullock shalt thou take for a sin offering.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "numbers-8-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And thou shalt bring the Levites before the tabernacle of the congregation: and thou shalt gather the whole assembly of the children of Israel together:",
+      "churchId": "p9"
+    },
+    {
+      "slug": "numbers-8-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And thou shalt bring the Levites before the <span class=\"small-caps\">Lord</span>: and the children of Israel shall put their hands upon the Levites:",
+      "churchId": "p10"
+    },
+    {
+      "slug": "numbers-8-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And Aaron shall offer the Levites before the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">for</span> an offering of the children of Israel, that they may execute the service of the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "numbers-8-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And the Levites shall lay their hands upon the heads of the bullocks: and thou shalt offer the one <span class=\"clarity-word\">for</span> a sin offering, and the other <span class=\"clarity-word\">for</span> a burnt offering, unto the <span class=\"small-caps\">Lord</span>, to make an atonement for the Levites.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "numbers-8-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And thou shalt set the Levites before Aaron, and before his sons, and offer them <span class=\"clarity-word\">for</span> an offering unto the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "numbers-8-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Thus shalt thou separate the Levites from among the children of Israel: and the Levites shall be mine.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "numbers-8-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And after that shall the Levites go in to do the service of the tabernacle of the congregation: and thou shalt cleanse them, and offer them <span class=\"clarity-word\">for</span> an offering.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "numbers-8-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "For they <span class=\"clarity-word\">are</span> wholly given unto me from among the children of Israel; instead of such as open every womb, <span class=\"clarity-word\">even instead of</span> the firstborn of all the children of Israel, have I taken them unto me.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "numbers-8-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "For all the firstborn of the children of Israel <span class=\"clarity-word\">are</span> mine, <span class=\"clarity-word\">both</span> man and beast: on the day that I smote every firstborn in the land of Egypt I sanctified them for myself.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "numbers-8-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And I have taken the Levites for all the firstborn of the children of Israel.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "numbers-8-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And I have given the Levites <span class=\"clarity-word\">as</span> a gift to Aaron and to his sons from among the children of Israel, to do the service of the children of Israel in the tabernacle of the congregation, and to make an atonement for the children of Israel: that there be no plague among the children of Israel, when the children of Israel come nigh unto the sanctuary.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "numbers-8-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And Moses, and Aaron, and all the congregation of the children of Israel, did to the Levites according unto all that the <span class=\"small-caps\">Lord</span> commanded Moses concerning the Levites, so did the children of Israel unto them.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "numbers-8-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And the Levites were purified, and they washed their clothes; and Aaron offered them <span class=\"clarity-word\">as</span> an offering before the <span class=\"small-caps\">Lord</span>; and Aaron made an atonement for them to cleanse them.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "numbers-8-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And after that went the Levites in to do their service in the tabernacle of the congregation before Aaron, and before his sons: as the <span class=\"small-caps\">Lord</span> had commanded Moses concerning the Levites, so did they unto them.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "numbers-8-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "¶ And the <span class=\"small-caps\">Lord</span> spake unto Moses, saying,",
+      "churchId": "p23"
+    },
+    {
+      "slug": "numbers-8-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "This <span class=\"clarity-word\">is it</span> that <span class=\"clarity-word\">belongeth</span> unto the Levites: from twenty and five years old and upward they shall go in to wait upon the service of the tabernacle of the congregation:",
+      "churchId": "p24"
+    },
+    {
+      "slug": "numbers-8-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And from the age of fifty years they shall cease waiting upon the service <span class=\"clarity-word\">thereof,</span> and shall serve no more:",
+      "churchId": "p25"
+    },
+    {
+      "slug": "numbers-8-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "But shall minister with their brethren in the tabernacle of the congregation, to keep the charge, and shall do no service. Thus shalt thou do unto the Levites touching their charge.",
+      "churchId": "p26"
+    }
+  ]
+}

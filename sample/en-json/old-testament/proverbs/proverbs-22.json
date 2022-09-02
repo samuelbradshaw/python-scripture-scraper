@@ -1,0 +1,218 @@
+{
+  "name": "Proverbs 22",
+  "abbrev": "Prov. 22",
+  "number": "22",
+  "churchUri": "/scriptures/ot/prov/22",
+  "paragraphs": [
+    {
+      "slug": "proverbs-22-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 22",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "proverbs-22-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "A <span class=\"clarity-word\">good</span> name <span class=\"clarity-word\">is</span> rather to be chosen than great riches, <span class=\"clarity-word\">and</span> loving favour rather than silver and gold.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "proverbs-22-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "The rich and poor meet together: the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">is</span> the maker of them all.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "proverbs-22-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "A prudent <span class=\"clarity-word\">man</span> foreseeth the evil, and hideth himself: but the simple pass on, and are punished.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "proverbs-22-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "By humility <span class=\"clarity-word\">and</span> the fear of the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">are</span> riches, and honour, and life.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "proverbs-22-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Thorns <span class=\"clarity-word\">and</span> snares <span class=\"clarity-word\">are</span> in the way of the froward: he that doth keep his soul shall be far from them.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "proverbs-22-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Train up a child in the way he should go: and when he is old, he will not depart from it.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "proverbs-22-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "The rich ruleth over the poor, and the borrower <span class=\"clarity-word\">is</span> servant to the lender.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "proverbs-22-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "He that soweth iniquity shall reap vanity: and the rod of his anger shall fail.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "proverbs-22-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "He that hath a bountiful eye shall be blessed; for he giveth of his bread to the poor.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "proverbs-22-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Cast out the scorner, and contention shall go out; yea, strife and reproach shall cease.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "proverbs-22-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "He that loveth pureness of heart, <span class=\"clarity-word\">for</span> the grace of his lips the king <span class=\"clarity-word\">shall be</span> his friend.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "proverbs-22-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "The eyes of the <span class=\"small-caps\">Lord</span> preserve knowledge, and he overthroweth the words of the transgressor.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "proverbs-22-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "The slothful <span class=\"clarity-word\">man</span> saith, <span class=\"clarity-word\">There is</span> a lion without, I shall be slain in the streets.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "proverbs-22-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "The mouth of strange women <span class=\"clarity-word\">is</span> a deep pit: he that is abhorred of the <span class=\"small-caps\">Lord</span> shall fall therein.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "proverbs-22-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Foolishness <span class=\"clarity-word\">is</span> bound in the heart of a child; <span class=\"clarity-word\">but</span> the rod of correction shall drive it far from him.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "proverbs-22-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "He that oppresseth the poor to increase his <span class=\"clarity-word\">riches, and</span> he that giveth to the rich, <span class=\"clarity-word\">shall</span> surely <span class=\"clarity-word\">come</span> to want.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "proverbs-22-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Bow down thine ear, and hear the words of the wise, and apply thine heart unto my knowledge.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "proverbs-22-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "For <span class=\"clarity-word\">it is</span> a pleasant thing if thou keep them within thee; they shall withal be fitted in thy lips.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "proverbs-22-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "That thy trust may be in the <span class=\"small-caps\">Lord</span>, I have made known to thee this day, even to thee.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "proverbs-22-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Have not I written to thee excellent things in counsels and knowledge,",
+      "churchId": "p20"
+    },
+    {
+      "slug": "proverbs-22-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "That I might make thee know the certainty of the words of truth; that thou mightest answer the words of truth to them that send unto thee?",
+      "churchId": "p21"
+    },
+    {
+      "slug": "proverbs-22-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Rob not the poor, because he <span class=\"clarity-word\">is</span> poor: neither oppress the afflicted in the gate:",
+      "churchId": "p22"
+    },
+    {
+      "slug": "proverbs-22-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "For the <span class=\"small-caps\">Lord</span> will plead their cause, and spoil the soul of those that spoiled them.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "proverbs-22-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Make no friendship with an angry man; and with a furious man thou shalt not go:",
+      "churchId": "p24"
+    },
+    {
+      "slug": "proverbs-22-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Lest thou learn his ways, and get a snare to thy soul.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "proverbs-22-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "Be not thou <span class=\"clarity-word\">one</span> of them that strike hands, <span class=\"clarity-word\">or</span> of them that are sureties for debts.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "proverbs-22-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "If thou hast nothing to pay, why should he take away thy bed from under thee?",
+      "churchId": "p27"
+    },
+    {
+      "slug": "proverbs-22-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "Remove not the ancient landmark, which thy fathers have set.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "proverbs-22-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "Seest thou a man diligent in his business? he shall stand before kings; he shall not stand before mean <span class=\"clarity-word\">men</span><span class=\"clarity-word\">.</span>",
+      "churchId": "p29"
+    }
+  ]
+}

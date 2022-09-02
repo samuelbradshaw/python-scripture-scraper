@@ -1,0 +1,85 @@
+{
+  "name": "Doctrine and Covenants 113",
+  "abbrev": "D&C 113",
+  "number": "113",
+  "churchUri": "/scriptures/dc-testament/dc/113",
+  "paragraphs": [
+    {
+      "slug": "section-113-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Section 113",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "section-113-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Who is the Stem of Jesse spoken of in the 1st, 2d, 3d, 4th, and 5th verses of the 11th chapter of Isaiah?",
+      "churchId": "p1"
+    },
+    {
+      "slug": "section-113-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Verily thus saith the Lord: It is Christ.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "section-113-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "What is the rod spoken of in the first verse of the 11th chapter of Isaiah, that should come of the Stem of Jesse?",
+      "churchId": "p3"
+    },
+    {
+      "slug": "section-113-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Behold, thus saith the Lord: It is a servant in the hands of Christ, who is partly a descendant of Jesse as well as of Ephraim, or of the house of Joseph, on whom there is laid much power.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "section-113-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "What is the root of Jesse spoken of in the 10th verse of the 11th chapter?",
+      "churchId": "p5"
+    },
+    {
+      "slug": "section-113-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Behold, thus saith the Lord, it is a descendant of Jesse, as well as of Joseph, unto whom rightly belongs the priesthood, and the keys of the kingdom, for an ensign, and for the gathering of my people in the last days.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "section-113-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Questions by Elias Higbee: What is meant by the command in Isaiah, 52d chapter, 1st verse, which saith: Put on thy strength, O Zion—and what people had Isaiah reference to?",
+      "churchId": "p7"
+    },
+    {
+      "slug": "section-113-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "He had reference to those whom God should call in the last days, who should hold the power of priesthood to bring again Zion, and the redemption of Israel; and to put on her strength is to put on the authority of the priesthood, which she, Zion, has a right to by lineage; also to return to that power which she had lost.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "section-113-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "What are we to understand by Zion loosing herself from the bands of her neck; 2d verse?",
+      "churchId": "p9"
+    },
+    {
+      "slug": "section-113-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "We are to understand that the scattered remnants are exhorted to return to the Lord from whence they have fallen; which if they do, the promise of the Lord is that he will speak to them, or give them revelation. See the 6th, 7th, and 8th verses. The bands of her neck are the curses of God upon her, or the remnants of Israel in their scattered condition among the Gentiles.",
+      "churchId": "p10"
+    }
+  ]
+}

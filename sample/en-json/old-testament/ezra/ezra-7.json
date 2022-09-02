@@ -1,0 +1,211 @@
+{
+  "name": "Ezra 7",
+  "abbrev": "Ezra 7",
+  "number": "7",
+  "churchUri": "/scriptures/ot/ezra/7",
+  "paragraphs": [
+    {
+      "slug": "ezra-7-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 7",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "ezra-7-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Now after these things, in the reign of Artaxerxes king of Persia, Ezra the son of Seraiah, the son of Azariah, the son of Hilkiah,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "ezra-7-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "The son of Shallum, the son of Zadok, the son of Ahitub,",
+      "churchId": "p2"
+    },
+    {
+      "slug": "ezra-7-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "The son of Amariah, the son of Azariah, the son of Meraioth,",
+      "churchId": "p3"
+    },
+    {
+      "slug": "ezra-7-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "The son of Zerahiah, the son of Uzzi, the son of Bukki,",
+      "churchId": "p4"
+    },
+    {
+      "slug": "ezra-7-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "The son of Abishua, the son of Phinehas, the son of Eleazar, the son of Aaron the chief priest:",
+      "churchId": "p5"
+    },
+    {
+      "slug": "ezra-7-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "This Ezra went up from Babylon; and he <span class=\"clarity-word\">was</span> a ready scribe in the law of Moses, which the <span class=\"small-caps\">Lord</span> God of Israel had given: and the king granted him all his request, according to the hand of the <span class=\"small-caps\">Lord</span> his God upon him.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "ezra-7-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And there went up <span class=\"clarity-word\">some</span> of the children of Israel, and of the priests, and the Levites, and the singers, and the porters, and the Nethinims, unto Jerusalem, in the seventh year of Artaxerxes the king.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "ezra-7-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And he came to Jerusalem in the fifth month, which <span class=\"clarity-word\">was</span> in the seventh year of the king.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "ezra-7-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "For upon the first <span class=\"clarity-word\">day</span> of the first month began he to go up from Babylon, and on the first <span class=\"clarity-word\">day</span> of the fifth month came he to Jerusalem, according to the good hand of his God upon him.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "ezra-7-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "For Ezra had prepared his heart to seek the law of the <span class=\"small-caps\">Lord</span>, and to do <span class=\"clarity-word\">it,</span> and to teach in Israel statutes and judgments.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "ezra-7-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "¶ Now this <span class=\"clarity-word\">is</span> the copy of the letter that the king Artaxerxes gave unto Ezra the priest, the scribe, <span class=\"clarity-word\">even</span> a scribe of the words of the commandments of the <span class=\"small-caps\">Lord</span>, and of his statutes to Israel.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "ezra-7-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Artaxerxes, king of kings, unto Ezra the priest, a scribe of the law of the God of heaven, perfect <span class=\"clarity-word\">peace,</span> and at such a time.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "ezra-7-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "I make a decree, that all they of the people of Israel, and <span class=\"clarity-word\">of</span> his priests and Levites, in my realm, which are minded of their own freewill to go up to Jerusalem, go with thee.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "ezra-7-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Forasmuch as thou art sent of the king, and of his seven counsellors, to inquire concerning Judah and Jerusalem, according to the law of thy God which <span class=\"clarity-word\">is</span> in thine hand;",
+      "churchId": "p14"
+    },
+    {
+      "slug": "ezra-7-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And to carry the silver and gold, which the king and his counsellors have freely offered unto the God of Israel, whose habitation <span class=\"clarity-word\">is</span> in Jerusalem,",
+      "churchId": "p15"
+    },
+    {
+      "slug": "ezra-7-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And all the silver and gold that thou canst find in all the province of Babylon, with the freewill offering of the people, and of the priests, offering willingly for the house of their God which <span class=\"clarity-word\">is</span> in Jerusalem:",
+      "churchId": "p16"
+    },
+    {
+      "slug": "ezra-7-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "That thou mayest buy speedily with this money bullocks, rams, lambs, with their meat offerings and their drink offerings, and offer them upon the altar of the house of your God which <span class=\"clarity-word\">is</span> in Jerusalem.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "ezra-7-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And whatsoever shall seem good to thee, and to thy brethren, to do with the rest of the silver and the gold, that do after the will of your God.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "ezra-7-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "The vessels also that are given thee for the service of the house of thy God, <span class=\"clarity-word\">those</span> deliver thou before the God of Jerusalem.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "ezra-7-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And whatsoever more shall be needful for the house of thy God, which thou shalt have occasion to bestow, bestow <span class=\"clarity-word\">it</span> out of the king’s treasure house.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "ezra-7-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And I, <span class=\"clarity-word\">even</span> I Artaxerxes the king, do make a decree to all the treasurers which <span class=\"clarity-word\">are</span> beyond the river, that whatsoever Ezra the priest, the scribe of the law of the God of heaven, shall require of you, it be done speedily,",
+      "churchId": "p21"
+    },
+    {
+      "slug": "ezra-7-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Unto an hundred talents of silver, and to an hundred measures of wheat, and to an hundred baths of wine, and to an hundred baths of oil, and salt without prescribing <span class=\"clarity-word\">how much.</span>",
+      "churchId": "p22"
+    },
+    {
+      "slug": "ezra-7-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Whatsoever is commanded by the God of heaven, let it be diligently done for the house of the God of heaven: for why should there be wrath against the realm of the king and his sons?",
+      "churchId": "p23"
+    },
+    {
+      "slug": "ezra-7-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Also we certify you, that touching any of the priests and Levites, singers, porters, Nethinims, or ministers of this house of God, it shall not be lawful to impose toll, tribute, or custom, upon them.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "ezra-7-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And thou, Ezra, after the wisdom of thy God, that <span class=\"clarity-word\">is</span> in thine hand, set magistrates and judges, which may judge all the people that <span class=\"clarity-word\">are</span> beyond the river, all such as know the laws of thy God; and teach ye them that know <span class=\"clarity-word\">them</span> not.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "ezra-7-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And whosoever will not do the law of thy God, and the law of the king, let judgment be executed speedily upon him, whether <span class=\"clarity-word\">it be</span> unto death, or to banishment, or to confiscation of goods, or to imprisonment.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "ezra-7-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "¶ Blessed <span class=\"clarity-word\">be</span> the <span class=\"small-caps\">Lord</span> God of our fathers, which hath put <span class=\"clarity-word\">such a thing</span> as this in the king’s heart, to beautify the house of the <span class=\"small-caps\">Lord</span> which <span class=\"clarity-word\">is</span> in Jerusalem:",
+      "churchId": "p27"
+    },
+    {
+      "slug": "ezra-7-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And hath extended mercy unto me before the king, and his counsellors, and before all the king’s mighty princes. And I was strengthened as the hand of the <span class=\"small-caps\">Lord</span> my God <span class=\"clarity-word\">was</span> upon me, and I gathered together out of Israel chief men to go up with me.",
+      "churchId": "p28"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "name": "Ecclesiastes 10",
+  "abbrev": "Eccl. 10",
+  "number": "10",
+  "churchUri": "/scriptures/ot/eccl/10",
+  "paragraphs": [
+    {
+      "slug": "ecclesiastes-10-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 10",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "ecclesiastes-10-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Dead flies cause the ointment of the apothecary to send forth a stinking savour: <span class=\"clarity-word\">so doth</span> a little folly him that is in reputation for wisdom <span class=\"clarity-word\">and</span> honour.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "ecclesiastes-10-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "A wise man’s heart <span class=\"clarity-word\">is</span> at his right hand; but a fool’s heart at his left.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "ecclesiastes-10-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Yea also, when he that is a fool walketh by the way, his wisdom faileth <span class=\"clarity-word\">him,</span> and he saith to every one <span class=\"clarity-word\">that</span> he <span class=\"clarity-word\">is</span> a fool.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "ecclesiastes-10-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "If the spirit of the ruler rise up against thee, leave not thy place; for yielding pacifieth great offences.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "ecclesiastes-10-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "There is an evil <span class=\"clarity-word\">which</span> I have seen under the sun, as an error <span class=\"clarity-word\">which</span> proceedeth from the ruler:",
+      "churchId": "p5"
+    },
+    {
+      "slug": "ecclesiastes-10-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Folly is set in great dignity, and the rich sit in low place.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "ecclesiastes-10-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "I have seen servants upon horses, and princes walking as servants upon the earth.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "ecclesiastes-10-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "He that diggeth a pit shall fall into it; and whoso breaketh an hedge, a serpent shall bite him.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "ecclesiastes-10-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Whoso removeth stones shall be hurt therewith; <span class=\"clarity-word\">and</span> he that cleaveth wood shall be endangered thereby.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "ecclesiastes-10-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "If the iron be blunt, and he do not whet the edge, then must he put to more strength: but wisdom <span class=\"clarity-word\">is</span> profitable to direct.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "ecclesiastes-10-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Surely the serpent will bite without enchantment; and a babbler is no better.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "ecclesiastes-10-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "The words of a wise man’s mouth <span class=\"clarity-word\">are</span> gracious; but the lips of a fool will swallow up himself.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "ecclesiastes-10-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "The beginning of the words of his mouth <span class=\"clarity-word\">is</span> foolishness: and the end of his talk <span class=\"clarity-word\">is</span> mischievous madness.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "ecclesiastes-10-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "A fool also is full of words: a man cannot tell what shall be; and what shall be after him, who can tell him?",
+      "churchId": "p14"
+    },
+    {
+      "slug": "ecclesiastes-10-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "The labour of the foolish wearieth every one of them, because he knoweth not how to go to the city.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "ecclesiastes-10-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "¶ Woe to thee, O land, when thy king <span class=\"clarity-word\">is</span> a child, and thy princes eat in the morning!",
+      "churchId": "p16"
+    },
+    {
+      "slug": "ecclesiastes-10-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Blessed <span class=\"clarity-word\">art</span> thou, O land, when thy king <span class=\"clarity-word\">is</span> the son of nobles, and thy princes eat in due season, for strength, and not for drunkenness!",
+      "churchId": "p17"
+    },
+    {
+      "slug": "ecclesiastes-10-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "¶ By much slothfulness the building decayeth; and through idleness of the hands the house droppeth through.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "ecclesiastes-10-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "¶ A feast is made for laughter, and wine maketh merry: but money answereth all <span class=\"clarity-word\">things.</span>",
+      "churchId": "p19"
+    },
+    {
+      "slug": "ecclesiastes-10-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "¶ Curse not the king, no not in thy thought; and curse not the rich in thy bedchamber: for a bird of the air shall carry the voice, and that which hath wings shall tell the matter.",
+      "churchId": "p20"
+    }
+  ]
+}

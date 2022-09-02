@@ -1,0 +1,162 @@
+{
+  "name": "Job 18",
+  "abbrev": "Job 18",
+  "number": "18",
+  "churchUri": "/scriptures/ot/job/18",
+  "paragraphs": [
+    {
+      "slug": "job-18-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 18",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "job-18-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Then answered Bildad the Shuhite, and said,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "job-18-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "How long <span class=\"clarity-word\">will it be ere</span> ye make an end of words? mark, and afterwards we will speak.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "job-18-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Wherefore are we counted as beasts, <span class=\"clarity-word\">and</span> reputed vile in your sight?",
+      "churchId": "p3"
+    },
+    {
+      "slug": "job-18-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "He teareth himself in his anger: shall the earth be forsaken for thee? and shall the rock be removed out of his place?",
+      "churchId": "p4"
+    },
+    {
+      "slug": "job-18-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Yea, the light of the wicked shall be put out, and the spark of his fire shall not shine.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "job-18-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "The light shall be dark in his tabernacle, and his candle shall be put out with him.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "job-18-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "The steps of his strength shall be straitened, and his own counsel shall cast him down.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "job-18-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "For he is cast into a net by his own feet, and he walketh upon a snare.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "job-18-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "The gin shall take <span class=\"clarity-word\">him</span> by the heel, <span class=\"clarity-word\">and</span> the robber shall prevail against him.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "job-18-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "The snare <span class=\"clarity-word\">is</span> laid for him in the ground, and a trap for him in the way.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "job-18-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Terrors shall make him afraid on every side, and shall drive him to his feet.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "job-18-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "His strength shall be hungerbitten, and destruction <span class=\"clarity-word\">shall be</span> ready at his side.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "job-18-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "It shall devour the strength of his skin: <span class=\"clarity-word\">even</span> the firstborn of death shall devour his strength.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "job-18-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "His confidence shall be rooted out of his tabernacle, and it shall bring him to the king of terrors.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "job-18-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "It shall dwell in his tabernacle, because <span class=\"clarity-word\">it is</span> none of his: brimstone shall be scattered upon his habitation.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "job-18-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "His roots shall be dried up beneath, and above shall his branch be cut off.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "job-18-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "His remembrance shall perish from the earth, and he shall have no name in the street.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "job-18-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "He shall be driven from light into darkness, and chased out of the world.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "job-18-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "He shall neither have son nor nephew among his people, nor any remaining in his dwellings.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "job-18-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "They that come after <span class=\"clarity-word\">him</span> shall be astonied at his day, as they that went before were affrighted.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "job-18-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Surely such <span class=\"clarity-word\">are</span> the dwellings of the wicked, and this <span class=\"clarity-word\">is</span> the place <span class=\"clarity-word\">of him that</span> knoweth not God.",
+      "churchId": "p21"
+    }
+  ]
+}

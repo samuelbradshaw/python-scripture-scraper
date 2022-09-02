@@ -1,0 +1,162 @@
+{
+  "name": "Psalm 66",
+  "abbrev": "Psalm 66",
+  "number": "66",
+  "churchUri": "/scriptures/ot/ps/66",
+  "paragraphs": [
+    {
+      "slug": "psalm-66-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 66",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-66-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "To the chief Musician, A Song <span class=\"clarity-word\">or</span> Psalm.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-66-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Make a joyful noise unto God, all ye lands:",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-66-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Sing forth the honour of his name: make his praise glorious.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-66-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Say unto God, How terrible <span class=\"clarity-word\">art thou in</span> thy works! through the greatness of thy power shall thine enemies submit themselves unto thee.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-66-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "All the earth shall worship thee, and shall sing unto thee; they shall sing <span class=\"clarity-word\">to</span> thy name. Selah.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-66-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Come and see the works of God: <span class=\"clarity-word\">he is</span> terrible <span class=\"clarity-word\">in his</span> doing toward the children of men.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-66-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "He turned the sea into dry <span class=\"clarity-word\">land:</span> they went through the flood on foot: there did we rejoice in him.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-66-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "He ruleth by his power for ever; his eyes behold the nations: let not the rebellious exalt themselves. Selah.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-66-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "O bless our God, ye people, and make the voice of his praise to be heard:",
+      "churchId": "p8"
+    },
+    {
+      "slug": "psalm-66-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Which holdeth our soul in life, and suffereth not our feet to be moved.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "psalm-66-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "For thou, O God, hast proved us: thou hast tried us, as silver is tried.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "psalm-66-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Thou broughtest us into the net; thou laidst affliction upon our loins.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "psalm-66-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Thou hast caused men to ride over our heads; we went through fire and through water: but thou broughtest us out into a wealthy <span class=\"clarity-word\">place.</span>",
+      "churchId": "p12"
+    },
+    {
+      "slug": "psalm-66-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "I will go into thy house with burnt offerings: I will pay thee my vows,",
+      "churchId": "p13"
+    },
+    {
+      "slug": "psalm-66-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Which my lips have uttered, and my mouth hath spoken, when I was in trouble.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "psalm-66-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "I will offer unto thee burnt sacrifices of fatlings, with the incense of rams; I will offer bullocks with goats. Selah.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "psalm-66-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Come <span class=\"clarity-word\">and</span> hear, all ye that fear God, and I will declare what he hath done for my soul.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "psalm-66-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "I cried unto him with my mouth, and he was extolled with my tongue.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "psalm-66-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "If I regard iniquity in my heart, the Lord will not hear <span class=\"clarity-word\">me:</span>",
+      "churchId": "p18"
+    },
+    {
+      "slug": "psalm-66-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "<span class=\"clarity-word\">But</span> verily God hath heard <span class=\"clarity-word\">me;</span> he hath attended to the voice of my prayer.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "psalm-66-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Blessed <span class=\"clarity-word\">be</span> God, which hath not turned away my prayer, nor his mercy from me.",
+      "churchId": "p20"
+    }
+  ]
+}

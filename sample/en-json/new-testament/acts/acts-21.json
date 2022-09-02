@@ -1,0 +1,295 @@
+{
+  "name": "Acts 21",
+  "abbrev": "Acts 21",
+  "number": "21",
+  "churchUri": "/scriptures/nt/acts/21",
+  "paragraphs": [
+    {
+      "slug": "acts-21-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 21",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "acts-21-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And it came to pass, that after we were gotten from them, and had launched, we came with a straight course unto Coos, and the <span class=\"clarity-word\">day</span> following unto Rhodes, and from thence unto Patara:",
+      "churchId": "p1"
+    },
+    {
+      "slug": "acts-21-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And finding a ship sailing over unto Phenicia, we went aboard, and set forth.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "acts-21-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Now when we had discovered Cyprus, we left it on the left hand, and sailed into Syria, and landed at Tyre: for there the ship was to unlade her burden.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "acts-21-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And finding disciples, we tarried there seven days: who said to Paul through the Spirit, that he should not go up to Jerusalem.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "acts-21-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And when we had accomplished those days, we departed and went our way; and they all brought us on our way, with wives and children, till <span class=\"clarity-word\">we were</span> out of the city: and we kneeled down on the shore, and prayed.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "acts-21-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And when we had taken our leave one of another, we took ship; and they returned home again.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "acts-21-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And when we had finished <span class=\"clarity-word\">our</span> course from Tyre, we came to Ptolemais, and saluted the brethren, and abode with them one day.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "acts-21-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And the next <span class=\"clarity-word\">day</span> we that were of Paul’s company departed, and came unto Cæsarea: and we entered into the house of Philip the evangelist, which was <span class=\"clarity-word\">one</span> of the seven; and abode with him.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "acts-21-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And the same man had four daughters, virgins, which did prophesy.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "acts-21-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And as we tarried <span class=\"clarity-word\">there</span> many days, there came down from Judæa a certain prophet, named Agabus.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "acts-21-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And when he was come unto us, he took Paul’s girdle, and bound his own hands and feet, and said, Thus saith the Holy Ghost, So shall the Jews at Jerusalem bind the man that owneth this girdle, and shall deliver <span class=\"clarity-word\">him</span> into the hands of the Gentiles.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "acts-21-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And when we heard these things, both we, and they of that place, besought him not to go up to Jerusalem.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "acts-21-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Then Paul answered, What mean ye to weep and to break mine heart? for I am ready not to be bound only, but also to die at Jerusalem for the name of the Lord Jesus.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "acts-21-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And when he would not be persuaded, we ceased, saying, The will of the Lord be done.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "acts-21-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And after those days we took up our carriages, and went up to Jerusalem.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "acts-21-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "There went with us also <span class=\"clarity-word\">certain</span> of the disciples of Cæsarea, and brought with them one Mnason of Cyprus, an old disciple, with whom we should lodge.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "acts-21-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And when we were come to Jerusalem, the brethren received us gladly.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "acts-21-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And the <span class=\"clarity-word\">day</span> following Paul went in with us unto James; and all the elders were present.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "acts-21-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And when he had saluted them, he declared particularly what things God had wrought among the Gentiles by his ministry.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "acts-21-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And when they heard <span class=\"clarity-word\">it,</span> they glorified the Lord, and said unto him, Thou seest, brother, how many thousands of Jews there are which believe; and they are all zealous of the law:",
+      "churchId": "p20"
+    },
+    {
+      "slug": "acts-21-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And they are informed of thee, that thou teachest all the Jews which are among the Gentiles to forsake Moses, saying that they ought not to circumcise <span class=\"clarity-word\">their</span> children, neither to walk after the customs.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "acts-21-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "What is it therefore? the multitude must needs come together: for they will hear that thou art come.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "acts-21-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Do therefore this that we say to thee: We have four men which have a vow on them;",
+      "churchId": "p23"
+    },
+    {
+      "slug": "acts-21-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Them take, and purify thyself with them, and be at charges with them, that they may shave <span class=\"clarity-word\">their</span> heads: and all may know that those things, whereof they were informed concerning thee, are nothing; but <span class=\"clarity-word\">that</span> thou thyself also walkest orderly, and keepest the law.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "acts-21-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "As touching the Gentiles which believe, we have written <span class=\"clarity-word\">and</span> concluded that they observe no such thing, save only that they keep themselves from <span class=\"clarity-word\">things</span> offered to idols, and from blood, and from strangled, and from fornication.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "acts-21-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "Then Paul took the men, and the next day purifying himself with them entered into the temple, to signify the accomplishment of the days of purification, until that an offering should be offered for every one of them.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "acts-21-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And when the seven days were almost ended, the Jews which were of Asia, when they saw him in the temple, stirred up all the people, and laid hands on him,",
+      "churchId": "p27"
+    },
+    {
+      "slug": "acts-21-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "Crying out, Men of Israel, help: This is the man, that teacheth all <span class=\"clarity-word\">men</span> every where against the people, and the law, and this place: and further brought Greeks also into the temple, and hath polluted this holy place.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "acts-21-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "(For they had seen before with him in the city Trophimus an Ephesian, whom they supposed that Paul had brought into the temple.)",
+      "churchId": "p29"
+    },
+    {
+      "slug": "acts-21-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And all the city was moved, and the people ran together: and they took Paul, and drew him out of the temple: and forthwith the doors were shut.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "acts-21-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "And as they went about to kill him, tidings came unto the chief captain of the band, that all Jerusalem was in an uproar.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "acts-21-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "Who immediately took soldiers and centurions, and ran down unto them: and when they saw the chief captain and the soldiers, they left beating of Paul.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "acts-21-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "Then the chief captain came near, and took him, and commanded <span class=\"clarity-word\">him</span> to be bound with two chains; and demanded who he was, and what he had done.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "acts-21-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "And some cried one thing, some another, among the multitude: and when he could not know the certainty for the tumult, he commanded him to be carried into the castle.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "acts-21-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "And when he came upon the stairs, so it was, that he was borne of the soldiers for the violence of the people.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "acts-21-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "For the multitude of the people followed after, crying, Away with him.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "acts-21-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "And as Paul was to be led into the castle, he said unto the chief captain, May I speak unto thee? Who said, Canst thou speak Greek?",
+      "churchId": "p37"
+    },
+    {
+      "slug": "acts-21-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "Art not thou that Egyptian, which before these days madest an uproar, and leddest out into the wilderness four thousand men that were murderers?",
+      "churchId": "p38"
+    },
+    {
+      "slug": "acts-21-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "But Paul said, I am a man <span class=\"clarity-word\">which am</span> a Jew of Tarsus, <span class=\"clarity-word\">a city</span> in Cilicia, a citizen of no mean city: and, I beseech thee, suffer me to speak unto the people.",
+      "churchId": "p39"
+    },
+    {
+      "slug": "acts-21-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "And when he had given him licence, Paul stood on the stairs, and beckoned with the hand unto the people. And when there was made a great silence, he spake unto <span class=\"clarity-word\">them</span> in the Hebrew tongue, saying,",
+      "churchId": "p40"
+    }
+  ]
+}

@@ -1,0 +1,267 @@
+{
+  "name": "Psalm 68",
+  "abbrev": "Psalm 68",
+  "number": "68",
+  "churchUri": "/scriptures/ot/ps/68",
+  "paragraphs": [
+    {
+      "slug": "psalm-68-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 68",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-68-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "To the chief Musician, A Psalm <span class=\"clarity-word\">or</span> Song of David.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-68-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Let God arise, let his enemies be scattered: let them also that hate him flee before him.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-68-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "As smoke is driven away, <span class=\"clarity-word\">so</span> drive <span class=\"clarity-word\">them</span> away: as wax melteth before the fire, <span class=\"clarity-word\">so</span> let the wicked perish at the presence of God.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-68-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "But let the righteous be glad; let them rejoice before God: yea, let them exceedingly rejoice.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-68-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Sing unto God, sing praises to his name: extol him that rideth upon the heavens by his name <span class=\"uppercase\">Jah</span>, and rejoice before him.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-68-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "A father of the fatherless, and a judge of the widows, <span class=\"clarity-word\">is</span> God in his holy habitation.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-68-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "God setteth the solitary in families: he bringeth out those which are bound with chains: but the rebellious dwell in a dry <span class=\"clarity-word\">land.</span>",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-68-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "O God, when thou wentest forth before thy people, when thou didst march through the wilderness; Selah:",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-68-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "The earth shook, the heavens also dropped at the presence of God: <span class=\"clarity-word\">even</span> Sinai itself <span class=\"clarity-word\">was moved</span> at the presence of God, the God of Israel.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "psalm-68-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Thou, O God, didst send a plentiful rain, whereby thou didst confirm thine inheritance, when it was weary.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "psalm-68-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Thy congregation hath dwelt therein: thou, O God, hast prepared of thy goodness for the poor.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "psalm-68-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "The Lord gave the word: great <span class=\"clarity-word\">was</span> the company of those that published <span class=\"clarity-word\">it.</span>",
+      "churchId": "p11"
+    },
+    {
+      "slug": "psalm-68-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Kings of armies did flee apace: and she that tarried at home divided the spoil.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "psalm-68-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Though ye have lien among the pots, <span class=\"clarity-word\">yet shall ye be as</span> the wings of a dove covered with silver, and her feathers with yellow gold.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "psalm-68-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "When the Almighty scattered kings in it, it was <span class=\"clarity-word\">white</span> as snow in Salmon.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "psalm-68-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "The hill of God <span class=\"clarity-word\">is as</span> the hill of Bashan; an high hill <span class=\"clarity-word\">as</span> the hill of Bashan.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "psalm-68-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Why leap ye, ye high hills? <span class=\"clarity-word\">this is</span> the hill <span class=\"clarity-word\">which</span> God desireth to dwell in; yea, the <span class=\"small-caps\">Lord</span> will dwell <span class=\"clarity-word\">in it</span> for ever.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "psalm-68-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "The chariots of God <span class=\"clarity-word\">are</span> twenty thousand, <span class=\"clarity-word\">even</span> thousands of angels: the Lord <span class=\"clarity-word\">is</span> among them, <span class=\"clarity-word\">as in</span> Sinai, in the holy <span class=\"clarity-word\">place.</span>",
+      "churchId": "p17"
+    },
+    {
+      "slug": "psalm-68-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Thou hast ascended on high, thou hast led captivity captive: thou hast received gifts for men; yea, <span class=\"clarity-word\">for</span> the rebellious also, that the <span class=\"small-caps\">Lord</span> God might dwell <span class=\"clarity-word\">among them.</span>",
+      "churchId": "p18"
+    },
+    {
+      "slug": "psalm-68-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Blessed <span class=\"clarity-word\">be</span> the Lord, <span class=\"clarity-word\">who</span> daily loadeth us <span class=\"clarity-word\">with benefits, even</span> the God of our salvation. Selah.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "psalm-68-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "<span class=\"clarity-word\">He that is</span> our God <span class=\"clarity-word\">is</span> the God of salvation; and unto <span class=\"small-caps\">God</span> the Lord <span class=\"clarity-word\">belong</span> the issues from death.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "psalm-68-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "But God shall wound the head of his enemies, <span class=\"clarity-word\">and</span> the hairy scalp of such an one as goeth on still in his trespasses.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "psalm-68-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "The Lord said, I will bring again from Bashan, I will bring <span class=\"clarity-word\">my people</span> again from the depths of the sea:",
+      "churchId": "p22"
+    },
+    {
+      "slug": "psalm-68-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "That thy foot may be dipped in the blood of <span class=\"clarity-word\">thine</span> enemies, <span class=\"clarity-word\">and</span> the tongue of thy dogs in the same.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "psalm-68-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "They have seen thy goings, O God; <span class=\"clarity-word\">even</span> the goings of my God, my King, in the sanctuary.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "psalm-68-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "The singers went before, the players on instruments <span class=\"clarity-word\">followed</span> after; among <span class=\"clarity-word\">them were</span> the damsels playing with timbrels.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "psalm-68-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "Bless ye God in the congregations, <span class=\"clarity-word\">even</span> the Lord, from the fountain of Israel.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "psalm-68-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "There <span class=\"clarity-word\">is</span> little Benjamin <span class=\"clarity-word\">with</span> their ruler, the princes of Judah <span class=\"clarity-word\">and</span> their council, the princes of Zebulun, <span class=\"clarity-word\">and</span> the princes of Naphtali.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "psalm-68-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "Thy God hath commanded thy strength: strengthen, O God, that which thou hast wrought for us.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "psalm-68-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "Because of thy temple at Jerusalem shall kings bring presents unto thee.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "psalm-68-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "Rebuke the company of spearmen, the multitude of the bulls, with the calves of the people, <span class=\"clarity-word\">till every one</span> submit himself with pieces of silver: scatter thou the people <span class=\"clarity-word\">that</span> delight in war.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "psalm-68-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "Princes shall come out of Egypt; Ethiopia shall soon stretch out her hands unto God.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "psalm-68-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "Sing unto God, ye kingdoms of the earth; O sing praises unto the Lord; Selah:",
+      "churchId": "p32"
+    },
+    {
+      "slug": "psalm-68-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "To him that rideth upon the heavens of heavens, <span class=\"clarity-word\">which were</span> of old; lo, he doth send out his voice, <span class=\"clarity-word\">and that</span> a mighty voice.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "psalm-68-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "Ascribe ye strength unto God: his excellency <span class=\"clarity-word\">is</span> over Israel, and his strength <span class=\"clarity-word\">is</span> in the clouds.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "psalm-68-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "O God, <span class=\"clarity-word\">thou art</span> terrible out of thy holy places: the God of Israel <span class=\"clarity-word\">is</span> he that giveth strength and power unto <span class=\"clarity-word\">his</span> people. Blessed <span class=\"clarity-word\">be</span> God.",
+      "churchId": "p35"
+    }
+  ]
+}

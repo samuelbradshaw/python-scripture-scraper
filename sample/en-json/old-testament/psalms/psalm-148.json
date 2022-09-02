@@ -1,0 +1,113 @@
+{
+  "name": "Psalm 148",
+  "abbrev": "Psalm 148",
+  "number": "148",
+  "churchUri": "/scriptures/ot/ps/148",
+  "paragraphs": [
+    {
+      "slug": "psalm-148-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 148",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-148-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Praise ye the <span class=\"small-caps\">Lord</span>. Praise ye the <span class=\"small-caps\">Lord</span> from the heavens: praise him in the heights.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-148-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Praise ye him, all his angels: praise ye him, all his hosts.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-148-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Praise ye him, sun and moon: praise him, all ye stars of light.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-148-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Praise him, ye heavens of heavens, and ye waters that <span class=\"clarity-word\">be</span> above the heavens.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-148-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Let them praise the name of the <span class=\"small-caps\">Lord</span>: for he commanded, and they were created.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-148-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "He hath also stablished them for ever and ever: he hath made a decree which shall not pass.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-148-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Praise the <span class=\"small-caps\">Lord</span> from the earth, ye dragons, and all deeps:",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-148-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Fire, and hail; snow, and vapour; stormy wind fulfilling his word:",
+      "churchId": "p8"
+    },
+    {
+      "slug": "psalm-148-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Mountains, and all hills; fruitful trees, and all cedars:",
+      "churchId": "p9"
+    },
+    {
+      "slug": "psalm-148-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Beasts, and all cattle; creeping things, and flying fowl:",
+      "churchId": "p10"
+    },
+    {
+      "slug": "psalm-148-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Kings of the earth, and all people; princes, and all judges of the earth:",
+      "churchId": "p11"
+    },
+    {
+      "slug": "psalm-148-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Both young men, and maidens; old men, and children:",
+      "churchId": "p12"
+    },
+    {
+      "slug": "psalm-148-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Let them praise the name of the <span class=\"small-caps\">Lord</span>: for his name alone is excellent; his glory <span class=\"clarity-word\">is</span> above the earth and heaven.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "psalm-148-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "He also exalteth the horn of his people, the praise of all his saints; <span class=\"clarity-word\">even</span> of the children of Israel, a people near unto him. Praise ye the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p14"
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "name": "Abraham 2",
+  "abbrev": "Abr. 2",
+  "number": "2",
+  "churchUri": "/scriptures/pgp/abr/2",
+  "paragraphs": [
+    {
+      "slug": "abraham-2-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 2",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "abraham-2-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Now the Lord God caused the famine to wax sore in the land of Ur, insomuch that Haran, my brother, died; but Terah, my father, yet lived in the land of Ur, of the Chaldees.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "abraham-2-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And it came to pass that I, Abraham, took Sarai to wife, and Nahor, my brother, took Milcah to wife, who was the daughter of Haran.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "abraham-2-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Now the Lord had said unto me: Abraham, get thee out of thy country, and from thy kindred, and from thy father’s house, unto a land that I will show thee.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "abraham-2-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Therefore I left the land of Ur, of the Chaldees, to go into the land of Canaan; and I took Lot, my brother’s son, and his wife, and Sarai my wife; and also my father followed after me, unto the land which we denominated Haran.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "abraham-2-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And the famine abated; and my father tarried in Haran and dwelt there, as there were many flocks in Haran; and my father turned again unto his idolatry, therefore he continued in Haran.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "abraham-2-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "But I, Abraham, and Lot, my brother’s son, prayed unto the Lord, and the Lord appeared unto me, and said unto me: Arise, and take Lot with thee; for I have purposed to take thee away out of Haran, and to make of thee a minister to bear my name in a strange land which I will give unto thy seed after thee for an everlasting possession, when they hearken to my voice.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "abraham-2-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "For I am the Lord thy God; I dwell in heaven; the earth is my footstool; I stretch my hand over the sea, and it obeys my voice; I cause the wind and the fire to be my chariot; I say to the mountains—Depart hence—and behold, they are taken away by a whirlwind, in an instant, suddenly.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "abraham-2-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "My name is Jehovah, and I know the end from the beginning; therefore my hand shall be over thee.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "abraham-2-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And I will make of thee a great nation, and I will bless thee above measure, and make thy name great among all nations, and thou shalt be a blessing unto thy seed after thee, that in their hands they shall bear this ministry and Priesthood unto all nations;",
+      "churchId": "p9"
+    },
+    {
+      "slug": "abraham-2-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And I will bless them through thy name; for as many as receive this Gospel shall be called after thy name, and shall be accounted thy seed, and shall rise up and bless thee, as their father;",
+      "churchId": "p10"
+    },
+    {
+      "slug": "abraham-2-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And I will bless them that bless thee, and curse them that curse thee; and in thee (that is, in thy Priesthood) and in thy seed (that is, thy Priesthood), for I give unto thee a promise that this right shall continue in thee, and in thy seed after thee (that is to say, the literal seed, or the seed of the body) shall all the families of the earth be blessed, even with the blessings of the Gospel, which are the blessings of salvation, even of life eternal.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "abraham-2-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Now, after the Lord had withdrawn from speaking to me, and withdrawn his face from me, I said in my heart: Thy servant has sought thee earnestly; now I have found thee;",
+      "churchId": "p12"
+    },
+    {
+      "slug": "abraham-2-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Thou didst send thine angel to deliver me from the gods of Elkenah, and I will do well to hearken unto thy voice, therefore let thy servant rise up and depart in peace.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "abraham-2-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "So I, Abraham, departed as the Lord had said unto me, and Lot with me; and I, Abraham, was sixty and two years old when I departed out of Haran.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "abraham-2-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And I took Sarai, whom I took to wife when I was in Ur, in Chaldea, and Lot, my brother’s son, and all our substance that we had gathered, and the souls that we had won in Haran, and came forth in the way to the land of Canaan, and dwelt in tents as we came on our way;",
+      "churchId": "p15"
+    },
+    {
+      "slug": "abraham-2-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Therefore, eternity was our covering and our rock and our salvation, as we journeyed from Haran by the way of Jershon, to come to the land of Canaan.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "abraham-2-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Now I, Abraham, built an altar in the land of Jershon, and made an offering unto the Lord, and prayed that the famine might be turned away from my father’s house, that they might not perish.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "abraham-2-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And then we passed from Jershon through the land unto the place of Sechem; it was situated in the plains of Moreh, and we had already come into the borders of the land of the Canaanites, and I offered sacrifice there in the plains of Moreh, and called on the Lord devoutly, because we had already come into the land of this idolatrous nation.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "abraham-2-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And the Lord appeared unto me in answer to my prayers, and said unto me: Unto thy seed will I give this land.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "abraham-2-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And I, Abraham, arose from the place of the altar which I had built unto the Lord, and removed from thence unto a mountain on the east of Bethel, and pitched my tent there, Bethel on the west, and Hai on the east; and there I built another altar unto the Lord, and called again upon the name of the Lord.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "abraham-2-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And I, Abraham, journeyed, going on still towards the south; and there was a continuation of a famine in the land; and I, Abraham, concluded to go down into Egypt, to sojourn there, for the famine became very grievous.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "abraham-2-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And it came to pass when I was come near to enter into Egypt, the Lord said unto me: Behold, Sarai, thy wife, is a very fair woman to look upon;",
+      "churchId": "p22"
+    },
+    {
+      "slug": "abraham-2-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Therefore it shall come to pass, when the Egyptians shall see her, they will say—She is his wife; and they will kill you, but they will save her alive; therefore see that ye do on this wise:",
+      "churchId": "p23"
+    },
+    {
+      "slug": "abraham-2-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Let her say unto the Egyptians, she is thy sister, and thy soul shall live.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "abraham-2-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And it came to pass that I, Abraham, told Sarai, my wife, all that the Lord had said unto me—Therefore say unto them, I pray thee, thou art my sister, that it may be well with me for thy sake, and my soul shall live because of thee.",
+      "churchId": "p25"
+    }
+  ]
+}

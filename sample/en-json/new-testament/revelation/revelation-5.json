@@ -1,0 +1,113 @@
+{
+  "name": "Revelation 5",
+  "abbrev": "Rev. 5",
+  "number": "5",
+  "churchUri": "/scriptures/nt/rev/5",
+  "paragraphs": [
+    {
+      "slug": "revelation-5-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 5",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "revelation-5-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And I saw in the right hand of him that sat on the throne a book written within and on the backside, sealed with seven seals.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "revelation-5-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And I saw a strong angel proclaiming with a loud voice, Who is worthy to open the book, and to loose the seals thereof?",
+      "churchId": "p2"
+    },
+    {
+      "slug": "revelation-5-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And no man in heaven, nor in earth, neither under the earth, was able to open the book, neither to look thereon.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "revelation-5-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And I wept much, because no man was found worthy to open and to read the book, neither to look thereon.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "revelation-5-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And one of the elders saith unto me, Weep not: behold, the Lion of the tribe of Juda, the Root of David, hath prevailed to open the book, and to loose the seven seals thereof.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "revelation-5-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And I beheld, and, lo, in the midst of the throne and of the four beasts, and in the midst of the elders, stood a Lamb as it had been slain, having seven horns and seven eyes, which are the seven Spirits of God sent forth into all the earth.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "revelation-5-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And he came and took the book out of the right hand of him that sat upon the throne.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "revelation-5-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And when he had taken the book, the four beasts and four <span class=\"clarity-word\">and</span> twenty elders fell down before the Lamb, having every one of them harps, and golden vials full of odours, which are the prayers of saints.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "revelation-5-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And they sung a new song, saying, Thou art worthy to take the book, and to open the seals thereof: for thou wast slain, and hast redeemed us to God by thy blood out of every kindred, and tongue, and people, and nation;",
+      "churchId": "p9"
+    },
+    {
+      "slug": "revelation-5-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And hast made us unto our God kings and priests: and we shall reign on the earth.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "revelation-5-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And I beheld, and I heard the voice of many angels round about the throne and the beasts and the elders: and the number of them was ten thousand times ten thousand, and thousands of thousands;",
+      "churchId": "p11"
+    },
+    {
+      "slug": "revelation-5-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Saying with a loud voice, Worthy is the Lamb that was slain to receive power, and riches, and wisdom, and strength, and honour, and glory, and blessing.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "revelation-5-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And every creature which is in heaven, and on the earth, and under the earth, and such as are in the sea, and all that are in them, heard I saying, Blessing, and honour, and glory, and power, <span class=\"clarity-word\">be</span> unto him that sitteth upon the throne, and unto the Lamb for ever and ever.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "revelation-5-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And the four beasts said, Amen. And the four <span class=\"clarity-word\">and</span> twenty elders fell down and worshipped him that liveth for ever and ever.",
+      "churchId": "p14"
+    }
+  ]
+}

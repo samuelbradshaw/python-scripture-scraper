@@ -1,0 +1,218 @@
+{
+  "name": "Proverbs 19",
+  "abbrev": "Prov. 19",
+  "number": "19",
+  "churchUri": "/scriptures/ot/prov/19",
+  "paragraphs": [
+    {
+      "slug": "proverbs-19-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 19",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "proverbs-19-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Better <span class=\"clarity-word\">is</span> the poor that walketh in his integrity, than <span class=\"clarity-word\">he that is</span> perverse in his lips, and is a fool.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "proverbs-19-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Also, <span class=\"clarity-word\">that</span> the soul <span class=\"clarity-word\">be</span> without knowledge, <span class=\"clarity-word\">it is</span> not good; and he that hasteth with <span class=\"clarity-word\">his</span> feet sinneth.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "proverbs-19-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "The foolishness of man perverteth his way: and his heart fretteth against the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "proverbs-19-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Wealth maketh many friends; but the poor is separated from his neighbour.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "proverbs-19-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "A false witness shall not be unpunished, and <span class=\"clarity-word\">he that</span> speaketh lies shall not escape.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "proverbs-19-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Many will entreat the favour of the prince: and every man <span class=\"clarity-word\">is</span> a friend to him that giveth gifts.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "proverbs-19-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "All the brethren of the poor do hate him: how much more do his friends go far from him? he pursueth <span class=\"clarity-word\">them with</span> words, <span class=\"clarity-word\">yet</span> they <span class=\"clarity-word\">are</span> wanting <span class=\"clarity-word\">to him.</span>",
+      "churchId": "p7"
+    },
+    {
+      "slug": "proverbs-19-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "He that getteth wisdom loveth his own soul: he that keepeth understanding shall find good.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "proverbs-19-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "A false witness shall not be unpunished, and <span class=\"clarity-word\">he that</span> speaketh lies shall perish.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "proverbs-19-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Delight is not seemly for a fool; much less for a servant to have rule over princes.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "proverbs-19-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "The discretion of a man deferreth his anger; and <span class=\"clarity-word\">it is</span> his glory to pass over a transgression.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "proverbs-19-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "The king’s wrath <span class=\"clarity-word\">is</span> as the roaring of a lion; but his favour <span class=\"clarity-word\">is</span> as dew upon the grass.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "proverbs-19-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "A foolish son <span class=\"clarity-word\">is</span> the calamity of his father: and the contentions of a wife <span class=\"clarity-word\">are</span> a continual dropping.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "proverbs-19-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "House and riches <span class=\"clarity-word\">are</span> the inheritance of fathers: and a prudent wife <span class=\"clarity-word\">is</span> from the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "proverbs-19-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Slothfulness casteth into a deep sleep; and an idle soul shall suffer hunger.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "proverbs-19-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "He that keepeth the commandment keepeth his own soul; <span class=\"clarity-word\">but</span> he that despiseth his ways shall die.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "proverbs-19-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "He that hath pity upon the poor lendeth unto the <span class=\"small-caps\">Lord</span>; and that which he hath given will he pay him again.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "proverbs-19-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Chasten thy son while there is hope, and let not thy soul spare for his crying.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "proverbs-19-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "A man of great wrath shall suffer punishment: for if thou deliver <span class=\"clarity-word\">him,</span> yet thou must do it again.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "proverbs-19-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Hear counsel, and receive instruction, that thou mayest be wise in thy latter end.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "proverbs-19-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "<span class=\"clarity-word\">There are</span> many devices in a man’s heart; nevertheless the counsel of the <span class=\"small-caps\">Lord</span>, that shall stand.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "proverbs-19-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "The desire of a man <span class=\"clarity-word\">is</span> his kindness: and a poor man <span class=\"clarity-word\">is</span> better than a liar.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "proverbs-19-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "The fear of the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">tendeth</span> to life: and <span class=\"clarity-word\">he that hath it</span> shall abide satisfied; he shall not be visited with evil.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "proverbs-19-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "A slothful <span class=\"clarity-word\">man</span> hideth his hand in <span class=\"clarity-word\">his</span> bosom, and will not so much as bring it to his mouth again.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "proverbs-19-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Smite a scorner, and the simple will beware: and reprove one that hath understanding, <span class=\"clarity-word\">and</span> he will understand knowledge.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "proverbs-19-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "He that wasteth <span class=\"clarity-word\">his</span> father, <span class=\"clarity-word\">and</span> chaseth away <span class=\"clarity-word\">his</span> mother, <span class=\"clarity-word\">is</span> a son that causeth shame, and bringeth reproach.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "proverbs-19-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "Cease, my son, to hear the instruction <span class=\"clarity-word\">that causeth</span> to err from the words of knowledge.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "proverbs-19-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "An ungodly witness scorneth judgment: and the mouth of the wicked devoureth iniquity.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "proverbs-19-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "Judgments are prepared for scorners, and stripes for the back of fools.",
+      "churchId": "p29"
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "name": "Psalm 104",
+  "abbrev": "Psalm 104",
+  "number": "104",
+  "churchUri": "/scriptures/ot/ps/104",
+  "paragraphs": [
+    {
+      "slug": "psalm-104-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 104",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-104-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Bless the <span class=\"small-caps\">Lord</span>, O my soul. O <span class=\"small-caps\">Lord</span> my God, thou art very great; thou art clothed with honour and majesty.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-104-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Who coverest <span class=\"clarity-word\">thyself</span> with light as <span class=\"clarity-word\">with</span> a garment: who stretchest out the heavens like a curtain:",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-104-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Who layeth the beams of his chambers in the waters: who maketh the clouds his chariot: who walketh upon the wings of the wind:",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-104-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Who maketh his angels spirits; his ministers a flaming fire:",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-104-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "<span class=\"clarity-word\">Who</span> laid the foundations of the earth, <span class=\"clarity-word\">that</span> it should not be removed for ever.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-104-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Thou coveredst it with the deep as <span class=\"clarity-word\">with</span> a garment: the waters stood above the mountains.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-104-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "At thy rebuke they fled; at the voice of thy thunder they hasted away.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-104-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "They go up by the mountains; they go down by the valleys unto the place which thou hast founded for them.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "psalm-104-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Thou hast set a bound that they may not pass over; that they turn not again to cover the earth.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "psalm-104-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "He sendeth the springs into the valleys, <span class=\"clarity-word\">which</span> run among the hills.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "psalm-104-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "They give drink to every beast of the field: the wild asses quench their thirst.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "psalm-104-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "By them shall the fowls of the heaven have their habitation, <span class=\"clarity-word\">which</span> sing among the branches.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "psalm-104-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "He watereth the hills from his chambers: the earth is satisfied with the fruit of thy works.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "psalm-104-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "He causeth the grass to grow for the cattle, and herb for the service of man: that he may bring forth food out of the earth;",
+      "churchId": "p14"
+    },
+    {
+      "slug": "psalm-104-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And wine <span class=\"clarity-word\">that</span> maketh glad the heart of man, <span class=\"clarity-word\">and</span> oil to make <span class=\"clarity-word\">his</span> face to shine, and bread <span class=\"clarity-word\">which</span> strengtheneth man’s heart.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "psalm-104-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "The trees of the <span class=\"small-caps\">Lord</span> are full <span class=\"clarity-word\">of sap;</span> the cedars of Lebanon, which he hath planted;",
+      "churchId": "p16"
+    },
+    {
+      "slug": "psalm-104-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Where the birds make their nests: <span class=\"clarity-word\">as for</span> the stork, the fir trees <span class=\"clarity-word\">are</span> her house.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "psalm-104-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "The high hills <span class=\"clarity-word\">are</span> a refuge for the wild goats; <span class=\"clarity-word\">and</span> the rocks for the conies.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "psalm-104-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "He appointed the moon for seasons: the sun knoweth his going down.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "psalm-104-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Thou makest darkness, and it is night: wherein all the beasts of the forest do creep <span class=\"clarity-word\">forth.</span>",
+      "churchId": "p20"
+    },
+    {
+      "slug": "psalm-104-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "The young lions roar after their prey, and seek their meat from God.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "psalm-104-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "The sun ariseth, they gather themselves together, and lay them down in their dens.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "psalm-104-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Man goeth forth unto his work and to his labour until the evening.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "psalm-104-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "O <span class=\"small-caps\">Lord</span>, how manifold are thy works! in wisdom hast thou made them all: the earth is full of thy riches.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "psalm-104-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "<span class=\"clarity-word\">So is</span> this great and wide sea, wherein <span class=\"clarity-word\">are</span> things creeping innumerable, both small and great beasts.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "psalm-104-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "There go the ships: <span class=\"clarity-word\">there is</span> that leviathan, <span class=\"clarity-word\">whom</span> thou hast made to play therein.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "psalm-104-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "These wait all upon thee; that thou mayest give <span class=\"clarity-word\">them</span> their meat in due season.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "psalm-104-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "<span class=\"clarity-word\">That</span> thou givest them they gather: thou openest thine hand, they are filled with good.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "psalm-104-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "Thou hidest thy face, they are troubled: thou takest away their breath, they die, and return to their dust.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "psalm-104-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "Thou sendest forth thy spirit, they are created: and thou renewest the face of the earth.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "psalm-104-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "The glory of the <span class=\"small-caps\">Lord</span> shall endure for ever: the <span class=\"small-caps\">Lord</span> shall rejoice in his works.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "psalm-104-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "He looketh on the earth, and it trembleth: he toucheth the hills, and they smoke.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "psalm-104-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "I will sing unto the <span class=\"small-caps\">Lord</span> as long as I live: I will sing praise to my God while I have my being.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "psalm-104-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "My meditation of him shall be sweet: I will be glad in the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "psalm-104-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "Let the sinners be consumed out of the earth, and let the wicked be no more. Bless thou the <span class=\"small-caps\">Lord</span>, O my soul. Praise ye the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p35"
+    }
+  ]
+}

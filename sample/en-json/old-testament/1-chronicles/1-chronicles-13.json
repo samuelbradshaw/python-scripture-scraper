@@ -1,0 +1,113 @@
+{
+  "name": "1 Chronicles 13",
+  "abbrev": "1 Chr. 13",
+  "number": "13",
+  "churchUri": "/scriptures/ot/1-chr/13",
+  "paragraphs": [
+    {
+      "slug": "1-chronicles-13-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 13",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "1-chronicles-13-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And David consulted with the captains of thousands and hundreds, <span class=\"clarity-word\">and</span> with every leader.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "1-chronicles-13-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And David said unto all the congregation of Israel, If <span class=\"clarity-word\">it seem</span> good unto you, and <span class=\"clarity-word\">that it be</span> of the <span class=\"small-caps\">Lord</span> our God, let us send abroad unto our brethren every where, <span class=\"clarity-word\">that are</span> left in all the land of Israel, and with them <span class=\"clarity-word\">also</span> to the priests and Levites <span class=\"clarity-word\">which are</span> in their cities <span class=\"clarity-word\">and</span> suburbs, that they may gather themselves unto us:",
+      "churchId": "p2"
+    },
+    {
+      "slug": "1-chronicles-13-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And let us bring again the ark of our God to us: for we inquired not at it in the days of Saul.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "1-chronicles-13-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And all the congregation said that they would do so: for the thing was right in the eyes of all the people.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "1-chronicles-13-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "So David gathered all Israel together, from Shihor of Egypt even unto the entering of Hemath, to bring the ark of God from Kirjath-jearim.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "1-chronicles-13-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And David went up, and all Israel, to Baalah, <span class=\"clarity-word\">that is,</span> to Kirjath-jearim, which <span class=\"clarity-word\">belonged</span> to Judah, to bring up thence the ark of God the <span class=\"small-caps\">Lord</span>, that dwelleth <span class=\"clarity-word\">between</span> the cherubims, whose name is called <span class=\"clarity-word\">on it.</span>",
+      "churchId": "p6"
+    },
+    {
+      "slug": "1-chronicles-13-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And they carried the ark of God in a new cart out of the house of Abinadab: and Uzza and Ahio drave the cart.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "1-chronicles-13-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And David and all Israel played before God with all <span class=\"clarity-word\">their</span> might, and with singing, and with harps, and with psalteries, and with timbrels, and with cymbals, and with trumpets.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "1-chronicles-13-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "¶ And when they came unto the threshingfloor of Chidon, Uzza put forth his hand to hold the ark; for the oxen stumbled.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "1-chronicles-13-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And the anger of the <span class=\"small-caps\">Lord</span> was kindled against Uzza, and he smote him, because he put his hand to the ark: and there he died before God.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "1-chronicles-13-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And David was displeased, because the <span class=\"small-caps\">Lord</span> had made a breach upon Uzza: wherefore that place is called Perez-uzza to this day.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "1-chronicles-13-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And David was afraid of God that day, saying, How shall I bring the ark of God <span class=\"clarity-word\">home</span> to me?",
+      "churchId": "p12"
+    },
+    {
+      "slug": "1-chronicles-13-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "So David brought not the ark <span class=\"clarity-word\">home</span> to himself to the city of David, but carried it aside into the house of Obed-edom the Gittite.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "1-chronicles-13-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And the ark of God remained with the family of Obed-edom in his house three months. And the <span class=\"small-caps\">Lord</span> blessed the house of Obed-edom, and all that he had.",
+      "churchId": "p14"
+    }
+  ]
+}

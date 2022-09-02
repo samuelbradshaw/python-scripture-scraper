@@ -1,0 +1,106 @@
+{
+  "name": "1 Thessalonians 3",
+  "abbrev": "1 Thes. 3",
+  "number": "3",
+  "churchUri": "/scriptures/nt/1-thes/3",
+  "paragraphs": [
+    {
+      "slug": "1-thessalonians-3-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 3",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "1-thessalonians-3-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Wherefore when we could no longer forbear, we thought it good to be left at Athens alone;",
+      "churchId": "p1"
+    },
+    {
+      "slug": "1-thessalonians-3-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And sent Timotheus, our brother, and minister of God, and our fellowlabourer in the gospel of Christ, to establish you, and to comfort you concerning your faith:",
+      "churchId": "p2"
+    },
+    {
+      "slug": "1-thessalonians-3-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "That no man should be moved by these afflictions: for yourselves know that we are appointed thereunto.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "1-thessalonians-3-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "For verily, when we were with you, we told you before that we should suffer tribulation; even as it came to pass, and ye know.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "1-thessalonians-3-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "For this cause, when I could no longer forbear, I sent to know your faith, lest by some means the tempter have tempted you, and our labour be in vain.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "1-thessalonians-3-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "But now when Timotheus came from you unto us, and brought us good tidings of your faith and charity, and that ye have good remembrance of us always, desiring greatly to see us, as we also <span class=\"clarity-word\">to see</span> you:",
+      "churchId": "p6"
+    },
+    {
+      "slug": "1-thessalonians-3-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Therefore, brethren, we were comforted over you in all our affliction and distress by your faith:",
+      "churchId": "p7"
+    },
+    {
+      "slug": "1-thessalonians-3-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "For now we live, if ye stand fast in the Lord.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "1-thessalonians-3-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "For what thanks can we render to God again for you, for all the joy wherewith we joy for your sakes before our God;",
+      "churchId": "p9"
+    },
+    {
+      "slug": "1-thessalonians-3-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Night and day praying exceedingly that we might see your face, and might perfect that which is lacking in your faith?",
+      "churchId": "p10"
+    },
+    {
+      "slug": "1-thessalonians-3-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Now God himself and our Father, and our Lord Jesus Christ, direct our way unto you.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "1-thessalonians-3-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And the Lord make you to increase and abound in love one toward another, and toward all <span class=\"clarity-word\">men,</span> even as we <span class=\"clarity-word\">do</span> toward you:",
+      "churchId": "p12"
+    },
+    {
+      "slug": "1-thessalonians-3-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "To the end he may stablish your hearts unblameable in holiness before God, even our Father, at the coming of our Lord Jesus Christ with all his saints.",
+      "churchId": "p13"
+    }
+  ]
+}

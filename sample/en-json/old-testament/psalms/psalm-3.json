@@ -1,0 +1,78 @@
+{
+  "name": "Psalm 3",
+  "abbrev": "Psalm 3",
+  "number": "3",
+  "churchUri": "/scriptures/ot/ps/3",
+  "paragraphs": [
+    {
+      "slug": "psalm-3-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 3",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-3-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "A Psalm of David, when he fled from Absalom his son.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-3-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "<span class=\"small-caps\">Lord</span>, how are they increased that trouble me! many <span class=\"clarity-word\">are</span> they that rise up against me.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-3-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Many <span class=\"clarity-word\">there be</span> which say of my soul, <span class=\"clarity-word\">There is</span> no help for him in God. Selah.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-3-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "But thou, O <span class=\"small-caps\">Lord</span>, <span class=\"clarity-word\">art</span> a shield for me; my glory, and the lifter up of mine head.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-3-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "I cried unto the <span class=\"small-caps\">Lord</span> with my voice, and he heard me out of his holy hill. Selah.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-3-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "I laid me down and slept; I awaked; for the <span class=\"small-caps\">Lord</span> sustained me.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-3-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "I will not be afraid of ten thousands of people, that have set <span class=\"clarity-word\">themselves</span> against me round about.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-3-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Arise, O <span class=\"small-caps\">Lord</span>; save me, O my God: for thou hast smitten all mine enemies <span class=\"clarity-word\">upon</span> the cheek bone; thou hast broken the teeth of the ungodly.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-3-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Salvation <span class=\"clarity-word\">belongeth</span> unto the <span class=\"small-caps\">Lord</span>: thy blessing <span class=\"clarity-word\">is</span> upon thy people. Selah.",
+      "churchId": "p8"
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "name": "Luke 14",
+  "abbrev": "Luke 14",
+  "number": "14",
+  "churchUri": "/scriptures/nt/luke/14",
+  "paragraphs": [
+    {
+      "slug": "luke-14-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 14",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "luke-14-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And it came to pass, as he went into the house of one of the chief Pharisees to eat bread on the sabbath day, that they watched him.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "luke-14-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And, behold, there was a certain man before him which had the dropsy.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "luke-14-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And Jesus answering spake unto the lawyers and Pharisees, saying, Is it lawful to heal on the sabbath day?",
+      "churchId": "p3"
+    },
+    {
+      "slug": "luke-14-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And they held their peace. And he took <span class=\"clarity-word\">him,</span> and healed him, and let him go;",
+      "churchId": "p4"
+    },
+    {
+      "slug": "luke-14-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And answered them, saying, Which of you shall have an ass or an ox fallen into a pit, and will not straightway pull him out on the sabbath day?",
+      "churchId": "p5"
+    },
+    {
+      "slug": "luke-14-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And they could not answer him again to these things.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "luke-14-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "¶ And he put forth a parable to those which were bidden, when he marked how they chose out the chief rooms; saying unto them,",
+      "churchId": "p7"
+    },
+    {
+      "slug": "luke-14-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "When thou art bidden of any <span class=\"clarity-word\">man</span> to a wedding, sit not down in the highest room; lest a more honourable man than thou be bidden of him;",
+      "churchId": "p8"
+    },
+    {
+      "slug": "luke-14-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And he that bade thee and him come and say to thee, Give this man place; and thou begin with shame to take the lowest room.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "luke-14-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "But when thou art bidden, go and sit down in the lowest room; that when he that bade thee cometh, he may say unto thee, Friend, go up higher: then shalt thou have worship in the presence of them that sit at meat with thee.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "luke-14-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "For whosoever exalteth himself shall be abased; and he that humbleth himself shall be exalted.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "luke-14-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "¶ Then said he also to him that bade him, When thou makest a dinner or a supper, call not thy friends, nor thy brethren, neither thy kinsmen, nor <span class=\"clarity-word\">thy</span> rich neighbours; lest they also bid thee again, and a recompence be made thee.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "luke-14-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "But when thou makest a feast, call the poor, the maimed, the lame, the blind:",
+      "churchId": "p13"
+    },
+    {
+      "slug": "luke-14-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And thou shalt be blessed; for they cannot recompense thee: for thou shalt be recompensed at the resurrection of the just.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "luke-14-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "¶ And when one of them that sat at meat with him heard these things, he said unto him, Blessed <span class=\"clarity-word\">is</span> he that shall eat bread in the kingdom of God.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "luke-14-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Then said he unto him, A certain man made a great supper, and bade many:",
+      "churchId": "p16"
+    },
+    {
+      "slug": "luke-14-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And sent his servant at supper time to say to them that were bidden, Come; for all things are now ready.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "luke-14-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And they all with one <span class=\"clarity-word\">consent</span> began to make excuse. The first said unto him, I have bought a piece of ground, and I must needs go and see it: I pray thee have me excused.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "luke-14-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And another said, I have bought five yoke of oxen, and I go to prove them: I pray thee have me excused.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "luke-14-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And another said, I have married a wife, and therefore I cannot come.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "luke-14-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "So that servant came, and shewed his lord these things. Then the master of the house being angry said to his servant, Go out quickly into the streets and lanes of the city, and bring in hither the poor, and the maimed, and the halt, and the blind.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "luke-14-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And the servant said, Lord, it is done as thou hast commanded, and yet there is room.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "luke-14-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And the lord said unto the servant, Go out into the highways and hedges, and compel <span class=\"clarity-word\">them</span> to come in, that my house may be filled.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "luke-14-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "For I say unto you, That none of those men which were bidden shall taste of my supper.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "luke-14-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "¶ And there went great multitudes with him: and he turned, and said unto them,",
+      "churchId": "p25"
+    },
+    {
+      "slug": "luke-14-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "If any <span class=\"clarity-word\">man</span> come to me, and hate not his father, and mother, and wife, and children, and brethren, and sisters, yea, and his own life also, he cannot be my disciple.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "luke-14-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And whosoever doth not bear his cross, and come after me, cannot be my disciple.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "luke-14-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "For which of you, intending to build a tower, sitteth not down first, and counteth the cost, whether he have <span class=\"clarity-word\">sufficient</span> to finish <span class=\"clarity-word\">it?</span>",
+      "churchId": "p28"
+    },
+    {
+      "slug": "luke-14-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "Lest haply, after he hath laid the foundation, and is not able to finish <span class=\"clarity-word\">it,</span> all that behold <span class=\"clarity-word\">it</span> begin to mock him,",
+      "churchId": "p29"
+    },
+    {
+      "slug": "luke-14-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "Saying, This man began to build, and was not able to finish.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "luke-14-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "Or what king, going to make war against another king, sitteth not down first, and consulteth whether he be able with ten thousand to meet him that cometh against him with twenty thousand?",
+      "churchId": "p31"
+    },
+    {
+      "slug": "luke-14-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "Or else, while the other is yet a great way off, he sendeth an ambassage, and desireth conditions of peace.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "luke-14-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "So likewise, whosoever he be of you that forsaketh not all that he hath, he cannot be my disciple.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "luke-14-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "¶ Salt <span class=\"clarity-word\">is</span> good: but if the salt have lost his savour, wherewith shall it be seasoned?",
+      "churchId": "p34"
+    },
+    {
+      "slug": "luke-14-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "It is neither fit for the land, nor yet for the dunghill; <span class=\"clarity-word\">but</span> men cast it out. He that hath ears to hear, let him hear.",
+      "churchId": "p35"
+    }
+  ]
+}

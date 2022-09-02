@@ -1,0 +1,232 @@
+{
+  "name": "Luke 16",
+  "abbrev": "Luke 16",
+  "number": "16",
+  "churchUri": "/scriptures/nt/luke/16",
+  "paragraphs": [
+    {
+      "slug": "luke-16-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 16",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "luke-16-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And he said also unto his disciples, There was a certain rich man, which had a steward; and the same was accused unto him that he had wasted his goods.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "luke-16-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And he called him, and said unto him, How is it that I hear this of thee? give an account of thy stewardship; for thou mayest be no longer steward.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "luke-16-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Then the steward said within himself, What shall I do? for my lord taketh away from me the stewardship: I cannot dig; to beg I am ashamed.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "luke-16-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "I am resolved what to do, that, when I am put out of the stewardship, they may receive me into their houses.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "luke-16-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "So he called every one of his lord’s debtors <span class=\"clarity-word\">unto him,</span> and said unto the first, How much owest thou unto my lord?",
+      "churchId": "p5"
+    },
+    {
+      "slug": "luke-16-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And he said, An hundred measures of oil. And he said unto him, Take thy bill, and sit down quickly, and write fifty.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "luke-16-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Then said he to another, And how much owest thou? And he said, An hundred measures of wheat. And he said unto him, Take thy bill, and write fourscore.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "luke-16-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And the lord commended the unjust steward, because he had done wisely: for the children of this world are in their generation wiser than the children of light.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "luke-16-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And I say unto you, Make to yourselves friends of the mammon of unrighteousness; that, when ye fail, they may receive you into everlasting habitations.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "luke-16-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "He that is faithful in that which is least is faithful also in much: and he that is unjust in the least is unjust also in much.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "luke-16-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "If therefore ye have not been faithful in the unrighteous mammon, who will commit to your trust the true <span class=\"clarity-word\">riches?</span>",
+      "churchId": "p11"
+    },
+    {
+      "slug": "luke-16-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And if ye have not been faithful in that which is another man’s, who shall give you that which is your own?",
+      "churchId": "p12"
+    },
+    {
+      "slug": "luke-16-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "¶ No servant can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "luke-16-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And the Pharisees also, who were covetous, heard all these things: and they derided him.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "luke-16-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And he said unto them, Ye are they which justify yourselves before men; but God knoweth your hearts: for that which is highly esteemed among men is abomination in the sight of God.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "luke-16-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "The law and the prophets <span class=\"clarity-word\">were</span> until John: since that time the kingdom of God is preached, and every man presseth into it.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "luke-16-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And it is easier for heaven and earth to pass, than one tittle of the law to fail.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "luke-16-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Whosoever putteth away his wife, and marrieth another, committeth adultery: and whosoever marrieth her that is put away from <span class=\"clarity-word\">her</span> husband committeth adultery.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "luke-16-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "¶ There was a certain rich man, which was clothed in purple and fine linen, and fared sumptuously every day:",
+      "churchId": "p19"
+    },
+    {
+      "slug": "luke-16-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And there was a certain beggar named Lazarus, which was laid at his gate, full of sores,",
+      "churchId": "p20"
+    },
+    {
+      "slug": "luke-16-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And desiring to be fed with the crumbs which fell from the rich man’s table: moreover the dogs came and licked his sores.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "luke-16-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And it came to pass, that the beggar died, and was carried by the angels into Abraham’s bosom: the rich man also died, and was buried;",
+      "churchId": "p22"
+    },
+    {
+      "slug": "luke-16-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And in hell he lift up his eyes, being in torments, and seeth Abraham afar off, and Lazarus in his bosom.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "luke-16-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And he cried and said, Father Abraham, have mercy on me, and send Lazarus, that he may dip the tip of his finger in water, and cool my tongue; for I am tormented in this flame.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "luke-16-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "But Abraham said, Son, remember that thou in thy lifetime receivedst thy good things, and likewise Lazarus evil things: but now he is comforted, and thou art tormented.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "luke-16-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And beside all this, between us and you there is a great gulf fixed: so that they which would pass from hence to you cannot; neither can they pass to us, that <span class=\"clarity-word\">would come</span> from thence.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "luke-16-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "Then he said, I pray thee therefore, father, that thou wouldest send him to my father’s house:",
+      "churchId": "p27"
+    },
+    {
+      "slug": "luke-16-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "For I have five brethren; that he may testify unto them, lest they also come into this place of torment.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "luke-16-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "Abraham saith unto him, They have Moses and the prophets; let them hear them.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "luke-16-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And he said, Nay, father Abraham: but if one went unto them from the dead, they will repent.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "luke-16-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "And he said unto him, If they hear not Moses and the prophets, neither will they be persuaded, though one rose from the dead.",
+      "churchId": "p31"
+    }
+  ]
+}

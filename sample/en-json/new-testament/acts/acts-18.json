@@ -1,0 +1,211 @@
+{
+  "name": "Acts 18",
+  "abbrev": "Acts 18",
+  "number": "18",
+  "churchUri": "/scriptures/nt/acts/18",
+  "paragraphs": [
+    {
+      "slug": "acts-18-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 18",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "acts-18-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "After these things Paul departed from Athens, and came to Corinth;",
+      "churchId": "p1"
+    },
+    {
+      "slug": "acts-18-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And found a certain Jew named Aquila, born in Pontus, lately come from Italy, with his wife Priscilla; (because that Claudius had commanded all Jews to depart from Rome:) and came unto them.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "acts-18-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And because he was of the same craft, he abode with them, and wrought: for by their occupation they were tentmakers.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "acts-18-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And he reasoned in the synagogue every sabbath, and persuaded the Jews and the Greeks.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "acts-18-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And when Silas and Timotheus were come from Macedonia, Paul was pressed in the spirit, and testified to the Jews <span class=\"clarity-word\">that</span> Jesus <span class=\"clarity-word\">was</span> Christ.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "acts-18-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And when they opposed themselves, and blasphemed, he shook <span class=\"clarity-word\">his</span> raiment, and said unto them, Your blood <span class=\"clarity-word\">be</span> upon your own heads; I <span class=\"clarity-word\">am</span> clean: from henceforth I will go unto the Gentiles.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "acts-18-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "¶ And he departed thence, and entered into a certain <span class=\"clarity-word\">man’s</span> house, named Justus, <span class=\"clarity-word\">one</span> that worshipped God, whose house joined hard to the synagogue.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "acts-18-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And Crispus, the chief ruler of the synagogue, believed on the Lord with all his house; and many of the Corinthians hearing believed, and were baptized.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "acts-18-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Then spake the Lord to Paul in the night by a vision, Be not afraid, but speak, and hold not thy peace:",
+      "churchId": "p9"
+    },
+    {
+      "slug": "acts-18-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "For I am with thee, and no man shall set on thee to hurt thee: for I have much people in this city.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "acts-18-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And he continued <span class=\"clarity-word\">there</span> a year and six months, teaching the word of God among them.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "acts-18-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "¶ And when Gallio was the deputy of Achaia, the Jews made insurrection with one accord against Paul, and brought him to the judgment seat,",
+      "churchId": "p12"
+    },
+    {
+      "slug": "acts-18-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Saying, This <span class=\"clarity-word\">fellow</span> persuadeth men to worship God contrary to the law.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "acts-18-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And when Paul was now about to open <span class=\"clarity-word\">his</span> mouth, Gallio said unto the Jews, If it were a matter of wrong or wicked lewdness, O <span class=\"clarity-word\">ye</span> Jews, reason would that I should bear with you:",
+      "churchId": "p14"
+    },
+    {
+      "slug": "acts-18-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "But if it be a question of words and names, and <span class=\"clarity-word\">of</span> your law, look ye <span class=\"clarity-word\">to it;</span> for I will be no judge of such <span class=\"clarity-word\">matters.</span>",
+      "churchId": "p15"
+    },
+    {
+      "slug": "acts-18-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And he drave them from the judgment seat.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "acts-18-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Then all the Greeks took Sosthenes, the chief ruler of the synagogue, and beat <span class=\"clarity-word\">him</span> before the judgment seat. And Gallio cared for none of those things.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "acts-18-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "¶ And Paul <span class=\"clarity-word\">after this</span> tarried <span class=\"clarity-word\">there</span> yet a good while, and then took his leave of the brethren, and sailed thence into Syria, and with him Priscilla and Aquila; having shorn <span class=\"clarity-word\">his</span> head in Cenchrea: for he had a vow.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "acts-18-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And he came to Ephesus, and left them there: but he himself entered into the synagogue, and reasoned with the Jews.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "acts-18-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "When they desired <span class=\"clarity-word\">him</span> to tarry longer time with them, he consented not;",
+      "churchId": "p20"
+    },
+    {
+      "slug": "acts-18-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "But bade them farewell, saying, I must by all means keep this feast that cometh in Jerusalem: but I will return again unto you, if God will. And he sailed from Ephesus.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "acts-18-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And when he had landed at Cæsarea, and gone up, and saluted the church, he went down to Antioch.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "acts-18-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And after he had spent some time <span class=\"clarity-word\">there,</span> he departed, and went over <span class=\"clarity-word\">all</span> the country of Galatia and Phrygia in order, strengthening all the disciples.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "acts-18-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "¶ And a certain Jew named Apollos, born at Alexandria, an eloquent man, <span class=\"clarity-word\">and</span> mighty in the scriptures, came to Ephesus.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "acts-18-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "This man was instructed in the way of the Lord; and being fervent in the spirit, he spake and taught diligently the things of the Lord, knowing only the baptism of John.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "acts-18-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And he began to speak boldly in the synagogue: whom when Aquila and Priscilla had heard, they took him unto <span class=\"clarity-word\">them,</span> and expounded unto him the way of God more perfectly.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "acts-18-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And when he was disposed to pass into Achaia, the brethren wrote, exhorting the disciples to receive him: who, when he was come, helped them much which had believed through grace:",
+      "churchId": "p27"
+    },
+    {
+      "slug": "acts-18-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "For he mightily convinced the Jews, <span class=\"clarity-word\">and that</span> publickly, shewing by the scriptures that Jesus was Christ.",
+      "churchId": "p28"
+    }
+  ]
+}

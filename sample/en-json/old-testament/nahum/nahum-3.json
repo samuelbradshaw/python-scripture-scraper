@@ -1,0 +1,148 @@
+{
+  "name": "Nahum 3",
+  "abbrev": "Nahum 3",
+  "number": "3",
+  "churchUri": "/scriptures/ot/nahum/3",
+  "paragraphs": [
+    {
+      "slug": "nahum-3-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 3",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "nahum-3-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Woe to the bloody city! it <span class=\"clarity-word\">is</span> all full of lies <span class=\"clarity-word\">and</span> robbery; the prey departeth not;",
+      "churchId": "p1"
+    },
+    {
+      "slug": "nahum-3-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "The noise of a whip, and the noise of the rattling of the wheels, and of the pransing horses, and of the jumping chariots.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "nahum-3-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "The horseman lifteth up both the bright sword and the glittering spear: and <span class=\"clarity-word\">there is</span> a multitude of slain, and a great number of carcases; and <span class=\"clarity-word\">there is</span> none end of <span class=\"clarity-word\">their</span> corpses; they stumble upon their corpses:",
+      "churchId": "p3"
+    },
+    {
+      "slug": "nahum-3-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Because of the multitude of the whoredoms of the wellfavoured harlot, the mistress of witchcrafts, that selleth nations through her whoredoms, and families through her witchcrafts.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "nahum-3-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Behold, I <span class=\"clarity-word\">am</span> against thee, saith the <span class=\"small-caps\">Lord</span> of hosts; and I will discover thy skirts upon thy face, and I will shew the nations thy nakedness, and the kingdoms thy shame.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "nahum-3-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And I will cast abominable filth upon thee, and make thee vile, and will set thee as a gazingstock.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "nahum-3-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And it shall come to pass, <span class=\"clarity-word\">that</span> all they that look upon thee shall flee from thee, and say, Nineveh is laid waste: who will bemoan her? whence shall I seek comforters for thee?",
+      "churchId": "p7"
+    },
+    {
+      "slug": "nahum-3-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Art thou better than populous No, that was situate among the rivers, <span class=\"clarity-word\">that had</span> the waters round about it, whose rampart <span class=\"clarity-word\">was</span> the sea, <span class=\"clarity-word\">and</span> her wall <span class=\"clarity-word\">was</span> from the sea?",
+      "churchId": "p8"
+    },
+    {
+      "slug": "nahum-3-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Ethiopia and Egypt <span class=\"clarity-word\">were</span> her strength, and <span class=\"clarity-word\">it was</span> infinite; Put and Lubim were thy helpers.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "nahum-3-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Yet <span class=\"clarity-word\">was</span> she carried away, she went into captivity: her young children also were dashed in pieces at the top of all the streets: and they cast lots for her honourable men, and all her great men were bound in chains.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "nahum-3-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Thou also shalt be drunken: thou shalt be hid, thou also shalt seek strength because of the enemy.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "nahum-3-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "All thy strong holds <span class=\"clarity-word\">shall be like</span> fig trees with the firstripe figs: if they be shaken, they shall even fall into the mouth of the eater.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "nahum-3-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Behold, thy people in the midst of thee <span class=\"clarity-word\">are</span> women: the gates of thy land shall be set wide open unto thine enemies: the fire shall devour thy bars.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "nahum-3-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Draw thee waters for the siege, fortify thy strong holds: go into clay, and tread the mortar, make strong the brickkiln.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "nahum-3-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "There shall the fire devour thee; the sword shall cut thee off, it shall eat thee up like the cankerworm: make thyself many as the cankerworm, make thyself many as the locusts.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "nahum-3-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Thou hast multiplied thy merchants above the stars of heaven: the cankerworm spoileth, and flieth away.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "nahum-3-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Thy crowned <span class=\"clarity-word\">are</span> as the locusts, and thy captains as the great grasshoppers, which camp in the hedges in the cold day, <span class=\"clarity-word\">but</span> when the sun ariseth they flee away, and their place is not known where they <span class=\"clarity-word\">are.</span>",
+      "churchId": "p17"
+    },
+    {
+      "slug": "nahum-3-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Thy shepherds slumber, O king of Assyria: thy nobles shall dwell <span class=\"clarity-word\">in the dust:</span> thy people is scattered upon the mountains, and no man gathereth <span class=\"clarity-word\">them.</span>",
+      "churchId": "p18"
+    },
+    {
+      "slug": "nahum-3-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "<span class=\"clarity-word\">There is</span> no healing of thy bruise; thy wound is grievous: all that hear the bruit of thee shall clap the hands over thee: for upon whom hath not thy wickedness passed continually?",
+      "churchId": "p19"
+    }
+  ]
+}

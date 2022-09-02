@@ -1,0 +1,155 @@
+{
+  "name": "Leviticus 10",
+  "abbrev": "Lev. 10",
+  "number": "10",
+  "churchUri": "/scriptures/ot/lev/10",
+  "paragraphs": [
+    {
+      "slug": "leviticus-10-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 10",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "leviticus-10-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And Nadab and Abihu, the sons of Aaron, took either of them his censer, and put fire therein, and put incense thereon, and offered strange fire before the <span class=\"small-caps\">Lord</span>, which he commanded them not.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "leviticus-10-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And there went out fire from the <span class=\"small-caps\">Lord</span>, and devoured them, and they died before the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "leviticus-10-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Then Moses said unto Aaron, This <span class=\"clarity-word\">is it</span> that the <span class=\"small-caps\">Lord</span> spake, saying, I will be sanctified in them that come nigh me, and before all the people I will be glorified. And Aaron held his peace.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "leviticus-10-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And Moses called Mishael and Elzaphan, the sons of Uzziel the uncle of Aaron, and said unto them, Come near, carry your brethren from before the sanctuary out of the camp.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "leviticus-10-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "So they went near, and carried them in their coats out of the camp; as Moses had said.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "leviticus-10-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And Moses said unto Aaron, and unto Eleazar and unto Ithamar, his sons, Uncover not your heads, neither rend your clothes; lest ye die, and lest wrath come upon all the people: but let your brethren, the whole house of Israel, bewail the burning which the <span class=\"small-caps\">Lord</span> hath kindled.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "leviticus-10-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And ye shall not go out from the door of the tabernacle of the congregation, lest ye die: for the anointing oil of the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">is</span> upon you. And they did according to the word of Moses.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "leviticus-10-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "¶ And the <span class=\"small-caps\">Lord</span> spake unto Aaron, saying,",
+      "churchId": "p8"
+    },
+    {
+      "slug": "leviticus-10-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Do not drink wine nor strong drink, thou, nor thy sons with thee, when ye go into the tabernacle of the congregation, lest ye die: <span class=\"clarity-word\">it shall be</span> a statute for ever throughout your generations:",
+      "churchId": "p9"
+    },
+    {
+      "slug": "leviticus-10-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And that ye may put difference between holy and unholy, and between unclean and clean;",
+      "churchId": "p10"
+    },
+    {
+      "slug": "leviticus-10-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And that ye may teach the children of Israel all the statutes which the <span class=\"small-caps\">Lord</span> hath spoken unto them by the hand of Moses.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "leviticus-10-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "¶ And Moses spake unto Aaron, and unto Eleazar and unto Ithamar, his sons that were left, Take the meat offering that remaineth of the offerings of the <span class=\"small-caps\">Lord</span> made by fire, and eat it without leaven beside the altar: for it <span class=\"clarity-word\">is</span> most holy:",
+      "churchId": "p12"
+    },
+    {
+      "slug": "leviticus-10-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And ye shall eat it in the holy place, because it <span class=\"clarity-word\">is</span> thy due, and thy sons’ due, of the sacrifices of the <span class=\"small-caps\">Lord</span> made by fire: for so I am commanded.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "leviticus-10-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And the wave breast and heave shoulder shall ye eat in a clean place; thou, and thy sons, and thy daughters with thee: for <span class=\"clarity-word\">they be</span> thy due, and thy sons’ due, <span class=\"clarity-word\">which</span> are given out of the sacrifices of peace offerings of the children of Israel.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "leviticus-10-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "The heave shoulder and the wave breast shall they bring with the offerings made by fire of the fat, to wave <span class=\"clarity-word\">it for</span> a wave offering before the <span class=\"small-caps\">Lord</span>; and it shall be thine, and thy sons’ with thee, by a statute for ever; as the <span class=\"small-caps\">Lord</span> hath commanded.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "leviticus-10-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "¶ And Moses diligently sought the goat of the sin offering, and, behold, it was burnt: and he was angry with Eleazar and Ithamar, the sons of Aaron <span class=\"clarity-word\">which were</span> left <span class=\"clarity-word\">alive,</span> saying,",
+      "churchId": "p16"
+    },
+    {
+      "slug": "leviticus-10-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Wherefore have ye not eaten the sin offering in the holy place, seeing it <span class=\"clarity-word\">is</span> most holy, and <span class=\"clarity-word\">God</span> hath given it you to bear the iniquity of the congregation, to make atonement for them before the <span class=\"small-caps\">Lord</span>?",
+      "churchId": "p17"
+    },
+    {
+      "slug": "leviticus-10-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Behold, the blood of it was not brought in within the holy <span class=\"clarity-word\">place:</span> ye should indeed have eaten it in the holy <span class=\"clarity-word\">place,</span> as I commanded.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "leviticus-10-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And Aaron said unto Moses, Behold, this day have they offered their sin offering and their burnt offering before the <span class=\"small-caps\">Lord</span>; and such things have befallen me: and <span class=\"clarity-word\">if</span> I had eaten the sin offering to day, should it have been accepted in the sight of the <span class=\"small-caps\">Lord</span>?",
+      "churchId": "p19"
+    },
+    {
+      "slug": "leviticus-10-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And when Moses heard <span class=\"clarity-word\">that,</span> he was content.",
+      "churchId": "p20"
+    }
+  ]
+}

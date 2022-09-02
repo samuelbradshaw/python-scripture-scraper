@@ -1,0 +1,505 @@
+{
+  "name": "Doctrine and Covenants 10",
+  "abbrev": "D&C 10",
+  "number": "10",
+  "churchUri": "/scriptures/dc-testament/dc/10",
+  "paragraphs": [
+    {
+      "slug": "section-10-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Section 10",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "section-10-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Now, behold, I say unto you, that because you delivered up those writings which you had power given unto you to translate by the means of the Urim and Thummim, into the hands of a wicked man, you have lost them.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "section-10-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And you also lost your gift at the same time, and your mind became darkened.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "section-10-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Nevertheless, it is now restored unto you again; therefore see that you are faithful and continue on unto the finishing of the remainder of the work of translation as you have begun.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "section-10-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Do not run faster or labor more than you have strength and means provided to enable you to translate; but be diligent unto the end.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "section-10-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Pray always, that you may come off conqueror; yea, that you may conquer Satan, and that you may escape the hands of the servants of Satan that do uphold his work.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "section-10-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Behold, they have sought to destroy you; yea, even the man in whom you have trusted has sought to destroy you.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "section-10-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And for this cause I said that he is a wicked man, for he has sought to take away the things wherewith you have been entrusted; and he has also sought to destroy your gift.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "section-10-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And because you have delivered the writings into his hands, behold, wicked men have taken them from you.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "section-10-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Therefore, you have delivered them up, yea, that which was sacred, unto wickedness.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "section-10-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And, behold, Satan hath put it into their hearts to alter the words which you have caused to be written, or which you have translated, which have gone out of your hands.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "section-10-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And behold, I say unto you, that because they have altered the words, they read contrary from that which you translated and caused to be written;",
+      "churchId": "p11"
+    },
+    {
+      "slug": "section-10-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And, on this wise, the devil has sought to lay a cunning plan, that he may destroy this work;",
+      "churchId": "p12"
+    },
+    {
+      "slug": "section-10-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "For he hath put into their hearts to do this, that by lying they may say they have caught you in the words which you have pretended to translate.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "section-10-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Verily, I say unto you, that I will not suffer that Satan shall accomplish his evil design in this thing.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "section-10-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "For behold, he has put it into their hearts to get thee to tempt the Lord thy God, in asking to translate it over again.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "section-10-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And then, behold, they say and think in their hearts—We will see if God has given him power to translate; if so, he will also give him power again;",
+      "churchId": "p16"
+    },
+    {
+      "slug": "section-10-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And if God giveth him power again, or if he translates again, or, in other words, if he bringeth forth the same words, behold, we have the same with us, and we have altered them;",
+      "churchId": "p17"
+    },
+    {
+      "slug": "section-10-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Therefore they will not agree, and we will say that he has lied in his words, and that he has no gift, and that he has no power;",
+      "churchId": "p18"
+    },
+    {
+      "slug": "section-10-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Therefore we will destroy him, and also the work; and we will do this that we may not be ashamed in the end, and that we may get glory of the world.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "section-10-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Verily, verily, I say unto you, that Satan has great hold upon their hearts; he stirreth them up to iniquity against that which is good;",
+      "churchId": "p20"
+    },
+    {
+      "slug": "section-10-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And their hearts are corrupt, and full of wickedness and abominations; and they love darkness rather than light, because their deeds are evil; therefore they will not ask of me.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "section-10-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Satan stirreth them up, that he may lead their souls to destruction.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "section-10-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And thus he has laid a cunning plan, thinking to destroy the work of God; but I will require this at their hands, and it shall turn to their shame and condemnation in the day of judgment.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "section-10-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Yea, he stirreth up their hearts to anger against this work.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "section-10-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Yea, he saith unto them: Deceive and lie in wait to catch, that ye may destroy; behold, this is no harm. And thus he flattereth them, and telleth them that it is no sin to lie that they may catch a man in a lie, that they may destroy him.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "section-10-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And thus he flattereth them, and leadeth them along until he draggeth their souls down to hell; and thus he causeth them to catch themselves in their own snare.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "section-10-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And thus he goeth up and down, to and fro in the earth, seeking to destroy the souls of men.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "section-10-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "Verily, verily, I say unto you, wo be unto him that lieth to deceive because he supposeth that another lieth to deceive, for such are not exempt from the justice of God.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "section-10-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "Now, behold, they have altered these words, because Satan saith unto them: He hath deceived you—and thus he flattereth them away to do iniquity, to get thee to tempt the Lord thy God.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "section-10-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "Behold, I say unto you, that you shall not translate again those words which have gone forth out of your hands;",
+      "churchId": "p30"
+    },
+    {
+      "slug": "section-10-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "For, behold, they shall not accomplish their evil designs in lying against those words. For, behold, if you should bring forth the same words they will say that you have lied and that you have pretended to translate, but that you have contradicted yourself.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "section-10-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "And, behold, they will publish this, and Satan will harden the hearts of the people to stir them up to anger against you, that they will not believe my words.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "section-10-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "Thus Satan thinketh to overpower your testimony in this generation, that the work may not come forth in this generation.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "section-10-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "But behold, here is wisdom, and because I show unto you wisdom, and give you commandments concerning these things, what you shall do, show it not unto the world until you have accomplished the work of translation.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "section-10-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "Marvel not that I said unto you: Here is wisdom, show it not unto the world—for I said, show it not unto the world, that you may be preserved.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "section-10-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "Behold, I do not say that you shall not show it unto the righteous;",
+      "churchId": "p36"
+    },
+    {
+      "slug": "section-10-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "But as you cannot always judge the righteous, or as you cannot always tell the wicked from the righteous, therefore I say unto you, hold your peace until I shall see fit to make all things known unto the world concerning the matter.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "section-10-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "And now, verily I say unto you, that an account of those things that you have written, which have gone out of your hands, is engraven upon the plates of Nephi;",
+      "churchId": "p38"
+    },
+    {
+      "slug": "section-10-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "Yea, and you remember it was said in those writings that a more particular account was given of these things upon the plates of Nephi.",
+      "churchId": "p39"
+    },
+    {
+      "slug": "section-10-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "And now, because the account which is engraven upon the plates of Nephi is more particular concerning the things which, in my wisdom, I would bring to the knowledge of the people in this account—",
+      "churchId": "p40"
+    },
+    {
+      "slug": "section-10-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "Therefore, you shall translate the engravings which are on the plates of Nephi, down even till you come to the reign of king Benjamin, or until you come to that which you have translated, which you have retained;",
+      "churchId": "p41"
+    },
+    {
+      "slug": "section-10-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "And behold, you shall publish it as the record of Nephi; and thus I will confound those who have altered my words.",
+      "churchId": "p42"
+    },
+    {
+      "slug": "section-10-p43",
+      "type": "verse",
+      "number": "43",
+      "content": "I will not suffer that they shall destroy my work; yea, I will show unto them that my wisdom is greater than the cunning of the devil.",
+      "churchId": "p43"
+    },
+    {
+      "slug": "section-10-p44",
+      "type": "verse",
+      "number": "44",
+      "content": "Behold, they have only got a part, or an abridgment of the account of Nephi.",
+      "churchId": "p44"
+    },
+    {
+      "slug": "section-10-p45",
+      "type": "verse",
+      "number": "45",
+      "content": "Behold, there are many things engraven upon the plates of Nephi which do throw greater views upon my gospel; therefore, it is wisdom in me that you should translate this first part of the engravings of Nephi, and send forth in this work.",
+      "churchId": "p45"
+    },
+    {
+      "slug": "section-10-p46",
+      "type": "verse",
+      "number": "46",
+      "content": "And, behold, all the remainder of this work does contain all those parts of my gospel which my holy prophets, yea, and also my disciples, desired in their prayers should come forth unto this people.",
+      "churchId": "p46"
+    },
+    {
+      "slug": "section-10-p47",
+      "type": "verse",
+      "number": "47",
+      "content": "And I said unto them, that it should be granted unto them according to their faith in their prayers;",
+      "churchId": "p47"
+    },
+    {
+      "slug": "section-10-p48",
+      "type": "verse",
+      "number": "48",
+      "content": "Yea, and this was their faith—that my gospel, which I gave unto them that they might preach in their days, might come unto their brethren the Lamanites, and also all that had become Lamanites because of their dissensions.",
+      "churchId": "p48"
+    },
+    {
+      "slug": "section-10-p49",
+      "type": "verse",
+      "number": "49",
+      "content": "Now, this is not all—their faith in their prayers was that this gospel should be made known also, if it were possible that other nations should possess this land;",
+      "churchId": "p49"
+    },
+    {
+      "slug": "section-10-p50",
+      "type": "verse",
+      "number": "50",
+      "content": "And thus they did leave a blessing upon this land in their prayers, that whosoever should believe in this gospel in this land might have eternal life;",
+      "churchId": "p50"
+    },
+    {
+      "slug": "section-10-p51",
+      "type": "verse",
+      "number": "51",
+      "content": "Yea, that it might be free unto all of whatsoever nation, kindred, tongue, or people they may be.",
+      "churchId": "p51"
+    },
+    {
+      "slug": "section-10-p52",
+      "type": "verse",
+      "number": "52",
+      "content": "And now, behold, according to their faith in their prayers will I bring this part of my gospel to the knowledge of my people. Behold, I do not bring it to destroy that which they have received, but to build it up.",
+      "churchId": "p52"
+    },
+    {
+      "slug": "section-10-p53",
+      "type": "verse",
+      "number": "53",
+      "content": "And for this cause have I said: If this generation harden not their hearts, I will establish my church among them.",
+      "churchId": "p53"
+    },
+    {
+      "slug": "section-10-p54",
+      "type": "verse",
+      "number": "54",
+      "content": "Now I do not say this to destroy my church, but I say this to build up my church;",
+      "churchId": "p54"
+    },
+    {
+      "slug": "section-10-p55",
+      "type": "verse",
+      "number": "55",
+      "content": "Therefore, whosoever belongeth to my church need not fear, for such shall inherit the kingdom of heaven.",
+      "churchId": "p55"
+    },
+    {
+      "slug": "section-10-p56",
+      "type": "verse",
+      "number": "56",
+      "content": "But it is they who do not fear me, neither keep my commandments but build up churches unto themselves to get gain, yea, and all those that do wickedly and build up the kingdom of the devil—yea, verily, verily, I say unto you, that it is they that I will disturb, and cause to tremble and shake to the center.",
+      "churchId": "p56"
+    },
+    {
+      "slug": "section-10-p57",
+      "type": "verse",
+      "number": "57",
+      "content": "Behold, I am Jesus Christ, the Son of God. I came unto mine own, and mine own received me not.",
+      "churchId": "p57"
+    },
+    {
+      "slug": "section-10-p58",
+      "type": "verse",
+      "number": "58",
+      "content": "I am the light which shineth in darkness, and the darkness comprehendeth it not.",
+      "churchId": "p58"
+    },
+    {
+      "slug": "section-10-p59",
+      "type": "verse",
+      "number": "59",
+      "content": "I am he who said—Other sheep have I which are not of this fold—unto my disciples, and many there were that understood me not.",
+      "churchId": "p59"
+    },
+    {
+      "slug": "section-10-p60",
+      "type": "verse",
+      "number": "60",
+      "content": "And I will show unto this people that I had other sheep, and that they were a branch of the house of Jacob;",
+      "churchId": "p60"
+    },
+    {
+      "slug": "section-10-p61",
+      "type": "verse",
+      "number": "61",
+      "content": "And I will bring to light their marvelous works, which they did in my name;",
+      "churchId": "p61"
+    },
+    {
+      "slug": "section-10-p62",
+      "type": "verse",
+      "number": "62",
+      "content": "Yea, and I will also bring to light my gospel which was ministered unto them, and, behold, they shall not deny that which you have received, but they shall build it up, and shall bring to light the true points of my doctrine, yea, and the only doctrine which is in me.",
+      "churchId": "p62"
+    },
+    {
+      "slug": "section-10-p63",
+      "type": "verse",
+      "number": "63",
+      "content": "And this I do that I may establish my gospel, that there may not be so much contention; yea, Satan doth stir up the hearts of the people to contention concerning the points of my doctrine; and in these things they do err, for they do wrest the scriptures and do not understand them.",
+      "churchId": "p63"
+    },
+    {
+      "slug": "section-10-p64",
+      "type": "verse",
+      "number": "64",
+      "content": "Therefore, I will unfold unto them this great mystery;",
+      "churchId": "p64"
+    },
+    {
+      "slug": "section-10-p65",
+      "type": "verse",
+      "number": "65",
+      "content": "For, behold, I will gather them as a hen gathereth her chickens under her wings, if they will not harden their hearts;",
+      "churchId": "p65"
+    },
+    {
+      "slug": "section-10-p66",
+      "type": "verse",
+      "number": "66",
+      "content": "Yea, if they will come, they may, and partake of the waters of life freely.",
+      "churchId": "p66"
+    },
+    {
+      "slug": "section-10-p67",
+      "type": "verse",
+      "number": "67",
+      "content": "Behold, this is my doctrine—whosoever repenteth and cometh unto me, the same is my church.",
+      "churchId": "p67"
+    },
+    {
+      "slug": "section-10-p68",
+      "type": "verse",
+      "number": "68",
+      "content": "Whosoever declareth more or less than this, the same is not of me, but is against me; therefore he is not of my church.",
+      "churchId": "p68"
+    },
+    {
+      "slug": "section-10-p69",
+      "type": "verse",
+      "number": "69",
+      "content": "And now, behold, whosoever is of my church, and endureth of my church to the end, him will I establish upon my rock, and the gates of hell shall not prevail against them.",
+      "churchId": "p69"
+    },
+    {
+      "slug": "section-10-p70",
+      "type": "verse",
+      "number": "70",
+      "content": "And now, remember the words of him who is the life and light of the world, your Redeemer, your Lord and your God. Amen.",
+      "churchId": "p70"
+    }
+  ]
+}

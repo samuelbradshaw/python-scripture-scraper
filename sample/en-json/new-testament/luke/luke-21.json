@@ -1,0 +1,281 @@
+{
+  "name": "Luke 21",
+  "abbrev": "Luke 21",
+  "number": "21",
+  "churchUri": "/scriptures/nt/luke/21",
+  "paragraphs": [
+    {
+      "slug": "luke-21-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 21",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "luke-21-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And he looked up, and saw the rich men casting their gifts into the treasury.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "luke-21-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And he saw also a certain poor widow casting in thither two mites.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "luke-21-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And he said, Of a truth I say unto you, that this poor widow hath cast in more than they all:",
+      "churchId": "p3"
+    },
+    {
+      "slug": "luke-21-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "For all these have of their abundance cast in unto the offerings of God: but she of her penury hath cast in all the living that she had.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "luke-21-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "¶ And as some spake of the temple, how it was adorned with goodly stones and gifts, he said,",
+      "churchId": "p5"
+    },
+    {
+      "slug": "luke-21-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "<span class=\"clarity-word\">As for</span> these things which ye behold, the days will come, in the which there shall not be left one stone upon another, that shall not be thrown down.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "luke-21-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And they asked him, saying, Master, but when shall these things be? and what sign <span class=\"clarity-word\">will there be</span> when these things shall come to pass?",
+      "churchId": "p7"
+    },
+    {
+      "slug": "luke-21-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And he said, Take heed that ye be not deceived: for many shall come in my name, saying, I am <span class=\"clarity-word\">Christ;</span> and the time draweth near: go ye not therefore after them.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "luke-21-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "But when ye shall hear of wars and commotions, be not terrified: for these things must first come to pass; but the end <span class=\"clarity-word\">is</span> not by and by.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "luke-21-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Then said he unto them, Nation shall rise against nation, and kingdom against kingdom:",
+      "churchId": "p10"
+    },
+    {
+      "slug": "luke-21-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And great earthquakes shall be in divers places, and famines, and pestilences; and fearful sights and great signs shall there be from heaven.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "luke-21-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "But before all these, they shall lay their hands on you, and persecute <span class=\"clarity-word\">you,</span> delivering <span class=\"clarity-word\">you</span> up to the synagogues, and into prisons, being brought before kings and rulers for my name’s sake.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "luke-21-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And it shall turn to you for a testimony.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "luke-21-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Settle <span class=\"clarity-word\">it</span> therefore in your hearts, not to meditate before what ye shall answer:",
+      "churchId": "p14"
+    },
+    {
+      "slug": "luke-21-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "For I will give you a mouth and wisdom, which all your adversaries shall not be able to gainsay nor resist.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "luke-21-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And ye shall be betrayed both by parents, and brethren, and kinsfolks, and friends; and <span class=\"clarity-word\">some</span> of you shall they cause to be put to death.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "luke-21-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And ye shall be hated of all <span class=\"clarity-word\">men</span> for my name’s sake.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "luke-21-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "But there shall not an hair of your head perish.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "luke-21-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "In your patience possess ye your souls.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "luke-21-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And when ye shall see Jerusalem compassed with armies, then know that the desolation thereof is nigh.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "luke-21-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Then let them which are in Judæa flee to the mountains; and let them which are in the midst of it depart out; and let not them that are in the countries enter thereinto.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "luke-21-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "For these be the days of vengeance, that all things which are written may be fulfilled.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "luke-21-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "But woe unto them that are with child, and to them that give suck, in those days! for there shall be great distress in the land, and wrath upon this people.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "luke-21-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And they shall fall by the edge of the sword, and shall be led away captive into all nations: and Jerusalem shall be trodden down of the Gentiles, until the times of the Gentiles be fulfilled.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "luke-21-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "¶ And there shall be signs in the sun, and in the moon, and in the stars; and upon the earth distress of nations, with perplexity; the sea and the waves roaring;",
+      "churchId": "p25"
+    },
+    {
+      "slug": "luke-21-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "Men’s hearts failing them for fear, and for looking after those things which are coming on the earth: for the powers of heaven shall be shaken.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "luke-21-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And then shall they see the Son of man coming in a cloud with power and great glory.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "luke-21-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And when these things begin to come to pass, then look up, and lift up your heads; for your redemption draweth nigh.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "luke-21-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "And he spake to them a parable; Behold the fig tree, and all the trees;",
+      "churchId": "p29"
+    },
+    {
+      "slug": "luke-21-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "When they now shoot forth, ye see and know of your own selves that summer is now nigh at hand.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "luke-21-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "So likewise ye, when ye see these things come to pass, know ye that the kingdom of God is nigh at hand.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "luke-21-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "Verily I say unto you, This generation shall not pass away, till all be fulfilled.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "luke-21-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "Heaven and earth shall pass away: but my words shall not pass away.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "luke-21-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "¶ And take heed to yourselves, lest at any time your hearts be overcharged with surfeiting, and drunkenness, and cares of this life, and <span class=\"clarity-word\">so</span> that day come upon you unawares.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "luke-21-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "For as a snare shall it come on all them that dwell on the face of the whole earth.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "luke-21-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "Watch ye therefore, and pray always, that ye may be accounted worthy to escape all these things that shall come to pass, and to stand before the Son of man.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "luke-21-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "And in the day time he was teaching in the temple; and at night he went out, and abode in the mount that is called <span class=\"clarity-word\">the mount</span> of Olives.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "luke-21-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "And all the people came early in the morning to him in the temple, for to hear him.",
+      "churchId": "p38"
+    }
+  ]
+}

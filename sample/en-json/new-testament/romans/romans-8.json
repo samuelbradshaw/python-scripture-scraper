@@ -1,0 +1,288 @@
+{
+  "name": "Romans 8",
+  "abbrev": "Rom. 8",
+  "number": "8",
+  "churchUri": "/scriptures/nt/rom/8",
+  "paragraphs": [
+    {
+      "slug": "romans-8-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 8",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "romans-8-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "<span class=\"clarity-word\">There is</span> therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "romans-8-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "romans-8-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "For what the law could not do, in that it was weak through the flesh, God sending his own Son in the likeness of sinful flesh, and for sin, condemned sin in the flesh:",
+      "churchId": "p3"
+    },
+    {
+      "slug": "romans-8-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "That the righteousness of the law might be fulfilled in us, who walk not after the flesh, but after the Spirit.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "romans-8-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "For they that are after the flesh do mind the things of the flesh; but they that are after the Spirit the things of the Spirit.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "romans-8-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "For to be carnally minded <span class=\"clarity-word\">is</span> death; but to be spiritually minded <span class=\"clarity-word\">is</span> life and peace.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "romans-8-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Because the carnal mind <span class=\"clarity-word\">is</span> enmity against God: for it is not subject to the law of God, neither indeed can be.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "romans-8-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "So then they that are in the flesh cannot please God.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "romans-8-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "But ye are not in the flesh, but in the Spirit, if so be that the Spirit of God dwell in you. Now if any man have not the Spirit of Christ, he is none of his.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "romans-8-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And if Christ <span class=\"clarity-word\">be</span> in you, the body <span class=\"clarity-word\">is</span> dead because of sin; but the Spirit <span class=\"clarity-word\">is</span> life because of righteousness.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "romans-8-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "But if the Spirit of him that raised up Jesus from the dead dwell in you, he that raised up Christ from the dead shall also quicken your mortal bodies by his Spirit that dwelleth in you.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "romans-8-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Therefore, brethren, we are debtors, not to the flesh, to live after the flesh.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "romans-8-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "For if ye live after the flesh, ye shall die: but if ye through the Spirit do mortify the deeds of the body, ye shall live.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "romans-8-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "For as many as are led by the Spirit of God, they are the sons of God.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "romans-8-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "For ye have not received the spirit of bondage again to fear; but ye have received the Spirit of adoption, whereby we cry, Abba, Father.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "romans-8-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "The Spirit itself beareth witness with our spirit, that we are the children of God:",
+      "churchId": "p16"
+    },
+    {
+      "slug": "romans-8-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And if children, then heirs; heirs of God, and joint-heirs with Christ; if so be that we suffer with <span class=\"clarity-word\">him,</span> that we may be also glorified together.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "romans-8-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "For I reckon that the sufferings of this present time <span class=\"clarity-word\">are</span> not worthy <span class=\"clarity-word\">to be compared</span> with the glory which shall be revealed in us.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "romans-8-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "For the earnest expectation of the creature waiteth for the manifestation of the sons of God.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "romans-8-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "For the creature was made subject to vanity, not willingly, but by reason of him who hath subjected <span class=\"clarity-word\">the same</span> in hope,",
+      "churchId": "p20"
+    },
+    {
+      "slug": "romans-8-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Because the creature itself also shall be delivered from the bondage of corruption into the glorious liberty of the children of God.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "romans-8-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "For we know that the whole creation groaneth and travaileth in pain together until now.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "romans-8-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And not only <span class=\"clarity-word\">they,</span> but ourselves also, which have the firstfruits of the Spirit, even we ourselves groan within ourselves, waiting for the adoption, <span class=\"clarity-word\">to wit,</span> the redemption of our body.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "romans-8-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "For we are saved by hope: but hope that is seen is not hope: for what a man seeth, why doth he yet hope for?",
+      "churchId": "p24"
+    },
+    {
+      "slug": "romans-8-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "But if we hope for that we see not, <span class=\"clarity-word\">then</span> do we with patience wait for <span class=\"clarity-word\">it.</span>",
+      "churchId": "p25"
+    },
+    {
+      "slug": "romans-8-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "Likewise the Spirit also helpeth our infirmities: for we know not what we should pray for as we ought: but the Spirit itself maketh intercession for us with groanings which cannot be uttered.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "romans-8-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And he that searcheth the hearts knoweth what <span class=\"clarity-word\">is</span> the mind of the Spirit, because he maketh intercession for the saints according to <span class=\"clarity-word\">the will of</span> God.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "romans-8-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And we know that all things work together for good to them that love God, to them who are the called according to <span class=\"clarity-word\">his</span> purpose.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "romans-8-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "For whom he did foreknow, he also did predestinate <span class=\"clarity-word\">to be</span> conformed to the image of his Son, that he might be the firstborn among many brethren.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "romans-8-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "Moreover whom he did predestinate, them he also called: and whom he called, them he also justified: and whom he justified, them he also glorified.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "romans-8-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "What shall we then say to these things? If God <span class=\"clarity-word\">be</span> for us, who <span class=\"clarity-word\">can </span><span class=\"clarity-word\">be</span> against us?",
+      "churchId": "p31"
+    },
+    {
+      "slug": "romans-8-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "He that spared not his own Son, but delivered him up for us all, how shall he not with him also freely give us all things?",
+      "churchId": "p32"
+    },
+    {
+      "slug": "romans-8-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "Who shall lay any thing to the charge of God’s elect? <span class=\"clarity-word\">It is</span> God that justifieth.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "romans-8-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "Who <span class=\"clarity-word\">is</span> he that condemneth? <span class=\"clarity-word\">It is</span> Christ that died, yea rather, that is risen again, who is even at the right hand of God, who also maketh intercession for us.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "romans-8-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "Who shall separate us from the love of Christ? <span class=\"clarity-word\">shall</span> tribulation, or distress, or persecution, or famine, or nakedness, or peril, or sword?",
+      "churchId": "p35"
+    },
+    {
+      "slug": "romans-8-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "As it is written, For thy sake we are killed all the day long; we are accounted as sheep for the slaughter.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "romans-8-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "Nay, in all these things we are more than conquerors through him that loved us.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "romans-8-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "For I am persuaded, that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come,",
+      "churchId": "p38"
+    },
+    {
+      "slug": "romans-8-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "Nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, which is in Christ Jesus our Lord.",
+      "churchId": "p39"
+    }
+  ]
+}

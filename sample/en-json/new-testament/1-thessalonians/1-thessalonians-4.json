@@ -1,0 +1,141 @@
+{
+  "name": "1 Thessalonians 4",
+  "abbrev": "1 Thes. 4",
+  "number": "4",
+  "churchUri": "/scriptures/nt/1-thes/4",
+  "paragraphs": [
+    {
+      "slug": "1-thessalonians-4-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 4",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "1-thessalonians-4-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Furthermore then we beseech you, brethren, and exhort <span class=\"clarity-word\">you</span> by the Lord Jesus, that as ye have received of us how ye ought to walk and to please God, <span class=\"clarity-word\">so</span> ye would abound more and more.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "1-thessalonians-4-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "For ye know what commandments we gave you by the Lord Jesus.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "1-thessalonians-4-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "For this is the will of God, <span class=\"clarity-word\">even</span> your sanctification, that ye should abstain from fornication:",
+      "churchId": "p3"
+    },
+    {
+      "slug": "1-thessalonians-4-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "That every one of you should know how to possess his vessel in sanctification and honour;",
+      "churchId": "p4"
+    },
+    {
+      "slug": "1-thessalonians-4-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Not in the lust of concupiscence, even as the Gentiles which know not God:",
+      "churchId": "p5"
+    },
+    {
+      "slug": "1-thessalonians-4-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "That no <span class=\"clarity-word\">man</span> go beyond and defraud his brother in <span class=\"clarity-word\">any</span> matter: because that the Lord <span class=\"clarity-word\">is</span> the avenger of all such, as we also have forewarned you and testified.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "1-thessalonians-4-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "For God hath not called us unto uncleanness, but unto holiness.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "1-thessalonians-4-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "He therefore that despiseth, despiseth not man, but God, who hath also given unto us his holy Spirit.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "1-thessalonians-4-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "But as touching brotherly love ye need not that I write unto you: for ye yourselves are taught of God to love one another.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "1-thessalonians-4-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And indeed ye do it toward all the brethren which are in all Macedonia: but we beseech you, brethren, that ye increase more and more;",
+      "churchId": "p10"
+    },
+    {
+      "slug": "1-thessalonians-4-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And that ye study to be quiet, and to do your own business, and to work with your own hands, as we commanded you;",
+      "churchId": "p11"
+    },
+    {
+      "slug": "1-thessalonians-4-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "That ye may walk honestly toward them that are without, and <span class=\"clarity-word\">that</span> ye may have lack of nothing.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "1-thessalonians-4-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "But I would not have you to be ignorant, brethren, concerning them which are asleep, that ye sorrow not, even as others which have no hope.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "1-thessalonians-4-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "For if we believe that Jesus died and rose again, even so them also which sleep in Jesus will God bring with him.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "1-thessalonians-4-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "For this we say unto you by the word of the Lord, that we which are alive <span class=\"clarity-word\">and</span> remain unto the coming of the Lord shall not prevent them which are asleep.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "1-thessalonians-4-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "For the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God: and the dead in Christ shall rise first:",
+      "churchId": "p16"
+    },
+    {
+      "slug": "1-thessalonians-4-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Then we which are alive <span class=\"clarity-word\">and</span> remain shall be caught up together with them in the clouds, to meet the Lord in the air: and so shall we ever be with the Lord.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "1-thessalonians-4-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Wherefore comfort one another with these words.",
+      "churchId": "p18"
+    }
+  ]
+}

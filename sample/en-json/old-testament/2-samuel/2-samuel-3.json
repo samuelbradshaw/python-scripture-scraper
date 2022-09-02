@@ -1,0 +1,288 @@
+{
+  "name": "2 Samuel 3",
+  "abbrev": "2 Sam. 3",
+  "number": "3",
+  "churchUri": "/scriptures/ot/2-sam/3",
+  "paragraphs": [
+    {
+      "slug": "2-samuel-3-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 3",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "2-samuel-3-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Now there was long war between the house of Saul and the house of David: but David waxed stronger and stronger, and the house of Saul waxed weaker and weaker.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "2-samuel-3-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "¶ And unto David were sons born in Hebron: and his firstborn was Amnon, of Ahinoam the Jezreelitess;",
+      "churchId": "p2"
+    },
+    {
+      "slug": "2-samuel-3-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And his second, Chileab, of Abigail the wife of Nabal the Carmelite; and the third, Absalom the son of Maacah the daughter of Talmai king of Geshur;",
+      "churchId": "p3"
+    },
+    {
+      "slug": "2-samuel-3-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And the fourth, Adonijah the son of Haggith; and the fifth, Shephatiah the son of Abital;",
+      "churchId": "p4"
+    },
+    {
+      "slug": "2-samuel-3-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And the sixth, Ithream, by Eglah David’s wife. These were born to David in Hebron.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "2-samuel-3-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "¶ And it came to pass, while there was war between the house of Saul and the house of David, that Abner made himself strong for the house of Saul.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "2-samuel-3-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And Saul had a concubine, whose name <span class=\"clarity-word\">was</span> Rizpah, the daughter of Aiah: and <span class=\"clarity-word\">Ish-bosheth</span> said to Abner, Wherefore hast thou gone in unto my father’s concubine?",
+      "churchId": "p7"
+    },
+    {
+      "slug": "2-samuel-3-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Then was Abner very wroth for the words of Ish-bosheth, and said, <span class=\"clarity-word\">Am</span> I a dog’s head, which against Judah do shew kindness this day unto the house of Saul thy father, to his brethren, and to his friends, and have not delivered thee into the hand of David, that thou chargest me to day with a fault concerning this woman?",
+      "churchId": "p8"
+    },
+    {
+      "slug": "2-samuel-3-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "So do God to Abner, and more also, except, as the <span class=\"small-caps\">Lord</span> hath sworn to David, even so I do to him;",
+      "churchId": "p9"
+    },
+    {
+      "slug": "2-samuel-3-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "To translate the kingdom from the house of Saul, and to set up the throne of David over Israel and over Judah, from Dan even to Beer-sheba.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "2-samuel-3-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And he could not answer Abner a word again, because he feared him.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "2-samuel-3-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "¶ And Abner sent messengers to David on his behalf, saying, Whose <span class=\"clarity-word\">is</span> the land? saying <span class=\"clarity-word\">also,</span> Make thy league with me, and, behold, my hand <span class=\"clarity-word\">shall be</span> with thee, to bring about all Israel unto thee.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "2-samuel-3-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "¶ And he said, Well; I will make a league with thee: but one thing I require of thee, that is, Thou shalt not see my face, except thou first bring Michal Saul’s daughter, when thou comest to see my face.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "2-samuel-3-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And David sent messengers to Ish-bosheth Saul’s son, saying, Deliver <span class=\"clarity-word\">me</span> my wife Michal, which I espoused to me for an hundred foreskins of the Philistines.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "2-samuel-3-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And Ish-bosheth sent, and took her from <span class=\"clarity-word\">her</span> husband, <span class=\"clarity-word\">even</span> from Phaltiel the son of Laish.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "2-samuel-3-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And her husband went with her along weeping behind her to Bahurim. Then said Abner unto him, Go, return. And he returned.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "2-samuel-3-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "¶ And Abner had communication with the elders of Israel, saying, Ye sought for David in times past <span class=\"clarity-word\">to be</span> king over you:",
+      "churchId": "p17"
+    },
+    {
+      "slug": "2-samuel-3-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Now then do <span class=\"clarity-word\">it:</span> for the <span class=\"small-caps\">Lord</span> hath spoken of David, saying, By the hand of my servant David I will save my people Israel out of the hand of the Philistines, and out of the hand of all their enemies.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "2-samuel-3-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And Abner also spake in the ears of Benjamin: and Abner went also to speak in the ears of David in Hebron all that seemed good to Israel, and that seemed good to the whole house of Benjamin.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "2-samuel-3-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "So Abner came to David to Hebron, and twenty men with him. And David made Abner and the men that <span class=\"clarity-word\">were</span> with him a feast.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "2-samuel-3-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And Abner said unto David, I will arise and go, and will gather all Israel unto my lord the king, that they may make a league with thee, and that thou mayest reign over all that thine heart desireth. And David sent Abner away; and he went in peace.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "2-samuel-3-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "¶ And, behold, the servants of David and Joab came from <span class=\"clarity-word\">pursuing</span> a troop, and brought in a great spoil with them: but Abner <span class=\"clarity-word\">was</span> not with David in Hebron; for he had sent him away, and he was gone in peace.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "2-samuel-3-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "When Joab and all the host that <span class=\"clarity-word\">was</span> with him were come, they told Joab, saying, Abner the son of Ner came to the king, and he hath sent him away, and he is gone in peace.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "2-samuel-3-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Then Joab came to the king, and said, What hast thou done? behold, Abner came unto thee; why <span class=\"clarity-word\">is</span> it <span class=\"clarity-word\">that</span> thou hast sent him away, and he is quite gone?",
+      "churchId": "p24"
+    },
+    {
+      "slug": "2-samuel-3-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Thou knowest Abner the son of Ner, that he came to deceive thee, and to know thy going out and thy coming in, and to know all that thou doest.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "2-samuel-3-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And when Joab was come out from David, he sent messengers after Abner, which brought him again from the well of Sirah: but David knew <span class=\"clarity-word\">it</span> not.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "2-samuel-3-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And when Abner was returned to Hebron, Joab took him aside in the gate to speak with him quietly, and smote him there under the fifth <span class=\"clarity-word\">rib,</span> that he died, for the blood of Asahel his brother.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "2-samuel-3-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "¶ And afterward when David heard <span class=\"clarity-word\">it,</span> he said, I and my kingdom <span class=\"clarity-word\">are</span> guiltless before the <span class=\"small-caps\">Lord</span> for ever from the blood of Abner the son of Ner:",
+      "churchId": "p28"
+    },
+    {
+      "slug": "2-samuel-3-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "Let it rest on the head of Joab, and on all his father’s house; and let there not fail from the house of Joab one that hath an issue, or that is a leper, or that leaneth on a staff, or that falleth on the sword, or that lacketh bread.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "2-samuel-3-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "So Joab and Abishai his brother slew Abner, because he had slain their brother Asahel at Gibeon in the battle.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "2-samuel-3-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "¶ And David said to Joab, and to all the people that <span class=\"clarity-word\">were</span> with him, Rend your clothes, and gird you with sackcloth, and mourn before Abner. And king David <span class=\"clarity-word\">himself</span> followed the bier.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "2-samuel-3-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "And they buried Abner in Hebron: and the king lifted up his voice, and wept at the grave of Abner; and all the people wept.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "2-samuel-3-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "And the king lamented over Abner, and said, Died Abner as a fool dieth?",
+      "churchId": "p33"
+    },
+    {
+      "slug": "2-samuel-3-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "Thy hands <span class=\"clarity-word\">were</span> not bound, nor thy feet put into fetters: as a man falleth before wicked men, <span class=\"clarity-word\">so</span> fellest thou. And all the people wept again over him.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "2-samuel-3-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "And when all the people came to cause David to eat meat while it was yet day, David sware, saying, So do God to me, and more also, if I taste bread, or ought else, till the sun be down.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "2-samuel-3-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "And all the people took notice <span class=\"clarity-word\">of it,</span> and it pleased them: as whatsoever the king did pleased all the people.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "2-samuel-3-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "For all the people and all Israel understood that day that it was not of the king to slay Abner the son of Ner.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "2-samuel-3-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "And the king said unto his servants, Know ye not that there is a prince and a great man fallen this day in Israel?",
+      "churchId": "p38"
+    },
+    {
+      "slug": "2-samuel-3-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "And I <span class=\"clarity-word\">am</span> this day weak, though anointed king; and these men the sons of Zeruiah <span class=\"clarity-word\">be</span> too hard for me: the <span class=\"small-caps\">Lord</span> shall reward the doer of evil according to his wickedness.",
+      "churchId": "p39"
+    }
+  ]
+}

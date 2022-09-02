@@ -1,0 +1,197 @@
+{
+  "name": "Doctrine and Covenants 72",
+  "abbrev": "D&C 72",
+  "number": "72",
+  "churchUri": "/scriptures/dc-testament/dc/72",
+  "paragraphs": [
+    {
+      "slug": "section-72-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Section 72",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "section-72-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Hearken, and listen to the voice of the Lord, O ye who have assembled yourselves together, who are the high priests of my church, to whom the kingdom and power have been given.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "section-72-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "For verily thus saith the Lord, it is expedient in me for a bishop to be appointed unto you, or of you, unto the church in this part of the Lord’s vineyard.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "section-72-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And verily in this thing ye have done wisely, for it is required of the Lord, at the hand of every steward, to render an account of his stewardship, both in time and in eternity.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "section-72-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "For he who is faithful and wise in time is accounted worthy to inherit the mansions prepared for him of my Father.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "section-72-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Verily I say unto you, the elders of the church in this part of my vineyard shall render an account of their stewardship unto the bishop, who shall be appointed of me in this part of my vineyard.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "section-72-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "These things shall be had on record, to be handed over unto the bishop in Zion.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "section-72-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And the duty of the bishop shall be made known by the commandments which have been given, and the voice of the conference.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "section-72-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And now, verily I say unto you, my servant Newel K. Whitney is the man who shall be appointed and ordained unto this power. This is the will of the Lord your God, your Redeemer. Even so. Amen.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "section-72-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "The word of the Lord, in addition to the law which has been given, making known the duty of the bishop who has been ordained unto the church in this part of the vineyard, which is verily this—",
+      "churchId": "p9"
+    },
+    {
+      "slug": "section-72-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "To keep the Lord’s storehouse; to receive the funds of the church in this part of the vineyard;",
+      "churchId": "p10"
+    },
+    {
+      "slug": "section-72-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "To take an account of the elders as before has been commanded; and to administer to their wants, who shall pay for that which they receive, inasmuch as they have wherewith to pay;",
+      "churchId": "p11"
+    },
+    {
+      "slug": "section-72-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "That this also may be consecrated to the good of the church, to the poor and needy.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "section-72-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And he who hath not wherewith to pay, an account shall be taken and handed over to the bishop of Zion, who shall pay the debt out of that which the Lord shall put into his hands.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "section-72-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And the labors of the faithful who labor in spiritual things, in administering the gospel and the things of the kingdom unto the church, and unto the world, shall answer the debt unto the bishop in Zion;",
+      "churchId": "p14"
+    },
+    {
+      "slug": "section-72-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Thus it cometh out of the church, for according to the law every man that cometh up to Zion must lay all things before the bishop in Zion.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "section-72-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And now, verily I say unto you, that as every elder in this part of the vineyard must give an account of his stewardship unto the bishop in this part of the vineyard—",
+      "churchId": "p16"
+    },
+    {
+      "slug": "section-72-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "A certificate from the judge or bishop in this part of the vineyard, unto the bishop in Zion, rendereth every man acceptable, and answereth all things, for an inheritance, and to be received as a wise steward and as a faithful laborer;",
+      "churchId": "p17"
+    },
+    {
+      "slug": "section-72-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Otherwise he shall not be accepted of the bishop of Zion.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "section-72-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And now, verily I say unto you, let every elder who shall give an account unto the bishop of the church in this part of the vineyard be recommended by the church or churches, in which he labors, that he may render himself and his accounts approved in all things.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "section-72-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And again, let my servants who are appointed as stewards over the literary concerns of my church have claim for assistance upon the bishop or bishops in all things—",
+      "churchId": "p20"
+    },
+    {
+      "slug": "section-72-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "That the revelations may be published, and go forth unto the ends of the earth; that they also may obtain funds which shall benefit the church in all things;",
+      "churchId": "p21"
+    },
+    {
+      "slug": "section-72-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "That they also may render themselves approved in all things, and be accounted as wise stewards.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "section-72-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And now, behold, this shall be an ensample for all the extensive branches of my church, in whatsoever land they shall be established. And now I make an end of my sayings. Amen.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "section-72-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "A few words in addition to the laws of the kingdom, respecting the members of the church—they that are appointed by the Holy Spirit to go up unto Zion, and they who are privileged to go up unto Zion—",
+      "churchId": "p24"
+    },
+    {
+      "slug": "section-72-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Let them carry up unto the bishop a certificate from three elders of the church, or a certificate from the bishop;",
+      "churchId": "p25"
+    },
+    {
+      "slug": "section-72-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "Otherwise he who shall go up unto the land of Zion shall not be accounted as a wise steward. This is also an ensample. Amen.",
+      "churchId": "p26"
+    }
+  ]
+}

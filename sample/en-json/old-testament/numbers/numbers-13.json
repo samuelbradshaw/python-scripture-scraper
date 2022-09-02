@@ -1,0 +1,246 @@
+{
+  "name": "Numbers 13",
+  "abbrev": "Num. 13",
+  "number": "13",
+  "churchUri": "/scriptures/ot/num/13",
+  "paragraphs": [
+    {
+      "slug": "numbers-13-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 13",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "numbers-13-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And the <span class=\"small-caps\">Lord</span> spake unto Moses, saying,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "numbers-13-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Send thou men, that they may search the land of Canaan, which I give unto the children of Israel: of every tribe of their fathers shall ye send a man, every one a ruler among them.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "numbers-13-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And Moses by the commandment of the <span class=\"small-caps\">Lord</span> sent them from the wilderness of Paran: all those men <span class=\"clarity-word\">were</span> heads of the children of Israel.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "numbers-13-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And these <span class=\"clarity-word\">were</span> their names: of the tribe of Reuben, Shammua the son of Zaccur.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "numbers-13-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Of the tribe of Simeon, Shaphat the son of Hori.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "numbers-13-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Of the tribe of Judah, Caleb the son of Jephunneh.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "numbers-13-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Of the tribe of Issachar, Igal the son of Joseph.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "numbers-13-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Of the tribe of Ephraim, Oshea the son of Nun.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "numbers-13-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Of the tribe of Benjamin, Palti the son of Raphu.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "numbers-13-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Of the tribe of Zebulun, Gaddiel the son of Sodi.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "numbers-13-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Of the tribe of Joseph, <span class=\"clarity-word\">namely,</span> of the tribe of Manasseh, Gaddi the son of Susi.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "numbers-13-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Of the tribe of Dan, Ammiel the son of Gemalli.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "numbers-13-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Of the tribe of Asher, Sethur the son of Michael.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "numbers-13-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Of the tribe of Naphtali, Nahbi the son of Vophsi.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "numbers-13-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Of the tribe of Gad, Geuel the son of Machi.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "numbers-13-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "These <span class=\"clarity-word\">are</span> the names of the men which Moses sent to spy out the land. And Moses called Oshea the son of Nun Jehoshua.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "numbers-13-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "¶ And Moses sent them to spy out the land of Canaan, and said unto them, Get you up this <span class=\"clarity-word\">way</span> southward, and go up into the mountain:",
+      "churchId": "p17"
+    },
+    {
+      "slug": "numbers-13-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And see the land, what it <span class=\"clarity-word\">is;</span> and the people that dwelleth therein, whether they <span class=\"clarity-word\">be</span> strong or weak, few or many;",
+      "churchId": "p18"
+    },
+    {
+      "slug": "numbers-13-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And what the land <span class=\"clarity-word\">is</span> that they dwell in, whether it <span class=\"clarity-word\">be</span> good or bad; and what cities <span class=\"clarity-word\">they be</span> that they dwell in, whether in tents, or in strong holds;",
+      "churchId": "p19"
+    },
+    {
+      "slug": "numbers-13-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And what the land <span class=\"clarity-word\">is,</span> whether it <span class=\"clarity-word\">be</span> fat or lean, whether there be wood therein, or not. And be ye of good courage, and bring of the fruit of the land. Now the time <span class=\"clarity-word\">was</span> the time of the firstripe grapes.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "numbers-13-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "¶ So they went up, and searched the land from the wilderness of Zin unto Rehob, as men come to Hamath.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "numbers-13-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And they ascended by the south, and came unto Hebron; where Ahiman, Sheshai, and Talmai, the children of Anak, <span class=\"clarity-word\">were.</span> (Now Hebron was built seven years before Zoan in Egypt.)",
+      "churchId": "p22"
+    },
+    {
+      "slug": "numbers-13-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And they came unto the brook of Eshcol, and cut down from thence a branch with one cluster of grapes, and they bare it between two upon a staff; and <span class=\"clarity-word\">they brought</span> of the pomegranates, and of the figs.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "numbers-13-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "The place was called the brook Eshcol, because of the cluster of grapes which the children of Israel cut down from thence.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "numbers-13-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And they returned from searching of the land after forty days.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "numbers-13-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "¶ And they went and came to Moses, and to Aaron, and to all the congregation of the children of Israel, unto the wilderness of Paran, to Kadesh; and brought back word unto them, and unto all the congregation, and shewed them the fruit of the land.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "numbers-13-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And they told him, and said, We came unto the land whither thou sentest us, and surely it floweth with milk and honey; and this <span class=\"clarity-word\">is</span> the fruit of it.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "numbers-13-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "Nevertheless the people <span class=\"clarity-word\">be</span> strong that dwell in the land, and the cities <span class=\"clarity-word\">are</span> walled, <span class=\"clarity-word\">and</span> very great: and moreover we saw the children of Anak there.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "numbers-13-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "The Amalekites dwell in the land of the south: and the Hittites, and the Jebusites, and the Amorites, dwell in the mountains: and the Canaanites dwell by the sea, and by the coast of Jordan.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "numbers-13-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And Caleb stilled the people before Moses, and said, Let us go up at once, and possess it; for we are well able to overcome it.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "numbers-13-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "But the men that went up with him said, We be not able to go up against the people; for they <span class=\"clarity-word\">are</span> stronger than we.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "numbers-13-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "And they brought up an evil report of the land which they had searched unto the children of Israel, saying, The land, through which we have gone to search it, <span class=\"clarity-word\">is</span> a land that eateth up the inhabitants thereof; and all the people that we saw in it <span class=\"clarity-word\">are</span> men of a great stature.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "numbers-13-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "And there we saw the giants, the sons of Anak, <span class=\"clarity-word\">which come</span> of the giants: and we were in our own sight as grasshoppers, and so we were in their sight.",
+      "churchId": "p33"
+    }
+  ]
+}

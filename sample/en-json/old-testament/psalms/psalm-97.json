@@ -1,0 +1,99 @@
+{
+  "name": "Psalm 97",
+  "abbrev": "Psalm 97",
+  "number": "97",
+  "churchUri": "/scriptures/ot/ps/97",
+  "paragraphs": [
+    {
+      "slug": "psalm-97-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 97",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-97-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "The <span class=\"small-caps\">Lord</span> reigneth; let the earth rejoice; let the multitude of isles be glad <span class=\"clarity-word\">thereof.</span>",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-97-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Clouds and darkness <span class=\"clarity-word\">are</span> round about him: righteousness and judgment <span class=\"clarity-word\">are</span> the habitation of his throne.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-97-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "A fire goeth before him, and burneth up his enemies round about.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-97-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "His lightnings enlightened the world: the earth saw, and trembled.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-97-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "The hills melted like wax at the presence of the <span class=\"small-caps\">Lord</span>, at the presence of the Lord of the whole earth.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-97-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "The heavens declare his righteousness, and all the people see his glory.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-97-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Confounded be all they that serve graven images, that boast themselves of idols: worship him, all <span class=\"clarity-word\">ye</span> gods.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-97-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Zion heard, and was glad; and the daughters of Judah rejoiced because of thy judgments, O <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "psalm-97-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "For thou, <span class=\"small-caps\">Lord</span>, <span class=\"clarity-word\">art</span> high above all the earth: thou art exalted far above all gods.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "psalm-97-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Ye that love the <span class=\"small-caps\">Lord</span>, hate evil: he preserveth the souls of his saints; he delivereth them out of the hand of the wicked.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "psalm-97-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Light is sown for the righteous, and gladness for the upright in heart.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "psalm-97-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Rejoice in the <span class=\"small-caps\">Lord</span>, ye righteous; and give thanks at the remembrance of his holiness.",
+      "churchId": "p12"
+    }
+  ]
+}

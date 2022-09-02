@@ -1,0 +1,204 @@
+{
+  "name": "Acts 25",
+  "abbrev": "Acts 25",
+  "number": "25",
+  "churchUri": "/scriptures/nt/acts/25",
+  "paragraphs": [
+    {
+      "slug": "acts-25-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 25",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "acts-25-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Now when Festus was come into the province, after three days he ascended from Cæsarea to Jerusalem.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "acts-25-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Then the high priest and the chief of the Jews informed him against Paul, and besought him,",
+      "churchId": "p2"
+    },
+    {
+      "slug": "acts-25-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And desired favour against him, that he would send for him to Jerusalem, laying wait in the way to kill him.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "acts-25-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "But Festus answered, that Paul should be kept at Cæsarea, and that he himself would depart shortly <span class=\"clarity-word\">thither.</span>",
+      "churchId": "p4"
+    },
+    {
+      "slug": "acts-25-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Let them therefore, said he, which among you are able, go down with <span class=\"clarity-word\">me,</span> and accuse this man, if there be any wickedness in him.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "acts-25-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And when he had tarried among them more than ten days, he went down unto Cæsarea; and the next day sitting on the judgment seat commanded Paul to be brought.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "acts-25-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And when he was come, the Jews which came down from Jerusalem stood round about, and laid many and grievous complaints against Paul, which they could not prove.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "acts-25-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "While he answered for himself, Neither against the law of the Jews, neither against the temple, nor yet against Cæsar, have I offended any thing at all.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "acts-25-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "But Festus, willing to do the Jews a pleasure, answered Paul, and said, Wilt thou go up to Jerusalem, and there be judged of these things before me?",
+      "churchId": "p9"
+    },
+    {
+      "slug": "acts-25-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Then said Paul, I stand at Cæsar’s judgment seat, where I ought to be judged: to the Jews have I done no wrong, as thou very well knowest.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "acts-25-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "For if I be an offender, or have committed any thing worthy of death, I refuse not to die: but if there be none of these things whereof these accuse me, no man may deliver me unto them. I appeal unto Cæsar.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "acts-25-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Then Festus, when he had conferred with the council, answered, Hast thou appealed unto Cæsar? unto Cæsar shalt thou go.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "acts-25-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And after certain days king Agrippa and Bernice came unto Cæsarea to salute Festus.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "acts-25-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And when they had been there many days, Festus declared Paul’s cause unto the king, saying, There is a certain man left in bonds by Felix:",
+      "churchId": "p14"
+    },
+    {
+      "slug": "acts-25-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "About whom, when I was at Jerusalem, the chief priests and the elders of the Jews informed <span class=\"clarity-word\">me,</span> desiring <span class=\"clarity-word\">to have</span> judgment against him.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "acts-25-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "To whom I answered, It is not the manner of the Romans to deliver any man to die, before that he which is accused have the accusers face to face, and have licence to answer for himself concerning the crime laid against him.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "acts-25-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Therefore, when they were come hither, without any delay on the morrow I sat on the judgment seat, and commanded the man to be brought forth.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "acts-25-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Against whom when the accusers stood up, they brought none accusation of such things as I supposed:",
+      "churchId": "p18"
+    },
+    {
+      "slug": "acts-25-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "But had certain questions against him of their own superstition, and of one Jesus, which was dead, whom Paul affirmed to be alive.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "acts-25-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And because I doubted of such manner of questions, I asked <span class=\"clarity-word\">him</span> whether he would go to Jerusalem, and there be judged of these matters.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "acts-25-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "But when Paul had appealed to be reserved unto the hearing of Augustus, I commanded him to be kept till I might send him to Cæsar.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "acts-25-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Then Agrippa said unto Festus, I would also hear the man myself. To morrow, said he, thou shalt hear him.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "acts-25-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And on the morrow, when Agrippa was come, and Bernice, with great pomp, and was entered into the place of hearing, with the chief captains, and principal men of the city, at Festus’ commandment Paul was brought forth.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "acts-25-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And Festus said, King Agrippa, and all men which are here present with us, ye see this man, about whom all the multitude of the Jews have dealt with me, both at Jerusalem, and <span class=\"clarity-word\">also</span> here, crying that he ought not to live any longer.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "acts-25-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "But when I found that he had committed nothing worthy of death, and that he himself hath appealed to Augustus, I have determined to send him.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "acts-25-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "Of whom I have no certain thing to write unto my lord. Wherefore I have brought him forth before you, and specially before thee, O king Agrippa, that, after examination had, I might have somewhat to write.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "acts-25-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "For it seemeth to me unreasonable to send a prisoner, and not withal to signify the crimes <span class=\"clarity-word\">laid</span> against him.",
+      "churchId": "p27"
+    }
+  ]
+}

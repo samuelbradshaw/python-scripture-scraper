@@ -1,0 +1,274 @@
+{
+  "name": "Psalm 69",
+  "abbrev": "Psalm 69",
+  "number": "69",
+  "churchUri": "/scriptures/ot/ps/69",
+  "paragraphs": [
+    {
+      "slug": "psalm-69-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 69",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-69-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "To the chief Musician upon Shoshannim, <span class=\"clarity-word\">A Psalm</span> of David.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-69-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Save me, O God; for the waters are come in unto <span class=\"clarity-word\">my</span> soul.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-69-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "I sink in deep mire, where <span class=\"clarity-word\">there is</span> no standing: I am come into deep waters, where the floods overflow me.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-69-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "I am weary of my crying: my throat is dried: mine eyes fail while I wait for my God.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-69-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "They that hate me without a cause are more than the hairs of mine head: they that would destroy me, <span class=\"clarity-word\">being</span> mine enemies wrongfully, are mighty: then I restored <span class=\"clarity-word\">that</span> which I took not away.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-69-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "O God, thou knowest my foolishness; and my sins are not hid from thee.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-69-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Let not them that wait on thee, O Lord <span class=\"small-caps\">God</span> of hosts, be ashamed for my sake: let not those that seek thee be confounded for my sake, O God of Israel.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-69-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Because for thy sake I have borne reproach; shame hath covered my face.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-69-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "I am become a stranger unto my brethren, and an alien unto my mother’s children.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "psalm-69-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "For the zeal of thine house hath eaten me up; and the reproaches of them that reproached thee are fallen upon me.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "psalm-69-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "When I wept, <span class=\"clarity-word\">and chastened</span> my soul with fasting, that was to my reproach.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "psalm-69-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "I made sackcloth also my garment; and I became a proverb to them.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "psalm-69-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "They that sit in the gate speak against me; and I <span class=\"clarity-word\">was</span> the song of the drunkards.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "psalm-69-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "But as for me, my prayer <span class=\"clarity-word\">is</span> unto thee, O <span class=\"small-caps\">Lord</span>, <span class=\"clarity-word\">in</span> an acceptable time: O God, in the multitude of thy mercy hear me, in the truth of thy salvation.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "psalm-69-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Deliver me out of the mire, and let me not sink: let me be delivered from them that hate me, and out of the deep waters.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "psalm-69-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Let not the waterflood overflow me, neither let the deep swallow me up, and let not the pit shut her mouth upon me.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "psalm-69-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Hear me, O <span class=\"small-caps\">Lord</span>; for thy lovingkindness <span class=\"clarity-word\">is</span> good: turn unto me according to the multitude of thy tender mercies.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "psalm-69-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And hide not thy face from thy servant; for I am in trouble: hear me speedily.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "psalm-69-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Draw nigh unto my soul, <span class=\"clarity-word\">and</span> redeem it: deliver me because of mine enemies.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "psalm-69-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Thou hast known my reproach, and my shame, and my dishonour: mine adversaries <span class=\"clarity-word\">are</span> all before thee.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "psalm-69-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Reproach hath broken my heart; and I am full of heaviness: and I looked <span class=\"clarity-word\">for some</span> to take pity, but <span class=\"clarity-word\">there was</span> none; and for comforters, but I found none.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "psalm-69-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "They gave me also gall for my meat; and in my thirst they gave me vinegar to drink.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "psalm-69-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Let their table become a snare before them: and <span class=\"clarity-word\">that which should have been</span> for <span class=\"clarity-word\">their</span> welfare, <span class=\"clarity-word\">let it become</span> a trap.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "psalm-69-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Let their eyes be darkened, that they see not; and make their loins continually to shake.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "psalm-69-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Pour out thine indignation upon them, and let thy wrathful anger take hold of them.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "psalm-69-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Let their habitation be desolate; <span class=\"clarity-word\">and</span> let none dwell in their tents.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "psalm-69-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "For they persecute <span class=\"clarity-word\">him</span> whom thou hast smitten; and they talk to the grief of those whom thou hast wounded.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "psalm-69-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "Add iniquity unto their iniquity: and let them not come into thy righteousness.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "psalm-69-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "Let them be blotted out of the book of the living, and not be written with the righteous.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "psalm-69-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "But I <span class=\"clarity-word\">am</span> poor and sorrowful: let thy salvation, O God, set me up on high.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "psalm-69-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "I will praise the name of God with a song, and will magnify him with thanksgiving.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "psalm-69-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "<span class=\"clarity-word\">This</span> also shall please the <span class=\"small-caps\">Lord</span> better than an ox <span class=\"clarity-word\">or</span> bullock that hath horns and hoofs.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "psalm-69-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "The humble shall see <span class=\"clarity-word\">this, and</span> be glad: and your heart shall live that seek God.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "psalm-69-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "For the <span class=\"small-caps\">Lord</span> heareth the poor, and despiseth not his prisoners.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "psalm-69-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "Let the heaven and earth praise him, the seas, and every thing that moveth therein.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "psalm-69-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "For God will save Zion, and will build the cities of Judah: that they may dwell there, and have it in possession.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "psalm-69-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "The seed also of his servants shall inherit it: and they that love his name shall dwell therein.",
+      "churchId": "p36"
+    }
+  ]
+}

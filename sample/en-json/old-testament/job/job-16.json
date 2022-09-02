@@ -1,0 +1,169 @@
+{
+  "name": "Job 16",
+  "abbrev": "Job 16",
+  "number": "16",
+  "churchUri": "/scriptures/ot/job/16",
+  "paragraphs": [
+    {
+      "slug": "job-16-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 16",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "job-16-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Then Job answered and said,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "job-16-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "I have heard many such things: miserable comforters <span class=\"clarity-word\">are</span> ye all.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "job-16-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Shall vain words have an end? or what emboldeneth thee that thou answerest?",
+      "churchId": "p3"
+    },
+    {
+      "slug": "job-16-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "I also could speak as ye <span class=\"clarity-word\">do:</span> if your soul were in my soul’s stead, I could heap up words against you, and shake mine head at you.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "job-16-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "<span class=\"clarity-word\">But</span> I would strengthen you with my mouth, and the moving of my lips should assuage <span class=\"clarity-word\">your grief.</span>",
+      "churchId": "p5"
+    },
+    {
+      "slug": "job-16-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Though I speak, my grief is not assuaged: and <span class=\"clarity-word\">though</span> I forbear, what am I eased?",
+      "churchId": "p6"
+    },
+    {
+      "slug": "job-16-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "But now he hath made me weary: thou hast made desolate all my company.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "job-16-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And thou hast filled me with wrinkles, <span class=\"clarity-word\">which</span> is a witness <span class=\"clarity-word\">against me:</span> and my leanness rising up in me beareth witness to my face.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "job-16-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "He teareth <span class=\"clarity-word\">me</span> in his wrath, who hateth me: he gnasheth upon me with his teeth; mine enemy sharpeneth his eyes upon me.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "job-16-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "They have gaped upon me with their mouth; they have smitten me upon the cheek reproachfully; they have gathered themselves together against me.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "job-16-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "God hath delivered me to the ungodly, and turned me over into the hands of the wicked.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "job-16-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "I was at ease, but he hath broken me asunder: he hath also taken <span class=\"clarity-word\">me</span> by my neck, and shaken me to pieces, and set me up for his mark.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "job-16-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "His archers compass me round about, he cleaveth my reins asunder, and doth not spare; he poureth out my gall upon the ground.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "job-16-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "He breaketh me with breach upon breach, he runneth upon me like a giant.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "job-16-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "I have sewed sackcloth upon my skin, and defiled my horn in the dust.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "job-16-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "My face is foul with weeping, and on my eyelids <span class=\"clarity-word\">is</span> the shadow of death;",
+      "churchId": "p16"
+    },
+    {
+      "slug": "job-16-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Not for <span class=\"clarity-word\">any</span> injustice in mine hands: also my prayer <span class=\"clarity-word\">is</span> pure.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "job-16-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "O earth, cover not thou my blood, and let my cry have no place.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "job-16-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Also now, behold, my witness <span class=\"clarity-word\">is</span> in heaven, and my record <span class=\"clarity-word\">is</span> on high.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "job-16-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "My friends scorn me: <span class=\"clarity-word\">but</span> mine eye poureth out <span class=\"clarity-word\">tears</span> unto God.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "job-16-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "O that one might plead for a man with God, as a man <span class=\"clarity-word\">pleadeth</span> for his neighbour!",
+      "churchId": "p21"
+    },
+    {
+      "slug": "job-16-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "When a few years are come, then I shall go the way <span class=\"clarity-word\">whence</span> I shall not return.",
+      "churchId": "p22"
+    }
+  ]
+}

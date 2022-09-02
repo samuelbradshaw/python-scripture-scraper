@@ -1,0 +1,211 @@
+{
+  "name": "Acts 14",
+  "abbrev": "Acts 14",
+  "number": "14",
+  "churchUri": "/scriptures/nt/acts/14",
+  "paragraphs": [
+    {
+      "slug": "acts-14-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 14",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "acts-14-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And it came to pass in Iconium, that they went both together into the synagogue of the Jews, and so spake, that a great multitude both of the Jews and also of the Greeks believed.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "acts-14-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "But the unbelieving Jews stirred up the Gentiles, and made their minds evil affected against the brethren.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "acts-14-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Long time therefore abode they speaking boldly in the Lord, which gave testimony unto the word of his grace, and granted signs and wonders to be done by their hands.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "acts-14-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "But the multitude of the city was divided: and part held with the Jews, and part with the apostles.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "acts-14-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And when there was an assault made both of the Gentiles, and also of the Jews with their rulers, to use <span class=\"clarity-word\">them</span> despitefully, and to stone them,",
+      "churchId": "p5"
+    },
+    {
+      "slug": "acts-14-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "They were ware of <span class=\"clarity-word\">it,</span> and fled unto Lystra and Derbe, cities of Lycaonia, and unto the region that lieth round about:",
+      "churchId": "p6"
+    },
+    {
+      "slug": "acts-14-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And there they preached the gospel.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "acts-14-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "¶ And there sat a certain man at Lystra, impotent in his feet, being a cripple from his mother’s womb, who never had walked:",
+      "churchId": "p8"
+    },
+    {
+      "slug": "acts-14-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "The same heard Paul speak: who steadfastly beholding him, and perceiving that he had faith to be healed,",
+      "churchId": "p9"
+    },
+    {
+      "slug": "acts-14-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Said with a loud voice, Stand upright on thy feet. And he leaped and walked.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "acts-14-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And when the people saw what Paul had done, they lifted up their voices, saying in the speech of Lycaonia, The gods are come down to us in the likeness of men.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "acts-14-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And they called Barnabas, Jupiter; and Paul, Mercurius, because he was the chief speaker.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "acts-14-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Then the priest of Jupiter, which was before their city, brought oxen and garlands unto the gates, and would have done sacrifice with the people.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "acts-14-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "<span class=\"clarity-word\">Which</span> when the apostles, Barnabas and Paul, heard <span class=\"clarity-word\">of,</span> they rent their clothes, and ran in among the people, crying out,",
+      "churchId": "p14"
+    },
+    {
+      "slug": "acts-14-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And saying, Sirs, why do ye these things? We also are men of like passions with you, and preach unto you that ye should turn from these vanities unto the living God, which made heaven, and earth, and the sea, and all things that are therein:",
+      "churchId": "p15"
+    },
+    {
+      "slug": "acts-14-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Who in times past suffered all nations to walk in their own ways.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "acts-14-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Nevertheless he left not himself without witness, in that he did good, and gave us rain from heaven, and fruitful seasons, filling our hearts with food and gladness.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "acts-14-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And with these sayings scarce restrained they the people, that they had not done sacrifice unto them.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "acts-14-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "¶ And there came thither <span class=\"clarity-word\">certain</span> Jews from Antioch and Iconium, who persuaded the people, and, having stoned Paul, drew <span class=\"clarity-word\">him</span> out of the city, supposing he had been dead.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "acts-14-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Howbeit, as the disciples stood round about him, he rose up, and came into the city: and the next day he departed with Barnabas to Derbe.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "acts-14-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And when they had preached the gospel to that city, and had taught many, they returned again to Lystra, and <span class=\"clarity-word\">to</span> Iconium, and Antioch,",
+      "churchId": "p21"
+    },
+    {
+      "slug": "acts-14-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Confirming the souls of the disciples, <span class=\"clarity-word\">and</span> exhorting them to continue in the faith, and that we must through much tribulation enter into the kingdom of God.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "acts-14-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And when they had ordained them elders in every church, and had prayed with fasting, they commended them to the Lord, on whom they believed.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "acts-14-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And after they had passed throughout Pisidia, they came to Pamphylia.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "acts-14-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And when they had preached the word in Perga, they went down into Attalia:",
+      "churchId": "p25"
+    },
+    {
+      "slug": "acts-14-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And thence sailed to Antioch, from whence they had been recommended to the grace of God for the work which they fulfilled.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "acts-14-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And when they were come, and had gathered the church together, they rehearsed all that God had done with them, and how he had opened the door of faith unto the Gentiles.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "acts-14-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And there they abode long time with the disciples.",
+      "churchId": "p28"
+    }
+  ]
+}

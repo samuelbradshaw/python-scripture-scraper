@@ -1,0 +1,190 @@
+{
+  "name": "Job 12",
+  "abbrev": "Job 12",
+  "number": "12",
+  "churchUri": "/scriptures/ot/job/12",
+  "paragraphs": [
+    {
+      "slug": "job-12-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 12",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "job-12-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And Job answered and said,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "job-12-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "No doubt but ye <span class=\"clarity-word\">are</span> the people, and wisdom shall die with you.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "job-12-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "But I have understanding as well as you; I <span class=\"clarity-word\">am</span> not inferior to you: yea, who knoweth not such things as these?",
+      "churchId": "p3"
+    },
+    {
+      "slug": "job-12-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "I am <span class=\"clarity-word\">as</span> one mocked of his neighbour, who calleth upon God, and he answereth him: the just upright <span class=\"clarity-word\">man is</span> laughed to scorn.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "job-12-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "He that is ready to slip with <span class=\"clarity-word\">his</span> feet <span class=\"clarity-word\">is as</span> a lamp despised in the thought of him that is at ease.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "job-12-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "The tabernacles of robbers prosper, and they that provoke God are secure; into whose hand God bringeth <span class=\"clarity-word\">abundantly.</span>",
+      "churchId": "p6"
+    },
+    {
+      "slug": "job-12-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "But ask now the beasts, and they shall teach thee; and the fowls of the air, and they shall tell thee:",
+      "churchId": "p7"
+    },
+    {
+      "slug": "job-12-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Or speak to the earth, and it shall teach thee: and the fishes of the sea shall declare unto thee.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "job-12-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Who knoweth not in all these that the hand of the <span class=\"small-caps\">Lord</span> hath wrought this?",
+      "churchId": "p9"
+    },
+    {
+      "slug": "job-12-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "In whose hand <span class=\"clarity-word\">is</span> the soul of every living thing, and the breath of all mankind.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "job-12-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Doth not the ear try words? and the mouth taste his meat?",
+      "churchId": "p11"
+    },
+    {
+      "slug": "job-12-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "With the ancient <span class=\"clarity-word\">is</span> wisdom; and in length of days understanding.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "job-12-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "With him <span class=\"clarity-word\">is</span> wisdom and strength, he hath counsel and understanding.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "job-12-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Behold, he breaketh down, and it cannot be built again: he shutteth up a man, and there can be no opening.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "job-12-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Behold, he withholdeth the waters, and they dry up: also he sendeth them out, and they overturn the earth.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "job-12-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "With him <span class=\"clarity-word\">is</span> strength and wisdom: the deceived and the deceiver <span class=\"clarity-word\">are</span> his.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "job-12-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "He leadeth counsellors away spoiled, and maketh the judges fools.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "job-12-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "He looseth the bond of kings, and girdeth their loins with a girdle.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "job-12-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "He leadeth princes away spoiled, and overthroweth the mighty.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "job-12-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "He removeth away the speech of the trusty, and taketh away the understanding of the aged.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "job-12-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "He poureth contempt upon princes, and weakeneth the strength of the mighty.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "job-12-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "He discovereth deep things out of darkness, and bringeth out to light the shadow of death.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "job-12-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "He increaseth the nations, and destroyeth them: he enlargeth the nations, and straiteneth them <span class=\"clarity-word\">again.</span>",
+      "churchId": "p23"
+    },
+    {
+      "slug": "job-12-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "He taketh away the heart of the chief of the people of the earth, and causeth them to wander in a wilderness <span class=\"clarity-word\">where there is</span> no way.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "job-12-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "They grope in the dark without light, and he maketh them to stagger like <span class=\"clarity-word\">a</span> drunken <span class=\"clarity-word\">man.</span>",
+      "churchId": "p25"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "name": "Jeremiah 39",
+  "abbrev": "Jer. 39",
+  "number": "39",
+  "churchUri": "/scriptures/ot/jer/39",
+  "paragraphs": [
+    {
+      "slug": "jeremiah-39-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 39",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "jeremiah-39-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "In the ninth year of Zedekiah king of Judah, in the tenth month, came Nebuchadrezzar king of Babylon and all his army against Jerusalem, and they besieged it.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "jeremiah-39-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "<span class=\"clarity-word\">And</span> in the eleventh year of Zedekiah, in the fourth month, the ninth <span class=\"clarity-word\">day</span> of the month, the city was broken up.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "jeremiah-39-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And all the princes of the king of Babylon came in, and sat in the middle gate, <span class=\"clarity-word\">even</span> Nergal-sharezer, Samgar-nebo, Sarsechim, Rab-saris, Nergal-sharezer, Rab-mag, with all the residue of the princes of the king of Babylon.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "jeremiah-39-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "¶ And it came to pass, <span class=\"clarity-word\">that</span> when Zedekiah the king of Judah saw them, and all the men of war, then they fled, and went forth out of the city by night, by the way of the king’s garden, by the gate betwixt the two walls: and he went out the way of the plain.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "jeremiah-39-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "But the Chaldeans’ army pursued after them, and overtook Zedekiah in the plains of Jericho: and when they had taken him, they brought him up to Nebuchadnezzar king of Babylon to Riblah in the land of Hamath, where he gave judgment upon him.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "jeremiah-39-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Then the king of Babylon slew the sons of Zedekiah in Riblah before his eyes: also the king of Babylon slew all the nobles of Judah.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "jeremiah-39-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Moreover he put out Zedekiah’s eyes, and bound him with chains, to carry him to Babylon.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "jeremiah-39-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "¶ And the Chaldeans burned the king’s house, and the houses of the people, with fire, and brake down the walls of Jerusalem.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "jeremiah-39-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Then Nebuzar-adan the captain of the guard carried away captive into Babylon the remnant of the people that remained in the city, and those that fell away, that fell to him, with the rest of the people that remained.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "jeremiah-39-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "But Nebuzar-adan the captain of the guard left of the poor of the people, which had nothing, in the land of Judah, and gave them vineyards and fields at the same time.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "jeremiah-39-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "¶ Now Nebuchadrezzar king of Babylon gave charge concerning Jeremiah to Nebuzar-adan the captain of the guard, saying,",
+      "churchId": "p11"
+    },
+    {
+      "slug": "jeremiah-39-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Take him, and look well to him, and do him no harm; but do unto him even as he shall say unto thee.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "jeremiah-39-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "So Nebuzar-adan the captain of the guard sent, and Nebushasban, Rab-saris, and Nergal-sharezer, Rab-mag, and all the king of Babylon’s princes;",
+      "churchId": "p13"
+    },
+    {
+      "slug": "jeremiah-39-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Even they sent, and took Jeremiah out of the court of the prison, and committed him unto Gedaliah the son of Ahikam the son of Shaphan, that he should carry him home: so he dwelt among the people.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "jeremiah-39-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "¶ Now the word of the <span class=\"small-caps\">Lord</span> came unto Jeremiah, while he was shut up in the court of the prison, saying,",
+      "churchId": "p15"
+    },
+    {
+      "slug": "jeremiah-39-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Go and speak to Ebed-melech the Ethiopian, saying, Thus saith the <span class=\"small-caps\">Lord</span> of hosts, the God of Israel; Behold, I will bring my words upon this city for evil, and not for good; and they shall be <span class=\"clarity-word\">accomplished</span> in that day before thee.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "jeremiah-39-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "But I will deliver thee in that day, saith the <span class=\"small-caps\">Lord</span>: and thou shalt not be given into the hand of the men of whom thou <span class=\"clarity-word\">art</span> afraid.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "jeremiah-39-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "For I will surely deliver thee, and thou shalt not fall by the sword, but thy life shall be for a prey unto thee: because thou hast put thy trust in me, saith the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p18"
+    }
+  ]
+}

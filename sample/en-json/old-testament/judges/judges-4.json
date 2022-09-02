@@ -1,0 +1,183 @@
+{
+  "name": "Judges 4",
+  "abbrev": "Judg. 4",
+  "number": "4",
+  "churchUri": "/scriptures/ot/judg/4",
+  "paragraphs": [
+    {
+      "slug": "judges-4-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 4",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "judges-4-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And the children of Israel again did evil in the sight of the <span class=\"small-caps\">Lord</span>, when Ehud was dead.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "judges-4-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And the <span class=\"small-caps\">Lord</span> sold them into the hand of Jabin king of Canaan, that reigned in Hazor; the captain of whose host <span class=\"clarity-word\">was</span> Sisera, which dwelt in Harosheth of the Gentiles.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "judges-4-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And the children of Israel cried unto the <span class=\"small-caps\">Lord</span>: for he had nine hundred chariots of iron; and twenty years he mightily oppressed the children of Israel.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "judges-4-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "¶ And Deborah, a prophetess, the wife of Lapidoth, she judged Israel at that time.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "judges-4-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And she dwelt under the palm tree of Deborah between Ramah and Beth-el in mount Ephraim: and the children of Israel came up to her for judgment.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "judges-4-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And she sent and called Barak the son of Abinoam out of Kedesh-naphtali, and said unto him, Hath not the <span class=\"small-caps\">Lord</span> God of Israel commanded, <span class=\"clarity-word\">saying,</span> Go and draw toward mount Tabor, and take with thee ten thousand men of the children of Naphtali and of the children of Zebulun?",
+      "churchId": "p6"
+    },
+    {
+      "slug": "judges-4-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And I will draw unto thee to the river Kishon Sisera, the captain of Jabin’s army, with his chariots and his multitude; and I will deliver him into thine hand.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "judges-4-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And Barak said unto her, If thou wilt go with me, then I will go: but if thou wilt not go with me, <span class=\"clarity-word\">then</span> I will not go.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "judges-4-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And she said, I will surely go with thee: notwithstanding the journey that thou takest shall not be for thine honour; for the <span class=\"small-caps\">Lord</span> shall sell Sisera into the hand of a woman. And Deborah arose, and went with Barak to Kedesh.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "judges-4-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "¶ And Barak called Zebulun and Naphtali to Kedesh; and he went up with ten thousand men at his feet: and Deborah went up with him.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "judges-4-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Now Heber the Kenite, <span class=\"clarity-word\">which was</span> of the children of Hobab the father in law of Moses, had severed himself from the Kenites, and pitched his tent unto the plain of Zaanaim, which <span class=\"clarity-word\">is</span> by Kedesh.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "judges-4-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And they shewed Sisera that Barak the son of Abinoam was gone up to mount Tabor.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "judges-4-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And Sisera gathered together all his chariots, <span class=\"clarity-word\">even</span> nine hundred chariots of iron, and all the people that <span class=\"clarity-word\">were</span> with him, from Harosheth of the Gentiles unto the river of Kishon.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "judges-4-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And Deborah said unto Barak, Up; for this <span class=\"clarity-word\">is</span> the day in which the <span class=\"small-caps\">Lord</span> hath delivered Sisera into thine hand: is not the <span class=\"small-caps\">Lord</span> gone out before thee? So Barak went down from mount Tabor, and ten thousand men after him.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "judges-4-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And the <span class=\"small-caps\">Lord</span> discomfited Sisera, and all <span class=\"clarity-word\">his</span> chariots, and all <span class=\"clarity-word\">his</span> host, with the edge of the sword before Barak; so that Sisera lighted down off <span class=\"clarity-word\">his</span> chariot, and fled away on his feet.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "judges-4-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "But Barak pursued after the chariots, and after the host, unto Harosheth of the Gentiles: and all the host of Sisera fell upon the edge of the sword; <span class=\"clarity-word\">and</span> there was not a man left.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "judges-4-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Howbeit Sisera fled away on his feet to the tent of Jael the wife of Heber the Kenite: for <span class=\"clarity-word\">there was</span> peace between Jabin the king of Hazor and the house of Heber the Kenite.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "judges-4-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "¶ And Jael went out to meet Sisera, and said unto him, Turn in, my lord, turn in to me; fear not. And when he had turned in unto her into the tent, she covered him with a mantle.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "judges-4-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And he said unto her, Give me, I pray thee, a little water to drink; for I am thirsty. And she opened a bottle of milk, and gave him drink, and covered him.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "judges-4-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Again he said unto her, Stand in the door of the tent, and it shall be, when any man doth come and inquire of thee, and say, Is there any man here? that thou shalt say, No.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "judges-4-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Then Jael Heber’s wife took a nail of the tent, and took an hammer in her hand, and went softly unto him, and smote the nail into his temples, and fastened it into the ground: for he was fast asleep and weary. So he died.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "judges-4-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And, behold, as Barak pursued Sisera, Jael came out to meet him, and said unto him, Come, and I will shew thee the man whom thou seekest. And when he came into her <span class=\"clarity-word\">tent,</span> behold, Sisera lay dead, and the nail <span class=\"clarity-word\">was</span> in his temples.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "judges-4-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "So God subdued on that day Jabin the king of Canaan before the children of Israel.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "judges-4-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And the hand of the children of Israel prospered, and prevailed against Jabin the king of Canaan, until they had destroyed Jabin king of Canaan.",
+      "churchId": "p24"
+    }
+  ]
+}

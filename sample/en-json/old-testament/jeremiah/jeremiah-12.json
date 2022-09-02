@@ -1,0 +1,134 @@
+{
+  "name": "Jeremiah 12",
+  "abbrev": "Jer. 12",
+  "number": "12",
+  "churchUri": "/scriptures/ot/jer/12",
+  "paragraphs": [
+    {
+      "slug": "jeremiah-12-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 12",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "jeremiah-12-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Righteous <span class=\"clarity-word\">art</span> thou, O <span class=\"small-caps\">Lord</span>, when I plead with thee: yet let me talk with thee of <span class=\"clarity-word\">thy</span> judgments: Wherefore doth the way of the wicked prosper? <span class=\"clarity-word\">wherefore</span> are all they happy that deal very treacherously?",
+      "churchId": "p1"
+    },
+    {
+      "slug": "jeremiah-12-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Thou hast planted them, yea, they have taken root: they grow, yea, they bring forth fruit: thou <span class=\"clarity-word\">art</span> near in their mouth, and far from their reins.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "jeremiah-12-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "But thou, O <span class=\"small-caps\">Lord</span>, knowest me: thou hast seen me, and tried mine heart toward thee: pull them out like sheep for the slaughter, and prepare them for the day of slaughter.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "jeremiah-12-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "How long shall the land mourn, and the herbs of every field wither, for the wickedness of them that dwell therein? the beasts are consumed, and the birds; because they said, He shall not see our last end.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "jeremiah-12-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "¶ If thou hast run with the footmen, and they have wearied thee, then how canst thou contend with horses? and <span class=\"clarity-word\">if</span> in the land of peace, <span class=\"clarity-word\">wherein</span> thou trustedst, <span class=\"clarity-word\">they wearied thee,</span> then how wilt thou do in the swelling of Jordan?",
+      "churchId": "p5"
+    },
+    {
+      "slug": "jeremiah-12-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "For even thy brethren, and the house of thy father, even they have dealt treacherously with thee; yea, they have called a multitude after thee: believe them not, though they speak fair words unto thee.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "jeremiah-12-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "¶ I have forsaken mine house, I have left mine heritage; I have given the dearly beloved of my soul into the hand of her enemies.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "jeremiah-12-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Mine heritage is unto me as a lion in the forest; it crieth out against me: therefore have I hated it.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "jeremiah-12-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Mine heritage <span class=\"clarity-word\">is</span> unto me <span class=\"clarity-word\">as</span> a speckled bird, the birds round about <span class=\"clarity-word\">are</span> against her; come ye, assemble all the beasts of the field, come to devour.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "jeremiah-12-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Many pastors have destroyed my vineyard, they have trodden my portion under foot, they have made my pleasant portion a desolate wilderness.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "jeremiah-12-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "They have made it desolate, <span class=\"clarity-word\">and being</span> desolate it mourneth unto me; the whole land is made desolate, because no man layeth <span class=\"clarity-word\">it</span> to heart.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "jeremiah-12-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "The spoilers are come upon all high places through the wilderness: for the sword of the <span class=\"small-caps\">Lord</span> shall devour from the <span class=\"clarity-word\">one</span> end of the land even to the <span class=\"clarity-word\">other</span> end of the land: no flesh shall have peace.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "jeremiah-12-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "They have sown wheat, but shall reap thorns: they have put themselves to pain, <span class=\"clarity-word\">but</span> shall not profit: and they shall be ashamed of your revenues because of the fierce anger of the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "jeremiah-12-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "¶ Thus saith the <span class=\"small-caps\">Lord</span> against all mine evil neighbours, that touch the inheritance which I have caused my people Israel to inherit; Behold, I will pluck them out of their land, and pluck out the house of Judah from among them.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "jeremiah-12-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And it shall come to pass, after that I have plucked them out I will return, and have compassion on them, and will bring them again, every man to his heritage, and every man to his land.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "jeremiah-12-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And it shall come to pass, if they will diligently learn the ways of my people, to swear by my name, The <span class=\"small-caps\">Lord</span> liveth; as they taught my people to swear by Baal; then shall they be built in the midst of my people.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "jeremiah-12-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "But if they will not obey, I will utterly pluck up and destroy that nation, saith the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p17"
+    }
+  ]
+}

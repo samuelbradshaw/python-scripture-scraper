@@ -1,0 +1,190 @@
+{
+  "name": "Colossians 3",
+  "abbrev": "Col. 3",
+  "number": "3",
+  "churchUri": "/scriptures/nt/col/3",
+  "paragraphs": [
+    {
+      "slug": "colossians-3-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 3",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "colossians-3-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "If ye then be risen with Christ, seek those things which are above, where Christ sitteth on the right hand of God.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "colossians-3-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Set your affection on things above, not on things on the earth.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "colossians-3-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "For ye are dead, and your life is hid with Christ in God.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "colossians-3-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "When Christ, <span class=\"clarity-word\">who is</span> our life, shall appear, then shall ye also appear with him in glory.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "colossians-3-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Mortify therefore your members which are upon the earth; fornication, uncleanness, inordinate affection, evil concupiscence, and covetousness, which is idolatry:",
+      "churchId": "p5"
+    },
+    {
+      "slug": "colossians-3-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "For which things’ sake the wrath of God cometh on the children of disobedience:",
+      "churchId": "p6"
+    },
+    {
+      "slug": "colossians-3-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "In the which ye also walked some time, when ye lived in them.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "colossians-3-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "But now ye also put off all these; anger, wrath, malice, blasphemy, filthy communication out of your mouth.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "colossians-3-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Lie not one to another, seeing that ye have put off the old man with his deeds;",
+      "churchId": "p9"
+    },
+    {
+      "slug": "colossians-3-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And have put on the new <span class=\"clarity-word\">man</span><span class=\"clarity-word\">,</span> which is renewed in knowledge after the image of him that created him:",
+      "churchId": "p10"
+    },
+    {
+      "slug": "colossians-3-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Where there is neither Greek nor Jew, circumcision nor uncircumcision, Barbarian, Scythian, bond <span class=\"clarity-word\">nor</span> free: but Christ <span class=\"clarity-word\">is</span> all, and in all.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "colossians-3-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Put on therefore, as the elect of God, holy and beloved, bowels of mercies, kindness, humbleness of mind, meekness, longsuffering;",
+      "churchId": "p12"
+    },
+    {
+      "slug": "colossians-3-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Forbearing one another, and forgiving one another, if any man have a quarrel against any: even as Christ forgave you, so also <span class=\"clarity-word\">do</span> ye.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "colossians-3-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And above all these things <span class=\"clarity-word\">put on</span> charity, which is the bond of perfectness.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "colossians-3-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And let the peace of God rule in your hearts, to the which also ye are called in one body; and be ye thankful.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "colossians-3-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Let the word of Christ dwell in you richly in all wisdom; teaching and admonishing one another in psalms and hymns and spiritual songs, singing with grace in your hearts to the Lord.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "colossians-3-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And whatsoever ye do in word or deed, <span class=\"clarity-word\">do</span> all in the name of the Lord Jesus, giving thanks to God and the Father by him.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "colossians-3-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Wives, submit yourselves unto your own husbands, as it is fit in the Lord.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "colossians-3-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Husbands, love <span class=\"clarity-word\">your</span> wives, and be not bitter against them.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "colossians-3-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Children, obey <span class=\"clarity-word\">your</span> parents in all things: for this is well pleasing unto the Lord.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "colossians-3-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Fathers, provoke not your children <span class=\"clarity-word\">to anger,</span> lest they be discouraged.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "colossians-3-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Servants, obey in all things <span class=\"clarity-word\">your</span> masters according to the flesh; not with eyeservice, as menpleasers; but in singleness of heart, fearing God:",
+      "churchId": "p22"
+    },
+    {
+      "slug": "colossians-3-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And whatsoever ye do, do <span class=\"clarity-word\">it</span> heartily, as to the Lord, and not unto men;",
+      "churchId": "p23"
+    },
+    {
+      "slug": "colossians-3-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Knowing that of the Lord ye shall receive the reward of the inheritance: for ye serve the Lord Christ.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "colossians-3-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "But he that doeth wrong shall receive for the wrong which he hath done: and there is no respect of persons.",
+      "churchId": "p25"
+    }
+  ]
+}

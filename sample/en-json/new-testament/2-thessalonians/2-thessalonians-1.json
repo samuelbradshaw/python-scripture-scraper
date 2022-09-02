@@ -1,0 +1,106 @@
+{
+  "name": "2 Thessalonians 1",
+  "abbrev": "2 Thes. 1",
+  "number": "1",
+  "churchUri": "/scriptures/nt/2-thes/1",
+  "paragraphs": [
+    {
+      "slug": "2-thessalonians-1-title1",
+      "type": "book-title",
+      "number": null,
+      "content": "<small>The Second Epistle of </small><small>Paul the Apostle to the </small>Thessalonians",
+      "churchId": "title1"
+    },
+    {
+      "slug": "2-thessalonians-1-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 1",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "2-thessalonians-1-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians in God our Father and the Lord Jesus Christ:",
+      "churchId": "p1"
+    },
+    {
+      "slug": "2-thessalonians-1-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Grace unto you, and peace, from God our Father and the Lord Jesus Christ.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "2-thessalonians-1-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "We are bound to thank God always for you, brethren, as it is meet, because that your faith groweth exceedingly, and the charity of every one of you all toward each other aboundeth;",
+      "churchId": "p3"
+    },
+    {
+      "slug": "2-thessalonians-1-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "So that we ourselves glory in you in the churches of God for your patience and faith in all your persecutions and tribulations that ye endure:",
+      "churchId": "p4"
+    },
+    {
+      "slug": "2-thessalonians-1-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "<span class=\"clarity-word\">Which is</span> a manifest token of the righteous judgment of God, that ye may be counted worthy of the kingdom of God, for which ye also suffer:",
+      "churchId": "p5"
+    },
+    {
+      "slug": "2-thessalonians-1-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Seeing <span class=\"clarity-word\">it is</span> a righteous thing with God to recompense tribulation to them that trouble you;",
+      "churchId": "p6"
+    },
+    {
+      "slug": "2-thessalonians-1-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And to you who are troubled rest with us, when the Lord Jesus shall be revealed from heaven with his mighty angels,",
+      "churchId": "p7"
+    },
+    {
+      "slug": "2-thessalonians-1-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "In flaming fire taking vengeance on them that know not God, and that obey not the gospel of our Lord Jesus Christ:",
+      "churchId": "p8"
+    },
+    {
+      "slug": "2-thessalonians-1-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Who shall be punished with everlasting destruction from the presence of the Lord, and from the glory of his power;",
+      "churchId": "p9"
+    },
+    {
+      "slug": "2-thessalonians-1-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "When he shall come to be glorified in his saints, and to be admired in all them that believe (because our testimony among you was believed) in that day.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "2-thessalonians-1-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Wherefore also we pray always for you, that our God would count you worthy of <span class=\"clarity-word\">this</span> calling, and fulfil all the good pleasure of <span class=\"clarity-word\">his</span> goodness, and the work of faith with power:",
+      "churchId": "p11"
+    },
+    {
+      "slug": "2-thessalonians-1-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "That the name of our Lord Jesus Christ may be glorified in you, and ye in him, according to the grace of our God and the Lord Jesus Christ.",
+      "churchId": "p12"
+    }
+  ]
+}

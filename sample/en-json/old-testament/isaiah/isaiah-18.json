@@ -1,0 +1,64 @@
+{
+  "name": "Isaiah 18",
+  "abbrev": "Isa. 18",
+  "number": "18",
+  "churchUri": "/scriptures/ot/isa/18",
+  "paragraphs": [
+    {
+      "slug": "isaiah-18-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 18",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "isaiah-18-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Woe to the land shadowing with wings, which <span class=\"clarity-word\">is</span> beyond the rivers of Ethiopia:",
+      "churchId": "p1"
+    },
+    {
+      "slug": "isaiah-18-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "That sendeth ambassadors by the sea, even in vessels of bulrushes upon the waters, <span class=\"clarity-word\">saying,</span> Go, ye swift messengers, to a nation scattered and peeled, to a people terrible from their beginning hitherto; a nation meted out and trodden down, whose land the rivers have spoiled!",
+      "churchId": "p2"
+    },
+    {
+      "slug": "isaiah-18-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "All ye inhabitants of the world, and dwellers on the earth, see ye, when he lifteth up an ensign on the mountains; and when he bloweth a trumpet, hear ye.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "isaiah-18-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "For so the <span class=\"small-caps\">Lord</span> said unto me, I will take my rest, and I will consider in my dwelling place like a clear heat upon herbs, <span class=\"clarity-word\">and</span> like a cloud of dew in the heat of harvest.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "isaiah-18-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "For afore the harvest, when the bud is perfect, and the sour grape is ripening in the flower, he shall both cut off the sprigs with pruning hooks, and take away <span class=\"clarity-word\">and</span> cut down the branches.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "isaiah-18-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "They shall be left together unto the fowls of the mountains, and to the beasts of the earth: and the fowls shall summer upon them, and all the beasts of the earth shall winter upon them.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "isaiah-18-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "¶ In that time shall the present be brought unto the <span class=\"small-caps\">Lord</span> of hosts of a people scattered and peeled, and from a people terrible from their beginning hitherto; a nation meted out and trodden under foot, whose land the rivers have spoiled, to the place of the name of the <span class=\"small-caps\">Lord</span> of hosts, the mount Zion.",
+      "churchId": "p7"
+    }
+  ]
+}

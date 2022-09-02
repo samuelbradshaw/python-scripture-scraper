@@ -1,0 +1,99 @@
+{
+  "name": "Psalm 16",
+  "abbrev": "Psalm 16",
+  "number": "16",
+  "churchUri": "/scriptures/ot/ps/16",
+  "paragraphs": [
+    {
+      "slug": "psalm-16-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 16",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-16-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "Michtam of David.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-16-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Preserve me, O God: for in thee do I put my trust.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-16-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "<span class=\"clarity-word\">O my soul,</span> thou hast said unto the <span class=\"small-caps\">Lord</span>, Thou <span class=\"clarity-word\">art</span> my Lord: my goodness <span class=\"clarity-word\">extendeth</span> not to thee;",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-16-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "<span class=\"clarity-word\">But</span> to the saints that <span class=\"clarity-word\">are</span> in the earth, and <span class=\"clarity-word\">to</span> the excellent, in whom <span class=\"clarity-word\">is</span> all my delight.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-16-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Their sorrows shall be multiplied <span class=\"clarity-word\">that</span> hasten <span class=\"clarity-word\">after</span> another <span class=\"clarity-word\">god:</span> their drink offerings of blood will I not offer, nor take up their names into my lips.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-16-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "The <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">is</span> the portion of mine inheritance and of my cup: thou maintainest my lot.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-16-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "The lines are fallen unto me in pleasant <span class=\"clarity-word\">places;</span> yea, I have a goodly heritage.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-16-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "I will bless the <span class=\"small-caps\">Lord</span>, who hath given me counsel: my reins also instruct me in the night seasons.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-16-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "I have set the <span class=\"small-caps\">Lord</span> always before me: because <span class=\"clarity-word\">he is</span> at my right hand, I shall not be moved.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "psalm-16-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Therefore my heart is glad, and my glory rejoiceth: my flesh also shall rest in hope.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "psalm-16-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "For thou wilt not leave my soul in hell; neither wilt thou suffer thine Holy One to see corruption.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "psalm-16-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Thou wilt shew me the path of life: in thy presence <span class=\"clarity-word\">is</span> fulness of joy; at thy right hand <span class=\"clarity-word\">there are</span> pleasures for evermore.",
+      "churchId": "p11"
+    }
+  ]
+}

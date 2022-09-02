@@ -1,0 +1,71 @@
+{
+  "name": "Psalm 87",
+  "abbrev": "Psalm 87",
+  "number": "87",
+  "churchUri": "/scriptures/ot/ps/87",
+  "paragraphs": [
+    {
+      "slug": "psalm-87-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 87",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-87-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "A Psalm <span class=\"clarity-word\">or</span> Song for the sons of Korah.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-87-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "His foundation <span class=\"clarity-word\">is</span> in the holy mountains.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-87-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "The <span class=\"small-caps\">Lord</span> loveth the gates of Zion more than all the dwellings of Jacob.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-87-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Glorious things are spoken of thee, O city of God. Selah.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-87-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "I will make mention of Rahab and Babylon to them that know me: behold Philistia, and Tyre, with Ethiopia; this <span class=\"clarity-word\">man</span> was born there.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-87-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And of Zion it shall be said, This and that man was born in her: and the highest himself shall establish her.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-87-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "The <span class=\"small-caps\">Lord</span> shall count, when he writeth up the people, <span class=\"clarity-word\">that</span> this <span class=\"clarity-word\">man</span> was born there. Selah.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-87-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "As well the singers as the players on instruments <span class=\"clarity-word\">shall be there:</span> all my springs <span class=\"clarity-word\">are</span> in thee.",
+      "churchId": "p7"
+    }
+  ]
+}

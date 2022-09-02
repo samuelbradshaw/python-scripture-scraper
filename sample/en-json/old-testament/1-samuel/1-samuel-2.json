@@ -1,0 +1,267 @@
+{
+  "name": "1 Samuel 2",
+  "abbrev": "1 Sam. 2",
+  "number": "2",
+  "churchUri": "/scriptures/ot/1-sam/2",
+  "paragraphs": [
+    {
+      "slug": "1-samuel-2-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 2",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "1-samuel-2-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And Hannah prayed, and said, My heart rejoiceth in the <span class=\"small-caps\">Lord</span>, mine horn is exalted in the <span class=\"small-caps\">Lord</span>: my mouth is enlarged over mine enemies; because I rejoice in thy salvation.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "1-samuel-2-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "<span class=\"clarity-word\">There is</span> none holy as the <span class=\"small-caps\">Lord</span>: for <span class=\"clarity-word\">there is</span> none beside thee: neither <span class=\"clarity-word\">is there</span> any rock like our God.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "1-samuel-2-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Talk no more so exceeding proudly; let <span class=\"clarity-word\">not</span> arrogancy come out of your mouth: for the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">is</span> a God of knowledge, and by him actions are weighed.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "1-samuel-2-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "The bows of the mighty men <span class=\"clarity-word\">are</span> broken, and they that stumbled are girded with strength.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "1-samuel-2-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "<span class=\"clarity-word\">They that were</span> full have hired out themselves for bread; and <span class=\"clarity-word\">they that were</span> hungry ceased: so that the barren hath born seven; and she that hath many children is waxed feeble.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "1-samuel-2-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "The <span class=\"small-caps\">Lord</span> killeth, and maketh alive: he bringeth down to the grave, and bringeth up.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "1-samuel-2-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "The <span class=\"small-caps\">Lord</span> maketh poor, and maketh rich: he bringeth low, and lifteth up.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "1-samuel-2-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "He raiseth up the poor out of the dust, <span class=\"clarity-word\">and</span> lifteth up the beggar from the dunghill, to set <span class=\"clarity-word\">them</span> among princes, and to make them inherit the throne of glory: for the pillars of the earth <span class=\"clarity-word\">are</span> the <span class=\"small-caps\">Lord</span>’s, and he hath set the world upon them.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "1-samuel-2-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "He will keep the feet of his saints, and the wicked shall be silent in darkness; for by strength shall no man prevail.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "1-samuel-2-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "The adversaries of the <span class=\"small-caps\">Lord</span> shall be broken to pieces; out of heaven shall he thunder upon them: the <span class=\"small-caps\">Lord</span> shall judge the ends of the earth; and he shall give strength unto his king, and exalt the horn of his anointed.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "1-samuel-2-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And Elkanah went to Ramah to his house. And the child did minister unto the <span class=\"small-caps\">Lord</span> before Eli the priest.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "1-samuel-2-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "¶ Now the sons of Eli <span class=\"clarity-word\">were</span> sons of Belial; they knew not the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "1-samuel-2-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And the priests’ custom with the people <span class=\"clarity-word\">was, that,</span> when any man offered sacrifice, the priest’s servant came, while the flesh was in seething, with a fleshhook of three teeth in his hand;",
+      "churchId": "p13"
+    },
+    {
+      "slug": "1-samuel-2-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And he struck <span class=\"clarity-word\">it</span> into the pan, or kettle, or caldron, or pot; all that the fleshhook brought up the priest took for himself. So they did in Shiloh unto all the Israelites that came thither.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "1-samuel-2-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Also before they burnt the fat, the priest’s servant came, and said to the man that sacrificed, Give flesh to roast for the priest; for he will not have sodden flesh of thee, but raw.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "1-samuel-2-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And <span class=\"clarity-word\">if</span> any man said unto him, Let them not fail to burn the fat presently, and <span class=\"clarity-word\">then</span> take <span class=\"clarity-word\">as much</span> as thy soul desireth; then he would answer him, <span class=\"clarity-word\">Nay;</span> but thou shalt give <span class=\"clarity-word\">it me</span> now: and if not, I will take <span class=\"clarity-word\">it</span> by force.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "1-samuel-2-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Wherefore the sin of the young men was very great before the <span class=\"small-caps\">Lord</span>: for men abhorred the offering of the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "1-samuel-2-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "¶ But Samuel ministered before the <span class=\"small-caps\">Lord</span>, <span class=\"clarity-word\">being</span> a child, girded with a linen ephod.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "1-samuel-2-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Moreover his mother made him a little coat, and brought <span class=\"clarity-word\">it</span> to him from year to year, when she came up with her husband to offer the yearly sacrifice.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "1-samuel-2-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "¶ And Eli blessed Elkanah and his wife, and said, The <span class=\"small-caps\">Lord</span> give thee seed of this woman for the loan which is lent to the <span class=\"small-caps\">Lord</span>. And they went unto their own home.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "1-samuel-2-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And the <span class=\"small-caps\">Lord</span> visited Hannah, so that she conceived, and bare three sons and two daughters. And the child Samuel grew before the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "1-samuel-2-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "¶ Now Eli was very old, and heard all that his sons did unto all Israel; and how they lay with the women that assembled <span class=\"clarity-word\">at</span> the door of the tabernacle of the congregation.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "1-samuel-2-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And he said unto them, Why do ye such things? for I hear of your evil dealings by all this people.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "1-samuel-2-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Nay, my sons; for <span class=\"clarity-word\">it is</span> no good report that I hear: ye make the <span class=\"small-caps\">Lord</span>’s people to transgress.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "1-samuel-2-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "If one man sin against another, the judge shall judge him: but if a man sin against the <span class=\"small-caps\">Lord</span>, who shall entreat for him? Notwithstanding they hearkened not unto the voice of their father, because the <span class=\"small-caps\">Lord</span> would slay them.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "1-samuel-2-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And the child Samuel grew on, and was in favour both with the <span class=\"small-caps\">Lord</span>, and also with men.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "1-samuel-2-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "¶ And there came a man of God unto Eli, and said unto him, Thus saith the <span class=\"small-caps\">Lord</span>, Did I plainly appear unto the house of thy father, when they were in Egypt in Pharaoh’s house?",
+      "churchId": "p27"
+    },
+    {
+      "slug": "1-samuel-2-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And did I choose him out of all the tribes of Israel <span class=\"clarity-word\">to be</span> my priest, to offer upon mine altar, to burn incense, to wear an ephod before me? and did I give unto the house of thy father all the offerings made by fire of the children of Israel?",
+      "churchId": "p28"
+    },
+    {
+      "slug": "1-samuel-2-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "Wherefore kick ye at my sacrifice and at mine offering, which I have commanded <span class=\"clarity-word\">in my</span> habitation; and honourest thy sons above me, to make yourselves fat with the chiefest of all the offerings of Israel my people?",
+      "churchId": "p29"
+    },
+    {
+      "slug": "1-samuel-2-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "Wherefore the <span class=\"small-caps\">Lord</span> God of Israel saith, I said indeed <span class=\"clarity-word\">that</span> thy house, and the house of thy father, should walk before me for ever: but now the <span class=\"small-caps\">Lord</span> saith, Be it far from me; for them that honour me I will honour, and they that despise me shall be lightly esteemed.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "1-samuel-2-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "Behold, the days come, that I will cut off thine arm, and the arm of thy father’s house, that there shall not be an old man in thine house.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "1-samuel-2-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "And thou shalt see an enemy <span class=\"clarity-word\">in my</span> habitation, in all <span class=\"clarity-word\">the wealth</span> which <span class=\"clarity-word\">God</span> shall give Israel: and there shall not be an old man in thine house for ever.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "1-samuel-2-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "And the man of thine, <span class=\"clarity-word\">whom</span> I shall not cut off from mine altar, <span class=\"clarity-word\">shall be</span> to consume thine eyes, and to grieve thine heart: and all the increase of thine house shall die in the flower of their age.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "1-samuel-2-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "And this <span class=\"clarity-word\">shall be</span> a sign unto thee, that shall come upon thy two sons, on Hophni and Phinehas; in one day they shall die both of them.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "1-samuel-2-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "And I will raise me up a faithful priest, <span class=\"clarity-word\">that</span> shall do according to <span class=\"clarity-word\">that</span> which <span class=\"clarity-word\">is</span> in mine heart and in my mind: and I will build him a sure house; and he shall walk before mine anointed for ever.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "1-samuel-2-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "And it shall come to pass, <span class=\"clarity-word\">that</span> every one that is left in thine house shall come <span class=\"clarity-word\">and</span> crouch to him for a piece of silver and a morsel of bread, and shall say, Put me, I pray thee, into one of the priests’ offices, that I may eat a piece of bread.",
+      "churchId": "p36"
+    }
+  ]
+}

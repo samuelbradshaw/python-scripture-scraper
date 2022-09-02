@@ -1,0 +1,141 @@
+{
+  "name": "2 Corinthians 4",
+  "abbrev": "2 Cor. 4",
+  "number": "4",
+  "churchUri": "/scriptures/nt/2-cor/4",
+  "paragraphs": [
+    {
+      "slug": "2-corinthians-4-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 4",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "2-corinthians-4-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Therefore seeing we have this ministry, as we have received mercy, we faint not;",
+      "churchId": "p1"
+    },
+    {
+      "slug": "2-corinthians-4-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "But have renounced the hidden things of dishonesty, not walking in craftiness, nor handling the word of God deceitfully; but by manifestation of the truth commending ourselves to every man’s conscience in the sight of God.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "2-corinthians-4-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "But if our gospel be hid, it is hid to them that are lost:",
+      "churchId": "p3"
+    },
+    {
+      "slug": "2-corinthians-4-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "In whom the god of this world hath blinded the minds of them which believe not, lest the light of the glorious gospel of Christ, who is the image of God, should shine unto them.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "2-corinthians-4-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "For we preach not ourselves, but Christ Jesus the Lord; and ourselves your servants for Jesus’ sake.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "2-corinthians-4-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "For God, who commanded the light to shine out of darkness, hath shined in our hearts, to <span class=\"clarity-word\">give</span> the light of the knowledge of the glory of God in the face of Jesus Christ.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "2-corinthians-4-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "But we have this treasure in earthen vessels, that the excellency of the power may be of God, and not of us.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "2-corinthians-4-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "<span class=\"clarity-word\">We are</span> troubled on every side, yet not distressed; <span class=\"clarity-word\">we are</span> perplexed, but not in despair;",
+      "churchId": "p8"
+    },
+    {
+      "slug": "2-corinthians-4-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Persecuted, but not forsaken; cast down, but not destroyed;",
+      "churchId": "p9"
+    },
+    {
+      "slug": "2-corinthians-4-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Always bearing about in the body the dying of the Lord Jesus, that the life also of Jesus might be made manifest in our body.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "2-corinthians-4-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "For we which live are alway delivered unto death for Jesus’ sake, that the life also of Jesus might be made manifest in our mortal flesh.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "2-corinthians-4-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "So then death worketh in us, but life in you.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "2-corinthians-4-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "We having the same spirit of faith, according as it is written, I believed, and therefore have I spoken; we also believe, and therefore speak;",
+      "churchId": "p13"
+    },
+    {
+      "slug": "2-corinthians-4-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Knowing that he which raised up the Lord Jesus shall raise up us also by Jesus, and shall present <span class=\"clarity-word\">us</span> with you.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "2-corinthians-4-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "For all things <span class=\"clarity-word\">are</span> for your sakes, that the abundant grace might through the thanksgiving of many redound to the glory of God.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "2-corinthians-4-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "For which cause we faint not; but though our outward man perish, yet the inward <span class=\"clarity-word\">man</span> is renewed day by day.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "2-corinthians-4-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "For our light affliction, which is but for a moment, worketh for us a far more exceeding <span class=\"clarity-word\">and</span> eternal weight of glory;",
+      "churchId": "p17"
+    },
+    {
+      "slug": "2-corinthians-4-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "While we look not at the things which are seen, but at the things which are not seen: for the things which are seen <span class=\"clarity-word\">are</span> temporal; but the things which are not seen <span class=\"clarity-word\">are</span> eternal.",
+      "churchId": "p18"
+    }
+  ]
+}

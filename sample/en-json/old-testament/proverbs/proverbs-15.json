@@ -1,0 +1,246 @@
+{
+  "name": "Proverbs 15",
+  "abbrev": "Prov. 15",
+  "number": "15",
+  "churchUri": "/scriptures/ot/prov/15",
+  "paragraphs": [
+    {
+      "slug": "proverbs-15-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 15",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "proverbs-15-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "A soft answer turneth away wrath: but grievous words stir up anger.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "proverbs-15-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "The tongue of the wise useth knowledge aright: but the mouth of fools poureth out foolishness.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "proverbs-15-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "The eyes of the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">are</span> in every place, beholding the evil and the good.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "proverbs-15-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "A wholesome tongue <span class=\"clarity-word\">is</span> a tree of life: but perverseness therein <span class=\"clarity-word\">is</span> a breach in the spirit.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "proverbs-15-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "A fool despiseth his father’s instruction: but he that regardeth reproof is prudent.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "proverbs-15-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "In the house of the righteous <span class=\"clarity-word\">is</span> much treasure: but in the revenues of the wicked is trouble.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "proverbs-15-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "The lips of the wise disperse knowledge: but the heart of the foolish <span class=\"clarity-word\">doeth</span> not so.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "proverbs-15-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "The sacrifice of the wicked <span class=\"clarity-word\">is</span> an abomination to the <span class=\"small-caps\">Lord</span>: but the prayer of the upright <span class=\"clarity-word\">is</span> his delight.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "proverbs-15-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "The way of the wicked <span class=\"clarity-word\">is</span> an abomination unto the <span class=\"small-caps\">Lord</span>: but he loveth him that followeth after righteousness.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "proverbs-15-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Correction <span class=\"clarity-word\">is</span> grievous unto him that forsaketh the way: <span class=\"clarity-word\">and</span> he that hateth reproof shall die.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "proverbs-15-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Hell and destruction <span class=\"clarity-word\">are</span> before the <span class=\"small-caps\">Lord</span>: how much more then the hearts of the children of men?",
+      "churchId": "p11"
+    },
+    {
+      "slug": "proverbs-15-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "A scorner loveth not one that reproveth him: neither will he go unto the wise.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "proverbs-15-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "A merry heart maketh a cheerful countenance: but by sorrow of the heart the spirit is broken.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "proverbs-15-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "The heart of him that hath understanding seeketh knowledge: but the mouth of fools feedeth on foolishness.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "proverbs-15-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "All the days of the afflicted <span class=\"clarity-word\">are</span> evil: but he that is of a merry heart <span class=\"clarity-word\">hath</span> a continual feast.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "proverbs-15-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Better <span class=\"clarity-word\">is</span> little with the fear of the <span class=\"small-caps\">Lord</span> than great treasure and trouble therewith.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "proverbs-15-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Better <span class=\"clarity-word\">is</span> a dinner of herbs where love is, than a stalled ox and hatred therewith.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "proverbs-15-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "A wrathful man stirreth up strife: but <span class=\"clarity-word\">he that is</span> slow to anger appeaseth strife.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "proverbs-15-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "The way of the slothful <span class=\"clarity-word\">man is</span> as an hedge of thorns: but the way of the righteous <span class=\"clarity-word\">is</span> made plain.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "proverbs-15-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "A wise son maketh a glad father: but a foolish man despiseth his mother.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "proverbs-15-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Folly <span class=\"clarity-word\">is</span> joy to <span class=\"clarity-word\">him that is</span> destitute of wisdom: but a man of understanding walketh uprightly.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "proverbs-15-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Without counsel purposes are disappointed: but in the multitude of counsellors they are established.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "proverbs-15-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "A man hath joy by the answer of his mouth: and a word <span class=\"clarity-word\">spoken</span> in due season, how good <span class=\"clarity-word\">is it!</span>",
+      "churchId": "p23"
+    },
+    {
+      "slug": "proverbs-15-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "The way of life <span class=\"clarity-word\">is</span> above to the wise, that he may depart from hell beneath.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "proverbs-15-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "The <span class=\"small-caps\">Lord</span> will destroy the house of the proud: but he will establish the border of the widow.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "proverbs-15-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "The thoughts of the wicked <span class=\"clarity-word\">are</span> an abomination to the <span class=\"small-caps\">Lord</span>: but <span class=\"clarity-word\">the words</span> of the pure <span class=\"clarity-word\">are</span> pleasant words.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "proverbs-15-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "He that is greedy of gain troubleth his own house; but he that hateth gifts shall live.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "proverbs-15-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "The heart of the righteous studieth to answer: but the mouth of the wicked poureth out evil things.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "proverbs-15-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "The <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">is</span> far from the wicked: but he heareth the prayer of the righteous.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "proverbs-15-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "The light of the eyes rejoiceth the heart: <span class=\"clarity-word\">and</span> a good report maketh the bones fat.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "proverbs-15-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "The ear that heareth the reproof of life abideth among the wise.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "proverbs-15-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "He that refuseth instruction despiseth his own soul: but he that heareth reproof getteth understanding.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "proverbs-15-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "The fear of the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">is</span> the instruction of wisdom; and before honour <span class=\"clarity-word\">is</span> humility.",
+      "churchId": "p33"
+    }
+  ]
+}

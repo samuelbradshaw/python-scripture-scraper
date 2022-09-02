@@ -1,0 +1,204 @@
+{
+  "name": "Acts 1",
+  "abbrev": "Acts 1",
+  "number": "1",
+  "churchUri": "/scriptures/nt/acts/1",
+  "paragraphs": [
+    {
+      "slug": "acts-1-title1",
+      "type": "book-title",
+      "number": null,
+      "content": "The Acts \nof the Apostles",
+      "churchId": "title1"
+    },
+    {
+      "slug": "acts-1-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 1",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "acts-1-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "The former treatise have I made, O Theophilus, of all that Jesus began both to do and teach,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "acts-1-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Until the day in which he was taken up, after that he through the Holy Ghost had given commandments unto the apostles whom he had chosen:",
+      "churchId": "p2"
+    },
+    {
+      "slug": "acts-1-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "To whom also he shewed himself alive after his passion by many infallible proofs, being seen of them forty days, and speaking of the things pertaining to the kingdom of God:",
+      "churchId": "p3"
+    },
+    {
+      "slug": "acts-1-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And, being assembled together with <span class=\"clarity-word\">them,</span> commanded them that they should not depart from Jerusalem, but wait for the promise of the Father, which, <span class=\"clarity-word\">saith he,</span> ye have heard of me.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "acts-1-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "For John truly baptized with water; but ye shall be baptized with the Holy Ghost not many days hence.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "acts-1-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "When they therefore were come together, they asked of him, saying, Lord, wilt thou at this time restore again the kingdom to Israel?",
+      "churchId": "p6"
+    },
+    {
+      "slug": "acts-1-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And he said unto them, It is not for you to know the times or the seasons, which the Father hath put in his own power.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "acts-1-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judæa, and in Samaria, and unto the uttermost part of the earth.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "acts-1-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And when he had spoken these things, while they beheld, he was taken up; and a cloud received him out of their sight.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "acts-1-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And while they looked steadfastly toward heaven as he went up, behold, two men stood by them in white apparel;",
+      "churchId": "p10"
+    },
+    {
+      "slug": "acts-1-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Which also said, Ye men of Galilee, why stand ye gazing up into heaven? this same Jesus, which is taken up from you into heaven, shall so come in like manner as ye have seen him go into heaven.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "acts-1-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Then returned they unto Jerusalem from the mount called Olivet, which is from Jerusalem a sabbath day’s journey.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "acts-1-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And when they were come in, they went up into an upper room, where abode both Peter, and James, and John, and Andrew, Philip, and Thomas, Bartholomew, and Matthew, James <span class=\"clarity-word\">the son</span> of Alphæus, and Simon Zelotes, and Judas <span class=\"clarity-word\">the brother</span> of James.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "acts-1-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "These all continued with one accord in prayer and supplication, with the women, and Mary the mother of Jesus, and with his brethren.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "acts-1-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "¶ And in those days Peter stood up in the midst of the disciples, and said, (the number of names together were about an hundred and twenty,)",
+      "churchId": "p15"
+    },
+    {
+      "slug": "acts-1-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Men <span class=\"clarity-word\">and</span> brethren, this scripture must needs have been fulfilled, which the Holy Ghost by the mouth of David spake before concerning Judas, which was guide to them that took Jesus.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "acts-1-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "For he was numbered with us, and had obtained part of this ministry.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "acts-1-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Now this man purchased a field with the reward of iniquity; and falling headlong, he burst asunder in the midst, and all his bowels gushed out.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "acts-1-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And it was known unto all the dwellers at Jerusalem; insomuch as that field is called in their proper tongue, Aceldama, that is to say, The field of blood.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "acts-1-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "For it is written in the book of Psalms, Let his habitation be desolate, and let no man dwell therein: and his bishoprick let another take.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "acts-1-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Wherefore of these men which have companied with us all the time that the Lord Jesus went in and out among us,",
+      "churchId": "p21"
+    },
+    {
+      "slug": "acts-1-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Beginning from the baptism of John, unto that same day that he was taken up from us, must one be ordained to be a witness with us of his resurrection.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "acts-1-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And they appointed two, Joseph called Barsabas, who was surnamed Justus, and Matthias.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "acts-1-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And they prayed, and said, Thou, Lord, which knowest the hearts of all <span class=\"clarity-word\">men,</span> shew whether of these two thou hast chosen,",
+      "churchId": "p24"
+    },
+    {
+      "slug": "acts-1-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "That he may take part of this ministry and apostleship, from which Judas by transgression fell, that he might go to his own place.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "acts-1-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And they gave forth their lots; and the lot fell upon Matthias; and he was numbered with the eleven apostles.",
+      "churchId": "p26"
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "name": "Isaiah 59",
+  "abbrev": "Isa. 59",
+  "number": "59",
+  "churchUri": "/scriptures/ot/isa/59",
+  "paragraphs": [
+    {
+      "slug": "isaiah-59-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 59",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "isaiah-59-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Behold, the <span class=\"small-caps\">Lord</span>’s hand is not shortened, that it cannot save; neither his ear heavy, that it cannot hear:",
+      "churchId": "p1"
+    },
+    {
+      "slug": "isaiah-59-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "But your iniquities have separated between you and your God, and your sins have hid <span class=\"clarity-word\">his</span> face from you, that he will not hear.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "isaiah-59-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "For your hands are defiled with blood, and your fingers with iniquity; your lips have spoken lies, your tongue hath muttered perverseness.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "isaiah-59-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "None calleth for justice, nor <span class=\"clarity-word\">any</span> pleadeth for truth: they trust in vanity, and speak lies; they conceive mischief, and bring forth iniquity.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "isaiah-59-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "They hatch cockatrice’ eggs, and weave the spider’s web: he that eateth of their eggs dieth, and that which is crushed breaketh out into a viper.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "isaiah-59-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Their webs shall not become garments, neither shall they cover themselves with their works: their works <span class=\"clarity-word\">are</span> works of iniquity, and the act of violence <span class=\"clarity-word\">is</span> in their hands.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "isaiah-59-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Their feet run to evil, and they make haste to shed innocent blood: their thoughts <span class=\"clarity-word\">are</span> thoughts of iniquity; wasting and destruction <span class=\"clarity-word\">are</span> in their paths.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "isaiah-59-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "The way of peace they know not; and <span class=\"clarity-word\">there is</span> no judgment in their goings: they have made them crooked paths: whosoever goeth therein shall not know peace.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "isaiah-59-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "¶ Therefore is judgment far from us, neither doth justice overtake us: we wait for light, but behold obscurity; for brightness, <span class=\"clarity-word\">but</span> we walk in darkness.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "isaiah-59-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "We grope for the wall like the blind, and we grope as if <span class=\"clarity-word\">we had</span> no eyes: we stumble at noonday as in the night; <span class=\"clarity-word\">we are</span> in desolate places as dead <span class=\"clarity-word\">men.</span>",
+      "churchId": "p10"
+    },
+    {
+      "slug": "isaiah-59-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "We roar all like bears, and mourn sore like doves: we look for judgment, but <span class=\"clarity-word\">there is</span> none; for salvation, <span class=\"clarity-word\">but</span> it is far off from us.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "isaiah-59-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "For our transgressions are multiplied before thee, and our sins testify against us: for our transgressions <span class=\"clarity-word\">are</span> with us; and <span class=\"clarity-word\">as for</span> our iniquities, we know them;",
+      "churchId": "p12"
+    },
+    {
+      "slug": "isaiah-59-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "In transgressing and lying against the <span class=\"small-caps\">Lord</span>, and departing away from our God, speaking oppression and revolt, conceiving and uttering from the heart words of falsehood.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "isaiah-59-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And judgment is turned away backward, and justice standeth afar off: for truth is fallen in the street, and equity cannot enter.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "isaiah-59-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Yea, truth faileth; and he <span class=\"clarity-word\">that</span> departeth from evil maketh himself a prey: and the <span class=\"small-caps\">Lord</span> saw <span class=\"clarity-word\">it,</span> and it displeased him that <span class=\"clarity-word\">there was</span> no judgment.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "isaiah-59-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "¶ And he saw that <span class=\"clarity-word\">there was</span> no man, and wondered that <span class=\"clarity-word\">there was</span> no intercessor: therefore his arm brought salvation unto him; and his righteousness, it sustained him.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "isaiah-59-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "For he put on righteousness as a breastplate, and an helmet of salvation upon his head; and he put on the garments of vengeance <span class=\"clarity-word\">for</span> clothing, and was clad with zeal as a cloak.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "isaiah-59-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "According to <span class=\"clarity-word\">their</span> deeds, accordingly he will repay, fury to his adversaries, recompence to his enemies; to the islands he will repay recompence.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "isaiah-59-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "So shall they fear the name of the <span class=\"small-caps\">Lord</span> from the west, and his glory from the rising of the sun. When the enemy shall come in like a flood, the Spirit of the <span class=\"small-caps\">Lord</span> shall lift up a standard against him.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "isaiah-59-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "¶ And the Redeemer shall come to Zion, and unto them that turn from transgression in Jacob, saith the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "isaiah-59-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "As for me, this <span class=\"clarity-word\">is</span> my covenant with them, saith the <span class=\"small-caps\">Lord</span>; My spirit that <span class=\"clarity-word\">is</span> upon thee, and my words which I have put in thy mouth, shall not depart out of thy mouth, nor out of the mouth of thy seed, nor out of the mouth of thy seed’s seed, saith the <span class=\"small-caps\">Lord</span>, from henceforth and for ever.",
+      "churchId": "p21"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "name": "Doctrine and Covenants 7",
+  "abbrev": "D&C 7",
+  "number": "7",
+  "churchUri": "/scriptures/dc-testament/dc/7",
+  "paragraphs": [
+    {
+      "slug": "section-7-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Section 7",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "section-7-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And the Lord said unto me: John, my beloved, what desirest thou? For if you shall ask what you will, it shall be granted unto you.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "section-7-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And I said unto him: Lord, give unto me power over death, that I may live and bring souls unto thee.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "section-7-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And the Lord said unto me: Verily, verily, I say unto thee, because thou desirest this thou shalt tarry until I come in my glory, and shalt prophesy before nations, kindreds, tongues and people.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "section-7-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And for this cause the Lord said unto Peter: If I will that he tarry till I come, what is that to thee? For he desired of me that he might bring souls unto me, but thou desiredst that thou mightest speedily come unto me in my kingdom.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "section-7-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "I say unto thee, Peter, this was a good desire; but my beloved has desired that he might do more, or a greater work yet among men than what he has before done.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "section-7-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Yea, he has undertaken a greater work; therefore I will make him as flaming fire and a ministering angel; he shall minister for those who shall be heirs of salvation who dwell on the earth.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "section-7-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And I will make thee to minister for him and for thy brother James; and unto you three I will give this power and the keys of this ministry until I come.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "section-7-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Verily I say unto you, ye shall both have according to your desires, for ye both joy in that which ye have desired.",
+      "churchId": "p8"
+    }
+  ]
+}

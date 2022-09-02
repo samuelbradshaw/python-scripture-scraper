@@ -1,0 +1,162 @@
+{
+  "name": "2 Corinthians 12",
+  "abbrev": "2 Cor. 12",
+  "number": "12",
+  "churchUri": "/scriptures/nt/2-cor/12",
+  "paragraphs": [
+    {
+      "slug": "2-corinthians-12-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 12",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "2-corinthians-12-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "It is not expedient for me doubtless to glory. I will come to visions and revelations of the Lord.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "2-corinthians-12-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "I knew a man in Christ above fourteen years ago, (whether in the body, I cannot tell; or whether out of the body, I cannot tell: God knoweth;) such an one caught up to the third heaven.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "2-corinthians-12-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And I knew such a man, (whether in the body, or out of the body, I cannot tell: God knoweth;)",
+      "churchId": "p3"
+    },
+    {
+      "slug": "2-corinthians-12-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "How that he was caught up into paradise, and heard unspeakable words, which it is not lawful for a man to utter.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "2-corinthians-12-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Of such an one will I glory: yet of myself I will not glory, but in mine infirmities.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "2-corinthians-12-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "For though I would desire to glory, I shall not be a fool; for I will say the truth: but <span class=\"clarity-word\">now</span> I forbear, lest any man should think of me above that which he seeth me <span class=\"clarity-word\">to be,</span> or <span class=\"clarity-word\">that</span> he heareth of me.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "2-corinthians-12-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And lest I should be exalted above measure through the abundance of the revelations, there was given to me a thorn in the flesh, the messenger of Satan to buffet me, lest I should be exalted above measure.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "2-corinthians-12-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "For this thing I besought the Lord thrice, that it might depart from me.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "2-corinthians-12-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And he said unto me, My grace is sufficient for thee: for my strength is made perfect in weakness. Most gladly therefore will I rather glory in my infirmities, that the power of Christ may rest upon me.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "2-corinthians-12-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Therefore I take pleasure in infirmities, in reproaches, in necessities, in persecutions, in distresses for Christ’s sake: for when I am weak, then am I strong.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "2-corinthians-12-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "I am become a fool in glorying; ye have compelled me: for I ought to have been commended of you: for in nothing am I behind the very chiefest apostles, though I be nothing.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "2-corinthians-12-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Truly the signs of an apostle were wrought among you in all patience, in signs, and wonders, and mighty deeds.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "2-corinthians-12-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "For what is it wherein ye were inferior to other churches, except <span class=\"clarity-word\">it be</span> that I myself was not burdensome to you? forgive me this wrong.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "2-corinthians-12-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Behold, the third time I am ready to come to you; and I will not be burdensome to you: for I seek not yours, but you: for the children ought not to lay up for the parents, but the parents for the children.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "2-corinthians-12-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And I will very gladly spend and be spent for you; though the more abundantly I love you, the less I be loved.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "2-corinthians-12-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "But be it so, I did not burden you: nevertheless, being crafty, I caught you with guile.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "2-corinthians-12-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Did I make a gain of you by any of them whom I sent unto you?",
+      "churchId": "p17"
+    },
+    {
+      "slug": "2-corinthians-12-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "I desired Titus, and with <span class=\"clarity-word\">him</span> I sent a brother. Did Titus make a gain of you? walked we not in the same spirit? <span class=\"clarity-word\">walked we</span> not in the same steps?",
+      "churchId": "p18"
+    },
+    {
+      "slug": "2-corinthians-12-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Again, think ye that we excuse ourselves unto you? we speak before God in Christ: but <span class=\"clarity-word\">we do</span> all things, dearly beloved, for your edifying.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "2-corinthians-12-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "For I fear, lest, when I come, I shall not find you such as I would, and <span class=\"clarity-word\">that</span> I shall be found unto you such as ye would not: lest <span class=\"clarity-word\">there be</span> debates, envyings, wraths, strifes, backbitings, whisperings, swellings, tumults:",
+      "churchId": "p20"
+    },
+    {
+      "slug": "2-corinthians-12-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "<span class=\"clarity-word\">And</span> lest, when I come again, my God will humble me among you, and <span class=\"clarity-word\">that</span> I shall bewail many which have sinned already, and have not repented of the uncleanness and fornication and lasciviousness which they have committed.",
+      "churchId": "p21"
+    }
+  ]
+}

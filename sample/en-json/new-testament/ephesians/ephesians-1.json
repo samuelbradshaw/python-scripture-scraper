@@ -1,0 +1,183 @@
+{
+  "name": "Ephesians 1",
+  "abbrev": "Eph. 1",
+  "number": "1",
+  "churchUri": "/scriptures/nt/eph/1",
+  "paragraphs": [
+    {
+      "slug": "ephesians-1-title1",
+      "type": "book-title",
+      "number": null,
+      "content": "<small>The Epistle of Paul the Apostle </small><small>to the </small>Ephesians",
+      "churchId": "title1"
+    },
+    {
+      "slug": "ephesians-1-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 1",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "ephesians-1-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Paul, an apostle of Jesus Christ by the will of God, to the saints which are at Ephesus, and to the faithful in Christ Jesus:",
+      "churchId": "p1"
+    },
+    {
+      "slug": "ephesians-1-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Grace <span class=\"clarity-word\">be</span> to you, and peace, from God our Father, and <span class=\"clarity-word\">from</span> the Lord Jesus Christ.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "ephesians-1-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Blessed <span class=\"clarity-word\">be</span> the God and Father of our Lord Jesus Christ, who hath blessed us with all spiritual blessings in heavenly <span class=\"clarity-word\">places</span> in Christ:",
+      "churchId": "p3"
+    },
+    {
+      "slug": "ephesians-1-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "According as he hath chosen us in him before the foundation of the world, that we should be holy and without blame before him in love:",
+      "churchId": "p4"
+    },
+    {
+      "slug": "ephesians-1-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Having predestinated us unto the adoption of children by Jesus Christ to himself, according to the good pleasure of his will,",
+      "churchId": "p5"
+    },
+    {
+      "slug": "ephesians-1-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "To the praise of the glory of his grace, wherein he hath made us accepted in the beloved.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "ephesians-1-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "In whom we have redemption through his blood, the forgiveness of sins, according to the riches of his grace;",
+      "churchId": "p7"
+    },
+    {
+      "slug": "ephesians-1-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Wherein he hath abounded toward us in all wisdom and prudence;",
+      "churchId": "p8"
+    },
+    {
+      "slug": "ephesians-1-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Having made known unto us the mystery of his will, according to his good pleasure which he hath purposed in himself:",
+      "churchId": "p9"
+    },
+    {
+      "slug": "ephesians-1-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "That in the dispensation of the fulness of times he might gather together in one all things in Christ, both which are in heaven, and which are on earth; <span class=\"clarity-word\">even</span> in him:",
+      "churchId": "p10"
+    },
+    {
+      "slug": "ephesians-1-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "In whom also we have obtained an inheritance, being predestinated according to the purpose of him who worketh all things after the counsel of his own will:",
+      "churchId": "p11"
+    },
+    {
+      "slug": "ephesians-1-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "That we should be to the praise of his glory, who first trusted in Christ.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "ephesians-1-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "In whom ye also <span class=\"clarity-word\">trusted,</span> after that ye heard the word of truth, the gospel of your salvation: in whom also after that ye believed, ye were sealed with that holy Spirit of promise,",
+      "churchId": "p13"
+    },
+    {
+      "slug": "ephesians-1-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Which is the earnest of our inheritance until the redemption of the purchased possession, unto the praise of his glory.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "ephesians-1-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Wherefore I also, after I heard of your faith in the Lord Jesus, and love unto all the saints,",
+      "churchId": "p15"
+    },
+    {
+      "slug": "ephesians-1-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Cease not to give thanks for you, making mention of you in my prayers;",
+      "churchId": "p16"
+    },
+    {
+      "slug": "ephesians-1-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "That the God of our Lord Jesus Christ, the Father of glory, may give unto you the spirit of wisdom and revelation in the knowledge of him:",
+      "churchId": "p17"
+    },
+    {
+      "slug": "ephesians-1-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "The eyes of your understanding being enlightened; that ye may know what is the hope of his calling, and what the riches of the glory of his inheritance in the saints,",
+      "churchId": "p18"
+    },
+    {
+      "slug": "ephesians-1-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And what <span class=\"clarity-word\">is</span> the exceeding greatness of his power to us-ward who believe, according to the working of his mighty power,",
+      "churchId": "p19"
+    },
+    {
+      "slug": "ephesians-1-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Which he wrought in Christ, when he raised him from the dead, and set <span class=\"clarity-word\">him</span> at his own right hand in the heavenly <span class=\"clarity-word\">places,</span>",
+      "churchId": "p20"
+    },
+    {
+      "slug": "ephesians-1-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Far above all principality, and power, and might, and dominion, and every name that is named, not only in this world, but also in that which is to come:",
+      "churchId": "p21"
+    },
+    {
+      "slug": "ephesians-1-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And hath put all <span class=\"clarity-word\">things</span> under his feet, and gave him <span class=\"clarity-word\">to be</span> the head over all <span class=\"clarity-word\">things</span> to the church,",
+      "churchId": "p22"
+    },
+    {
+      "slug": "ephesians-1-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Which is his body, the fulness of him that filleth all in all.",
+      "churchId": "p23"
+    }
+  ]
+}

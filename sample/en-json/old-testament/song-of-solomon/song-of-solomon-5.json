@@ -1,0 +1,127 @@
+{
+  "name": "Song of Solomon 5",
+  "abbrev": "Song 5",
+  "number": "5",
+  "churchUri": "/scriptures/ot/song/5",
+  "paragraphs": [
+    {
+      "slug": "song-of-solomon-5-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 5",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "song-of-solomon-5-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "I am come into my garden, my sister, <span class=\"clarity-word\">my</span> spouse: I have gathered my myrrh with my spice; I have eaten my honeycomb with my honey; I have drunk my wine with my milk: eat, O friends; drink, yea, drink abundantly, O beloved.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "song-of-solomon-5-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "¶ I sleep, but my heart waketh: <span class=\"clarity-word\">it is</span> the voice of my beloved that knocketh, <span class=\"clarity-word\">saying,</span> Open to me, my sister, my love, my dove, my undefiled: for my head is filled with dew, <span class=\"clarity-word\">and</span> my locks with the drops of the night.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "song-of-solomon-5-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "I have put off my coat; how shall I put it on? I have washed my feet; how shall I defile them?",
+      "churchId": "p3"
+    },
+    {
+      "slug": "song-of-solomon-5-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "My beloved put in his hand by the hole <span class=\"clarity-word\">of the door,</span> and my bowels were moved for him.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "song-of-solomon-5-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "I rose up to open to my beloved; and my hands dropped <span class=\"clarity-word\">with</span> myrrh, and my fingers <span class=\"clarity-word\">with</span> sweet smelling myrrh, upon the handles of the lock.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "song-of-solomon-5-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "I opened to my beloved; but my beloved had withdrawn himself, <span class=\"clarity-word\">and</span> was gone: my soul failed when he spake: I sought him, but I could not find him; I called him, but he gave me no answer.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "song-of-solomon-5-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "The watchmen that went about the city found me, they smote me, they wounded me; the keepers of the walls took away my veil from me.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "song-of-solomon-5-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "I charge you, O daughters of Jerusalem, if ye find my beloved, that ye tell him, that I <span class=\"clarity-word\">am</span> sick of love.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "song-of-solomon-5-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "¶ What <span class=\"clarity-word\">is</span> thy beloved more than <span class=\"clarity-word\">another</span> beloved, O thou fairest among women? what <span class=\"clarity-word\">is</span> thy beloved more than <span class=\"clarity-word\">another</span> beloved, that thou dost so charge us?",
+      "churchId": "p9"
+    },
+    {
+      "slug": "song-of-solomon-5-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "My beloved <span class=\"clarity-word\">is</span> white and ruddy, the chiefest among ten thousand.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "song-of-solomon-5-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "His head <span class=\"clarity-word\">is as</span> the most fine gold, his locks <span class=\"clarity-word\">are</span> bushy, <span class=\"clarity-word\">and</span> black as a raven.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "song-of-solomon-5-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "His eyes <span class=\"clarity-word\">are</span> as <span class=\"clarity-word\">the eyes</span> of doves by the rivers of waters, washed with milk, <span class=\"clarity-word\">and</span> fitly set.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "song-of-solomon-5-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "His cheeks <span class=\"clarity-word\">are</span> as a bed of spices, <span class=\"clarity-word\">as</span> sweet flowers: his lips <span class=\"clarity-word\">like</span> lilies, dropping sweet smelling myrrh.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "song-of-solomon-5-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "His hands <span class=\"clarity-word\">are as</span> gold rings set with the beryl: his belly <span class=\"clarity-word\">is as</span> bright ivory overlaid <span class=\"clarity-word\">with</span> sapphires.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "song-of-solomon-5-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "His legs <span class=\"clarity-word\">are as</span> pillars of marble, set upon sockets of fine gold: his countenance <span class=\"clarity-word\">is</span> as Lebanon, excellent as the cedars.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "song-of-solomon-5-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "His mouth <span class=\"clarity-word\">is</span> most sweet: yea, he <span class=\"clarity-word\">is</span> altogether lovely. This <span class=\"clarity-word\">is</span> my beloved, and this <span class=\"clarity-word\">is</span> my friend, O daughters of Jerusalem.",
+      "churchId": "p16"
+    }
+  ]
+}

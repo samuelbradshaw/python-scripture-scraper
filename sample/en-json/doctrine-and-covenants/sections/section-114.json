@@ -1,0 +1,29 @@
+{
+  "name": "Doctrine and Covenants 114",
+  "abbrev": "D&C 114",
+  "number": "114",
+  "churchUri": "/scriptures/dc-testament/dc/114",
+  "paragraphs": [
+    {
+      "slug": "section-114-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Section 114",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "section-114-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Verily thus saith the Lord: It is wisdom in my servant David W. Patten, that he settle up all his business as soon as he possibly can, and make a disposition of his merchandise, that he may perform a mission unto me next spring, in company with others, even twelve including himself, to testify of my name and bear glad tidings unto all the world.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "section-114-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "For verily thus saith the Lord, that inasmuch as there are those among you who deny my name, others shall be planted in their stead and receive their bishopric. Amen.",
+      "churchId": "p2"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "name": "1 Samuel 29",
+  "abbrev": "1 Sam. 29",
+  "number": "29",
+  "churchUri": "/scriptures/ot/1-sam/29",
+  "paragraphs": [
+    {
+      "slug": "1-samuel-29-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 29",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "1-samuel-29-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Now the Philistines gathered together all their armies to Aphek: and the Israelites pitched by a fountain which <span class=\"clarity-word\">is</span> in Jezreel.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "1-samuel-29-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And the lords of the Philistines passed on by hundreds, and by thousands: but David and his men passed on in the rearward with Achish.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "1-samuel-29-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Then said the princes of the Philistines, What <span class=\"clarity-word\">do</span> these Hebrews <span class=\"clarity-word\">here?</span> And Achish said unto the princes of the Philistines, <span class=\"clarity-word\">Is</span> not this David, the servant of Saul the king of Israel, which hath been with me these days, or these years, and I have found no fault in him since he fell <span class=\"clarity-word\">unto me</span> unto this day?",
+      "churchId": "p3"
+    },
+    {
+      "slug": "1-samuel-29-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And the princes of the Philistines were wroth with him; and the princes of the Philistines said unto him, Make this fellow return, that he may go again to his place which thou hast appointed him, and let him not go down with us to battle, lest in the battle he be an adversary to us: for wherewith should he reconcile himself unto his master? <span class=\"clarity-word\">should it</span> not <span class=\"clarity-word\">be</span> with the heads of these men?",
+      "churchId": "p4"
+    },
+    {
+      "slug": "1-samuel-29-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "<span class=\"clarity-word\">Is</span> not this David, of whom they sang one to another in dances, saying, Saul slew his thousands, and David his ten thousands?",
+      "churchId": "p5"
+    },
+    {
+      "slug": "1-samuel-29-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "¶ Then Achish called David, and said unto him, Surely, <span class=\"clarity-word\">as</span> the <span class=\"small-caps\">Lord</span> liveth, thou hast been upright, and thy going out and thy coming in with me in the host <span class=\"clarity-word\">is</span> good in my sight: for I have not found evil in thee since the day of thy coming unto me unto this day: nevertheless the lords favour thee not.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "1-samuel-29-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Wherefore now return, and go in peace, that thou displease not the lords of the Philistines.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "1-samuel-29-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "¶ And David said unto Achish, But what have I done? and what hast thou found in thy servant so long as I have been with thee unto this day, that I may not go fight against the enemies of my lord the king?",
+      "churchId": "p8"
+    },
+    {
+      "slug": "1-samuel-29-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And Achish answered and said to David, I know that thou <span class=\"clarity-word\">art</span> good in my sight, as an angel of God: notwithstanding the princes of the Philistines have said, He shall not go up with us to the battle.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "1-samuel-29-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Wherefore now rise up early in the morning with thy master’s servants that are come with thee: and as soon as ye be up early in the morning, and have light, depart.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "1-samuel-29-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "So David and his men rose up early to depart in the morning, to return into the land of the Philistines. And the Philistines went up to Jezreel.",
+      "churchId": "p11"
+    }
+  ]
+}

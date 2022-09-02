@@ -1,0 +1,344 @@
+{
+  "name": "Nehemiah 12",
+  "abbrev": "Neh. 12",
+  "number": "12",
+  "churchUri": "/scriptures/ot/neh/12",
+  "paragraphs": [
+    {
+      "slug": "nehemiah-12-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 12",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "nehemiah-12-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Now these <span class=\"clarity-word\">are</span> the priests and the Levites that went up with Zerubbabel the son of Shealtiel, and Jeshua: Seraiah, Jeremiah, Ezra,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "nehemiah-12-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Amariah, Malluch, Hattush,",
+      "churchId": "p2"
+    },
+    {
+      "slug": "nehemiah-12-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Shechaniah, Rehum, Meremoth,",
+      "churchId": "p3"
+    },
+    {
+      "slug": "nehemiah-12-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Iddo, Ginnetho, Abijah,",
+      "churchId": "p4"
+    },
+    {
+      "slug": "nehemiah-12-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Miamin, Maadiah, Bilgah,",
+      "churchId": "p5"
+    },
+    {
+      "slug": "nehemiah-12-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Shemaiah, and Joiarib, Jedaiah,",
+      "churchId": "p6"
+    },
+    {
+      "slug": "nehemiah-12-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Sallu, Amok, Hilkiah, Jedaiah. These <span class=\"clarity-word\">were</span> the chief of the priests and of their brethren in the days of Jeshua.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "nehemiah-12-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Moreover the Levites: Jeshua, Binnui, Kadmiel, Sherebiah, Judah, <span class=\"clarity-word\">and</span> Mattaniah, <span class=\"clarity-word\">which was</span> over the thanksgiving, he and his brethren.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "nehemiah-12-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Also Bakbukiah and Unni, their brethren, <span class=\"clarity-word\">were</span> over against them in the watches.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "nehemiah-12-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "¶ And Jeshua begat Joiakim, Joiakim also begat Eliashib, and Eliashib begat Joiada,",
+      "churchId": "p10"
+    },
+    {
+      "slug": "nehemiah-12-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And Joiada begat Jonathan, and Jonathan begat Jaddua.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "nehemiah-12-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And in the days of Joiakim were priests, the chief of the fathers: of Seraiah, Meraiah; of Jeremiah, Hananiah;",
+      "churchId": "p12"
+    },
+    {
+      "slug": "nehemiah-12-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Of Ezra, Meshullam; of Amariah, Jehohanan;",
+      "churchId": "p13"
+    },
+    {
+      "slug": "nehemiah-12-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Of Melicu, Jonathan; of Shebaniah, Joseph;",
+      "churchId": "p14"
+    },
+    {
+      "slug": "nehemiah-12-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Of Harim, Adna; of Meraioth, Helkai;",
+      "churchId": "p15"
+    },
+    {
+      "slug": "nehemiah-12-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Of Iddo, Zechariah; of Ginnethon, Meshullam;",
+      "churchId": "p16"
+    },
+    {
+      "slug": "nehemiah-12-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Of Abijah, Zichri; of Miniamin, of Moadiah, Piltai;",
+      "churchId": "p17"
+    },
+    {
+      "slug": "nehemiah-12-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Of Bilgah, Shammua; of Shemaiah, Jehonathan;",
+      "churchId": "p18"
+    },
+    {
+      "slug": "nehemiah-12-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And of Joiarib, Mattenai; of Jedaiah, Uzzi;",
+      "churchId": "p19"
+    },
+    {
+      "slug": "nehemiah-12-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Of Sallai, Kallai; of Amok, Eber;",
+      "churchId": "p20"
+    },
+    {
+      "slug": "nehemiah-12-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Of Hilkiah, Hashabiah; of Jedaiah, Nethaneel.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "nehemiah-12-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "¶ The Levites in the days of Eliashib, Joiada, and Johanan, and Jaddua, <span class=\"clarity-word\">were</span> recorded chief of the fathers: also the priests, to the reign of Darius the Persian.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "nehemiah-12-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "The sons of Levi, the chief of the fathers, <span class=\"clarity-word\">were</span> written in the book of the chronicles, even until the days of Johanan the son of Eliashib.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "nehemiah-12-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And the chief of the Levites: Hashabiah, Sherebiah, and Jeshua the son of Kadmiel, with their brethren over against them, to praise <span class=\"clarity-word\">and</span> to give thanks, according to the commandment of David the man of God, ward over against ward.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "nehemiah-12-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Mattaniah, and Bakbukiah, Obadiah, Meshullam, Talmon, Akkub, <span class=\"clarity-word\">were</span> porters keeping the ward at the thresholds of the gates.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "nehemiah-12-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "These <span class=\"clarity-word\">were</span> in the days of Joiakim the son of Jeshua, the son of Jozadak, and in the days of Nehemiah the governor, and of Ezra the priest, the scribe.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "nehemiah-12-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "¶ And at the dedication of the wall of Jerusalem they sought the Levites out of all their places, to bring them to Jerusalem, to keep the dedication with gladness, both with thanksgivings, and with singing, <span class=\"clarity-word\">with</span> cymbals, psalteries, and with harps.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "nehemiah-12-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And the sons of the singers gathered themselves together, both out of the plain country round about Jerusalem, and from the villages of Netophathi;",
+      "churchId": "p28"
+    },
+    {
+      "slug": "nehemiah-12-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "Also from the house of Gilgal, and out of the fields of Geba and Azmaveth: for the singers had builded them villages round about Jerusalem.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "nehemiah-12-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And the priests and the Levites purified themselves, and purified the people, and the gates, and the wall.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "nehemiah-12-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "Then I brought up the princes of Judah upon the wall, and appointed two great <span class=\"clarity-word\">companies of them that gave</span> thanks, <span class=\"clarity-word\">whereof one</span> went on the right hand upon the wall toward the dung gate:",
+      "churchId": "p31"
+    },
+    {
+      "slug": "nehemiah-12-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "And after them went Hoshaiah, and half of the princes of Judah,",
+      "churchId": "p32"
+    },
+    {
+      "slug": "nehemiah-12-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "And Azariah, Ezra, and Meshullam,",
+      "churchId": "p33"
+    },
+    {
+      "slug": "nehemiah-12-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "Judah, and Benjamin, and Shemaiah, and Jeremiah,",
+      "churchId": "p34"
+    },
+    {
+      "slug": "nehemiah-12-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "And <span class=\"clarity-word\">certain</span> of the priests’ sons with trumpets; <span class=\"clarity-word\">namely,</span> Zechariah the son of Jonathan, the son of Shemaiah, the son of Mattaniah, the son of Michaiah, the son of Zaccur, the son of Asaph:",
+      "churchId": "p35"
+    },
+    {
+      "slug": "nehemiah-12-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "And his brethren, Shemaiah, and Azarael, Milalai, Gilalai, Maai, Nethaneel, and Judah, Hanani, with the musical instruments of David the man of God, and Ezra the scribe before them.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "nehemiah-12-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "And at the fountain gate, which was over against them, they went up by the stairs of the city of David, at the going up of the wall, above the house of David, even unto the water gate eastward.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "nehemiah-12-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "And the other <span class=\"clarity-word\">company of them that gave</span> thanks went over against <span class=\"clarity-word\">them,</span> and I after them, and the half of the people upon the wall, from beyond the tower of the furnaces even unto the broad wall;",
+      "churchId": "p38"
+    },
+    {
+      "slug": "nehemiah-12-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "And from above the gate of Ephraim, and above the old gate, and above the fish gate, and the tower of Hananeel, and the tower of Meah, even unto the sheep gate: and they stood still in the prison gate.",
+      "churchId": "p39"
+    },
+    {
+      "slug": "nehemiah-12-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "So stood the two <span class=\"clarity-word\">companies of them that gave</span> thanks in the house of God, and I, and the half of the rulers with me:",
+      "churchId": "p40"
+    },
+    {
+      "slug": "nehemiah-12-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "And the priests; Eliakim, Maaseiah, Miniamin, Michaiah, Elioenai, Zechariah, <span class=\"clarity-word\">and</span> Hananiah, with trumpets;",
+      "churchId": "p41"
+    },
+    {
+      "slug": "nehemiah-12-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "And Maaseiah, and Shemaiah, and Eleazar, and Uzzi, and Jehohanan, and Malchijah, and Elam, and Ezer. And the singers sang loud, with Jezrahiah <span class=\"clarity-word\">their</span> overseer.",
+      "churchId": "p42"
+    },
+    {
+      "slug": "nehemiah-12-p43",
+      "type": "verse",
+      "number": "43",
+      "content": "Also that day they offered great sacrifices, and rejoiced: for God had made them rejoice with great joy: the wives also and the children rejoiced: so that the joy of Jerusalem was heard even afar off.",
+      "churchId": "p43"
+    },
+    {
+      "slug": "nehemiah-12-p44",
+      "type": "verse",
+      "number": "44",
+      "content": "¶ And at that time were some appointed over the chambers for the treasures, for the offerings, for the firstfruits, and for the tithes, to gather into them out of the fields of the cities the portions of the law for the priests and Levites: for Judah rejoiced for the priests and for the Levites that waited.",
+      "churchId": "p44"
+    },
+    {
+      "slug": "nehemiah-12-p45",
+      "type": "verse",
+      "number": "45",
+      "content": "And both the singers and the porters kept the ward of their God, and the ward of the purification, according to the commandment of David, <span class=\"clarity-word\">and</span> of Solomon his son.",
+      "churchId": "p45"
+    },
+    {
+      "slug": "nehemiah-12-p46",
+      "type": "verse",
+      "number": "46",
+      "content": "For in the days of David and Asaph of old <span class=\"clarity-word\">there were</span> chief of the singers, and songs of praise and thanksgiving unto God.",
+      "churchId": "p46"
+    },
+    {
+      "slug": "nehemiah-12-p47",
+      "type": "verse",
+      "number": "47",
+      "content": "And all Israel in the days of Zerubbabel, and in the days of Nehemiah, gave the portions of the singers and the porters, every day his portion: and they sanctified <span class=\"clarity-word\">holy things</span> unto the Levites; and the Levites sanctified <span class=\"clarity-word\">them</span> unto the children of Aaron.",
+      "churchId": "p47"
+    }
+  ]
+}

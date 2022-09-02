@@ -1,0 +1,99 @@
+{
+  "name": "Deuteronomy 34",
+  "abbrev": "Deut. 34",
+  "number": "34",
+  "churchUri": "/scriptures/ot/deut/34",
+  "paragraphs": [
+    {
+      "slug": "deuteronomy-34-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 34",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "deuteronomy-34-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And Moses went up from the plains of Moab unto the mountain of Nebo, to the top of Pisgah, that <span class=\"clarity-word\">is</span> over against Jericho. And the <span class=\"small-caps\">Lord</span> shewed him all the land of Gilead, unto Dan,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "deuteronomy-34-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And all Naphtali, and the land of Ephraim, and Manasseh, and all the land of Judah, unto the utmost sea,",
+      "churchId": "p2"
+    },
+    {
+      "slug": "deuteronomy-34-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And the south, and the plain of the valley of Jericho, the city of palm trees, unto Zoar.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "deuteronomy-34-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And the <span class=\"small-caps\">Lord</span> said unto him, This <span class=\"clarity-word\">is</span> the land which I sware unto Abraham, unto Isaac, and unto Jacob, saying, I will give it unto thy seed: I have caused thee to see <span class=\"clarity-word\">it</span> with thine eyes, but thou shalt not go over thither.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "deuteronomy-34-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "¶ So Moses the servant of the <span class=\"small-caps\">Lord</span> died there in the land of Moab, according to the word of the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "deuteronomy-34-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And he buried him in a valley in the land of Moab, over against Beth-peor: but no man knoweth of his sepulchre unto this day.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "deuteronomy-34-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "¶ And Moses <span class=\"clarity-word\">was</span> an hundred and twenty years old when he died: his eye was not dim, nor his natural force abated.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "deuteronomy-34-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "¶ And the children of Israel wept for Moses in the plains of Moab thirty days: so the days of weeping <span class=\"clarity-word\">and</span> mourning for Moses were ended.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "deuteronomy-34-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "¶ And Joshua the son of Nun was full of the spirit of wisdom; for Moses had laid his hands upon him: and the children of Israel hearkened unto him, and did as the <span class=\"small-caps\">Lord</span> commanded Moses.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "deuteronomy-34-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "¶ And there arose not a prophet since in Israel like unto Moses, whom the <span class=\"small-caps\">Lord</span> knew face to face,",
+      "churchId": "p10"
+    },
+    {
+      "slug": "deuteronomy-34-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "In all the signs and the wonders, which the <span class=\"small-caps\">Lord</span> sent him to do in the land of Egypt to Pharaoh, and to all his servants, and to all his land,",
+      "churchId": "p11"
+    },
+    {
+      "slug": "deuteronomy-34-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And in all that mighty hand, and in all the great terror which Moses shewed in the sight of all Israel.",
+      "churchId": "p12"
+    }
+  ]
+}

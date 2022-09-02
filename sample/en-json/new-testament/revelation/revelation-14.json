@@ -1,0 +1,155 @@
+{
+  "name": "Revelation 14",
+  "abbrev": "Rev. 14",
+  "number": "14",
+  "churchUri": "/scriptures/nt/rev/14",
+  "paragraphs": [
+    {
+      "slug": "revelation-14-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 14",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "revelation-14-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And I looked, and, lo, a Lamb stood on the mount Sion, and with him an hundred forty <span class=\"clarity-word\">and</span> four thousand, having his Father’s name written in their foreheads.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "revelation-14-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And I heard a voice from heaven, as the voice of many waters, and as the voice of a great thunder: and I heard the voice of harpers harping with their harps:",
+      "churchId": "p2"
+    },
+    {
+      "slug": "revelation-14-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And they sung as it were a new song before the throne, and before the four beasts, and the elders: and no man could learn that song but the hundred <span class=\"clarity-word\">and</span> forty <span class=\"clarity-word\">and</span> four thousand, which were redeemed from the earth.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "revelation-14-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "These are they which were not defiled with women; for they are virgins. These are they which follow the Lamb whithersoever he goeth. These were redeemed from among men, <span class=\"clarity-word\">being</span> the firstfruits unto God and to the Lamb.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "revelation-14-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And in their mouth was found no guile: for they are without fault before the throne of God.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "revelation-14-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And I saw another angel fly in the midst of heaven, having the everlasting gospel to preach unto them that dwell on the earth, and to every nation, and kindred, and tongue, and people,",
+      "churchId": "p6"
+    },
+    {
+      "slug": "revelation-14-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Saying with a loud voice, Fear God, and give glory to him; for the hour of his judgment is come: and worship him that made heaven, and earth, and the sea, and the fountains of waters.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "revelation-14-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And there followed another angel, saying, Babylon is fallen, is fallen, that great city, because she made all nations drink of the wine of the wrath of her fornication.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "revelation-14-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And the third angel followed them, saying with a loud voice, If any man worship the beast and his image, and receive <span class=\"clarity-word\">his</span> mark in his forehead, or in his hand,",
+      "churchId": "p9"
+    },
+    {
+      "slug": "revelation-14-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "The same shall drink of the wine of the wrath of God, which is poured out without mixture into the cup of his indignation; and he shall be tormented with fire and brimstone in the presence of the holy angels, and in the presence of the Lamb:",
+      "churchId": "p10"
+    },
+    {
+      "slug": "revelation-14-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And the smoke of their torment ascendeth up for ever and ever: and they have no rest day nor night, who worship the beast and his image, and whosoever receiveth the mark of his name.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "revelation-14-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Here is the patience of the saints: here <span class=\"clarity-word\">are</span> they that keep the commandments of God, and the faith of Jesus.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "revelation-14-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And I heard a voice from heaven saying unto me, Write, Blessed <span class=\"clarity-word\">are</span> the dead which die in the Lord from henceforth: Yea, saith the Spirit, that they may rest from their labours; and their works do follow them.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "revelation-14-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And I looked, and behold a white cloud, and upon the cloud <span class=\"clarity-word\">one</span> sat like unto the Son of man, having on his head a golden crown, and in his hand a sharp sickle.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "revelation-14-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And another angel came out of the temple, crying with a loud voice to him that sat on the cloud, Thrust in thy sickle, and reap: for the time is come for thee to reap; for the harvest of the earth is ripe.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "revelation-14-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And he that sat on the cloud thrust in his sickle on the earth; and the earth was reaped.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "revelation-14-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And another angel came out of the temple which is in heaven, he also having a sharp sickle.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "revelation-14-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And another angel came out from the altar, which had power over fire; and cried with a loud cry to him that had the sharp sickle, saying, Thrust in thy sharp sickle, and gather the clusters of the vine of the earth; for her grapes are fully ripe.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "revelation-14-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And the angel thrust in his sickle into the earth, and gathered the vine of the earth, and cast <span class=\"clarity-word\">it</span> into the great winepress of the wrath of God.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "revelation-14-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And the winepress was trodden without the city, and blood came out of the winepress, even unto the horse bridles, by the space of a thousand <span class=\"clarity-word\">and</span> six hundred furlongs.",
+      "churchId": "p20"
+    }
+  ]
+}

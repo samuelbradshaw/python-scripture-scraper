@@ -1,0 +1,141 @@
+{
+  "name": "Ecclesiastes 9",
+  "abbrev": "Eccl. 9",
+  "number": "9",
+  "churchUri": "/scriptures/ot/eccl/9",
+  "paragraphs": [
+    {
+      "slug": "ecclesiastes-9-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 9",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "ecclesiastes-9-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "For all this I considered in my heart even to declare all this, that the righteous, and the wise, and their works, <span class=\"clarity-word\">are</span> in the hand of God: no man knoweth either love or hatred <span class=\"clarity-word\">by</span> all <span class=\"clarity-word\">that is</span> before them.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "ecclesiastes-9-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "All <span class=\"clarity-word\">things come</span> alike to all: <span class=\"clarity-word\">there is</span> one event to the righteous, and to the wicked; to the good and to the clean, and to the unclean; to him that sacrificeth, and to him that sacrificeth not: as <span class=\"clarity-word\">is</span> the good, so <span class=\"clarity-word\">is</span> the sinner; <span class=\"clarity-word\">and</span> he that sweareth, as <span class=\"clarity-word\">he</span> that feareth an oath.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "ecclesiastes-9-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "This <span class=\"clarity-word\">is</span> an evil among all <span class=\"clarity-word\">things</span> that are done under the sun, that <span class=\"clarity-word\">there is</span> one event unto all: yea, also the heart of the sons of men is full of evil, and madness <span class=\"clarity-word\">is</span> in their heart while they live, and after that <span class=\"clarity-word\">they go</span> to the dead.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "ecclesiastes-9-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "¶ For to him that is joined to all the living there is hope: for a living dog is better than a dead lion.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "ecclesiastes-9-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "For the living know that they shall die: but the dead know not any thing, neither have they any more a reward; for the memory of them is forgotten.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "ecclesiastes-9-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Also their love, and their hatred, and their envy, is now perished; neither have they any more a portion for ever in any <span class=\"clarity-word\">thing</span> that is done under the sun.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "ecclesiastes-9-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "¶ Go thy way, eat thy bread with joy, and drink thy wine with a merry heart; for God now accepteth thy works.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "ecclesiastes-9-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Let thy garments be always white; and let thy head lack no ointment.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "ecclesiastes-9-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Live joyfully with the wife whom thou lovest all the days of the life of thy vanity, which he hath given thee under the sun, all the days of thy vanity: for that <span class=\"clarity-word\">is</span> thy portion in <span class=\"clarity-word\">this</span> life, and in thy labour which thou takest under the sun.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "ecclesiastes-9-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Whatsoever thy hand findeth to do, do <span class=\"clarity-word\">it</span> with thy might; for <span class=\"clarity-word\">there is</span> no work, nor device, nor knowledge, nor wisdom, in the grave, whither thou goest.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "ecclesiastes-9-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "¶ I returned, and saw under the sun, that the race <span class=\"clarity-word\">is</span> not to the swift, nor the battle to the strong, neither yet bread to the wise, nor yet riches to men of understanding, nor yet favour to men of skill; but time and chance happeneth to them all.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "ecclesiastes-9-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "For man also knoweth not his time: as the fishes that are taken in an evil net, and as the birds that are caught in the snare; so <span class=\"clarity-word\">are</span> the sons of men snared in an evil time, when it falleth suddenly upon them.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "ecclesiastes-9-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "¶ This wisdom have I seen also under the sun, and it <span class=\"clarity-word\">seemed</span> great unto me:",
+      "churchId": "p13"
+    },
+    {
+      "slug": "ecclesiastes-9-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "<span class=\"clarity-word\">There was</span> a little city, and few men within it; and there came a great king against it, and besieged it, and built great bulwarks against it:",
+      "churchId": "p14"
+    },
+    {
+      "slug": "ecclesiastes-9-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Now there was found in it a poor wise man, and he by his wisdom delivered the city; yet no man remembered that same poor man.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "ecclesiastes-9-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Then said I, Wisdom <span class=\"clarity-word\">is</span> better than strength: nevertheless the poor man’s wisdom <span class=\"clarity-word\">is</span> despised, and his words are not heard.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "ecclesiastes-9-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "The words of wise <span class=\"clarity-word\">men are</span> heard in quiet more than the cry of him that ruleth among fools.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "ecclesiastes-9-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Wisdom <span class=\"clarity-word\">is</span> better than weapons of war: but one sinner destroyeth much good.",
+      "churchId": "p18"
+    }
+  ]
+}

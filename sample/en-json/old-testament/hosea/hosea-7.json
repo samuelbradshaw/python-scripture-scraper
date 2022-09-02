@@ -1,0 +1,127 @@
+{
+  "name": "Hosea 7",
+  "abbrev": "Hosea 7",
+  "number": "7",
+  "churchUri": "/scriptures/ot/hosea/7",
+  "paragraphs": [
+    {
+      "slug": "hosea-7-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 7",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "hosea-7-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "When I would have healed Israel, then the iniquity of Ephraim was discovered, and the wickedness of Samaria: for they commit falsehood; and the thief cometh in, <span class=\"clarity-word\">and</span> the troop of robbers spoileth without.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "hosea-7-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And they consider not in their hearts <span class=\"clarity-word\">that</span> I remember all their wickedness: now their own doings have beset them about; they are before my face.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "hosea-7-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "They make the king glad with their wickedness, and the princes with their lies.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "hosea-7-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "They <span class=\"clarity-word\">are</span> all adulterers, as an oven heated by the baker, <span class=\"clarity-word\">who</span> ceaseth from raising after he hath kneaded the dough, until it be leavened.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "hosea-7-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "In the day of our king the princes have made <span class=\"clarity-word\">him</span> sick with bottles of wine; he stretched out his hand with scorners.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "hosea-7-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "For they have made ready their heart like an oven, whiles they lie in wait: their baker sleepeth all the night; in the morning it burneth as a flaming fire.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "hosea-7-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "They are all hot as an oven, and have devoured their judges; all their kings are fallen: <span class=\"clarity-word\">there is</span> none among them that calleth unto me.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "hosea-7-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Ephraim, he hath mixed himself among the people; Ephraim is a cake not turned.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "hosea-7-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Strangers have devoured his strength, and he knoweth <span class=\"clarity-word\">it</span> not: yea, gray hairs are here and there upon him, yet he knoweth not.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "hosea-7-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And the pride of Israel testifieth to his face: and they do not return to the <span class=\"small-caps\">Lord</span> their God, nor seek him for all this.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "hosea-7-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "¶ Ephraim also is like a silly dove without heart: they call to Egypt, they go to Assyria.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "hosea-7-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "When they shall go, I will spread my net upon them; I will bring them down as the fowls of the heaven; I will chastise them, as their congregation hath heard.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "hosea-7-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Woe unto them! for they have fled from me: destruction unto them! because they have transgressed against me: though I have redeemed them, yet they have spoken lies against me.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "hosea-7-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And they have not cried unto me with their heart, when they howled upon their beds: they assemble themselves for corn and wine, <span class=\"clarity-word\">and</span> they rebel against me.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "hosea-7-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Though I have bound <span class=\"clarity-word\">and</span> strengthened their arms, yet do they imagine mischief against me.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "hosea-7-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "They return, <span class=\"clarity-word\">but</span> not to the most High: they are like a deceitful bow: their princes shall fall by the sword for the rage of their tongue: this <span class=\"clarity-word\">shall be</span> their derision in the land of Egypt.",
+      "churchId": "p16"
+    }
+  ]
+}

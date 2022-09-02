@@ -1,0 +1,134 @@
+{
+  "name": "Job 42",
+  "abbrev": "Job 42",
+  "number": "42",
+  "churchUri": "/scriptures/ot/job/42",
+  "paragraphs": [
+    {
+      "slug": "job-42-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 42",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "job-42-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Then Job answered the <span class=\"small-caps\">Lord</span>, and said,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "job-42-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "I know that thou canst do every <span class=\"clarity-word\">thing,</span> and <span class=\"clarity-word\">that</span> no thought can be withholden from thee.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "job-42-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Who <span class=\"clarity-word\">is</span> he that hideth counsel without knowledge? therefore have I uttered that I understood not; things too wonderful for me, which I knew not.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "job-42-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Hear, I beseech thee, and I will speak: I will demand of thee, and declare thou unto me.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "job-42-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "I have heard of thee by the hearing of the ear: but now mine eye seeth thee.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "job-42-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Wherefore I abhor <span class=\"clarity-word\">myself,</span> and repent in dust and ashes.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "job-42-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "¶ And it was <span class=\"clarity-word\">so,</span> that after the <span class=\"small-caps\">Lord</span> had spoken these words unto Job, the <span class=\"small-caps\">Lord</span> said to Eliphaz the Temanite, My wrath is kindled against thee, and against thy two friends: for ye have not spoken of me <span class=\"clarity-word\">the thing that is</span> right, as my servant Job <span class=\"clarity-word\">hath.</span>",
+      "churchId": "p7"
+    },
+    {
+      "slug": "job-42-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Therefore take unto you now seven bullocks and seven rams, and go to my servant Job, and offer up for yourselves a burnt offering; and my servant Job shall pray for you: for him will I accept: lest I deal with you <span class=\"clarity-word\">after your</span> folly, in that ye have not spoken of me <span class=\"clarity-word\">the thing which is</span> right, like my servant Job.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "job-42-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "So Eliphaz the Temanite and Bildad the Shuhite <span class=\"clarity-word\">and</span> Zophar the Naamathite went, and did according as the <span class=\"small-caps\">Lord</span> commanded them: the <span class=\"small-caps\">Lord</span> also accepted Job.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "job-42-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And the <span class=\"small-caps\">Lord</span> turned the captivity of Job, when he prayed for his friends: also the <span class=\"small-caps\">Lord</span> gave Job twice as much as he had before.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "job-42-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Then came there unto him all his brethren, and all his sisters, and all they that had been of his acquaintance before, and did eat bread with him in his house: and they bemoaned him, and comforted him over all the evil that the <span class=\"small-caps\">Lord</span> had brought upon him: every man also gave him a piece of money, and every one an earring of gold.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "job-42-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "So the <span class=\"small-caps\">Lord</span> blessed the latter end of Job more than his beginning: for he had fourteen thousand sheep, and six thousand camels, and a thousand yoke of oxen, and a thousand she asses.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "job-42-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "He had also seven sons and three daughters.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "job-42-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And he called the name of the first, Jemima; and the name of the second, Kezia; and the name of the third, Keren-happuch.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "job-42-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And in all the land were no women found <span class=\"clarity-word\">so</span> fair as the daughters of Job: and their father gave them inheritance among their brethren.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "job-42-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "After this lived Job an hundred and forty years, and saw his sons, and his sons’ sons, <span class=\"clarity-word\">even</span> four generations.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "job-42-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "So Job died, <span class=\"clarity-word\">being</span> old and full of days.",
+      "churchId": "p17"
+    }
+  ]
+}

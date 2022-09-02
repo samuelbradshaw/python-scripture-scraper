@@ -1,0 +1,148 @@
+{
+  "name": "Psalm 88",
+  "abbrev": "Psalm 88",
+  "number": "88",
+  "churchUri": "/scriptures/ot/ps/88",
+  "paragraphs": [
+    {
+      "slug": "psalm-88-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 88",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-88-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "A Song <span class=\"clarity-word\">or</span> Psalm for the sons of Korah, to the chief Musician upon Mahalath Leannoth, Maschil of Heman the Ezrahite.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-88-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "O <span class=\"small-caps\">Lord</span> God of my salvation, I have cried day <span class=\"clarity-word\">and</span> night before thee:",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-88-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Let my prayer come before thee: incline thine ear unto my cry;",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-88-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "For my soul is full of troubles: and my life draweth nigh unto the grave.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-88-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "I am counted with them that go down into the pit: I am as a man <span class=\"clarity-word\">that hath</span> no strength:",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-88-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Free among the dead, like the slain that lie in the grave, whom thou rememberest no more: and they are cut off from thy hand.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-88-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Thou hast laid me in the lowest pit, in darkness, in the deeps.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-88-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Thy wrath lieth hard upon me, and thou hast afflicted <span class=\"clarity-word\">me</span> with all thy waves. Selah.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-88-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Thou hast put away mine acquaintance far from me; thou hast made me an abomination unto them: <span class=\"clarity-word\">I am</span> shut up, and I cannot come forth.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "psalm-88-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Mine eye mourneth by reason of affliction: <span class=\"small-caps\">Lord</span>, I have called daily upon thee, I have stretched out my hands unto thee.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "psalm-88-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Wilt thou shew wonders to the dead? shall the dead arise <span class=\"clarity-word\">and</span> praise thee? Selah.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "psalm-88-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Shall thy lovingkindness be declared in the grave? <span class=\"clarity-word\">or</span> thy faithfulness in destruction?",
+      "churchId": "p11"
+    },
+    {
+      "slug": "psalm-88-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Shall thy wonders be known in the dark? and thy righteousness in the land of forgetfulness?",
+      "churchId": "p12"
+    },
+    {
+      "slug": "psalm-88-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "But unto thee have I cried, O <span class=\"small-caps\">Lord</span>; and in the morning shall my prayer prevent thee.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "psalm-88-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "<span class=\"small-caps\">Lord</span>, why castest thou off my soul? <span class=\"clarity-word\">why</span> hidest thou thy face from me?",
+      "churchId": "p14"
+    },
+    {
+      "slug": "psalm-88-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "I <span class=\"clarity-word\">am</span> afflicted and ready to die from <span class=\"clarity-word\">my</span> youth up: <span class=\"clarity-word\">while</span> I suffer thy terrors I am distracted.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "psalm-88-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Thy fierce wrath goeth over me; thy terrors have cut me off.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "psalm-88-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "They came round about me daily like water; they compassed me about together.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "psalm-88-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Lover and friend hast thou put far from me, <span class=\"clarity-word\">and</span> mine acquaintance into darkness.",
+      "churchId": "p18"
+    }
+  ]
+}

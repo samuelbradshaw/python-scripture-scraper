@@ -1,0 +1,169 @@
+{
+  "name": "Exodus 3",
+  "abbrev": "Ex. 3",
+  "number": "3",
+  "churchUri": "/scriptures/ot/ex/3",
+  "paragraphs": [
+    {
+      "slug": "exodus-3-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 3",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "exodus-3-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Now Moses kept the flock of Jethro his father in law, the priest of Midian: and he led the flock to the backside of the desert, and came to the mountain of God, <span class=\"clarity-word\">even</span> to Horeb.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "exodus-3-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And the angel of the <span class=\"small-caps\">Lord</span> appeared unto him in a flame of fire out of the midst of a bush: and he looked, and, behold, the bush burned with fire, and the bush <span class=\"clarity-word\">was</span> not consumed.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "exodus-3-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And Moses said, I will now turn aside, and see this great sight, why the bush is not burnt.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "exodus-3-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And when the <span class=\"small-caps\">Lord</span> saw that he turned aside to see, God called unto him out of the midst of the bush, and said, Moses, Moses. And he said, Here <span class=\"clarity-word\">am</span> I.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "exodus-3-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And he said, Draw not nigh hither: put off thy shoes from off thy feet, for the place whereon thou standest <span class=\"clarity-word\">is</span> holy ground.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "exodus-3-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Moreover he said, I <span class=\"clarity-word\">am</span> the God of thy father, the God of Abraham, the God of Isaac, and the God of Jacob. And Moses hid his face; for he was afraid to look upon God.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "exodus-3-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "¶ And the <span class=\"small-caps\">Lord</span> said, I have surely seen the affliction of my people which <span class=\"clarity-word\">are</span> in Egypt, and have heard their cry by reason of their taskmasters; for I know their sorrows;",
+      "churchId": "p7"
+    },
+    {
+      "slug": "exodus-3-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And I am come down to deliver them out of the hand of the Egyptians, and to bring them up out of that land unto a good land and a large, unto a land flowing with milk and honey; unto the place of the Canaanites, and the Hittites, and the Amorites, and the Perizzites, and the Hivites, and the Jebusites.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "exodus-3-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Now therefore, behold, the cry of the children of Israel is come unto me: and I have also seen the oppression wherewith the Egyptians oppress them.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "exodus-3-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Come now therefore, and I will send thee unto Pharaoh, that thou mayest bring forth my people the children of Israel out of Egypt.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "exodus-3-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "¶ And Moses said unto God, Who <span class=\"clarity-word\">am</span> I, that I should go unto Pharaoh, and that I should bring forth the children of Israel out of Egypt?",
+      "churchId": "p11"
+    },
+    {
+      "slug": "exodus-3-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And he said, Certainly I will be with thee; and this <span class=\"clarity-word\">shall be</span> a token unto thee, that I have sent thee: When thou hast brought forth the people out of Egypt, ye shall serve God upon this mountain.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "exodus-3-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And Moses said unto God, Behold, <span class=\"clarity-word\">when</span> I come unto the children of Israel, and shall say unto them, The God of your fathers hath sent me unto you; and they shall say to me, What <span class=\"clarity-word\">is</span> his name? what shall I say unto them?",
+      "churchId": "p13"
+    },
+    {
+      "slug": "exodus-3-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And God said unto Moses, <span class=\"uppercase\">I Am That I Am</span>: and he said, Thus shalt thou say unto the children of Israel, <span class=\"uppercase\">I Am</span> hath sent me unto you.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "exodus-3-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And God said moreover unto Moses, Thus shalt thou say unto the children of Israel, The <span class=\"small-caps\">Lord</span> God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob, hath sent me unto you: this <span class=\"clarity-word\">is</span> my name for ever, and this <span class=\"clarity-word\">is</span> my memorial unto all generations.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "exodus-3-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Go, and gather the elders of Israel together, and say unto them, The <span class=\"small-caps\">Lord</span> God of your fathers, the God of Abraham, of Isaac, and of Jacob, appeared unto me, saying, I have surely visited you, and <span class=\"clarity-word\">seen</span> that which is done to you in Egypt:",
+      "churchId": "p16"
+    },
+    {
+      "slug": "exodus-3-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And I have said, I will bring you up out of the affliction of Egypt unto the land of the Canaanites, and the Hittites, and the Amorites, and the Perizzites, and the Hivites, and the Jebusites, unto a land flowing with milk and honey.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "exodus-3-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And they shall hearken to thy voice: and thou shalt come, thou and the elders of Israel, unto the king of Egypt, and ye shall say unto him, The <span class=\"small-caps\">Lord</span> God of the Hebrews hath met with us: and now let us go, we beseech thee, three days’ journey into the wilderness, that we may sacrifice to the <span class=\"small-caps\">Lord</span> our God.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "exodus-3-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "¶ And I am sure that the king of Egypt will not let you go, no, not by a mighty hand.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "exodus-3-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And I will stretch out my hand, and smite Egypt with all my wonders which I will do in the midst thereof: and after that he will let you go.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "exodus-3-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And I will give this people favour in the sight of the Egyptians: and it shall come to pass, that, when ye go, ye shall not go empty:",
+      "churchId": "p21"
+    },
+    {
+      "slug": "exodus-3-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "But every woman shall borrow of her neighbour, and of her that sojourneth in her house, jewels of silver, and jewels of gold, and raiment: and ye shall put <span class=\"clarity-word\">them</span> upon your sons, and upon your daughters; and ye shall spoil the Egyptians.",
+      "churchId": "p22"
+    }
+  ]
+}

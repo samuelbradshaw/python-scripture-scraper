@@ -1,0 +1,190 @@
+{
+  "name": "Judges 21",
+  "abbrev": "Judg. 21",
+  "number": "21",
+  "churchUri": "/scriptures/ot/judg/21",
+  "paragraphs": [
+    {
+      "slug": "judges-21-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 21",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "judges-21-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Now the men of Israel had sworn in Mizpeh, saying, There shall not any of us give his daughter unto Benjamin to wife.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "judges-21-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And the people came to the house of God, and abode there till even before God, and lifted up their voices, and wept sore;",
+      "churchId": "p2"
+    },
+    {
+      "slug": "judges-21-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And said, O <span class=\"small-caps\">Lord</span> God of Israel, why is this come to pass in Israel, that there should be to day one tribe lacking in Israel?",
+      "churchId": "p3"
+    },
+    {
+      "slug": "judges-21-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And it came to pass on the morrow, that the people rose early, and built there an altar, and offered burnt offerings and peace offerings.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "judges-21-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And the children of Israel said, Who <span class=\"clarity-word\">is there</span> among all the tribes of Israel that came not up with the congregation unto the <span class=\"small-caps\">Lord</span>? For they had made a great oath concerning him that came not up to the <span class=\"small-caps\">Lord</span> to Mizpeh, saying, He shall surely be put to death.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "judges-21-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And the children of Israel repented them for Benjamin their brother, and said, There is one tribe cut off from Israel this day.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "judges-21-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "How shall we do for wives for them that remain, seeing we have sworn by the <span class=\"small-caps\">Lord</span> that we will not give them of our daughters to wives?",
+      "churchId": "p7"
+    },
+    {
+      "slug": "judges-21-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "¶ And they said, What one <span class=\"clarity-word\">is there</span> of the tribes of Israel that came not up to Mizpeh to the <span class=\"small-caps\">Lord</span>? And, behold, there came none to the camp from Jabesh-gilead to the assembly.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "judges-21-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "For the people were numbered, and, behold, <span class=\"clarity-word\">there were</span> none of the inhabitants of Jabesh-gilead there.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "judges-21-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And the congregation sent thither twelve thousand men of the valiantest, and commanded them, saying, Go and smite the inhabitants of Jabesh-gilead with the edge of the sword, with the women and the children.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "judges-21-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And this <span class=\"clarity-word\">is</span> the thing that ye shall do, Ye shall utterly destroy every male, and every woman that hath lain by man.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "judges-21-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And they found among the inhabitants of Jabesh-gilead four hundred young virgins, that had known no man by lying with any male: and they brought them unto the camp to Shiloh, which <span class=\"clarity-word\">is</span> in the land of Canaan.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "judges-21-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And the whole congregation sent <span class=\"clarity-word\">some</span> to speak to the children of Benjamin that <span class=\"clarity-word\">were</span> in the rock Rimmon, and to call peaceably unto them.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "judges-21-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And Benjamin came again at that time; and they gave them wives which they had saved alive of the women of Jabesh-gilead: and yet so they sufficed them not.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "judges-21-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And the people repented them for Benjamin, because that the <span class=\"small-caps\">Lord</span> had made a breach in the tribes of Israel.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "judges-21-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "¶ Then the elders of the congregation said, How shall we do for wives for them that remain, seeing the women are destroyed out of Benjamin?",
+      "churchId": "p16"
+    },
+    {
+      "slug": "judges-21-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And they said, <span class=\"clarity-word\">There must be</span> an inheritance for them that be escaped of Benjamin, that a tribe be not destroyed out of Israel.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "judges-21-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Howbeit we may not give them wives of our daughters: for the children of Israel have sworn, saying, Cursed <span class=\"clarity-word\">be</span> he that giveth a wife to Benjamin.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "judges-21-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Then they said, Behold, <span class=\"clarity-word\">there is</span> a feast of the <span class=\"small-caps\">Lord</span> in Shiloh yearly <span class=\"clarity-word\">in a place</span> which <span class=\"clarity-word\">is</span> on the north side of Beth-el, on the east side of the highway that goeth up from Beth-el to Shechem, and on the south of Lebonah.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "judges-21-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Therefore they commanded the children of Benjamin, saying, Go and lie in wait in the vineyards;",
+      "churchId": "p20"
+    },
+    {
+      "slug": "judges-21-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And see, and, behold, if the daughters of Shiloh come out to dance in dances, then come ye out of the vineyards, and catch you every man his wife of the daughters of Shiloh, and go to the land of Benjamin.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "judges-21-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And it shall be, when their fathers or their brethren come unto us to complain, that we will say unto them, Be favourable unto them for our sakes: because we reserved not to each man his wife in the war: for ye did not give unto them at this time, <span class=\"clarity-word\">that</span> ye should be guilty.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "judges-21-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And the children of Benjamin did so, and took <span class=\"clarity-word\">them</span> wives, according to their number, of them that danced, whom they caught: and they went and returned unto their inheritance, and repaired the cities, and dwelt in them.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "judges-21-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And the children of Israel departed thence at that time, every man to his tribe and to his family, and they went out from thence every man to his inheritance.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "judges-21-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "In those days <span class=\"clarity-word\">there was</span> no king in Israel: every man did <span class=\"clarity-word\">that which was</span> right in his own eyes.",
+      "churchId": "p25"
+    }
+  ]
+}

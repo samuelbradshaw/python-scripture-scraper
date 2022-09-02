@@ -1,0 +1,344 @@
+{
+  "name": "Doctrine and Covenants 18",
+  "abbrev": "D&C 18",
+  "number": "18",
+  "churchUri": "/scriptures/dc-testament/dc/18",
+  "paragraphs": [
+    {
+      "slug": "section-18-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Section 18",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "section-18-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Now, behold, because of the thing which you, my servant Oliver Cowdery, have desired to know of me, I give unto you these words:",
+      "churchId": "p1"
+    },
+    {
+      "slug": "section-18-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Behold, I have manifested unto you, by my Spirit in many instances, that the things which you have written are true; wherefore you know that they are true.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "section-18-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And if you know that they are true, behold, I give unto you a commandment, that you rely upon the things which are written;",
+      "churchId": "p3"
+    },
+    {
+      "slug": "section-18-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "For in them are all things written concerning the foundation of my church, my gospel, and my rock.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "section-18-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Wherefore, if you shall build up my church, upon the foundation of my gospel and my rock, the gates of hell shall not prevail against you.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "section-18-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Behold, the world is ripening in iniquity; and it must needs be that the children of men are stirred up unto repentance, both the Gentiles and also the house of Israel.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "section-18-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Wherefore, as thou hast been baptized by the hands of my servant Joseph Smith, Jun., according to that which I have commanded him, he hath fulfilled the thing which I commanded him.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "section-18-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And now, marvel not that I have called him unto mine own purpose, which purpose is known in me; wherefore, if he shall be diligent in keeping my commandments he shall be blessed unto eternal life; and his name is Joseph.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "section-18-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And now, Oliver Cowdery, I speak unto you, and also unto David Whitmer, by the way of commandment; for, behold, I command all men everywhere to repent, and I speak unto you, even as unto Paul mine apostle, for you are called even with that same calling with which he was called.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "section-18-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Remember the worth of souls is great in the sight of God;",
+      "churchId": "p10"
+    },
+    {
+      "slug": "section-18-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "For, behold, the Lord your Redeemer suffered death in the flesh; wherefore he suffered the pain of all men, that all men might repent and come unto him.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "section-18-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And he hath risen again from the dead, that he might bring all men unto him, on conditions of repentance.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "section-18-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And how great is his joy in the soul that repenteth!",
+      "churchId": "p13"
+    },
+    {
+      "slug": "section-18-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Wherefore, you are called to cry repentance unto this people.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "section-18-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And if it so be that you should labor all your days in crying repentance unto this people, and bring, save it be one soul unto me, how great shall be your joy with him in the kingdom of my Father!",
+      "churchId": "p15"
+    },
+    {
+      "slug": "section-18-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And now, if your joy will be great with one soul that you have brought unto me into the kingdom of my Father, how great will be your joy if you should bring many souls unto me!",
+      "churchId": "p16"
+    },
+    {
+      "slug": "section-18-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Behold, you have my gospel before you, and my rock, and my salvation.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "section-18-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Ask the Father in my name in faith, believing that you shall receive, and you shall have the Holy Ghost, which manifesteth all things which are expedient unto the children of men.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "section-18-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And if you have not faith, hope, and charity, you can do nothing.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "section-18-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Contend against no church, save it be the church of the devil.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "section-18-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Take upon you the name of Christ, and speak the truth in soberness.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "section-18-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And as many as repent and are baptized in my name, which is Jesus Christ, and endure to the end, the same shall be saved.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "section-18-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Behold, Jesus Christ is the name which is given of the Father, and there is none other name given whereby man can be saved;",
+      "churchId": "p23"
+    },
+    {
+      "slug": "section-18-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Wherefore, all men must take upon them the name which is given of the Father, for in that name shall they be called at the last day;",
+      "churchId": "p24"
+    },
+    {
+      "slug": "section-18-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Wherefore, if they know not the name by which they are called, they cannot have place in the kingdom of my Father.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "section-18-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And now, behold, there are others who are called to declare my gospel, both unto Gentile and unto Jew;",
+      "churchId": "p26"
+    },
+    {
+      "slug": "section-18-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "Yea, even twelve; and the Twelve shall be my disciples, and they shall take upon them my name; and the Twelve are they who shall desire to take upon them my name with full purpose of heart.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "section-18-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And if they desire to take upon them my name with full purpose of heart, they are called to go into all the world to preach my gospel unto every creature.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "section-18-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "And they are they who are ordained of me to baptize in my name, according to that which is written;",
+      "churchId": "p29"
+    },
+    {
+      "slug": "section-18-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And you have that which is written before you; wherefore, you must perform it according to the words which are written.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "section-18-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "And now I speak unto you, the Twelve—Behold, my grace is sufficient for you; you must walk uprightly before me and sin not.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "section-18-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "And, behold, you are they who are ordained of me to ordain priests and teachers; to declare my gospel, according to the power of the Holy Ghost which is in you, and according to the callings and gifts of God unto men;",
+      "churchId": "p32"
+    },
+    {
+      "slug": "section-18-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "And I, Jesus Christ, your Lord and your God, have spoken it.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "section-18-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "These words are not of men nor of man, but of me; wherefore, you shall testify they are of me and not of man;",
+      "churchId": "p34"
+    },
+    {
+      "slug": "section-18-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "For it is my voice which speaketh them unto you; for they are given by my Spirit unto you, and by my power you can read them one to another; and save it were by my power you could not have them;",
+      "churchId": "p35"
+    },
+    {
+      "slug": "section-18-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "Wherefore, you can testify that you have heard my voice, and know my words.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "section-18-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "And now, behold, I give unto you, Oliver Cowdery, and also unto David Whitmer, that you shall search out the Twelve, who shall have the desires of which I have spoken;",
+      "churchId": "p37"
+    },
+    {
+      "slug": "section-18-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "And by their desires and their works you shall know them.",
+      "churchId": "p38"
+    },
+    {
+      "slug": "section-18-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "And when you have found them you shall show these things unto them.",
+      "churchId": "p39"
+    },
+    {
+      "slug": "section-18-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "And you shall fall down and worship the Father in my name.",
+      "churchId": "p40"
+    },
+    {
+      "slug": "section-18-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "And you must preach unto the world, saying: You must repent and be baptized, in the name of Jesus Christ;",
+      "churchId": "p41"
+    },
+    {
+      "slug": "section-18-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "For all men must repent and be baptized, and not only men, but women, and children who have arrived at the years of accountability.",
+      "churchId": "p42"
+    },
+    {
+      "slug": "section-18-p43",
+      "type": "verse",
+      "number": "43",
+      "content": "And now, after that you have received this, you must keep my commandments in all things;",
+      "churchId": "p43"
+    },
+    {
+      "slug": "section-18-p44",
+      "type": "verse",
+      "number": "44",
+      "content": "And by your hands I will work a marvelous work among the children of men, unto the convincing of many of their sins, that they may come unto repentance, and that they may come unto the kingdom of my Father.",
+      "churchId": "p44"
+    },
+    {
+      "slug": "section-18-p45",
+      "type": "verse",
+      "number": "45",
+      "content": "Wherefore, the blessings which I give unto you are above all things.",
+      "churchId": "p45"
+    },
+    {
+      "slug": "section-18-p46",
+      "type": "verse",
+      "number": "46",
+      "content": "And after that you have received this, if you keep not my commandments you cannot be saved in the kingdom of my Father.",
+      "churchId": "p46"
+    },
+    {
+      "slug": "section-18-p47",
+      "type": "verse",
+      "number": "47",
+      "content": "Behold, I, Jesus Christ, your Lord and your God, and your Redeemer, by the power of my Spirit have spoken it. Amen.",
+      "churchId": "p47"
+    }
+  ]
+}

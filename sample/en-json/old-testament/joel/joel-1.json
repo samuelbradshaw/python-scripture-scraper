@@ -1,0 +1,162 @@
+{
+  "name": "Joel 1",
+  "abbrev": "Joel 1",
+  "number": "1",
+  "churchUri": "/scriptures/ot/joel/1",
+  "paragraphs": [
+    {
+      "slug": "joel-1-title1",
+      "type": "book-title",
+      "number": null,
+      "content": "Joel",
+      "churchId": "title1"
+    },
+    {
+      "slug": "joel-1-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 1",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "joel-1-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "The word of the <span class=\"small-caps\">Lord</span> that came to Joel the son of Pethuel.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "joel-1-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Hear this, ye old men, and give ear, all ye inhabitants of the land. Hath this been in your days, or even in the days of your fathers?",
+      "churchId": "p2"
+    },
+    {
+      "slug": "joel-1-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Tell ye your children of it, and <span class=\"clarity-word\">let</span> your children <span class=\"clarity-word\">tell</span> their children, and their children another generation.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "joel-1-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "That which the palmerworm hath left hath the locust eaten; and that which the locust hath left hath the cankerworm eaten; and that which the cankerworm hath left hath the caterpiller eaten.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "joel-1-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Awake, ye drunkards, and weep; and howl, all ye drinkers of wine, because of the new wine; for it is cut off from your mouth.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "joel-1-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "For a nation is come up upon my land, strong, and without number, whose teeth <span class=\"clarity-word\">are</span> the teeth of a lion, and he hath the cheek teeth of a great lion.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "joel-1-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "He hath laid my vine waste, and barked my fig tree: he hath made it clean bare, and cast <span class=\"clarity-word\">it</span> away; the branches thereof are made white.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "joel-1-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "¶ Lament like a virgin girded with sackcloth for the husband of her youth.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "joel-1-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "The meat offering and the drink offering is cut off from the house of the <span class=\"small-caps\">Lord</span>; the priests, the <span class=\"small-caps\">Lord</span>’s ministers, mourn.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "joel-1-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "The field is wasted, the land mourneth; for the corn is wasted: the new wine is dried up, the oil languisheth.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "joel-1-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Be ye ashamed, O ye husbandmen; howl, O ye vinedressers, for the wheat and for the barley; because the harvest of the field is perished.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "joel-1-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "The vine is dried up, and the fig tree languisheth; the pomegranate tree, the palm tree also, and the apple tree, <span class=\"clarity-word\">even</span> all the trees of the field, are withered: because joy is withered away from the sons of men.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "joel-1-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Gird yourselves, and lament, ye priests: howl, ye ministers of the altar: come, lie all night in sackcloth, ye ministers of my God: for the meat offering and the drink offering is withholden from the house of your God.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "joel-1-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "¶ Sanctify ye a fast, call a solemn assembly, gather the elders <span class=\"clarity-word\">and</span> all the inhabitants of the land <span class=\"clarity-word\">into</span> the house of the <span class=\"small-caps\">Lord</span> your God, and cry unto the <span class=\"small-caps\">Lord</span>,",
+      "churchId": "p14"
+    },
+    {
+      "slug": "joel-1-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Alas for the day! for the day of the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">is</span> at hand, and as a destruction from the Almighty shall it come.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "joel-1-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Is not the meat cut off before our eyes, <span class=\"clarity-word\">yea,</span> joy and gladness from the house of our God?",
+      "churchId": "p16"
+    },
+    {
+      "slug": "joel-1-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "The seed is rotten under their clods, the garners are laid desolate, the barns are broken down; for the corn is withered.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "joel-1-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "How do the beasts groan! the herds of cattle are perplexed, because they have no pasture; yea, the flocks of sheep are made desolate.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "joel-1-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "O <span class=\"small-caps\">Lord</span>, to thee will I cry: for the fire hath devoured the pastures of the wilderness, and the flame hath burned all the trees of the field.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "joel-1-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "The beasts of the field cry also unto thee: for the rivers of waters are dried up, and the fire hath devoured the pastures of the wilderness.",
+      "churchId": "p20"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "name": "Genesis 12",
+  "abbrev": "Gen. 12",
+  "number": "12",
+  "churchUri": "/scriptures/ot/gen/12",
+  "paragraphs": [
+    {
+      "slug": "genesis-12-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 12",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "genesis-12-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Now the <span class=\"small-caps\">Lord</span> had said unto Abram, Get thee out of thy country, and from thy kindred, and from thy father’s house, unto a land that I will shew thee:",
+      "churchId": "p1"
+    },
+    {
+      "slug": "genesis-12-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And I will make of thee a great nation, and I will bless thee, and make thy name great; and thou shalt be a blessing:",
+      "churchId": "p2"
+    },
+    {
+      "slug": "genesis-12-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And I will bless them that bless thee, and curse him that curseth thee: and in thee shall all families of the earth be blessed.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "genesis-12-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "So Abram departed, as the <span class=\"small-caps\">Lord</span> had spoken unto him; and Lot went with him: and Abram <span class=\"clarity-word\">was</span> seventy and five years old when he departed out of Haran.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "genesis-12-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And Abram took Sarai his wife, and Lot his brother’s son, and all their substance that they had gathered, and the souls that they had gotten in Haran; and they went forth to go into the land of Canaan; and into the land of Canaan they came.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "genesis-12-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "¶ And Abram passed through the land unto the place of Sichem, unto the plain of Moreh. And the Canaanite <span class=\"clarity-word\">was</span> then in the land.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "genesis-12-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And the <span class=\"small-caps\">Lord</span> appeared unto Abram, and said, Unto thy seed will I give this land: and there builded he an altar unto the <span class=\"small-caps\">Lord</span>, who appeared unto him.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "genesis-12-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And he removed from thence unto a mountain on the east of Beth-el, and pitched his tent, <span class=\"clarity-word\">having</span> Beth-el on the west, and Hai on the east: and there he builded an altar unto the <span class=\"small-caps\">Lord</span>, and called upon the name of the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "genesis-12-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And Abram journeyed, going on still toward the south.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "genesis-12-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "¶ And there was a famine in the land: and Abram went down into Egypt to sojourn there; for the famine <span class=\"clarity-word\">was</span> grievous in the land.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "genesis-12-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And it came to pass, when he was come near to enter into Egypt, that he said unto Sarai his wife, Behold now, I know that thou <span class=\"clarity-word\">art</span> a fair woman to look upon:",
+      "churchId": "p11"
+    },
+    {
+      "slug": "genesis-12-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Therefore it shall come to pass, when the Egyptians shall see thee, that they shall say, This <span class=\"clarity-word\">is</span> his wife: and they will kill me, but they will save thee alive.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "genesis-12-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Say, I pray thee, thou <span class=\"clarity-word\">art</span> my sister: that it may be well with me for thy sake; and my soul shall live because of thee.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "genesis-12-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "¶ And it came to pass, that, when Abram was come into Egypt, the Egyptians beheld the woman that she <span class=\"clarity-word\">was</span> very fair.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "genesis-12-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "The princes also of Pharaoh saw her, and commended her before Pharaoh: and the woman was taken into Pharaoh’s house.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "genesis-12-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And he entreated Abram well for her sake: and he had sheep, and oxen, and he asses, and menservants, and maidservants, and she asses, and camels.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "genesis-12-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And the <span class=\"small-caps\">Lord</span> plagued Pharaoh and his house with great plagues because of Sarai Abram’s wife.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "genesis-12-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And Pharaoh called Abram, and said, What <span class=\"clarity-word\">is</span> this <span class=\"clarity-word\">that</span> thou hast done unto me? why didst thou not tell me that she <span class=\"clarity-word\">was</span> thy wife?",
+      "churchId": "p18"
+    },
+    {
+      "slug": "genesis-12-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Why saidst thou, She <span class=\"clarity-word\">is</span> my sister? so I might have taken her to me to wife: now therefore behold thy wife, take <span class=\"clarity-word\">her,</span> and go thy way.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "genesis-12-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And Pharaoh commanded <span class=\"clarity-word\">his</span> men concerning him: and they sent him away, and his wife, and all that he had.",
+      "churchId": "p20"
+    }
+  ]
+}

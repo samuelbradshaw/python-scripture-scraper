@@ -1,0 +1,127 @@
+{
+  "name": "1 Corinthians 2",
+  "abbrev": "1 Cor. 2",
+  "number": "2",
+  "churchUri": "/scriptures/nt/1-cor/2",
+  "paragraphs": [
+    {
+      "slug": "1-corinthians-2-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 2",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "1-corinthians-2-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And I, brethren, when I came to you, came not with excellency of speech or of wisdom, declaring unto you the testimony of God.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "1-corinthians-2-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "For I determined not to know any thing among you, save Jesus Christ, and him crucified.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "1-corinthians-2-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And I was with you in weakness, and in fear, and in much trembling.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "1-corinthians-2-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And my speech and my preaching <span class=\"clarity-word\">was</span> not with enticing words of man’s wisdom, but in demonstration of the Spirit and of power:",
+      "churchId": "p4"
+    },
+    {
+      "slug": "1-corinthians-2-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "That your faith should not stand in the wisdom of men, but in the power of God.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "1-corinthians-2-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Howbeit we speak wisdom among them that are perfect: yet not the wisdom of this world, nor of the princes of this world, that come to nought:",
+      "churchId": "p6"
+    },
+    {
+      "slug": "1-corinthians-2-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "But we speak the wisdom of God in a mystery, <span class=\"clarity-word\">even</span> the hidden <span class=\"clarity-word\">wisdom,</span> which God ordained before the world unto our glory:",
+      "churchId": "p7"
+    },
+    {
+      "slug": "1-corinthians-2-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Which none of the princes of this world knew: for had they known <span class=\"clarity-word\">it,</span> they would not have crucified the Lord of glory.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "1-corinthians-2-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "But as it is written, Eye hath not seen, nor ear heard, neither have entered into the heart of man, the things which God hath prepared for them that love him.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "1-corinthians-2-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "But God hath revealed <span class=\"clarity-word\">them</span> unto us by his Spirit: for the Spirit searcheth all things, yea, the deep things of God.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "1-corinthians-2-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "For what man knoweth the things of a man, save the spirit of man which is in him? even so the things of God knoweth no man, but the Spirit of God.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "1-corinthians-2-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Now we have received, not the spirit of the world, but the spirit which is of God; that we might know the things that are freely given to us of God.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "1-corinthians-2-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Which things also we speak, not in the words which man’s wisdom teacheth, but which the Holy Ghost teacheth; comparing spiritual things with spiritual.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "1-corinthians-2-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "But the natural man receiveth not the things of the Spirit of God: for they are foolishness unto him: neither can he know <span class=\"clarity-word\">them,</span> because they are spiritually discerned.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "1-corinthians-2-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "But he that is spiritual judgeth all things, yet he himself is judged of no man.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "1-corinthians-2-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "For who hath known the mind of the Lord, that he may instruct him? But we have the mind of Christ.",
+      "churchId": "p16"
+    }
+  ]
+}

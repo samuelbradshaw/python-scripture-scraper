@@ -1,0 +1,337 @@
+{
+  "name": "Matthew 22",
+  "abbrev": "Matt. 22",
+  "number": "22",
+  "churchUri": "/scriptures/nt/matt/22",
+  "paragraphs": [
+    {
+      "slug": "matthew-22-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 22",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "matthew-22-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And Jesus answered and spake unto them again by parables, and said,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "matthew-22-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "The kingdom of heaven is like unto a certain king, which made a marriage for his son,",
+      "churchId": "p2"
+    },
+    {
+      "slug": "matthew-22-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And sent forth his servants to call them that were bidden to the wedding: and they would not come.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "matthew-22-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Again, he sent forth other servants, saying, Tell them which are bidden, Behold, I have prepared my dinner: my oxen and <span class=\"clarity-word\">my</span> fatlings <span class=\"clarity-word\">are</span> killed, and all things <span class=\"clarity-word\">are</span> ready: come unto the marriage.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "matthew-22-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "But they made light of <span class=\"clarity-word\">it,</span> and went their ways, one to his farm, another to his merchandise:",
+      "churchId": "p5"
+    },
+    {
+      "slug": "matthew-22-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And the remnant took his servants, and entreated <span class=\"clarity-word\">them</span> spitefully, and slew <span class=\"clarity-word\">them.</span>",
+      "churchId": "p6"
+    },
+    {
+      "slug": "matthew-22-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "But when the king heard <span class=\"clarity-word\">thereof,</span> he was wroth: and he sent forth his armies, and destroyed those murderers, and burned up their city.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "matthew-22-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Then saith he to his servants, The wedding is ready, but they which were bidden were not worthy.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "matthew-22-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Go ye therefore into the highways, and as many as ye shall find, bid to the marriage.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "matthew-22-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "So those servants went out into the highways, and gathered together all as many as they found, both bad and good: and the wedding was furnished with guests.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "matthew-22-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "¶ And when the king came in to see the guests, he saw there a man which had not on a wedding garment:",
+      "churchId": "p11"
+    },
+    {
+      "slug": "matthew-22-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And he saith unto him, Friend, how camest thou in hither not having a wedding garment? And he was speechless.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "matthew-22-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Then said the king to the servants, Bind him hand and foot, and take him away, and cast <span class=\"clarity-word\">him</span> into outer darkness; there shall be weeping and gnashing of teeth.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "matthew-22-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "For many are called, but few <span class=\"clarity-word\">are</span> chosen.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "matthew-22-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "¶ Then went the Pharisees, and took counsel how they might entangle him in <span class=\"clarity-word\">his</span> talk.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "matthew-22-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And they sent out unto him their disciples with the Herodians, saying, Master, we know that thou art true, and teachest the way of God in truth, neither carest thou for any <span class=\"clarity-word\">man:</span> for thou regardest not the person of men.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "matthew-22-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Tell us therefore, What thinkest thou? Is it lawful to give tribute unto Cæsar, or not?",
+      "churchId": "p17"
+    },
+    {
+      "slug": "matthew-22-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "But Jesus perceived their wickedness, and said, Why tempt ye me, <span class=\"clarity-word\">ye</span> hypocrites?",
+      "churchId": "p18"
+    },
+    {
+      "slug": "matthew-22-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Shew me the tribute money. And they brought unto him a penny.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "matthew-22-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And he saith unto them, Whose <span class=\"clarity-word\">is</span> this image and superscription?",
+      "churchId": "p20"
+    },
+    {
+      "slug": "matthew-22-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "They say unto him, Cæsar’s. Then saith he unto them, Render therefore unto Cæsar the things which are Cæsar’s; and unto God the things that are God’s.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "matthew-22-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "When they had heard <span class=\"clarity-word\">these words,</span> they marvelled, and left him, and went their way.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "matthew-22-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "¶ The same day came to him the Sadducees, which say that there is no resurrection, and asked him,",
+      "churchId": "p23"
+    },
+    {
+      "slug": "matthew-22-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Saying, Master, Moses said, If a man die, having no children, his brother shall marry his wife, and raise up seed unto his brother.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "matthew-22-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Now there were with us seven brethren: and the first, when he had married a wife, deceased, and, having no issue, left his wife unto his brother:",
+      "churchId": "p25"
+    },
+    {
+      "slug": "matthew-22-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "Likewise the second also, and the third, unto the seventh.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "matthew-22-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And last of all the woman died also.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "matthew-22-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "Therefore in the resurrection whose wife shall she be of the seven? for they all had her.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "matthew-22-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "Jesus answered and said unto them, Ye do err, not knowing the scriptures, nor the power of God.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "matthew-22-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "For in the resurrection they neither marry, nor are given in marriage, but are as the angels of God in heaven.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "matthew-22-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "But as touching the resurrection of the dead, have ye not read that which was spoken unto you by God, saying,",
+      "churchId": "p31"
+    },
+    {
+      "slug": "matthew-22-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "I am the God of Abraham, and the God of Isaac, and the God of Jacob? God is not the God of the dead, but of the living.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "matthew-22-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "And when the multitude heard <span class=\"clarity-word\">this,</span> they were astonished at his doctrine.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "matthew-22-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "¶ But when the Pharisees had heard that he had put the Sadducees to silence, they were gathered together.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "matthew-22-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "Then one of them, <span class=\"clarity-word\">which was</span> a lawyer, asked <span class=\"clarity-word\">him a question,</span> tempting him, and saying,",
+      "churchId": "p35"
+    },
+    {
+      "slug": "matthew-22-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "Master, which <span class=\"clarity-word\">is</span> the great commandment in the law?",
+      "churchId": "p36"
+    },
+    {
+      "slug": "matthew-22-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "Jesus said unto him, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "matthew-22-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "This is the first and great commandment.",
+      "churchId": "p38"
+    },
+    {
+      "slug": "matthew-22-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "And the second <span class=\"clarity-word\">is</span> like unto it, Thou shalt love thy neighbour as thyself.",
+      "churchId": "p39"
+    },
+    {
+      "slug": "matthew-22-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "On these two commandments hang all the law and the prophets.",
+      "churchId": "p40"
+    },
+    {
+      "slug": "matthew-22-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "¶ While the Pharisees were gathered together, Jesus asked them,",
+      "churchId": "p41"
+    },
+    {
+      "slug": "matthew-22-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "Saying, What think ye of Christ? whose son is he? They say unto him, <span class=\"clarity-word\">The Son</span> of David.",
+      "churchId": "p42"
+    },
+    {
+      "slug": "matthew-22-p43",
+      "type": "verse",
+      "number": "43",
+      "content": "He saith unto them, How then doth David in spirit call him Lord, saying,",
+      "churchId": "p43"
+    },
+    {
+      "slug": "matthew-22-p44",
+      "type": "verse",
+      "number": "44",
+      "content": "The <span class=\"small-caps\">Lord</span> said unto my Lord, Sit thou on my right hand, till I make thine enemies thy footstool?",
+      "churchId": "p44"
+    },
+    {
+      "slug": "matthew-22-p45",
+      "type": "verse",
+      "number": "45",
+      "content": "If David then call him Lord, how is he his son?",
+      "churchId": "p45"
+    },
+    {
+      "slug": "matthew-22-p46",
+      "type": "verse",
+      "number": "46",
+      "content": "And no man was able to answer him a word, neither durst any <span class=\"clarity-word\">man</span> from that day forth ask him any more <span class=\"clarity-word\">questions.</span>",
+      "churchId": "p46"
+    }
+  ]
+}

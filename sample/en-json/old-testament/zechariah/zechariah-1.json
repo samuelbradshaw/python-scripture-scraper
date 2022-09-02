@@ -1,0 +1,169 @@
+{
+  "name": "Zechariah 1",
+  "abbrev": "Zech. 1",
+  "number": "1",
+  "churchUri": "/scriptures/ot/zech/1",
+  "paragraphs": [
+    {
+      "slug": "zechariah-1-title1",
+      "type": "book-title",
+      "number": null,
+      "content": "Zechariah",
+      "churchId": "title1"
+    },
+    {
+      "slug": "zechariah-1-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 1",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "zechariah-1-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "In the eighth month, in the second year of Darius, came the word of the <span class=\"small-caps\">Lord</span> unto Zechariah, the son of Berechiah, the son of Iddo the prophet, saying,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "zechariah-1-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "The <span class=\"small-caps\">Lord</span> hath been sore displeased with your fathers.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "zechariah-1-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Therefore say thou unto them, Thus saith the <span class=\"small-caps\">Lord</span> of hosts; Turn ye unto me, saith the <span class=\"small-caps\">Lord</span> of hosts, and I will turn unto you, saith the <span class=\"small-caps\">Lord</span> of hosts.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "zechariah-1-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Be ye not as your fathers, unto whom the former prophets have cried, saying, Thus saith the <span class=\"small-caps\">Lord</span> of hosts; Turn ye now from your evil ways, and <span class=\"clarity-word\">from</span> your evil doings: but they did not hear, nor hearken unto me, saith the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "zechariah-1-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Your fathers, where <span class=\"clarity-word\">are</span> they? and the prophets, do they live for ever?",
+      "churchId": "p5"
+    },
+    {
+      "slug": "zechariah-1-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "But my words and my statutes, which I commanded my servants the prophets, did they not take hold of your fathers? and they returned and said, Like as the <span class=\"small-caps\">Lord</span> of hosts thought to do unto us, according to our ways, and according to our doings, so hath he dealt with us.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "zechariah-1-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "¶ Upon the four and twentieth day of the eleventh month, which <span class=\"clarity-word\">is</span> the month Sebat, in the second year of Darius, came the word of the <span class=\"small-caps\">Lord</span> unto Zechariah, the son of Berechiah, the son of Iddo the prophet, saying,",
+      "churchId": "p7"
+    },
+    {
+      "slug": "zechariah-1-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "I saw by night, and behold a man riding upon a red horse, and he stood among the myrtle trees that <span class=\"clarity-word\">were</span> in the bottom; and behind him <span class=\"clarity-word\">were there</span> red horses, speckled, and white.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "zechariah-1-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Then said I, O my lord, what <span class=\"clarity-word\">are</span> these? And the angel that talked with me said unto me, I will shew thee what these <span class=\"clarity-word\">be.</span>",
+      "churchId": "p9"
+    },
+    {
+      "slug": "zechariah-1-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And the man that stood among the myrtle trees answered and said, These <span class=\"clarity-word\">are they</span> whom the <span class=\"small-caps\">Lord</span> hath sent to walk to and fro through the earth.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "zechariah-1-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And they answered the angel of the <span class=\"small-caps\">Lord</span> that stood among the myrtle trees, and said, We have walked to and fro through the earth, and, behold, all the earth sitteth still, and is at rest.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "zechariah-1-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "¶ Then the angel of the <span class=\"small-caps\">Lord</span> answered and said, O <span class=\"small-caps\">Lord</span> of hosts, how long wilt thou not have mercy on Jerusalem and on the cities of Judah, against which thou hast had indignation these threescore and ten years?",
+      "churchId": "p12"
+    },
+    {
+      "slug": "zechariah-1-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And the <span class=\"small-caps\">Lord</span> answered the angel that talked with me <span class=\"clarity-word\">with</span> good words <span class=\"clarity-word\">and</span> comfortable words.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "zechariah-1-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "So the angel that communed with me said unto me, Cry thou, saying, Thus saith the <span class=\"small-caps\">Lord</span> of hosts; I am jealous for Jerusalem and for Zion with a great jealousy.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "zechariah-1-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And I am very sore displeased with the heathen <span class=\"clarity-word\">that are</span> at ease: for I was but a little displeased, and they helped forward the affliction.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "zechariah-1-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Therefore thus saith the <span class=\"small-caps\">Lord</span>; I am returned to Jerusalem with mercies: my house shall be built in it, saith the <span class=\"small-caps\">Lord</span> of hosts, and a line shall be stretched forth upon Jerusalem.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "zechariah-1-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Cry yet, saying, Thus saith the <span class=\"small-caps\">Lord</span> of hosts; My cities through prosperity shall yet be spread abroad; and the <span class=\"small-caps\">Lord</span> shall yet comfort Zion, and shall yet choose Jerusalem.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "zechariah-1-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "¶ Then lifted I up mine eyes, and saw, and behold four horns.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "zechariah-1-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And I said unto the angel that talked with me, What <span class=\"clarity-word\">be</span> these? And he answered me, These <span class=\"clarity-word\">are</span> the horns which have scattered Judah, Israel, and Jerusalem.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "zechariah-1-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And the <span class=\"small-caps\">Lord</span> shewed me four carpenters.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "zechariah-1-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Then said I, What come these to do? And he spake, saying, These <span class=\"clarity-word\">are</span> the horns which have scattered Judah, so that no man did lift up his head: but these are come to fray them, to cast out the horns of the Gentiles, which lifted up <span class=\"clarity-word\">their</span> horn over the land of Judah to scatter it.",
+      "churchId": "p21"
+    }
+  ]
+}

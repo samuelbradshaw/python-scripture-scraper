@@ -1,0 +1,155 @@
+{
+  "name": "2 Kings 1",
+  "abbrev": "2 Kgs. 1",
+  "number": "1",
+  "churchUri": "/scriptures/ot/2-kgs/1",
+  "paragraphs": [
+    {
+      "slug": "2-kings-1-title1",
+      "type": "book-title",
+      "number": null,
+      "content": "<small>The Second Book of the </small>Kings",
+      "churchId": "title1"
+    },
+    {
+      "slug": "2-kings-1-subtitle1",
+      "type": "subtitle",
+      "number": null,
+      "content": "Commonly Called <br/>\nthe Fourth Book of the Kings",
+      "churchId": "subtitle1"
+    },
+    {
+      "slug": "2-kings-1-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 1",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "2-kings-1-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Then Moab rebelled against Israel after the death of Ahab.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "2-kings-1-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And Ahaziah fell down through a lattice in his upper chamber that <span class=\"clarity-word\">was</span> in Samaria, and was sick: and he sent messengers, and said unto them, Go, inquire of Baal-zebub the god of Ekron whether I shall recover of this disease.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "2-kings-1-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "But the angel of the <span class=\"small-caps\">Lord</span> said to Elijah the Tishbite, Arise, go up to meet the messengers of the king of Samaria, and say unto them, <span class=\"clarity-word\">Is it</span> not because <span class=\"clarity-word\">there is</span> not a God in Israel, <span class=\"clarity-word\">that</span> ye go to inquire of Baal-zebub the god of Ekron?",
+      "churchId": "p3"
+    },
+    {
+      "slug": "2-kings-1-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Now therefore thus saith the <span class=\"small-caps\">Lord</span>, Thou shalt not come down from that bed on which thou art gone up, but shalt surely die. And Elijah departed.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "2-kings-1-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "¶ And when the messengers turned back unto him, he said unto them, Why are ye now turned back?",
+      "churchId": "p5"
+    },
+    {
+      "slug": "2-kings-1-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And they said unto him, There came a man up to meet us, and said unto us, Go, turn again unto the king that sent you, and say unto him, Thus saith the <span class=\"small-caps\">Lord</span>, <span class=\"clarity-word\">Is it</span> not because <span class=\"clarity-word\">there is</span> not a God in Israel, <span class=\"clarity-word\">that</span> thou sendest to inquire of Baal-zebub the god of Ekron? therefore thou shalt not come down from that bed on which thou art gone up, but shalt surely die.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "2-kings-1-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And he said unto them, What manner of man <span class=\"clarity-word\">was he</span> which came up to meet you, and told you these words?",
+      "churchId": "p7"
+    },
+    {
+      "slug": "2-kings-1-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And they answered him, <span class=\"clarity-word\">He was</span> an hairy man, and girt with a girdle of leather about his loins. And he said, It <span class=\"clarity-word\">is</span> Elijah the Tishbite.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "2-kings-1-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Then the king sent unto him a captain of fifty with his fifty. And he went up to him: and, behold, he sat on the top of an hill. And he spake unto him, Thou man of God, the king hath said, Come down.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "2-kings-1-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And Elijah answered and said to the captain of fifty, If I <span class=\"clarity-word\">be</span> a man of God, then let fire come down from heaven, and consume thee and thy fifty. And there came down fire from heaven, and consumed him and his fifty.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "2-kings-1-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Again also he sent unto him another captain of fifty with his fifty. And he answered and said unto him, O man of God, thus hath the king said, Come down quickly.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "2-kings-1-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And Elijah answered and said unto them, If I <span class=\"clarity-word\">be</span> a man of God, let fire come down from heaven, and consume thee and thy fifty. And the fire of God came down from heaven, and consumed him and his fifty.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "2-kings-1-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "¶ And he sent again a captain of the third fifty with his fifty. And the third captain of fifty went up, and came and fell on his knees before Elijah, and besought him, and said unto him, O man of God, I pray thee, let my life, and the life of these fifty thy servants, be precious in thy sight.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "2-kings-1-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Behold, there came fire down from heaven, and burnt up the two captains of the former fifties with their fifties: therefore let my life now be precious in thy sight.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "2-kings-1-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And the angel of the <span class=\"small-caps\">Lord</span> said unto Elijah, Go down with him: be not afraid of him. And he arose, and went down with him unto the king.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "2-kings-1-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And he said unto him, Thus saith the <span class=\"small-caps\">Lord</span>, Forasmuch as thou hast sent messengers to inquire of Baal-zebub the god of Ekron, <span class=\"clarity-word\">is it</span> not because <span class=\"clarity-word\">there is</span> no God in Israel to inquire of his word? therefore thou shalt not come down off that bed on which thou art gone up, but shalt surely die.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "2-kings-1-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "¶ So he died according to the word of the <span class=\"small-caps\">Lord</span> which Elijah had spoken. And Jehoram reigned in his stead in the second year of Jehoram the son of Jehoshaphat king of Judah; because he had no son.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "2-kings-1-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Now the rest of the acts of Ahaziah which he did, <span class=\"clarity-word\">are</span> they not written in the book of the chronicles of the kings of Israel?",
+      "churchId": "p18"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "name": "Psalm 26",
+  "abbrev": "Psalm 26",
+  "number": "26",
+  "churchUri": "/scriptures/ot/ps/26",
+  "paragraphs": [
+    {
+      "slug": "psalm-26-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 26",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-26-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "<span class=\"clarity-word\">A Psalm</span> of David.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-26-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Judge me, O <span class=\"small-caps\">Lord</span>; for I have walked in mine integrity: I have trusted also in the <span class=\"small-caps\">Lord</span>; <span class=\"clarity-word\">therefore</span> I shall not slide.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-26-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Examine me, O <span class=\"small-caps\">Lord</span>, and prove me; try my reins and my heart.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-26-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "For thy lovingkindness <span class=\"clarity-word\">is</span> before mine eyes: and I have walked in thy truth.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-26-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "I have not sat with vain persons, neither will I go in with dissemblers.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-26-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "I have hated the congregation of evil doers; and will not sit with the wicked.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-26-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "I will wash mine hands in innocency: so will I compass thine altar, O <span class=\"small-caps\">Lord</span>:",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-26-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "That I may publish with the voice of thanksgiving, and tell of all thy wondrous works.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-26-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "<span class=\"small-caps\">Lord</span>, I have loved the habitation of thy house, and the place where thine honour dwelleth.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "psalm-26-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Gather not my soul with sinners, nor my life with bloody men:",
+      "churchId": "p9"
+    },
+    {
+      "slug": "psalm-26-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "In whose hands <span class=\"clarity-word\">is</span> mischief, and their right hand is full of bribes.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "psalm-26-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "But as for me, I will walk in mine integrity: redeem me, and be merciful unto me.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "psalm-26-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "My foot standeth in an even place: in the congregations will I bless the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p12"
+    }
+  ]
+}

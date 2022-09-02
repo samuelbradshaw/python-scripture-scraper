@@ -1,0 +1,190 @@
+{
+  "name": "2 Samuel 5",
+  "abbrev": "2 Sam. 5",
+  "number": "5",
+  "churchUri": "/scriptures/ot/2-sam/5",
+  "paragraphs": [
+    {
+      "slug": "2-samuel-5-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 5",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "2-samuel-5-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Then came all the tribes of Israel to David unto Hebron, and spake, saying, Behold, we <span class=\"clarity-word\">are</span> thy bone and thy flesh.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "2-samuel-5-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Also in time past, when Saul was king over us, thou wast he that leddest out and broughtest in Israel: and the <span class=\"small-caps\">Lord</span> said to thee, Thou shalt feed my people Israel, and thou shalt be a captain over Israel.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "2-samuel-5-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "So all the elders of Israel came to the king to Hebron; and king David made a league with them in Hebron before the <span class=\"small-caps\">Lord</span>: and they anointed David king over Israel.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "2-samuel-5-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "¶ David <span class=\"clarity-word\">was</span> thirty years old when he began to reign, <span class=\"clarity-word\">and</span> he reigned forty years.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "2-samuel-5-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "In Hebron he reigned over Judah seven years and six months: and in Jerusalem he reigned thirty and three years over all Israel and Judah.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "2-samuel-5-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "¶ And the king and his men went to Jerusalem unto the Jebusites, the inhabitants of the land: which spake unto David, saying, Except thou take away the blind and the lame, thou shalt not come in hither: thinking, David cannot come in hither.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "2-samuel-5-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Nevertheless David took the strong hold of Zion: the same <span class=\"clarity-word\">is</span> the city of David.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "2-samuel-5-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And David said on that day, Whosoever getteth up to the gutter, and smiteth the Jebusites, and the lame and the blind, <span class=\"clarity-word\">that are</span> hated of David’s soul, <span class=\"clarity-word\">he shall be chief and captain.</span> Wherefore they said, The blind and the lame shall not come into the house.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "2-samuel-5-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "So David dwelt in the fort, and called it the city of David. And David built round about from Millo and inward.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "2-samuel-5-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And David went on, and grew great, and the <span class=\"small-caps\">Lord</span> God of hosts <span class=\"clarity-word\">was</span> with him.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "2-samuel-5-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "¶ And Hiram king of Tyre sent messengers to David, and cedar trees, and carpenters, and masons: and they built David an house.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "2-samuel-5-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And David perceived that the <span class=\"small-caps\">Lord</span> had established him king over Israel, and that he had exalted his kingdom for his people Israel’s sake.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "2-samuel-5-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "¶ And David took <span class=\"clarity-word\">him</span> more concubines and wives out of Jerusalem, after he was come from Hebron: and there were yet sons and daughters born to David.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "2-samuel-5-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And these <span class=\"clarity-word\">be</span> the names of those that were born unto him in Jerusalem; Shammua, and Shobab, and Nathan, and Solomon,",
+      "churchId": "p14"
+    },
+    {
+      "slug": "2-samuel-5-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Ibhar also, and Elishua, and Nepheg, and Japhia,",
+      "churchId": "p15"
+    },
+    {
+      "slug": "2-samuel-5-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And Elishama, and Eliada, and Eliphalet.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "2-samuel-5-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "¶ But when the Philistines heard that they had anointed David king over Israel, all the Philistines came up to seek David; and David heard <span class=\"clarity-word\">of it,</span> and went down to the hold.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "2-samuel-5-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "The Philistines also came and spread themselves in the valley of Rephaim.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "2-samuel-5-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And David inquired of the <span class=\"small-caps\">Lord</span>, saying, Shall I go up to the Philistines? wilt thou deliver them into mine hand? And the <span class=\"small-caps\">Lord</span> said unto David, Go up: for I will doubtless deliver the Philistines into thine hand.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "2-samuel-5-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And David came to Baal-perazim, and David smote them there, and said, The <span class=\"small-caps\">Lord</span> hath broken forth upon mine enemies before me, as the breach of waters. Therefore he called the name of that place Baal-perazim.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "2-samuel-5-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And there they left their images, and David and his men burned them.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "2-samuel-5-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "¶ And the Philistines came up yet again, and spread themselves in the valley of Rephaim.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "2-samuel-5-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And when David inquired of the <span class=\"small-caps\">Lord</span>, he said, Thou shalt not go up; <span class=\"clarity-word\">but</span> fetch a compass behind them, and come upon them over against the mulberry trees.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "2-samuel-5-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And let it be, when thou hearest the sound of a going in the tops of the mulberry trees, that then thou shalt bestir thyself: for then shall the <span class=\"small-caps\">Lord</span> go out before thee, to smite the host of the Philistines.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "2-samuel-5-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And David did so, as the <span class=\"small-caps\">Lord</span> had commanded him; and smote the Philistines from Geba until thou come to Gazer.",
+      "churchId": "p25"
+    }
+  ]
+}

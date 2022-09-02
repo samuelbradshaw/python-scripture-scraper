@@ -1,0 +1,260 @@
+{
+  "name": "Genesis 26",
+  "abbrev": "Gen. 26",
+  "number": "26",
+  "churchUri": "/scriptures/ot/gen/26",
+  "paragraphs": [
+    {
+      "slug": "genesis-26-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 26",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "genesis-26-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And there was a famine in the land, beside the first famine that was in the days of Abraham. And Isaac went unto Abimelech king of the Philistines unto Gerar.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "genesis-26-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And the <span class=\"small-caps\">Lord</span> appeared unto him, and said, Go not down into Egypt; dwell in the land which I shall tell thee of:",
+      "churchId": "p2"
+    },
+    {
+      "slug": "genesis-26-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Sojourn in this land, and I will be with thee, and will bless thee; for unto thee, and unto thy seed, I will give all these countries, and I will perform the oath which I sware unto Abraham thy father;",
+      "churchId": "p3"
+    },
+    {
+      "slug": "genesis-26-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And I will make thy seed to multiply as the stars of heaven, and will give unto thy seed all these countries; and in thy seed shall all the nations of the earth be blessed;",
+      "churchId": "p4"
+    },
+    {
+      "slug": "genesis-26-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Because that Abraham obeyed my voice, and kept my charge, my commandments, my statutes, and my laws.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "genesis-26-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "¶ And Isaac dwelt in Gerar:",
+      "churchId": "p6"
+    },
+    {
+      "slug": "genesis-26-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And the men of the place asked <span class=\"clarity-word\">him</span> of his wife; and he said, She <span class=\"clarity-word\">is</span> my sister: for he feared to say, <span class=\"clarity-word\">She is</span> my wife; lest, <span class=\"clarity-word\">said he,</span> the men of the place should kill me for Rebekah; because she <span class=\"clarity-word\">was</span> fair to look upon.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "genesis-26-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And it came to pass, when he had been there a long time, that Abimelech king of the Philistines looked out at a window, and saw, and, behold, Isaac <span class=\"clarity-word\">was</span> sporting with Rebekah his wife.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "genesis-26-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And Abimelech called Isaac, and said, Behold, of a surety she <span class=\"clarity-word\">is</span> thy wife: and how saidst thou, She <span class=\"clarity-word\">is</span> my sister? And Isaac said unto him, Because I said, Lest I die for her.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "genesis-26-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And Abimelech said, What <span class=\"clarity-word\">is</span> this thou hast done unto us? one of the people might lightly have lien with thy wife, and thou shouldest have brought guiltiness upon us.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "genesis-26-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And Abimelech charged all <span class=\"clarity-word\">his</span> people, saying, He that toucheth this man or his wife shall surely be put to death.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "genesis-26-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Then Isaac sowed in that land, and received in the same year an hundredfold: and the <span class=\"small-caps\">Lord</span> blessed him.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "genesis-26-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And the man waxed great, and went forward, and grew until he became very great:",
+      "churchId": "p13"
+    },
+    {
+      "slug": "genesis-26-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "For he had possession of flocks, and possession of herds, and great store of servants: and the Philistines envied him.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "genesis-26-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "For all the wells which his father’s servants had digged in the days of Abraham his father, the Philistines had stopped them, and filled them with earth.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "genesis-26-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And Abimelech said unto Isaac, Go from us; for thou art much mightier than we.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "genesis-26-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "¶ And Isaac departed thence, and pitched his tent in the valley of Gerar, and dwelt there.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "genesis-26-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And Isaac digged again the wells of water, which they had digged in the days of Abraham his father; for the Philistines had stopped them after the death of Abraham: and he called their names after the names by which his father had called them.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "genesis-26-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And Isaac’s servants digged in the valley, and found there a well of springing water.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "genesis-26-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And the herdmen of Gerar did strive with Isaac’s herdmen, saying, The water <span class=\"clarity-word\">is</span> ours: and he called the name of the well Esek; because they strove with him.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "genesis-26-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And they digged another well, and strove for that also: and he called the name of it Sitnah.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "genesis-26-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And he removed from thence, and digged another well; and for that they strove not: and he called the name of it Rehoboth; and he said, For now the <span class=\"small-caps\">Lord</span> hath made room for us, and we shall be fruitful in the land.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "genesis-26-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And he went up from thence to Beer-sheba.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "genesis-26-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And the <span class=\"small-caps\">Lord</span> appeared unto him the same night, and said, I <span class=\"clarity-word\">am</span> the God of Abraham thy father: fear not, for I <span class=\"clarity-word\">am</span> with thee, and will bless thee, and multiply thy seed for my servant Abraham’s sake.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "genesis-26-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And he builded an altar there, and called upon the name of the <span class=\"small-caps\">Lord</span>, and pitched his tent there: and there Isaac’s servants digged a well.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "genesis-26-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "¶ Then Abimelech went to him from Gerar, and Ahuzzath one of his friends, and Phichol the chief captain of his army.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "genesis-26-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And Isaac said unto them, Wherefore come ye to me, seeing ye hate me, and have sent me away from you?",
+      "churchId": "p27"
+    },
+    {
+      "slug": "genesis-26-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And they said, We saw certainly that the <span class=\"small-caps\">Lord</span> was with thee: and we said, Let there be now an oath betwixt us, <span class=\"clarity-word\">even</span> betwixt us and thee, and let us make a covenant with thee;",
+      "churchId": "p28"
+    },
+    {
+      "slug": "genesis-26-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "That thou wilt do us no hurt, as we have not touched thee, and as we have done unto thee nothing but good, and have sent thee away in peace: thou <span class=\"clarity-word\">art</span> now the blessed of the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "genesis-26-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And he made them a feast, and they did eat and drink.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "genesis-26-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "And they rose up betimes in the morning, and sware one to another: and Isaac sent them away, and they departed from him in peace.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "genesis-26-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "And it came to pass the same day, that Isaac’s servants came, and told him concerning the well which they had digged, and said unto him, We have found water.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "genesis-26-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "And he called it Shebah: therefore the name of the city <span class=\"clarity-word\">is</span> Beer-sheba unto this day.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "genesis-26-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "¶ And Esau was forty years old when he took to wife Judith the daughter of Beeri the Hittite, and Bashemath the daughter of Elon the Hittite:",
+      "churchId": "p34"
+    },
+    {
+      "slug": "genesis-26-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "Which were a grief of mind unto Isaac and to Rebekah.",
+      "churchId": "p35"
+    }
+  ]
+}

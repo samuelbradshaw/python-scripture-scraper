@@ -1,0 +1,204 @@
+{
+  "name": "Genesis 17",
+  "abbrev": "Gen. 17",
+  "number": "17",
+  "churchUri": "/scriptures/ot/gen/17",
+  "paragraphs": [
+    {
+      "slug": "genesis-17-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 17",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "genesis-17-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And when Abram was ninety years old and nine, the <span class=\"small-caps\">Lord</span> appeared to Abram, and said unto him, I <span class=\"clarity-word\">am</span> the Almighty God; walk before me, and be thou perfect.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "genesis-17-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And I will make my covenant between me and thee, and will multiply thee exceedingly.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "genesis-17-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And Abram fell on his face: and God talked with him, saying,",
+      "churchId": "p3"
+    },
+    {
+      "slug": "genesis-17-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "As for me, behold, my covenant <span class=\"clarity-word\">is</span> with thee, and thou shalt be a father of many nations.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "genesis-17-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Neither shall thy name any more be called Abram, but thy name shall be Abraham; for a father of many nations have I made thee.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "genesis-17-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And I will make thee exceeding fruitful, and I will make nations of thee, and kings shall come out of thee.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "genesis-17-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And I will establish my covenant between me and thee and thy seed after thee in their generations for an everlasting covenant, to be a God unto thee, and to thy seed after thee.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "genesis-17-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And I will give unto thee, and to thy seed after thee, the land wherein thou art a stranger, all the land of Canaan, for an everlasting possession; and I will be their God.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "genesis-17-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "¶ And God said unto Abraham, Thou shalt keep my covenant therefore, thou, and thy seed after thee in their generations.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "genesis-17-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "This <span class=\"clarity-word\">is</span> my covenant, which ye shall keep, between me and you and thy seed after thee; Every man child among you shall be circumcised.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "genesis-17-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And ye shall circumcise the flesh of your foreskin; and it shall be a token of the covenant betwixt me and you.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "genesis-17-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And he that is eight days old shall be circumcised among you, every man child in your generations, he that is born in the house, or bought with money of any stranger, which <span class=\"clarity-word\">is</span> not of thy seed.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "genesis-17-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "He that is born in thy house, and he that is bought with thy money, must needs be circumcised: and my covenant shall be in your flesh for an everlasting covenant.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "genesis-17-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And the uncircumcised man child whose flesh of his foreskin is not circumcised, that soul shall be cut off from his people; he hath broken my covenant.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "genesis-17-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "¶ And God said unto Abraham, As for Sarai thy wife, thou shalt not call her name Sarai, but Sarah <span class=\"clarity-word\">shall</span> her name <span class=\"clarity-word\">be.</span>",
+      "churchId": "p15"
+    },
+    {
+      "slug": "genesis-17-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And I will bless her, and give thee a son also of her: yea, I will bless her, and she shall be <span class=\"clarity-word\">a mother</span> of nations; kings of people shall be of her.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "genesis-17-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Then Abraham fell upon his face, and laughed, and said in his heart, Shall <span class=\"clarity-word\">a child</span> be born unto him that is an hundred years old? and shall Sarah, that is ninety years old, bear?",
+      "churchId": "p17"
+    },
+    {
+      "slug": "genesis-17-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And Abraham said unto God, O that Ishmael might live before thee!",
+      "churchId": "p18"
+    },
+    {
+      "slug": "genesis-17-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And God said, Sarah thy wife shall bear thee a son indeed; and thou shalt call his name Isaac: and I will establish my covenant with him for an everlasting covenant, <span class=\"clarity-word\">and</span> with his seed after him.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "genesis-17-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And as for Ishmael, I have heard thee: Behold, I have blessed him, and will make him fruitful, and will multiply him exceedingly; twelve princes shall he beget, and I will make him a great nation.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "genesis-17-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "But my covenant will I establish with Isaac, which Sarah shall bear unto thee at this set time in the next year.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "genesis-17-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And he left off talking with him, and God went up from Abraham.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "genesis-17-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "¶ And Abraham took Ishmael his son, and all that were born in his house, and all that were bought with his money, every male among the men of Abraham’s house; and circumcised the flesh of their foreskin in the selfsame day, as God had said unto him.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "genesis-17-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And Abraham <span class=\"clarity-word\">was</span> ninety years old and nine, when he was circumcised in the flesh of his foreskin.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "genesis-17-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And Ishmael his son <span class=\"clarity-word\">was</span> thirteen years old, when he was circumcised in the flesh of his foreskin.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "genesis-17-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "In the selfsame day was Abraham circumcised, and Ishmael his son.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "genesis-17-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And all the men of his house, born in the house, and bought with money of the stranger, were circumcised with him.",
+      "churchId": "p27"
+    }
+  ]
+}

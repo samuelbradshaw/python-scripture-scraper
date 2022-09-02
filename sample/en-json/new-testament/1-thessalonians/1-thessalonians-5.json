@@ -1,0 +1,218 @@
+{
+  "name": "1 Thessalonians 5",
+  "abbrev": "1 Thes. 5",
+  "number": "5",
+  "churchUri": "/scriptures/nt/1-thes/5",
+  "paragraphs": [
+    {
+      "slug": "1-thessalonians-5-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 5",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "1-thessalonians-5-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "But of the times and the seasons, brethren, ye have no need that I write unto you.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "1-thessalonians-5-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "For yourselves know perfectly that the day of the Lord so cometh as a thief in the night.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "1-thessalonians-5-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "For when they shall say, Peace and safety; then sudden destruction cometh upon them, as travail upon a woman with child; and they shall not escape.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "1-thessalonians-5-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "But ye, brethren, are not in darkness, that that day should overtake you as a thief.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "1-thessalonians-5-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Ye are all the children of light, and the children of the day: we are not of the night, nor of darkness.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "1-thessalonians-5-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Therefore let us not sleep, as <span class=\"clarity-word\">do</span> others; but let us watch and be sober.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "1-thessalonians-5-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "For they that sleep sleep in the night; and they that be drunken are drunken in the night.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "1-thessalonians-5-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "But let us, who are of the day, be sober, putting on the breastplate of faith and love; and for an helmet, the hope of salvation.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "1-thessalonians-5-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "For God hath not appointed us to wrath, but to obtain salvation by our Lord Jesus Christ,",
+      "churchId": "p9"
+    },
+    {
+      "slug": "1-thessalonians-5-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Who died for us, that, whether we wake or sleep, we should live together with him.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "1-thessalonians-5-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Wherefore comfort yourselves together, and edify one another, even as also ye do.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "1-thessalonians-5-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And we beseech you, brethren, to know them which labour among you, and are over you in the Lord, and admonish you;",
+      "churchId": "p12"
+    },
+    {
+      "slug": "1-thessalonians-5-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And to esteem them very highly in love for their work’s sake. <span class=\"clarity-word\">And</span> be at peace among yourselves.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "1-thessalonians-5-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Now we exhort you, brethren, warn them that are unruly, comfort the feebleminded, support the weak, be patient toward all <span class=\"clarity-word\">men.</span>",
+      "churchId": "p14"
+    },
+    {
+      "slug": "1-thessalonians-5-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "See that none render evil for evil unto any <span class=\"clarity-word\">man;</span> but ever follow that which is good, both among yourselves, and to all <span class=\"clarity-word\">men.</span>",
+      "churchId": "p15"
+    },
+    {
+      "slug": "1-thessalonians-5-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Rejoice evermore.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "1-thessalonians-5-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Pray without ceasing.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "1-thessalonians-5-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "In every thing give thanks: for this is the will of God in Christ Jesus concerning you.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "1-thessalonians-5-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Quench not the Spirit.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "1-thessalonians-5-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Despise not prophesyings.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "1-thessalonians-5-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Prove all things; hold fast that which is good.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "1-thessalonians-5-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Abstain from all appearance of evil.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "1-thessalonians-5-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And the very God of peace sanctify you wholly; and <span class=\"clarity-word\">I pray God</span> your whole spirit and soul and body be preserved blameless unto the coming of our Lord Jesus Christ.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "1-thessalonians-5-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Faithful <span class=\"clarity-word\">is</span> he that calleth you, who also will do <span class=\"clarity-word\">it.</span>",
+      "churchId": "p24"
+    },
+    {
+      "slug": "1-thessalonians-5-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Brethren, pray for us.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "1-thessalonians-5-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "Greet all the brethren with an holy kiss.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "1-thessalonians-5-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "I charge you by the Lord that this epistle be read unto all the holy brethren.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "1-thessalonians-5-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "The grace of our Lord Jesus Christ <span class=\"clarity-word\">be</span> with you. Amen.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "1-thessalonians-5-closing1",
+      "type": "paragraph",
+      "number": null,
+      "content": "¶ The first <span class=\"clarity-word\">epistle</span> unto the Thessalonians was written from Athens.*",
+      "churchId": "closing1"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "name": "1 Nephi 9",
+  "abbrev": "1 Ne. 9",
+  "number": "9",
+  "churchUri": "/scriptures/bofm/1-ne/9",
+  "paragraphs": [
+    {
+      "slug": "1-nephi-9-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 9",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "1-nephi-9-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And all these things did my father see, and hear, and speak, as he dwelt in a tent, in the valley of Lemuel, and also a great many more things, which cannot be written upon these plates.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "1-nephi-9-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And now, as I have spoken concerning these plates, behold they are not the plates upon which I make a full account of the history of my people; for the plates upon which I make a full account of my people I have given the name of Nephi; wherefore, they are called the plates of Nephi, after mine own name; and these plates also are called the plates of Nephi.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "1-nephi-9-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Nevertheless, I have received a commandment of the Lord that I should make these plates, for the special purpose that there should be an account engraven of the ministry of my people.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "1-nephi-9-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Upon the other plates should be engraven an account of the reign of the kings, and the wars and contentions of my people; wherefore these plates are for the more part of the ministry; and the other plates are for the more part of the reign of the kings and the wars and contentions of my people.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "1-nephi-9-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Wherefore, the Lord hath commanded me to make these plates for a wise purpose in him, which purpose I know not.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "1-nephi-9-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "But the Lord knoweth all things from the beginning; wherefore, he prepareth a way to accomplish all his works among the children of men; for behold, he hath all power unto the fulfilling of all his words. And thus it is. Amen.",
+      "churchId": "p6"
+    }
+  ]
+}

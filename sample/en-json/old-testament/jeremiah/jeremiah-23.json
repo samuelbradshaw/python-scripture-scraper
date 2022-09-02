@@ -1,0 +1,295 @@
+{
+  "name": "Jeremiah 23",
+  "abbrev": "Jer. 23",
+  "number": "23",
+  "churchUri": "/scriptures/ot/jer/23",
+  "paragraphs": [
+    {
+      "slug": "jeremiah-23-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 23",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "jeremiah-23-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Woe be unto the pastors that destroy and scatter the sheep of my pasture! saith the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "jeremiah-23-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Therefore thus saith the <span class=\"small-caps\">Lord</span> God of Israel against the pastors that feed my people; Ye have scattered my flock, and driven them away, and have not visited them: behold, I will visit upon you the evil of your doings, saith the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "jeremiah-23-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And I will gather the remnant of my flock out of all countries whither I have driven them, and will bring them again to their folds; and they shall be fruitful and increase.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "jeremiah-23-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And I will set up shepherds over them which shall feed them: and they shall fear no more, nor be dismayed, neither shall they be lacking, saith the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "jeremiah-23-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "¶ Behold, the days come, saith the <span class=\"small-caps\">Lord</span>, that I will raise unto David a righteous Branch, and a King shall reign and prosper, and shall execute judgment and justice in the earth.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "jeremiah-23-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "In his days Judah shall be saved, and Israel shall dwell safely: and this <span class=\"clarity-word\">is</span> his name whereby he shall be called, <span class=\"uppercase\">The Lord Our Righteousness</span>.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "jeremiah-23-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Therefore, behold, the days come, saith the <span class=\"small-caps\">Lord</span>, that they shall no more say, The <span class=\"small-caps\">Lord</span> liveth, which brought up the children of Israel out of the land of Egypt;",
+      "churchId": "p7"
+    },
+    {
+      "slug": "jeremiah-23-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "But, The <span class=\"small-caps\">Lord</span> liveth, which brought up and which led the seed of the house of Israel out of the north country, and from all countries whither I had driven them; and they shall dwell in their own land.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "jeremiah-23-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "¶ Mine heart within me is broken because of the prophets; all my bones shake; I am like a drunken man, and like a man whom wine hath overcome, because of the <span class=\"small-caps\">Lord</span>, and because of the words of his holiness.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "jeremiah-23-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "For the land is full of adulterers; for because of swearing the land mourneth; the pleasant places of the wilderness are dried up, and their course is evil, and their force <span class=\"clarity-word\">is</span> not right.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "jeremiah-23-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "For both prophet and priest are profane; yea, in my house have I found their wickedness, saith the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "jeremiah-23-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Wherefore their way shall be unto them as slippery <span class=\"clarity-word\">ways</span> in the darkness: they shall be driven on, and fall therein: for I will bring evil upon them, <span class=\"clarity-word\">even</span> the year of their visitation, saith the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "jeremiah-23-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And I have seen folly in the prophets of Samaria; they prophesied in Baal, and caused my people Israel to err.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "jeremiah-23-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "I have seen also in the prophets of Jerusalem an horrible thing: they commit adultery, and walk in lies: they strengthen also the hands of evildoers, that none doth return from his wickedness: they are all of them unto me as Sodom, and the inhabitants thereof as Gomorrah.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "jeremiah-23-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Therefore thus saith the <span class=\"small-caps\">Lord</span> of hosts concerning the prophets; Behold, I will feed them with wormwood, and make them drink the water of gall: for from the prophets of Jerusalem is profaneness gone forth into all the land.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "jeremiah-23-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Thus saith the <span class=\"small-caps\">Lord</span> of hosts, Hearken not unto the words of the prophets that prophesy unto you: they make you vain: they speak a vision of their own heart, <span class=\"clarity-word\">and</span> not out of the mouth of the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "jeremiah-23-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "They say still unto them that despise me, The <span class=\"small-caps\">Lord</span> hath said, Ye shall have peace; and they say unto every one that walketh after the imagination of his own heart, No evil shall come upon you.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "jeremiah-23-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "For who hath stood in the counsel of the <span class=\"small-caps\">Lord</span>, and hath perceived and heard his word? who hath marked his word, and heard <span class=\"clarity-word\">it?</span>",
+      "churchId": "p18"
+    },
+    {
+      "slug": "jeremiah-23-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Behold, a whirlwind of the <span class=\"small-caps\">Lord</span> is gone forth in fury, even a grievous whirlwind: it shall fall grievously upon the head of the wicked.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "jeremiah-23-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "The anger of the <span class=\"small-caps\">Lord</span> shall not return, until he have executed, and till he have performed the thoughts of his heart: in the latter days ye shall consider it perfectly.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "jeremiah-23-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "I have not sent these prophets, yet they ran: I have not spoken to them, yet they prophesied.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "jeremiah-23-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "But if they had stood in my counsel, and had caused my people to hear my words, then they should have turned them from their evil way, and from the evil of their doings.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "jeremiah-23-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "<span class=\"clarity-word\">Am</span> I a God at hand, saith the <span class=\"small-caps\">Lord</span>, and not a God afar off?",
+      "churchId": "p23"
+    },
+    {
+      "slug": "jeremiah-23-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Can any hide himself in secret places that I shall not see him? saith the <span class=\"small-caps\">Lord</span>. Do not I fill heaven and earth? saith the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "jeremiah-23-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "I have heard what the prophets said, that prophesy lies in my name, saying, I have dreamed, I have dreamed.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "jeremiah-23-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "How long shall <span class=\"clarity-word\">this</span> be in the heart of the prophets that prophesy lies? yea, <span class=\"clarity-word\">they are</span> prophets of the deceit of their own heart;",
+      "churchId": "p26"
+    },
+    {
+      "slug": "jeremiah-23-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "Which think to cause my people to forget my name by their dreams which they tell every man to his neighbour, as their fathers have forgotten my name for Baal.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "jeremiah-23-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "The prophet that hath a dream, let him tell a dream; and he that hath my word, let him speak my word faithfully. What <span class=\"clarity-word\">is</span> the chaff to the wheat? saith the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "jeremiah-23-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "<span class=\"clarity-word\">Is</span> not my word like as a fire? saith the <span class=\"small-caps\">Lord</span>; and like a hammer <span class=\"clarity-word\">that</span> breaketh the rock in pieces?",
+      "churchId": "p29"
+    },
+    {
+      "slug": "jeremiah-23-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "Therefore, behold, I <span class=\"clarity-word\">am</span> against the prophets, saith the <span class=\"small-caps\">Lord</span>, that steal my words every one from his neighbour.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "jeremiah-23-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "Behold, I <span class=\"clarity-word\">am</span> against the prophets, saith the <span class=\"small-caps\">Lord</span>, that use their tongues, and say, He saith.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "jeremiah-23-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "Behold, I <span class=\"clarity-word\">am</span> against them that prophesy false dreams, saith the <span class=\"small-caps\">Lord</span>, and do tell them, and cause my people to err by their lies, and by their lightness; yet I sent them not, nor commanded them: therefore they shall not profit this people at all, saith the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "jeremiah-23-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "¶ And when this people, or the prophet, or a priest, shall ask thee, saying, What <span class=\"clarity-word\">is</span> the burden of the <span class=\"small-caps\">Lord</span>? thou shalt then say unto them, What burden? I will even forsake you, saith the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "jeremiah-23-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "And <span class=\"clarity-word\">as for</span> the prophet, and the priest, and the people, that shall say, The burden of the <span class=\"small-caps\">Lord</span>, I will even punish that man and his house.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "jeremiah-23-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "Thus shall ye say every one to his neighbour, and every one to his brother, What hath the <span class=\"small-caps\">Lord</span> answered? and, What hath the <span class=\"small-caps\">Lord</span> spoken?",
+      "churchId": "p35"
+    },
+    {
+      "slug": "jeremiah-23-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "And the burden of the <span class=\"small-caps\">Lord</span> shall ye mention no more: for every man’s word shall be his burden; for ye have perverted the words of the living God, of the <span class=\"small-caps\">Lord</span> of hosts our God.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "jeremiah-23-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "Thus shalt thou say to the prophet, What hath the <span class=\"small-caps\">Lord</span> answered thee? and, What hath the <span class=\"small-caps\">Lord</span> spoken?",
+      "churchId": "p37"
+    },
+    {
+      "slug": "jeremiah-23-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "But since ye say, The burden of the <span class=\"small-caps\">Lord</span>; therefore thus saith the <span class=\"small-caps\">Lord</span>; Because ye say this word, The burden of the <span class=\"small-caps\">Lord</span>, and I have sent unto you, saying, Ye shall not say, The burden of the <span class=\"small-caps\">Lord</span>;",
+      "churchId": "p38"
+    },
+    {
+      "slug": "jeremiah-23-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "Therefore, behold, I, even I, will utterly forget you, and I will forsake you, and the city that I gave you and your fathers, <span class=\"clarity-word\">and cast you</span> out of my presence:",
+      "churchId": "p39"
+    },
+    {
+      "slug": "jeremiah-23-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "And I will bring an everlasting reproach upon you, and a perpetual shame, which shall not be forgotten.",
+      "churchId": "p40"
+    }
+  ]
+}

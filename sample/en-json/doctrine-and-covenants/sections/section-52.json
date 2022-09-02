@@ -1,0 +1,323 @@
+{
+  "name": "Doctrine and Covenants 52",
+  "abbrev": "D&C 52",
+  "number": "52",
+  "churchUri": "/scriptures/dc-testament/dc/52",
+  "paragraphs": [
+    {
+      "slug": "section-52-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Section 52",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "section-52-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Behold, thus saith the Lord unto the elders whom he hath called and chosen in these last days, by the voice of his Spirit—",
+      "churchId": "p1"
+    },
+    {
+      "slug": "section-52-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Saying: I, the Lord, will make known unto you what I will that ye shall do from this time until the next conference, which shall be held in Missouri, upon the land which I will consecrate unto my people, which are a remnant of Jacob, and those who are heirs according to the covenant.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "section-52-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Wherefore, verily I say unto you, let my servants Joseph Smith, Jun., and Sidney Rigdon take their journey as soon as preparations can be made to leave their homes, and journey to the land of Missouri.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "section-52-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And inasmuch as they are faithful unto me, it shall be made known unto them what they shall do;",
+      "churchId": "p4"
+    },
+    {
+      "slug": "section-52-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And it shall also, inasmuch as they are faithful, be made known unto them the land of your inheritance.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "section-52-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And inasmuch as they are not faithful, they shall be cut off, even as I will, as seemeth me good.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "section-52-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And again, verily I say unto you, let my servant Lyman Wight and my servant John Corrill take their journey speedily;",
+      "churchId": "p7"
+    },
+    {
+      "slug": "section-52-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And also my servant John Murdock, and my servant Hyrum Smith, take their journey unto the same place by the way of Detroit.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "section-52-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And let them journey from thence preaching the word by the way, saying none other things than that which the prophets and apostles have written, and that which is taught them by the Comforter through the prayer of faith.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "section-52-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Let them go two by two, and thus let them preach by the way in every congregation, baptizing by water, and the laying on of the hands by the water’s side.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "section-52-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "For thus saith the Lord, I will cut my work short in righteousness, for the days come that I will send forth judgment unto victory.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "section-52-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And let my servant Lyman Wight beware, for Satan desireth to sift him as chaff.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "section-52-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And behold, he that is faithful shall be made ruler over many things.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "section-52-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And again, I will give unto you a pattern in all things, that ye may not be deceived; for Satan is abroad in the land, and he goeth forth deceiving the nations—",
+      "churchId": "p14"
+    },
+    {
+      "slug": "section-52-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Wherefore he that prayeth, whose spirit is contrite, the same is accepted of me if he obey mine ordinances.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "section-52-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "He that speaketh, whose spirit is contrite, whose language is meek and edifieth, the same is of God if he obey mine ordinances.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "section-52-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And again, he that trembleth under my power shall be made strong, and shall bring forth fruits of praise and wisdom, according to the revelations and truths which I have given you.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "section-52-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And again, he that is overcome and bringeth not forth fruits, even according to this pattern, is not of me.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "section-52-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Wherefore, by this pattern ye shall know the spirits in all cases under the whole heavens.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "section-52-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And the days have come; according to men’s faith it shall be done unto them.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "section-52-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Behold, this commandment is given unto all the elders whom I have chosen.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "section-52-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And again, verily I say unto you, let my servant Thomas B. Marsh and my servant Ezra Thayre take their journey also, preaching the word by the way unto this same land.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "section-52-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And again, let my servant Isaac Morley and my servant Ezra Booth take their journey, also preaching the word by the way unto this same land.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "section-52-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And again, let my servants Edward Partridge and Martin Harris take their journey with my servants Sidney Rigdon and Joseph Smith, Jun.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "section-52-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Let my servants David Whitmer and Harvey Whitlock also take their journey, and preach by the way unto this same land.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "section-52-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And let my servants Parley P. Pratt and Orson Pratt take their journey, and preach by the way, even unto this same land.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "section-52-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And let my servants Solomon Hancock and Simeon Carter also take their journey unto this same land, and preach by the way.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "section-52-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "Let my servants Edson Fuller and Jacob Scott also take their journey.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "section-52-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "Let my servants Levi W. Hancock and Zebedee Coltrin also take their journey.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "section-52-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "Let my servants Reynolds Cahoon and Samuel H. Smith also take their journey.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "section-52-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "Let my servants Wheeler Baldwin and William Carter also take their journey.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "section-52-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "And let my servants Newel Knight and Selah J. Griffin both be ordained, and also take their journey.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "section-52-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "Yea, verily I say, let all these take their journey unto one place, in their several courses, and one man shall not build upon another’s foundation, neither journey in another’s track.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "section-52-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "He that is faithful, the same shall be kept and blessed with much fruit.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "section-52-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "And again, I say unto you, let my servants Joseph Wakefield and Solomon Humphrey take their journey into the eastern lands;",
+      "churchId": "p35"
+    },
+    {
+      "slug": "section-52-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "Let them labor with their families, declaring none other things than the prophets and apostles, that which they have seen and heard and most assuredly believe, that the prophecies may be fulfilled.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "section-52-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "In consequence of transgression, let that which was bestowed upon Heman Basset be taken from him, and placed upon the head of Simonds Ryder.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "section-52-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "And again, verily I say unto you, let Jared Carter be ordained a priest, and also George James be ordained a priest.",
+      "churchId": "p38"
+    },
+    {
+      "slug": "section-52-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "Let the residue of the elders watch over the churches, and declare the word in the regions round about them; and let them labor with their own hands that there be no idolatry nor wickedness practiced.",
+      "churchId": "p39"
+    },
+    {
+      "slug": "section-52-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "And remember in all things the poor and the needy, the sick and the afflicted, for he that doeth not these things, the same is not my disciple.",
+      "churchId": "p40"
+    },
+    {
+      "slug": "section-52-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "And again, let my servants Joseph Smith, Jun., and Sidney Rigdon and Edward Partridge take with them a recommend from the church. And let there be one obtained for my servant Oliver Cowdery also.",
+      "churchId": "p41"
+    },
+    {
+      "slug": "section-52-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "And thus, even as I have said, if ye are faithful ye shall assemble yourselves together to rejoice upon the land of Missouri, which is the land of your inheritance, which is now the land of your enemies.",
+      "churchId": "p42"
+    },
+    {
+      "slug": "section-52-p43",
+      "type": "verse",
+      "number": "43",
+      "content": "But, behold, I, the Lord, will hasten the city in its time, and will crown the faithful with joy and with rejoicing.",
+      "churchId": "p43"
+    },
+    {
+      "slug": "section-52-p44",
+      "type": "verse",
+      "number": "44",
+      "content": "Behold, I am Jesus Christ, the Son of God, and I will lift them up at the last day. Even so. Amen.",
+      "churchId": "p44"
+    }
+  ]
+}

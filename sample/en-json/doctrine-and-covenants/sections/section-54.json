@@ -1,0 +1,85 @@
+{
+  "name": "Doctrine and Covenants 54",
+  "abbrev": "D&C 54",
+  "number": "54",
+  "churchUri": "/scriptures/dc-testament/dc/54",
+  "paragraphs": [
+    {
+      "slug": "section-54-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Section 54",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "section-54-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Behold, thus saith the Lord, even Alpha and Omega, the beginning and the end, even he who was crucified for the sins of the world—",
+      "churchId": "p1"
+    },
+    {
+      "slug": "section-54-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Behold, verily, verily, I say unto you, my servant Newel Knight, you shall stand fast in the office whereunto I have appointed you.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "section-54-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And if your brethren desire to escape their enemies, let them repent of all their sins, and become truly humble before me and contrite.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "section-54-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And as the covenant which they made unto me has been broken, even so it has become void and of none effect.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "section-54-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And wo to him by whom this offense cometh, for it had been better for him that he had been drowned in the depth of the sea.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "section-54-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "But blessed are they who have kept the covenant and observed the commandment, for they shall obtain mercy.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "section-54-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Wherefore, go to now and flee the land, lest your enemies come upon you; and take your journey, and appoint whom you will to be your leader, and to pay moneys for you.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "section-54-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And thus you shall take your journey into the regions westward, unto the land of Missouri, unto the borders of the Lamanites.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "section-54-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And after you have done journeying, behold, I say unto you, seek ye a living like unto men, until I prepare a place for you.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "section-54-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And again, be patient in tribulation until I come; and, behold, I come quickly, and my reward is with me, and they who have sought me early shall find rest to their souls. Even so. Amen.",
+      "churchId": "p10"
+    }
+  ]
+}

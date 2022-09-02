@@ -1,0 +1,232 @@
+{
+  "name": "Judges 16",
+  "abbrev": "Judg. 16",
+  "number": "16",
+  "churchUri": "/scriptures/ot/judg/16",
+  "paragraphs": [
+    {
+      "slug": "judges-16-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 16",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "judges-16-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Then went Samson to Gaza, and saw there an harlot, and went in unto her.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "judges-16-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "<span class=\"clarity-word\">And it was told</span> the Gazites, saying, Samson is come hither. And they compassed <span class=\"clarity-word\">him</span> in, and laid wait for him all night in the gate of the city, and were quiet all the night, saying, In the morning, when it is day, we shall kill him.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "judges-16-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And Samson lay till midnight, and arose at midnight, and took the doors of the gate of the city, and the two posts, and went away with them, bar and all, and put <span class=\"clarity-word\">them</span> upon his shoulders, and carried them up to the top of an hill that <span class=\"clarity-word\">is</span> before Hebron.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "judges-16-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "¶ And it came to pass afterward, that he loved a woman in the valley of Sorek, whose name <span class=\"clarity-word\">was</span> Delilah.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "judges-16-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And the lords of the Philistines came up unto her, and said unto her, Entice him, and see wherein his great strength <span class=\"clarity-word\">lieth,</span> and by what <span class=\"clarity-word\">means</span> we may prevail against him, that we may bind him to afflict him: and we will give thee every one of us eleven hundred <span class=\"clarity-word\">pieces</span> of silver.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "judges-16-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "¶ And Delilah said to Samson, Tell me, I pray thee, wherein thy great strength <span class=\"clarity-word\">lieth,</span> and wherewith thou mightest be bound to afflict thee.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "judges-16-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And Samson said unto her, If they bind me with seven green withs that were never dried, then shall I be weak, and be as another man.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "judges-16-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Then the lords of the Philistines brought up to her seven green withs which had not been dried, and she bound him with them.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "judges-16-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Now <span class=\"clarity-word\">there were</span> men lying in wait, abiding with her in the chamber. And she said unto him, The Philistines <span class=\"clarity-word\">be</span> upon thee, Samson. And he brake the withs, as a thread of tow is broken when it toucheth the fire. So his strength was not known.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "judges-16-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And Delilah said unto Samson, Behold, thou hast mocked me, and told me lies: now tell me, I pray thee, wherewith thou mightest be bound.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "judges-16-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And he said unto her, If they bind me fast with new ropes that never were occupied, then shall I be weak, and be as another man.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "judges-16-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Delilah therefore took new ropes, and bound him therewith, and said unto him, The Philistines <span class=\"clarity-word\">be</span> upon thee, Samson. And <span class=\"clarity-word\">there were</span> liers in wait abiding in the chamber. And he brake them from off his arms like a thread.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "judges-16-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And Delilah said unto Samson, Hitherto thou hast mocked me, and told me lies: tell me wherewith thou mightest be bound. And he said unto her, If thou weavest the seven locks of my head with the web.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "judges-16-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And she fastened <span class=\"clarity-word\">it</span> with the pin, and said unto him, The Philistines <span class=\"clarity-word\">be</span> upon thee, Samson. And he awaked out of his sleep, and went away with the pin of the beam, and with the web.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "judges-16-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "¶ And she said unto him, How canst thou say, I love thee, when thine heart <span class=\"clarity-word\">is</span> not with me? thou hast mocked me these three times, and hast not told me wherein thy great strength <span class=\"clarity-word\">lieth.</span>",
+      "churchId": "p15"
+    },
+    {
+      "slug": "judges-16-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And it came to pass, when she pressed him daily with her words, and urged him, <span class=\"clarity-word\">so</span> that his soul was vexed unto death;",
+      "churchId": "p16"
+    },
+    {
+      "slug": "judges-16-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "That he told her all his heart, and said unto her, There hath not come a razor upon mine head; for I <span class=\"clarity-word\">have been</span> a Nazarite unto God from my mother’s womb: if I be shaven, then my strength will go from me, and I shall become weak, and be like any <span class=\"clarity-word\">other</span> man.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "judges-16-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And when Delilah saw that he had told her all his heart, she sent and called for the lords of the Philistines, saying, Come up this once, for he hath shewed me all his heart. Then the lords of the Philistines came up unto her, and brought money in their hand.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "judges-16-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And she made him sleep upon her knees; and she called for a man, and she caused him to shave off the seven locks of his head; and she began to afflict him, and his strength went from him.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "judges-16-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And she said, The Philistines <span class=\"clarity-word\">be</span> upon thee, Samson. And he awoke out of his sleep, and said, I will go out as at other times before, and shake myself. And he wist not that the <span class=\"small-caps\">Lord</span> was departed from him.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "judges-16-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "¶ But the Philistines took him, and put out his eyes, and brought him down to Gaza, and bound him with fetters of brass; and he did grind in the prison house.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "judges-16-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Howbeit the hair of his head began to grow again after he was shaven.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "judges-16-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Then the lords of the Philistines gathered them together for to offer a great sacrifice unto Dagon their god, and to rejoice: for they said, Our god hath delivered Samson our enemy into our hand.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "judges-16-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And when the people saw him, they praised their god: for they said, Our god hath delivered into our hands our enemy, and the destroyer of our country, which slew many of us.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "judges-16-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And it came to pass, when their hearts were merry, that they said, Call for Samson, that he may make us sport. And they called for Samson out of the prison house; and he made them sport: and they set him between the pillars.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "judges-16-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And Samson said unto the lad that held him by the hand, Suffer me that I may feel the pillars whereupon the house standeth, that I may lean upon them.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "judges-16-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "Now the house was full of men and women; and all the lords of the Philistines <span class=\"clarity-word\">were</span> there; and <span class=\"clarity-word\">there were</span> upon the roof about three thousand men and women, that beheld while Samson made sport.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "judges-16-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And Samson called unto the <span class=\"small-caps\">Lord</span>, and said, O Lord <span class=\"small-caps\">God</span>, remember me, I pray thee, and strengthen me, I pray thee, only this once, O God, that I may be at once avenged of the Philistines for my two eyes.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "judges-16-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "And Samson took hold of the two middle pillars upon which the house stood, and on which it was borne up, of the one with his right hand, and of the other with his left.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "judges-16-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And Samson said, Let me die with the Philistines. And he bowed himself with <span class=\"clarity-word\">all his</span> might; and the house fell upon the lords, and upon all the people that <span class=\"clarity-word\">were</span> therein. So the dead which he slew at his death were more than <span class=\"clarity-word\">they</span> which he slew in his life.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "judges-16-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "Then his brethren and all the house of his father came down, and took him, and brought <span class=\"clarity-word\">him</span> up, and buried him between Zorah and Eshtaol in the buryingplace of Manoah his father. And he judged Israel twenty years.",
+      "churchId": "p31"
+    }
+  ]
+}

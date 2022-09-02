@@ -1,0 +1,134 @@
+{
+  "name": "1 Samuel 7",
+  "abbrev": "1 Sam. 7",
+  "number": "7",
+  "churchUri": "/scriptures/ot/1-sam/7",
+  "paragraphs": [
+    {
+      "slug": "1-samuel-7-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 7",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "1-samuel-7-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And the men of Kirjath-jearim came, and fetched up the ark of the <span class=\"small-caps\">Lord</span>, and brought it into the house of Abinadab in the hill, and sanctified Eleazar his son to keep the ark of the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "1-samuel-7-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And it came to pass, while the ark abode in Kirjath-jearim, that the time was long; for it was twenty years: and all the house of Israel lamented after the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "1-samuel-7-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "¶ And Samuel spake unto all the house of Israel, saying, If ye do return unto the <span class=\"small-caps\">Lord</span> with all your hearts, <span class=\"clarity-word\">then</span> put away the strange gods and Ashtaroth from among you, and prepare your hearts unto the <span class=\"small-caps\">Lord</span>, and serve him only: and he will deliver you out of the hand of the Philistines.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "1-samuel-7-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Then the children of Israel did put away Baalim and Ashtaroth, and served the <span class=\"small-caps\">Lord</span> only.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "1-samuel-7-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And Samuel said, Gather all Israel to Mizpeh, and I will pray for you unto the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "1-samuel-7-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And they gathered together to Mizpeh, and drew water, and poured <span class=\"clarity-word\">it</span> out before the <span class=\"small-caps\">Lord</span>, and fasted on that day, and said there, We have sinned against the <span class=\"small-caps\">Lord</span>. And Samuel judged the children of Israel in Mizpeh.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "1-samuel-7-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And when the Philistines heard that the children of Israel were gathered together to Mizpeh, the lords of the Philistines went up against Israel. And when the children of Israel heard <span class=\"clarity-word\">it,</span> they were afraid of the Philistines.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "1-samuel-7-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And the children of Israel said to Samuel, Cease not to cry unto the <span class=\"small-caps\">Lord</span> our God for us, that he will save us out of the hand of the Philistines.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "1-samuel-7-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "¶ And Samuel took a sucking lamb, and offered <span class=\"clarity-word\">it for</span> a burnt offering wholly unto the <span class=\"small-caps\">Lord</span>: and Samuel cried unto the <span class=\"small-caps\">Lord</span> for Israel; and the <span class=\"small-caps\">Lord</span> heard him.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "1-samuel-7-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And as Samuel was offering up the burnt offering, the Philistines drew near to battle against Israel: but the <span class=\"small-caps\">Lord</span> thundered with a great thunder on that day upon the Philistines, and discomfited them; and they were smitten before Israel.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "1-samuel-7-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And the men of Israel went out of Mizpeh, and pursued the Philistines, and smote them, until <span class=\"clarity-word\">they came</span> under Beth-car.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "1-samuel-7-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Then Samuel took a stone, and set <span class=\"clarity-word\">it</span> between Mizpeh and Shen, and called the name of it Eben-ezer, saying, Hitherto hath the <span class=\"small-caps\">Lord</span> helped us.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "1-samuel-7-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "¶ So the Philistines were subdued, and they came no more into the coast of Israel: and the hand of the <span class=\"small-caps\">Lord</span> was against the Philistines all the days of Samuel.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "1-samuel-7-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And the cities which the Philistines had taken from Israel were restored to Israel, from Ekron even unto Gath; and the coasts thereof did Israel deliver out of the hands of the Philistines. And there was peace between Israel and the Amorites.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "1-samuel-7-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And Samuel judged Israel all the days of his life.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "1-samuel-7-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And he went from year to year in circuit to Beth-el, and Gilgal, and Mizpeh, and judged Israel in all those places.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "1-samuel-7-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And his return <span class=\"clarity-word\">was</span> to Ramah; for there <span class=\"clarity-word\">was</span> his house; and there he judged Israel; and there he built an altar unto the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p17"
+    }
+  ]
+}

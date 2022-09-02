@@ -1,0 +1,169 @@
+{
+  "name": "1 Samuel 4",
+  "abbrev": "1 Sam. 4",
+  "number": "4",
+  "churchUri": "/scriptures/ot/1-sam/4",
+  "paragraphs": [
+    {
+      "slug": "1-samuel-4-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 4",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "1-samuel-4-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And the word of Samuel came to all Israel. Now Israel went out against the Philistines to battle, and pitched beside Eben-ezer: and the Philistines pitched in Aphek.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "1-samuel-4-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And the Philistines put themselves in array against Israel: and when they joined battle, Israel was smitten before the Philistines: and they slew of the army in the field about four thousand men.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "1-samuel-4-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "¶ And when the people were come into the camp, the elders of Israel said, Wherefore hath the <span class=\"small-caps\">Lord</span> smitten us to day before the Philistines? Let us fetch the ark of the covenant of the <span class=\"small-caps\">Lord</span> out of Shiloh unto us, that, when it cometh among us, it may save us out of the hand of our enemies.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "1-samuel-4-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "So the people sent to Shiloh, that they might bring from thence the ark of the covenant of the <span class=\"small-caps\">Lord</span> of hosts, which dwelleth <span class=\"clarity-word\">between</span> the cherubims: and the two sons of Eli, Hophni and Phinehas, <span class=\"clarity-word\">were</span> there with the ark of the covenant of God.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "1-samuel-4-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And when the ark of the covenant of the <span class=\"small-caps\">Lord</span> came into the camp, all Israel shouted with a great shout, so that the earth rang again.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "1-samuel-4-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And when the Philistines heard the noise of the shout, they said, What <span class=\"clarity-word\">meaneth</span> the noise of this great shout in the camp of the Hebrews? And they understood that the ark of the <span class=\"small-caps\">Lord</span> was come into the camp.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "1-samuel-4-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And the Philistines were afraid, for they said, God is come into the camp. And they said, Woe unto us! for there hath not been such a thing heretofore.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "1-samuel-4-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Woe unto us! who shall deliver us out of the hand of these mighty Gods? these <span class=\"clarity-word\">are</span> the Gods that smote the Egyptians with all the plagues in the wilderness.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "1-samuel-4-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Be strong, and quit yourselves like men, O ye Philistines, that ye be not servants unto the Hebrews, as they have been to you: quit yourselves like men, and fight.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "1-samuel-4-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "¶ And the Philistines fought, and Israel was smitten, and they fled every man into his tent: and there was a very great slaughter; for there fell of Israel thirty thousand footmen.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "1-samuel-4-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And the ark of God was taken; and the two sons of Eli, Hophni and Phinehas, were slain.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "1-samuel-4-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "¶ And there ran a man of Benjamin out of the army, and came to Shiloh the same day with his clothes rent, and with earth upon his head.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "1-samuel-4-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And when he came, lo, Eli sat upon a seat by the wayside watching: for his heart trembled for the ark of God. And when the man came into the city, and told <span class=\"clarity-word\">it,</span> all the city cried out.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "1-samuel-4-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And when Eli heard the noise of the crying, he said, What <span class=\"clarity-word\">meaneth</span> the noise of this tumult? And the man came in hastily, and told Eli.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "1-samuel-4-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Now Eli was ninety and eight years old; and his eyes were dim, that he could not see.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "1-samuel-4-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And the man said unto Eli, I <span class=\"clarity-word\">am</span> he that came out of the army, and I fled to day out of the army. And he said, What is there done, my son?",
+      "churchId": "p16"
+    },
+    {
+      "slug": "1-samuel-4-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And the messenger answered and said, Israel is fled before the Philistines, and there hath been also a great slaughter among the people, and thy two sons also, Hophni and Phinehas, are dead, and the ark of God is taken.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "1-samuel-4-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And it came to pass, when he made mention of the ark of God, that he fell from off the seat backward by the side of the gate, and his neck brake, and he died: for he was an old man, and heavy. And he had judged Israel forty years.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "1-samuel-4-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "¶ And his daughter in law, Phinehas’ wife, was with child, <span class=\"clarity-word\">near</span> to be delivered: and when she heard the tidings that the ark of God was taken, and that her father in law and her husband were dead, she bowed herself and travailed; for her pains came upon her.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "1-samuel-4-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And about the time of her death the women that stood by her said unto her, Fear not; for thou hast born a son. But she answered not, neither did she regard <span class=\"clarity-word\">it.</span>",
+      "churchId": "p20"
+    },
+    {
+      "slug": "1-samuel-4-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And she named the child I-chabod, saying, The glory is departed from Israel: because the ark of God was taken, and because of her father in law and her husband.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "1-samuel-4-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And she said, The glory is departed from Israel: for the ark of God is taken.",
+      "churchId": "p22"
+    }
+  ]
+}

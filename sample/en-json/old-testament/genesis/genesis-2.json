@@ -1,0 +1,190 @@
+{
+  "name": "Genesis 2",
+  "abbrev": "Gen. 2",
+  "number": "2",
+  "churchUri": "/scriptures/ot/gen/2",
+  "paragraphs": [
+    {
+      "slug": "genesis-2-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 2",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "genesis-2-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Thus the heavens and the earth were finished, and all the host of them.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "genesis-2-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And on the seventh day God ended his work which he had made; and he rested on the seventh day from all his work which he had made.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "genesis-2-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And God blessed the seventh day, and sanctified it: because that in it he had rested from all his work which God created and made.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "genesis-2-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "¶ These <span class=\"clarity-word\">are</span> the generations of the heavens and of the earth when they were created, in the day that the <span class=\"small-caps\">Lord</span> God made the earth and the heavens,",
+      "churchId": "p4"
+    },
+    {
+      "slug": "genesis-2-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And every plant of the field before it was in the earth, and every herb of the field before it grew: for the <span class=\"small-caps\">Lord</span> God had not caused it to rain upon the earth, and <span class=\"clarity-word\">there was</span> not a man to till the ground.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "genesis-2-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "But there went up a mist from the earth, and watered the whole face of the ground.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "genesis-2-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And the <span class=\"small-caps\">Lord</span> God formed man <span class=\"clarity-word\">of</span> the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "genesis-2-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "¶ And the <span class=\"small-caps\">Lord</span> God planted a garden eastward in Eden; and there he put the man whom he had formed.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "genesis-2-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And out of the ground made the <span class=\"small-caps\">Lord</span> God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "genesis-2-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And a river went out of Eden to water the garden; and from thence it was parted, and became into four heads.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "genesis-2-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "The name of the first <span class=\"clarity-word\">is</span> Pison: that <span class=\"clarity-word\">is</span> it which compasseth the whole land of Havilah, where <span class=\"clarity-word\">there is</span> gold;",
+      "churchId": "p11"
+    },
+    {
+      "slug": "genesis-2-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And the gold of that land <span class=\"clarity-word\">is</span> good: there <span class=\"clarity-word\">is</span> bdellium and the onyx stone.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "genesis-2-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And the name of the second river <span class=\"clarity-word\">is</span> Gihon: the same <span class=\"clarity-word\">is</span> it that compasseth the whole land of Ethiopia.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "genesis-2-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And the name of the third river <span class=\"clarity-word\">is</span> Hiddekel: that <span class=\"clarity-word\">is</span> it which goeth toward the east of Assyria. And the fourth river <span class=\"clarity-word\">is</span> Euphrates.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "genesis-2-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And the <span class=\"small-caps\">Lord</span> God took the man, and put him into the garden of Eden to dress it and to keep it.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "genesis-2-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And the <span class=\"small-caps\">Lord</span> God commanded the man, saying, Of every tree of the garden thou mayest freely eat:",
+      "churchId": "p16"
+    },
+    {
+      "slug": "genesis-2-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "But of the tree of the knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof thou shalt surely die.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "genesis-2-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "¶ And the <span class=\"small-caps\">Lord</span> God said, <span class=\"clarity-word\">It is</span> not good that the man should be alone; I will make him an help meet for him.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "genesis-2-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And out of the ground the <span class=\"small-caps\">Lord</span> God formed every beast of the field, and every fowl of the air; and brought <span class=\"clarity-word\">them</span> unto Adam to see what he would call them: and whatsoever Adam called every living creature, that <span class=\"clarity-word\">was</span> the name thereof.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "genesis-2-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And Adam gave names to all cattle, and to the fowl of the air, and to every beast of the field; but for Adam there was not found an help meet for him.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "genesis-2-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And the <span class=\"small-caps\">Lord</span> God caused a deep sleep to fall upon Adam, and he slept: and he took one of his ribs, and closed up the flesh instead thereof;",
+      "churchId": "p21"
+    },
+    {
+      "slug": "genesis-2-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And the rib, which the <span class=\"small-caps\">Lord</span> God had taken from man, made he a woman, and brought her unto the man.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "genesis-2-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And Adam said, This <span class=\"clarity-word\">is</span> now bone of my bones, and flesh of my flesh: she shall be called Woman, because she was taken out of Man.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "genesis-2-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Therefore shall a man leave his father and his mother, and shall cleave unto his wife: and they shall be one flesh.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "genesis-2-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And they were both naked, the man and his wife, and were not ashamed.",
+      "churchId": "p25"
+    }
+  ]
+}

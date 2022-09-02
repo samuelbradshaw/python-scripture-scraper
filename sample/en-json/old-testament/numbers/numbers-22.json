@@ -1,0 +1,302 @@
+{
+  "name": "Numbers 22",
+  "abbrev": "Num. 22",
+  "number": "22",
+  "churchUri": "/scriptures/ot/num/22",
+  "paragraphs": [
+    {
+      "slug": "numbers-22-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 22",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "numbers-22-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And the children of Israel set forward, and pitched in the plains of Moab on this side Jordan <span class=\"clarity-word\">by</span> Jericho.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "numbers-22-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "¶ And Balak the son of Zippor saw all that Israel had done to the Amorites.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "numbers-22-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And Moab was sore afraid of the people, because they <span class=\"clarity-word\">were</span> many: and Moab was distressed because of the children of Israel.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "numbers-22-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And Moab said unto the elders of Midian, Now shall this company lick up all <span class=\"clarity-word\">that are</span> round about us, as the ox licketh up the grass of the field. And Balak the son of Zippor <span class=\"clarity-word\">was</span> king of the Moabites at that time.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "numbers-22-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "He sent messengers therefore unto Balaam the son of Beor to Pethor, which <span class=\"clarity-word\">is</span> by the river of the land of the children of his people, to call him, saying, Behold, there is a people come out from Egypt: behold, they cover the face of the earth, and they abide over against me:",
+      "churchId": "p5"
+    },
+    {
+      "slug": "numbers-22-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Come now therefore, I pray thee, curse me this people; for they <span class=\"clarity-word\">are</span> too mighty for me: peradventure I shall prevail, <span class=\"clarity-word\">that</span> we may smite them, and <span class=\"clarity-word\">that</span> I may drive them out of the land: for I wot that he whom thou blessest <span class=\"clarity-word\">is</span> blessed, and he whom thou cursest is cursed.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "numbers-22-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And the elders of Moab and the elders of Midian departed with the rewards of divination in their hand; and they came unto Balaam, and spake unto him the words of Balak.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "numbers-22-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And he said unto them, Lodge here this night, and I will bring you word again, as the <span class=\"small-caps\">Lord</span> shall speak unto me: and the princes of Moab abode with Balaam.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "numbers-22-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And God came unto Balaam, and said, What men <span class=\"clarity-word\">are</span> these with thee?",
+      "churchId": "p9"
+    },
+    {
+      "slug": "numbers-22-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And Balaam said unto God, Balak the son of Zippor, king of Moab, hath sent unto me, <span class=\"clarity-word\">saying,</span>",
+      "churchId": "p10"
+    },
+    {
+      "slug": "numbers-22-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Behold, <span class=\"clarity-word\">there is</span> a people come out of Egypt, which covereth the face of the earth: come now, curse me them; peradventure I shall be able to overcome them, and drive them out.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "numbers-22-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And God said unto Balaam, Thou shalt not go with them; thou shalt not curse the people: for they <span class=\"clarity-word\">are</span> blessed.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "numbers-22-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And Balaam rose up in the morning, and said unto the princes of Balak, Get you into your land: for the <span class=\"small-caps\">Lord</span> refuseth to give me leave to go with you.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "numbers-22-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And the princes of Moab rose up, and they went unto Balak, and said, Balaam refuseth to come with us.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "numbers-22-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "¶ And Balak sent yet again princes, more, and more honourable than they.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "numbers-22-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And they came to Balaam, and said to him, Thus saith Balak the son of Zippor, Let nothing, I pray thee, hinder thee from coming unto me:",
+      "churchId": "p16"
+    },
+    {
+      "slug": "numbers-22-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "For I will promote thee unto very great honour, and I will do whatsoever thou sayest unto me: come therefore, I pray thee, curse me this people.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "numbers-22-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And Balaam answered and said unto the servants of Balak, If Balak would give me his house full of silver and gold, I cannot go beyond the word of the <span class=\"small-caps\">Lord</span> my God, to do less or more.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "numbers-22-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Now therefore, I pray you, tarry ye also here this night, that I may know what the <span class=\"small-caps\">Lord</span> will say unto me more.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "numbers-22-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And God came unto Balaam at night, and said unto him, If the men come to call thee, rise up, <span class=\"clarity-word\">and</span> go with them; but yet the word which I shall say unto thee, that shalt thou do.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "numbers-22-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And Balaam rose up in the morning, and saddled his ass, and went with the princes of Moab.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "numbers-22-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "¶ And God’s anger was kindled because he went: and the angel of the <span class=\"small-caps\">Lord</span> stood in the way for an adversary against him. Now he was riding upon his ass, and his two servants <span class=\"clarity-word\">were</span> with him.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "numbers-22-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And the ass saw the angel of the <span class=\"small-caps\">Lord</span> standing in the way, and his sword drawn in his hand: and the ass turned aside out of the way, and went into the field: and Balaam smote the ass, to turn her into the way.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "numbers-22-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "But the angel of the <span class=\"small-caps\">Lord</span> stood in a path of the vineyards, a wall <span class=\"clarity-word\">being</span> on this side, and a wall on that side.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "numbers-22-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And when the ass saw the angel of the <span class=\"small-caps\">Lord</span>, she thrust herself unto the wall, and crushed Balaam’s foot against the wall: and he smote her again.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "numbers-22-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And the angel of the <span class=\"small-caps\">Lord</span> went further, and stood in a narrow place, where <span class=\"clarity-word\">was</span> no way to turn either to the right hand or to the left.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "numbers-22-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And when the ass saw the angel of the <span class=\"small-caps\">Lord</span>, she fell down under Balaam: and Balaam’s anger was kindled, and he smote the ass with a staff.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "numbers-22-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And the <span class=\"small-caps\">Lord</span> opened the mouth of the ass, and she said unto Balaam, What have I done unto thee, that thou hast smitten me these three times?",
+      "churchId": "p28"
+    },
+    {
+      "slug": "numbers-22-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "And Balaam said unto the ass, Because thou hast mocked me: I would there were a sword in mine hand, for now would I kill thee.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "numbers-22-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And the ass said unto Balaam, <span class=\"clarity-word\">Am</span> not I thine ass, upon which thou hast ridden ever since <span class=\"clarity-word\">I was</span> thine unto this day? was I ever wont to do so unto thee? And he said, Nay.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "numbers-22-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "Then the <span class=\"small-caps\">Lord</span> opened the eyes of Balaam, and he saw the angel of the <span class=\"small-caps\">Lord</span> standing in the way, and his sword drawn in his hand: and he bowed down his head, and fell flat on his face.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "numbers-22-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "And the angel of the <span class=\"small-caps\">Lord</span> said unto him, Wherefore hast thou smitten thine ass these three times? behold, I went out to withstand thee, because <span class=\"clarity-word\">thy</span> way is perverse before me:",
+      "churchId": "p32"
+    },
+    {
+      "slug": "numbers-22-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "And the ass saw me, and turned from me these three times: unless she had turned from me, surely now also I had slain thee, and saved her alive.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "numbers-22-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "And Balaam said unto the angel of the <span class=\"small-caps\">Lord</span>, I have sinned; for I knew not that thou stoodest in the way against me: now therefore, if it displease thee, I will get me back again.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "numbers-22-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "And the angel of the <span class=\"small-caps\">Lord</span> said unto Balaam, Go with the men: but only the word that I shall speak unto thee, that thou shalt speak. So Balaam went with the princes of Balak.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "numbers-22-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "¶ And when Balak heard that Balaam was come, he went out to meet him unto a city of Moab, which <span class=\"clarity-word\">is</span> in the border of Arnon, which <span class=\"clarity-word\">is</span> in the utmost coast.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "numbers-22-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "And Balak said unto Balaam, Did I not earnestly send unto thee to call thee? wherefore camest thou not unto me? am I not able indeed to promote thee to honour?",
+      "churchId": "p37"
+    },
+    {
+      "slug": "numbers-22-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "And Balaam said unto Balak, Lo, I am come unto thee: have I now any power at all to say any thing? the word that God putteth in my mouth, that shall I speak.",
+      "churchId": "p38"
+    },
+    {
+      "slug": "numbers-22-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "And Balaam went with Balak, and they came unto Kirjath-huzoth.",
+      "churchId": "p39"
+    },
+    {
+      "slug": "numbers-22-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "And Balak offered oxen and sheep, and sent to Balaam, and to the princes that <span class=\"clarity-word\">were</span> with him.",
+      "churchId": "p40"
+    },
+    {
+      "slug": "numbers-22-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "And it came to pass on the morrow, that Balak took Balaam, and brought him up into the high places of Baal, that thence he might see the utmost <span class=\"clarity-word\">part</span> of the people.",
+      "churchId": "p41"
+    }
+  ]
+}

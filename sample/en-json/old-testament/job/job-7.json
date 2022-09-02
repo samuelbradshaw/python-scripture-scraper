@@ -1,0 +1,162 @@
+{
+  "name": "Job 7",
+  "abbrev": "Job 7",
+  "number": "7",
+  "churchUri": "/scriptures/ot/job/7",
+  "paragraphs": [
+    {
+      "slug": "job-7-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 7",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "job-7-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "<span class=\"clarity-word\">Is there</span> not an appointed time to man upon earth? <span class=\"clarity-word\">are not</span> his days also like the days of an hireling?",
+      "churchId": "p1"
+    },
+    {
+      "slug": "job-7-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "As a servant earnestly desireth the shadow, and as an hireling looketh for <span class=\"clarity-word\">the reward of</span> his work:",
+      "churchId": "p2"
+    },
+    {
+      "slug": "job-7-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "So am I made to possess months of vanity, and wearisome nights are appointed to me.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "job-7-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "When I lie down, I say, When shall I arise, and the night be gone? and I am full of tossings to and fro unto the dawning of the day.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "job-7-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "My flesh is clothed with worms and clods of dust; my skin is broken, and become loathsome.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "job-7-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "My days are swifter than a weaver’s shuttle, and are spent without hope.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "job-7-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "O remember that my life <span class=\"clarity-word\">is</span> wind: mine eye shall no more see good.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "job-7-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "The eye of him that hath seen me shall see me no <span class=\"clarity-word\">more:</span> thine eyes <span class=\"clarity-word\">are</span> upon me, and I <span class=\"clarity-word\">am</span> not.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "job-7-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "<span class=\"clarity-word\">As</span> the cloud is consumed and vanisheth away: so he that goeth down to the grave shall come up no <span class=\"clarity-word\">more.</span>",
+      "churchId": "p9"
+    },
+    {
+      "slug": "job-7-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "He shall return no more to his house, neither shall his place know him any more.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "job-7-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Therefore I will not refrain my mouth; I will speak in the anguish of my spirit; I will complain in the bitterness of my soul.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "job-7-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "<span class=\"clarity-word\">Am</span> I a sea, or a whale, that thou settest a watch over me?",
+      "churchId": "p12"
+    },
+    {
+      "slug": "job-7-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "When I say, My bed shall comfort me, my couch shall ease my complaint;",
+      "churchId": "p13"
+    },
+    {
+      "slug": "job-7-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Then thou scarest me with dreams, and terrifiest me through visions:",
+      "churchId": "p14"
+    },
+    {
+      "slug": "job-7-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "So that my soul chooseth strangling, <span class=\"clarity-word\">and</span> death rather than my life.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "job-7-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "I loathe <span class=\"clarity-word\">it;</span> I would not live alway: let me alone; for my days <span class=\"clarity-word\">are</span> vanity.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "job-7-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "What <span class=\"clarity-word\">is</span> man, that thou shouldest magnify him? and that thou shouldest set thine heart upon him?",
+      "churchId": "p17"
+    },
+    {
+      "slug": "job-7-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And <span class=\"clarity-word\">that</span> thou shouldest visit him every morning, <span class=\"clarity-word\">and</span> try him every moment?",
+      "churchId": "p18"
+    },
+    {
+      "slug": "job-7-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "How long wilt thou not depart from me, nor let me alone till I swallow down my spittle?",
+      "churchId": "p19"
+    },
+    {
+      "slug": "job-7-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "I have sinned; what shall I do unto thee, O thou preserver of men? why hast thou set me as a mark against thee, so that I am a burden to myself?",
+      "churchId": "p20"
+    },
+    {
+      "slug": "job-7-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And why dost thou not pardon my transgression, and take away mine iniquity? for now shall I sleep in the dust; and thou shalt seek me in the morning, but I <span class=\"clarity-word\">shall</span> not <span class=\"clarity-word\">be.</span>",
+      "churchId": "p21"
+    }
+  ]
+}

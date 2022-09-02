@@ -1,0 +1,526 @@
+{
+  "name": "Nehemiah 7",
+  "abbrev": "Neh. 7",
+  "number": "7",
+  "churchUri": "/scriptures/ot/neh/7",
+  "paragraphs": [
+    {
+      "slug": "nehemiah-7-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 7",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "nehemiah-7-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Now it came to pass, when the wall was built, and I had set up the doors, and the porters and the singers and the Levites were appointed,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "nehemiah-7-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "That I gave my brother Hanani, and Hananiah the ruler of the palace, charge over Jerusalem: for he <span class=\"clarity-word\">was</span> a faithful man, and feared God above many.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "nehemiah-7-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And I said unto them, Let not the gates of Jerusalem be opened until the sun be hot; and while they stand by, let them shut the doors, and bar <span class=\"clarity-word\">them:</span> and appoint watches of the inhabitants of Jerusalem, every one in his watch, and every one <span class=\"clarity-word\">to be</span> over against his house.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "nehemiah-7-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Now the city <span class=\"clarity-word\">was</span> large and great: but the people <span class=\"clarity-word\">were</span> few therein, and the houses <span class=\"clarity-word\">were</span> not builded.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "nehemiah-7-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "¶ And my God put into mine heart to gather together the nobles, and the rulers, and the people, that they might be reckoned by genealogy. And I found a register of the genealogy of them which came up at the first, and found written therein,",
+      "churchId": "p5"
+    },
+    {
+      "slug": "nehemiah-7-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "These <span class=\"clarity-word\">are</span> the children of the province, that went up out of the captivity, of those that had been carried away, whom Nebuchadnezzar the king of Babylon had carried away, and came again to Jerusalem and to Judah, every one unto his city;",
+      "churchId": "p6"
+    },
+    {
+      "slug": "nehemiah-7-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Who came with Zerubbabel, Jeshua, Nehemiah, Azariah, Raamiah, Nahamani, Mordecai, Bilshan, Mispereth, Bigvai, Nehum, Baanah. The number, <span class=\"clarity-word\">I say,</span> of the men of the people of Israel <span class=\"clarity-word\">was this;</span>",
+      "churchId": "p7"
+    },
+    {
+      "slug": "nehemiah-7-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "The children of Parosh, two thousand an hundred seventy and two.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "nehemiah-7-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "The children of Shephatiah, three hundred seventy and two.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "nehemiah-7-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "The children of Arah, six hundred fifty and two.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "nehemiah-7-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "The children of Pahath-moab, of the children of Jeshua and Joab, two thousand and eight hundred <span class=\"clarity-word\">and</span> eighteen.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "nehemiah-7-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "The children of Elam, a thousand two hundred fifty and four.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "nehemiah-7-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "The children of Zattu, eight hundred forty and five.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "nehemiah-7-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "The children of Zaccai, seven hundred and threescore.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "nehemiah-7-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "The children of Binnui, six hundred forty and eight.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "nehemiah-7-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "The children of Bebai, six hundred twenty and eight.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "nehemiah-7-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "The children of Azgad, two thousand three hundred twenty and two.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "nehemiah-7-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "The children of Adonikam, six hundred threescore and seven.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "nehemiah-7-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "The children of Bigvai, two thousand threescore and seven.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "nehemiah-7-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "The children of Adin, six hundred fifty and five.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "nehemiah-7-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "The children of Ater of Hezekiah, ninety and eight.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "nehemiah-7-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "The children of Hashum, three hundred twenty and eight.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "nehemiah-7-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "The children of Bezai, three hundred twenty and four.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "nehemiah-7-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "The children of Hariph, an hundred and twelve.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "nehemiah-7-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "The children of Gibeon, ninety and five.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "nehemiah-7-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "The men of Beth-lehem and Netophah, an hundred fourscore and eight.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "nehemiah-7-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "The men of Anathoth, an hundred twenty and eight.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "nehemiah-7-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "The men of Beth-azmaveth, forty and two.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "nehemiah-7-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "The men of Kirjath-jearim, Chephirah, and Beeroth, seven hundred forty and three.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "nehemiah-7-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "The men of Ramah and Geba, six hundred twenty and one.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "nehemiah-7-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "The men of Michmas, an hundred and twenty and two.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "nehemiah-7-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "The men of Beth-el and Ai, an hundred twenty and three.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "nehemiah-7-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "The men of the other Nebo, fifty and two.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "nehemiah-7-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "The children of the other Elam, a thousand two hundred fifty and four.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "nehemiah-7-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "The children of Harim, three hundred and twenty.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "nehemiah-7-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "The children of Jericho, three hundred forty and five.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "nehemiah-7-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "The children of Lod, Hadid, and Ono, seven hundred twenty and one.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "nehemiah-7-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "The children of Senaah, three thousand nine hundred and thirty.",
+      "churchId": "p38"
+    },
+    {
+      "slug": "nehemiah-7-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "¶ The priests: the children of Jedaiah, of the house of Jeshua, nine hundred seventy and three.",
+      "churchId": "p39"
+    },
+    {
+      "slug": "nehemiah-7-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "The children of Immer, a thousand fifty and two.",
+      "churchId": "p40"
+    },
+    {
+      "slug": "nehemiah-7-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "The children of Pashur, a thousand two hundred forty and seven.",
+      "churchId": "p41"
+    },
+    {
+      "slug": "nehemiah-7-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "The children of Harim, a thousand and seventeen.",
+      "churchId": "p42"
+    },
+    {
+      "slug": "nehemiah-7-p43",
+      "type": "verse",
+      "number": "43",
+      "content": "¶ The Levites: the children of Jeshua, of Kadmiel, <span class=\"clarity-word\">and</span> of the children of Hodevah, seventy and four.",
+      "churchId": "p43"
+    },
+    {
+      "slug": "nehemiah-7-p44",
+      "type": "verse",
+      "number": "44",
+      "content": "¶ The singers: the children of Asaph, an hundred forty and eight.",
+      "churchId": "p44"
+    },
+    {
+      "slug": "nehemiah-7-p45",
+      "type": "verse",
+      "number": "45",
+      "content": "¶ The porters: the children of Shallum, the children of Ater, the children of Talmon, the children of Akkub, the children of Hatita, the children of Shobai, an hundred thirty and eight.",
+      "churchId": "p45"
+    },
+    {
+      "slug": "nehemiah-7-p46",
+      "type": "verse",
+      "number": "46",
+      "content": "¶ The Nethinims: the children of Ziha, the children of Hashupha, the children of Tabbaoth,",
+      "churchId": "p46"
+    },
+    {
+      "slug": "nehemiah-7-p47",
+      "type": "verse",
+      "number": "47",
+      "content": "The children of Keros, the children of Sia, the children of Padon,",
+      "churchId": "p47"
+    },
+    {
+      "slug": "nehemiah-7-p48",
+      "type": "verse",
+      "number": "48",
+      "content": "The children of Lebana, the children of Hagaba, the children of Shalmai,",
+      "churchId": "p48"
+    },
+    {
+      "slug": "nehemiah-7-p49",
+      "type": "verse",
+      "number": "49",
+      "content": "The children of Hanan, the children of Giddel, the children of Gahar,",
+      "churchId": "p49"
+    },
+    {
+      "slug": "nehemiah-7-p50",
+      "type": "verse",
+      "number": "50",
+      "content": "The children of Reaiah, the children of Rezin, the children of Nekoda,",
+      "churchId": "p50"
+    },
+    {
+      "slug": "nehemiah-7-p51",
+      "type": "verse",
+      "number": "51",
+      "content": "The children of Gazzam, the children of Uzza, the children of Phaseah,",
+      "churchId": "p51"
+    },
+    {
+      "slug": "nehemiah-7-p52",
+      "type": "verse",
+      "number": "52",
+      "content": "The children of Besai, the children of Meunim, the children of Nephishesim,",
+      "churchId": "p52"
+    },
+    {
+      "slug": "nehemiah-7-p53",
+      "type": "verse",
+      "number": "53",
+      "content": "The children of Bakbuk, the children of Hakupha, the children of Harhur,",
+      "churchId": "p53"
+    },
+    {
+      "slug": "nehemiah-7-p54",
+      "type": "verse",
+      "number": "54",
+      "content": "The children of Bazlith, the children of Mehida, the children of Harsha,",
+      "churchId": "p54"
+    },
+    {
+      "slug": "nehemiah-7-p55",
+      "type": "verse",
+      "number": "55",
+      "content": "The children of Barkos, the children of Sisera, the children of Tamah,",
+      "churchId": "p55"
+    },
+    {
+      "slug": "nehemiah-7-p56",
+      "type": "verse",
+      "number": "56",
+      "content": "The children of Neziah, the children of Hatipha.",
+      "churchId": "p56"
+    },
+    {
+      "slug": "nehemiah-7-p57",
+      "type": "verse",
+      "number": "57",
+      "content": "¶ The children of Solomon’s servants: the children of Sotai, the children of Sophereth, the children of Perida,",
+      "churchId": "p57"
+    },
+    {
+      "slug": "nehemiah-7-p58",
+      "type": "verse",
+      "number": "58",
+      "content": "The children of Jaala, the children of Darkon, the children of Giddel,",
+      "churchId": "p58"
+    },
+    {
+      "slug": "nehemiah-7-p59",
+      "type": "verse",
+      "number": "59",
+      "content": "The children of Shephatiah, the children of Hattil, the children of Pochereth of Zebaim, the children of Amon.",
+      "churchId": "p59"
+    },
+    {
+      "slug": "nehemiah-7-p60",
+      "type": "verse",
+      "number": "60",
+      "content": "All the Nethinims, and the children of Solomon’s servants, <span class=\"clarity-word\">were</span> three hundred ninety and two.",
+      "churchId": "p60"
+    },
+    {
+      "slug": "nehemiah-7-p61",
+      "type": "verse",
+      "number": "61",
+      "content": "And these <span class=\"clarity-word\">were</span> they which went up <span class=\"clarity-word\">also</span> from Tel-melah, Tel-haresha, Cherub, Addon, and Immer: but they could not shew their father’s house, nor their seed, whether they <span class=\"clarity-word\">were</span> of Israel.",
+      "churchId": "p61"
+    },
+    {
+      "slug": "nehemiah-7-p62",
+      "type": "verse",
+      "number": "62",
+      "content": "The children of Delaiah, the children of Tobiah, the children of Nekoda, six hundred forty and two.",
+      "churchId": "p62"
+    },
+    {
+      "slug": "nehemiah-7-p63",
+      "type": "verse",
+      "number": "63",
+      "content": "¶ And of the priests: the children of Habaiah, the children of Koz, the children of Barzillai, which took <span class=\"clarity-word\">one</span> of the daughters of Barzillai the Gileadite to wife, and was called after their name.",
+      "churchId": "p63"
+    },
+    {
+      "slug": "nehemiah-7-p64",
+      "type": "verse",
+      "number": "64",
+      "content": "These sought their register <span class=\"clarity-word\">among</span> those that were reckoned by genealogy, but it was not found: therefore were they, as polluted, put from the priesthood.",
+      "churchId": "p64"
+    },
+    {
+      "slug": "nehemiah-7-p65",
+      "type": "verse",
+      "number": "65",
+      "content": "And the Tirshatha said unto them, that they should not eat of the most holy things, till there stood <span class=\"clarity-word\">up</span> a priest with Urim and Thummim.",
+      "churchId": "p65"
+    },
+    {
+      "slug": "nehemiah-7-p66",
+      "type": "verse",
+      "number": "66",
+      "content": "¶ The whole congregation together <span class=\"clarity-word\">was</span> forty and two thousand three hundred and threescore,",
+      "churchId": "p66"
+    },
+    {
+      "slug": "nehemiah-7-p67",
+      "type": "verse",
+      "number": "67",
+      "content": "Beside their manservants and their maidservants, of whom <span class=\"clarity-word\">there were</span> seven thousand three hundred thirty and seven: and they had two hundred forty and five singing men and singing women.",
+      "churchId": "p67"
+    },
+    {
+      "slug": "nehemiah-7-p68",
+      "type": "verse",
+      "number": "68",
+      "content": "Their horses, seven hundred thirty and six: their mules, two hundred forty and five:",
+      "churchId": "p68"
+    },
+    {
+      "slug": "nehemiah-7-p69",
+      "type": "verse",
+      "number": "69",
+      "content": "<span class=\"clarity-word\">Their</span> camels, four hundred thirty and five: six thousand seven hundred and twenty asses.",
+      "churchId": "p69"
+    },
+    {
+      "slug": "nehemiah-7-p70",
+      "type": "verse",
+      "number": "70",
+      "content": "¶ And some of the chief of the fathers gave unto the work. The Tirshatha gave to the treasure a thousand drams of gold, fifty basins, five hundred and thirty priests’ garments.",
+      "churchId": "p70"
+    },
+    {
+      "slug": "nehemiah-7-p71",
+      "type": "verse",
+      "number": "71",
+      "content": "And <span class=\"clarity-word\">some</span> of the chief of the fathers gave to the treasure of the work twenty thousand drams of gold, and two thousand and two hundred pound of silver.",
+      "churchId": "p71"
+    },
+    {
+      "slug": "nehemiah-7-p72",
+      "type": "verse",
+      "number": "72",
+      "content": "And <span class=\"clarity-word\">that</span> which the rest of the people gave <span class=\"clarity-word\">was</span> twenty thousand drams of gold, and two thousand pound of silver, and threescore and seven priests’ garments.",
+      "churchId": "p72"
+    },
+    {
+      "slug": "nehemiah-7-p73",
+      "type": "verse",
+      "number": "73",
+      "content": "So the priests, and the Levites, and the porters, and the singers, and <span class=\"clarity-word\">some</span> of the people, and the Nethinims, and all Israel, dwelt in their cities; and when the seventh month came, the children of Israel <span class=\"clarity-word\">were</span> in their cities.",
+      "churchId": "p73"
+    }
+  ]
+}

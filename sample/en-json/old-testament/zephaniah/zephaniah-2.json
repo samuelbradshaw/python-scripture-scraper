@@ -1,0 +1,120 @@
+{
+  "name": "Zephaniah 2",
+  "abbrev": "Zeph. 2",
+  "number": "2",
+  "churchUri": "/scriptures/ot/zeph/2",
+  "paragraphs": [
+    {
+      "slug": "zephaniah-2-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 2",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "zephaniah-2-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Gather yourselves together, yea, gather together, O nation not desired;",
+      "churchId": "p1"
+    },
+    {
+      "slug": "zephaniah-2-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Before the decree bring forth, <span class=\"clarity-word\">before</span> the day pass as the chaff, before the fierce anger of the <span class=\"small-caps\">Lord</span> come upon you, before the day of the <span class=\"small-caps\">Lord</span>’s anger come upon you.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "zephaniah-2-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Seek ye the <span class=\"small-caps\">Lord</span>, all ye meek of the earth, which have wrought his judgment; seek righteousness, seek meekness: it may be ye shall be hid in the day of the <span class=\"small-caps\">Lord</span>’s anger.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "zephaniah-2-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "¶ For Gaza shall be forsaken, and Ashkelon a desolation: they shall drive out Ashdod at the noon day, and Ekron shall be rooted up.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "zephaniah-2-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Woe unto the inhabitants of the sea coast, the nation of the Cherethites! the word of the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">is</span> against you; O Canaan, the land of the Philistines, I will even destroy thee, that there shall be no inhabitant.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "zephaniah-2-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And the sea coast shall be dwellings <span class=\"clarity-word\">and</span> cottages for shepherds, and folds for flocks.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "zephaniah-2-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And the coast shall be for the remnant of the house of Judah; they shall feed thereupon: in the houses of Ashkelon shall they lie down in the evening: for the <span class=\"small-caps\">Lord</span> their God shall visit them, and turn away their captivity.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "zephaniah-2-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "¶ I have heard the reproach of Moab, and the revilings of the children of Ammon, whereby they have reproached my people, and magnified <span class=\"clarity-word\">themselves</span> against their border.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "zephaniah-2-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Therefore <span class=\"clarity-word\">as</span> I live, saith the <span class=\"small-caps\">Lord</span> of hosts, the God of Israel, Surely Moab shall be as Sodom, and the children of Ammon as Gomorrah, <span class=\"clarity-word\">even</span> the breeding of nettles, and saltpits, and a perpetual desolation: the residue of my people shall spoil them, and the remnant of my people shall possess them.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "zephaniah-2-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "This shall they have for their pride, because they have reproached and magnified <span class=\"clarity-word\">themselves</span> against the people of the <span class=\"small-caps\">Lord</span> of hosts.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "zephaniah-2-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "The <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">will be</span> terrible unto them: for he will famish all the gods of the earth; and <span class=\"clarity-word\">men</span> shall worship him, every one from his place, <span class=\"clarity-word\">even</span> all the isles of the heathen.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "zephaniah-2-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "¶ Ye Ethiopians also, ye <span class=\"clarity-word\">shall be</span> slain by my sword.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "zephaniah-2-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And he will stretch out his hand against the north, and destroy Assyria; and will make Nineveh a desolation, <span class=\"clarity-word\">and</span> dry like a wilderness.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "zephaniah-2-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And flocks shall lie down in the midst of her, all the beasts of the nations: both the cormorant and the bittern shall lodge in the upper lintels of it; <span class=\"clarity-word\">their</span> voice shall sing in the windows; desolation <span class=\"clarity-word\">shall be</span> in the thresholds: for he shall uncover the cedar work.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "zephaniah-2-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "This <span class=\"clarity-word\">is</span> the rejoicing city that dwelt carelessly, that said in her heart, I <span class=\"clarity-word\">am,</span> and <span class=\"clarity-word\">there is</span> none beside me: how is she become a desolation, a place for beasts to lie down in! every one that passeth by her shall hiss, <span class=\"clarity-word\">and</span> wag his hand.",
+      "churchId": "p15"
+    }
+  ]
+}

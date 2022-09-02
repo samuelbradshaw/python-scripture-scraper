@@ -1,0 +1,323 @@
+{
+  "name": "Mark 12",
+  "abbrev": "Mark 12",
+  "number": "12",
+  "churchUri": "/scriptures/nt/mark/12",
+  "paragraphs": [
+    {
+      "slug": "mark-12-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 12",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "mark-12-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And he began to speak unto them by parables. A <span class=\"clarity-word\">certain</span> man planted a vineyard, and set an hedge about <span class=\"clarity-word\">it,</span> and digged <span class=\"clarity-word\">a place for</span> the winefat, and built a tower, and let it out to husbandmen, and went into a far country.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "mark-12-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And at the season he sent to the husbandmen a servant, that he might receive from the husbandmen of the fruit of the vineyard.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "mark-12-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And they caught <span class=\"clarity-word\">him,</span> and beat him, and sent <span class=\"clarity-word\">him</span> away empty.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "mark-12-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And again he sent unto them another servant; and at him they cast stones, and wounded <span class=\"clarity-word\">him</span> in the head, and sent <span class=\"clarity-word\">him</span> away shamefully handled.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "mark-12-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And again he sent another; and him they killed, and many others; beating some, and killing some.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "mark-12-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Having yet therefore one son, his wellbeloved, he sent him also last unto them, saying, They will reverence my son.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "mark-12-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "But those husbandmen said among themselves, This is the heir; come, let us kill him, and the inheritance shall be ours.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "mark-12-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And they took him, and killed <span class=\"clarity-word\">him,</span> and cast <span class=\"clarity-word\">him</span> out of the vineyard.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "mark-12-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "What shall therefore the lord of the vineyard do? he will come and destroy the husbandmen, and will give the vineyard unto others.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "mark-12-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And have ye not read this scripture; The stone which the builders rejected is become the head of the corner:",
+      "churchId": "p10"
+    },
+    {
+      "slug": "mark-12-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "This was the Lord’s doing, and it is marvellous in our eyes?",
+      "churchId": "p11"
+    },
+    {
+      "slug": "mark-12-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And they sought to lay hold on him, but feared the people: for they knew that he had spoken the parable against them: and they left him, and went their way.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "mark-12-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "¶ And they send unto him certain of the Pharisees and of the Herodians, to catch him in <span class=\"clarity-word\">his</span> words.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "mark-12-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And when they were come, they say unto him, Master, we know that thou art true, and carest for no man: for thou regardest not the person of men, but teachest the way of God in truth: Is it lawful to give tribute to Cæsar, or not?",
+      "churchId": "p14"
+    },
+    {
+      "slug": "mark-12-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Shall we give, or shall we not give? But he, knowing their hypocrisy, said unto them, Why tempt ye me? bring me a penny, that I may see <span class=\"clarity-word\">it.</span>",
+      "churchId": "p15"
+    },
+    {
+      "slug": "mark-12-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And they brought <span class=\"clarity-word\">it.</span> And he saith unto them, Whose <span class=\"clarity-word\">is</span> this image and superscription? And they said unto him, Cæsar’s.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "mark-12-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And Jesus answering said unto them, Render to Cæsar the things that are Cæsar’s, and to God the things that are God’s. And they marvelled at him.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "mark-12-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "¶ Then come unto him the Sadducees, which say there is no resurrection; and they asked him, saying,",
+      "churchId": "p18"
+    },
+    {
+      "slug": "mark-12-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Master, Moses wrote unto us, If a man’s brother die, and leave <span class=\"clarity-word\">his</span> wife <span class=\"clarity-word\">behind him,</span> and leave no children, that his brother should take his wife, and raise up seed unto his brother.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "mark-12-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Now there were seven brethren: and the first took a wife, and dying left no seed.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "mark-12-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And the second took her, and died, neither left he any seed: and the third likewise.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "mark-12-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And the seven had her, and left no seed: last of all the woman died also.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "mark-12-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "In the resurrection therefore, when they shall rise, whose wife shall she be of them? for the seven had her to wife.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "mark-12-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And Jesus answering said unto them, Do ye not therefore err, because ye know not the scriptures, neither the power of God?",
+      "churchId": "p24"
+    },
+    {
+      "slug": "mark-12-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "For when they shall rise from the dead, they neither marry, nor are given in marriage; but are as the angels which are in heaven.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "mark-12-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And as touching the dead, that they rise: have ye not read in the book of Moses, how in the bush God spake unto him, saying, I <span class=\"clarity-word\">am</span> the God of Abraham, and the God of Isaac, and the God of Jacob?",
+      "churchId": "p26"
+    },
+    {
+      "slug": "mark-12-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "He is not the God of the dead, but the God of the living: ye therefore do greatly err.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "mark-12-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "¶ And one of the scribes came, and having heard them reasoning together, and perceiving that he had answered them well, asked him, Which is the first commandment of all?",
+      "churchId": "p28"
+    },
+    {
+      "slug": "mark-12-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "And Jesus answered him, The first of all the commandments <span class=\"clarity-word\">is,</span> Hear, O Israel; The Lord our God is one Lord:",
+      "churchId": "p29"
+    },
+    {
+      "slug": "mark-12-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind, and with all thy strength: this <span class=\"clarity-word\">is</span> the first commandment.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "mark-12-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "And the second <span class=\"clarity-word\">is</span> like, <span class=\"clarity-word\">namely</span> this, Thou shalt love thy neighbour as thyself. There is none other commandment greater than these.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "mark-12-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "And the scribe said unto him, Well, Master, thou hast said the truth: for there is one God; and there is none other but he:",
+      "churchId": "p32"
+    },
+    {
+      "slug": "mark-12-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "And to love him with all the heart, and with all the understanding, and with all the soul, and with all the strength, and to love <span class=\"clarity-word\">his</span> neighbour as himself, is more than all whole burnt offerings and sacrifices.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "mark-12-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "And when Jesus saw that he answered discreetly, he said unto him, Thou art not far from the kingdom of God. And no man after that durst ask him <span class=\"clarity-word\">any question.</span>",
+      "churchId": "p34"
+    },
+    {
+      "slug": "mark-12-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "¶ And Jesus answered and said, while he taught in the temple, How say the scribes that Christ is the Son of David?",
+      "churchId": "p35"
+    },
+    {
+      "slug": "mark-12-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "For David himself said by the Holy Ghost, The <span class=\"small-caps\">Lord</span> said to my Lord, Sit thou on my right hand, till I make thine enemies thy footstool.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "mark-12-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "David therefore himself calleth him Lord; and whence is he <span class=\"clarity-word\">then</span> his son? And the common people heard him gladly.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "mark-12-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "¶ And he said unto them in his doctrine, Beware of the scribes, which love to go in long clothing, and <span class=\"clarity-word\">love</span> salutations in the marketplaces,",
+      "churchId": "p38"
+    },
+    {
+      "slug": "mark-12-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "And the chief seats in the synagogues, and the uppermost rooms at feasts:",
+      "churchId": "p39"
+    },
+    {
+      "slug": "mark-12-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "Which devour widows’ houses, and for a pretence make long prayers: these shall receive greater damnation.",
+      "churchId": "p40"
+    },
+    {
+      "slug": "mark-12-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "¶ And Jesus sat over against the treasury, and beheld how the people cast money into the treasury: and many that were rich cast in much.",
+      "churchId": "p41"
+    },
+    {
+      "slug": "mark-12-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "And there came a certain poor widow, and she threw in two mites, which make a farthing.",
+      "churchId": "p42"
+    },
+    {
+      "slug": "mark-12-p43",
+      "type": "verse",
+      "number": "43",
+      "content": "And he called <span class=\"clarity-word\">unto him</span> his disciples, and saith unto them, Verily I say unto you, That this poor widow hath cast more in, than all they which have cast into the treasury:",
+      "churchId": "p43"
+    },
+    {
+      "slug": "mark-12-p44",
+      "type": "verse",
+      "number": "44",
+      "content": "For all <span class=\"clarity-word\">they</span> did cast in of their abundance; but she of her want did cast in all that she had, <span class=\"clarity-word\">even</span> all her living.",
+      "churchId": "p44"
+    }
+  ]
+}

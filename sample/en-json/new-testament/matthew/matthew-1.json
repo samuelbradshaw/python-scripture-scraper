@@ -1,0 +1,197 @@
+{
+  "name": "Matthew 1",
+  "abbrev": "Matt. 1",
+  "number": "1",
+  "churchUri": "/scriptures/nt/matt/1",
+  "paragraphs": [
+    {
+      "slug": "matthew-1-title1",
+      "type": "book-title",
+      "number": null,
+      "content": "<small>The Gospel According to </small>St Matthew",
+      "churchId": "title1"
+    },
+    {
+      "slug": "matthew-1-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 1",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "matthew-1-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "The book of the generation of Jesus Christ, the son of David, the son of Abraham.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "matthew-1-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Abraham begat Isaac; and Isaac begat Jacob; and Jacob begat Judas and his brethren;",
+      "churchId": "p2"
+    },
+    {
+      "slug": "matthew-1-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And Judas begat Phares and Zara of Thamar; and Phares begat Esrom; and Esrom begat Aram;",
+      "churchId": "p3"
+    },
+    {
+      "slug": "matthew-1-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And Aram begat Aminadab; and Aminadab begat Naasson; and Naasson begat Salmon;",
+      "churchId": "p4"
+    },
+    {
+      "slug": "matthew-1-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And Salmon begat Booz of Rachab; and Booz begat Obed of Ruth; and Obed begat Jesse;",
+      "churchId": "p5"
+    },
+    {
+      "slug": "matthew-1-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And Jesse begat David the king; and David the king begat Solomon of her <span class=\"clarity-word\">that had been the wife</span> of Urias;",
+      "churchId": "p6"
+    },
+    {
+      "slug": "matthew-1-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And Solomon begat Roboam; and Roboam begat Abia; and Abia begat Asa;",
+      "churchId": "p7"
+    },
+    {
+      "slug": "matthew-1-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And Asa begat Josaphat; and Josaphat begat Joram; and Joram begat Ozias;",
+      "churchId": "p8"
+    },
+    {
+      "slug": "matthew-1-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And Ozias begat Joatham; and Joatham begat Achaz; and Achaz begat Ezekias;",
+      "churchId": "p9"
+    },
+    {
+      "slug": "matthew-1-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And Ezekias begat Manasses; and Manasses begat Amon; and Amon begat Josias;",
+      "churchId": "p10"
+    },
+    {
+      "slug": "matthew-1-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And Josias begat Jechonias and his brethren, about the time they were carried away to Babylon:",
+      "churchId": "p11"
+    },
+    {
+      "slug": "matthew-1-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And after they were brought to Babylon, Jechonias begat Salathiel; and Salathiel begat Zorobabel;",
+      "churchId": "p12"
+    },
+    {
+      "slug": "matthew-1-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And Zorobabel begat Abiud; and Abiud begat Eliakim; and Eliakim begat Azor;",
+      "churchId": "p13"
+    },
+    {
+      "slug": "matthew-1-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And Azor begat Sadoc; and Sadoc begat Achim; and Achim begat Eliud;",
+      "churchId": "p14"
+    },
+    {
+      "slug": "matthew-1-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And Eliud begat Eleazar; and Eleazar begat Matthan; and Matthan begat Jacob;",
+      "churchId": "p15"
+    },
+    {
+      "slug": "matthew-1-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And Jacob begat Joseph the husband of Mary, of whom was born Jesus, who is called Christ.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "matthew-1-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "So all the generations from Abraham to David <span class=\"clarity-word\">are</span> fourteen generations; and from David until the carrying away into Babylon <span class=\"clarity-word\">are</span> fourteen generations; and from the carrying away into Babylon unto Christ <span class=\"clarity-word\">are</span> fourteen generations.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "matthew-1-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "¶ Now the birth of Jesus Christ was on this wise: When as his mother Mary was espoused to Joseph, before they came together, she was found with child of the Holy Ghost.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "matthew-1-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Then Joseph her husband, being a just <span class=\"clarity-word\">man,</span> and not willing to make her a publick example, was minded to put her away privily.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "matthew-1-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "But while he thought on these things, behold, the angel of the Lord appeared unto him in a dream, saying, Joseph, thou son of David, fear not to take unto thee Mary thy wife: for that which is conceived in her is of the Holy Ghost.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "matthew-1-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And she shall bring forth a son, and thou shalt call his name <span class=\"uppercase\">Jesus</span>: for he shall save his people from their sins.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "matthew-1-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Now all this was done, that it might be fulfilled which was spoken of the Lord by the prophet, saying,",
+      "churchId": "p22"
+    },
+    {
+      "slug": "matthew-1-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Behold, a virgin shall be with child, and shall bring forth a son, and they shall call his name Emmanuel, which being interpreted is, God with us.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "matthew-1-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Then Joseph being raised from sleep did as the angel of the Lord had bidden him, and took unto him his wife:",
+      "churchId": "p24"
+    },
+    {
+      "slug": "matthew-1-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And knew her not till she had brought forth her firstborn son: and he called his name <span class=\"uppercase\">Jesus</span>.",
+      "churchId": "p25"
+    }
+  ]
+}

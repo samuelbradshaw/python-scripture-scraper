@@ -1,0 +1,106 @@
+{
+  "name": "Psalm 143",
+  "abbrev": "Psalm 143",
+  "number": "143",
+  "churchUri": "/scriptures/ot/ps/143",
+  "paragraphs": [
+    {
+      "slug": "psalm-143-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 143",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-143-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "A Psalm of David.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-143-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Hear my prayer, O <span class=\"small-caps\">Lord</span>, give ear to my supplications: in thy faithfulness answer me, <span class=\"clarity-word\">and</span> in thy righteousness.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-143-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And enter not into judgment with thy servant: for in thy sight shall no man living be justified.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-143-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "For the enemy hath persecuted my soul; he hath smitten my life down to the ground; he hath made me to dwell in darkness, as those that have been long dead.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-143-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Therefore is my spirit overwhelmed within me; my heart within me is desolate.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-143-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "I remember the days of old; I meditate on all thy works; I muse on the work of thy hands.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-143-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "I stretch forth my hands unto thee: my soul <span class=\"clarity-word\">thirsteth</span> after thee, as a thirsty land. Selah.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-143-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Hear me speedily, O <span class=\"small-caps\">Lord</span>: my spirit faileth: hide not thy face from me, lest I be like unto them that go down into the pit.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-143-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Cause me to hear thy lovingkindness in the morning; for in thee do I trust: cause me to know the way wherein I should walk; for I lift up my soul unto thee.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "psalm-143-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Deliver me, O <span class=\"small-caps\">Lord</span>, from mine enemies: I flee unto thee to hide me.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "psalm-143-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Teach me to do thy will; for thou <span class=\"clarity-word\">art</span> my God: thy spirit <span class=\"clarity-word\">is</span> good; lead me into the land of uprightness.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "psalm-143-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Quicken me, O <span class=\"small-caps\">Lord</span>, for thy name’s sake: for thy righteousness’ sake bring my soul out of trouble.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "psalm-143-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And of thy mercy cut off mine enemies, and destroy all them that afflict my soul: for I <span class=\"clarity-word\">am</span> thy servant.",
+      "churchId": "p12"
+    }
+  ]
+}

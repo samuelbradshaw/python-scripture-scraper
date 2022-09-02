@@ -1,0 +1,218 @@
+{
+  "name": "Galatians 3",
+  "abbrev": "Gal. 3",
+  "number": "3",
+  "churchUri": "/scriptures/nt/gal/3",
+  "paragraphs": [
+    {
+      "slug": "galations-3-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 3",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "galations-3-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "O foolish Galatians, who hath bewitched you, that ye should not obey the truth, before whose eyes Jesus Christ hath been evidently set forth, crucified among you?",
+      "churchId": "p1"
+    },
+    {
+      "slug": "galations-3-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "This only would I learn of you, Received ye the Spirit by the works of the law, or by the hearing of faith?",
+      "churchId": "p2"
+    },
+    {
+      "slug": "galations-3-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Are ye so foolish? having begun in the Spirit, are ye now made perfect by the flesh?",
+      "churchId": "p3"
+    },
+    {
+      "slug": "galations-3-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Have ye suffered so many things in vain? if <span class=\"clarity-word\">it be</span> yet in vain.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "galations-3-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "He therefore that ministereth to you the Spirit, and worketh miracles among you, <span class=\"clarity-word\">doeth he it</span> by the works of the law, or by the hearing of faith?",
+      "churchId": "p5"
+    },
+    {
+      "slug": "galations-3-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Even as Abraham believed God, and it was accounted to him for righteousness.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "galations-3-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Know ye therefore that they which are of faith, the same are the children of Abraham.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "galations-3-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And the scripture, foreseeing that God would justify the heathen through faith, preached before the gospel unto Abraham, <span class=\"clarity-word\">saying,</span> In thee shall all nations be blessed.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "galations-3-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "So then they which be of faith are blessed with faithful Abraham.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "galations-3-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "For as many as are of the works of the law are under the curse: for it is written, Cursed <span class=\"clarity-word\">is</span> every one that continueth not in all things which are written in the book of the law to do them.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "galations-3-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "But that no man is justified by the law in the sight of God, <span class=\"clarity-word\">it is</span> evident: for, The just shall live by faith.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "galations-3-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And the law is not of faith: but, The man that doeth them shall live in them.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "galations-3-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Christ hath redeemed us from the curse of the law, being made a curse for us: for it is written, Cursed <span class=\"clarity-word\">is</span> every one that hangeth on a tree:",
+      "churchId": "p13"
+    },
+    {
+      "slug": "galations-3-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "That the blessing of Abraham might come on the Gentiles through Jesus Christ; that we might receive the promise of the Spirit through faith.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "galations-3-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Brethren, I speak after the manner of men; Though <span class=\"clarity-word\">it be</span> but a man’s covenant, yet <span class=\"clarity-word\">if it be</span> confirmed, no man disannulleth, or addeth thereto.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "galations-3-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Now to Abraham and his seed were the promises made. He saith not, And to seeds, as of many; but as of one, And to thy seed, which is Christ.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "galations-3-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And this I say, <span class=\"clarity-word\">that</span> the covenant, that was confirmed before of God in Christ, the law, which was four hundred and thirty years after, cannot disannul, that it should make the promise of none effect.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "galations-3-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "For if the inheritance <span class=\"clarity-word\">be</span> of the law, <span class=\"clarity-word\">it is</span> no more of promise: but God gave <span class=\"clarity-word\">it</span> to Abraham by promise.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "galations-3-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Wherefore then <span class=\"clarity-word\">serveth</span> the law? It was added because of transgressions, till the seed should come to whom the promise was made; <span class=\"clarity-word\">and it was</span> ordained by angels in the hand of a mediator.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "galations-3-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Now a mediator is not <span class=\"clarity-word\">a mediator</span> of one, but God is one.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "galations-3-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "<span class=\"clarity-word\">Is</span> the law then against the promises of God? God forbid: for if there had been a law given which could have given life, verily righteousness should have been by the law.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "galations-3-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "But the scripture hath concluded all under sin, that the promise by faith of Jesus Christ might be given to them that believe.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "galations-3-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "But before faith came, we were kept under the law, shut up unto the faith which should afterwards be revealed.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "galations-3-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Wherefore the law was our schoolmaster <span class=\"clarity-word\">to bring us</span> unto Christ, that we might be justified by faith.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "galations-3-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "But after that faith is come, we are no longer under a schoolmaster.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "galations-3-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "For ye are all the children of God by faith in Christ Jesus.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "galations-3-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "For as many of you as have been baptized into Christ have put on Christ.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "galations-3-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "There is neither Jew nor Greek, there is neither bond nor free, there is neither male nor female: for ye are all one in Christ Jesus.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "galations-3-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "And if ye <span class=\"clarity-word\">be</span> Christ’s, then are ye Abraham’s seed, and heirs according to the promise.",
+      "churchId": "p29"
+    }
+  ]
+}

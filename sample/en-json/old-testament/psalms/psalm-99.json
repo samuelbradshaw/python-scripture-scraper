@@ -1,0 +1,78 @@
+{
+  "name": "Psalm 99",
+  "abbrev": "Psalm 99",
+  "number": "99",
+  "churchUri": "/scriptures/ot/ps/99",
+  "paragraphs": [
+    {
+      "slug": "psalm-99-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 99",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-99-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "The <span class=\"small-caps\">Lord</span> reigneth; let the people tremble: he sitteth <span class=\"clarity-word\">between</span> the cherubims; let the earth be moved.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-99-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "The <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">is</span> great in Zion; and he <span class=\"clarity-word\">is</span> high above all the people.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-99-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Let them praise thy great and terrible name; <span class=\"clarity-word\">for</span> it <span class=\"clarity-word\">is</span> holy.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-99-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "The king’s strength also loveth judgment; thou dost establish equity, thou executest judgment and righteousness in Jacob.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-99-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Exalt ye the <span class=\"small-caps\">Lord</span> our God, and worship at his footstool; <span class=\"clarity-word\">for</span> he <span class=\"clarity-word\">is</span> holy.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-99-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Moses and Aaron among his priests, and Samuel among them that call upon his name; they called upon the <span class=\"small-caps\">Lord</span>, and he answered them.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-99-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "He spake unto them in the cloudy pillar: they kept his testimonies, and the ordinance <span class=\"clarity-word\">that</span> he gave them.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-99-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Thou answeredst them, O <span class=\"small-caps\">Lord</span> our God: thou wast a God that forgavest them, though thou tookest vengeance of their inventions.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "psalm-99-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Exalt the <span class=\"small-caps\">Lord</span> our God, and worship at his holy hill; for the <span class=\"small-caps\">Lord</span> our God <span class=\"clarity-word\">is</span> holy.",
+      "churchId": "p9"
+    }
+  ]
+}

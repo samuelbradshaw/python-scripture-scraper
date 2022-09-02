@@ -1,0 +1,141 @@
+{
+  "name": "Ruth 3",
+  "abbrev": "Ruth 3",
+  "number": "3",
+  "churchUri": "/scriptures/ot/ruth/3",
+  "paragraphs": [
+    {
+      "slug": "ruth-3-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 3",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "ruth-3-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Then Naomi her mother in law said unto her, My daughter, shall I not seek rest for thee, that it may be well with thee?",
+      "churchId": "p1"
+    },
+    {
+      "slug": "ruth-3-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And now <span class=\"clarity-word\">is</span> not Boaz of our kindred, with whose maidens thou wast? Behold, he winnoweth barley to night in the threshingfloor.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "ruth-3-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Wash thyself therefore, and anoint thee, and put thy raiment upon thee, and get thee down to the floor: <span class=\"clarity-word\">but</span> make not thyself known unto the man, until he shall have done eating and drinking.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "ruth-3-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And it shall be, when he lieth down, that thou shalt mark the place where he shall lie, and thou shalt go in, and uncover his feet, and lay thee down; and he will tell thee what thou shalt do.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "ruth-3-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And she said unto her, All that thou sayest unto me I will do.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "ruth-3-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "¶ And she went down unto the floor, and did according to all that her mother in law bade her.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "ruth-3-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And when Boaz had eaten and drunk, and his heart was merry, he went to lie down at the end of the heap of corn: and she came softly, and uncovered his feet, and laid her down.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "ruth-3-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "¶ And it came to pass at midnight, that the man was afraid, and turned himself: and, behold, a woman lay at his feet.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "ruth-3-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And he said, Who <span class=\"clarity-word\">art</span> thou? And she answered, I <span class=\"clarity-word\">am</span> Ruth thine handmaid: spread therefore thy skirt over thine handmaid; for thou <span class=\"clarity-word\">art</span> a near kinsman.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "ruth-3-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And he said, Blessed <span class=\"clarity-word\">be</span> thou of the <span class=\"small-caps\">Lord</span>, my daughter: <span class=\"clarity-word\">for</span> thou hast shewed more kindness in the latter end than at the beginning, inasmuch as thou followedst not young men, whether poor or rich.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "ruth-3-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And now, my daughter, fear not; I will do to thee all that thou requirest: for all the city of my people doth know that thou <span class=\"clarity-word\">art</span> a virtuous woman.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "ruth-3-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And now it is true that I <span class=\"clarity-word\">am thy</span> near kinsman: howbeit there is a kinsman nearer than I.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "ruth-3-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Tarry this night, and it shall be in the morning, <span class=\"clarity-word\">that</span> if he will perform unto thee the part of a kinsman, well; let him do the kinsman’s part: but if he will not do the part of a kinsman to thee, then will I do the part of a kinsman to thee, <span class=\"clarity-word\">as</span> the <span class=\"small-caps\">Lord</span> liveth: lie down until the morning.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "ruth-3-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "¶ And she lay at his feet until the morning: and she rose up before one could know another. And he said, Let it not be known that a woman came into the floor.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "ruth-3-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Also he said, Bring the veil that <span class=\"clarity-word\">thou hast</span> upon thee, and hold it. And when she held it, he measured six <span class=\"clarity-word\">measures</span> of barley, and laid <span class=\"clarity-word\">it</span> on her: and she went into the city.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "ruth-3-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And when she came to her mother in law, she said, Who <span class=\"clarity-word\">art</span> thou, my daughter? And she told her all that the man had done to her.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "ruth-3-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And she said, These six <span class=\"clarity-word\">measures</span> of barley gave he me; for he said to me, Go not empty unto thy mother in law.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "ruth-3-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Then said she, Sit still, my daughter, until thou know how the matter will fall: for the man will not be in rest, until he have finished the thing this day.",
+      "churchId": "p18"
+    }
+  ]
+}

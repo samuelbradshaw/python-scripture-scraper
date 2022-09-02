@@ -1,0 +1,141 @@
+{
+  "name": "Psalm 86",
+  "abbrev": "Psalm 86",
+  "number": "86",
+  "churchUri": "/scriptures/ot/ps/86",
+  "paragraphs": [
+    {
+      "slug": "psalm-86-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 86",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-86-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "A Prayer of David.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-86-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Bow down thine ear, O <span class=\"small-caps\">Lord</span>, hear me: for I <span class=\"clarity-word\">am</span> poor and needy.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-86-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Preserve my soul; for I <span class=\"clarity-word\">am</span> holy: O thou my God, save thy servant that trusteth in thee.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-86-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Be merciful unto me, O Lord: for I cry unto thee daily.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-86-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Rejoice the soul of thy servant: for unto thee, O Lord, do I lift up my soul.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-86-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "For thou, Lord, <span class=\"clarity-word\">art</span> good, and ready to forgive; and plenteous in mercy unto all them that call upon thee.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-86-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Give ear, O <span class=\"small-caps\">Lord</span>, unto my prayer; and attend to the voice of my supplications.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-86-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "In the day of my trouble I will call upon thee: for thou wilt answer me.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-86-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Among the gods <span class=\"clarity-word\">there is</span> none like unto thee, O Lord; neither <span class=\"clarity-word\">are there any works</span> like unto thy works.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "psalm-86-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "All nations whom thou hast made shall come and worship before thee, O Lord; and shall glorify thy name.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "psalm-86-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "For thou <span class=\"clarity-word\">art</span> great, and doest wondrous things: thou <span class=\"clarity-word\">art</span> God alone.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "psalm-86-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Teach me thy way, O <span class=\"small-caps\">Lord</span>; I will walk in thy truth: unite my heart to fear thy name.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "psalm-86-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "I will praise thee, O Lord my God, with all my heart: and I will glorify thy name for evermore.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "psalm-86-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "For great <span class=\"clarity-word\">is</span> thy mercy toward me: and thou hast delivered my soul from the lowest hell.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "psalm-86-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "O God, the proud are risen against me, and the assemblies of violent <span class=\"clarity-word\">men</span> have sought after my soul; and have not set thee before them.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "psalm-86-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "But thou, O Lord, <span class=\"clarity-word\">art</span> a God full of compassion, and gracious, longsuffering, and plenteous in mercy and truth.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "psalm-86-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "O turn unto me, and have mercy upon me; give thy strength unto thy servant, and save the son of thine handmaid.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "psalm-86-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Shew me a token for good; that they which hate me may see <span class=\"clarity-word\">it,</span> and be ashamed: because thou, <span class=\"small-caps\">Lord</span>, hast holpen me, and comforted me.",
+      "churchId": "p17"
+    }
+  ]
+}

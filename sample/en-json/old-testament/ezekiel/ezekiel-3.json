@@ -1,0 +1,204 @@
+{
+  "name": "Ezekiel 3",
+  "abbrev": "Ezek. 3",
+  "number": "3",
+  "churchUri": "/scriptures/ot/ezek/3",
+  "paragraphs": [
+    {
+      "slug": "ezekiel-3-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 3",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "ezekiel-3-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Moreover he said unto me, Son of man, eat that thou findest; eat this roll, and go speak unto the house of Israel.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "ezekiel-3-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "So I opened my mouth, and he caused me to eat that roll.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "ezekiel-3-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And he said unto me, Son of man, cause thy belly to eat, and fill thy bowels with this roll that I give thee. Then did I eat <span class=\"clarity-word\">it;</span> and it was in my mouth as honey for sweetness.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "ezekiel-3-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "¶ And he said unto me, Son of man, go, get thee unto the house of Israel, and speak with my words unto them.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "ezekiel-3-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "For thou <span class=\"clarity-word\">art</span> not sent to a people of a strange speech and of an hard language, <span class=\"clarity-word\">but</span> to the house of Israel;",
+      "churchId": "p5"
+    },
+    {
+      "slug": "ezekiel-3-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Not to many people of a strange speech and of an hard language, whose words thou canst not understand. Surely, had I sent thee to them, they would have hearkened unto thee.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "ezekiel-3-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "But the house of Israel will not hearken unto thee; for they will not hearken unto me: for all the house of Israel <span class=\"clarity-word\">are</span> impudent and hardhearted.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "ezekiel-3-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Behold, I have made thy face strong against their faces, and thy forehead strong against their foreheads.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "ezekiel-3-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "As an adamant harder than flint have I made thy forehead: fear them not, neither be dismayed at their looks, though they <span class=\"clarity-word\">be</span> a rebellious house.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "ezekiel-3-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Moreover he said unto me, Son of man, all my words that I shall speak unto thee receive in thine heart, and hear with thine ears.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "ezekiel-3-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And go, get thee to them of the captivity, unto the children of thy people, and speak unto them, and tell them, Thus saith the Lord <span class=\"small-caps\">God</span>; whether they will hear, or whether they will forbear.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "ezekiel-3-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Then the spirit took me up, and I heard behind me a voice of a great rushing, <span class=\"clarity-word\">saying,</span> Blessed <span class=\"clarity-word\">be</span> the glory of the <span class=\"small-caps\">Lord</span> from his place.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "ezekiel-3-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "<span class=\"clarity-word\">I heard</span> also the noise of the wings of the living creatures that touched one another, and the noise of the wheels over against them, and a noise of a great rushing.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "ezekiel-3-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "So the spirit lifted me up, and took me away, and I went in bitterness, in the heat of my spirit; but the hand of the <span class=\"small-caps\">Lord</span> was strong upon me.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "ezekiel-3-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "¶ Then I came to them of the captivity at Tel-abib, that dwelt by the river of Chebar, and I sat where they sat, and remained there astonished among them seven days.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "ezekiel-3-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And it came to pass at the end of seven days, that the word of the <span class=\"small-caps\">Lord</span> came unto me, saying,",
+      "churchId": "p16"
+    },
+    {
+      "slug": "ezekiel-3-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Son of man, I have made thee a watchman unto the house of Israel: therefore hear the word at my mouth, and give them warning from me.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "ezekiel-3-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "When I say unto the wicked, Thou shalt surely die; and thou givest him not warning, nor speakest to warn the wicked from his wicked way, to save his life; the same wicked <span class=\"clarity-word\">man</span> shall die in his iniquity; but his blood will I require at thine hand.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "ezekiel-3-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Yet if thou warn the wicked, and he turn not from his wickedness, nor from his wicked way, he shall die in his iniquity; but thou hast delivered thy soul.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "ezekiel-3-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Again, When a righteous <span class=\"clarity-word\">man</span> doth turn from his righteousness, and commit iniquity, and I lay a stumblingblock before him, he shall die: because thou hast not given him warning, he shall die in his sin, and his righteousness which he hath done shall not be remembered; but his blood will I require at thine hand.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "ezekiel-3-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Nevertheless if thou warn the righteous <span class=\"clarity-word\">man,</span> that the righteous sin not, and he doth not sin, he shall surely live, because he is warned; also thou hast delivered thy soul.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "ezekiel-3-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "¶ And the hand of the <span class=\"small-caps\">Lord</span> was there upon me; and he said unto me, Arise, go forth into the plain, and I will there talk with thee.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "ezekiel-3-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Then I arose, and went forth into the plain: and, behold, the glory of the <span class=\"small-caps\">Lord</span> stood there, as the glory which I saw by the river of Chebar: and I fell on my face.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "ezekiel-3-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Then the spirit entered into me, and set me upon my feet, and spake with me, and said unto me, Go, shut thyself within thine house.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "ezekiel-3-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "But thou, O son of man, behold, they shall put bands upon thee, and shall bind thee with them, and thou shalt not go out among them:",
+      "churchId": "p25"
+    },
+    {
+      "slug": "ezekiel-3-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And I will make thy tongue cleave to the roof of thy mouth, that thou shalt be dumb, and shalt not be to them a reprover: for they <span class=\"clarity-word\">are</span> a rebellious house.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "ezekiel-3-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "But when I speak with thee, I will open thy mouth, and thou shalt say unto them, Thus saith the Lord <span class=\"small-caps\">God</span>; He that heareth, let him hear; and he that forbeareth, let him forbear: for they <span class=\"clarity-word\">are</span> a rebellious house.",
+      "churchId": "p27"
+    }
+  ]
+}

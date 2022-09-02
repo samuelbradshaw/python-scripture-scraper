@@ -1,0 +1,78 @@
+{
+  "name": "Psalm 130",
+  "abbrev": "Psalm 130",
+  "number": "130",
+  "churchUri": "/scriptures/ot/ps/130",
+  "paragraphs": [
+    {
+      "slug": "psalm-130-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 130",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-130-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "A Song of degrees.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-130-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Out of the depths have I cried unto thee, O <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-130-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Lord, hear my voice: let thine ears be attentive to the voice of my supplications.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-130-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "If thou, <span class=\"small-caps\">Lord</span>, shouldest mark iniquities, O Lord, who shall stand?",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-130-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "But <span class=\"clarity-word\">there is</span> forgiveness with thee, that thou mayest be feared.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-130-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "I wait for the <span class=\"small-caps\">Lord</span>, my soul doth wait, and in his word do I hope.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-130-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "My soul <span class=\"clarity-word\">waiteth</span> for the Lord more than they that watch for the morning: <span class=\"clarity-word\">I say, more than</span> they that watch for the morning.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-130-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Let Israel hope in the <span class=\"small-caps\">Lord</span>: for with the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">there is</span> mercy, and with him <span class=\"clarity-word\">is</span> plenteous redemption.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-130-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And he shall redeem Israel from all his iniquities.",
+      "churchId": "p8"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "name": "2 John 1",
+  "abbrev": "2 Jn. 1",
+  "number": "1",
+  "churchUri": "/scriptures/nt/2-jn/1",
+  "paragraphs": [
+    {
+      "slug": "2-john-1-title1",
+      "type": "book-title",
+      "number": null,
+      "content": "<small>The Second Epistle of </small>John",
+      "churchId": "title1"
+    },
+    {
+      "slug": "2-john-1-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 1",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "2-john-1-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "The elder unto the elect lady and her children, whom I love in the truth; and not I only, but also all they that have known the truth;",
+      "churchId": "p1"
+    },
+    {
+      "slug": "2-john-1-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "For the truth’s sake, which dwelleth in us, and shall be with us for ever.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "2-john-1-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Grace be with you, mercy, <span class=\"clarity-word\">and</span> peace, from God the Father, and from the Lord Jesus Christ, the Son of the Father, in truth and love.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "2-john-1-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "I rejoiced greatly that I found of thy children walking in truth, as we have received a commandment from the Father.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "2-john-1-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And now I beseech thee, lady, not as though I wrote a new commandment unto thee, but that which we had from the beginning, that we love one another.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "2-john-1-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And this is love, that we walk after his commandments. This is the commandment, That, as ye have heard from the beginning, ye should walk in it.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "2-john-1-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "For many deceivers are entered into the world, who confess not that Jesus Christ is come in the flesh. This is a deceiver and an antichrist.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "2-john-1-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Look to yourselves, that we lose not those things which we have wrought, but that we receive a full reward.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "2-john-1-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Whosoever transgresseth, and abideth not in the doctrine of Christ, hath not God. He that abideth in the doctrine of Christ, he hath both the Father and the Son.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "2-john-1-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "If there come any unto you, and bring not this doctrine, receive him not into <span class=\"clarity-word\">your</span> house, neither bid him God speed:",
+      "churchId": "p10"
+    },
+    {
+      "slug": "2-john-1-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "For he that biddeth him God speed is partaker of his evil deeds.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "2-john-1-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Having many things to write unto you, I would not <span class=\"clarity-word\">write</span> with paper and ink: but I trust to come unto you, and speak face to face, that our joy may be full.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "2-john-1-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "The children of thy elect sister greet thee. Amen.",
+      "churchId": "p13"
+    }
+  ]
+}

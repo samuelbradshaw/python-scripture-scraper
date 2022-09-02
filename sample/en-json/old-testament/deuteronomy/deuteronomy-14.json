@@ -1,0 +1,218 @@
+{
+  "name": "Deuteronomy 14",
+  "abbrev": "Deut. 14",
+  "number": "14",
+  "churchUri": "/scriptures/ot/deut/14",
+  "paragraphs": [
+    {
+      "slug": "deuteronomy-14-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 14",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "deuteronomy-14-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Ye <span class=\"clarity-word\">are</span> the children of the <span class=\"small-caps\">Lord</span> your God: ye shall not cut yourselves, nor make any baldness between your eyes for the dead.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "deuteronomy-14-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "For thou <span class=\"clarity-word\">art</span> an holy people unto the <span class=\"small-caps\">Lord</span> thy God, and the <span class=\"small-caps\">Lord</span> hath chosen thee to be a peculiar people unto himself, above all the nations that <span class=\"clarity-word\">are</span> upon the earth.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "deuteronomy-14-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "¶ Thou shalt not eat any abominable thing.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "deuteronomy-14-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "These <span class=\"clarity-word\">are</span> the beasts which ye shall eat: the ox, the sheep, and the goat,",
+      "churchId": "p4"
+    },
+    {
+      "slug": "deuteronomy-14-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "The hart, and the roebuck, and the fallow deer, and the wild goat, and the pygarg, and the wild ox, and the chamois.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "deuteronomy-14-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And every beast that parteth the hoof, and cleaveth the cleft into two claws, <span class=\"clarity-word\">and</span> cheweth the cud among the beasts, that ye shall eat.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "deuteronomy-14-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Nevertheless these ye shall not eat of them that chew the cud, or of them that divide the cloven hoof; <span class=\"clarity-word\">as</span> the camel, and the hare, and the coney: for they chew the cud, but divide not the hoof; <span class=\"clarity-word\">therefore</span> they <span class=\"clarity-word\">are</span> unclean unto you.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "deuteronomy-14-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And the swine, because it divideth the hoof, yet cheweth not the cud, it <span class=\"clarity-word\">is</span> unclean unto you: ye shall not eat of their flesh, nor touch their dead carcase.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "deuteronomy-14-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "¶ These ye shall eat of all that <span class=\"clarity-word\">are</span> in the waters: all that have fins and scales shall ye eat:",
+      "churchId": "p9"
+    },
+    {
+      "slug": "deuteronomy-14-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And whatsoever hath not fins and scales ye may not eat; it <span class=\"clarity-word\">is</span> unclean unto you.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "deuteronomy-14-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "¶ <span class=\"clarity-word\">Of</span> all clean birds ye shall eat.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "deuteronomy-14-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "But these <span class=\"clarity-word\">are they</span> of which ye shall not eat: the eagle, and the ossifrage, and the ospray,",
+      "churchId": "p12"
+    },
+    {
+      "slug": "deuteronomy-14-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And the glede, and the kite, and the vulture after his kind,",
+      "churchId": "p13"
+    },
+    {
+      "slug": "deuteronomy-14-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And every raven after his kind,",
+      "churchId": "p14"
+    },
+    {
+      "slug": "deuteronomy-14-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And the owl, and the night hawk, and the cuckow, and the hawk after his kind,",
+      "churchId": "p15"
+    },
+    {
+      "slug": "deuteronomy-14-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "The little owl, and the great owl, and the swan,",
+      "churchId": "p16"
+    },
+    {
+      "slug": "deuteronomy-14-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And the pelican, and the gier eagle, and the cormorant,",
+      "churchId": "p17"
+    },
+    {
+      "slug": "deuteronomy-14-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And the stork, and the heron after her kind, and the lapwing, and the bat.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "deuteronomy-14-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And every creeping thing that flieth <span class=\"clarity-word\">is</span> unclean unto you: they shall not be eaten.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "deuteronomy-14-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "<span class=\"clarity-word\">But of</span> all clean fowls ye may eat.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "deuteronomy-14-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "¶ Ye shall not eat <span class=\"clarity-word\">of</span> any thing that dieth of itself: thou shalt give it unto the stranger that <span class=\"clarity-word\">is</span> in thy gates, that he may eat it; or thou mayest sell it unto an alien: for thou <span class=\"clarity-word\">art</span> an holy people unto the <span class=\"small-caps\">Lord</span> thy God. Thou shalt not seethe a kid in his mother’s milk.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "deuteronomy-14-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Thou shalt truly tithe all the increase of thy seed, that the field bringeth forth year by year.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "deuteronomy-14-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And thou shalt eat before the <span class=\"small-caps\">Lord</span> thy God, in the place which he shall choose to place his name there, the tithe of thy corn, of thy wine, and of thine oil, and the firstlings of thy herds and of thy flocks; that thou mayest learn to fear the <span class=\"small-caps\">Lord</span> thy God always.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "deuteronomy-14-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And if the way be too long for thee, so that thou art not able to carry it; <span class=\"clarity-word\">or</span> if the place be too far from thee, which the <span class=\"small-caps\">Lord</span> thy God shall choose to set his name there, when the <span class=\"small-caps\">Lord</span> thy God hath blessed thee:",
+      "churchId": "p24"
+    },
+    {
+      "slug": "deuteronomy-14-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Then shalt thou turn <span class=\"clarity-word\">it</span> into money, and bind up the money in thine hand, and shalt go unto the place which the <span class=\"small-caps\">Lord</span> thy God shall choose:",
+      "churchId": "p25"
+    },
+    {
+      "slug": "deuteronomy-14-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And thou shalt bestow that money for whatsoever thy soul lusteth after, for oxen, or for sheep, or for wine, or for strong drink, or for whatsoever thy soul desireth: and thou shalt eat there before the <span class=\"small-caps\">Lord</span> thy God, and thou shalt rejoice, thou, and thine household,",
+      "churchId": "p26"
+    },
+    {
+      "slug": "deuteronomy-14-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And the Levite that <span class=\"clarity-word\">is</span> within thy gates; thou shalt not forsake him; for he hath no part nor inheritance with thee.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "deuteronomy-14-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "¶ At the end of three years thou shalt bring forth all the tithe of thine increase the same year, and shalt lay <span class=\"clarity-word\">it</span> up within thy gates:",
+      "churchId": "p28"
+    },
+    {
+      "slug": "deuteronomy-14-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "And the Levite, (because he hath no part nor inheritance with thee,) and the stranger, and the fatherless, and the widow, which <span class=\"clarity-word\">are</span> within thy gates, shall come, and shall eat and be satisfied; that the <span class=\"small-caps\">Lord</span> thy God may bless thee in all the work of thine hand which thou doest.",
+      "churchId": "p29"
+    }
+  ]
+}

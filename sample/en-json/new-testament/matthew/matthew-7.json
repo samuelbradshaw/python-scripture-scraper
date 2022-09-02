@@ -1,0 +1,218 @@
+{
+  "name": "Matthew 7",
+  "abbrev": "Matt. 7",
+  "number": "7",
+  "churchUri": "/scriptures/nt/matt/7",
+  "paragraphs": [
+    {
+      "slug": "matthew-7-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 7",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "matthew-7-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Judge not, that ye be not judged.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "matthew-7-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "For with what judgment ye judge, ye shall be judged: and with what measure ye mete, it shall be measured to you again.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "matthew-7-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And why beholdest thou the mote that is in thy brother’s eye, but considerest not the beam that is in thine own eye?",
+      "churchId": "p3"
+    },
+    {
+      "slug": "matthew-7-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Or how wilt thou say to thy brother, Let me pull out the mote out of thine eye; and, behold, a beam <span class=\"clarity-word\">is</span> in thine own eye?",
+      "churchId": "p4"
+    },
+    {
+      "slug": "matthew-7-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Thou hypocrite, first cast out the beam out of thine own eye; and then shalt thou see clearly to cast out the mote out of thy brother’s eye.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "matthew-7-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "¶ Give not that which is holy unto the dogs, neither cast ye your pearls before swine, lest they trample them under their feet, and turn again and rend you.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "matthew-7-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "¶ Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you:",
+      "churchId": "p7"
+    },
+    {
+      "slug": "matthew-7-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "For every one that asketh receiveth; and he that seeketh findeth; and to him that knocketh it shall be opened.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "matthew-7-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Or what man is there of you, whom if his son ask bread, will he give him a stone?",
+      "churchId": "p9"
+    },
+    {
+      "slug": "matthew-7-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Or if he ask a fish, will he give him a serpent?",
+      "churchId": "p10"
+    },
+    {
+      "slug": "matthew-7-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "If ye then, being evil, know how to give good gifts unto your children, how much more shall your Father which is in heaven give good things to them that ask him?",
+      "churchId": "p11"
+    },
+    {
+      "slug": "matthew-7-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Therefore all things whatsoever ye would that men should do to you, do ye even so to them: for this is the law and the prophets.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "matthew-7-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "¶ Enter ye in at the strait gate: for wide <span class=\"clarity-word\">is</span> the gate, and broad <span class=\"clarity-word\">is</span> the way, that leadeth to destruction, and many there be which go in thereat:",
+      "churchId": "p13"
+    },
+    {
+      "slug": "matthew-7-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Because strait <span class=\"clarity-word\">is</span> the gate, and narrow <span class=\"clarity-word\">is</span> the way, which leadeth unto life, and few there be that find it.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "matthew-7-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "¶ Beware of false prophets, which come to you in sheep’s clothing, but inwardly they are ravening wolves.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "matthew-7-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Ye shall know them by their fruits. Do men gather grapes of thorns, or figs of thistles?",
+      "churchId": "p16"
+    },
+    {
+      "slug": "matthew-7-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Even so every good tree bringeth forth good fruit; but a corrupt tree bringeth forth evil fruit.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "matthew-7-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "A good tree cannot bring forth evil fruit, neither <span class=\"clarity-word\">can</span> a corrupt tree bring forth good fruit.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "matthew-7-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Every tree that bringeth not forth good fruit is hewn down, and cast into the fire.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "matthew-7-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Wherefore by their fruits ye shall know them.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "matthew-7-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "¶ Not every one that saith unto me, Lord, Lord, shall enter into the kingdom of heaven; but he that doeth the will of my Father which is in heaven.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "matthew-7-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Many will say to me in that day, Lord, Lord, have we not prophesied in thy name? and in thy name have cast out devils? and in thy name done many wonderful works?",
+      "churchId": "p22"
+    },
+    {
+      "slug": "matthew-7-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And then will I profess unto them, I never knew you: depart from me, ye that work iniquity.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "matthew-7-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "¶ Therefore whosoever heareth these sayings of mine, and doeth them, I will liken him unto a wise man, which built his house upon a rock:",
+      "churchId": "p24"
+    },
+    {
+      "slug": "matthew-7-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell not: for it was founded upon a rock.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "matthew-7-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And every one that heareth these sayings of mine, and doeth them not, shall be likened unto a foolish man, which built his house upon the sand:",
+      "churchId": "p26"
+    },
+    {
+      "slug": "matthew-7-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell: and great was the fall of it.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "matthew-7-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And it came to pass, when Jesus had ended these sayings, the people were astonished at his doctrine:",
+      "churchId": "p28"
+    },
+    {
+      "slug": "matthew-7-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "For he taught them as <span class=\"clarity-word\">one</span> having authority, and not as the scribes.",
+      "churchId": "p29"
+    }
+  ]
+}

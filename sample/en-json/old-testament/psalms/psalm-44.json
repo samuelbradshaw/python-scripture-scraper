@@ -1,0 +1,204 @@
+{
+  "name": "Psalm 44",
+  "abbrev": "Psalm 44",
+  "number": "44",
+  "churchUri": "/scriptures/ot/ps/44",
+  "paragraphs": [
+    {
+      "slug": "psalm-44-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 44",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-44-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "To the chief Musician for the sons of Korah, Maschil.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-44-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "We have heard with our ears, O God, our fathers have told us, <span class=\"clarity-word\">what</span> work thou didst in their days, in the times of old.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-44-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "<span class=\"clarity-word\">How</span> thou didst drive out the heathen with thy hand, and plantedst them; <span class=\"clarity-word\">how</span> thou didst afflict the people, and cast them out.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-44-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "For they got not the land in possession by their own sword, neither did their own arm save them: but thy right hand, and thine arm, and the light of thy countenance, because thou hadst a favour unto them.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-44-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Thou art my King, O God: command deliverances for Jacob.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-44-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Through thee will we push down our enemies: through thy name will we tread them under that rise up against us.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-44-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "For I will not trust in my bow, neither shall my sword save me.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-44-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "But thou hast saved us from our enemies, and hast put them to shame that hated us.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-44-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "In God we boast all the day long, and praise thy name for ever. Selah.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "psalm-44-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "But thou hast cast off, and put us to shame; and goest not forth with our armies.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "psalm-44-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Thou makest us to turn back from the enemy: and they which hate us spoil for themselves.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "psalm-44-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Thou hast given us like sheep <span class=\"clarity-word\">appointed</span> for meat; and hast scattered us among the heathen.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "psalm-44-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Thou sellest thy people for nought, and dost not increase <span class=\"clarity-word\">thy wealth</span> by their price.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "psalm-44-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Thou makest us a reproach to our neighbours, a scorn and a derision to them that are round about us.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "psalm-44-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Thou makest us a byword among the heathen, a shaking of the head among the people.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "psalm-44-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "My confusion <span class=\"clarity-word\">is</span> continually before me, and the shame of my face hath covered me,",
+      "churchId": "p15"
+    },
+    {
+      "slug": "psalm-44-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "For the voice of him that reproacheth and blasphemeth; by reason of the enemy and avenger.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "psalm-44-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "All this is come upon us; yet have we not forgotten thee, neither have we dealt falsely in thy covenant.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "psalm-44-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Our heart is not turned back, neither have our steps declined from thy way;",
+      "churchId": "p18"
+    },
+    {
+      "slug": "psalm-44-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Though thou hast sore broken us in the place of dragons, and covered us with the shadow of death.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "psalm-44-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "If we have forgotten the name of our God, or stretched out our hands to a strange god;",
+      "churchId": "p20"
+    },
+    {
+      "slug": "psalm-44-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Shall not God search this out? for he knoweth the secrets of the heart.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "psalm-44-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Yea, for thy sake are we killed all the day long; we are counted as sheep for the slaughter.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "psalm-44-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Awake, why sleepest thou, O Lord? arise, cast <span class=\"clarity-word\">us</span> not off for ever.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "psalm-44-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Wherefore hidest thou thy face, <span class=\"clarity-word\">and</span> forgettest our affliction and our oppression?",
+      "churchId": "p24"
+    },
+    {
+      "slug": "psalm-44-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "For our soul is bowed down to the dust: our belly cleaveth unto the earth.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "psalm-44-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "Arise for our help, and redeem us for thy mercies’ sake.",
+      "churchId": "p26"
+    }
+  ]
+}

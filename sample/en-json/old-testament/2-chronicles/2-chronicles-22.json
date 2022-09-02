@@ -1,0 +1,99 @@
+{
+  "name": "2 Chronicles 22",
+  "abbrev": "2 Chr. 22",
+  "number": "22",
+  "churchUri": "/scriptures/ot/2-chr/22",
+  "paragraphs": [
+    {
+      "slug": "2-chronicles-22-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 22",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "2-chronicles-22-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And the inhabitants of Jerusalem made Ahaziah his youngest son king in his stead: for the band of men that came with the Arabians to the camp had slain all the eldest. So Ahaziah the son of Jehoram king of Judah reigned.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "2-chronicles-22-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Forty and two years old <span class=\"clarity-word\">was</span> Ahaziah when he began to reign, and he reigned one year in Jerusalem. His mother’s name also <span class=\"clarity-word\">was</span> Athaliah the daughter of Omri.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "2-chronicles-22-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "He also walked in the ways of the house of Ahab: for his mother was his counsellor to do wickedly.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "2-chronicles-22-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Wherefore he did evil in the sight of the <span class=\"small-caps\">Lord</span> like the house of Ahab: for they were his counsellors after the death of his father to his destruction.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "2-chronicles-22-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "¶ He walked also after their counsel, and went with Jehoram the son of Ahab king of Israel to war against Hazael king of Syria at Ramoth-gilead: and the Syrians smote Joram.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "2-chronicles-22-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And he returned to be healed in Jezreel because of the wounds which were given him at Ramah, when he fought with Hazael king of Syria. And Azariah the son of Jehoram king of Judah went down to see Jehoram the son of Ahab at Jezreel, because he was sick.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "2-chronicles-22-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And the destruction of Ahaziah was of God by coming to Joram: for when he was come, he went out with Jehoram against Jehu the son of Nimshi, whom the <span class=\"small-caps\">Lord</span> had anointed to cut off the house of Ahab.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "2-chronicles-22-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And it came to pass, that, when Jehu was executing judgment upon the house of Ahab, and found the princes of Judah, and the sons of the brethren of Ahaziah, that ministered to Ahaziah, he slew them.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "2-chronicles-22-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And he sought Ahaziah: and they caught him, (for he was hid in Samaria,) and brought him to Jehu: and when they had slain him, they buried him: Because, said they, he <span class=\"clarity-word\">is</span> the son of Jehoshaphat, who sought the <span class=\"small-caps\">Lord</span> with all his heart. So the house of Ahaziah had no power to keep still the kingdom.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "2-chronicles-22-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "¶ But when Athaliah the mother of Ahaziah saw that her son was dead, she arose and destroyed all the seed royal of the house of Judah.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "2-chronicles-22-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "But Jehoshabeath, the daughter of the king, took Joash the son of Ahaziah, and stole him from among the king’s sons that were slain, and put him and his nurse in a bedchamber. So Jehoshabeath, the daughter of king Jehoram, the wife of Jehoiada the priest, (for she was the sister of Ahaziah,) hid him from Athaliah, so that she slew him not.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "2-chronicles-22-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And he was with them hid in the house of God six years: and Athaliah reigned over the land.",
+      "churchId": "p12"
+    }
+  ]
+}

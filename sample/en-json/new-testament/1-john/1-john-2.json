@@ -1,0 +1,218 @@
+{
+  "name": "1 John 2",
+  "abbrev": "1 Jn. 2",
+  "number": "2",
+  "churchUri": "/scriptures/nt/1-jn/2",
+  "paragraphs": [
+    {
+      "slug": "1-john-2-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 2",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "1-john-2-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "My little children, these things write I unto you, that ye sin not. And if any man sin, we have an advocate with the Father, Jesus Christ the righteous:",
+      "churchId": "p1"
+    },
+    {
+      "slug": "1-john-2-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And he is the propitiation for our sins: and not for ours only, but also for <span class=\"clarity-word\">the sins of</span> the whole world.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "1-john-2-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And hereby we do know that we know him, if we keep his commandments.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "1-john-2-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "He that saith, I know him, and keepeth not his commandments, is a liar, and the truth is not in him.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "1-john-2-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "But whoso keepeth his word, in him verily is the love of God perfected: hereby know we that we are in him.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "1-john-2-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "He that saith he abideth in him ought himself also so to walk, even as he walked.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "1-john-2-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Brethren, I write no new commandment unto you, but an old commandment which ye had from the beginning. The old commandment is the word which ye have heard from the beginning.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "1-john-2-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Again, a new commandment I write unto you, which thing is true in him and in you: because the darkness is past, and the true light now shineth.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "1-john-2-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "He that saith he is in the light, and hateth his brother, is in darkness even until now.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "1-john-2-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "He that loveth his brother abideth in the light, and there is none occasion of stumbling in him.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "1-john-2-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "But he that hateth his brother is in darkness, and walketh in darkness, and knoweth not whither he goeth, because that darkness hath blinded his eyes.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "1-john-2-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "I write unto you, little children, because your sins are forgiven you for his name’s sake.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "1-john-2-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "I write unto you, fathers, because ye have known him <span class=\"clarity-word\">that is</span> from the beginning. I write unto you, young men, because ye have overcome the wicked one. I write unto you, little children, because ye have known the Father.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "1-john-2-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "I have written unto you, fathers, because ye have known him <span class=\"clarity-word\">that is</span> from the beginning. I have written unto you, young men, because ye are strong, and the word of God abideth in you, and ye have overcome the wicked one.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "1-john-2-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Love not the world, neither the things <span class=\"clarity-word\">that are</span> in the world. If any man love the world, the love of the Father is not in him.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "1-john-2-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "For all that <span class=\"clarity-word\">is</span> in the world, the lust of the flesh, and the lust of the eyes, and the pride of life, is not of the Father, but is of the world.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "1-john-2-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And the world passeth away, and the lust thereof: but he that doeth the will of God abideth for ever.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "1-john-2-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Little children, it is the last time: and as ye have heard that antichrist shall come, even now are there many antichrists; whereby we know that it is the last time.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "1-john-2-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "They went out from us, but they were not of us; for if they had been of us, they would <span class=\"clarity-word\">no doubt</span> have continued with us: but <span class=\"clarity-word\">they went out,</span> that they might be made manifest that they were not all of us.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "1-john-2-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "But ye have an unction from the Holy One, and ye know all things.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "1-john-2-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "I have not written unto you because ye know not the truth, but because ye know it, and that no lie is of the truth.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "1-john-2-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Who is a liar but he that denieth that Jesus is the Christ? He is antichrist, that denieth the Father and the Son.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "1-john-2-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Whosoever denieth the Son, the same hath not the Father: [<span class=\"clarity-word\">but</span>] <span class=\"clarity-word\">he that acknowledgeth the Son hath the Father also.</span>",
+      "churchId": "p23"
+    },
+    {
+      "slug": "1-john-2-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Let that therefore abide in you, which ye have heard from the beginning. If that which ye have heard from the beginning shall remain in you, ye also shall continue in the Son, and in the Father.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "1-john-2-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And this is the promise that he hath promised us, <span class=\"clarity-word\">even</span> eternal life.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "1-john-2-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "These <span class=\"clarity-word\">things</span> have I written unto you concerning them that seduce you.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "1-john-2-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "But the anointing which ye have received of him abideth in you, and ye need not that any man teach you: but as the same anointing teacheth you of all things, and is truth, and is no lie, and even as it hath taught you, ye shall abide in him.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "1-john-2-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And now, little children, abide in him; that, when he shall appear, we may have confidence, and not be ashamed before him at his coming.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "1-john-2-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "If ye know that he is righteous, ye know that every one that doeth righteousness is born of him.",
+      "churchId": "p29"
+    }
+  ]
+}

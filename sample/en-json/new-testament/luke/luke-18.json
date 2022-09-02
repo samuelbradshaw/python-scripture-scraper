@@ -1,0 +1,316 @@
+{
+  "name": "Luke 18",
+  "abbrev": "Luke 18",
+  "number": "18",
+  "churchUri": "/scriptures/nt/luke/18",
+  "paragraphs": [
+    {
+      "slug": "luke-18-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 18",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "luke-18-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And he spake a parable unto them <span class=\"clarity-word\">to this end,</span> that men ought always to pray, and not to faint;",
+      "churchId": "p1"
+    },
+    {
+      "slug": "luke-18-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Saying, There was in a city a judge, which feared not God, neither regarded man:",
+      "churchId": "p2"
+    },
+    {
+      "slug": "luke-18-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And there was a widow in that city; and she came unto him, saying, Avenge me of mine adversary.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "luke-18-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And he would not for a while: but afterward he said within himself, Though I fear not God, nor regard man;",
+      "churchId": "p4"
+    },
+    {
+      "slug": "luke-18-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Yet because this widow troubleth me, I will avenge her, lest by her continual coming she weary me.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "luke-18-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And the Lord said, Hear what the unjust judge saith.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "luke-18-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And shall not God avenge his own elect, which cry day and night unto him, though he bear long with them?",
+      "churchId": "p7"
+    },
+    {
+      "slug": "luke-18-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "I tell you that he will avenge them speedily. Nevertheless when the Son of man cometh, shall he find faith on the earth?",
+      "churchId": "p8"
+    },
+    {
+      "slug": "luke-18-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And he spake this parable unto certain which trusted in themselves that they were righteous, and despised others:",
+      "churchId": "p9"
+    },
+    {
+      "slug": "luke-18-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Two men went up into the temple to pray; the one a Pharisee, and the other a publican.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "luke-18-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "The Pharisee stood and prayed thus with himself, God, I thank thee, that I am not as other men <span class=\"clarity-word\">are,</span> extortioners, unjust, adulterers, or even as this publican.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "luke-18-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "I fast twice in the week, I give tithes of all that I possess.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "luke-18-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And the publican, standing afar off, would not lift up so much as <span class=\"clarity-word\">his</span> eyes unto heaven, but smote upon his breast, saying, God be merciful to me a sinner.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "luke-18-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "I tell you, this man went down to his house justified <span class=\"clarity-word\">rather</span> than the other: for every one that exalteth himself shall be abased; and he that humbleth himself shall be exalted.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "luke-18-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And they brought unto him also infants, that he would touch them: but when <span class=\"clarity-word\">his</span> disciples saw <span class=\"clarity-word\">it,</span> they rebuked them.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "luke-18-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "But Jesus called them <span class=\"clarity-word\">unto him,</span> and said, Suffer little children to come unto me, and forbid them not: for of such is the kingdom of God.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "luke-18-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Verily I say unto you, Whosoever shall not receive the kingdom of God as a little child shall in no wise enter therein.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "luke-18-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And a certain ruler asked him, saying, Good Master, what shall I do to inherit eternal life?",
+      "churchId": "p18"
+    },
+    {
+      "slug": "luke-18-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And Jesus said unto him, Why callest thou me good? none <span class=\"clarity-word\">is</span> good, save one, <span class=\"clarity-word\">that is,</span> God.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "luke-18-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Thou knowest the commandments, Do not commit adultery, Do not kill, Do not steal, Do not bear false witness, Honour thy father and thy mother.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "luke-18-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And he said, All these have I kept from my youth up.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "luke-18-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Now when Jesus heard these things, he said unto him, Yet lackest thou one thing: sell all that thou hast, and distribute unto the poor, and thou shalt have treasure in heaven: and come, follow me.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "luke-18-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And when he heard this, he was very sorrowful: for he was very rich.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "luke-18-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And when Jesus saw that he was very sorrowful, he said, How hardly shall they that have riches enter into the kingdom of God!",
+      "churchId": "p24"
+    },
+    {
+      "slug": "luke-18-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "For it is easier for a camel to go through a needle’s eye, than for a rich man to enter into the kingdom of God.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "luke-18-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And they that heard <span class=\"clarity-word\">it</span> said, Who then can be saved?",
+      "churchId": "p26"
+    },
+    {
+      "slug": "luke-18-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And he said, The things which are impossible with men are possible with God.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "luke-18-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "Then Peter said, Lo, we have left all, and followed thee.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "luke-18-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "And he said unto them, Verily I say unto you, There is no man that hath left house, or parents, or brethren, or wife, or children, for the kingdom of God’s sake,",
+      "churchId": "p29"
+    },
+    {
+      "slug": "luke-18-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "Who shall not receive manifold more in this present time, and in the world to come life everlasting.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "luke-18-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "¶ Then he took <span class=\"clarity-word\">unto him</span> the twelve, and said unto them, Behold, we go up to Jerusalem, and all things that are written by the prophets concerning the Son of man shall be accomplished.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "luke-18-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "For he shall be delivered unto the Gentiles, and shall be mocked, and spitefully entreated, and spitted on:",
+      "churchId": "p32"
+    },
+    {
+      "slug": "luke-18-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "And they shall scourge <span class=\"clarity-word\">him,</span> and put him to death: and the third day he shall rise again.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "luke-18-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "And they understood none of these things: and this saying was hid from them, neither knew they the things which were spoken.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "luke-18-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "¶ And it came to pass, that as he was come nigh unto Jericho, a certain blind man sat by the way side begging:",
+      "churchId": "p35"
+    },
+    {
+      "slug": "luke-18-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "And hearing the multitude pass by, he asked what it meant.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "luke-18-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "And they told him, that Jesus of Nazareth passeth by.",
+      "churchId": "p37"
+    },
+    {
+      "slug": "luke-18-p38",
+      "type": "verse",
+      "number": "38",
+      "content": "And he cried, saying, Jesus, <span class=\"clarity-word\">thou</span> Son of David, have mercy on me.",
+      "churchId": "p38"
+    },
+    {
+      "slug": "luke-18-p39",
+      "type": "verse",
+      "number": "39",
+      "content": "And they which went before rebuked him, that he should hold his peace: but he cried so much the more, <span class=\"clarity-word\">Thou</span> Son of David, have mercy on me.",
+      "churchId": "p39"
+    },
+    {
+      "slug": "luke-18-p40",
+      "type": "verse",
+      "number": "40",
+      "content": "And Jesus stood, and commanded him to be brought unto him: and when he was come near, he asked him,",
+      "churchId": "p40"
+    },
+    {
+      "slug": "luke-18-p41",
+      "type": "verse",
+      "number": "41",
+      "content": "Saying, What wilt thou that I shall do unto thee? And he said, Lord, that I may receive my sight.",
+      "churchId": "p41"
+    },
+    {
+      "slug": "luke-18-p42",
+      "type": "verse",
+      "number": "42",
+      "content": "And Jesus said unto him, Receive thy sight: thy faith hath saved thee.",
+      "churchId": "p42"
+    },
+    {
+      "slug": "luke-18-p43",
+      "type": "verse",
+      "number": "43",
+      "content": "And immediately he received his sight, and followed him, glorifying God: and all the people, when they saw <span class=\"clarity-word\">it,</span> gave praise unto God.",
+      "churchId": "p43"
+    }
+  ]
+}

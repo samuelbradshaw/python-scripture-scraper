@@ -1,0 +1,85 @@
+{
+  "name": "Psalm 8",
+  "abbrev": "Psalm 8",
+  "number": "8",
+  "churchUri": "/scriptures/ot/ps/8",
+  "paragraphs": [
+    {
+      "slug": "psalm-8-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 8",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-8-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "To the chief Musician upon Gittith, A Psalm of David.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-8-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "O <span class=\"small-caps\">Lord</span> our Lord, how excellent <span class=\"clarity-word\">is</span> thy name in all the earth! who hast set thy glory above the heavens.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-8-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Out of the mouth of babes and sucklings hast thou ordained strength because of thine enemies, that thou mightest still the enemy and the avenger.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-8-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "When I consider thy heavens, the work of thy fingers, the moon and the stars, which thou hast ordained;",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-8-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "What is man, that thou art mindful of him? and the son of man, that thou visitest him?",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-8-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "For thou hast made him a little lower than the angels, and hast crowned him with glory and honour.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-8-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Thou madest him to have dominion over the works of thy hands; thou hast put all <span class=\"clarity-word\">things</span> under his feet:",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-8-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "All sheep and oxen, yea, and the beasts of the field;",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-8-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "The fowl of the air, and the fish of the sea, <span class=\"clarity-word\">and whatsoever</span> passeth through the paths of the seas.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "psalm-8-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "O <span class=\"small-caps\">Lord</span> our Lord, how excellent <span class=\"clarity-word\">is</span> thy name in all the earth!",
+      "churchId": "p9"
+    }
+  ]
+}

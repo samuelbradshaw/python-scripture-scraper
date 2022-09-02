@@ -1,0 +1,141 @@
+{
+  "name": "Malachi 3",
+  "abbrev": "Mal. 3",
+  "number": "3",
+  "churchUri": "/scriptures/ot/mal/3",
+  "paragraphs": [
+    {
+      "slug": "malachi-3-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 3",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "malachi-3-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Behold, I will send my messenger, and he shall prepare the way before me: and the Lord, whom ye seek, shall suddenly come to his temple, even the messenger of the covenant, whom ye delight in: behold, he shall come, saith the <span class=\"small-caps\">Lord</span> of hosts.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "malachi-3-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "But who may abide the day of his coming? and who shall stand when he appeareth? for he <span class=\"clarity-word\">is</span> like a refiner’s fire, and like fullers’ soap:",
+      "churchId": "p2"
+    },
+    {
+      "slug": "malachi-3-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And he shall sit <span class=\"clarity-word\">as</span> a refiner and purifier of silver: and he shall purify the sons of Levi, and purge them as gold and silver, that they may offer unto the <span class=\"small-caps\">Lord</span> an offering in righteousness.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "malachi-3-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Then shall the offering of Judah and Jerusalem be pleasant unto the <span class=\"small-caps\">Lord</span>, as in the days of old, and as in former years.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "malachi-3-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And I will come near to you to judgment; and I will be a swift witness against the sorcerers, and against the adulterers, and against false swearers, and against those that oppress the hireling in <span class=\"clarity-word\">his</span> wages, the widow, and the fatherless, and that turn aside the stranger <span class=\"clarity-word\">from his right,</span> and fear not me, saith the <span class=\"small-caps\">Lord</span> of hosts.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "malachi-3-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "For I <span class=\"clarity-word\">am</span> the <span class=\"small-caps\">Lord</span>, I change not; therefore ye sons of Jacob are not consumed.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "malachi-3-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "¶ Even from the days of your fathers ye are gone away from mine ordinances, and have not kept <span class=\"clarity-word\">them.</span> Return unto me, and I will return unto you, saith the <span class=\"small-caps\">Lord</span> of hosts. But ye said, Wherein shall we return?",
+      "churchId": "p7"
+    },
+    {
+      "slug": "malachi-3-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "¶ Will a man rob God? Yet ye have robbed me. But ye say, Wherein have we robbed thee? In tithes and offerings.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "malachi-3-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Ye <span class=\"clarity-word\">are</span> cursed with a curse: for ye have robbed me, <span class=\"clarity-word\">even</span> this whole nation.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "malachi-3-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Bring ye all the tithes into the storehouse, that there may be meat in mine house, and prove me now herewith, saith the <span class=\"small-caps\">Lord</span> of hosts, if I will not open you the windows of heaven, and pour you out a blessing, that <span class=\"clarity-word\">there shall</span> not <span class=\"clarity-word\">be room</span> enough <span class=\"clarity-word\">to receive it.</span>",
+      "churchId": "p10"
+    },
+    {
+      "slug": "malachi-3-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And I will rebuke the devourer for your sakes, and he shall not destroy the fruits of your ground; neither shall your vine cast her fruit before the time in the field, saith the <span class=\"small-caps\">Lord</span> of hosts.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "malachi-3-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And all nations shall call you blessed: for ye shall be a delightsome land, saith the <span class=\"small-caps\">Lord</span> of hosts.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "malachi-3-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "¶ Your words have been stout against me, saith the <span class=\"small-caps\">Lord</span>. Yet ye say, What have we spoken <span class=\"clarity-word\">so much</span> against thee?",
+      "churchId": "p13"
+    },
+    {
+      "slug": "malachi-3-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Ye have said, It <span class=\"clarity-word\">is</span> vain to serve God: and what profit <span class=\"clarity-word\">is it</span> that we have kept his ordinance, and that we have walked mournfully before the <span class=\"small-caps\">Lord</span> of hosts?",
+      "churchId": "p14"
+    },
+    {
+      "slug": "malachi-3-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And now we call the proud happy; yea, they that work wickedness are set up; yea, <span class=\"clarity-word\">they that</span> tempt God are even delivered.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "malachi-3-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "¶ Then they that feared the <span class=\"small-caps\">Lord</span> spake often one to another: and the <span class=\"small-caps\">Lord</span> hearkened, and heard <span class=\"clarity-word\">it,</span> and a book of remembrance was written before him for them that feared the <span class=\"small-caps\">Lord</span>, and that thought upon his name.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "malachi-3-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And they shall be mine, saith the <span class=\"small-caps\">Lord</span> of hosts, in that day when I make up my jewels; and I will spare them, as a man spareth his own son that serveth him.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "malachi-3-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Then shall ye return, and discern between the righteous and the wicked, between him that serveth God and him that serveth him not.",
+      "churchId": "p18"
+    }
+  ]
+}

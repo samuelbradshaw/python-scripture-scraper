@@ -1,0 +1,113 @@
+{
+  "name": "Jeremiah 21",
+  "abbrev": "Jer. 21",
+  "number": "21",
+  "churchUri": "/scriptures/ot/jer/21",
+  "paragraphs": [
+    {
+      "slug": "jeremiah-21-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 21",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "jeremiah-21-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "The word which came unto Jeremiah from the <span class=\"small-caps\">Lord</span>, when king Zedekiah sent unto him Pashur the son of Melchiah, and Zephaniah the son of Maaseiah the priest, saying,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "jeremiah-21-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Inquire, I pray thee, of the <span class=\"small-caps\">Lord</span> for us; for Nebuchadrezzar king of Babylon maketh war against us; if so be that the <span class=\"small-caps\">Lord</span> will deal with us according to all his wondrous works, that he may go up from us.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "jeremiah-21-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "¶ Then said Jeremiah unto them, Thus shall ye say to Zedekiah:",
+      "churchId": "p3"
+    },
+    {
+      "slug": "jeremiah-21-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Thus saith the <span class=\"small-caps\">Lord</span> God of Israel; Behold, I will turn back the weapons of war that <span class=\"clarity-word\">are</span> in your hands, wherewith ye fight against the king of Babylon, and <span class=\"clarity-word\">against</span> the Chaldeans, which besiege you without the walls, and I will assemble them into the midst of this city.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "jeremiah-21-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And I myself will fight against you with an outstretched hand and with a strong arm, even in anger, and in fury, and in great wrath.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "jeremiah-21-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And I will smite the inhabitants of this city, both man and beast: they shall die of a great pestilence.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "jeremiah-21-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And afterward, saith the <span class=\"small-caps\">Lord</span>, I will deliver Zedekiah king of Judah, and his servants, and the people, and such as are left in this city from the pestilence, from the sword, and from the famine, into the hand of Nebuchadrezzar king of Babylon, and into the hand of their enemies, and into the hand of those that seek their life: and he shall smite them with the edge of the sword; he shall not spare them, neither have pity, nor have mercy.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "jeremiah-21-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "¶ And unto this people thou shalt say, Thus saith the <span class=\"small-caps\">Lord</span>; Behold, I set before you the way of life, and the way of death.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "jeremiah-21-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "He that abideth in this city shall die by the sword, and by the famine, and by the pestilence: but he that goeth out, and falleth to the Chaldeans that besiege you, he shall live, and his life shall be unto him for a prey.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "jeremiah-21-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "For I have set my face against this city for evil, and not for good, saith the <span class=\"small-caps\">Lord</span>: it shall be given into the hand of the king of Babylon, and he shall burn it with fire.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "jeremiah-21-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "¶ And touching the house of the king of Judah, <span class=\"clarity-word\">say,</span> Hear ye the word of the <span class=\"small-caps\">Lord</span>;",
+      "churchId": "p11"
+    },
+    {
+      "slug": "jeremiah-21-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "O house of David, thus saith the <span class=\"small-caps\">Lord</span>; Execute judgment in the morning, and deliver <span class=\"clarity-word\">him that is</span> spoiled out of the hand of the oppressor, lest my fury go out like fire, and burn that none can quench <span class=\"clarity-word\">it,</span> because of the evil of your doings.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "jeremiah-21-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "Behold, I <span class=\"clarity-word\">am</span> against thee, O inhabitant of the valley, <span class=\"clarity-word\">and</span> rock of the plain, saith the <span class=\"small-caps\">Lord</span>; which say, Who shall come down against us? or who shall enter into our habitations?",
+      "churchId": "p13"
+    },
+    {
+      "slug": "jeremiah-21-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "But I will punish you according to the fruit of your doings, saith the <span class=\"small-caps\">Lord</span>: and I will kindle a fire in the forest thereof, and it shall devour all things round about it.",
+      "churchId": "p14"
+    }
+  ]
+}

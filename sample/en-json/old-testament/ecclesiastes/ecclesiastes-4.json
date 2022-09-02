@@ -1,0 +1,127 @@
+{
+  "name": "Ecclesiastes 4",
+  "abbrev": "Eccl. 4",
+  "number": "4",
+  "churchUri": "/scriptures/ot/eccl/4",
+  "paragraphs": [
+    {
+      "slug": "ecclesiastes-4-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 4",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "ecclesiastes-4-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "So I returned, and considered all the oppressions that are done under the sun: and behold the tears of <span class=\"clarity-word\">such as were</span> oppressed, and they had no comforter; and on the side of their oppressors <span class=\"clarity-word\">there was</span> power; but they had no comforter.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "ecclesiastes-4-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Wherefore I praised the dead which are already dead more than the living which are yet alive.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "ecclesiastes-4-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Yea, better <span class=\"clarity-word\">is he</span> than both they, which hath not yet been, who hath not seen the evil work that is done under the sun.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "ecclesiastes-4-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "¶ Again, I considered all travail, and every right work, that for this a man is envied of his neighbour. This <span class=\"clarity-word\">is</span> also vanity and vexation of spirit.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "ecclesiastes-4-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "The fool foldeth his hands together, and eateth his own flesh.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "ecclesiastes-4-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Better <span class=\"clarity-word\">is</span> an handful <span class=\"clarity-word\">with</span> quietness, than both the hands full <span class=\"clarity-word\">with</span> travail and vexation of spirit.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "ecclesiastes-4-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "¶ Then I returned, and I saw vanity under the sun.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "ecclesiastes-4-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "There is one <span class=\"clarity-word\">alone,</span> and <span class=\"clarity-word\">there is</span> not a second; yea, he hath neither child nor brother: yet <span class=\"clarity-word\">is there</span> no end of all his labour; neither is his eye satisfied with riches; neither <span class=\"clarity-word\">saith he,</span> For whom do I labour, and bereave my soul of good? This <span class=\"clarity-word\">is</span> also vanity, yea, it <span class=\"clarity-word\">is</span> a sore travail.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "ecclesiastes-4-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "¶ Two <span class=\"clarity-word\">are</span> better than one; because they have a good reward for their labour.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "ecclesiastes-4-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "For if they fall, the one will lift up his fellow: but woe to him <span class=\"clarity-word\">that is</span> alone when he falleth; for <span class=\"clarity-word\">he hath</span> not another to help him up.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "ecclesiastes-4-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Again, if two lie together, then they have heat: but how can one be warm <span class=\"clarity-word\">alone?</span>",
+      "churchId": "p11"
+    },
+    {
+      "slug": "ecclesiastes-4-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And if one prevail against him, two shall withstand him; and a threefold cord is not quickly broken.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "ecclesiastes-4-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "¶ Better <span class=\"clarity-word\">is</span> a poor and a wise child than an old and foolish king, who will no more be admonished.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "ecclesiastes-4-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "For out of prison he cometh to reign; whereas also <span class=\"clarity-word\">he that is</span> born in his kingdom becometh poor.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "ecclesiastes-4-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "I considered all the living which walk under the sun, with the second child that shall stand up in his stead.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "ecclesiastes-4-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "<span class=\"clarity-word\">There is</span> no end of all the people, <span class=\"clarity-word\">even</span> of all that have been before them: they also that come after shall not rejoice in him. Surely this also <span class=\"clarity-word\">is</span> vanity and vexation of spirit.",
+      "churchId": "p16"
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "name": "Isaiah 2",
+  "abbrev": "Isa. 2",
+  "number": "2",
+  "churchUri": "/scriptures/ot/isa/2",
+  "paragraphs": [
+    {
+      "slug": "isaiah-2-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 2",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "isaiah-2-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "The word that Isaiah the son of Amoz saw concerning Judah and Jerusalem.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "isaiah-2-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And it shall come to pass in the last days, <span class=\"clarity-word\">that</span> the mountain of the <span class=\"small-caps\">Lord</span>’s house shall be established in the top of the mountains, and shall be exalted above the hills; and all nations shall flow unto it.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "isaiah-2-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And many people shall go and say, Come ye, and let us go up to the mountain of the <span class=\"small-caps\">Lord</span>, to the house of the God of Jacob; and he will teach us of his ways, and we will walk in his paths: for out of Zion shall go forth the law, and the word of the <span class=\"small-caps\">Lord</span> from Jerusalem.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "isaiah-2-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And he shall judge among the nations, and shall rebuke many people: and they shall beat their swords into plowshares, and their spears into pruninghooks: nation shall not lift up sword against nation, neither shall they learn war any more.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "isaiah-2-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "O house of Jacob, come ye, and let us walk in the light of the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "isaiah-2-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "¶ Therefore thou hast forsaken thy people the house of Jacob, because they be replenished from the east, and <span class=\"clarity-word\">are</span> soothsayers like the Philistines, and they please themselves in the children of strangers.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "isaiah-2-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Their land also is full of silver and gold, neither <span class=\"clarity-word\">is there any</span> end of their treasures; their land is also full of horses, neither <span class=\"clarity-word\">is there any</span> end of their chariots:",
+      "churchId": "p7"
+    },
+    {
+      "slug": "isaiah-2-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Their land also is full of idols; they worship the work of their own hands, that which their own fingers have made:",
+      "churchId": "p8"
+    },
+    {
+      "slug": "isaiah-2-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And the mean man boweth down, and the great man humbleth himself: therefore forgive them not.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "isaiah-2-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "¶ Enter into the rock, and hide thee in the dust, for fear of the <span class=\"small-caps\">Lord</span>, and for the glory of his majesty.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "isaiah-2-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "The lofty looks of man shall be humbled, and the haughtiness of men shall be bowed down, and the <span class=\"small-caps\">Lord</span> alone shall be exalted in that day.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "isaiah-2-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "For the day of the <span class=\"small-caps\">Lord</span> of hosts <span class=\"clarity-word\">shall be</span> upon every <span class=\"clarity-word\">one that is</span> proud and lofty, and upon every <span class=\"clarity-word\">one that is</span> lifted up; and he shall be brought low:",
+      "churchId": "p12"
+    },
+    {
+      "slug": "isaiah-2-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And upon all the cedars of Lebanon, <span class=\"clarity-word\">that are</span> high and lifted up, and upon all the oaks of Bashan,",
+      "churchId": "p13"
+    },
+    {
+      "slug": "isaiah-2-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And upon all the high mountains, and upon all the hills <span class=\"clarity-word\">that are</span> lifted up,",
+      "churchId": "p14"
+    },
+    {
+      "slug": "isaiah-2-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And upon every high tower, and upon every fenced wall,",
+      "churchId": "p15"
+    },
+    {
+      "slug": "isaiah-2-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And upon all the ships of Tarshish, and upon all pleasant pictures.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "isaiah-2-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And the loftiness of man shall be bowed down, and the haughtiness of men shall be made low: and the <span class=\"small-caps\">Lord</span> alone shall be exalted in that day.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "isaiah-2-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And the idols he shall utterly abolish.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "isaiah-2-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And they shall go into the holes of the rocks, and into the caves of the earth, for fear of the <span class=\"small-caps\">Lord</span>, and for the glory of his majesty, when he ariseth to shake terribly the earth.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "isaiah-2-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "In that day a man shall cast his idols of silver, and his idols of gold, which they made <span class=\"clarity-word\">each one</span> for himself to worship, to the moles and to the bats;",
+      "churchId": "p20"
+    },
+    {
+      "slug": "isaiah-2-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "To go into the clefts of the rocks, and into the tops of the ragged rocks, for fear of the <span class=\"small-caps\">Lord</span>, and for the glory of his majesty, when he ariseth to shake terribly the earth.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "isaiah-2-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Cease ye from man, whose breath <span class=\"clarity-word\">is</span> in his nostrils: for wherein is he to be accounted of?",
+      "churchId": "p22"
+    }
+  ]
+}

@@ -1,0 +1,2758 @@
+{
+  "_": {
+    "bookChapterSeparator": " ",
+    "chapterVerseSeparator": ":",
+    "verseRangeSeparator": "–",
+    "verseGroupSeparator": ", ",
+    "referenceSeparator": "; ",
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "psalm": "Psalm",
+      "official-declaration": "Official Declaration"
+    },
+    "namedChapters": {
+      "fac-1": "Facsimile 1",
+      "fac-2": "Facsimile 2",
+      "fac-3": "Facsimile 3"
+    }
+  },
+  "af": {
+    "bookChapterSeparator": " ",
+    "chapterVerseSeparator": ":",
+    "verseRangeSeparator": "–",
+    "verseGroupSeparator": ", ",
+    "referenceSeparator": "; ",
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "official-declaration": "Amptelike Verklaring"
+    },
+    "namedChapters": {
+      "fac-1": "Faksimilee 1",
+      "fac-2": "Faksimilee 2",
+      "fac-3": "Faksimilee 3"
+    }
+  },
+  "am": {
+    "bookChapterSeparator": " ",
+    "chapterVerseSeparator": "፥",
+    "verseRangeSeparator": "–",
+    "verseGroupSeparator": "፣ ",
+    "referenceSeparator": "፤ ",
+    "numerals": null,
+    "singularBookNames": {
+      "psalm": "መዝሙረ ዳዊት",
+      "official-declaration": "አስተዳደሪያዊ አዋጅ"
+    },
+    "namedChapters": {
+      "fac-1": "ቅርፅ ፩",
+      "fac-2": "ቅርፅ ፪",
+      "fac-3": "ቅርፅ ፫"
+    }
+  },
+  "ar": {
+    "numerals": [
+      "٠",
+      "١",
+      "٢",
+      "٣",
+      "٤",
+      "٥",
+      "٦",
+      "٧",
+      "٨",
+      "٩"
+    ],
+    "singularBookNames": {
+      "psalm": "المزمور"
+    },
+    "namedChapters": {}
+  },
+  "ase": {
+    "bookChapterSeparator": " ",
+    "chapterVerseSeparator": ":",
+    "verseRangeSeparator": "–",
+    "verseGroupSeparator": ", ",
+    "referenceSeparator": "; ",
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "psalm": "Psalm",
+      "official-declaration": "Official Declaration"
+    },
+    "namedChapters": {
+      "fac-1": "Facsimile 1",
+      "fac-2": "Facsimile 2",
+      "fac-3": "Facsimile 3"
+    }
+  },
+  "ay": {
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {},
+    "namedChapters": {}
+  },
+  "bg": {
+    "bookChapterSeparator": " ",
+    "chapterVerseSeparator": ":",
+    "verseRangeSeparator": "–",
+    "verseGroupSeparator": ", ",
+    "referenceSeparator": "; ",
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "psalm": "Псалми",
+      "official-declaration": "Официално изявление"
+    },
+    "namedChapters": {
+      "fac-1": "Изображение 1",
+      "fac-2": "Изображение 2",
+      "fac-3": "Изображение 3"
+    }
+  },
+  "bi": {
+    "bookChapterSeparator": " ",
+    "chapterVerseSeparator": ":",
+    "verseRangeSeparator": "–",
+    "verseGroupSeparator": ", ",
+    "referenceSeparator": "; ",
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "psalm": "Ol Sam",
+      "official-declaration": "Ofisol Toktok"
+    },
+    "namedChapters": {
+      "fac-1": "Pikja Kopi 1",
+      "fac-2": "Pikja Kopi 2",
+      "fac-3": "Pikja Kopi 3"
+    }
+  },
+  "bik": {
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {},
+    "namedChapters": {}
+  },
+  "bla": {
+    "singularBookNames": {},
+    "namedChapters": {}
+  },
+  "bm": {
+    "singularBookNames": {},
+    "namedChapters": {}
+  },
+  "bn": {
+    "singularBookNames": {},
+    "namedChapters": {}
+  },
+  "ca": {
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "official-declaration": "Declaració Oficial"
+    },
+    "namedChapters": {
+      "fac-1": "Facsímil 1",
+      "fac-2": "Facsímil 2",
+      "fac-3": "Facsímil 3"
+    }
+  },
+  "cag": {
+    "singularBookNames": {},
+    "namedChapters": {}
+  },
+  "cak": {
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {},
+    "namedChapters": {}
+  },
+  "ceb": {
+    "bookChapterSeparator": " ",
+    "chapterVerseSeparator": ":",
+    "verseRangeSeparator": "–",
+    "verseGroupSeparator": ", ",
+    "referenceSeparator": "; ",
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "psalm": "Salmo",
+      "official-declaration": "Opisyal nga Pahayag"
+    },
+    "namedChapters": {
+      "fac-1": "Facsimile 1",
+      "fac-2": "Facsimile 2",
+      "fac-3": "Facsimile 3"
+    }
+  },
+  "ch": {
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {},
+    "namedChapters": {}
+  },
+  "chk": {
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {},
+    "namedChapters": {}
+  },
+  "cmn-Hans": {
+    "bookChapterSeparator": "",
+    "chapterVerseSeparator": "：",
+    "verseRangeSeparator": "-",
+    "verseGroupSeparator": "，",
+    "referenceSeparator": "；",
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "psalm": "诗篇第",
+      "official-declaration": "正式宣言"
+    },
+    "namedChapters": {
+      "fac-1": "复制图1",
+      "fac-2": "复制图2",
+      "fac-3": "复制图3"
+    }
+  },
+  "cmn-Hant": {
+    "bookChapterSeparator": "",
+    "chapterVerseSeparator": "：",
+    "verseRangeSeparator": "-",
+    "verseGroupSeparator": "，",
+    "referenceSeparator": "；",
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "psalm": "詩篇第",
+      "official-declaration": "正式宣言"
+    },
+    "namedChapters": {
+      "fac-1": "複製圖1",
+      "fac-2": "複製圖2",
+      "fac-3": "複製圖3"
+    }
+  },
+  "cs": {
+    "bookChapterSeparator": " ",
+    "chapterVerseSeparator": ":",
+    "verseRangeSeparator": "–",
+    "verseGroupSeparator": ", ",
+    "referenceSeparator": "; ",
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "psalm": "Žalmu",
+      "official-declaration": "Oficiální prohlášení"
+    },
+    "namedChapters": {
+      "fac-1": "Faksimile 1",
+      "fac-2": "Faksimile 2",
+      "fac-3": "Faksimile 3"
+    }
+  },
+  "cuk": {
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {},
+    "namedChapters": {}
+  },
+  "cy": {
+    "singularBookNames": {},
+    "namedChapters": {}
+  },
+  "da": {
+    "bookChapterSeparator": " ",
+    "chapterVerseSeparator": ":",
+    "verseRangeSeparator": "-",
+    "verseGroupSeparator": ", ",
+    "referenceSeparator": "; ",
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "psalm": "Salmerne",
+      "official-declaration": "Officiel erklæring"
+    },
+    "namedChapters": {
+      "fac-1": "Faksimile 1",
+      "fac-2": "Faksimile 2",
+      "fac-3": "Faksimile 3"
+    }
+  },
+  "de": {
+    "bookChapterSeparator": " ",
+    "chapterVerseSeparator": ":",
+    "verseRangeSeparator": ",",
+    "verseGroupSeparator": ",",
+    "referenceSeparator": "; ",
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "psalm": "Psalm",
+      "official-declaration": "Amtliche Erklärung"
+    },
+    "namedChapters": {
+      "fac-1": "Faksimile 1",
+      "fac-2": "Faksimile 2",
+      "fac-3": "Faksimile 3"
+    }
+  },
+  "efi": {
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {},
+    "namedChapters": {}
+  },
+  "el": {
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "psalm": "Ψαλμοί",
+      "official-declaration": "Επίσημη Διακήρυξη"
+    },
+    "namedChapters": {}
+  },
+  "en": {
+    "bookChapterSeparator": " ",
+    "chapterVerseSeparator": ":",
+    "verseRangeSeparator": "–",
+    "verseGroupSeparator": ", ",
+    "referenceSeparator": "; ",
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "psalm": "Psalm",
+      "official-declaration": "Official Declaration"
+    },
+    "namedChapters": {
+      "fac-1": "Facsimile 1",
+      "fac-2": "Facsimile 2",
+      "fac-3": "Facsimile 3"
+    }
+  },
+  "es": {
+    "bookChapterSeparator": " ",
+    "chapterVerseSeparator": ":",
+    "verseRangeSeparator": "–",
+    "verseGroupSeparator": ", ",
+    "referenceSeparator": "; ",
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "psalm": "Salmo",
+      "official-declaration": "Declaración Oficial"
+    },
+    "namedChapters": {
+      "fac-1": "Facsímile Nº 1",
+      "fac-2": "Facsímile Nº 2",
+      "fac-3": "Facsímile Nº 3"
+    }
+  },
+  "et": {
+    "bookChapterSeparator": " ",
+    "chapterVerseSeparator": ":",
+    "verseRangeSeparator": "–",
+    "verseGroupSeparator": ", ",
+    "referenceSeparator": "; ",
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "psalm": "Laulud",
+      "official-declaration": "Ametlik teadaanne nr"
+    },
+    "namedChapters": {
+      "fac-1": "Jäljend joonisest nr 1",
+      "fac-2": "Jäljend joonisest nr 2",
+      "fac-3": "Jäljend joonisest nr 3"
+    }
+  },
+  "eu": {
+    "singularBookNames": {},
+    "namedChapters": {}
+  },
+  "fa": {
+    "numerals": [
+      "۰",
+      "۱",
+      "۲",
+      "۳",
+      "۴",
+      "۵",
+      "۶",
+      "۷",
+      "۸",
+      "۹"
+    ],
+    "singularBookNames": {
+      "psalm": "مزامیر",
+      "official-declaration": "اعلامیۀ رسمی"
+    },
+    "namedChapters": {
+      "fac-1": "رونوشت عینی ۱",
+      "fac-2": "رونوشت عینی ۲",
+      "fac-3": "رونوشت عینی ۳"
+    }
+  },
+  "fat": {
+    "bookChapterSeparator": " ",
+    "chapterVerseSeparator": ":",
+    "verseRangeSeparator": "–",
+    "verseGroupSeparator": ", ",
+    "referenceSeparator": "; ",
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "official-declaration": "Asɔr Dawurbɔ"
+    },
+    "namedChapters": {
+      "fac-1": "Mfonyin 1",
+      "fac-2": "Mfonyin 2",
+      "fac-3": "Mfonyin 3"
+    }
+  },
+  "fi": {
+    "bookChapterSeparator": " ",
+    "chapterVerseSeparator": ":",
+    "verseRangeSeparator": "–",
+    "verseGroupSeparator": ", ",
+    "referenceSeparator": "; ",
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "psalm": "psalmi",
+      "official-declaration": "Virallinen julistus"
+    },
+    "namedChapters": {
+      "fac-1": "Kuvajäljennös 1",
+      "fac-2": "Kuvajäljennös 2",
+      "fac-3": "Kuvajäljennös 3"
+    }
+  },
+  "fj": {
+    "bookChapterSeparator": " ",
+    "chapterVerseSeparator": ":",
+    "verseRangeSeparator": "–",
+    "verseGroupSeparator": ", ",
+    "referenceSeparator": "; ",
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "psalm": "Same",
+      "official-declaration": "Ai Vakaro Raraba"
+    },
+    "namedChapters": {
+      "fac-1": "iVakatakarakara 1",
+      "fac-2": "iVakatakarakara 2",
+      "fac-3": "iVakatakarakara 3"
+    }
+  },
+  "fon": {
+    "singularBookNames": {},
+    "namedChapters": {}
+  },
+  "fr": {
+    "bookChapterSeparator": " ",
+    "chapterVerseSeparator": ":",
+    "verseRangeSeparator": "–",
+    "verseGroupSeparator": ", ",
+    "referenceSeparator": "; ",
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "psalm": "Psaumes",
+      "official-declaration": "Déclaration officielle"
+    },
+    "namedChapters": {
+      "fac-1": "Fac-similé no 1",
+      "fac-2": "Fac-similé no 2",
+      "fac-3": "Fac-similé no 3"
+    }
+  },
+  "gil": {
+    "bookChapterSeparator": " ",
+    "chapterVerseSeparator": ":",
+    "verseRangeSeparator": "–",
+    "verseGroupSeparator": ", ",
+    "referenceSeparator": "; ",
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "psalm": "Taian Areru",
+      "official-declaration": "Katanoata ae Kariaiakaki"
+    },
+    "namedChapters": {
+      "fac-1": "Katooto 1",
+      "fac-2": "Katooto 2",
+      "fac-3": "Katooto 3"
+    }
+  },
+  "gn": {
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {},
+    "namedChapters": {}
+  },
+  "guz": {
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {},
+    "namedChapters": {}
+  },
+  "haw": {
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {},
+    "namedChapters": {}
+  },
+  "hi": {
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "psalm": "भजन संहिता"
+    },
+    "namedChapters": {}
+  },
+  "hif": {
+    "singularBookNames": {},
+    "namedChapters": {}
+  },
+  "hil": {
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "psalm": "Salmo",
+      "official-declaration": "Opisyal nga Pahayag"
+    },
+    "namedChapters": {
+      "fac-1": "Kopya sang Larawan 1",
+      "fac-2": "Kopya sang Larawan 2",
+      "fac-3": "Kopya sang Larawan 3"
+    }
+  },
+  "hmn": {
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {},
+    "namedChapters": {}
+  },
+  "hr": {
+    "bookChapterSeparator": " ",
+    "chapterVerseSeparator": ":",
+    "verseRangeSeparator": "–",
+    "verseGroupSeparator": ", ",
+    "referenceSeparator": "; ",
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "psalm": "Psalmu",
+      "official-declaration": "Službena izjava"
+    },
+    "namedChapters": {
+      "fac-1": "Preslik br. 1",
+      "fac-2": "Preslik br. 2",
+      "fac-3": "Preslik br. 3"
+    }
+  },
+  "ht": {
+    "bookChapterSeparator": " ",
+    "chapterVerseSeparator": ":",
+    "verseRangeSeparator": "–",
+    "verseGroupSeparator": ", ",
+    "referenceSeparator": "; ",
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "psalm": "Sòm",
+      "official-declaration": "Deklarasyon Ofisyèl"
+    },
+    "namedChapters": {
+      "fac-1": "Faksimile 1",
+      "fac-2": "Faksimile 2",
+      "fac-3": "Faksimile 3"
+    }
+  },
+  "hu": {
+    "bookChapterSeparator": " ",
+    "chapterVerseSeparator": ":",
+    "verseRangeSeparator": "–",
+    "verseGroupSeparator": ", ",
+    "referenceSeparator": "; ",
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "psalm": "Zsoltárok",
+      "official-declaration": "Hivatalos nyilatkozat"
+    },
+    "namedChapters": {
+      "fac-1": "1. képmásolat",
+      "fac-2": "2. képmásolat",
+      "fac-3": "3. képmásolat"
+    }
+  },
+  "hy": {
+    "bookChapterSeparator": " ",
+    "chapterVerseSeparator": ".",
+    "verseRangeSeparator": "–",
+    "verseGroupSeparator": ", ",
+    "referenceSeparator": "; ",
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "psalm": "Սաղմոս",
+      "official-declaration": "Պաշտոնական հայտարարություն"
+    },
+    "namedChapters": {
+      "fac-1": "Վերատպում 1",
+      "fac-2": "Վերատպում 2",
+      "fac-3": "Վերատպում 3"
+    }
+  },
+  "hyw": {
+    "singularBookNames": {},
+    "namedChapters": {}
+  },
+  "id": {
+    "bookChapterSeparator": " ",
+    "chapterVerseSeparator": ":",
+    "verseRangeSeparator": "–",
+    "verseGroupSeparator": ", ",
+    "referenceSeparator": "; ",
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "psalm": "Mazmur",
+      "official-declaration": "Maklumat Resmi"
+    },
+    "namedChapters": {
+      "fac-1": "Reproduksi No. 1",
+      "fac-2": "Reproduksi No. 2",
+      "fac-3": "Reproduksi No. 3"
+    }
+  },
+  "ig": {
+    "bookChapterSeparator": " ",
+    "chapterVerseSeparator": ":",
+    "verseRangeSeparator": "–",
+    "verseGroupSeparator": ", ",
+    "referenceSeparator": "; ",
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "official-declaration": "Ima ọkwa nke ụlọ-ọrụ"
+    },
+    "namedChapters": {
+      "fac-1": "Ihe esere ese na-ụdị ha dịbu nke 1",
+      "fac-2": "Ihe esere ese na-ụdị ha dịbu nke 2",
+      "fac-3": "Ihe esere ese na-ụdị ha dịbu nke 3"
+    }
+  },
+  "ilo": {
+    "bookChapterSeparator": " ",
+    "chapterVerseSeparator": ":",
+    "verseRangeSeparator": "–",
+    "verseGroupSeparator": ", ",
+    "referenceSeparator": "; ",
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "psalm": "Salmo",
+      "official-declaration": "Opisial a Palawag"
+    },
+    "namedChapters": {
+      "fac-1": "PaKsimile 1",
+      "fac-2": "Paksimile 2",
+      "fac-3": "Paksimile 3"
+    }
+  },
+  "is": {
+    "bookChapterSeparator": " ",
+    "chapterVerseSeparator": ":",
+    "verseRangeSeparator": "–",
+    "verseGroupSeparator": ", ",
+    "referenceSeparator": "; ",
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "psalm": "Sálmunum",
+      "official-declaration": "Opinber yfirlýsing"
+    },
+    "namedChapters": {
+      "fac-1": "Myndeftirlíking 1",
+      "fac-2": "Myndeftirlíking 2",
+      "fac-3": "Myndeftirlíking 3"
+    }
+  },
+  "it": {
+    "bookChapterSeparator": " ",
+    "chapterVerseSeparator": ":",
+    "verseRangeSeparator": "–",
+    "verseGroupSeparator": ", ",
+    "referenceSeparator": "; ",
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "psalm": "Salmi",
+      "official-declaration": "Dichiarazione Ufficiale"
+    },
+    "namedChapters": {
+      "fac-1": "Facsimile 1",
+      "fac-2": "Facsimile 2",
+      "fac-3": "Facsimile 3"
+    }
+  },
+  "ja": {
+    "bookChapterSeparator": "",
+    "chapterVerseSeparator": "：",
+    "verseRangeSeparator": "－",
+    "verseGroupSeparator": "，",
+    "referenceSeparator": "；",
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "psalm": "詩篇",
+      "official-declaration": "公式の宣言"
+    },
+    "namedChapters": {
+      "fac-1": "模写一",
+      "fac-2": "模写二",
+      "fac-3": "模写三"
+    }
+  },
+  "ka": {
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "official-declaration": "ოფიციალური განცხადება"
+    },
+    "namedChapters": {
+      "fac-1": "ხელნაწერის ზუსტი ასლი 1",
+      "fac-2": "ხელნაწერის ზუსტი ასლი 2",
+      "fac-3": "ხელნაწერის ზუსტი ასლი 3"
+    }
+  },
+  "kam": {
+    "singularBookNames": {},
+    "namedChapters": {}
+  },
+  "kek": {
+    "bookChapterSeparator": " ",
+    "chapterVerseSeparator": ":",
+    "verseRangeSeparator": "–",
+    "verseGroupSeparator": ", ",
+    "referenceSeparator": "; ",
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "psalm": "Salmos",
+      "official-declaration": "Awa’b’ejil Yehom"
+    },
+    "namedChapters": {
+      "fac-1": "Jalam-uuch 1",
+      "fac-2": "Jalam-uuch 2",
+      "fac-3": "Jalam-uuch 3"
+    }
+  },
+  "kk": {
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {},
+    "namedChapters": {}
+  },
+  "km": {
+    "bookChapterSeparator": " ",
+    "chapterVerseSeparator": ":",
+    "verseRangeSeparator": "–",
+    "verseGroupSeparator": ", ",
+    "referenceSeparator": "; ",
+    "numerals": [
+      "០",
+      "១",
+      "២",
+      "៣",
+      "៤",
+      "៥",
+      "៦",
+      "៧",
+      "៨",
+      "៩"
+    ],
+    "singularBookNames": {
+      "psalm": "ទំនុកដំកើង",
+      "official-declaration": "សេចក្ដី​ប្រកាស​ជា​ផ្លូវ​ការ"
+    },
+    "namedChapters": {
+      "fac-1": "វត្ថុ​ចម្លង​តាម លេខ​ទី ១",
+      "fac-2": "វត្ថុ​ចម្លង​តាម លេខ​ទី ២",
+      "fac-3": "វត្ថុ​ចម្លង​តាម លេខ​ទី ៣"
+    }
+  },
+  "ko": {
+    "bookChapterSeparator": " ",
+    "chapterVerseSeparator": ":",
+    "verseRangeSeparator": "~",
+    "verseGroupSeparator": ", ",
+    "referenceSeparator": "; ",
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "psalm": "시편",
+      "official-declaration": "공식선언"
+    },
+    "namedChapters": {
+      "fac-1": "사본 1",
+      "fac-2": "사본 2",
+      "fac-3": "사본 3"
+    }
+  },
+  "kos": {
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {},
+    "namedChapters": {}
+  },
+  "ksw": {
+    "singularBookNames": {},
+    "namedChapters": {}
+  },
+  "ln": {
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {},
+    "namedChapters": {}
+  },
+  "lo": {
+    "bookChapterSeparator": " ",
+    "chapterVerseSeparator": ":",
+    "verseRangeSeparator": "–",
+    "verseGroupSeparator": ", ",
+    "referenceSeparator": "; ",
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "psalm": "ເພງ​ສັນ​ລະ​ເສີນ",
+      "official-declaration": "ຂໍ້​ປະ​ກາດ​ຢ່າງ​ເປັນ​ທາງ​ການ"
+    },
+    "namedChapters": {
+      "fac-1": "ສຳ​ເນົາ ເລກ​ທີ 1",
+      "fac-2": "ສຳ​ເນົາ ເລກ​ທີ 2",
+      "fac-3": "ສຳ​ເນົາ ເລກ​ທີ 3"
+    }
+  },
+  "lt": {
+    "bookChapterSeparator": " ",
+    "chapterVerseSeparator": ":",
+    "verseRangeSeparator": "–",
+    "verseGroupSeparator": ", ",
+    "referenceSeparator": "; ",
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "psalm": "Psalmių",
+      "official-declaration": "Oficialus pareiškimas"
+    },
+    "namedChapters": {
+      "fac-1": "1 faksimilė",
+      "fac-2": "2 faksimilė",
+      "fac-3": "3 faksimilė"
+    }
+  },
+  "lua": {
+    "singularBookNames": {},
+    "namedChapters": {}
+  },
+  "lv": {
+    "bookChapterSeparator": " ",
+    "chapterVerseSeparator": ":",
+    "verseRangeSeparator": "–",
+    "verseGroupSeparator": ", ",
+    "referenceSeparator": "; ",
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "psalm": "psalmā"
+    },
+    "namedChapters": {
+      "fac-1": "Faksimils nr. 1",
+      "fac-2": "Faksimils nr. 2",
+      "fac-3": "Faksimils nr. 3"
+    }
+  },
+  "mam": {
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {},
+    "namedChapters": {}
+  },
+  "mg": {
+    "bookChapterSeparator": " ",
+    "chapterVerseSeparator": ":",
+    "verseRangeSeparator": "–",
+    "verseGroupSeparator": ", ",
+    "referenceSeparator": "; ",
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "psalm": "Salamo",
+      "official-declaration": "Filazana Ôfisialy"
+    },
+    "namedChapters": {
+      "fac-1": "Tahadika 1",
+      "fac-2": "Tahadika 2",
+      "fac-3": "Tahadika 3"
+    }
+  },
+  "mh": {
+    "bookChapterSeparator": " ",
+    "chapterVerseSeparator": ":",
+    "verseRangeSeparator": "–",
+    "verseGroupSeparator": ", ",
+    "referenceSeparator": "; ",
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "psalm": "Sam Ko",
+      "official-declaration": "Kean̄ Jān Kabun̄"
+    },
+    "namedChapters": {
+      "fac-1": "Juon Lukkuun Malen 1",
+      "fac-2": "Juon Lukkuun Malen 2",
+      "fac-3": "Juon Lukkuun Malen 3"
+    }
+  },
+  "mi": {
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "official-declaration": "Whakapuakitanga Tūturu"
+    },
+    "namedChapters": {
+      "fac-1": "Kape 1",
+      "fac-2": "Kape 2",
+      "fac-3": "Kape 3"
+    }
+  },
+  "mk": {
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {},
+    "namedChapters": {}
+  },
+  "mn": {
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "psalm": "Дуулал",
+      "official-declaration": "OD"
+    },
+    "namedChapters": {
+      "fac-1": "АБРАХАМЫН Дугаар 1",
+      "fac-2": "АБРАХАМЫН Дугаар 2",
+      "fac-3": "АБРАХАМЫН Дугаар 3"
+    }
+  },
+  "ms": {
+    "bookChapterSeparator": " ",
+    "chapterVerseSeparator": ":",
+    "verseRangeSeparator": "–",
+    "verseGroupSeparator": ", ",
+    "referenceSeparator": "; ",
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "psalm": "Mazmur",
+      "official-declaration": "Pengisytiharan Rasmi"
+    },
+    "namedChapters": {
+      "fac-1": "Salinan 1",
+      "fac-2": "Salinan 2",
+      "fac-3": "Salinan 3"
+    }
+  },
+  "mt": {
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {},
+    "namedChapters": {}
+  },
+  "my": {
+    "numerals": [
+      "၀",
+      "၁",
+      "၂",
+      "၃",
+      "၄",
+      "၅",
+      "၆",
+      "၇",
+      "၈",
+      "၉"
+    ],
+    "singularBookNames": {},
+    "namedChapters": {}
+  },
+  "ne": {
+    "numerals": [
+      "०",
+      "१",
+      "२",
+      "३",
+      "४",
+      "५",
+      "६",
+      "७",
+      "८",
+      "९"
+    ],
+    "singularBookNames": {},
+    "namedChapters": {}
+  },
+  "niu": {
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {},
+    "namedChapters": {}
+  },
+  "nl": {
+    "bookChapterSeparator": " ",
+    "chapterVerseSeparator": ":",
+    "verseRangeSeparator": "–",
+    "verseGroupSeparator": ", ",
+    "referenceSeparator": "; ",
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "psalm": "Psalmen",
+      "official-declaration": "Officiële Verklaring"
+    },
+    "namedChapters": {
+      "fac-1": "Facsimile nr. 1",
+      "fac-2": "Facsimile nr. 2",
+      "fac-3": "Facsimile nr. 3"
+    }
+  },
+  "no": {
+    "bookChapterSeparator": " ",
+    "chapterVerseSeparator": ":",
+    "verseRangeSeparator": "–",
+    "verseGroupSeparator": ", ",
+    "referenceSeparator": "; ",
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "psalm": "Salmene",
+      "official-declaration": "Offisiell erklæring"
+    },
+    "namedChapters": {
+      "fac-1": "Faksimile 1",
+      "fac-2": "Faksimile 2",
+      "fac-3": "Faksimile 3"
+    }
+  },
+  "nr": {
+    "singularBookNames": {},
+    "namedChapters": {}
+  },
+  "nso": {
+    "singularBookNames": {},
+    "namedChapters": {}
+  },
+  "nv": {
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {},
+    "namedChapters": {}
+  },
+  "ny": {
+    "singularBookNames": {},
+    "namedChapters": {}
+  },
+  "om": {
+    "singularBookNames": {},
+    "namedChapters": {}
+  },
+  "pag": {
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {},
+    "namedChapters": {}
+  },
+  "pam": {
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {},
+    "namedChapters": {}
+  },
+  "pap": {
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {},
+    "namedChapters": {}
+  },
+  "pau": {
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {},
+    "namedChapters": {}
+  },
+  "pl": {
+    "bookChapterSeparator": " ",
+    "chapterVerseSeparator": ":",
+    "verseRangeSeparator": "–",
+    "verseGroupSeparator": ", ",
+    "referenceSeparator": "; ",
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "psalm": "Ks. Psalmów",
+      "official-declaration": "Deklaracja oficjalna"
+    },
+    "namedChapters": {
+      "fac-1": "Faksymile I",
+      "fac-2": "Faksymile Ⅱ",
+      "fac-3": "Faksymile Ⅲ"
+    }
+  },
+  "pon": {
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {},
+    "namedChapters": {}
+  },
+  "pt": {
+    "bookChapterSeparator": " ",
+    "chapterVerseSeparator": ":",
+    "verseRangeSeparator": "–",
+    "verseGroupSeparator": ", ",
+    "referenceSeparator": "; ",
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "psalm": "Salmos",
+      "official-declaration": "Declaração Oficial"
+    },
+    "namedChapters": {
+      "fac-1": "Fac-símile 1",
+      "fac-2": "Fac-símile 2",
+      "fac-3": "Fac-símile 3"
+    }
+  },
+  "pt-PT": {
+    "singularBookNames": {},
+    "namedChapters": {}
+  },
+  "quc": {
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {},
+    "namedChapters": {}
+  },
+  "quh": {
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {},
+    "namedChapters": {}
+  },
+  "quz": {
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {},
+    "namedChapters": {}
+  },
+  "qvi": {
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {},
+    "namedChapters": {}
+  },
+  "rar": {
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "official-declaration": "Akakiteanga Tuatua A Te Aronga Mana"
+    },
+    "namedChapters": {
+      "fac-1": "Tataanga Numero 1",
+      "fac-2": "Tataanga Numero 2",
+      "fac-3": "Tataanga Numero 3"
+    }
+  },
+  "ro": {
+    "bookChapterSeparator": " ",
+    "chapterVerseSeparator": ":",
+    "verseRangeSeparator": "–",
+    "verseGroupSeparator": ", ",
+    "referenceSeparator": "; ",
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "psalm": "Psalmii",
+      "official-declaration": "Declaraţia oficială"
+    },
+    "namedChapters": {
+      "fac-1": "Facsimil 1",
+      "fac-2": "Facsimil 2",
+      "fac-3": "Facsimil 3"
+    }
+  },
+  "ru": {
+    "bookChapterSeparator": " ",
+    "chapterVerseSeparator": ":",
+    "verseRangeSeparator": "–",
+    "verseGroupSeparator": ", ",
+    "referenceSeparator": "; ",
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "psalm": "Псалтирь",
+      "official-declaration": "Официальное заявление"
+    },
+    "namedChapters": {
+      "fac-1": "Факсимиле 1",
+      "fac-2": "Факсимиле 2",
+      "fac-3": "Факсимиле 3"
+    }
+  },
+  "rw": {
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {},
+    "namedChapters": {}
+  },
+  "si": {
+    "singularBookNames": {},
+    "namedChapters": {}
+  },
+  "sk": {
+    "bookChapterSeparator": " ",
+    "chapterVerseSeparator": ":",
+    "verseRangeSeparator": "–",
+    "verseGroupSeparator": ", ",
+    "referenceSeparator": "; ",
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "psalm": "Žalme",
+      "official-declaration": "Oficiálne prehlásenie"
+    },
+    "namedChapters": {
+      "fac-1": "Faksimile 1",
+      "fac-2": "Faksimile 2",
+      "fac-3": "Faksimile 3"
+    }
+  },
+  "sl": {
+    "bookChapterSeparator": " ",
+    "chapterVerseSeparator": ":",
+    "verseRangeSeparator": "–",
+    "verseGroupSeparator": ", ",
+    "referenceSeparator": "; ",
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "psalm": "psalmu",
+      "official-declaration": "Uradna izjava"
+    },
+    "namedChapters": {
+      "fac-1": "Faksimile 1",
+      "fac-2": "Faksimile 2",
+      "fac-3": "Faksimile 3"
+    }
+  },
+  "sm": {
+    "bookChapterSeparator": " ",
+    "chapterVerseSeparator": ":",
+    "verseRangeSeparator": "–",
+    "verseGroupSeparator": ", ",
+    "referenceSeparator": "; ",
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "psalm": "Salamo",
+      "official-declaration": "Folafolaga Aloaia—"
+    },
+    "namedChapters": {
+      "fac-1": "Ata 1",
+      "fac-2": "Ata 2",
+      "fac-3": "Ata 3"
+    }
+  },
+  "sn": {
+    "bookChapterSeparator": " ",
+    "chapterVerseSeparator": ":",
+    "verseRangeSeparator": "–",
+    "verseGroupSeparator": ", ",
+    "referenceSeparator": "; ",
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "psalm": "muPisarema",
+      "official-declaration": "Chirevo cheChechi"
+    },
+    "namedChapters": {
+      "fac-1": "Mufanikiso 1",
+      "fac-2": "Mufanikiso 2",
+      "fac-3": "Mufanikiso 3"
+    }
+  },
+  "sq": {
+    "bookChapterSeparator": " ",
+    "chapterVerseSeparator": ":",
+    "verseRangeSeparator": "–",
+    "verseGroupSeparator": ", ",
+    "referenceSeparator": "; ",
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "psalm": "Psalmeve",
+      "official-declaration": "Deklarata Zyrtare"
+    },
+    "namedChapters": {
+      "fac-1": "Faksimile 1",
+      "fac-2": "Faksimile 2",
+      "fac-3": "Faksimile 3"
+    }
+  },
+  "sr": {
+    "bookChapterSeparator": " ",
+    "chapterVerseSeparator": ":",
+    "verseRangeSeparator": "–",
+    "verseGroupSeparator": ", ",
+    "referenceSeparator": "; ",
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "psalm": "Псалмима",
+      "official-declaration": "Званични проглас"
+    },
+    "namedChapters": {
+      "fac-1": "Цртеж 1",
+      "fac-2": "Цртеж 2",
+      "fac-3": "Цртеж 3"
+    }
+  },
+  "ss": {
+    "singularBookNames": {},
+    "namedChapters": {}
+  },
+  "st": {
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {},
+    "namedChapters": {}
+  },
+  "sto": {
+    "singularBookNames": {},
+    "namedChapters": {}
+  },
+  "sv": {
+    "bookChapterSeparator": " ",
+    "chapterVerseSeparator": ":",
+    "verseRangeSeparator": "–",
+    "verseGroupSeparator": ", ",
+    "referenceSeparator": "; ",
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "psalm": "Psaltaren",
+      "official-declaration": "Officiellt tillkännagivande"
+    },
+    "namedChapters": {
+      "fac-1": "Faksimil 1",
+      "fac-2": "Faksimil 2",
+      "fac-3": "Faksimil 3"
+    }
+  },
+  "sw": {
+    "bookChapterSeparator": " ",
+    "chapterVerseSeparator": ":",
+    "verseRangeSeparator": "–",
+    "verseGroupSeparator": ", ",
+    "referenceSeparator": "; ",
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "psalm": "Zaburi",
+      "official-declaration": "Tamko Rasmi"
+    },
+    "namedChapters": {
+      "fac-1": "Nakala Halisi 1",
+      "fac-2": "Nakala Halisi 2",
+      "fac-3": "Nakala Halisi 3"
+    }
+  },
+  "ta": {
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "psalm": "சங்கீதம்",
+      "official-declaration": "அதிகாரப்பூர்வ பிரகடனம்"
+    },
+    "namedChapters": {
+      "fac-1": "நகல் 1",
+      "fac-2": "நகல் 2",
+      "fac-3": "நகல் 3"
+    }
+  },
+  "te": {
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "psalm": "కీర్తనలు",
+      "official-declaration": "అధికారిక ప్రకటన"
+    },
+    "namedChapters": {
+      "fac-1": "నమూనా 1",
+      "fac-2": "నమూనా 2",
+      "fac-3": "నమూనా 3"
+    }
+  },
+  "th": {
+    "bookChapterSeparator": " ",
+    "chapterVerseSeparator": ":",
+    "verseRangeSeparator": "–",
+    "verseGroupSeparator": ", ",
+    "referenceSeparator": "; ",
+    "numerals": [
+      "๐",
+      "๑",
+      "๒",
+      "๓",
+      "๔",
+      "๕",
+      "๖",
+      "๗",
+      "๘",
+      "๙"
+    ],
+    "singularBookNames": {
+      "psalm": "สดุดี",
+      "official-declaration": "ข้อประกาศอย่างเป็นทางการ"
+    },
+    "namedChapters": {
+      "fac-1": "สำเนาหมายเลข ๑",
+      "fac-2": "สำเนาหมายเลข ๒",
+      "fac-3": "สำเนาหมายเลข ๓"
+    }
+  },
+  "tl": {
+    "bookChapterSeparator": " ",
+    "chapterVerseSeparator": ":",
+    "verseRangeSeparator": "–",
+    "verseGroupSeparator": ", ",
+    "referenceSeparator": "; ",
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "psalm": "Awit",
+      "official-declaration": "Opisyal na Pahayag"
+    },
+    "namedChapters": {
+      "fac-1": "Paksimile 1",
+      "fac-2": "Paksimile 2",
+      "fac-3": "Paksimile 3"
+    }
+  },
+  "tn": {
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "official-declaration": "Kitsiso Semmuso"
+    },
+    "namedChapters": {
+      "fac-1": "Fekese 1",
+      "fac-2": "Fekese 2",
+      "fac-3": "Fekese 3"
+    }
+  },
+  "to": {
+    "bookChapterSeparator": " ",
+    "chapterVerseSeparator": ":",
+    "verseRangeSeparator": "–",
+    "verseGroupSeparator": ", ",
+    "referenceSeparator": "; ",
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "psalm": "Saame",
+      "official-declaration": "Fanongonongo Fakamafaiʻi"
+    },
+    "namedChapters": {
+      "fac-1": "Facsimile 1",
+      "fac-2": "Facsimile 2",
+      "fac-3": "Facsimile 3"
+    }
+  },
+  "tpi": {
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {},
+    "namedChapters": {}
+  },
+  "tr": {
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "official-declaration": "Resmi Bildiri"
+    },
+    "namedChapters": {}
+  },
+  "tvl": {
+    "singularBookNames": {},
+    "namedChapters": {}
+  },
+  "tw": {
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "official-declaration": "Asɔre no Dawurubɔ"
+    },
+    "namedChapters": {
+      "fac-1": "Nhwɛsoɔ Pɛpɛɛpɛ 1",
+      "fac-2": "Nhwɛsoɔ Pɛpɛɛpɛ 2",
+      "fac-3": "Nhwɛsoɔ Pɛpɛɛpɛ 3"
+    }
+  },
+  "ty": {
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "psalm": "Salamo",
+      "official-declaration": "Fa’a’itera’a mana"
+    },
+    "namedChapters": {
+      "fac-1": "Hōho’a 1",
+      "fac-2": "Hōho’a 2",
+      "fac-3": "Hōho’a 3"
+    }
+  },
+  "tzo": {
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {},
+    "namedChapters": {}
+  },
+  "uk": {
+    "bookChapterSeparator": " ",
+    "chapterVerseSeparator": ":",
+    "verseRangeSeparator": "–",
+    "verseGroupSeparator": ", ",
+    "referenceSeparator": "; ",
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "psalm": "Псалми",
+      "official-declaration": "Офіційна декларація"
+    },
+    "namedChapters": {
+      "fac-1": "Факсиміле №1",
+      "fac-2": "Факсиміле №2",
+      "fac-3": "Факсиміле №3"
+    }
+  },
+  "ur": {
+    "numerals": [
+      "۰",
+      "۱",
+      "۲",
+      "۳",
+      "۴",
+      "۵",
+      "۶",
+      "۷",
+      "۸",
+      "۹"
+    ],
+    "singularBookNames": {
+      "official-declaration": "باضابطا اِعلان"
+    },
+    "namedChapters": {
+      "fac-1": "شبِیہ ۱",
+      "fac-2": "شبِیہ ۲",
+      "fac-3": "شبِیہ ۳"
+    }
+  },
+  "vi": {
+    "bookChapterSeparator": " ",
+    "chapterVerseSeparator": ":",
+    "verseRangeSeparator": "–",
+    "verseGroupSeparator": ", ",
+    "referenceSeparator": "; ",
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "psalm": "Thi Thiên",
+      "official-declaration": "Tuyên Ngôn Chính Thức"
+    },
+    "namedChapters": {
+      "fac-1": "Hình Mô Phỏng 1",
+      "fac-2": "Hình Mô Phỏng 2",
+      "fac-3": "Hình Mô Phỏng 3"
+    }
+  },
+  "war": {
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {},
+    "namedChapters": {}
+  },
+  "xh": {
+    "bookChapterSeparator": " ",
+    "chapterVerseSeparator": ":",
+    "verseRangeSeparator": "–",
+    "verseGroupSeparator": ", ",
+    "referenceSeparator": "; ",
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "psalm": "IiNdumiso",
+      "official-declaration": "ISibhengezo esiseMthethweni"
+    },
+    "namedChapters": {
+      "fac-1": "Efana Kanye 1",
+      "fac-2": "Efana Kanye 2",
+      "fac-3": "Efana Kanye 3"
+    }
+  },
+  "yap": {
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {},
+    "namedChapters": {}
+  },
+  "yo": {
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "official-declaration": "Ìkéde Lábẹ́ Àṣẹ"
+    },
+    "namedChapters": {
+      "fac-1": "Àwòrán 1",
+      "fac-2": "Àwòrán 2",
+      "fac-3": "Àwòrán 3"
+    }
+  },
+  "yua": {
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {},
+    "namedChapters": {}
+  },
+  "yue-Hant": {
+    "bookChapterSeparator": "",
+    "chapterVerseSeparator": "：",
+    "verseRangeSeparator": "-",
+    "verseGroupSeparator": "，",
+    "referenceSeparator": "；",
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "psalm": "詩篇第",
+      "official-declaration": "正式宣言"
+    },
+    "namedChapters": {
+      "fac-1": "複製圖1",
+      "fac-2": "複製圖2",
+      "fac-3": "複製圖3"
+    }
+  },
+  "zu": {
+    "bookChapterSeparator": " ",
+    "chapterVerseSeparator": ":",
+    "verseRangeSeparator": "–",
+    "verseGroupSeparator": ", ",
+    "referenceSeparator": "; ",
+    "numerals": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "singularBookNames": {
+      "psalm": "kumaHubo",
+      "official-declaration": "IZwi EliGunyaziwe"
+    },
+    "namedChapters": {
+      "fac-1": "Umfanekiso wokuqala",
+      "fac-2": "Umfanekiso Owesibili",
+      "fac-3": "Umfanekiso Owesithathu"
+    }
+  }
+}

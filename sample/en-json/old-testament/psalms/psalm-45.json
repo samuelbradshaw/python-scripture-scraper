@@ -1,0 +1,141 @@
+{
+  "name": "Psalm 45",
+  "abbrev": "Psalm 45",
+  "number": "45",
+  "churchUri": "/scriptures/ot/ps/45",
+  "paragraphs": [
+    {
+      "slug": "psalm-45-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 45",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-45-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "To the chief Musician upon Shoshannim, for the sons of Korah, Maschil, A Song of loves.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-45-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "My heart is inditing a good matter: I speak of the things which I have made touching the king: my tongue <span class=\"clarity-word\">is</span> the pen of a ready writer.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-45-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Thou art fairer than the children of men: grace is poured into thy lips: therefore God hath blessed thee for ever.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-45-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Gird thy sword upon <span class=\"clarity-word\">thy</span> thigh, O <span class=\"clarity-word\">most</span> mighty, with thy glory and thy majesty.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-45-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And in thy majesty ride prosperously because of truth and meekness <span class=\"clarity-word\">and</span> righteousness; and thy right hand shall teach thee terrible things.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-45-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Thine arrows <span class=\"clarity-word\">are</span> sharp in the heart of the king’s enemies; <span class=\"clarity-word\">whereby</span> the people fall under thee.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-45-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Thy throne, O God, <span class=\"clarity-word\">is</span> for ever and ever: the sceptre of thy kingdom <span class=\"clarity-word\">is</span> a right sceptre.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-45-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Thou lovest righteousness, and hatest wickedness: therefore God, thy God, hath anointed thee with the oil of gladness above thy fellows.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-45-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "All thy garments <span class=\"clarity-word\">smell</span> of myrrh, and aloes, <span class=\"clarity-word\">and</span> cassia, out of the ivory palaces, whereby they have made thee glad.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "psalm-45-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Kings’ daughters <span class=\"clarity-word\">were</span> among thy honourable women: upon thy right hand did stand the queen in gold of Ophir.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "psalm-45-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Hearken, O daughter, and consider, and incline thine ear; forget also thine own people, and thy father’s house;",
+      "churchId": "p10"
+    },
+    {
+      "slug": "psalm-45-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "So shall the king greatly desire thy beauty: for he <span class=\"clarity-word\">is</span> thy Lord; and worship thou him.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "psalm-45-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And the daughter of Tyre <span class=\"clarity-word\">shall be there</span> with a gift; <span class=\"clarity-word\">even</span> the rich among the people shall entreat thy favour.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "psalm-45-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "The king’s daughter <span class=\"clarity-word\">is</span> all glorious within: her clothing <span class=\"clarity-word\">is</span> of wrought gold.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "psalm-45-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "She shall be brought unto the king in raiment of needlework: the virgins her companions that follow her shall be brought unto thee.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "psalm-45-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "With gladness and rejoicing shall they be brought: they shall enter into the king’s palace.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "psalm-45-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Instead of thy fathers shall be thy children, whom thou mayest make princes in all the earth.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "psalm-45-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "I will make thy name to be remembered in all generations: therefore shall the people praise thee for ever and ever.",
+      "churchId": "p17"
+    }
+  ]
+}

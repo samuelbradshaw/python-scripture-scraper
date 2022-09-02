@@ -1,0 +1,176 @@
+{
+  "name": "Psalm 38",
+  "abbrev": "Psalm 38",
+  "number": "38",
+  "churchUri": "/scriptures/ot/ps/38",
+  "paragraphs": [
+    {
+      "slug": "psalm-38-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 38",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-38-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "A Psalm of David, to bring to remembrance.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-38-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "O <span class=\"small-caps\">Lord</span>, rebuke me not in thy wrath: neither chasten me in thy hot displeasure.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-38-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "For thine arrows stick fast in me, and thy hand presseth me sore.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-38-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "<span class=\"clarity-word\">There is</span> no soundness in my flesh because of thine anger; neither <span class=\"clarity-word\">is there any</span> rest in my bones because of my sin.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-38-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "For mine iniquities are gone over mine head: as an heavy burden they are too heavy for me.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-38-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "My wounds stink <span class=\"clarity-word\">and</span> are corrupt because of my foolishness.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-38-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "I am troubled; I am bowed down greatly; I go mourning all the day long.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-38-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "For my loins are filled with a loathsome <span class=\"clarity-word\">disease:</span> and <span class=\"clarity-word\">there is</span> no soundness in my flesh.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-38-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "I am feeble and sore broken: I have roared by reason of the disquietness of my heart.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "psalm-38-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Lord, all my desire <span class=\"clarity-word\">is</span> before thee; and my groaning is not hid from thee.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "psalm-38-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "My heart panteth, my strength faileth me: as for the light of mine eyes, it also is gone from me.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "psalm-38-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "My lovers and my friends stand aloof from my sore; and my kinsmen stand afar off.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "psalm-38-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "They also that seek after my life lay snares <span class=\"clarity-word\">for me:</span> and they that seek my hurt speak mischievous things, and imagine deceits all the day long.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "psalm-38-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "But I, as a deaf <span class=\"clarity-word\">man,</span> heard not; and <span class=\"clarity-word\">I was</span> as a dumb man <span class=\"clarity-word\">that</span> openeth not his mouth.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "psalm-38-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Thus I was as a man that heareth not, and in whose mouth <span class=\"clarity-word\">are</span> no reproofs.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "psalm-38-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "For in thee, O <span class=\"small-caps\">Lord</span>, do I hope: thou wilt hear, O Lord my God.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "psalm-38-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "For I said, <span class=\"clarity-word\">Hear me,</span> lest <span class=\"clarity-word\">otherwise</span> they should rejoice over me: when my foot slippeth, they magnify <span class=\"clarity-word\">themselves</span> against me.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "psalm-38-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "For I <span class=\"clarity-word\">am</span> ready to halt, and my sorrow <span class=\"clarity-word\">is</span> continually before me.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "psalm-38-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "For I will declare mine iniquity; I will be sorry for my sin.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "psalm-38-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "But mine enemies <span class=\"clarity-word\">are</span> lively, <span class=\"clarity-word\">and</span> they are strong: and they that hate me wrongfully are multiplied.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "psalm-38-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "They also that render evil for good are mine adversaries; because I follow <span class=\"clarity-word\">the thing that</span> good <span class=\"clarity-word\">is.</span>",
+      "churchId": "p20"
+    },
+    {
+      "slug": "psalm-38-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Forsake me not, O <span class=\"small-caps\">Lord</span>: O my God, be not far from me.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "psalm-38-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "Make haste to help me, O Lord my salvation.",
+      "churchId": "p22"
+    }
+  ]
+}

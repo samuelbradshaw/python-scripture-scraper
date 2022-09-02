@@ -1,0 +1,134 @@
+{
+  "name": "Zechariah 11",
+  "abbrev": "Zech. 11",
+  "number": "11",
+  "churchUri": "/scriptures/ot/zech/11",
+  "paragraphs": [
+    {
+      "slug": "zechariah-11-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 11",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "zechariah-11-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Open thy doors, O Lebanon, that the fire may devour thy cedars.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "zechariah-11-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Howl, fir tree; for the cedar is fallen; because the mighty are spoiled: howl, O ye oaks of Bashan; for the forest of the vintage is come down.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "zechariah-11-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "¶ <span class=\"clarity-word\">There is</span> a voice of the howling of the shepherds; for their glory is spoiled: a voice of the roaring of young lions; for the pride of Jordan is spoiled.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "zechariah-11-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Thus saith the <span class=\"small-caps\">Lord</span> my God; Feed the flock of the slaughter;",
+      "churchId": "p4"
+    },
+    {
+      "slug": "zechariah-11-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Whose possessors slay them, and hold themselves not guilty: and they that sell them say, Blessed <span class=\"clarity-word\">be</span> the <span class=\"small-caps\">Lord</span>; for I am rich: and their own shepherds pity them not.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "zechariah-11-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "For I will no more pity the inhabitants of the land, saith the <span class=\"small-caps\">Lord</span>: but, lo, I will deliver the men every one into his neighbour’s hand, and into the hand of his king: and they shall smite the land, and out of their hand I will not deliver <span class=\"clarity-word\">them.</span>",
+      "churchId": "p6"
+    },
+    {
+      "slug": "zechariah-11-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And I will feed the flock of slaughter, <span class=\"clarity-word\">even</span> you, O poor of the flock. And I took unto me two staves; the one I called Beauty, and the other I called Bands; and I fed the flock.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "zechariah-11-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Three shepherds also I cut off in one month; and my soul lothed them, and their soul also abhorred me.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "zechariah-11-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Then said I, I will not feed you: that that dieth, let it die; and that that is to be cut off, let it be cut off; and let the rest eat every one the flesh of another.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "zechariah-11-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "¶ And I took my staff, <span class=\"clarity-word\">even</span> Beauty, and cut it asunder, that I might break my covenant which I had made with all the people.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "zechariah-11-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And it was broken in that day: and so the poor of the flock that waited upon me knew that it <span class=\"clarity-word\">was</span> the word of the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "zechariah-11-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And I said unto them, If ye think good, give <span class=\"clarity-word\">me</span> my price; and if not, forbear. So they weighed for my price thirty <span class=\"clarity-word\">pieces</span> of silver.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "zechariah-11-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And the <span class=\"small-caps\">Lord</span> said unto me, Cast it unto the potter: a goodly price that I was prised at of them. And I took the thirty <span class=\"clarity-word\">pieces</span> of silver, and cast them to the potter in the house of the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "zechariah-11-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Then I cut asunder mine other staff, <span class=\"clarity-word\">even</span> Bands, that I might break the brotherhood between Judah and Israel.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "zechariah-11-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "¶ And the <span class=\"small-caps\">Lord</span> said unto me, Take unto thee yet the instruments of a foolish shepherd.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "zechariah-11-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "For, lo, I will raise up a shepherd in the land, <span class=\"clarity-word\">which</span> shall not visit those that be cut off, neither shall seek the young one, nor heal that that is broken, nor feed that that standeth still: but he shall eat the flesh of the fat, and tear their claws in pieces.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "zechariah-11-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Woe to the idol shepherd that leaveth the flock! the sword <span class=\"clarity-word\">shall be</span> upon his arm, and upon his right eye: his arm shall be clean dried up, and his right eye shall be utterly darkened.",
+      "churchId": "p17"
+    }
+  ]
+}

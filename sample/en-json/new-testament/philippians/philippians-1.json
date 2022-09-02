@@ -1,0 +1,232 @@
+{
+  "name": "Philippians 1",
+  "abbrev": "Philip. 1",
+  "number": "1",
+  "churchUri": "/scriptures/nt/philip/1",
+  "paragraphs": [
+    {
+      "slug": "philippians-1-title1",
+      "type": "book-title",
+      "number": null,
+      "content": "<small>The Epistle of Paul the Apostle </small><small>to the </small>Philippians",
+      "churchId": "title1"
+    },
+    {
+      "slug": "philippians-1-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 1",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "philippians-1-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Paul and Timotheus, the servants of Jesus Christ, to all the saints in Christ Jesus which are at Philippi, with the bishops and deacons:",
+      "churchId": "p1"
+    },
+    {
+      "slug": "philippians-1-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Grace <span class=\"clarity-word\">be</span> unto you, and peace, from God our Father, and <span class=\"clarity-word\">from</span> the Lord Jesus Christ.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "philippians-1-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "I thank my God upon every remembrance of you,",
+      "churchId": "p3"
+    },
+    {
+      "slug": "philippians-1-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Always in every prayer of mine for you all making request with joy,",
+      "churchId": "p4"
+    },
+    {
+      "slug": "philippians-1-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "For your fellowship in the gospel from the first day until now;",
+      "churchId": "p5"
+    },
+    {
+      "slug": "philippians-1-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Being confident of this very thing, that he which hath begun a good work in you will perform <span class=\"clarity-word\">it</span> until the day of Jesus Christ:",
+      "churchId": "p6"
+    },
+    {
+      "slug": "philippians-1-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Even as it is meet for me to think this of you all, because I have you in my heart; inasmuch as both in my bonds, and in the defence and confirmation of the gospel, ye all are partakers of my grace.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "philippians-1-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "For God is my record, how greatly I long after you all in the bowels of Jesus Christ.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "philippians-1-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And this I pray, that your love may abound yet more and more in knowledge and <span class=\"clarity-word\">in</span> all judgment;",
+      "churchId": "p9"
+    },
+    {
+      "slug": "philippians-1-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "That ye may approve things that are excellent; that ye may be sincere and without offence till the day of Christ;",
+      "churchId": "p10"
+    },
+    {
+      "slug": "philippians-1-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Being filled with the fruits of righteousness, which are by Jesus Christ, unto the glory and praise of God.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "philippians-1-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "But I would ye should understand, brethren, that the things <span class=\"clarity-word\">which happened</span> unto me have fallen out rather unto the furtherance of the gospel;",
+      "churchId": "p12"
+    },
+    {
+      "slug": "philippians-1-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "So that my bonds in Christ are manifest in all the palace, and in all other <span class=\"clarity-word\">places;</span>",
+      "churchId": "p13"
+    },
+    {
+      "slug": "philippians-1-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And many of the brethren in the Lord, waxing confident by my bonds, are much more bold to speak the word without fear.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "philippians-1-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Some indeed preach Christ even of envy and strife; and some also of good will:",
+      "churchId": "p15"
+    },
+    {
+      "slug": "philippians-1-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "The one preach Christ of contention, not sincerely, supposing to add affliction to my bonds:",
+      "churchId": "p16"
+    },
+    {
+      "slug": "philippians-1-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "But the other of love, knowing that I am set for the defence of the gospel.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "philippians-1-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "What then? notwithstanding, every way, whether in pretence, or in truth, Christ is preached; and I therein do rejoice, yea, and will rejoice.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "philippians-1-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "For I know that this shall turn to my salvation through your prayer, and the supply of the Spirit of Jesus Christ,",
+      "churchId": "p19"
+    },
+    {
+      "slug": "philippians-1-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "According to my earnest expectation and <span class=\"clarity-word\">my</span> hope, that in nothing I shall be ashamed, but <span class=\"clarity-word\">that</span> with all boldness, as always, <span class=\"clarity-word\">so</span> now also Christ shall be magnified in my body, whether <span class=\"clarity-word\">it be</span> by life, or by death.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "philippians-1-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "For to me to live <span class=\"clarity-word\">is</span> Christ, and to die <span class=\"clarity-word\">is</span> gain.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "philippians-1-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "But if I live in the flesh, this <span class=\"clarity-word\">is</span> the fruit of my labour: yet what I shall choose I wot not.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "philippians-1-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "For I am in a strait betwixt two, having a desire to depart, and to be with Christ; which is far better:",
+      "churchId": "p23"
+    },
+    {
+      "slug": "philippians-1-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "Nevertheless to abide in the flesh <span class=\"clarity-word\">is</span> more needful for you.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "philippians-1-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And having this confidence, I know that I shall abide and continue with you all for your furtherance and joy of faith;",
+      "churchId": "p25"
+    },
+    {
+      "slug": "philippians-1-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "That your rejoicing may be more abundant in Jesus Christ for me by my coming to you again.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "philippians-1-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "Only let your conversation be as it becometh the gospel of Christ: that whether I come and see you, or else be absent, I may hear of your affairs, that ye stand fast in one spirit, with one mind striving together for the faith of the gospel;",
+      "churchId": "p27"
+    },
+    {
+      "slug": "philippians-1-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And in nothing terrified by your adversaries: which is to them an evident token of perdition, but to you of salvation, and that of God.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "philippians-1-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "For unto you it is given in the behalf of Christ, not only to believe on him, but also to suffer for his sake;",
+      "churchId": "p29"
+    },
+    {
+      "slug": "philippians-1-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "Having the same conflict which ye saw in me, and now hear <span class=\"clarity-word\">to be</span> in me.",
+      "churchId": "p30"
+    }
+  ]
+}

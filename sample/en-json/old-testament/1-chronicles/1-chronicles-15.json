@@ -1,0 +1,218 @@
+{
+  "name": "1 Chronicles 15",
+  "abbrev": "1 Chr. 15",
+  "number": "15",
+  "churchUri": "/scriptures/ot/1-chr/15",
+  "paragraphs": [
+    {
+      "slug": "1-chronicles-15-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 15",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "1-chronicles-15-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And <span class=\"clarity-word\">David</span> made him houses in the city of David, and prepared a place for the ark of God, and pitched for it a tent.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "1-chronicles-15-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Then David said, None ought to carry the ark of God but the Levites: for them hath the <span class=\"small-caps\">Lord</span> chosen to carry the ark of God, and to minister unto him for ever.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "1-chronicles-15-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And David gathered all Israel together to Jerusalem, to bring up the ark of the <span class=\"small-caps\">Lord</span> unto his place, which he had prepared for it.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "1-chronicles-15-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And David assembled the children of Aaron, and the Levites:",
+      "churchId": "p4"
+    },
+    {
+      "slug": "1-chronicles-15-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Of the sons of Kohath; Uriel the chief, and his brethren an hundred and twenty:",
+      "churchId": "p5"
+    },
+    {
+      "slug": "1-chronicles-15-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Of the sons of Merari; Asaiah the chief, and his brethren two hundred and twenty:",
+      "churchId": "p6"
+    },
+    {
+      "slug": "1-chronicles-15-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Of the sons of Gershom; Joel the chief, and his brethren an hundred and thirty:",
+      "churchId": "p7"
+    },
+    {
+      "slug": "1-chronicles-15-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Of the sons of Elizaphan; Shemaiah the chief, and his brethren two hundred:",
+      "churchId": "p8"
+    },
+    {
+      "slug": "1-chronicles-15-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Of the sons of Hebron; Eliel the chief, and his brethren fourscore:",
+      "churchId": "p9"
+    },
+    {
+      "slug": "1-chronicles-15-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Of the sons of Uzziel; Amminadab the chief, and his brethren an hundred and twelve.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "1-chronicles-15-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And David called for Zadok and Abiathar the priests, and for the Levites, for Uriel, Asaiah, and Joel, Shemaiah, and Eliel, and Amminadab,",
+      "churchId": "p11"
+    },
+    {
+      "slug": "1-chronicles-15-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And said unto them, Ye <span class=\"clarity-word\">are</span> the chief of the fathers of the Levites: sanctify yourselves, <span class=\"clarity-word\">both</span> ye and your brethren, that ye may bring up the ark of the <span class=\"small-caps\">Lord</span> God of Israel unto <span class=\"clarity-word\">the place that</span> I have prepared for it.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "1-chronicles-15-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "For because ye <span class=\"clarity-word\">did it</span> not at the first, the <span class=\"small-caps\">Lord</span> our God made a breach upon us, for that we sought him not after the due order.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "1-chronicles-15-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "So the priests and the Levites sanctified themselves to bring up the ark of the <span class=\"small-caps\">Lord</span> God of Israel.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "1-chronicles-15-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And the children of the Levites bare the ark of God upon their shoulders with the staves thereon, as Moses commanded according to the word of the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "1-chronicles-15-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And David spake to the chief of the Levites to appoint their brethren <span class=\"clarity-word\">to be</span> the singers with instruments of musick, psalteries and harps and cymbals, sounding, by lifting up the voice with joy.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "1-chronicles-15-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "So the Levites appointed Heman the son of Joel; and of his brethren, Asaph the son of Berechiah; and of the sons of Merari their brethren, Ethan the son of Kushaiah;",
+      "churchId": "p17"
+    },
+    {
+      "slug": "1-chronicles-15-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And with them their brethren of the second <span class=\"clarity-word\">degree,</span> Zechariah, Ben, and Jaaziel, and Shemiramoth, and Jehiel, and Unni, Eliab, and Benaiah, and Maaseiah, and Mattithiah, and Elipheleh, and Mikneiah, and Obed-edom, and Jeiel, the porters.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "1-chronicles-15-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "So the singers, Heman, Asaph, and Ethan, <span class=\"clarity-word\">were appointed</span> to sound with cymbals of brass;",
+      "churchId": "p19"
+    },
+    {
+      "slug": "1-chronicles-15-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And Zechariah, and Aziel, and Shemiramoth, and Jehiel, and Unni, and Eliab, and Maaseiah, and Benaiah, with psalteries on Alamoth;",
+      "churchId": "p20"
+    },
+    {
+      "slug": "1-chronicles-15-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And Mattithiah, and Elipheleh, and Mikneiah, and Obed-edom, and Jeiel, and Azaziah, with harps on the Sheminith to excel.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "1-chronicles-15-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And Chenaniah, chief of the Levites, <span class=\"clarity-word\">was</span> for song: he instructed about the song, because he <span class=\"clarity-word\">was</span> skilful.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "1-chronicles-15-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And Berechiah and Elkanah <span class=\"clarity-word\">were</span> doorkeepers for the ark.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "1-chronicles-15-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And Shebaniah, and Jehoshaphat, and Nethaneel, and Amasai, and Zechariah, and Benaiah, and Eliezer, the priests, did blow with the trumpets before the ark of God: and Obed-edom and Jehiah <span class=\"clarity-word\">were</span> doorkeepers for the ark.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "1-chronicles-15-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "¶ So David, and the elders of Israel, and the captains over thousands, went to bring up the ark of the covenant of the <span class=\"small-caps\">Lord</span> out of the house of Obed-edom with joy.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "1-chronicles-15-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And it came to pass, when God helped the Levites that bare the ark of the covenant of the <span class=\"small-caps\">Lord</span>, that they offered seven bullocks and seven rams.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "1-chronicles-15-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And David <span class=\"clarity-word\">was</span> clothed with a robe of fine linen, and all the Levites that bare the ark, and the singers, and Chenaniah the master of the song with the singers: David also <span class=\"clarity-word\">had</span> upon him an ephod of linen.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "1-chronicles-15-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "Thus all Israel brought up the ark of the covenant of the <span class=\"small-caps\">Lord</span> with shouting, and with sound of the cornet, and with trumpets, and with cymbals, making a noise with psalteries and harps.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "1-chronicles-15-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "¶ And it came to pass, <span class=\"clarity-word\">as</span> the ark of the covenant of the <span class=\"small-caps\">Lord</span> came to the city of David, that Michal the daughter of Saul looking out at a window saw king David dancing and playing: and she despised him in her heart.",
+      "churchId": "p29"
+    }
+  ]
+}

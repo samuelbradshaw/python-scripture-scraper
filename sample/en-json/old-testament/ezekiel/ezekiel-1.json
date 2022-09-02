@@ -1,0 +1,218 @@
+{
+  "name": "Ezekiel 1",
+  "abbrev": "Ezek. 1",
+  "number": "1",
+  "churchUri": "/scriptures/ot/ezek/1",
+  "paragraphs": [
+    {
+      "slug": "ezekiel-1-title1",
+      "type": "book-title",
+      "number": null,
+      "content": "<small>The Book of the Prophet </small>Ezekiel",
+      "churchId": "title1"
+    },
+    {
+      "slug": "ezekiel-1-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 1",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "ezekiel-1-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Now it came to pass in the thirtieth year, in the fourth <span class=\"clarity-word\">month,</span> in the fifth <span class=\"clarity-word\">day</span> of the month, as I <span class=\"clarity-word\">was</span> among the captives by the river of Chebar, <span class=\"clarity-word\">that</span> the heavens were opened, and I saw visions of God.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "ezekiel-1-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "In the fifth <span class=\"clarity-word\">day</span> of the month, which <span class=\"clarity-word\">was</span> the fifth year of king Jehoiachin’s captivity,",
+      "churchId": "p2"
+    },
+    {
+      "slug": "ezekiel-1-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "The word of the <span class=\"small-caps\">Lord</span> came expressly unto Ezekiel the priest, the son of Buzi, in the land of the Chaldeans by the river Chebar; and the hand of the <span class=\"small-caps\">Lord</span> was there upon him.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "ezekiel-1-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "¶ And I looked, and, behold, a whirlwind came out of the north, a great cloud, and a fire infolding itself, and a brightness <span class=\"clarity-word\">was</span> about it, and out of the midst thereof as the colour of amber, out of the midst of the fire.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "ezekiel-1-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "Also out of the midst thereof <span class=\"clarity-word\">came</span> the likeness of four living creatures. And this <span class=\"clarity-word\">was</span> their appearance; they had the likeness of a man.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "ezekiel-1-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And every one had four faces, and every one had four wings.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "ezekiel-1-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And their feet <span class=\"clarity-word\">were</span> straight feet; and the sole of their feet <span class=\"clarity-word\">was</span> like the sole of a calf’s foot: and they sparkled like the colour of burnished brass.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "ezekiel-1-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And <span class=\"clarity-word\">they had</span> the hands of a man under their wings on their four sides; and they four had their faces and their wings.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "ezekiel-1-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Their wings <span class=\"clarity-word\">were</span> joined one to another; they turned not when they went; they went every one straight forward.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "ezekiel-1-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "As for the likeness of their faces, they four had the face of a man, and the face of a lion, on the right side: and they four had the face of an ox on the left side; they four also had the face of an eagle.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "ezekiel-1-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Thus <span class=\"clarity-word\">were</span> their faces: and their wings <span class=\"clarity-word\">were</span> stretched upward; two <span class=\"clarity-word\">wings</span> of every one <span class=\"clarity-word\">were</span> joined one to another, and two covered their bodies.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "ezekiel-1-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And they went every one straight forward: whither the spirit was to go, they went; <span class=\"clarity-word\">and</span> they turned not when they went.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "ezekiel-1-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "As for the likeness of the living creatures, their appearance <span class=\"clarity-word\">was</span> like burning coals of fire, <span class=\"clarity-word\">and</span> like the appearance of lamps: it went up and down among the living creatures; and the fire was bright, and out of the fire went forth lightning.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "ezekiel-1-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And the living creatures ran and returned as the appearance of a flash of lightning.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "ezekiel-1-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "¶ Now as I beheld the living creatures, behold one wheel upon the earth by the living creatures, with his four faces.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "ezekiel-1-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "The appearance of the wheels and their work <span class=\"clarity-word\">was</span> like unto the colour of a beryl: and they four had one likeness: and their appearance and their work <span class=\"clarity-word\">was</span> as it were a wheel in the middle of a wheel.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "ezekiel-1-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "When they went, they went upon their four sides: <span class=\"clarity-word\">and</span> they turned not when they went.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "ezekiel-1-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "As for their rings, they were so high that they were dreadful; and their rings <span class=\"clarity-word\">were</span> full of eyes round about them four.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "ezekiel-1-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And when the living creatures went, the wheels went by them: and when the living creatures were lifted up from the earth, the wheels were lifted up.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "ezekiel-1-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Whithersoever the spirit was to go, they went, thither <span class=\"clarity-word\">was their</span> spirit to go; and the wheels were lifted up over against them: for the spirit of the living creature <span class=\"clarity-word\">was</span> in the wheels.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "ezekiel-1-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "When those went, <span class=\"clarity-word\">these</span> went; and when those stood, <span class=\"clarity-word\">these</span> stood; and when those were lifted up from the earth, the wheels were lifted up over against them: for the spirit of the living creature <span class=\"clarity-word\">was</span> in the wheels.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "ezekiel-1-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And the likeness of the firmament upon the heads of the living creature <span class=\"clarity-word\">was</span> as the colour of the terrible crystal, stretched forth over their heads above.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "ezekiel-1-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And under the firmament <span class=\"clarity-word\">were</span> their wings straight, the one toward the other: every one had two, which covered on this side, and every one had two, which covered on that side, their bodies.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "ezekiel-1-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "And when they went, I heard the noise of their wings, like the noise of great waters, as the voice of the Almighty, the voice of speech, as the noise of an host: when they stood, they let down their wings.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "ezekiel-1-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And there was a voice from the firmament that <span class=\"clarity-word\">was</span> over their heads, when they stood, <span class=\"clarity-word\">and</span> had let down their wings.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "ezekiel-1-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "¶ And above the firmament that <span class=\"clarity-word\">was</span> over their heads <span class=\"clarity-word\">was</span> the likeness of a throne, as the appearance of a sapphire stone: and upon the likeness of the throne <span class=\"clarity-word\">was</span> the likeness as the appearance of a man above upon it.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "ezekiel-1-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And I saw as the colour of amber, as the appearance of fire round about within it, from the appearance of his loins even upward, and from the appearance of his loins even downward, I saw as it were the appearance of fire, and it had brightness round about.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "ezekiel-1-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "As the appearance of the bow that is in the cloud in the day of rain, so <span class=\"clarity-word\">was</span> the appearance of the brightness round about. This <span class=\"clarity-word\">was</span> the appearance of the likeness of the glory of the <span class=\"small-caps\">Lord</span>. And when I saw <span class=\"clarity-word\">it,</span> I fell upon my face, and I heard a voice of one that spake.",
+      "churchId": "p28"
+    }
+  ]
+}

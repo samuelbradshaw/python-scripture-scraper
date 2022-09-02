@@ -1,0 +1,99 @@
+{
+  "name": "Isaiah 62",
+  "abbrev": "Isa. 62",
+  "number": "62",
+  "churchUri": "/scriptures/ot/isa/62",
+  "paragraphs": [
+    {
+      "slug": "isaiah-62-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 62",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "isaiah-62-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "For Zion’s sake will I not hold my peace, and for Jerusalem’s sake I will not rest, until the righteousness thereof go forth as brightness, and the salvation thereof as a lamp <span class=\"clarity-word\">that</span> burneth.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "isaiah-62-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And the Gentiles shall see thy righteousness, and all kings thy glory: and thou shalt be called by a new name, which the mouth of the <span class=\"small-caps\">Lord</span> shall name.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "isaiah-62-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Thou shalt also be a crown of glory in the hand of the <span class=\"small-caps\">Lord</span>, and a royal diadem in the hand of thy God.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "isaiah-62-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Thou shalt no more be termed Forsaken; neither shall thy land any more be termed Desolate: but thou shalt be called Hephzi-bah, and thy land Beulah: for the <span class=\"small-caps\">Lord</span> delighteth in thee, and thy land shall be married.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "isaiah-62-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "¶ For <span class=\"clarity-word\">as</span> a young man marrieth a virgin, <span class=\"clarity-word\">so</span> shall thy sons marry thee: and <span class=\"clarity-word\">as</span> the bridegroom rejoiceth over the bride, <span class=\"clarity-word\">so</span> shall thy God rejoice over thee.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "isaiah-62-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "I have set watchmen upon thy walls, O Jerusalem, <span class=\"clarity-word\">which</span> shall never hold their peace day nor night: ye that make mention of the <span class=\"small-caps\">Lord</span>, keep not silence,",
+      "churchId": "p6"
+    },
+    {
+      "slug": "isaiah-62-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And give him no rest, till he establish, and till he make Jerusalem a praise in the earth.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "isaiah-62-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "The <span class=\"small-caps\">Lord</span> hath sworn by his right hand, and by the arm of his strength, Surely I will no more give thy corn <span class=\"clarity-word\">to be</span> meat for thine enemies; and the sons of the stranger shall not drink thy wine, for the which thou hast laboured:",
+      "churchId": "p8"
+    },
+    {
+      "slug": "isaiah-62-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "But they that have gathered it shall eat it, and praise the <span class=\"small-caps\">Lord</span>; and they that have brought it together shall drink it in the courts of my holiness.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "isaiah-62-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "¶ Go through, go through the gates; prepare ye the way of the people; cast up, cast up the highway; gather out the stones; lift up a standard for the people.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "isaiah-62-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Behold, the <span class=\"small-caps\">Lord</span> hath proclaimed unto the end of the world, Say ye to the daughter of Zion, Behold, thy salvation cometh; behold, his reward <span class=\"clarity-word\">is</span> with him, and his work before him.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "isaiah-62-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And they shall call them, The holy people, The redeemed of the <span class=\"small-caps\">Lord</span>: and thou shalt be called, Sought out, A city not forsaken.",
+      "churchId": "p12"
+    }
+  ]
+}

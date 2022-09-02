@@ -1,0 +1,127 @@
+{
+  "name": "Leviticus 17",
+  "abbrev": "Lev. 17",
+  "number": "17",
+  "churchUri": "/scriptures/ot/lev/17",
+  "paragraphs": [
+    {
+      "slug": "leviticus-17-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 17",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "leviticus-17-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And the <span class=\"small-caps\">Lord</span> spake unto Moses, saying,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "leviticus-17-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Speak unto Aaron, and unto his sons, and unto all the children of Israel, and say unto them; This <span class=\"clarity-word\">is</span> the thing which the <span class=\"small-caps\">Lord</span> hath commanded, saying,",
+      "churchId": "p2"
+    },
+    {
+      "slug": "leviticus-17-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "What man soever <span class=\"clarity-word\">there be</span> of the house of Israel, that killeth an ox, or lamb, or goat, in the camp, or that killeth <span class=\"clarity-word\">it</span> out of the camp,",
+      "churchId": "p3"
+    },
+    {
+      "slug": "leviticus-17-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And bringeth it not unto the door of the tabernacle of the congregation, to offer an offering unto the <span class=\"small-caps\">Lord</span> before the tabernacle of the <span class=\"small-caps\">Lord</span>; blood shall be imputed unto that man; he hath shed blood; and that man shall be cut off from among his people:",
+      "churchId": "p4"
+    },
+    {
+      "slug": "leviticus-17-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "To the end that the children of Israel may bring their sacrifices, which they offer in the open field, even that they may bring them unto the <span class=\"small-caps\">Lord</span>, unto the door of the tabernacle of the congregation, unto the priest, and offer them <span class=\"clarity-word\">for</span> peace offerings unto the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "leviticus-17-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And the priest shall sprinkle the blood upon the altar of the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">at</span> the door of the tabernacle of the congregation, and burn the fat for a sweet savour unto the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "leviticus-17-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And they shall no more offer their sacrifices unto devils, after whom they have gone a whoring. This shall be a statute for ever unto them throughout their generations.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "leviticus-17-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "¶ And thou shalt say unto them, Whatsoever man <span class=\"clarity-word\">there be</span> of the house of Israel, or of the strangers which sojourn among you, that offereth a burnt offering or sacrifice,",
+      "churchId": "p8"
+    },
+    {
+      "slug": "leviticus-17-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And bringeth it not unto the door of the tabernacle of the congregation, to offer it unto the <span class=\"small-caps\">Lord</span>; even that man shall be cut off from among his people.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "leviticus-17-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "¶ And whatsoever man <span class=\"clarity-word\">there be</span> of the house of Israel, or of the strangers that sojourn among you, that eateth any manner of blood; I will even set my face against that soul that eateth blood, and will cut him off from among his people.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "leviticus-17-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "For the life of the flesh <span class=\"clarity-word\">is</span> in the blood: and I have given it to you upon the altar to make an atonement for your souls: for it <span class=\"clarity-word\">is</span> the blood <span class=\"clarity-word\">that</span> maketh an atonement for the soul.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "leviticus-17-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Therefore I said unto the children of Israel, No soul of you shall eat blood, neither shall any stranger that sojourneth among you eat blood.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "leviticus-17-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And whatsoever man <span class=\"clarity-word\">there be</span> of the children of Israel, or of the strangers that sojourn among you, which hunteth and catcheth any beast or fowl that may be eaten; he shall even pour out the blood thereof, and cover it with dust.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "leviticus-17-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "For <span class=\"clarity-word\">it is</span> the life of all flesh; the blood of it <span class=\"clarity-word\">is</span> for the life thereof: therefore I said unto the children of Israel, Ye shall eat the blood of no manner of flesh: for the life of all flesh <span class=\"clarity-word\">is</span> the blood thereof: whosoever eateth it shall be cut off.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "leviticus-17-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And every soul that eateth that which died <span class=\"clarity-word\">of itself,</span> or that which was torn <span class=\"clarity-word\">with beasts, whether it be</span> one of your own country, or a stranger, he shall both wash his clothes, and bathe <span class=\"clarity-word\">himself</span> in water, and be unclean until the even: then shall he be clean.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "leviticus-17-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "But if he wash <span class=\"clarity-word\">them</span> not, nor bathe his flesh; then he shall bear his iniquity.",
+      "churchId": "p16"
+    }
+  ]
+}

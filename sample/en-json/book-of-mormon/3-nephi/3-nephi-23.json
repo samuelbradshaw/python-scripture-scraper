@@ -1,0 +1,113 @@
+{
+  "name": "3 Nephi 23",
+  "abbrev": "3 Ne. 23",
+  "number": "23",
+  "churchUri": "/scriptures/bofm/3-ne/23",
+  "paragraphs": [
+    {
+      "slug": "3-nephi-23-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 23",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "3-nephi-23-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And now, behold, I say unto you, that ye ought to search these things. Yea, a commandment I give unto you that ye search these things diligently; for great are the words of Isaiah.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "3-nephi-23-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "For surely he spake as touching all things concerning my people which are of the house of Israel; therefore it must needs be that he must speak also to the Gentiles.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "3-nephi-23-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And all things that he spake have been and shall be, even according to the words which he spake.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "3-nephi-23-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Therefore give heed to my words; write the things which I have told you; and according to the time and the will of the Father they shall go forth unto the Gentiles.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "3-nephi-23-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And whosoever will hearken unto my words and repenteth and is baptized, the same shall be saved. Search the prophets, for many there be that testify of these things.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "3-nephi-23-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And now it came to pass that when Jesus had said these words he said unto them again, after he had expounded all the scriptures unto them which they had received, he said unto them: Behold, other scriptures I would that ye should write, that ye have not.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "3-nephi-23-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And it came to pass that he said unto Nephi: Bring forth the record which ye have kept.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "3-nephi-23-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And when Nephi had brought forth the records, and laid them before him, he cast his eyes upon them and said:",
+      "churchId": "p8"
+    },
+    {
+      "slug": "3-nephi-23-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Verily I say unto you, I commanded my servant Samuel, the Lamanite, that he should testify unto this people, that at the day that the Father should glorify his name in me that there were many saints who should arise from the dead, and should appear unto many, and should minister unto them. And he said unto them: Was it not so?",
+      "churchId": "p9"
+    },
+    {
+      "slug": "3-nephi-23-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And his disciples answered him and said: Yea, Lord, Samuel did prophesy according to thy words, and they were all fulfilled.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "3-nephi-23-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And Jesus said unto them: How be it that ye have not written this thing, that many saints did arise and appear unto many and did minister unto them?",
+      "churchId": "p11"
+    },
+    {
+      "slug": "3-nephi-23-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And it came to pass that Nephi remembered that this thing had not been written.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "3-nephi-23-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And it came to pass that Jesus commanded that it should be written; therefore it was written according as he commanded.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "3-nephi-23-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And now it came to pass that when Jesus had expounded all the scriptures in one, which they had written, he commanded them that they should teach the things which he had expounded unto them.",
+      "churchId": "p14"
+    }
+  ]
+}

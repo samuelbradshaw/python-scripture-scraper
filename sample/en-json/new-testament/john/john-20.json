@@ -1,0 +1,232 @@
+{
+  "name": "John 20",
+  "abbrev": "John 20",
+  "number": "20",
+  "churchUri": "/scriptures/nt/john/20",
+  "paragraphs": [
+    {
+      "slug": "john-20-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 20",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "john-20-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "The first <span class=\"clarity-word\">day</span> of the week cometh Mary Magdalene early, when it was yet dark, unto the sepulchre, and seeth the stone taken away from the sepulchre.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "john-20-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Then she runneth, and cometh to Simon Peter, and to the other disciple, whom Jesus loved, and saith unto them, They have taken away the Lord out of the sepulchre, and we know not where they have laid him.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "john-20-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Peter therefore went forth, and that other disciple, and came to the sepulchre.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "john-20-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "So they ran both together: and the other disciple did outrun Peter, and came first to the sepulchre.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "john-20-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And he stooping down, <span class=\"clarity-word\">and looking in,</span> saw the linen clothes lying; yet went he not in.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "john-20-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Then cometh Simon Peter following him, and went into the sepulchre, and seeth the linen clothes lie,",
+      "churchId": "p6"
+    },
+    {
+      "slug": "john-20-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And the napkin, that was about his head, not lying with the linen clothes, but wrapped together in a place by itself.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "john-20-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Then went in also that other disciple, which came first to the sepulchre, and he saw, and believed.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "john-20-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "For as yet they knew not the scripture, that he must rise again from the dead.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "john-20-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Then the disciples went away again unto their own home.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "john-20-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "¶ But Mary stood without at the sepulchre weeping: and as she wept, she stooped down, <span class=\"clarity-word\">and looked</span> into the sepulchre,",
+      "churchId": "p11"
+    },
+    {
+      "slug": "john-20-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And seeth two angels in white sitting, the one at the head, and the other at the feet, where the body of Jesus had lain.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "john-20-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And they say unto her, Woman, why weepest thou? She saith unto them, Because they have taken away my Lord, and I know not where they have laid him.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "john-20-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And when she had thus said, she turned herself back, and saw Jesus standing, and knew not that it was Jesus.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "john-20-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Jesus saith unto her, Woman, why weepest thou? whom seekest thou? She, supposing him to be the gardener, saith unto him, Sir, if thou have borne him hence, tell me where thou hast laid him, and I will take him away.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "john-20-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Jesus saith unto her, Mary. She turned herself, and saith unto him, Rabboni; which is to say, Master.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "john-20-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Jesus saith unto her, Touch me not; for I am not yet ascended to my Father: but go to my brethren, and say unto them, I ascend unto my Father, and your Father; and <span class=\"clarity-word\">to</span> my God, and your God.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "john-20-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Mary Magdalene came and told the disciples that she had seen the Lord, and <span class=\"clarity-word\">that</span> he had spoken these things unto her.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "john-20-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "¶ Then the same day at evening, being the first <span class=\"clarity-word\">day</span> of the week, when the doors were shut where the disciples were assembled for fear of the Jews, came Jesus and stood in the midst, and saith unto them, Peace <span class=\"clarity-word\">be</span> unto you.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "john-20-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And when he had so said, he shewed unto them <span class=\"clarity-word\">his</span> hands and his side. Then were the disciples glad, when they saw the Lord.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "john-20-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Then said Jesus to them again, Peace <span class=\"clarity-word\">be</span> unto you: as <span class=\"clarity-word\">my</span> Father hath sent me, even so send I you.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "john-20-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And when he had said this, he breathed on <span class=\"clarity-word\">them,</span> and saith unto them, Receive ye the Holy Ghost:",
+      "churchId": "p22"
+    },
+    {
+      "slug": "john-20-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "Whose soever sins ye remit, they are remitted unto them; <span class=\"clarity-word\">and</span> whose soever <span class=\"clarity-word\">sins</span> ye retain, they are retained.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "john-20-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "¶ But Thomas, one of the twelve, called Didymus, was not with them when Jesus came.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "john-20-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "The other disciples therefore said unto him, We have seen the Lord. But he said unto them, Except I shall see in his hands the print of the nails, and put my finger into the print of the nails, and thrust my hand into his side, I will not believe.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "john-20-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "¶ And after eight days again his disciples were within, and Thomas with them: <span class=\"clarity-word\">then</span> came Jesus, the doors being shut, and stood in the midst, and said, Peace <span class=\"clarity-word\">be</span> unto you.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "john-20-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "Then saith he to Thomas, Reach hither thy finger, and behold my hands; and reach hither thy hand, and thrust <span class=\"clarity-word\">it</span> into my side: and be not faithless, but believing.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "john-20-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And Thomas answered and said unto him, My Lord and my God.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "john-20-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "Jesus saith unto him, Thomas, because thou hast seen me, thou hast believed: blessed <span class=\"clarity-word\">are</span> they that have not seen, and <span class=\"clarity-word\">yet</span> have believed.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "john-20-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "¶ And many other signs truly did Jesus in the presence of his disciples, which are not written in this book:",
+      "churchId": "p30"
+    },
+    {
+      "slug": "john-20-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "But these are written, that ye might believe that Jesus is the Christ, the Son of God; and that believing ye might have life through his name.",
+      "churchId": "p31"
+    }
+  ]
+}

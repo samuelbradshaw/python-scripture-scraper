@@ -1,0 +1,155 @@
+{
+  "name": "Doctrine and Covenants 51",
+  "abbrev": "D&C 51",
+  "number": "51",
+  "churchUri": "/scriptures/dc-testament/dc/51",
+  "paragraphs": [
+    {
+      "slug": "section-51-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Section 51",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "section-51-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Hearken unto me, saith the Lord your God, and I will speak unto my servant Edward Partridge, and give unto him directions; for it must needs be that he receive directions how to organize this people.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "section-51-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "For it must needs be that they be organized according to my laws; if otherwise, they will be cut off.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "section-51-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Wherefore, let my servant Edward Partridge, and those whom he has chosen, in whom I am well pleased, appoint unto this people their portions, every man equal according to his family, according to his circumstances and his wants and needs.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "section-51-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And let my servant Edward Partridge, when he shall appoint a man his portion, give unto him a writing that shall secure unto him his portion, that he shall hold it, even this right and this inheritance in the church, until he transgresses and is not accounted worthy by the voice of the church, according to the laws and covenants of the church, to belong to the church.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "section-51-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And if he shall transgress and is not accounted worthy to belong to the church, he shall not have power to claim that portion which he has consecrated unto the bishop for the poor and needy of my church; therefore, he shall not retain the gift, but shall only have claim on that portion that is deeded unto him.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "section-51-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And thus all things shall be made sure, according to the laws of the land.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "section-51-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And let that which belongs to this people be appointed unto this people.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "section-51-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And the money which is left unto this people—let there be an agent appointed unto this people, to take the money to provide food and raiment, according to the wants of this people.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "section-51-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "And let every man deal honestly, and be alike among this people, and receive alike, that ye may be one, even as I have commanded you.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "section-51-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "And let that which belongeth to this people not be taken and given unto that of another church.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "section-51-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Wherefore, if another church would receive money of this church, let them pay unto this church again according as they shall agree;",
+      "churchId": "p11"
+    },
+    {
+      "slug": "section-51-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And this shall be done through the bishop or the agent, which shall be appointed by the voice of the church.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "section-51-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And again, let the bishop appoint a storehouse unto this church; and let all things both in money and in meat, which are more than is needful for the wants of this people, be kept in the hands of the bishop.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "section-51-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And let him also reserve unto himself for his own wants, and for the wants of his family, as he shall be employed in doing this business.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "section-51-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And thus I grant unto this people a privilege of organizing themselves according to my laws.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "section-51-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And I consecrate unto them this land for a little season, until I, the Lord, shall provide for them otherwise, and command them to go hence;",
+      "churchId": "p16"
+    },
+    {
+      "slug": "section-51-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And the hour and the day is not given unto them, wherefore let them act upon this land as for years, and this shall turn unto them for their good.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "section-51-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Behold, this shall be an example unto my servant Edward Partridge, in other places, in all churches.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "section-51-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And whoso is found a faithful, a just, and a wise steward shall enter into the joy of his Lord, and shall inherit eternal life.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "section-51-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "Verily, I say unto you, I am Jesus Christ, who cometh quickly, in an hour you think not. Even so. Amen.",
+      "churchId": "p20"
+    }
+  ]
+}

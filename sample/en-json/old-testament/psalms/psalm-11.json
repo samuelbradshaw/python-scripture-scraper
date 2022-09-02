@@ -1,0 +1,71 @@
+{
+  "name": "Psalm 11",
+  "abbrev": "Psalm 11",
+  "number": "11",
+  "churchUri": "/scriptures/ot/ps/11",
+  "paragraphs": [
+    {
+      "slug": "psalm-11-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 11",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-11-intro1",
+      "type": "paragraph",
+      "number": null,
+      "content": "To the chief Musician, <span class=\"clarity-word\">A Psalm</span> of David.",
+      "churchId": "intro1"
+    },
+    {
+      "slug": "psalm-11-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "In the <span class=\"small-caps\">Lord</span> put I my trust: how say ye to my soul, Flee <span class=\"clarity-word\">as</span> a bird to your mountain?",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-11-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "For, lo, the wicked bend <span class=\"clarity-word\">their</span> bow, they make ready their arrow upon the string, that they may privily shoot at the upright in heart.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-11-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "If the foundations be destroyed, what can the righteous do?",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-11-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "The <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">is</span> in his holy temple, the <span class=\"small-caps\">Lord</span>’s throne <span class=\"clarity-word\">is</span> in heaven: his eyes behold, his eyelids try, the children of men.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-11-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "The <span class=\"small-caps\">Lord</span> trieth the righteous: but the wicked and him that loveth violence his soul hateth.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-11-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Upon the wicked he shall rain snares, fire and brimstone, and an horrible tempest: <span class=\"clarity-word\">this shall be</span> the portion of their cup.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-11-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "For the righteous <span class=\"small-caps\">Lord</span> loveth righteousness; his countenance doth behold the upright.",
+      "churchId": "p7"
+    }
+  ]
+}

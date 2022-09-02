@@ -1,0 +1,176 @@
+{
+  "name": "Deuteronomy 21",
+  "abbrev": "Deut. 21",
+  "number": "21",
+  "churchUri": "/scriptures/ot/deut/21",
+  "paragraphs": [
+    {
+      "slug": "deuteronomy-21-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 21",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "deuteronomy-21-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "If <span class=\"clarity-word\">one</span> be found slain in the land which the <span class=\"small-caps\">Lord</span> thy God giveth thee to possess it, lying in the field, <span class=\"clarity-word\">and</span> it be not known who hath slain him:",
+      "churchId": "p1"
+    },
+    {
+      "slug": "deuteronomy-21-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Then thy elders and thy judges shall come forth, and they shall measure unto the cities which <span class=\"clarity-word\">are</span> round about him that is slain:",
+      "churchId": "p2"
+    },
+    {
+      "slug": "deuteronomy-21-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And it shall be, <span class=\"clarity-word\">that</span> the city <span class=\"clarity-word\">which is</span> next unto the slain man, even the elders of that city shall take an heifer, which hath not been wrought with, <span class=\"clarity-word\">and</span> which hath not drawn in the yoke;",
+      "churchId": "p3"
+    },
+    {
+      "slug": "deuteronomy-21-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And the elders of that city shall bring down the heifer unto a rough valley, which is neither eared nor sown, and shall strike off the heifer’s neck there in the valley:",
+      "churchId": "p4"
+    },
+    {
+      "slug": "deuteronomy-21-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And the priests the sons of Levi shall come near; for them the <span class=\"small-caps\">Lord</span> thy God hath chosen to minister unto him, and to bless in the name of the <span class=\"small-caps\">Lord</span>; and by their word shall every controversy and every stroke be <span class=\"clarity-word\">tried:</span>",
+      "churchId": "p5"
+    },
+    {
+      "slug": "deuteronomy-21-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "And all the elders of that city, <span class=\"clarity-word\">that are</span> next unto the slain <span class=\"clarity-word\">man,</span> shall wash their hands over the heifer that is beheaded in the valley:",
+      "churchId": "p6"
+    },
+    {
+      "slug": "deuteronomy-21-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And they shall answer and say, Our hands have not shed this blood, neither have our eyes seen <span class=\"clarity-word\">it.</span>",
+      "churchId": "p7"
+    },
+    {
+      "slug": "deuteronomy-21-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Be merciful, O <span class=\"small-caps\">Lord</span>, unto thy people Israel, whom thou hast redeemed, and lay not innocent blood unto thy people of Israel’s charge. And the blood shall be forgiven them.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "deuteronomy-21-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "So shalt thou put away the <span class=\"clarity-word\">guilt of</span> innocent blood from among you, when thou shalt do <span class=\"clarity-word\">that which is</span> right in the sight of the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "deuteronomy-21-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "¶ When thou goest forth to war against thine enemies, and the <span class=\"small-caps\">Lord</span> thy God hath delivered them into thine hands, and thou hast taken them captive,",
+      "churchId": "p10"
+    },
+    {
+      "slug": "deuteronomy-21-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And seest among the captives a beautiful woman, and hast a desire unto her, that thou wouldest have her to thy wife;",
+      "churchId": "p11"
+    },
+    {
+      "slug": "deuteronomy-21-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Then thou shalt bring her home to thine house; and she shall shave her head, and pare her nails;",
+      "churchId": "p12"
+    },
+    {
+      "slug": "deuteronomy-21-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "And she shall put the raiment of her captivity from off her, and shall remain in thine house, and bewail her father and her mother a full month: and after that thou shalt go in unto her, and be her husband, and she shall be thy wife.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "deuteronomy-21-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And it shall be, if thou have no delight in her, then thou shalt let her go whither she will; but thou shalt not sell her at all for money, thou shalt not make merchandise of her, because thou hast humbled her.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "deuteronomy-21-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "¶ If a man have two wives, one beloved, and another hated, and they have born him children, <span class=\"clarity-word\">both</span> the beloved and the hated; and <span class=\"clarity-word\">if</span> the firstborn son be hers that was hated:",
+      "churchId": "p15"
+    },
+    {
+      "slug": "deuteronomy-21-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Then it shall be, when he maketh his sons to inherit <span class=\"clarity-word\">that</span> which he hath, <span class=\"clarity-word\">that</span> he may not make the son of the beloved firstborn before the son of the hated, <span class=\"clarity-word\">which is indeed</span> the firstborn:",
+      "churchId": "p16"
+    },
+    {
+      "slug": "deuteronomy-21-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "But he shall acknowledge the son of the hated <span class=\"clarity-word\">for</span> the firstborn, by giving him a double portion of all that he hath: for he <span class=\"clarity-word\">is</span> the beginning of his strength; the right of the firstborn <span class=\"clarity-word\">is</span> his.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "deuteronomy-21-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "¶ If a man have a stubborn and rebellious son, which will not obey the voice of his father, or the voice of his mother, and <span class=\"clarity-word\">that,</span> when they have chastened him, will not hearken unto them:",
+      "churchId": "p18"
+    },
+    {
+      "slug": "deuteronomy-21-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Then shall his father and his mother lay hold on him, and bring him out unto the elders of his city, and unto the gate of his place;",
+      "churchId": "p19"
+    },
+    {
+      "slug": "deuteronomy-21-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And they shall say unto the elders of his city, This our son <span class=\"clarity-word\">is</span> stubborn and rebellious, he will not obey our voice; <span class=\"clarity-word\">he is</span> a glutton, and a drunkard.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "deuteronomy-21-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "And all the men of his city shall stone him with stones, that he die: so shalt thou put evil away from among you; and all Israel shall hear, and fear.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "deuteronomy-21-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "¶ And if a man have committed a sin worthy of death, and he be to be put to death, and thou hang him on a tree:",
+      "churchId": "p22"
+    },
+    {
+      "slug": "deuteronomy-21-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "His body shall not remain all night upon the tree, but thou shalt in any wise bury him that day; (for he that is hanged <span class=\"clarity-word\">is</span> accursed of God;) that thy land be not defiled, which the <span class=\"small-caps\">Lord</span> thy God giveth thee <span class=\"clarity-word\">for</span> an inheritance.",
+      "churchId": "p23"
+    }
+  ]
+}

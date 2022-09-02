@@ -1,0 +1,141 @@
+{
+  "name": "1 Kings 5",
+  "abbrev": "1 Kgs. 5",
+  "number": "5",
+  "churchUri": "/scriptures/ot/1-kgs/5",
+  "paragraphs": [
+    {
+      "slug": "1-kings-5-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 5",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "1-kings-5-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And Hiram king of Tyre sent his servants unto Solomon; for he had heard that they had anointed him king in the room of his father: for Hiram was ever a lover of David.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "1-kings-5-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And Solomon sent to Hiram, saying,",
+      "churchId": "p2"
+    },
+    {
+      "slug": "1-kings-5-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Thou knowest how that David my father could not build an house unto the name of the <span class=\"small-caps\">Lord</span> his God for the wars which were about him on every side, until the <span class=\"small-caps\">Lord</span> put them under the soles of his feet.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "1-kings-5-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "But now the <span class=\"small-caps\">Lord</span> my God hath given me rest on every side, <span class=\"clarity-word\">so that there is</span> neither adversary nor evil occurrent.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "1-kings-5-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And, behold, I purpose to build an house unto the name of the <span class=\"small-caps\">Lord</span> my God, as the <span class=\"small-caps\">Lord</span> spake unto David my father, saying, Thy son, whom I will set upon thy throne in thy room, he shall build an house unto my name.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "1-kings-5-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Now therefore command thou that they hew me cedar trees out of Lebanon; and my servants shall be with thy servants: and unto thee will I give hire for thy servants according to all that thou shalt appoint: for thou knowest that <span class=\"clarity-word\">there is</span> not among us any that can skill to hew timber like unto the Sidonians.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "1-kings-5-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "¶ And it came to pass, when Hiram heard the words of Solomon, that he rejoiced greatly, and said, Blessed <span class=\"clarity-word\">be</span> the <span class=\"small-caps\">Lord</span> this day, which hath given unto David a wise son over this great people.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "1-kings-5-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And Hiram sent to Solomon, saying, I have considered the things which thou sentest to me for: <span class=\"clarity-word\">and</span> I will do all thy desire concerning timber of cedar, and concerning timber of fir.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "1-kings-5-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "My servants shall bring <span class=\"clarity-word\">them</span> down from Lebanon unto the sea: and I will convey them by sea in floats unto the place that thou shalt appoint me, and will cause them to be discharged there, and thou shalt receive <span class=\"clarity-word\">them:</span> and thou shalt accomplish my desire, in giving food for my household.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "1-kings-5-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "So Hiram gave Solomon cedar trees and fir trees <span class=\"clarity-word\">according to</span> all his desire.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "1-kings-5-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "And Solomon gave Hiram twenty thousand measures of wheat <span class=\"clarity-word\">for</span> food to his household, and twenty measures of pure oil: thus gave Solomon to Hiram year by year.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "1-kings-5-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And the <span class=\"small-caps\">Lord</span> gave Solomon wisdom, as he promised him: and there was peace between Hiram and Solomon; and they two made a league together.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "1-kings-5-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "¶ And king Solomon raised a levy out of all Israel; and the levy was thirty thousand men.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "1-kings-5-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "And he sent them to Lebanon, ten thousand a month by courses: a month they were in Lebanon, <span class=\"clarity-word\">and</span> two months at home: and Adoniram <span class=\"clarity-word\">was</span> over the levy.",
+      "churchId": "p14"
+    },
+    {
+      "slug": "1-kings-5-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "And Solomon had threescore and ten thousand that bare burdens, and fourscore thousand hewers in the mountains;",
+      "churchId": "p15"
+    },
+    {
+      "slug": "1-kings-5-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Beside the chief of Solomon’s officers which <span class=\"clarity-word\">were</span> over the work, three thousand and three hundred, which ruled over the people that wrought in the work.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "1-kings-5-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And the king commanded, and they brought great stones, costly stones, <span class=\"clarity-word\">and</span> hewed stones, to lay the foundation of the house.",
+      "churchId": "p17"
+    },
+    {
+      "slug": "1-kings-5-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And Solomon’s builders and Hiram’s builders did hew <span class=\"clarity-word\">them,</span> and the stonesquarers: so they prepared timber and stones to build the house.",
+      "churchId": "p18"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "name": "Psalm 137",
+  "abbrev": "Psalm 137",
+  "number": "137",
+  "churchUri": "/scriptures/ot/ps/137",
+  "paragraphs": [
+    {
+      "slug": "psalm-137-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Psalm 137",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "psalm-137-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "By the rivers of Babylon, there we sat down, yea, we wept, when we remembered Zion.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "psalm-137-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "We hanged our harps upon the willows in the midst thereof.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "psalm-137-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "For there they that carried us away captive required of us a song; and they that wasted us <span class=\"clarity-word\">required of us</span> mirth, <span class=\"clarity-word\">saying,</span> Sing us <span class=\"clarity-word\">one</span> of the songs of Zion.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "psalm-137-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "How shall we sing the <span class=\"small-caps\">Lord</span>’s song in a strange land?",
+      "churchId": "p4"
+    },
+    {
+      "slug": "psalm-137-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "If I forget thee, O Jerusalem, let my right hand forget <span class=\"clarity-word\">her cunning.</span>",
+      "churchId": "p5"
+    },
+    {
+      "slug": "psalm-137-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "If I do not remember thee, let my tongue cleave to the roof of my mouth; if I prefer not Jerusalem above my chief joy.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "psalm-137-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Remember, O <span class=\"small-caps\">Lord</span>, the children of Edom in the day of Jerusalem; who said, Rase <span class=\"clarity-word\">it,</span> rase <span class=\"clarity-word\">it, even</span> to the foundation thereof.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "psalm-137-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "O daughter of Babylon, who art to be destroyed; happy <span class=\"clarity-word\">shall he be,</span> that rewardeth thee as thou hast served us.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "psalm-137-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "Happy <span class=\"clarity-word\">shall he be,</span> that taketh and dasheth thy little ones against the stones.",
+      "churchId": "p9"
+    }
+  ]
+}

@@ -1,0 +1,274 @@
+{
+  "name": "Jeremiah 2",
+  "abbrev": "Jer. 2",
+  "number": "2",
+  "churchUri": "/scriptures/ot/jer/2",
+  "paragraphs": [
+    {
+      "slug": "jeremiah-2-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 2",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "jeremiah-2-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "Moreover the word of the <span class=\"small-caps\">Lord</span> came to me, saying,",
+      "churchId": "p1"
+    },
+    {
+      "slug": "jeremiah-2-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Go and cry in the ears of Jerusalem, saying, Thus saith the <span class=\"small-caps\">Lord</span>; I remember thee, the kindness of thy youth, the love of thine espousals, when thou wentest after me in the wilderness, in a land <span class=\"clarity-word\">that was</span> not sown.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "jeremiah-2-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Israel <span class=\"clarity-word\">was</span> holiness unto the <span class=\"small-caps\">Lord</span>, <span class=\"clarity-word\">and</span> the firstfruits of his increase: all that devour him shall offend; evil shall come upon them, saith the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "jeremiah-2-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "Hear ye the word of the <span class=\"small-caps\">Lord</span>, O house of Jacob, and all the families of the house of Israel:",
+      "churchId": "p4"
+    },
+    {
+      "slug": "jeremiah-2-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "¶ Thus saith the <span class=\"small-caps\">Lord</span>, What iniquity have your fathers found in me, that they are gone far from me, and have walked after vanity, and are become vain?",
+      "churchId": "p5"
+    },
+    {
+      "slug": "jeremiah-2-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "Neither said they, Where <span class=\"clarity-word\">is</span> the <span class=\"small-caps\">Lord</span> that brought us up out of the land of Egypt, that led us through the wilderness, through a land of deserts and of pits, through a land of drought, and of the shadow of death, through a land that no man passed through, and where no man dwelt?",
+      "churchId": "p6"
+    },
+    {
+      "slug": "jeremiah-2-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "And I brought you into a plentiful country, to eat the fruit thereof and the goodness thereof; but when ye entered, ye defiled my land, and made mine heritage an abomination.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "jeremiah-2-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "The priests said not, Where <span class=\"clarity-word\">is</span> the <span class=\"small-caps\">Lord</span>? and they that handle the law knew me not: the pastors also transgressed against me, and the prophets prophesied by Baal, and walked after <span class=\"clarity-word\">things that</span> do not profit.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "jeremiah-2-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "¶ Wherefore I will yet plead with you, saith the <span class=\"small-caps\">Lord</span>, and with your children’s children will I plead.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "jeremiah-2-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "For pass over the isles of Chittim, and see; and send unto Kedar, and consider diligently, and see if there be such a thing.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "jeremiah-2-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Hath a nation changed <span class=\"clarity-word\">their</span> gods, which <span class=\"clarity-word\">are</span> yet no gods? but my people have changed their glory for <span class=\"clarity-word\">that which</span> doth not profit.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "jeremiah-2-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "Be astonished, O ye heavens, at this, and be horribly afraid, be ye very desolate, saith the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "jeremiah-2-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "For my people have committed two evils; they have forsaken me the fountain of living waters, <span class=\"clarity-word\">and</span> hewed them out cisterns, broken cisterns, that can hold no water.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "jeremiah-2-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "¶ <span class=\"clarity-word\">Is</span> Israel a servant? <span class=\"clarity-word\">is</span> he a homeborn <span class=\"clarity-word\">slave?</span> why is he spoiled?",
+      "churchId": "p14"
+    },
+    {
+      "slug": "jeremiah-2-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "The young lions roared upon him, <span class=\"clarity-word\">and</span> yelled, and they made his land waste: his cities are burned without inhabitant.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "jeremiah-2-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "Also the children of Noph and Tahapanes have broken the crown of thy head.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "jeremiah-2-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "Hast thou not procured this unto thyself, in that thou hast forsaken the <span class=\"small-caps\">Lord</span> thy God, when he led thee by the way?",
+      "churchId": "p17"
+    },
+    {
+      "slug": "jeremiah-2-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "And now what hast thou to do in the way of Egypt, to drink the waters of Sihor? or what hast thou to do in the way of Assyria, to drink the waters of the river?",
+      "churchId": "p18"
+    },
+    {
+      "slug": "jeremiah-2-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "Thine own wickedness shall correct thee, and thy backslidings shall reprove thee: know therefore and see that <span class=\"clarity-word\">it is</span> an evil <span class=\"clarity-word\">thing</span> and bitter, that thou hast forsaken the <span class=\"small-caps\">Lord</span> thy God, and that my fear <span class=\"clarity-word\">is</span> not in thee, saith the Lord <span class=\"small-caps\">God</span> of hosts.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "jeremiah-2-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "¶ For of old time I have broken thy yoke, <span class=\"clarity-word\">and</span> burst thy bands; and thou saidst, I will not transgress; when upon every high hill and under every green tree thou wanderest, playing the harlot.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "jeremiah-2-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "Yet I had planted thee a noble vine, wholly a right seed: how then art thou turned into the degenerate plant of a strange vine unto me?",
+      "churchId": "p21"
+    },
+    {
+      "slug": "jeremiah-2-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "For though thou wash thee with nitre, and take thee much soap, <span class=\"clarity-word\">yet</span> thine iniquity is marked before me, saith the Lord <span class=\"small-caps\">God</span>.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "jeremiah-2-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "How canst thou say, I am not polluted, I have not gone after Baalim? see thy way in the valley, know what thou hast done: <span class=\"clarity-word\">thou art</span> a swift dromedary traversing her ways;",
+      "churchId": "p23"
+    },
+    {
+      "slug": "jeremiah-2-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "A wild ass used to the wilderness, <span class=\"clarity-word\">that</span> snuffeth up the wind at her pleasure; in her occasion who can turn her away? all they that seek her will not weary themselves; in her month they shall find her.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "jeremiah-2-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "Withhold thy foot from being unshod, and thy throat from thirst: but thou saidst, There is no hope: no; for I have loved strangers, and after them will I go.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "jeremiah-2-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "As the thief is ashamed when he is found, so is the house of Israel ashamed; they, their kings, their princes, and their priests, and their prophets,",
+      "churchId": "p26"
+    },
+    {
+      "slug": "jeremiah-2-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "Saying to a stock, Thou <span class=\"clarity-word\">art</span> my father; and to a stone, Thou hast brought me forth: for they have turned <span class=\"clarity-word\">their</span> back unto me, and not <span class=\"clarity-word\">their</span> face: but in the time of their trouble they will say, Arise, and save us.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "jeremiah-2-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "But where <span class=\"clarity-word\">are</span> thy gods that thou hast made thee? let them arise, if they can save thee in the time of thy trouble: for <span class=\"clarity-word\">according to</span> the number of thy cities are thy gods, O Judah.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "jeremiah-2-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "Wherefore will ye plead with me? ye all have transgressed against me, saith the <span class=\"small-caps\">Lord</span>.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "jeremiah-2-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "In vain have I smitten your children; they received no correction: your own sword hath devoured your prophets, like a destroying lion.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "jeremiah-2-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "¶ O generation, see ye the word of the <span class=\"small-caps\">Lord</span>. Have I been a wilderness unto Israel? a land of darkness? wherefore say my people, We are lords; we will come no more unto thee?",
+      "churchId": "p31"
+    },
+    {
+      "slug": "jeremiah-2-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "Can a maid forget her ornaments, <span class=\"clarity-word\">or</span> a bride her attire? yet my people have forgotten me days without number.",
+      "churchId": "p32"
+    },
+    {
+      "slug": "jeremiah-2-p33",
+      "type": "verse",
+      "number": "33",
+      "content": "Why trimmest thou thy way to seek love? therefore hast thou also taught the wicked ones thy ways.",
+      "churchId": "p33"
+    },
+    {
+      "slug": "jeremiah-2-p34",
+      "type": "verse",
+      "number": "34",
+      "content": "Also in thy skirts is found the blood of the souls of the poor innocents: I have not found it by secret search, but upon all these.",
+      "churchId": "p34"
+    },
+    {
+      "slug": "jeremiah-2-p35",
+      "type": "verse",
+      "number": "35",
+      "content": "Yet thou sayest, Because I am innocent, surely his anger shall turn from me. Behold, I will plead with thee, because thou sayest, I have not sinned.",
+      "churchId": "p35"
+    },
+    {
+      "slug": "jeremiah-2-p36",
+      "type": "verse",
+      "number": "36",
+      "content": "Why gaddest thou about so much to change thy way? thou also shalt be ashamed of Egypt, as thou wast ashamed of Assyria.",
+      "churchId": "p36"
+    },
+    {
+      "slug": "jeremiah-2-p37",
+      "type": "verse",
+      "number": "37",
+      "content": "Yea, thou shalt go forth from him, and thine hands upon thine head: for the <span class=\"small-caps\">Lord</span> hath rejected thy confidences, and thou shalt not prosper in them.",
+      "churchId": "p37"
+    }
+  ]
+}

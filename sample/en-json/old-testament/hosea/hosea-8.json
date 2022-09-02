@@ -1,0 +1,113 @@
+{
+  "name": "Hosea 8",
+  "abbrev": "Hosea 8",
+  "number": "8",
+  "churchUri": "/scriptures/ot/hosea/8",
+  "paragraphs": [
+    {
+      "slug": "hosea-8-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 8",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "hosea-8-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "<span class=\"clarity-word\">Set</span> the trumpet to thy mouth. <span class=\"clarity-word\">He shall come</span> as an eagle against the house of the <span class=\"small-caps\">Lord</span>, because they have transgressed my covenant, and trespassed against my law.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "hosea-8-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "Israel shall cry unto me, My God, we know thee.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "hosea-8-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "Israel hath cast off <span class=\"clarity-word\">the thing that is</span> good: the enemy shall pursue him.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "hosea-8-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "They have set up kings, but not by me: they have made princes, and I knew <span class=\"clarity-word\">it</span> not: of their silver and their gold have they made them idols, that they may be cut off.",
+      "churchId": "p4"
+    },
+    {
+      "slug": "hosea-8-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "¶ Thy calf, O Samaria, hath cast <span class=\"clarity-word\">thee</span> off; mine anger is kindled against them: how long <span class=\"clarity-word\">will it be</span> ere they attain to innocency?",
+      "churchId": "p5"
+    },
+    {
+      "slug": "hosea-8-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "For from Israel <span class=\"clarity-word\">was</span> it also: the workman made it; therefore it <span class=\"clarity-word\">is</span> not God: but the calf of Samaria shall be broken in pieces.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "hosea-8-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "For they have sown the wind, and they shall reap the whirlwind: it hath no stalk: the bud shall yield no meal: if so be it yield, the strangers shall swallow it up.",
+      "churchId": "p7"
+    },
+    {
+      "slug": "hosea-8-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "Israel is swallowed up: now shall they be among the Gentiles as a vessel wherein <span class=\"clarity-word\">is</span> no pleasure.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "hosea-8-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "For they are gone up to Assyria, a wild ass alone by himself: Ephraim hath hired lovers.",
+      "churchId": "p9"
+    },
+    {
+      "slug": "hosea-8-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "Yea, though they have hired among the nations, now will I gather them, and they shall sorrow a little for the burden of the king of princes.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "hosea-8-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Because Ephraim hath made many altars to sin, altars shall be unto him to sin.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "hosea-8-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "I have written to him the great things of my law, <span class=\"clarity-word\">but</span> they were counted as a strange thing.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "hosea-8-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "They sacrifice flesh <span class=\"clarity-word\">for</span> the sacrifices of mine offerings, and eat <span class=\"clarity-word\">it; but</span> the <span class=\"small-caps\">Lord</span> accepteth them not; now will he remember their iniquity, and visit their sins: they shall return to Egypt.",
+      "churchId": "p13"
+    },
+    {
+      "slug": "hosea-8-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "For Israel hath forgotten his Maker, and buildeth temples; and Judah hath multiplied fenced cities: but I will send a fire upon his cities, and it shall devour the palaces thereof.",
+      "churchId": "p14"
+    }
+  ]
+}

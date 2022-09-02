@@ -1,0 +1,239 @@
+{
+  "name": "Genesis 32",
+  "abbrev": "Gen. 32",
+  "number": "32",
+  "churchUri": "/scriptures/ot/gen/32",
+  "paragraphs": [
+    {
+      "slug": "genesis-32-title_number1",
+      "type": "chapter-title",
+      "number": null,
+      "content": "Chapter 32",
+      "churchId": "title_number1"
+    },
+    {
+      "slug": "genesis-32-p1",
+      "type": "verse",
+      "number": "1",
+      "content": "And Jacob went on his way, and the angels of God met him.",
+      "churchId": "p1"
+    },
+    {
+      "slug": "genesis-32-p2",
+      "type": "verse",
+      "number": "2",
+      "content": "And when Jacob saw them, he said, This <span class=\"clarity-word\">is</span> God’s host: and he called the name of that place Mahanaim.",
+      "churchId": "p2"
+    },
+    {
+      "slug": "genesis-32-p3",
+      "type": "verse",
+      "number": "3",
+      "content": "And Jacob sent messengers before him to Esau his brother unto the land of Seir, the country of Edom.",
+      "churchId": "p3"
+    },
+    {
+      "slug": "genesis-32-p4",
+      "type": "verse",
+      "number": "4",
+      "content": "And he commanded them, saying, Thus shall ye speak unto my lord Esau; Thy servant Jacob saith thus, I have sojourned with Laban, and stayed there until now:",
+      "churchId": "p4"
+    },
+    {
+      "slug": "genesis-32-p5",
+      "type": "verse",
+      "number": "5",
+      "content": "And I have oxen, and asses, flocks, and menservants, and womenservants: and I have sent to tell my lord, that I may find grace in thy sight.",
+      "churchId": "p5"
+    },
+    {
+      "slug": "genesis-32-p6",
+      "type": "verse",
+      "number": "6",
+      "content": "¶ And the messengers returned to Jacob, saying, We came to thy brother Esau, and also he cometh to meet thee, and four hundred men with him.",
+      "churchId": "p6"
+    },
+    {
+      "slug": "genesis-32-p7",
+      "type": "verse",
+      "number": "7",
+      "content": "Then Jacob was greatly afraid and distressed: and he divided the people that <span class=\"clarity-word\">was</span> with him, and the flocks, and herds, and the camels, into two bands;",
+      "churchId": "p7"
+    },
+    {
+      "slug": "genesis-32-p8",
+      "type": "verse",
+      "number": "8",
+      "content": "And said, If Esau come to the one company, and smite it, then the other company which is left shall escape.",
+      "churchId": "p8"
+    },
+    {
+      "slug": "genesis-32-p9",
+      "type": "verse",
+      "number": "9",
+      "content": "¶ And Jacob said, O God of my father Abraham, and God of my father Isaac, the <span class=\"small-caps\">Lord</span> which saidst unto me, Return unto thy country, and to thy kindred, and I will deal well with thee:",
+      "churchId": "p9"
+    },
+    {
+      "slug": "genesis-32-p10",
+      "type": "verse",
+      "number": "10",
+      "content": "I am not worthy of the least of all the mercies, and of all the truth, which thou hast shewed unto thy servant; for with my staff I passed over this Jordan; and now I am become two bands.",
+      "churchId": "p10"
+    },
+    {
+      "slug": "genesis-32-p11",
+      "type": "verse",
+      "number": "11",
+      "content": "Deliver me, I pray thee, from the hand of my brother, from the hand of Esau: for I fear him, lest he will come and smite me, <span class=\"clarity-word\">and</span> the mother with the children.",
+      "churchId": "p11"
+    },
+    {
+      "slug": "genesis-32-p12",
+      "type": "verse",
+      "number": "12",
+      "content": "And thou saidst, I will surely do thee good, and make thy seed as the sand of the sea, which cannot be numbered for multitude.",
+      "churchId": "p12"
+    },
+    {
+      "slug": "genesis-32-p13",
+      "type": "verse",
+      "number": "13",
+      "content": "¶ And he lodged there that same night; and took of that which came to his hand a present for Esau his brother;",
+      "churchId": "p13"
+    },
+    {
+      "slug": "genesis-32-p14",
+      "type": "verse",
+      "number": "14",
+      "content": "Two hundred she goats, and twenty he goats, two hundred ewes, and twenty rams,",
+      "churchId": "p14"
+    },
+    {
+      "slug": "genesis-32-p15",
+      "type": "verse",
+      "number": "15",
+      "content": "Thirty milch camels with their colts, forty kine, and ten bulls, twenty she asses, and ten foals.",
+      "churchId": "p15"
+    },
+    {
+      "slug": "genesis-32-p16",
+      "type": "verse",
+      "number": "16",
+      "content": "And he delivered <span class=\"clarity-word\">them</span> into the hand of his servants, every drove by themselves; and said unto his servants, Pass over before me, and put a space betwixt drove and drove.",
+      "churchId": "p16"
+    },
+    {
+      "slug": "genesis-32-p17",
+      "type": "verse",
+      "number": "17",
+      "content": "And he commanded the foremost, saying, When Esau my brother meeteth thee, and asketh thee, saying, Whose <span class=\"clarity-word\">art</span> thou? and whither goest thou? and whose <span class=\"clarity-word\">are</span> these before thee?",
+      "churchId": "p17"
+    },
+    {
+      "slug": "genesis-32-p18",
+      "type": "verse",
+      "number": "18",
+      "content": "Then thou shalt say, <span class=\"clarity-word\">They be</span> thy servant Jacob’s; it <span class=\"clarity-word\">is</span> a present sent unto my lord Esau: and, behold, also he <span class=\"clarity-word\">is</span> behind us.",
+      "churchId": "p18"
+    },
+    {
+      "slug": "genesis-32-p19",
+      "type": "verse",
+      "number": "19",
+      "content": "And so commanded he the second, and the third, and all that followed the droves, saying, On this manner shall ye speak unto Esau, when ye find him.",
+      "churchId": "p19"
+    },
+    {
+      "slug": "genesis-32-p20",
+      "type": "verse",
+      "number": "20",
+      "content": "And say ye moreover, Behold, thy servant Jacob <span class=\"clarity-word\">is</span> behind us. For he said, I will appease him with the present that goeth before me, and afterward I will see his face; peradventure he will accept of me.",
+      "churchId": "p20"
+    },
+    {
+      "slug": "genesis-32-p21",
+      "type": "verse",
+      "number": "21",
+      "content": "So went the present over before him: and himself lodged that night in the company.",
+      "churchId": "p21"
+    },
+    {
+      "slug": "genesis-32-p22",
+      "type": "verse",
+      "number": "22",
+      "content": "And he rose up that night, and took his two wives, and his two womenservants, and his eleven sons, and passed over the ford Jabbok.",
+      "churchId": "p22"
+    },
+    {
+      "slug": "genesis-32-p23",
+      "type": "verse",
+      "number": "23",
+      "content": "And he took them, and sent them over the brook, and sent over that he had.",
+      "churchId": "p23"
+    },
+    {
+      "slug": "genesis-32-p24",
+      "type": "verse",
+      "number": "24",
+      "content": "¶ And Jacob was left alone; and there wrestled a man with him until the breaking of the day.",
+      "churchId": "p24"
+    },
+    {
+      "slug": "genesis-32-p25",
+      "type": "verse",
+      "number": "25",
+      "content": "And when he saw that he prevailed not against him, he touched the hollow of his thigh; and the hollow of Jacob’s thigh was out of joint, as he wrestled with him.",
+      "churchId": "p25"
+    },
+    {
+      "slug": "genesis-32-p26",
+      "type": "verse",
+      "number": "26",
+      "content": "And he said, Let me go, for the day breaketh. And he said, I will not let thee go, except thou bless me.",
+      "churchId": "p26"
+    },
+    {
+      "slug": "genesis-32-p27",
+      "type": "verse",
+      "number": "27",
+      "content": "And he said unto him, What <span class=\"clarity-word\">is</span> thy name? And he said, Jacob.",
+      "churchId": "p27"
+    },
+    {
+      "slug": "genesis-32-p28",
+      "type": "verse",
+      "number": "28",
+      "content": "And he said, Thy name shall be called no more Jacob, but Israel: for as a prince hast thou power with God and with men, and hast prevailed.",
+      "churchId": "p28"
+    },
+    {
+      "slug": "genesis-32-p29",
+      "type": "verse",
+      "number": "29",
+      "content": "And Jacob asked <span class=\"clarity-word\">him,</span> and said, Tell <span class=\"clarity-word\">me,</span> I pray thee, thy name. And he said, Wherefore <span class=\"clarity-word\">is</span> it <span class=\"clarity-word\">that</span> thou dost ask after my name? And he blessed him there.",
+      "churchId": "p29"
+    },
+    {
+      "slug": "genesis-32-p30",
+      "type": "verse",
+      "number": "30",
+      "content": "And Jacob called the name of the place Peniel: for I have seen God face to face, and my life is preserved.",
+      "churchId": "p30"
+    },
+    {
+      "slug": "genesis-32-p31",
+      "type": "verse",
+      "number": "31",
+      "content": "And as he passed over Penuel the sun rose upon him, and he halted upon his thigh.",
+      "churchId": "p31"
+    },
+    {
+      "slug": "genesis-32-p32",
+      "type": "verse",
+      "number": "32",
+      "content": "Therefore the children of Israel eat not <span class=\"clarity-word\">of</span> the sinew which shrank, which <span class=\"clarity-word\">is</span> upon the hollow of the thigh, unto this day: because he touched the hollow of Jacob’s thigh in the sinew that shrank.",
+      "churchId": "p32"
+    }
+  ]
+}
