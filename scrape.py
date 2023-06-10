@@ -279,7 +279,6 @@ def gather_metadata_for_language(language):
       footnotes = soup.select_one('.study-notes')
       if soup.select_one('#content article').attrs['data-uri'] == study_uri:
         if footnotes:
-          print(footnotes)
           verse_range_separator_example = footnotes.select_one('#note1d_p1 a, #note1_d_p1 a').find_next_sibling('a').text  # 'Mosiah 1:2–3'
           verse_group_separator_example = footnotes.select_one('#note1c_p1 a, #note1_c_p1 a').text  # 'D&C 68:25, 28'
           reference_separator = footnotes.select_one('#note1d_p1 a, #note1_d_p1 a').next_sibling.text  # '; '
