@@ -279,9 +279,10 @@ def gather_metadata_for_language(language):
       footnotes = soup.select_one('.study-notes')
       if soup.select_one('#content article').attrs['data-uri'] == study_uri:
         if footnotes:
-          verse_range_separator_example = footnotes.select_one('#note1d_p1 a').find_next_sibling('a').text  # 'Mosiah 1:2–3'
-          verse_group_separator_example = footnotes.select_one('#note1c_p1 a').text  # 'D&C 68:25, 28'
-          reference_separator = footnotes.select_one('#note1d_p1 a').next_sibling.text  # '; '
+          print(footnotes)
+          verse_range_separator_example = footnotes.select_one('#note1d_p1 a, #note1_d_p1 a').find_next_sibling('a').text  # 'Mosiah 1:2–3'
+          verse_group_separator_example = footnotes.select_one('#note1c_p1 a, #note1_c_p1 a').text  # 'D&C 68:25, 28'
+          reference_separator = footnotes.select_one('#note1d_p1 a, #note1_d_p1 a').next_sibling.text  # '; '
           metadata_extras[bcp47_lang]['bookChapterSeparator'] = re.match(r'^[^\s]+(.*?)\d+', verse_range_separator_example).group(1)
           metadata_extras[bcp47_lang]['chapterVerseSeparator'] = re.match(r'^.+?\d+(.+?)\d+', verse_range_separator_example).group(1)
           metadata_extras[bcp47_lang]['verseRangeSeparator'] = re.match(r'^.+?\d+.+?\d+(.+?)\d+', verse_range_separator_example).group(1)
@@ -289,7 +290,7 @@ def gather_metadata_for_language(language):
             metadata_extras[bcp47_lang]['verseGroupSeparator'] = re.match(r'^.+?\d+.+?\d+(.+?)\d+', verse_group_separator_example).group(1)
           except:
             # In Indonesian and possibly other languages, the word order is reversed, so use footnote b instead of footnote c
-            verse_group_separator_example = footnotes.select_one('#note1b_p1 a').text  # 'D&C 68:25, 28'
+            verse_group_separator_example = footnotes.select_one('#note1b_p1 a, #note1_b_p1 a').text  # 'D&C 68:25, 28'
             metadata_extras[bcp47_lang]['verseGroupSeparator'] = re.match(r'^.+?\d+.+?\d+(.+?)\d+', verse_group_separator_example).group(1)
           metadata_extras[bcp47_lang]['referenceSeparator'] = reference_separator
         verse_number_spans = soup.select('.verse-number')  # '1 ', '2 ', '3 ', etc.
