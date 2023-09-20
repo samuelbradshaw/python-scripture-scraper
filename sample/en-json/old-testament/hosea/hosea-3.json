@@ -1,50 +1,90 @@
 {
-  "name": "Hosea 3",
-  "abbrev": "Hosea 3",
-  "number": "3",
-  "churchUri": "/scriptures/ot/hosea/3",
+  "name": "Hosea 3", 
+  "abbrev": "Hosea 3", 
+  "number": "3", 
+  "churchUri": "/scriptures/ot/hosea/3", 
   "paragraphs": [
     {
-      "slug": "hosea-3-title_number1",
-      "type": "chapter-title",
-      "number": null,
-      "content": "Chapter 3",
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Chapter 3", 
+      "contentHtml": "Chapter 3", 
+      "number": null, 
+      "pageNumber": "1124", 
+      "compareId": "hosea-3_ct1", 
       "churchId": "title_number1"
-    },
+    }, 
     {
-      "slug": "hosea-3-p1",
-      "type": "verse",
-      "number": "1",
-      "content": "Then said the <span class=\"small-caps\">Lord</span> unto me, Go yet, love a woman beloved of <span class=\"clarity-word\">her</span> friend, yet an adulteress, according to the love of the <span class=\"small-caps\">Lord</span> toward the children of Israel, who look to other gods, and love flagons of wine.",
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Then said the LORD unto me, Go yet, love a woman beloved of her friend, yet an adulteress, according to the love of the LORD toward the children of Israel, who look to other gods, and love flagons of wine.", 
+      "contentHtml": "Then said the <span class=\"small-caps\">Lord</span> unto me, Go yet, love a woman beloved of <span class=\"clarity-word\">her</span> friend, yet an adulteress, according to the love of the <span class=\"small-caps\">Lord</span> toward the children of Israel, who look to other gods, and love flagons of wine.", 
+      "number": "1", 
+      "pageNumber": "1124", 
+      "compareId": "hosea-3_v1", 
       "churchId": "p1"
-    },
+    }, 
     {
-      "slug": "hosea-3-p2",
-      "type": "verse",
-      "number": "2",
-      "content": "So I bought her to me for fifteen <span class=\"clarity-word\">pieces</span> of silver, and <span class=\"clarity-word\">for</span> an homer of barley, and an half homer of barley:",
+      "type": "verse", 
+      "id": "v2", 
+      "content": "So I bought her to me for fifteen pieces of silver, and for an homer of barley, and an half homer of barley:", 
+      "contentHtml": "So I bought her to me for fifteen <span class=\"clarity-word\">pieces</span> of silver, and <span class=\"clarity-word\">for</span> an homer of barley, and an half homer of barley:", 
+      "number": "2", 
+      "pageNumber": "1124", 
+      "compareId": "hosea-3_v2", 
       "churchId": "p2"
-    },
+    }, 
     {
-      "slug": "hosea-3-p3",
-      "type": "verse",
-      "number": "3",
-      "content": "And I said unto her, Thou shalt abide for me many days; thou shalt not play the harlot, and thou shalt not be for <span class=\"clarity-word\">another</span> man: so <span class=\"clarity-word\">will</span> I also <span class=\"clarity-word\">be</span> for thee.",
+      "type": "verse", 
+      "id": "v3", 
+      "content": "And I said unto her, Thou shalt abide for me many days; thou shalt not play the harlot, and thou shalt not be for another man: so will I also be for thee.", 
+      "contentHtml": "And I said unto her, Thou shalt abide for me many days; thou shalt not play the harlot, and thou shalt not be for <span class=\"clarity-word\">another</span> man: so <span class=\"clarity-word\">will</span> I also <span class=\"clarity-word\">be</span> for thee.", 
+      "number": "3", 
+      "pageNumber": "1124", 
+      "compareId": "hosea-3_v3", 
       "churchId": "p3"
-    },
+    }, 
     {
-      "slug": "hosea-3-p4",
-      "type": "verse",
-      "number": "4",
-      "content": "For the children of Israel shall abide many days without a king, and without a prince, and without a sacrifice, and without an image, and without an ephod, and <span class=\"clarity-word\">without</span> teraphim:",
+      "type": "verse", 
+      "id": "v4", 
+      "content": "For the children of Israel shall abide many days without a king, and without a prince, and without a sacrifice, and without an image, and without an ephod, and without teraphim:", 
+      "contentHtml": "For the children of Israel shall abide many days without a king, and without a prince, and without a sacrifice, and without an image, and without an ephod, and <span class=\"clarity-word\">without</span> teraphim:", 
+      "number": "4", 
+      "pageNumber": "1124", 
+      "compareId": "hosea-3_v4", 
       "churchId": "p4"
-    },
+    }, 
     {
-      "slug": "hosea-3-p5",
-      "type": "verse",
-      "number": "5",
-      "content": "Afterward shall the children of Israel return, and seek the <span class=\"small-caps\">Lord</span> their God, and David their king; and shall fear the <span class=\"small-caps\">Lord</span> and his goodness in the latter days.",
+      "type": "verse", 
+      "id": "v5", 
+      "content": "Afterward shall the children of Israel return, and seek the LORD their God, and David their king; and shall fear the LORD and his goodness in the latter days.", 
+      "contentHtml": "Afterward shall the children of Israel return, and seek the <span class=\"small-caps\">Lord</span> their God, and David their king; and shall fear the <span class=\"small-caps\">Lord</span> and his goodness in the latter days.", 
+      "number": "5", 
+      "pageNumber": "1124", 
+      "compareId": "hosea-3_v5", 
       "churchId": "p5"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/the-old-testament/2015-11-8650-hosea-03-female-voice-64k-eng.mp3", 
+      "id": null, 
+      "thumbUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org"
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/the-old-testament/2015-11-8650-hosea-03-male-voice-64k-eng.mp3", 
+      "id": null, 
+      "thumbUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org"
     }
   ]
 }

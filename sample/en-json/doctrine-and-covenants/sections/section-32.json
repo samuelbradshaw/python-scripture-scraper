@@ -1,50 +1,90 @@
 {
-  "name": "Doctrine and Covenants 32",
-  "abbrev": "D&C 32",
-  "number": "32",
-  "churchUri": "/scriptures/dc-testament/dc/32",
+  "name": "Doctrine and Covenants 32", 
+  "abbrev": "D&C 32", 
+  "number": "32", 
+  "churchUri": "/scriptures/dc-testament/dc/32", 
   "paragraphs": [
     {
-      "slug": "section-32-title_number1",
-      "type": "chapter-title",
-      "number": null,
-      "content": "Section 32",
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Section 32", 
+      "contentHtml": "Section 32", 
+      "number": null, 
+      "pageNumber": "56", 
+      "compareId": "section-32_ct1", 
       "churchId": "title_number1"
-    },
+    }, 
     {
-      "slug": "section-32-p1",
-      "type": "verse",
-      "number": "1",
-      "content": "And now concerning my servant Parley P. Pratt, behold, I say unto him that as I live I will that he shall declare my gospel and learn of me, and be meek and lowly of heart.",
+      "type": "verse", 
+      "id": "v1", 
+      "content": "And now concerning my servant Parley P. Pratt, behold, I say unto him that as I live I will that he shall declare my gospel and learn of me, and be meek and lowly of heart.", 
+      "contentHtml": "And now concerning my servant Parley P. Pratt, behold, I say unto him that as I live I will that he shall declare my gospel and learn of me, and be meek and lowly of heart.", 
+      "number": "1", 
+      "pageNumber": "56", 
+      "compareId": "section-32_v1", 
       "churchId": "p1"
-    },
+    }, 
     {
-      "slug": "section-32-p2",
-      "type": "verse",
-      "number": "2",
-      "content": "And that which I have appointed unto him is that he shall go with my servants, Oliver Cowdery and Peter Whitmer, Jun., into the wilderness among the Lamanites.",
+      "type": "verse", 
+      "id": "v2", 
+      "content": "And that which I have appointed unto him is that he shall go with my servants, Oliver Cowdery and Peter Whitmer, Jun., into the wilderness among the Lamanites.", 
+      "contentHtml": "And that which I have appointed unto him is that he shall go with my servants, Oliver Cowdery and Peter Whitmer, Jun., into the wilderness among the Lamanites.", 
+      "number": "2", 
+      "pageNumber": "56", 
+      "compareId": "section-32_v2", 
       "churchId": "p2"
-    },
+    }, 
     {
-      "slug": "section-32-p3",
-      "type": "verse",
-      "number": "3",
-      "content": "And Ziba Peterson also shall go with them; and I myself will go with them and be in their midst; and I am their advocate with the Father, and nothing shall prevail against them.",
+      "type": "verse", 
+      "id": "v3", 
+      "content": "And Ziba Peterson also shall go with them; and I myself will go with them and be in their midst; and I am their advocate with the Father, and nothing shall prevail against them.", 
+      "contentHtml": "And Ziba Peterson also shall go with them; and I myself will go with them and be in their midst; and I am their advocate with the Father, and nothing shall prevail against them.", 
+      "number": "3", 
+      "pageNumber": "56", 
+      "compareId": "section-32_v3", 
       "churchId": "p3"
-    },
+    }, 
     {
-      "slug": "section-32-p4",
-      "type": "verse",
-      "number": "4",
-      "content": "And they shall give heed to that which is written, and pretend to no other revelation; and they shall pray always that I may unfold the same to their understanding.",
+      "type": "verse", 
+      "id": "v4", 
+      "content": "And they shall give heed to that which is written, and pretend to no other revelation; and they shall pray always that I may unfold the same to their understanding.", 
+      "contentHtml": "And they shall give heed to that which is written, and pretend to no other revelation; and they shall pray always that I may unfold the same to their understanding.", 
+      "number": "4", 
+      "pageNumber": "56", 
+      "compareId": "section-32_v4", 
       "churchId": "p4"
-    },
+    }, 
     {
-      "slug": "section-32-p5",
-      "type": "verse",
-      "number": "5",
-      "content": "And they shall give heed unto these words and trifle not, and I will bless them. Amen.",
+      "type": "verse", 
+      "id": "v5", 
+      "content": "And they shall give heed unto these words and trifle not, and I will bless them. Amen.", 
+      "contentHtml": "And they shall give heed unto these words and trifle not, and I will bless them. Amen.", 
+      "number": "5", 
+      "pageNumber": "56", 
+      "compareId": "section-32_v5", 
       "churchId": "p5"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0320-section-32-female-voice-64k-eng.mp3", 
+      "id": null, 
+      "thumbUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org"
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0320-section-32-male-voice-64k-eng.mp3", 
+      "id": null, 
+      "thumbUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org"
     }
   ]
 }

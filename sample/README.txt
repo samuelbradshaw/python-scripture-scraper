@@ -8,8 +8,8 @@ Users are responsible for complying with copyright and other laws in their use o
 
 --------
 
-Script version: 1.0
-Date generated: 2022-09-01 23:35:18.349652
+Script version: 2.0
+Date generated: 2023-08-02 01:59:54.471393
 
 DEFAULT_LANG = 'en'
 SCRAPE_FULL_CONTENT = True
@@ -25,8 +25,10 @@ OUTPUT_AS_CSV = True
 OUTPUT_AS_TSV = True
 OUTPUT_AS_SQL_MYSQL = True
 OUTPUT_AS_SQL_SQLITE = True
-SPLIT_BY_CHAPTER = True
-INCLUDE_INLINE_ELEMENTS = True
+SPLIT_JSON_BY_CHAPTER = True
+MINIFY_JSON = False
+BASIC_HTML = False
 INCLUDE_IMAGES = True
 INCLUDE_COPYRIGHTED_CONTENT = False
+INCLUDE_MEDIA_INFO = True
 ADD_CSS_STYLESHEET = True

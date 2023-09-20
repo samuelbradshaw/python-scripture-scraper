@@ -1,22 +1,50 @@
 {
-  "name": "Doctrine and Covenants 116",
-  "abbrev": "D&C 116",
-  "number": "116",
-  "churchUri": "/scriptures/dc-testament/dc/116",
+  "name": "Doctrine and Covenants 116", 
+  "abbrev": "D&C 116", 
+  "number": "116", 
+  "churchUri": "/scriptures/dc-testament/dc/116", 
   "paragraphs": [
     {
-      "slug": "section-116-title_number1",
-      "type": "chapter-title",
-      "number": null,
-      "content": "Section 116",
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Section 116", 
+      "contentHtml": "Section 116", 
+      "number": null, 
+      "pageNumber": "236", 
+      "compareId": "section-116_ct1", 
       "churchId": "title_number1"
-    },
+    }, 
     {
-      "slug": "section-116-p1",
-      "type": "verse",
-      "number": "1",
-      "content": "Spring Hill is named by the Lord Adam-ondi-Ahman, because, said he, it is the place where Adam shall come to visit his people, or the Ancient of Days shall sit, as spoken of by Daniel the prophet.",
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Spring Hill is named by the Lord Adam-ondi-Ahman, because, said he, it is the place where Adam shall come to visit his people, or the Ancient of Days shall sit, as spoken of by Daniel the prophet.", 
+      "contentHtml": "Spring Hill is named by the Lord Adam-ondi-Ahman, because, said he, it is the place where Adam shall come to visit his people, or the Ancient of Days shall sit, as spoken of by Daniel the prophet.", 
+      "number": "1", 
+      "pageNumber": "236", 
+      "compareId": "section-116_v1", 
       "churchId": "p1"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-1160-section-116-female-voice-64k-eng.mp3", 
+      "id": null, 
+      "thumbUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org"
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-1160-section-116-male-voice-64k-eng.mp3", 
+      "id": null, 
+      "thumbUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org"
     }
   ]
 }

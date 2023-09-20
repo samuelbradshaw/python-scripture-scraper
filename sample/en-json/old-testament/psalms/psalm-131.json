@@ -1,43 +1,80 @@
 {
-  "name": "Psalm 131",
-  "abbrev": "Psalm 131",
-  "number": "131",
-  "churchUri": "/scriptures/ot/ps/131",
+  "name": "Psalm 131", 
+  "abbrev": "Psalm 131", 
+  "number": "131", 
+  "churchUri": "/scriptures/ot/ps/131", 
   "paragraphs": [
     {
-      "slug": "psalm-131-title_number1",
-      "type": "chapter-title",
-      "number": null,
-      "content": "Psalm 131",
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Psalm 131", 
+      "contentHtml": "Psalm 131", 
+      "number": null, 
+      "pageNumber": "801", 
+      "compareId": "psalm-131_ct1", 
       "churchId": "title_number1"
-    },
+    }, 
     {
-      "slug": "psalm-131-intro1",
-      "type": "paragraph",
-      "number": null,
-      "content": "A Song of degrees of David.",
+      "type": "paragraph", 
+      "id": "p1", 
+      "content": "A Song of degrees of David.", 
+      "contentHtml": "A Song of degrees of David.", 
+      "number": null, 
+      "pageNumber": "801", 
+      "compareId": "psalm-131_p1", 
       "churchId": "intro1"
-    },
+    }, 
     {
-      "slug": "psalm-131-p1",
-      "type": "verse",
-      "number": "1",
-      "content": "<span class=\"small-caps\">Lord</span>, my heart is not haughty, nor mine eyes lofty: neither do I exercise myself in great matters, or in things too high for me.",
+      "type": "verse", 
+      "id": "v1", 
+      "content": "LORD, my heart is not haughty, nor mine eyes lofty: neither do I exercise myself in great matters, or in things too high for me.", 
+      "contentHtml": "<span class=\"small-caps\">Lord</span>, my heart is not haughty, nor mine eyes lofty: neither do I exercise myself in great matters, or in things too high for me.", 
+      "number": "1", 
+      "pageNumber": "801", 
+      "compareId": "psalm-131_v1", 
       "churchId": "p1"
-    },
+    }, 
     {
-      "slug": "psalm-131-p2",
-      "type": "verse",
-      "number": "2",
-      "content": "Surely I have behaved and quieted myself, as a child that is weaned of his mother: my soul <span class=\"clarity-word\">is</span> even as a weaned child.",
+      "type": "verse", 
+      "id": "v2", 
+      "content": "Surely I have behaved and quieted myself, as a child that is weaned of his mother: my soul is even as a weaned child.", 
+      "contentHtml": "Surely I have behaved and quieted myself, as a child that is weaned of his mother: my soul <span class=\"clarity-word\">is</span> even as a weaned child.", 
+      "number": "2", 
+      "pageNumber": "801", 
+      "compareId": "psalm-131_v2", 
       "churchId": "p2"
-    },
+    }, 
     {
-      "slug": "psalm-131-p3",
-      "type": "verse",
-      "number": "3",
-      "content": "Let Israel hope in the <span class=\"small-caps\">Lord</span> from henceforth and for ever.",
+      "type": "verse", 
+      "id": "v3", 
+      "content": "Let Israel hope in the LORD from henceforth and for ever.", 
+      "contentHtml": "Let Israel hope in the <span class=\"small-caps\">Lord</span> from henceforth and for ever.", 
+      "number": "3", 
+      "pageNumber": "801", 
+      "compareId": "psalm-131_v3", 
       "churchId": "p3"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/the-old-testament/2015-11-6090-psalm-131-female-voice-64k-eng.mp3", 
+      "id": null, 
+      "thumbUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org"
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/the-old-testament/2015-11-6090-psalm-131-male-voice-64k-eng.mp3", 
+      "id": null, 
+      "thumbUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org"
     }
   ]
 }

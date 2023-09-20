@@ -1,50 +1,90 @@
 {
-  "name": "Moroni 1",
-  "abbrev": "Moro. 1",
-  "number": "1",
-  "churchUri": "/scriptures/bofm/moro/1",
+  "name": "Moroni 1", 
+  "abbrev": "Moro. 1", 
+  "number": "1", 
+  "churchUri": "/scriptures/bofm/moro/1", 
   "paragraphs": [
     {
-      "slug": "moroni-1-title1",
-      "type": "book-title",
-      "number": null,
-      "content": "The Book of Moroni",
+      "type": "book-title", 
+      "id": "bt1", 
+      "content": "The Book of Moroni", 
+      "contentHtml": "The Book of Moroni", 
+      "number": null, 
+      "pageNumber": null, 
+      "compareId": "moroni-1_bt1", 
       "churchId": "title1"
-    },
+    }, 
     {
-      "slug": "moroni-1-title_number1",
-      "type": "chapter-title",
-      "number": null,
-      "content": "Chapter 1",
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Chapter 1", 
+      "contentHtml": "Chapter 1", 
+      "number": null, 
+      "pageNumber": null, 
+      "compareId": "moroni-1_ct1", 
       "churchId": "title_number1"
-    },
+    }, 
     {
-      "slug": "moroni-1-p1",
-      "type": "verse",
-      "number": "1",
-      "content": "Now I, Moroni, after having made an end of abridging the account of the people of Jared, I had supposed not to have written more, but I have not as yet perished; and I make not myself known to the Lamanites lest they should destroy me.",
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Now I, Moroni, after having made an end of abridging the account of the people of Jared, I had supposed not to have written more, but I have not as yet perished; and I make not myself known to the Lamanites lest they should destroy me.", 
+      "contentHtml": "Now I, Moroni, after having made an end of abridging the account of the people of Jared, I had supposed not to have written more, but I have not as yet perished; and I make not myself known to the Lamanites lest they should destroy me.", 
+      "number": "1", 
+      "pageNumber": null, 
+      "compareId": "moroni-1_v1", 
       "churchId": "p1"
-    },
+    }, 
     {
-      "slug": "moroni-1-p2",
-      "type": "verse",
-      "number": "2",
-      "content": "For behold, their wars are exceedingly fierce among themselves; and because of their hatred they put to death every Nephite that will not deny the Christ.",
+      "type": "verse", 
+      "id": "v2", 
+      "content": "For behold, their wars are exceedingly fierce among themselves; and because of their hatred they put to death every Nephite that will not deny the Christ.", 
+      "contentHtml": "For behold, their wars are exceedingly fierce among themselves; and because of their hatred they put to death every Nephite that will not deny the Christ.", 
+      "number": "2", 
+      "pageNumber": null, 
+      "compareId": "moroni-1_v2", 
       "churchId": "p2"
-    },
+    }, 
     {
-      "slug": "moroni-1-p3",
-      "type": "verse",
-      "number": "3",
-      "content": "And I, Moroni, will not deny the Christ; wherefore, I wander whithersoever I can for the safety of mine own life.",
+      "type": "verse", 
+      "id": "v3", 
+      "content": "And I, Moroni, will not deny the Christ; wherefore, I wander whithersoever I can for the safety of mine own life.", 
+      "contentHtml": "And I, Moroni, will not deny the Christ; wherefore, I wander whithersoever I can for the safety of mine own life.", 
+      "number": "3", 
+      "pageNumber": null, 
+      "compareId": "moroni-1_v3", 
       "churchId": "p3"
-    },
+    }, 
     {
-      "slug": "moroni-1-p4",
-      "type": "verse",
-      "number": "4",
-      "content": "Wherefore, I write a few more things, contrary to that which I had supposed; for I had supposed not to have written any more; but I write a few more things, that perhaps they may be of worth unto my brethren, the Lamanites, in some future day, according to the will of the Lord.",
+      "type": "verse", 
+      "id": "v4", 
+      "content": "Wherefore, I write a few more things, contrary to that which I had supposed; for I had supposed not to have written any more; but I write a few more things, that perhaps they may be of worth unto my brethren, the Lamanites, in some future day, according to the will of the Lord.", 
+      "contentHtml": "Wherefore, I write a few more things, contrary to that which I had supposed; for I had supposed not to have written any more; but I write a few more things, that perhaps they may be of worth unto my brethren, the Lamanites, in some future day, according to the will of the Lord.", 
+      "number": "4", 
+      "pageNumber": null, 
+      "compareId": "moroni-1_v4", 
       "churchId": "p4"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ/2015-11-2300-moroni-01-female-voice-64k-eng.mp3", 
+      "id": null, 
+      "thumbUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org"
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ/2015-11-2300-moroni-01-male-voice-64k-eng.mp3", 
+      "id": null, 
+      "thumbUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org"
     }
   ]
 }

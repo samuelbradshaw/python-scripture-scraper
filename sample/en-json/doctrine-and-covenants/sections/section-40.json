@@ -1,36 +1,70 @@
 {
-  "name": "Doctrine and Covenants 40",
-  "abbrev": "D&C 40",
-  "number": "40",
-  "churchUri": "/scriptures/dc-testament/dc/40",
+  "name": "Doctrine and Covenants 40", 
+  "abbrev": "D&C 40", 
+  "number": "40", 
+  "churchUri": "/scriptures/dc-testament/dc/40", 
   "paragraphs": [
     {
-      "slug": "section-40-title_number1",
-      "type": "chapter-title",
-      "number": null,
-      "content": "Section 40",
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Section 40", 
+      "contentHtml": "Section 40", 
+      "number": null, 
+      "pageNumber": "68", 
+      "compareId": "section-40_ct1", 
       "churchId": "title_number1"
-    },
+    }, 
     {
-      "slug": "section-40-p1",
-      "type": "verse",
-      "number": "1",
-      "content": "Behold, verily I say unto you, that the heart of my servant James Covel was right before me, for he covenanted with me that he would obey my word.",
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Behold, verily I say unto you, that the heart of my servant James Covel was right before me, for he covenanted with me that he would obey my word.", 
+      "contentHtml": "Behold, verily I say unto you, that the heart of my servant James Covel was right before me, for he covenanted with me that he would obey my word.", 
+      "number": "1", 
+      "pageNumber": "68", 
+      "compareId": "section-40_v1", 
       "churchId": "p1"
-    },
+    }, 
     {
-      "slug": "section-40-p2",
-      "type": "verse",
-      "number": "2",
-      "content": "And he received the word with gladness, but straightway Satan tempted him; and the fear of persecution and the cares of the world caused him to reject the word.",
+      "type": "verse", 
+      "id": "v2", 
+      "content": "And he received the word with gladness, but straightway Satan tempted him; and the fear of persecution and the cares of the world caused him to reject the word.", 
+      "contentHtml": "And he received the word with gladness, but straightway Satan tempted him; and the fear of persecution and the cares of the world caused him to reject the word.", 
+      "number": "2", 
+      "pageNumber": "68", 
+      "compareId": "section-40_v2", 
       "churchId": "p2"
-    },
+    }, 
     {
-      "slug": "section-40-p3",
-      "type": "verse",
-      "number": "3",
-      "content": "Wherefore he broke my covenant, and it remaineth with me to do with him as seemeth me good. Amen.",
+      "type": "verse", 
+      "id": "v3", 
+      "content": "Wherefore he broke my covenant, and it remaineth with me to do with him as seemeth me good. Amen.", 
+      "contentHtml": "Wherefore he broke my covenant, and it remaineth with me to do with him as seemeth me good. Amen.", 
+      "number": "3", 
+      "pageNumber": "68", 
+      "compareId": "section-40_v3", 
       "churchId": "p3"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0400-section-40-female-voice-64k-eng.mp3", 
+      "id": null, 
+      "thumbUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org"
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0400-section-40-male-voice-64k-eng.mp3", 
+      "id": null, 
+      "thumbUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org"
     }
   ]
 }

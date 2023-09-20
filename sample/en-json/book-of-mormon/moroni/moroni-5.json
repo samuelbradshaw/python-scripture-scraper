@@ -1,29 +1,60 @@
 {
-  "name": "Moroni 5",
-  "abbrev": "Moro. 5",
-  "number": "5",
-  "churchUri": "/scriptures/bofm/moro/5",
+  "name": "Moroni 5", 
+  "abbrev": "Moro. 5", 
+  "number": "5", 
+  "churchUri": "/scriptures/bofm/moro/5", 
   "paragraphs": [
     {
-      "slug": "moroni-5-title_number1",
-      "type": "chapter-title",
-      "number": null,
-      "content": "Chapter 5",
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Chapter 5", 
+      "contentHtml": "Chapter 5", 
+      "number": null, 
+      "pageNumber": "519", 
+      "compareId": "moroni-5_ct1", 
       "churchId": "title_number1"
-    },
+    }, 
     {
-      "slug": "moroni-5-p1",
-      "type": "verse",
-      "number": "1",
-      "content": "The manner of administering the wine—Behold, they took the cup, and said:",
+      "type": "verse", 
+      "id": "v1", 
+      "content": "The manner of administering the wine—Behold, they took the cup, and said:", 
+      "contentHtml": "The manner of administering the wine—Behold, they took the cup, and said:", 
+      "number": "1", 
+      "pageNumber": "519", 
+      "compareId": "moroni-5_v1", 
       "churchId": "p1"
-    },
+    }, 
     {
-      "slug": "moroni-5-p2",
-      "type": "verse",
-      "number": "2",
-      "content": "O God, the Eternal Father, we ask thee, in the name of thy Son, Jesus Christ, to bless and sanctify this wine to the souls of all those who drink of it, that they may do it in remembrance of the blood of thy Son, which was shed for them; that they may witness unto thee, O God, the Eternal Father, that they do always remember him, that they may have his Spirit to be with them. Amen.",
+      "type": "verse", 
+      "id": "v2", 
+      "content": "O God, the Eternal Father, we ask thee, in the name of thy Son, Jesus Christ, to bless and sanctify this wine to the souls of all those who drink of it, that they may do it in remembrance of the blood of thy Son, which was shed for them; that they may witness unto thee, O God, the Eternal Father, that they do always remember him, that they may have his Spirit to be with them. Amen.", 
+      "contentHtml": "O God, the Eternal Father, we ask thee, in the name of thy Son, Jesus Christ, to bless and sanctify this wine to the souls of all those who drink of it, that they may do it in remembrance of the blood of thy Son, which was shed for them; that they may witness unto thee, O God, the Eternal Father, that they do always remember him, that they may have his Spirit to be with them. Amen.", 
+      "number": "2", 
+      "pageNumber": "519,520", 
+      "compareId": "moroni-5_v2", 
       "churchId": "p2"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ/2015-11-2340-moroni-05-female-voice-64k-eng.mp3", 
+      "id": null, 
+      "thumbUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org"
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ/2015-11-2340-moroni-05-male-voice-64k-eng.mp3", 
+      "id": null, 
+      "thumbUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org"
     }
   ]
 }

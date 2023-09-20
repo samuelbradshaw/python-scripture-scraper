@@ -9,62 +9,73 @@ PRAGMA foreign_keys = ON;
 
 /* CREATE TABLES */
 
-CREATE TABLE IF NOT EXISTS Language (
+CREATE TABLE IF NOT EXISTS Publication (
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  pubKey TEXT NOT NULL,
   langBcp47 TEXT NOT NULL,
-  langChurchCode TEXT NOT NULL,
-  langAutonym TEXT NOT NULL,
-  PRIMARY KEY (langBcp47)
-);
-
-CREATE TABLE IF NOT EXISTS Volume (
-  volumeSlug TEXT NOT NULL,
-  langBcp47 TEXT NOT NULL,
-  volumeName TEXT NOT NULL,
-  volumeAbbrev TEXT,
-  volumePosition INTEGER NOT NULL,
-  volumeChurchUri TEXT NOT NULL,
-  PRIMARY KEY (volumeSlug, langBcp47),
-  FOREIGN KEY (langBcp47) REFERENCES Language (langBcp47) ON DELETE RESTRICT ON UPDATE CASCADE
-);
-
-CREATE TABLE IF NOT EXISTS Book (
-  bookSlug TEXT NOT NULL,
-  langBcp47 TEXT NOT NULL,
-  bookName TEXT NOT NULL,
-  bookAbbrev TEXT,
-  bookPosition INTEGER NOT NULL,
-  bookChurchUri TEXT NOT NULL,
-  volumeSlug TEXT NOT NULL,
-  PRIMARY KEY (bookSlug, langBcp47),
-  FOREIGN KEY (volumeSlug, langBcp47) REFERENCES Volume (volumeSlug, langBcp47) ON DELETE RESTRICT ON UPDATE CASCADE
+  pubPosition INTEGER NOT NULL,
+  pubSlug TEXT NOT NULL,
+  pubName TEXT NOT NULL,
+  pubVersionSlug TEXT NOT NULL,
+  pubVersionAbbrev TEXT,
+  pubVersionName TEXT,
+  pubEditionYear INTEGER,
+  pubFirstEditionYear INTEGER,
+  pubCopyrightStatement TEXT,
+  pubCopyrightOwner TEXT,
+  pubCategory TEXT,
+  pubIsHistorical INTEGER NOT NULL DEFAULT 0,
+  pubIsManuscript INTEGER NOT NULL DEFAULT 0,
+  pubSource TEXT,
+  pubSourceUrl TEXT,
+  pubChurchUri TEXT,
+  pubCreatedDate DATETIME DEFAULT CURRENT_TIMESTAMP,
+  UNIQUE(pubKey)
 );
 
 CREATE TABLE IF NOT EXISTS Chapter (
-  chapterSlug TEXT NOT NULL,
-  langBcp47 TEXT NOT NULL,
-  chapterName TEXT NOT NULL,
-  chapterAbbrev TEXT,
-  chapterNumber TEXT NOT NULL,
-  chapterPosition INTEGER NOT NULL,
-  chapterChurchUri TEXT NOT NULL,
-  bookSlug TEXT NOT NULL,
-  PRIMARY KEY (chapterSlug, langBcp47),
-  FOREIGN KEY (bookSlug, langBcp47) REFERENCES Book (bookSlug, langBcp47) ON DELETE RESTRICT ON UPDATE CASCADE
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  pubKey TEXT NOT NULL,
+  chPosition INTEGER NOT NULL,
+  chSlug TEXT NOT NULL,
+  chName TEXT NOT NULL,
+  chAbbrev TEXT,
+  chNumber TEXT,
+  bookSlug TEXT,
+  chChurchUri TEXT,
+  FOREIGN KEY (pubKey) REFERENCES Publication (pubKey) ON DELETE RESTRICT ON UPDATE CASCADE
+);
+
+CREATE TABLE IF NOT EXISTS ChapterMedia (
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  pubKey TEXT NOT NULL,
+  chSlug TEXT NOT NULL,
+  chmType TEXT NOT NULL,
+  chmSubType TEXT,
+  chmUrl TEXT,
+  chmThumbUrl TEXT,
+  chmStartSeconds TEXT,
+  chmEndSeconds TEXT,
+  chmSource TEXT,
+  chmChurchAssetId TEXT,
+  FOREIGN KEY (pubKey) REFERENCES Publication (pubKey) ON DELETE RESTRICT ON UPDATE CASCADE
 );
 
 CREATE TABLE IF NOT EXISTS Paragraph (
-  paraSlug TEXT NOT NULL,
-  langBcp47 TEXT NOT NULL,
-  paraType TEXT NOT NULL,
-  paraNumber TEXT,
-  paraContent TEXT NOT NULL,
-  paraPosition INTEGER NOT NULL,
-  paraChurchId TEXT NOT NULL,
-  chapterSlug TEXT NOT NULL,
-  PRIMARY KEY (paraSlug, langBcp47),
-  FOREIGN KEY (chapterSlug, langBcp47) REFERENCES Chapter (chapterSlug, langBcp47) ON DELETE RESTRICT ON UPDATE CASCADE
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  pubKey TEXT NOT NULL,
+  chSlug TEXT NOT NULL,
+  parPosition INTEGER NOT NULL,
+  parType TEXT NOT NULL,
+  parId TEXT NOT NULL,
+  parContent TEXT NOT NULL,
+  parContentHtml TEXT NOT NULL,
+  parNumber TEXT,
+  parPageNumber TEXT,
+  parCompareId TEXT NOT NULL,
+  parChurchId TEXT,
+  FOREIGN KEY (pubKey) REFERENCES Publication (pubKey) ON DELETE RESTRICT ON UPDATE CASCADE
 );
-
 
 /* INSERT DATA */
 
@@ -72,28 +83,40 @@ CREATE TABLE IF NOT EXISTS Paragraph (
 
 /* CREATE INDEXES */
 
-DROP INDEX IF EXISTS IDX_Volume_langBcp47;
-DROP INDEX IF EXISTS IDX_Volume_volumePosition;
-DROP INDEX IF EXISTS IDX_Book_volumeSlug_langBcp47;
-DROP INDEX IF EXISTS IDX_Book_bookPosition;
-DROP INDEX IF EXISTS IDX_Chapter_bookSlug_langBcp47;
-DROP INDEX IF EXISTS IDX_Chapter_chapterPosition;
-DROP INDEX IF EXISTS IDX_Paragraph_chapterSlug_langBcp47;
-DROP INDEX IF EXISTS IDX_Paragraph_paraPosition;
-CREATE INDEX IDX_Volume_langBcp47 ON Volume (langBcp47);
-CREATE INDEX IDX_Volume_volumePosition ON Volume (volumePosition);
-CREATE INDEX IDX_Book_volumeSlug_langBcp47 ON Book (volumeSlug, langBcp47);
-CREATE INDEX IDX_Book_bookPosition ON Book (bookPosition);
-CREATE INDEX IDX_Chapter_bookSlug_langBcp47 ON Chapter (bookSlug, langBcp47);
-CREATE INDEX IDX_Chapter_chapterPosition ON Chapter (chapterPosition);
-CREATE INDEX IDX_Paragraph_chapterSlug_langBcp47 ON Paragraph (chapterSlug, langBcp47);
-CREATE INDEX IDX_Paragraph_paraPosition ON Paragraph (paraPosition);
+DROP INDEX IF EXISTS IDX_Publication_pubPosition;
+DROP INDEX IF EXISTS IDX_Publication_pubSlug;
+DROP INDEX IF EXISTS IDX_Publication_pubVersionSlug;
+DROP INDEX IF EXISTS IDX_Chapter_pubKey_chSlug;
+DROP INDEX IF EXISTS IDX_Chapter_pubKey_bookSlug;
+DROP INDEX IF EXISTS IDX_Chapter_chPosition;
+DROP INDEX IF EXISTS FK_Chapter_pubKey;
+DROP INDEX IF EXISTS IDX_ChapterMedia_pubKey_chSlug;
+DROP INDEX IF EXISTS IDX_ChapterMedia_chmType;
+DROP INDEX IF EXISTS FK_ChapterMedia_pubKey;
+DROP INDEX IF EXISTS IDX_Paragraph_pubKey_chSlug;
+DROP INDEX IF EXISTS IDX_Paragraph_parPosition;
+DROP INDEX IF EXISTS IDX_Paragraph_parCompareId;
+DROP INDEX IF EXISTS FK_Paragraph_pubKey;
+CREATE INDEX IDX_Publication_pubPosition ON Publication (pubPosition);
+CREATE INDEX IDX_Publication_pubSlug ON Publication (pubSlug);
+CREATE INDEX IDX_Publication_pubVersionSlug ON Publication (pubVersionSlug);
+CREATE INDEX IDX_Chapter_pubKey_chSlug ON Chapter (pubKey, chSlug);
+CREATE INDEX IDX_Chapter_pubKey_bookSlug ON Chapter (pubKey, bookSlug);
+CREATE INDEX IDX_Chapter_chPosition ON Chapter (chPosition);
+CREATE INDEX FK_Chapter_pubKey ON Chapter (pubKey);
+CREATE INDEX IDX_ChapterMedia_pubKey_chSlug ON ChapterMedia (pubKey, chSlug);
+CREATE INDEX IDX_ChapterMedia_chmType ON ChapterMedia (chmType);
+CREATE INDEX FK_ChapterMedia_pubKey ON ChapterMedia (pubKey);
+CREATE INDEX IDX_Paragraph_pubKey_chSlug ON Paragraph (pubKey, chSlug);
+CREATE INDEX IDX_Paragraph_parPosition ON Paragraph (parPosition);
+CREATE INDEX IDX_Paragraph_parCompareId ON Paragraph (parCompareId);
+CREATE INDEX FK_Paragraph_pubKey ON Paragraph (pubKey);
 
 DROP TABLE IF EXISTS ParagraphFts;
 CREATE VIRTUAL TABLE ParagraphFts USING fts4 (
-  paraContent,
+  parContent,
   tokenize=porter
 );
-INSERT INTO ParagraphFts (docid, paraContent) SELECT rowid, paraContent FROM Paragraph;
+INSERT INTO ParagraphFts (docid, parContent) SELECT rowid, parContent FROM Paragraph;
 
 VACUUM;

@@ -1,43 +1,80 @@
 {
-  "name": "Doctrine and Covenants 125",
-  "abbrev": "D&C 125",
-  "number": "125",
-  "churchUri": "/scriptures/dc-testament/dc/125",
+  "name": "Doctrine and Covenants 125", 
+  "abbrev": "D&C 125", 
+  "number": "125", 
+  "churchUri": "/scriptures/dc-testament/dc/125", 
   "paragraphs": [
     {
-      "slug": "section-125-title_number1",
-      "type": "chapter-title",
-      "number": null,
-      "content": "Section 125",
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Section 125", 
+      "contentHtml": "Section 125", 
+      "number": null, 
+      "pageNumber": "256", 
+      "compareId": "section-125_ct1", 
       "churchId": "title_number1"
-    },
+    }, 
     {
-      "slug": "section-125-p1",
-      "type": "verse",
-      "number": "1",
-      "content": "What is the will of the Lord concerning the saints in the Territory of Iowa?",
+      "type": "verse", 
+      "id": "v1", 
+      "content": "What is the will of the Lord concerning the saints in the Territory of Iowa?", 
+      "contentHtml": "What is the will of the Lord concerning the saints in the Territory of Iowa?", 
+      "number": "1", 
+      "pageNumber": "256", 
+      "compareId": "section-125_v1", 
       "churchId": "p1"
-    },
+    }, 
     {
-      "slug": "section-125-p2",
-      "type": "verse",
-      "number": "2",
-      "content": "Verily, thus saith the Lord, I say unto you, if those who call themselves by my name and are essaying to be my saints, if they will do my will and keep my commandments concerning them, let them gather themselves together unto the places which I shall appoint unto them by my servant Joseph, and build up cities unto my name, that they may be prepared for that which is in store for a time to come.",
+      "type": "verse", 
+      "id": "v2", 
+      "content": "Verily, thus saith the Lord, I say unto you, if those who call themselves by my name and are essaying to be my saints, if they will do my will and keep my commandments concerning them, let them gather themselves together unto the places which I shall appoint unto them by my servant Joseph, and build up cities unto my name, that they may be prepared for that which is in store for a time to come.", 
+      "contentHtml": "Verily, thus saith the Lord, I say unto you, if those who call themselves by my name and are essaying to be my saints, if they will do my will and keep my commandments concerning them, let them gather themselves together unto the places which I shall appoint unto them by my servant Joseph, and build up cities unto my name, that they may be prepared for that which is in store for a time to come.", 
+      "number": "2", 
+      "pageNumber": "256", 
+      "compareId": "section-125_v2", 
       "churchId": "p2"
-    },
+    }, 
     {
-      "slug": "section-125-p3",
-      "type": "verse",
-      "number": "3",
-      "content": "Let them build up a city unto my name upon the land opposite the city of Nauvoo, and let the name of Zarahemla be named upon it.",
+      "type": "verse", 
+      "id": "v3", 
+      "content": "Let them build up a city unto my name upon the land opposite the city of Nauvoo, and let the name of Zarahemla be named upon it.", 
+      "contentHtml": "Let them build up a city unto my name upon the land opposite the city of Nauvoo, and let the name of Zarahemla be named upon it.", 
+      "number": "3", 
+      "pageNumber": "256", 
+      "compareId": "section-125_v3", 
       "churchId": "p3"
-    },
+    }, 
     {
-      "slug": "section-125-p4",
-      "type": "verse",
-      "number": "4",
-      "content": "And let all those who come from the east, and the west, and the north, and the south, that have desires to dwell therein, take up their inheritance in the same, as well as in the city of Nashville, or in the city of Nauvoo, and in all the stakes which I have appointed, saith the Lord.",
+      "type": "verse", 
+      "id": "v4", 
+      "content": "And let all those who come from the east, and the west, and the north, and the south, that have desires to dwell therein, take up their inheritance in the same, as well as in the city of Nashville, or in the city of Nauvoo, and in all the stakes which I have appointed, saith the Lord.", 
+      "contentHtml": "And let all those who come from the east, and the west, and the north, and the south, that have desires to dwell therein, take up their inheritance in the same, as well as in the city of Nashville, or in the city of Nauvoo, and in all the stakes which I have appointed, saith the Lord.", 
+      "number": "4", 
+      "pageNumber": "256", 
+      "compareId": "section-125_v4", 
       "churchId": "p4"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-1250-section-125-female-voice-64k-eng.mp3", 
+      "id": null, 
+      "thumbUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org"
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-1250-section-125-male-voice-64k-eng.mp3", 
+      "id": null, 
+      "thumbUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org"
     }
   ]
 }

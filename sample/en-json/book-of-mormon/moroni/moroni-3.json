@@ -1,43 +1,80 @@
 {
-  "name": "Moroni 3",
-  "abbrev": "Moro. 3",
-  "number": "3",
-  "churchUri": "/scriptures/bofm/moro/3",
+  "name": "Moroni 3", 
+  "abbrev": "Moro. 3", 
+  "number": "3", 
+  "churchUri": "/scriptures/bofm/moro/3", 
   "paragraphs": [
     {
-      "slug": "moroni-3-title_number1",
-      "type": "chapter-title",
-      "number": null,
-      "content": "Chapter 3",
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Chapter 3", 
+      "contentHtml": "Chapter 3", 
+      "number": null, 
+      "pageNumber": "519", 
+      "compareId": "moroni-3_ct1", 
       "churchId": "title_number1"
-    },
+    }, 
     {
-      "slug": "moroni-3-p1",
-      "type": "verse",
-      "number": "1",
-      "content": "The manner which the disciples, who were called the elders of the church, ordained priests and teachers—",
+      "type": "verse", 
+      "id": "v1", 
+      "content": "The manner which the disciples, who were called the elders of the church, ordained priests and teachers—", 
+      "contentHtml": "The manner which the disciples, who were called the elders of the church, ordained priests and teachers—", 
+      "number": "1", 
+      "pageNumber": "519", 
+      "compareId": "moroni-3_v1", 
       "churchId": "p1"
-    },
+    }, 
     {
-      "slug": "moroni-3-p2",
-      "type": "verse",
-      "number": "2",
-      "content": "After they had prayed unto the Father in the name of Christ, they laid their hands upon them, and said:",
+      "type": "verse", 
+      "id": "v2", 
+      "content": "After they had prayed unto the Father in the name of Christ, they laid their hands upon them, and said:", 
+      "contentHtml": "After they had prayed unto the Father in the name of Christ, they laid their hands upon them, and said:", 
+      "number": "2", 
+      "pageNumber": "519", 
+      "compareId": "moroni-3_v2", 
       "churchId": "p2"
-    },
+    }, 
     {
-      "slug": "moroni-3-p3",
-      "type": "verse",
-      "number": "3",
-      "content": "In the name of Jesus Christ I ordain you to be a priest (or if he be a teacher, I ordain you to be a teacher) to preach repentance and remission of sins through Jesus Christ, by the endurance of faith on his name to the end. Amen.",
+      "type": "verse", 
+      "id": "v3", 
+      "content": "In the name of Jesus Christ I ordain you to be a priest (or if he be a teacher, I ordain you to be a teacher) to preach repentance and remission of sins through Jesus Christ, by the endurance of faith on his name to the end. Amen.", 
+      "contentHtml": "In the name of Jesus Christ I ordain you to be a priest (or if he be a teacher, I ordain you to be a teacher) to preach repentance and remission of sins through Jesus Christ, by the endurance of faith on his name to the end. Amen.", 
+      "number": "3", 
+      "pageNumber": "519", 
+      "compareId": "moroni-3_v3", 
       "churchId": "p3"
-    },
+    }, 
     {
-      "slug": "moroni-3-p4",
-      "type": "verse",
-      "number": "4",
-      "content": "And after this manner did they ordain priests and teachers, according to the gifts and callings of God unto men; and they ordained them by the power of the Holy Ghost, which was in them.",
+      "type": "verse", 
+      "id": "v4", 
+      "content": "And after this manner did they ordain priests and teachers, according to the gifts and callings of God unto men; and they ordained them by the power of the Holy Ghost, which was in them.", 
+      "contentHtml": "And after this manner did they ordain priests and teachers, according to the gifts and callings of God unto men; and they ordained them by the power of the Holy Ghost, which was in them.", 
+      "number": "4", 
+      "pageNumber": "519", 
+      "compareId": "moroni-3_v4", 
       "churchId": "p4"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ/2015-11-2320-moroni-03-female-voice-64k-eng.mp3", 
+      "id": null, 
+      "thumbUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org"
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ/2015-11-2320-moroni-03-male-voice-64k-eng.mp3", 
+      "id": null, 
+      "thumbUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org"
     }
   ]
 }

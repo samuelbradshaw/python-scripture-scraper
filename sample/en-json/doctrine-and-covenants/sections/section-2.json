@@ -1,36 +1,70 @@
 {
-  "name": "Doctrine and Covenants 2",
-  "abbrev": "D&C 2",
-  "number": "2",
-  "churchUri": "/scriptures/dc-testament/dc/2",
+  "name": "Doctrine and Covenants 2", 
+  "abbrev": "D&C 2", 
+  "number": "2", 
+  "churchUri": "/scriptures/dc-testament/dc/2", 
   "paragraphs": [
     {
-      "slug": "section-2-title_number1",
-      "type": "chapter-title",
-      "number": null,
-      "content": "Section 2",
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Section 2", 
+      "contentHtml": "Section 2", 
+      "number": null, 
+      "pageNumber": "4", 
+      "compareId": "section-2_ct1", 
       "churchId": "title_number1"
-    },
+    }, 
     {
-      "slug": "section-2-p1",
-      "type": "verse",
-      "number": "1",
-      "content": "Behold, I will reveal unto you the Priesthood, by the hand of Elijah the prophet, before the coming of the great and dreadful day of the Lord.",
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Behold, I will reveal unto you the Priesthood, by the hand of Elijah the prophet, before the coming of the great and dreadful day of the Lord.", 
+      "contentHtml": "Behold, I will reveal unto you the Priesthood, by the hand of Elijah the prophet, before the coming of the great and dreadful day of the Lord.", 
+      "number": "1", 
+      "pageNumber": "5", 
+      "compareId": "section-2_v1", 
       "churchId": "p1"
-    },
+    }, 
     {
-      "slug": "section-2-p2",
-      "type": "verse",
-      "number": "2",
-      "content": "And he shall plant in the hearts of the children the promises made to the fathers, and the hearts of the children shall turn to their fathers.",
+      "type": "verse", 
+      "id": "v2", 
+      "content": "And he shall plant in the hearts of the children the promises made to the fathers, and the hearts of the children shall turn to their fathers.", 
+      "contentHtml": "And he shall plant in the hearts of the children the promises made to the fathers, and the hearts of the children shall turn to their fathers.", 
+      "number": "2", 
+      "pageNumber": "5", 
+      "compareId": "section-2_v2", 
       "churchId": "p2"
-    },
+    }, 
     {
-      "slug": "section-2-p3",
-      "type": "verse",
-      "number": "3",
-      "content": "If it were not so, the whole earth would be utterly wasted at his coming.",
+      "type": "verse", 
+      "id": "v3", 
+      "content": "If it were not so, the whole earth would be utterly wasted at his coming.", 
+      "contentHtml": "If it were not so, the whole earth would be utterly wasted at his coming.", 
+      "number": "3", 
+      "pageNumber": "5", 
+      "compareId": "section-2_v3", 
       "churchId": "p3"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0020-section-02-female-voice-64k-eng.mp3", 
+      "id": null, 
+      "thumbUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org"
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0020-section-02-male-voice-64k-eng.mp3", 
+      "id": null, 
+      "thumbUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org"
     }
   ]
 }

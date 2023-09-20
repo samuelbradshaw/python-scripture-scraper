@@ -1,50 +1,90 @@
 {
-  "name": "Doctrine and Covenants 80",
-  "abbrev": "D&C 80",
-  "number": "80",
-  "churchUri": "/scriptures/dc-testament/dc/80",
+  "name": "Doctrine and Covenants 80", 
+  "abbrev": "D&C 80", 
+  "number": "80", 
+  "churchUri": "/scriptures/dc-testament/dc/80", 
   "paragraphs": [
     {
-      "slug": "section-80-title_number1",
-      "type": "chapter-title",
-      "number": null,
-      "content": "Section 80",
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Section 80", 
+      "contentHtml": "Section 80", 
+      "number": null, 
+      "pageNumber": "149", 
+      "compareId": "section-80_ct1", 
       "churchId": "title_number1"
-    },
+    }, 
     {
-      "slug": "section-80-p1",
-      "type": "verse",
-      "number": "1",
-      "content": "Verily, thus saith the Lord unto you my servant Stephen Burnett: Go ye, go ye into the world and preach the gospel to every creature that cometh under the sound of your voice.",
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Verily, thus saith the Lord unto you my servant Stephen Burnett: Go ye, go ye into the world and preach the gospel to every creature that cometh under the sound of your voice.", 
+      "contentHtml": "Verily, thus saith the Lord unto you my servant Stephen Burnett: Go ye, go ye into the world and preach the gospel to every creature that cometh under the sound of your voice.", 
+      "number": "1", 
+      "pageNumber": "149", 
+      "compareId": "section-80_v1", 
       "churchId": "p1"
-    },
+    }, 
     {
-      "slug": "section-80-p2",
-      "type": "verse",
-      "number": "2",
-      "content": "And inasmuch as you desire a companion, I will give unto you my servant Eden Smith.",
+      "type": "verse", 
+      "id": "v2", 
+      "content": "And inasmuch as you desire a companion, I will give unto you my servant Eden Smith.", 
+      "contentHtml": "And inasmuch as you desire a companion, I will give unto you my servant Eden Smith.", 
+      "number": "2", 
+      "pageNumber": "149", 
+      "compareId": "section-80_v2", 
       "churchId": "p2"
-    },
+    }, 
     {
-      "slug": "section-80-p3",
-      "type": "verse",
-      "number": "3",
-      "content": "Wherefore, go ye and preach my gospel, whether to the north or to the south, to the east or to the west, it mattereth not, for ye cannot go amiss.",
+      "type": "verse", 
+      "id": "v3", 
+      "content": "Wherefore, go ye and preach my gospel, whether to the north or to the south, to the east or to the west, it mattereth not, for ye cannot go amiss.", 
+      "contentHtml": "Wherefore, go ye and preach my gospel, whether to the north or to the south, to the east or to the west, it mattereth not, for ye cannot go amiss.", 
+      "number": "3", 
+      "pageNumber": "149", 
+      "compareId": "section-80_v3", 
       "churchId": "p3"
-    },
+    }, 
     {
-      "slug": "section-80-p4",
-      "type": "verse",
-      "number": "4",
-      "content": "Therefore, declare the things which ye have heard, and verily believe, and know to be true.",
+      "type": "verse", 
+      "id": "v4", 
+      "content": "Therefore, declare the things which ye have heard, and verily believe, and know to be true.", 
+      "contentHtml": "Therefore, declare the things which ye have heard, and verily believe, and know to be true.", 
+      "number": "4", 
+      "pageNumber": "149", 
+      "compareId": "section-80_v4", 
       "churchId": "p4"
-    },
+    }, 
     {
-      "slug": "section-80-p5",
-      "type": "verse",
-      "number": "5",
-      "content": "Behold, this is the will of him who hath called you, your Redeemer, even Jesus Christ. Amen.",
+      "type": "verse", 
+      "id": "v5", 
+      "content": "Behold, this is the will of him who hath called you, your Redeemer, even Jesus Christ. Amen.", 
+      "contentHtml": "Behold, this is the will of him who hath called you, your Redeemer, even Jesus Christ. Amen.", 
+      "number": "5", 
+      "pageNumber": "149", 
+      "compareId": "section-80_v5", 
       "churchId": "p5"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0800-section-80-female-voice-64k-eng.mp3", 
+      "id": null, 
+      "thumbUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org"
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0800-section-80-male-voice-64k-eng.mp3", 
+      "id": null, 
+      "thumbUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org"
     }
   ]
 }

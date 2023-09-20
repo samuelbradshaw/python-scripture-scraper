@@ -1,0 +1,300 @@
+{
+  "name": "Galatians 5", 
+  "abbrev": "Gal. 5", 
+  "number": "5", 
+  "churchUri": "/scriptures/nt/gal/5", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Chapter 5", 
+      "contentHtml": "Chapter 5", 
+      "number": null, 
+      "pageNumber": "1478", 
+      "compareId": "galatians-5_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Stand fast therefore in the liberty wherewith Christ hath made us free, and be not entangled again with the yoke of bondage.", 
+      "contentHtml": "Stand fast therefore in the liberty wherewith Christ hath made us free, and be not entangled again with the yoke of bondage.", 
+      "number": "1", 
+      "pageNumber": "1478", 
+      "compareId": "galatians-5_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "Behold, I Paul say unto you, that if ye be circumcised, Christ shall profit you nothing.", 
+      "contentHtml": "Behold, I Paul say unto you, that if ye be circumcised, Christ shall profit you nothing.", 
+      "number": "2", 
+      "pageNumber": "1478", 
+      "compareId": "galatians-5_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "For I testify again to every man that is circumcised, that he is a debtor to do the whole law.", 
+      "contentHtml": "For I testify again to every man that is circumcised, that he is a debtor to do the whole law.", 
+      "number": "3", 
+      "pageNumber": "1478", 
+      "compareId": "galatians-5_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "Christ is become of no effect unto you, whosoever of you are justified by the law; ye are fallen from grace.", 
+      "contentHtml": "Christ is become of no effect unto you, whosoever of you are justified by the law; ye are fallen from grace.", 
+      "number": "4", 
+      "pageNumber": "1478", 
+      "compareId": "galatians-5_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "For we through the Spirit wait for the hope of righteousness by faith.", 
+      "contentHtml": "For we through the Spirit wait for the hope of righteousness by faith.", 
+      "number": "5", 
+      "pageNumber": "1478", 
+      "compareId": "galatians-5_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "For in Jesus Christ neither circumcision availeth any thing, nor uncircumcision; but faith which worketh by love.", 
+      "contentHtml": "For in Jesus Christ neither circumcision availeth any thing, nor uncircumcision; but faith which worketh by love.", 
+      "number": "6", 
+      "pageNumber": "1478", 
+      "compareId": "galatians-5_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "Ye did run well; who did hinder you that ye should not obey the truth?", 
+      "contentHtml": "Ye did run well; who did hinder you that ye should not obey the truth?", 
+      "number": "7", 
+      "pageNumber": "1478", 
+      "compareId": "galatians-5_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "This persuasion cometh not of him that calleth you.", 
+      "contentHtml": "This persuasion <span class=\"clarity-word\">cometh</span> not of him that calleth you.", 
+      "number": "8", 
+      "pageNumber": "1478", 
+      "compareId": "galatians-5_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "A little leaven leaveneth the whole lump.", 
+      "contentHtml": "A little leaven leaveneth the whole lump.", 
+      "number": "9", 
+      "pageNumber": "1478", 
+      "compareId": "galatians-5_v9", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "I have confidence in you through the Lord, that ye will be none otherwise minded: but he that troubleth you shall bear his judgment, whosoever he be.", 
+      "contentHtml": "I have confidence in you through the Lord, that ye will be none otherwise minded: but he that troubleth you shall bear his judgment, whosoever he be.", 
+      "number": "10", 
+      "pageNumber": "1478", 
+      "compareId": "galatians-5_v10", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "And I, brethren, if I yet preach circumcision, why do I yet suffer persecution? then is the offence of the cross ceased.", 
+      "contentHtml": "And I, brethren, if I yet preach circumcision, why do I yet suffer persecution? then is the offence of the cross ceased.", 
+      "number": "11", 
+      "pageNumber": "1479", 
+      "compareId": "galatians-5_v11", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "I would they were even cut off which trouble you.", 
+      "contentHtml": "I would they were even cut off which trouble you.", 
+      "number": "12", 
+      "pageNumber": "1479", 
+      "compareId": "galatians-5_v12", 
+      "churchId": "p12"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v13", 
+      "content": "For, brethren, ye have been called unto liberty; only use not liberty for an occasion to the flesh, but by love serve one another.", 
+      "contentHtml": "For, brethren, ye have been called unto liberty; only <span class=\"clarity-word\">use</span> not liberty for an occasion to the flesh, but by love serve one another.", 
+      "number": "13", 
+      "pageNumber": "1479", 
+      "compareId": "galatians-5_v13", 
+      "churchId": "p13"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v14", 
+      "content": "For all the law is fulfilled in one word, even in this; Thou shalt love thy neighbour as thyself.", 
+      "contentHtml": "For all the law is fulfilled in one word, <span class=\"clarity-word\">even</span> in this; Thou shalt love thy neighbour as thyself.", 
+      "number": "14", 
+      "pageNumber": "1479", 
+      "compareId": "galatians-5_v14", 
+      "churchId": "p14"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v15", 
+      "content": "But if ye bite and devour one another, take heed that ye be not consumed one of another.", 
+      "contentHtml": "But if ye bite and devour one another, take heed that ye be not consumed one of another.", 
+      "number": "15", 
+      "pageNumber": "1479", 
+      "compareId": "galatians-5_v15", 
+      "churchId": "p15"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v16", 
+      "content": "This I say then, Walk in the Spirit, and ye shall not fulfil the lust of the flesh.", 
+      "contentHtml": "<span class=\"clarity-word\">This</span> I say then, Walk in the Spirit, and ye shall not fulfil the lust of the flesh.", 
+      "number": "16", 
+      "pageNumber": "1479", 
+      "compareId": "galatians-5_v16", 
+      "churchId": "p16"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v17", 
+      "content": "For the flesh lusteth against the Spirit, and the Spirit against the flesh: and these are contrary the one to the other: so that ye cannot do the things that ye would.", 
+      "contentHtml": "For the flesh lusteth against the Spirit, and the Spirit against the flesh: and these are contrary the one to the other: so that ye cannot do the things that ye would.", 
+      "number": "17", 
+      "pageNumber": "1479", 
+      "compareId": "galatians-5_v17", 
+      "churchId": "p17"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v18", 
+      "content": "But if ye be led of the Spirit, ye are not under the law.", 
+      "contentHtml": "But if ye be led of the Spirit, ye are not under the law.", 
+      "number": "18", 
+      "pageNumber": "1479", 
+      "compareId": "galatians-5_v18", 
+      "churchId": "p18"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v19", 
+      "content": "Now the works of the flesh are manifest, which are these; Adultery, fornication, uncleanness, lasciviousness,", 
+      "contentHtml": "Now the works of the flesh are manifest, which are <span class=\"clarity-word\">these;</span> Adultery, fornication, uncleanness, lasciviousness,", 
+      "number": "19", 
+      "pageNumber": "1479", 
+      "compareId": "galatians-5_v19", 
+      "churchId": "p19"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v20", 
+      "content": "Idolatry, witchcraft, hatred, variance, emulations, wrath, strife, seditions, heresies,", 
+      "contentHtml": "Idolatry, witchcraft, hatred, variance, emulations, wrath, strife, seditions, heresies,", 
+      "number": "20", 
+      "pageNumber": "1479", 
+      "compareId": "galatians-5_v20", 
+      "churchId": "p20"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v21", 
+      "content": "Envyings, murders, drunkenness, revellings, and such like: of the which I tell you before, as I have also told you in time past, that they which do such things shall not inherit the kingdom of God.", 
+      "contentHtml": "Envyings, murders, drunkenness, revellings, and such like: of the which I tell you before, as I have also told <span class=\"clarity-word\">you</span> in time past, that they which do such things shall not inherit the kingdom of God.", 
+      "number": "21", 
+      "pageNumber": "1479", 
+      "compareId": "galatians-5_v21", 
+      "churchId": "p21"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v22", 
+      "content": "But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith,", 
+      "contentHtml": "But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith,", 
+      "number": "22", 
+      "pageNumber": "1479", 
+      "compareId": "galatians-5_v22", 
+      "churchId": "p22"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v23", 
+      "content": "Meekness, temperance: against such there is no law.", 
+      "contentHtml": "Meekness, temperance: against such there is no law.", 
+      "number": "23", 
+      "pageNumber": "1479", 
+      "compareId": "galatians-5_v23", 
+      "churchId": "p23"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v24", 
+      "content": "And they that are Christ’s have crucified the flesh with the affections and lusts.", 
+      "contentHtml": "And they that are Christ’s have crucified the flesh with the affections and lusts.", 
+      "number": "24", 
+      "pageNumber": "1479", 
+      "compareId": "galatians-5_v24", 
+      "churchId": "p24"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v25", 
+      "content": "If we live in the Spirit, let us also walk in the Spirit.", 
+      "contentHtml": "If we live in the Spirit, let us also walk in the Spirit.", 
+      "number": "25", 
+      "pageNumber": "1479", 
+      "compareId": "galatians-5_v25", 
+      "churchId": "p25"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v26", 
+      "content": "Let us not be desirous of vain glory, provoking one another, envying one another.", 
+      "contentHtml": "Let us not be desirous of vain glory, provoking one another, envying one another.", 
+      "number": "26", 
+      "pageNumber": "1479", 
+      "compareId": "galatians-5_v26", 
+      "churchId": "p26"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1670-galatians-05-female-voice-64k-eng.mp3", 
+      "id": null, 
+      "thumbUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org"
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1670-galatians-05-male-voice-64k-eng.mp3", 
+      "id": null, 
+      "thumbUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org"
+    }
+  ]
+}

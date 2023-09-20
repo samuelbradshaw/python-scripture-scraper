@@ -1,22 +1,50 @@
 {
-  "name": "Doctrine and Covenants 13",
-  "abbrev": "D&C 13",
-  "number": "13",
-  "churchUri": "/scriptures/dc-testament/dc/13",
+  "name": "Doctrine and Covenants 13", 
+  "abbrev": "D&C 13", 
+  "number": "13", 
+  "churchUri": "/scriptures/dc-testament/dc/13", 
   "paragraphs": [
     {
-      "slug": "section-13-title_number1",
-      "type": "chapter-title",
-      "number": null,
-      "content": "Section 13",
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Section 13", 
+      "contentHtml": "Section 13", 
+      "number": null, 
+      "pageNumber": "24", 
+      "compareId": "section-13_ct1", 
       "churchId": "title_number1"
-    },
+    }, 
     {
-      "slug": "section-13-p1",
-      "type": "verse",
-      "number": "1",
-      "content": "Upon you my fellow servants, in the name of Messiah I confer the Priesthood of Aaron, which holds the keys of the ministering of angels, and of the gospel of repentance, and of baptism by immersion for the remission of sins; and this shall never be taken again from the earth, until the sons of Levi do offer again an offering unto the Lord in righteousness.",
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Upon you my fellow servants, in the name of Messiah I confer the Priesthood of Aaron, which holds the keys of the ministering of angels, and of the gospel of repentance, and of baptism by immersion for the remission of sins; and this shall never be taken again from the earth, until the sons of Levi do offer again an offering unto the Lord in righteousness.", 
+      "contentHtml": "Upon you my fellow servants, in the name of Messiah I confer the Priesthood of Aaron, which holds the keys of the ministering of angels, and of the gospel of repentance, and of baptism by immersion for the remission of sins; and this shall never be taken again from the earth, until the sons of Levi do offer again an offering unto the Lord in righteousness.", 
+      "number": "1", 
+      "pageNumber": "24", 
+      "compareId": "section-13_v1", 
       "churchId": "p1"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0130-section-13-female-voice-64k-eng.mp3", 
+      "id": null, 
+      "thumbUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org"
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0130-section-13-male-voice-64k-eng.mp3", 
+      "id": null, 
+      "thumbUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org"
     }
   ]
 }

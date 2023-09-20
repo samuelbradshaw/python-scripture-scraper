@@ -1,11 +1,9 @@
 body {
   margin: 0; padding: 1em;
-  font-family: "Georgia", serif;
+  font-family: "Palatino", serif;
   color: hsl(0, 0%, 10%);
 }
-p { line-height: 1.4; }
-.subtitle {}
-.verse {}
+
 h1 {
   text-transform: uppercase;
   font-weight: normal;
@@ -15,25 +13,35 @@ h1 small {
   font-size: 0.8em;
 }
 h2, h3 { font-family: "Helvetica", sans-serif; }
+
+p { line-height: 1.4; }
+a { color: DarkOliveGreen; }
+img { max-width: 100%; }
+
 hr {
   height: 1px;
   margin-top: 2em;
   border: none;
   background-color: currentColor;
 }
-a { color: DarkOliveGreen; }
-.verse-number {
+
+span.verse-number {
   font-weight: bold;
   margin: 0 0.5em
 }
-sup {
+
+sup.marker {
   display:inline-block;
   text-decoration: none;
   margin: 0 0.1em;
 }
-img { max-width: 100%; }
-.clarity-word { font-style: italic; }
+sup.marker[data-value]::before {
+  content: attr(data-value);
+}
+
 .small-caps { font-variant: small-caps; }
 .uppercase { text-transform: uppercase; }
+.clarity-word { font-style: italic; }
 .study-summary, .study-intro { font-style: italic; }
+
 [id], [name] { scroll-margin-top: 60px; }

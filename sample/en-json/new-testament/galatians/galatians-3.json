@@ -1,0 +1,330 @@
+{
+  "name": "Galatians 3", 
+  "abbrev": "Gal. 3", 
+  "number": "3", 
+  "churchUri": "/scriptures/nt/gal/3", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Chapter 3", 
+      "contentHtml": "Chapter 3", 
+      "number": null, 
+      "pageNumber": "1475", 
+      "compareId": "galatians-3_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "O foolish Galatians, who hath bewitched you, that ye should not obey the truth, before whose eyes Jesus Christ hath been evidently set forth, crucified among you?", 
+      "contentHtml": "O foolish Galatians, who hath bewitched you, that ye should not obey the truth, before whose eyes Jesus Christ hath been evidently set forth, crucified among you?", 
+      "number": "1", 
+      "pageNumber": "1475", 
+      "compareId": "galatians-3_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "This only would I learn of you, Received ye the Spirit by the works of the law, or by the hearing of faith?", 
+      "contentHtml": "This only would I learn of you, Received ye the Spirit by the works of the law, or by the hearing of faith?", 
+      "number": "2", 
+      "pageNumber": "1475", 
+      "compareId": "galatians-3_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "Are ye so foolish? having begun in the Spirit, are ye now made perfect by the flesh?", 
+      "contentHtml": "Are ye so foolish? having begun in the Spirit, are ye now made perfect by the flesh?", 
+      "number": "3", 
+      "pageNumber": "1475,1476", 
+      "compareId": "galatians-3_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "Have ye suffered so many things in vain? if it be yet in vain.", 
+      "contentHtml": "Have ye suffered so many things in vain? if <span class=\"clarity-word\">it be</span> yet in vain.", 
+      "number": "4", 
+      "pageNumber": "1476", 
+      "compareId": "galatians-3_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "He therefore that ministereth to you the Spirit, and worketh miracles among you, doeth he it by the works of the law, or by the hearing of faith?", 
+      "contentHtml": "He therefore that ministereth to you the Spirit, and worketh miracles among you, <span class=\"clarity-word\">doeth he it</span> by the works of the law, or by the hearing of faith?", 
+      "number": "5", 
+      "pageNumber": "1476", 
+      "compareId": "galatians-3_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "Even as Abraham believed God, and it was accounted to him for righteousness.", 
+      "contentHtml": "Even as Abraham believed God, and it was accounted to him for righteousness.", 
+      "number": "6", 
+      "pageNumber": "1476", 
+      "compareId": "galatians-3_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "Know ye therefore that they which are of faith, the same are the children of Abraham.", 
+      "contentHtml": "Know ye therefore that they which are of faith, the same are the children of Abraham.", 
+      "number": "7", 
+      "pageNumber": "1476", 
+      "compareId": "galatians-3_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "And the scripture, foreseeing that God would justify the heathen through faith, preached before the gospel unto Abraham, saying, In thee shall all nations be blessed.", 
+      "contentHtml": "And the scripture, foreseeing that God would justify the heathen through faith, preached before the gospel unto Abraham, <span class=\"clarity-word\">saying,</span> In thee shall all nations be blessed.", 
+      "number": "8", 
+      "pageNumber": "1476", 
+      "compareId": "galatians-3_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "So then they which be of faith are blessed with faithful Abraham.", 
+      "contentHtml": "So then they which be of faith are blessed with faithful Abraham.", 
+      "number": "9", 
+      "pageNumber": "1476", 
+      "compareId": "galatians-3_v9", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "For as many as are of the works of the law are under the curse: for it is written, Cursed is every one that continueth not in all things which are written in the book of the law to do them.", 
+      "contentHtml": "For as many as are of the works of the law are under the curse: for it is written, Cursed <span class=\"clarity-word\">is</span> every one that continueth not in all things which are written in the book of the law to do them.", 
+      "number": "10", 
+      "pageNumber": "1476", 
+      "compareId": "galatians-3_v10", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "But that no man is justified by the law in the sight of God, it is evident: for, The just shall live by faith.", 
+      "contentHtml": "But that no man is justified by the law in the sight of God, <span class=\"clarity-word\">it is</span> evident: for, The just shall live by faith.", 
+      "number": "11", 
+      "pageNumber": "1476", 
+      "compareId": "galatians-3_v11", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "And the law is not of faith: but, The man that doeth them shall live in them.", 
+      "contentHtml": "And the law is not of faith: but, The man that doeth them shall live in them.", 
+      "number": "12", 
+      "pageNumber": "1476", 
+      "compareId": "galatians-3_v12", 
+      "churchId": "p12"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v13", 
+      "content": "Christ hath redeemed us from the curse of the law, being made a curse for us: for it is written, Cursed is every one that hangeth on a tree:", 
+      "contentHtml": "Christ hath redeemed us from the curse of the law, being made a curse for us: for it is written, Cursed <span class=\"clarity-word\">is</span> every one that hangeth on a tree:", 
+      "number": "13", 
+      "pageNumber": "1476", 
+      "compareId": "galatians-3_v13", 
+      "churchId": "p13"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v14", 
+      "content": "That the blessing of Abraham might come on the Gentiles through Jesus Christ; that we might receive the promise of the Spirit through faith.", 
+      "contentHtml": "That the blessing of Abraham might come on the Gentiles through Jesus Christ; that we might receive the promise of the Spirit through faith.", 
+      "number": "14", 
+      "pageNumber": "1476", 
+      "compareId": "galatians-3_v14", 
+      "churchId": "p14"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v15", 
+      "content": "Brethren, I speak after the manner of men; Though it be but a man’s covenant, yet if it be confirmed, no man disannulleth, or addeth thereto.", 
+      "contentHtml": "Brethren, I speak after the manner of men; Though <span class=\"clarity-word\">it be</span> but a man’s covenant, yet <span class=\"clarity-word\">if it be</span> confirmed, no man disannulleth, or addeth thereto.", 
+      "number": "15", 
+      "pageNumber": "1476", 
+      "compareId": "galatians-3_v15", 
+      "churchId": "p15"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v16", 
+      "content": "Now to Abraham and his seed were the promises made. He saith not, And to seeds, as of many; but as of one, And to thy seed, which is Christ.", 
+      "contentHtml": "Now to Abraham and his seed were the promises made. He saith not, And to seeds, as of many; but as of one, And to thy seed, which is Christ.", 
+      "number": "16", 
+      "pageNumber": "1476", 
+      "compareId": "galatians-3_v16", 
+      "churchId": "p16"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v17", 
+      "content": "And this I say, that the covenant, that was confirmed before of God in Christ, the law, which was four hundred and thirty years after, cannot disannul, that it should make the promise of none effect.", 
+      "contentHtml": "And this I say, <span class=\"clarity-word\">that</span> the covenant, that was confirmed before of God in Christ, the law, which was four hundred and thirty years after, cannot disannul, that it should make the promise of none effect.", 
+      "number": "17", 
+      "pageNumber": "1476", 
+      "compareId": "galatians-3_v17", 
+      "churchId": "p17"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v18", 
+      "content": "For if the inheritance be of the law, it is no more of promise: but God gave it to Abraham by promise.", 
+      "contentHtml": "For if the inheritance <span class=\"clarity-word\">be</span> of the law, <span class=\"clarity-word\">it is</span> no more of promise: but God gave <span class=\"clarity-word\">it</span> to Abraham by promise.", 
+      "number": "18", 
+      "pageNumber": "1476", 
+      "compareId": "galatians-3_v18", 
+      "churchId": "p18"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v19", 
+      "content": "Wherefore then serveth the law? It was added because of transgressions, till the seed should come to whom the promise was made; and it was ordained by angels in the hand of a mediator.", 
+      "contentHtml": "Wherefore then <span class=\"clarity-word\">serveth</span> the law? It was added because of transgressions, till the seed should come to whom the promise was made; <span class=\"clarity-word\">and it was</span> ordained by angels in the hand of a mediator.", 
+      "number": "19", 
+      "pageNumber": "1476", 
+      "compareId": "galatians-3_v19", 
+      "churchId": "p19"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v20", 
+      "content": "Now a mediator is not a mediator of one, but God is one.", 
+      "contentHtml": "Now a mediator is not <span class=\"clarity-word\">a mediator</span> of one, but God is one.", 
+      "number": "20", 
+      "pageNumber": "1476", 
+      "compareId": "galatians-3_v20", 
+      "churchId": "p20"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v21", 
+      "content": "Is the law then against the promises of God? God forbid: for if there had been a law given which could have given life, verily righteousness should have been by the law.", 
+      "contentHtml": "<span class=\"clarity-word\">Is</span> the law then against the promises of God? God forbid: for if there had been a law given which could have given life, verily righteousness should have been by the law.", 
+      "number": "21", 
+      "pageNumber": "1476", 
+      "compareId": "galatians-3_v21", 
+      "churchId": "p21"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v22", 
+      "content": "But the scripture hath concluded all under sin, that the promise by faith of Jesus Christ might be given to them that believe.", 
+      "contentHtml": "But the scripture hath concluded all under sin, that the promise by faith of Jesus Christ might be given to them that believe.", 
+      "number": "22", 
+      "pageNumber": "1476", 
+      "compareId": "galatians-3_v22", 
+      "churchId": "p22"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v23", 
+      "content": "But before faith came, we were kept under the law, shut up unto the faith which should afterwards be revealed.", 
+      "contentHtml": "But before faith came, we were kept under the law, shut up unto the faith which should afterwards be revealed.", 
+      "number": "23", 
+      "pageNumber": "1476", 
+      "compareId": "galatians-3_v23", 
+      "churchId": "p23"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v24", 
+      "content": "Wherefore the law was our schoolmaster to bring us unto Christ, that we might be justified by faith.", 
+      "contentHtml": "Wherefore the law was our schoolmaster <span class=\"clarity-word\">to bring us</span> unto Christ, that we might be justified by faith.", 
+      "number": "24", 
+      "pageNumber": "1476,1477", 
+      "compareId": "galatians-3_v24", 
+      "churchId": "p24"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v25", 
+      "content": "But after that faith is come, we are no longer under a schoolmaster.", 
+      "contentHtml": "But after that faith is come, we are no longer under a schoolmaster.", 
+      "number": "25", 
+      "pageNumber": "1477", 
+      "compareId": "galatians-3_v25", 
+      "churchId": "p25"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v26", 
+      "content": "For ye are all the children of God by faith in Christ Jesus.", 
+      "contentHtml": "For ye are all the children of God by faith in Christ Jesus.", 
+      "number": "26", 
+      "pageNumber": "1477", 
+      "compareId": "galatians-3_v26", 
+      "churchId": "p26"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v27", 
+      "content": "For as many of you as have been baptized into Christ have put on Christ.", 
+      "contentHtml": "For as many of you as have been baptized into Christ have put on Christ.", 
+      "number": "27", 
+      "pageNumber": "1477", 
+      "compareId": "galatians-3_v27", 
+      "churchId": "p27"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v28", 
+      "content": "There is neither Jew nor Greek, there is neither bond nor free, there is neither male nor female: for ye are all one in Christ Jesus.", 
+      "contentHtml": "There is neither Jew nor Greek, there is neither bond nor free, there is neither male nor female: for ye are all one in Christ Jesus.", 
+      "number": "28", 
+      "pageNumber": "1477", 
+      "compareId": "galatians-3_v28", 
+      "churchId": "p28"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v29", 
+      "content": "And if ye be Christ’s, then are ye Abraham’s seed, and heirs according to the promise.", 
+      "contentHtml": "And if ye <span class=\"clarity-word\">be</span> Christ’s, then are ye Abraham’s seed, and heirs according to the promise.", 
+      "number": "29", 
+      "pageNumber": "1477", 
+      "compareId": "galatians-3_v29", 
+      "churchId": "p29"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1650-galatians-03-female-voice-64k-eng.mp3", 
+      "id": null, 
+      "thumbUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org"
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1650-galatians-03-male-voice-64k-eng.mp3", 
+      "id": null, 
+      "thumbUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org"
+    }
+  ]
+}

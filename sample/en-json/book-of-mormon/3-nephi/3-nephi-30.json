@@ -1,29 +1,60 @@
 {
-  "name": "3 Nephi 30",
-  "abbrev": "3 Ne. 30",
-  "number": "30",
-  "churchUri": "/scriptures/bofm/3-ne/30",
+  "name": "3 Nephi 30", 
+  "abbrev": "3 Ne. 30", 
+  "number": "30", 
+  "churchUri": "/scriptures/bofm/3-ne/30", 
   "paragraphs": [
     {
-      "slug": "3-nephi-30-title_number1",
-      "type": "chapter-title",
-      "number": null,
-      "content": "Chapter 30",
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Chapter 30", 
+      "contentHtml": "Chapter 30", 
+      "number": null, 
+      "pageNumber": "464", 
+      "compareId": "3-nephi-30_ct1", 
       "churchId": "title_number1"
-    },
+    }, 
     {
-      "slug": "3-nephi-30-p1",
-      "type": "verse",
-      "number": "1",
-      "content": "Hearken, O ye Gentiles, and hear the words of Jesus Christ, the Son of the living God, which he hath commanded me that I should speak concerning you, for, behold he commandeth me that I should write, saying:",
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Hearken, O ye Gentiles, and hear the words of Jesus Christ, the Son of the living God, which he hath commanded me that I should speak concerning you, for, behold he commandeth me that I should write, saying:", 
+      "contentHtml": "Hearken, O ye Gentiles, and hear the words of Jesus Christ, the Son of the living God, which he hath commanded me that I should speak concerning you, for, behold he commandeth me that I should write, saying:", 
+      "number": "1", 
+      "pageNumber": "464", 
+      "compareId": "3-nephi-30_v1", 
       "churchId": "p1"
-    },
+    }, 
     {
-      "slug": "3-nephi-30-p2",
-      "type": "verse",
-      "number": "2",
-      "content": "Turn, all ye Gentiles, from your wicked ways; and repent of your evil doings, of your lyings and deceivings, and of your whoredoms, and of your secret abominations, and your idolatries, and of your murders, and your priestcrafts, and your envyings, and your strifes, and from all your wickedness and abominations, and come unto me, and be baptized in my name, that ye may receive a remission of your sins, and be filled with the Holy Ghost, that ye may be numbered with my people who are of the house of Israel.",
+      "type": "verse", 
+      "id": "v2", 
+      "content": "Turn, all ye Gentiles, from your wicked ways; and repent of your evil doings, of your lyings and deceivings, and of your whoredoms, and of your secret abominations, and your idolatries, and of your murders, and your priestcrafts, and your envyings, and your strifes, and from all your wickedness and abominations, and come unto me, and be baptized in my name, that ye may receive a remission of your sins, and be filled with the Holy Ghost, that ye may be numbered with my people who are of the house of Israel.", 
+      "contentHtml": "Turn, all ye Gentiles, from your wicked ways; and repent of your evil doings, of your lyings and deceivings, and of your whoredoms, and of your secret abominations, and your idolatries, and of your murders, and your priestcrafts, and your envyings, and your strifes, and from all your wickedness and abominations, and come unto me, and be baptized in my name, that ye may receive a remission of your sins, and be filled with the Holy Ghost, that ye may be numbered with my people who are of the house of Israel.", 
+      "number": "2", 
+      "pageNumber": "464", 
+      "compareId": "3-nephi-30_v2", 
       "churchId": "p2"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ/2015-11-2040-3-nephi-30-female-voice-64k-eng.mp3", 
+      "id": null, 
+      "thumbUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org"
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ/2015-11-2040-3-nephi-30-male-voice-64k-eng.mp3", 
+      "id": null, 
+      "thumbUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org"
     }
   ]
 }

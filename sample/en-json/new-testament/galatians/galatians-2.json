@@ -1,0 +1,250 @@
+{
+  "name": "Galatians 2", 
+  "abbrev": "Gal. 2", 
+  "number": "2", 
+  "churchUri": "/scriptures/nt/gal/2", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Chapter 2", 
+      "contentHtml": "Chapter 2", 
+      "number": null, 
+      "pageNumber": "1474", 
+      "compareId": "galatians-2_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Then fourteen years after I went up again to Jerusalem with Barnabas, and took Titus with me also.", 
+      "contentHtml": "Then fourteen years after I went up again to Jerusalem with Barnabas, and took Titus with <span class=\"clarity-word\">me</span> also.", 
+      "number": "1", 
+      "pageNumber": "1474", 
+      "compareId": "galatians-2_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "And I went up by revelation, and communicated unto them that gospel which I preach among the Gentiles, but privately to them which were of reputation, lest by any means I should run, or had run, in vain.", 
+      "contentHtml": "And I went up by revelation, and communicated unto them that gospel which I preach among the Gentiles, but privately to them which were of reputation, lest by any means I should run, or had run, in vain.", 
+      "number": "2", 
+      "pageNumber": "1474", 
+      "compareId": "galatians-2_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "But neither Titus, who was with me, being a Greek, was compelled to be circumcised:", 
+      "contentHtml": "But neither Titus, who was with me, being a Greek, was compelled to be circumcised:", 
+      "number": "3", 
+      "pageNumber": "1474", 
+      "compareId": "galatians-2_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "And that because of false brethren unawares brought in, who came in privily to spy out our liberty which we have in Christ Jesus, that they might bring us into bondage:", 
+      "contentHtml": "And that because of false brethren unawares brought in, who came in privily to spy out our liberty which we have in Christ Jesus, that they might bring us into bondage:", 
+      "number": "4", 
+      "pageNumber": "1474", 
+      "compareId": "galatians-2_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "To whom we gave place by subjection, no, not for an hour; that the truth of the gospel might continue with you.", 
+      "contentHtml": "To whom we gave place by subjection, no, not for an hour; that the truth of the gospel might continue with you.", 
+      "number": "5", 
+      "pageNumber": "1474", 
+      "compareId": "galatians-2_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "But of these who seemed to be somewhat, (whatsoever they were, it maketh no matter to me: God accepteth no man’s person:) for they who seemed to be somewhat in conference added nothing to me:", 
+      "contentHtml": "But of these who seemed to be somewhat, (whatsoever they were, it maketh no matter to me: God accepteth no man’s person:) for they who seemed <span class=\"clarity-word\">to be somewhat</span> in conference added nothing to me:", 
+      "number": "6", 
+      "pageNumber": "1474,1475", 
+      "compareId": "galatians-2_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "But contrariwise, when they saw that the gospel of the uncircumcision was committed unto me, as the gospel of the circumcision was unto Peter;", 
+      "contentHtml": "But contrariwise, when they saw that the gospel of the uncircumcision was committed unto me, as <span class=\"clarity-word\">the gospel</span> of the circumcision <span class=\"clarity-word\">was</span> unto Peter;", 
+      "number": "7", 
+      "pageNumber": "1475", 
+      "compareId": "galatians-2_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "(For he that wrought effectually in Peter to the apostleship of the circumcision, the same was mighty in me toward the Gentiles:)", 
+      "contentHtml": "(For he that wrought effectually in Peter to the apostleship of the circumcision, the same was mighty in me toward the Gentiles:)", 
+      "number": "8", 
+      "pageNumber": "1475", 
+      "compareId": "galatians-2_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "And when James, Cephas, and John, who seemed to be pillars, perceived the grace that was given unto me, they gave to me and Barnabas the right hands of fellowship; that we should go unto the heathen, and they unto the circumcision.", 
+      "contentHtml": "And when James, Cephas, and John, who seemed to be pillars, perceived the grace that was given unto me, they gave to me and Barnabas the right hands of fellowship; that we <span class=\"clarity-word\">should go</span> unto the heathen, and they unto the circumcision.", 
+      "number": "9", 
+      "pageNumber": "1475", 
+      "compareId": "galatians-2_v9", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "Only they would that we should remember the poor; the same which I also was forward to do.", 
+      "contentHtml": "Only <span class=\"clarity-word\">they would</span> that we should remember the poor; the same which I also was forward to do.", 
+      "number": "10", 
+      "pageNumber": "1475", 
+      "compareId": "galatians-2_v10", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "But when Peter was come to Antioch, I withstood him to the face, because he was to be blamed.", 
+      "contentHtml": "But when Peter was come to Antioch, I withstood him to the face, because he was to be blamed.", 
+      "number": "11", 
+      "pageNumber": "1475", 
+      "compareId": "galatians-2_v11", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "For before that certain came from James, he did eat with the Gentiles: but when they were come, he withdrew and separated himself, fearing them which were of the circumcision.", 
+      "contentHtml": "For before that certain came from James, he did eat with the Gentiles: but when they were come, he withdrew and separated himself, fearing them which were of the circumcision.", 
+      "number": "12", 
+      "pageNumber": "1475", 
+      "compareId": "galatians-2_v12", 
+      "churchId": "p12"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v13", 
+      "content": "And the other Jews dissembled likewise with him; insomuch that Barnabas also was carried away with their dissimulation.", 
+      "contentHtml": "And the other Jews dissembled likewise with him; insomuch that Barnabas also was carried away with their dissimulation.", 
+      "number": "13", 
+      "pageNumber": "1475", 
+      "compareId": "galatians-2_v13", 
+      "churchId": "p13"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v14", 
+      "content": "But when I saw that they walked not uprightly according to the truth of the gospel, I said unto Peter before them all, If thou, being a Jew, livest after the manner of Gentiles, and not as do the Jews, why compellest thou the Gentiles to live as do the Jews?", 
+      "contentHtml": "But when I saw that they walked not uprightly according to the truth of the gospel, I said unto Peter before <span class=\"clarity-word\">them</span> all, If thou, being a Jew, livest after the manner of Gentiles, and not as do the Jews, why compellest thou the Gentiles to live as do the Jews?", 
+      "number": "14", 
+      "pageNumber": "1475", 
+      "compareId": "galatians-2_v14", 
+      "churchId": "p14"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v15", 
+      "content": "We who are Jews by nature, and not sinners of the Gentiles,", 
+      "contentHtml": "We <span class=\"clarity-word\">who are</span> Jews by nature, and not sinners of the Gentiles,", 
+      "number": "15", 
+      "pageNumber": "1475", 
+      "compareId": "galatians-2_v15", 
+      "churchId": "p15"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v16", 
+      "content": "Knowing that a man is not justified by the works of the law, but by the faith of Jesus Christ, even we have believed in Jesus Christ, that we might be justified by the faith of Christ, and not by the works of the law: for by the works of the law shall no flesh be justified.", 
+      "contentHtml": "Knowing that a man is not justified by the works of the law, but by the faith of Jesus Christ, even we have believed in Jesus Christ, that we might be justified by the faith of Christ, and not by the works of the law: for by the works of the law shall no flesh be justified.", 
+      "number": "16", 
+      "pageNumber": "1475", 
+      "compareId": "galatians-2_v16", 
+      "churchId": "p16"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v17", 
+      "content": "But if, while we seek to be justified by Christ, we ourselves also are found sinners, is therefore Christ the minister of sin? God forbid.", 
+      "contentHtml": "But if, while we seek to be justified by Christ, we ourselves also are found sinners, <span class=\"clarity-word\">is</span> therefore Christ the minister of sin? God forbid.", 
+      "number": "17", 
+      "pageNumber": "1475", 
+      "compareId": "galatians-2_v17", 
+      "churchId": "p17"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v18", 
+      "content": "For if I build again the things which I destroyed, I make myself a transgressor.", 
+      "contentHtml": "For if I build again the things which I destroyed, I make myself a transgressor.", 
+      "number": "18", 
+      "pageNumber": "1475", 
+      "compareId": "galatians-2_v18", 
+      "churchId": "p18"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v19", 
+      "content": "For I through the law am dead to the law, that I might live unto God.", 
+      "contentHtml": "For I through the law am dead to the law, that I might live unto God.", 
+      "number": "19", 
+      "pageNumber": "1475", 
+      "compareId": "galatians-2_v19", 
+      "churchId": "p19"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v20", 
+      "content": "I am crucified with Christ: nevertheless I live; yet not I, but Christ liveth in me: and the life which I now live in the flesh I live by the faith of the Son of God, who loved me, and gave himself for me.", 
+      "contentHtml": "I am crucified with Christ: nevertheless I live; yet not I, but Christ liveth in me: and the life which I now live in the flesh I live by the faith of the Son of God, who loved me, and gave himself for me.", 
+      "number": "20", 
+      "pageNumber": "1475", 
+      "compareId": "galatians-2_v20", 
+      "churchId": "p20"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v21", 
+      "content": "I do not frustrate the grace of God: for if righteousness come by the law, then Christ is dead in vain.", 
+      "contentHtml": "I do not frustrate the grace of God: for if righteousness <span class=\"clarity-word\">come</span> by the law, then Christ is dead in vain.", 
+      "number": "21", 
+      "pageNumber": "1475", 
+      "compareId": "galatians-2_v21", 
+      "churchId": "p21"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1640-galatians-02-female-voice-64k-eng.mp3", 
+      "id": null, 
+      "thumbUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org"
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1640-galatians-02-male-voice-64k-eng.mp3", 
+      "id": null, 
+      "thumbUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org"
+    }
+  ]
+}

@@ -1,50 +1,90 @@
 {
-  "name": "Psalm 93",
-  "abbrev": "Psalm 93",
-  "number": "93",
-  "churchUri": "/scriptures/ot/ps/93",
+  "name": "Psalm 93", 
+  "abbrev": "Psalm 93", 
+  "number": "93", 
+  "churchUri": "/scriptures/ot/ps/93", 
   "paragraphs": [
     {
-      "slug": "psalm-93-title_number1",
-      "type": "chapter-title",
-      "number": null,
-      "content": "Psalm 93",
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Psalm 93", 
+      "contentHtml": "Psalm 93", 
+      "number": null, 
+      "pageNumber": "775", 
+      "compareId": "psalm-93_ct1", 
       "churchId": "title_number1"
-    },
+    }, 
     {
-      "slug": "psalm-93-p1",
-      "type": "verse",
-      "number": "1",
-      "content": "The <span class=\"small-caps\">Lord</span> reigneth, he is clothed with majesty; the <span class=\"small-caps\">Lord</span> is clothed with strength, <span class=\"clarity-word\">wherewith</span> he hath girded himself: the world also is stablished, that it cannot be moved.",
+      "type": "verse", 
+      "id": "v1", 
+      "content": "The LORD reigneth, he is clothed with majesty; the LORD is clothed with strength, wherewith he hath girded himself: the world also is stablished, that it cannot be moved.", 
+      "contentHtml": "The <span class=\"small-caps\">Lord</span> reigneth, he is clothed with majesty; the <span class=\"small-caps\">Lord</span> is clothed with strength, <span class=\"clarity-word\">wherewith</span> he hath girded himself: the world also is stablished, that it cannot be moved.", 
+      "number": "1", 
+      "pageNumber": "775", 
+      "compareId": "psalm-93_v1", 
       "churchId": "p1"
-    },
+    }, 
     {
-      "slug": "psalm-93-p2",
-      "type": "verse",
-      "number": "2",
-      "content": "Thy throne <span class=\"clarity-word\">is</span> established of old: thou <span class=\"clarity-word\">art</span> from everlasting.",
+      "type": "verse", 
+      "id": "v2", 
+      "content": "Thy throne is established of old: thou art from everlasting.", 
+      "contentHtml": "Thy throne <span class=\"clarity-word\">is</span> established of old: thou <span class=\"clarity-word\">art</span> from everlasting.", 
+      "number": "2", 
+      "pageNumber": "775", 
+      "compareId": "psalm-93_v2", 
       "churchId": "p2"
-    },
+    }, 
     {
-      "slug": "psalm-93-p3",
-      "type": "verse",
-      "number": "3",
-      "content": "The floods have lifted up, O <span class=\"small-caps\">Lord</span>, the floods have lifted up their voice; the floods lift up their waves.",
+      "type": "verse", 
+      "id": "v3", 
+      "content": "The floods have lifted up, O LORD, the floods have lifted up their voice; the floods lift up their waves.", 
+      "contentHtml": "The floods have lifted up, O <span class=\"small-caps\">Lord</span>, the floods have lifted up their voice; the floods lift up their waves.", 
+      "number": "3", 
+      "pageNumber": "775", 
+      "compareId": "psalm-93_v3", 
       "churchId": "p3"
-    },
+    }, 
     {
-      "slug": "psalm-93-p4",
-      "type": "verse",
-      "number": "4",
-      "content": "The <span class=\"small-caps\">Lord</span> on high <span class=\"clarity-word\">is</span> mightier than the noise of many waters, <span class=\"clarity-word\">yea, than</span> the mighty waves of the sea.",
+      "type": "verse", 
+      "id": "v4", 
+      "content": "The LORD on high is mightier than the noise of many waters, yea, than the mighty waves of the sea.", 
+      "contentHtml": "The <span class=\"small-caps\">Lord</span> on high <span class=\"clarity-word\">is</span> mightier than the noise of many waters, <span class=\"clarity-word\">yea, than</span> the mighty waves of the sea.", 
+      "number": "4", 
+      "pageNumber": "775", 
+      "compareId": "psalm-93_v4", 
       "churchId": "p4"
-    },
+    }, 
     {
-      "slug": "psalm-93-p5",
-      "type": "verse",
-      "number": "5",
-      "content": "Thy testimonies are very sure: holiness becometh thine house, O <span class=\"small-caps\">Lord</span>, for ever.",
+      "type": "verse", 
+      "id": "v5", 
+      "content": "Thy testimonies are very sure: holiness becometh thine house, O LORD, for ever.", 
+      "contentHtml": "Thy testimonies are very sure: holiness becometh thine house, O <span class=\"small-caps\">Lord</span>, for ever.", 
+      "number": "5", 
+      "pageNumber": "775", 
+      "compareId": "psalm-93_v5", 
       "churchId": "p5"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/the-old-testament/2015-11-5710-psalm-093-female-voice-64k-eng.mp3", 
+      "id": null, 
+      "thumbUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org"
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/the-old-testament/2015-11-5710-psalm-093-male-voice-64k-eng.mp3", 
+      "id": null, 
+      "thumbUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org"
     }
   ]
 }

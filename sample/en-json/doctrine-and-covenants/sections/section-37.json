@@ -1,43 +1,80 @@
 {
-  "name": "Doctrine and Covenants 37",
-  "abbrev": "D&C 37",
-  "number": "37",
-  "churchUri": "/scriptures/dc-testament/dc/37",
+  "name": "Doctrine and Covenants 37", 
+  "abbrev": "D&C 37", 
+  "number": "37", 
+  "churchUri": "/scriptures/dc-testament/dc/37", 
   "paragraphs": [
     {
-      "slug": "section-37-title_number1",
-      "type": "chapter-title",
-      "number": null,
-      "content": "Section 37",
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Section 37", 
+      "contentHtml": "Section 37", 
+      "number": null, 
+      "pageNumber": "62", 
+      "compareId": "section-37_ct1", 
       "churchId": "title_number1"
-    },
+    }, 
     {
-      "slug": "section-37-p1",
-      "type": "verse",
-      "number": "1",
-      "content": "Behold, I say unto you that it is not expedient in me that ye should translate any more until ye shall go to the Ohio, and this because of the enemy and for your sakes.",
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Behold, I say unto you that it is not expedient in me that ye should translate any more until ye shall go to the Ohio, and this because of the enemy and for your sakes.", 
+      "contentHtml": "Behold, I say unto you that it is not expedient in me that ye should translate any more until ye shall go to the Ohio, and this because of the enemy and for your sakes.", 
+      "number": "1", 
+      "pageNumber": "62", 
+      "compareId": "section-37_v1", 
       "churchId": "p1"
-    },
+    }, 
     {
-      "slug": "section-37-p2",
-      "type": "verse",
-      "number": "2",
-      "content": "And again, I say unto you that ye shall not go until ye have preached my gospel in those parts, and have strengthened up the church whithersoever it is found, and more especially in Colesville; for, behold, they pray unto me in much faith.",
+      "type": "verse", 
+      "id": "v2", 
+      "content": "And again, I say unto you that ye shall not go until ye have preached my gospel in those parts, and have strengthened up the church whithersoever it is found, and more especially in Colesville; for, behold, they pray unto me in much faith.", 
+      "contentHtml": "And again, I say unto you that ye shall not go until ye have preached my gospel in those parts, and have strengthened up the church whithersoever it is found, and more especially in Colesville; for, behold, they pray unto me in much faith.", 
+      "number": "2", 
+      "pageNumber": "62", 
+      "compareId": "section-37_v2", 
       "churchId": "p2"
-    },
+    }, 
     {
-      "slug": "section-37-p3",
-      "type": "verse",
-      "number": "3",
-      "content": "And again, a commandment I give unto the church, that it is expedient in me that they should assemble together at the Ohio, against the time that my servant Oliver Cowdery shall return unto them.",
+      "type": "verse", 
+      "id": "v3", 
+      "content": "And again, a commandment I give unto the church, that it is expedient in me that they should assemble together at the Ohio, against the time that my servant Oliver Cowdery shall return unto them.", 
+      "contentHtml": "And again, a commandment I give unto the church, that it is expedient in me that they should assemble together at the Ohio, against the time that my servant Oliver Cowdery shall return unto them.", 
+      "number": "3", 
+      "pageNumber": "62", 
+      "compareId": "section-37_v3", 
       "churchId": "p3"
-    },
+    }, 
     {
-      "slug": "section-37-p4",
-      "type": "verse",
-      "number": "4",
-      "content": "Behold, here is wisdom, and let every man choose for himself until I come. Even so. Amen.",
+      "type": "verse", 
+      "id": "v4", 
+      "content": "Behold, here is wisdom, and let every man choose for himself until I come. Even so. Amen.", 
+      "contentHtml": "Behold, here is wisdom, and let every man choose for himself until I come. Even so. Amen.", 
+      "number": "4", 
+      "pageNumber": "62", 
+      "compareId": "section-37_v4", 
       "churchId": "p4"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0370-section-37-female-voice-64k-eng.mp3", 
+      "id": null, 
+      "thumbUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org"
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0370-section-37-male-voice-64k-eng.mp3", 
+      "id": null, 
+      "thumbUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org"
     }
   ]
 }

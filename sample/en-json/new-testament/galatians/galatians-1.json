@@ -1,0 +1,290 @@
+{
+  "name": "Galatians 1", 
+  "abbrev": "Gal. 1", 
+  "number": "1", 
+  "churchUri": "/scriptures/nt/gal/1", 
+  "paragraphs": [
+    {
+      "type": "book-title", 
+      "id": "bt1", 
+      "content": "The Epistle of Paul the Apostle to the Galatians", 
+      "contentHtml": "<small>The Epistle of Paul the Apostle</small> <small>to the</small> Galatians", 
+      "number": null, 
+      "pageNumber": "1473", 
+      "compareId": "galatians-1_bt1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Chapter 1", 
+      "contentHtml": "Chapter 1", 
+      "number": null, 
+      "pageNumber": "1473", 
+      "compareId": "galatians-1_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Paul, an apostle, (not of men, neither by man, but by Jesus Christ, and God the Father, who raised him from the dead;)", 
+      "contentHtml": "Paul, an apostle, (not of men, neither by man, but by Jesus Christ, and God the Father, who raised him from the dead;)", 
+      "number": "1", 
+      "pageNumber": "1473", 
+      "compareId": "galatians-1_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "And all the brethren which are with me, unto the churches of Galatia:", 
+      "contentHtml": "And all the brethren which are with me, unto the churches of Galatia:", 
+      "number": "2", 
+      "pageNumber": "1473", 
+      "compareId": "galatians-1_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "Grace be to you and peace from God the Father, and from our Lord Jesus Christ,", 
+      "contentHtml": "Grace <span class=\"clarity-word\">be</span> to you and peace from God the Father, and <span class=\"clarity-word\">from</span> our Lord Jesus Christ,", 
+      "number": "3", 
+      "pageNumber": "1473", 
+      "compareId": "galatians-1_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "Who gave himself for our sins, that he might deliver us from this present evil world, according to the will of God and our Father:", 
+      "contentHtml": "Who gave himself for our sins, that he might deliver us from this present evil world, according to the will of God and our Father:", 
+      "number": "4", 
+      "pageNumber": "1473", 
+      "compareId": "galatians-1_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "To whom be glory for ever and ever. Amen.", 
+      "contentHtml": "To whom <span class=\"clarity-word\">be</span> glory for ever and ever. Amen.", 
+      "number": "5", 
+      "pageNumber": "1473", 
+      "compareId": "galatians-1_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "I marvel that ye are so soon removed from him that called you into the grace of Christ unto another gospel:", 
+      "contentHtml": "I marvel that ye are so soon removed from him that called you into the grace of Christ unto another gospel:", 
+      "number": "6", 
+      "pageNumber": "1473", 
+      "compareId": "galatians-1_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "Which is not another; but there be some that trouble you, and would pervert the gospel of Christ.", 
+      "contentHtml": "Which is not another; but there be some that trouble you, and would pervert the gospel of Christ.", 
+      "number": "7", 
+      "pageNumber": "1473", 
+      "compareId": "galatians-1_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed.", 
+      "contentHtml": "But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed.", 
+      "number": "8", 
+      "pageNumber": "1473", 
+      "compareId": "galatians-1_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "As we said before, so say I now again, If any man preach any other gospel unto you than that ye have received, let him be accursed.", 
+      "contentHtml": "As we said before, so say I now again, If any <span class=\"clarity-word\">man</span> preach any other gospel unto you than that ye have received, let him be accursed.", 
+      "number": "9", 
+      "pageNumber": "1473,1474", 
+      "compareId": "galatians-1_v9", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "For do I now persuade men, or God? or do I seek to please men? for if I yet pleased men, I should not be the servant of Christ.", 
+      "contentHtml": "For do I now persuade men, or God? or do I seek to please men? for if I yet pleased men, I should not be the servant of Christ.", 
+      "number": "10", 
+      "pageNumber": "1474", 
+      "compareId": "galatians-1_v10", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "But I certify you, brethren, that the gospel which was preached of me is not after man.", 
+      "contentHtml": "But I certify you, brethren, that the gospel which was preached of me is not after man.", 
+      "number": "11", 
+      "pageNumber": "1474", 
+      "compareId": "galatians-1_v11", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "For I neither received it of man, neither was I taught it, but by the revelation of Jesus Christ.", 
+      "contentHtml": "For I neither received it of man, neither was I taught <span class=\"clarity-word\">it,</span> but by the revelation of Jesus Christ.", 
+      "number": "12", 
+      "pageNumber": "1474", 
+      "compareId": "galatians-1_v12", 
+      "churchId": "p12"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v13", 
+      "content": "For ye have heard of my conversation in time past in the Jews’ religion, how that beyond measure I persecuted the church of God, and wasted it:", 
+      "contentHtml": "For ye have heard of my conversation in time past in the Jews’ religion, how that beyond measure I persecuted the church of God, and wasted it:", 
+      "number": "13", 
+      "pageNumber": "1474", 
+      "compareId": "galatians-1_v13", 
+      "churchId": "p13"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v14", 
+      "content": "And profited in the Jews’ religion above many my equals in mine own nation, being more exceedingly zealous of the traditions of my fathers.", 
+      "contentHtml": "And profited in the Jews’ religion above many my equals in mine own nation, being more exceedingly zealous of the traditions of my fathers.", 
+      "number": "14", 
+      "pageNumber": "1474", 
+      "compareId": "galatians-1_v14", 
+      "churchId": "p14"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v15", 
+      "content": "But when it pleased God, who separated me from my mother’s womb, and called me by his grace,", 
+      "contentHtml": "But when it pleased God, who separated me from my mother’s womb, and called <span class=\"clarity-word\">me</span> by his grace,", 
+      "number": "15", 
+      "pageNumber": "1474", 
+      "compareId": "galatians-1_v15", 
+      "churchId": "p15"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v16", 
+      "content": "To reveal his Son in me, that I might preach him among the heathen; immediately I conferred not with flesh and blood:", 
+      "contentHtml": "To reveal his Son in me, that I might preach him among the heathen; immediately I conferred not with flesh and blood:", 
+      "number": "16", 
+      "pageNumber": "1474", 
+      "compareId": "galatians-1_v16", 
+      "churchId": "p16"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v17", 
+      "content": "Neither went I up to Jerusalem to them which were apostles before me; but I went into Arabia, and returned again unto Damascus.", 
+      "contentHtml": "Neither went I up to Jerusalem to them which were apostles before me; but I went into Arabia, and returned again unto Damascus.", 
+      "number": "17", 
+      "pageNumber": "1474", 
+      "compareId": "galatians-1_v17", 
+      "churchId": "p17"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v18", 
+      "content": "Then after three years I went up to Jerusalem to see Peter, and abode with him fifteen days.", 
+      "contentHtml": "Then after three years I went up to Jerusalem to see Peter, and abode with him fifteen days.", 
+      "number": "18", 
+      "pageNumber": "1474", 
+      "compareId": "galatians-1_v18", 
+      "churchId": "p18"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v19", 
+      "content": "But other of the apostles saw I none, save James the Lord’s brother.", 
+      "contentHtml": "But other of the apostles saw I none, save James the Lord’s brother.", 
+      "number": "19", 
+      "pageNumber": "1474", 
+      "compareId": "galatians-1_v19", 
+      "churchId": "p19"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v20", 
+      "content": "Now the things which I write unto you, behold, before God, I lie not.", 
+      "contentHtml": "Now the things which I write unto you, behold, before God, I lie not.", 
+      "number": "20", 
+      "pageNumber": "1474", 
+      "compareId": "galatians-1_v20", 
+      "churchId": "p20"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v21", 
+      "content": "Afterwards I came into the regions of Syria and Cilicia;", 
+      "contentHtml": "Afterwards I came into the regions of Syria and Cilicia;", 
+      "number": "21", 
+      "pageNumber": "1474", 
+      "compareId": "galatians-1_v21", 
+      "churchId": "p21"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v22", 
+      "content": "And was unknown by face unto the churches of Judæa which were in Christ:", 
+      "contentHtml": "And was unknown by face unto the churches of Judæa which were in Christ:", 
+      "number": "22", 
+      "pageNumber": "1474", 
+      "compareId": "galatians-1_v22", 
+      "churchId": "p22"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v23", 
+      "content": "But they had heard only, That he which persecuted us in times past now preacheth the faith which once he destroyed.", 
+      "contentHtml": "But they had heard only, That he which persecuted us in times past now preacheth the faith which once he destroyed.", 
+      "number": "23", 
+      "pageNumber": "1474", 
+      "compareId": "galatians-1_v23", 
+      "churchId": "p23"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v24", 
+      "content": "And they glorified God in me.", 
+      "contentHtml": "And they glorified God in me.", 
+      "number": "24", 
+      "pageNumber": "1474", 
+      "compareId": "galatians-1_v24", 
+      "churchId": "p24"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1630-galatians-01-female-voice-64k-eng.mp3", 
+      "id": null, 
+      "thumbUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org"
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1630-galatians-01-male-voice-64k-eng.mp3", 
+      "id": null, 
+      "thumbUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org"
+    }
+  ]
+}

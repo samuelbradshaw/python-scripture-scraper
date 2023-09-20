@@ -1,36 +1,70 @@
 {
-  "name": "Moroni 2",
-  "abbrev": "Moro. 2",
-  "number": "2",
-  "churchUri": "/scriptures/bofm/moro/2",
+  "name": "Moroni 2", 
+  "abbrev": "Moro. 2", 
+  "number": "2", 
+  "churchUri": "/scriptures/bofm/moro/2", 
   "paragraphs": [
     {
-      "slug": "moroni-2-title_number1",
-      "type": "chapter-title",
-      "number": null,
-      "content": "Chapter 2",
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Chapter 2", 
+      "contentHtml": "Chapter 2", 
+      "number": null, 
+      "pageNumber": "518", 
+      "compareId": "moroni-2_ct1", 
       "churchId": "title_number1"
-    },
+    }, 
     {
-      "slug": "moroni-2-p1",
-      "type": "verse",
-      "number": "1",
-      "content": "The words of Christ, which he spake unto his disciples, the twelve whom he had chosen, as he laid his hands upon them—",
+      "type": "verse", 
+      "id": "v1", 
+      "content": "The words of Christ, which he spake unto his disciples, the twelve whom he had chosen, as he laid his hands upon them—", 
+      "contentHtml": "The words of Christ, which he spake unto his disciples, the twelve whom he had chosen, as he laid his hands upon them—", 
+      "number": "1", 
+      "pageNumber": "519", 
+      "compareId": "moroni-2_v1", 
       "churchId": "p1"
-    },
+    }, 
     {
-      "slug": "moroni-2-p2",
-      "type": "verse",
-      "number": "2",
-      "content": "And he called them by name, saying: Ye shall call on the Father in my name, in mighty prayer; and after ye have done this ye shall have power that to him upon whom ye shall lay your hands, ye shall give the Holy Ghost; and in my name shall ye give it, for thus do mine apostles.",
+      "type": "verse", 
+      "id": "v2", 
+      "content": "And he called them by name, saying: Ye shall call on the Father in my name, in mighty prayer; and after ye have done this ye shall have power that to him upon whom ye shall lay your hands, ye shall give the Holy Ghost; and in my name shall ye give it, for thus do mine apostles.", 
+      "contentHtml": "And he called them by name, saying: Ye shall call on the Father in my name, in mighty prayer; and after ye have done this ye shall have power that to him upon whom ye shall lay your hands, ye shall give the Holy Ghost; and in my name shall ye give it, for thus do mine apostles.", 
+      "number": "2", 
+      "pageNumber": "519", 
+      "compareId": "moroni-2_v2", 
       "churchId": "p2"
-    },
+    }, 
     {
-      "slug": "moroni-2-p3",
-      "type": "verse",
-      "number": "3",
-      "content": "Now Christ spake these words unto them at the time of his first appearing; and the multitude heard it not, but the disciples heard it; and on as many as they laid their hands, fell the Holy Ghost.",
+      "type": "verse", 
+      "id": "v3", 
+      "content": "Now Christ spake these words unto them at the time of his first appearing; and the multitude heard it not, but the disciples heard it; and on as many as they laid their hands, fell the Holy Ghost.", 
+      "contentHtml": "Now Christ spake these words unto them at the time of his first appearing; and the multitude heard it not, but the disciples heard it; and on as many as they laid their hands, fell the Holy Ghost.", 
+      "number": "3", 
+      "pageNumber": "519", 
+      "compareId": "moroni-2_v3", 
       "churchId": "p3"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ/2015-11-2310-moroni-02-female-voice-64k-eng.mp3", 
+      "id": null, 
+      "thumbUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org"
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ/2015-11-2310-moroni-02-male-voice-64k-eng.mp3", 
+      "id": null, 
+      "thumbUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org"
     }
   ]
 }

@@ -1,50 +1,90 @@
 {
-  "name": "Psalm 43",
-  "abbrev": "Psalm 43",
-  "number": "43",
-  "churchUri": "/scriptures/ot/ps/43",
+  "name": "Psalm 43", 
+  "abbrev": "Psalm 43", 
+  "number": "43", 
+  "churchUri": "/scriptures/ot/ps/43", 
   "paragraphs": [
     {
-      "slug": "psalm-43-title_number1",
-      "type": "chapter-title",
-      "number": null,
-      "content": "Psalm 43",
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Psalm 43", 
+      "contentHtml": "Psalm 43", 
+      "number": null, 
+      "pageNumber": "741", 
+      "compareId": "psalm-43_ct1", 
       "churchId": "title_number1"
-    },
+    }, 
     {
-      "slug": "psalm-43-p1",
-      "type": "verse",
-      "number": "1",
-      "content": "Judge me, O God, and plead my cause against an ungodly nation: O deliver me from the deceitful and unjust man.",
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Judge me, O God, and plead my cause against an ungodly nation: O deliver me from the deceitful and unjust man.", 
+      "contentHtml": "Judge me, O God, and plead my cause against an ungodly nation: O deliver me from the deceitful and unjust man.", 
+      "number": "1", 
+      "pageNumber": "741", 
+      "compareId": "psalm-43_v1", 
       "churchId": "p1"
-    },
+    }, 
     {
-      "slug": "psalm-43-p2",
-      "type": "verse",
-      "number": "2",
-      "content": "For thou <span class=\"clarity-word\">art</span> the God of my strength: why dost thou cast me off? why go I mourning because of the oppression of the enemy?",
+      "type": "verse", 
+      "id": "v2", 
+      "content": "For thou art the God of my strength: why dost thou cast me off? why go I mourning because of the oppression of the enemy?", 
+      "contentHtml": "For thou <span class=\"clarity-word\">art</span> the God of my strength: why dost thou cast me off? why go I mourning because of the oppression of the enemy?", 
+      "number": "2", 
+      "pageNumber": "741", 
+      "compareId": "psalm-43_v2", 
       "churchId": "p2"
-    },
+    }, 
     {
-      "slug": "psalm-43-p3",
-      "type": "verse",
-      "number": "3",
-      "content": "O send out thy light and thy truth: let them lead me; let them bring me unto thy holy hill, and to thy tabernacles.",
+      "type": "verse", 
+      "id": "v3", 
+      "content": "O send out thy light and thy truth: let them lead me; let them bring me unto thy holy hill, and to thy tabernacles.", 
+      "contentHtml": "O send out thy light and thy truth: let them lead me; let them bring me unto thy holy hill, and to thy tabernacles.", 
+      "number": "3", 
+      "pageNumber": "741", 
+      "compareId": "psalm-43_v3", 
       "churchId": "p3"
-    },
+    }, 
     {
-      "slug": "psalm-43-p4",
-      "type": "verse",
-      "number": "4",
-      "content": "Then will I go unto the altar of God, unto God my exceeding joy: yea, upon the harp will I praise thee, O God my God.",
+      "type": "verse", 
+      "id": "v4", 
+      "content": "Then will I go unto the altar of God, unto God my exceeding joy: yea, upon the harp will I praise thee, O God my God.", 
+      "contentHtml": "Then will I go unto the altar of God, unto God my exceeding joy: yea, upon the harp will I praise thee, O God my God.", 
+      "number": "4", 
+      "pageNumber": "741", 
+      "compareId": "psalm-43_v4", 
       "churchId": "p4"
-    },
+    }, 
     {
-      "slug": "psalm-43-p5",
-      "type": "verse",
-      "number": "5",
-      "content": "Why art thou cast down, O my soul? and why art thou disquieted within me? hope in God: for I shall yet praise him, <span class=\"clarity-word\">who is</span> the health of my countenance, and my God.",
+      "type": "verse", 
+      "id": "v5", 
+      "content": "Why art thou cast down, O my soul? and why art thou disquieted within me? hope in God: for I shall yet praise him, who is the health of my countenance, and my God.", 
+      "contentHtml": "Why art thou cast down, O my soul? and why art thou disquieted within me? hope in God: for I shall yet praise him, <span class=\"clarity-word\">who is</span> the health of my countenance, and my God.", 
+      "number": "5", 
+      "pageNumber": "741", 
+      "compareId": "psalm-43_v5", 
       "churchId": "p5"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/the-old-testament/2015-11-5210-psalm-043-female-voice-64k-eng.mp3", 
+      "id": null, 
+      "thumbUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org"
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/the-old-testament/2015-11-5210-psalm-043-male-voice-64k-eng.mp3", 
+      "id": null, 
+      "thumbUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org"
     }
   ]
 }

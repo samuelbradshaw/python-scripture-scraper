@@ -1,0 +1,350 @@
+{
+  "name": "Galatians 4", 
+  "abbrev": "Gal. 4", 
+  "number": "4", 
+  "churchUri": "/scriptures/nt/gal/4", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Chapter 4", 
+      "contentHtml": "Chapter 4", 
+      "number": null, 
+      "pageNumber": "1477", 
+      "compareId": "galatians-4_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Now I say, That the heir, as long as he is a child, differeth nothing from a servant, though he be lord of all;", 
+      "contentHtml": "Now I say, <span class=\"clarity-word\">That</span> the heir, as long as he is a child, differeth nothing from a servant, though he be lord of all;", 
+      "number": "1", 
+      "pageNumber": "1477", 
+      "compareId": "galatians-4_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "But is under tutors and governors until the time appointed of the father.", 
+      "contentHtml": "But is under tutors and governors until the time appointed of the father.", 
+      "number": "2", 
+      "pageNumber": "1477", 
+      "compareId": "galatians-4_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "Even so we, when we were children, were in bondage under the elements of the world:", 
+      "contentHtml": "Even so we, when we were children, were in bondage under the elements of the world:", 
+      "number": "3", 
+      "pageNumber": "1477", 
+      "compareId": "galatians-4_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "But when the fulness of the time was come, God sent forth his Son, made of a woman, made under the law,", 
+      "contentHtml": "But when the fulness of the time was come, God sent forth his Son, made of a woman, made under the law,", 
+      "number": "4", 
+      "pageNumber": "1477", 
+      "compareId": "galatians-4_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "To redeem them that were under the law, that we might receive the adoption of sons.", 
+      "contentHtml": "To redeem them that were under the law, that we might receive the adoption of sons.", 
+      "number": "5", 
+      "pageNumber": "1477", 
+      "compareId": "galatians-4_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "And because ye are sons, God hath sent forth the Spirit of his Son into your hearts, crying, Abba, Father.", 
+      "contentHtml": "And because ye are sons, God hath sent forth the Spirit of his Son into your hearts, crying, Abba, Father.", 
+      "number": "6", 
+      "pageNumber": "1477", 
+      "compareId": "galatians-4_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "Wherefore thou art no more a servant, but a son; and if a son, then an heir of God through Christ.", 
+      "contentHtml": "Wherefore thou art no more a servant, but a son; and if a son, then an heir of God through Christ.", 
+      "number": "7", 
+      "pageNumber": "1477", 
+      "compareId": "galatians-4_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "Howbeit then, when ye knew not God, ye did service unto them which by nature are no gods.", 
+      "contentHtml": "Howbeit then, when ye knew not God, ye did service unto them which by nature are no gods.", 
+      "number": "8", 
+      "pageNumber": "1477", 
+      "compareId": "galatians-4_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "But now, after that ye have known God, or rather are known of God, how turn ye again to the weak and beggarly elements, whereunto ye desire again to be in bondage?", 
+      "contentHtml": "But now, after that ye have known God, or rather are known of God, how turn ye again to the weak and beggarly elements, whereunto ye desire again to be in bondage?", 
+      "number": "9", 
+      "pageNumber": "1477", 
+      "compareId": "galatians-4_v9", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "Ye observe days, and months, and times, and years.", 
+      "contentHtml": "Ye observe days, and months, and times, and years.", 
+      "number": "10", 
+      "pageNumber": "1477", 
+      "compareId": "galatians-4_v10", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "I am afraid of you, lest I have bestowed upon you labour in vain.", 
+      "contentHtml": "I am afraid of you, lest I have bestowed upon you labour in vain.", 
+      "number": "11", 
+      "pageNumber": "1477", 
+      "compareId": "galatians-4_v11", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "Brethren, I beseech you, be as I am; for I am as ye are: ye have not injured me at all.", 
+      "contentHtml": "Brethren, I beseech you, be as I <span class=\"clarity-word\">am;</span> for I <span class=\"clarity-word\">am</span> as ye <span class=\"clarity-word\">are:</span> ye have not injured me at all.", 
+      "number": "12", 
+      "pageNumber": "1477", 
+      "compareId": "galatians-4_v12", 
+      "churchId": "p12"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v13", 
+      "content": "Ye know how through infirmity of the flesh I preached the gospel unto you at the first.", 
+      "contentHtml": "Ye know how through infirmity of the flesh I preached the gospel unto you at the first.", 
+      "number": "13", 
+      "pageNumber": "1477", 
+      "compareId": "galatians-4_v13", 
+      "churchId": "p13"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v14", 
+      "content": "And my temptation which was in my flesh ye despised not, nor rejected; but received me as an angel of God, even as Christ Jesus.", 
+      "contentHtml": "And my temptation which was in my flesh ye despised not, nor rejected; but received me as an angel of God, <span class=\"clarity-word\">even</span> as Christ Jesus.", 
+      "number": "14", 
+      "pageNumber": "1477", 
+      "compareId": "galatians-4_v14", 
+      "churchId": "p14"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v15", 
+      "content": "Where is then the blessedness ye spake of? for I bear you record, that, if it had been possible, ye would have plucked out your own eyes, and have given them to me.", 
+      "contentHtml": "Where is then the blessedness ye spake of? for I bear you record, that, if <span class=\"clarity-word\">it had been</span> possible, ye would have plucked out your own eyes, and have given them to me.", 
+      "number": "15", 
+      "pageNumber": "1477", 
+      "compareId": "galatians-4_v15", 
+      "churchId": "p15"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v16", 
+      "content": "Am I therefore become your enemy, because I tell you the truth?", 
+      "contentHtml": "Am I therefore become your enemy, because I tell you the truth?", 
+      "number": "16", 
+      "pageNumber": "1477", 
+      "compareId": "galatians-4_v16", 
+      "churchId": "p16"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v17", 
+      "content": "They zealously affect you, but not well; yea, they would exclude you, that ye might affect them.", 
+      "contentHtml": "They zealously affect you, <span class=\"clarity-word\">but</span> not well; yea, they would exclude you, that ye might affect them.", 
+      "number": "17", 
+      "pageNumber": "1477", 
+      "compareId": "galatians-4_v17", 
+      "churchId": "p17"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v18", 
+      "content": "But it is good to be zealously affected always in a good thing, and not only when I am present with you.", 
+      "contentHtml": "But <span class=\"clarity-word\">it is</span> good to be zealously affected always in <span class=\"clarity-word\">a</span> good <span class=\"clarity-word\">thing,</span> and not only when I am present with you.", 
+      "number": "18", 
+      "pageNumber": "1477", 
+      "compareId": "galatians-4_v18", 
+      "churchId": "p18"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v19", 
+      "content": "My little children, of whom I travail in birth again until Christ be formed in you,", 
+      "contentHtml": "My little children, of whom I travail in birth again until Christ be formed in you,", 
+      "number": "19", 
+      "pageNumber": "1478", 
+      "compareId": "galatians-4_v19", 
+      "churchId": "p19"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v20", 
+      "content": "I desire to be present with you now, and to change my voice; for I stand in doubt of you.", 
+      "contentHtml": "I desire to be present with you now, and to change my voice; for I stand in doubt of you.", 
+      "number": "20", 
+      "pageNumber": "1478", 
+      "compareId": "galatians-4_v20", 
+      "churchId": "p20"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v21", 
+      "content": "Tell me, ye that desire to be under the law, do ye not hear the law?", 
+      "contentHtml": "Tell me, ye that desire to be under the law, do ye not hear the law?", 
+      "number": "21", 
+      "pageNumber": "1478", 
+      "compareId": "galatians-4_v21", 
+      "churchId": "p21"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v22", 
+      "content": "For it is written, that Abraham had two sons, the one by a bondmaid, the other by a freewoman.", 
+      "contentHtml": "For it is written, that Abraham had two sons, the one by a bondmaid, the other by a freewoman.", 
+      "number": "22", 
+      "pageNumber": "1478", 
+      "compareId": "galatians-4_v22", 
+      "churchId": "p22"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v23", 
+      "content": "But he who was of the bondwoman was born after the flesh; but he of the freewoman was by promise.", 
+      "contentHtml": "But he <span class=\"clarity-word\">who was</span> of the bondwoman was born after the flesh; but he of the freewoman <span class=\"clarity-word\">was</span> by promise.", 
+      "number": "23", 
+      "pageNumber": "1478", 
+      "compareId": "galatians-4_v23", 
+      "churchId": "p23"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v24", 
+      "content": "Which things are an allegory: for these are the two covenants; the one from the mount Sinai, which gendereth to bondage, which is Agar.", 
+      "contentHtml": "Which things are an allegory: for these are the two covenants; the one from the mount Sinai, which gendereth to bondage, which is Agar.", 
+      "number": "24", 
+      "pageNumber": "1478", 
+      "compareId": "galatians-4_v24", 
+      "churchId": "p24"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v25", 
+      "content": "For this Agar is mount Sinai in Arabia, and answereth to Jerusalem which now is, and is in bondage with her children.", 
+      "contentHtml": "For this Agar is mount Sinai in Arabia, and answereth to Jerusalem which now is, and is in bondage with her children.", 
+      "number": "25", 
+      "pageNumber": "1478", 
+      "compareId": "galatians-4_v25", 
+      "churchId": "p25"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v26", 
+      "content": "But Jerusalem which is above is free, which is the mother of us all.", 
+      "contentHtml": "But Jerusalem which is above is free, which is the mother of us all.", 
+      "number": "26", 
+      "pageNumber": "1478", 
+      "compareId": "galatians-4_v26", 
+      "churchId": "p26"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v27", 
+      "content": "For it is written, Rejoice, thou barren that bearest not; break forth and cry, thou that travailest not: for the desolate hath many more children than she which hath an husband.", 
+      "contentHtml": "For it is written, Rejoice, <span class=\"clarity-word\">thou</span> barren that bearest not; break forth and cry, thou that travailest not: for the desolate hath many more children than she which hath an husband.", 
+      "number": "27", 
+      "pageNumber": "1478", 
+      "compareId": "galatians-4_v27", 
+      "churchId": "p27"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v28", 
+      "content": "Now we, brethren, as Isaac was, are the children of promise.", 
+      "contentHtml": "Now we, brethren, as Isaac was, are the children of promise.", 
+      "number": "28", 
+      "pageNumber": "1478", 
+      "compareId": "galatians-4_v28", 
+      "churchId": "p28"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v29", 
+      "content": "But as then he that was born after the flesh persecuted him that was born after the Spirit, even so it is now.", 
+      "contentHtml": "But as then he that was born after the flesh persecuted him <span class=\"clarity-word\">that was born</span> after the Spirit, even so <span class=\"clarity-word\">it is</span> now.", 
+      "number": "29", 
+      "pageNumber": "1478", 
+      "compareId": "galatians-4_v29", 
+      "churchId": "p29"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v30", 
+      "content": "Nevertheless what saith the scripture? Cast out the bondwoman and her son: for the son of the bondwoman shall not be heir with the son of the freewoman.", 
+      "contentHtml": "Nevertheless what saith the scripture? Cast out the bondwoman and her son: for the son of the bondwoman shall not be heir with the son of the freewoman.", 
+      "number": "30", 
+      "pageNumber": "1478", 
+      "compareId": "galatians-4_v30", 
+      "churchId": "p30"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v31", 
+      "content": "So then, brethren, we are not children of the bondwoman, but of the free.", 
+      "contentHtml": "So then, brethren, we are not children of the bondwoman, but of the free.", 
+      "number": "31", 
+      "pageNumber": "1478", 
+      "compareId": "galatians-4_v31", 
+      "churchId": "p31"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1660-galatians-04-female-voice-64k-eng.mp3", 
+      "id": null, 
+      "thumbUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org"
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1660-galatians-04-male-voice-64k-eng.mp3", 
+      "id": null, 
+      "thumbUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org"
+    }
+  ]
+}

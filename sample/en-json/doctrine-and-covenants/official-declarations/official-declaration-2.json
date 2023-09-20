@@ -1,15 +1,40 @@
 {
-  "name": "Official Declaration 2",
-  "abbrev": "OD 2",
-  "number": "2",
-  "churchUri": "/scriptures/dc-testament/od/2",
+  "name": "Official Declaration 2", 
+  "abbrev": "OD 2", 
+  "number": "2", 
+  "churchUri": "/scriptures/dc-testament/od/2", 
   "paragraphs": [
     {
-      "slug": "official-declaration-2-title_number1",
-      "type": "chapter-title",
-      "number": null,
-      "content": "Official Declaration 2",
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Official Declaration 2", 
+      "contentHtml": "Official Declaration 2", 
+      "number": null, 
+      "pageNumber": "294", 
+      "compareId": "official-declaration-2_ct1", 
       "churchId": "title_number1"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-1400-official-declaration-2-female-voice-64k-eng.mp3", 
+      "id": null, 
+      "thumbUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org"
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-1400-official-declaration-2-male-voice-64k-eng.mp3", 
+      "id": null, 
+      "thumbUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org"
     }
   ]
 }

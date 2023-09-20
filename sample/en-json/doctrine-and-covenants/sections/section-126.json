@@ -1,36 +1,70 @@
 {
-  "name": "Doctrine and Covenants 126",
-  "abbrev": "D&C 126",
-  "number": "126",
-  "churchUri": "/scriptures/dc-testament/dc/126",
+  "name": "Doctrine and Covenants 126", 
+  "abbrev": "D&C 126", 
+  "number": "126", 
+  "churchUri": "/scriptures/dc-testament/dc/126", 
   "paragraphs": [
     {
-      "slug": "section-126-title_number1",
-      "type": "chapter-title",
-      "number": null,
-      "content": "Section 126",
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Section 126", 
+      "contentHtml": "Section 126", 
+      "number": null, 
+      "pageNumber": "256", 
+      "compareId": "section-126_ct1", 
       "churchId": "title_number1"
-    },
+    }, 
     {
-      "slug": "section-126-p1",
-      "type": "verse",
-      "number": "1",
-      "content": "Dear and well-beloved brother, Brigham Young, verily thus saith the Lord unto you: My servant Brigham, it is no more required at your hand to leave your family as in times past, for your offering is acceptable to me.",
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Dear and well-beloved brother, Brigham Young, verily thus saith the Lord unto you: My servant Brigham, it is no more required at your hand to leave your family as in times past, for your offering is acceptable to me.", 
+      "contentHtml": "Dear and well-beloved brother, Brigham Young, verily thus saith the Lord unto you: My servant Brigham, it is no more required at your hand to leave your family as in times past, for your offering is acceptable to me.", 
+      "number": "1", 
+      "pageNumber": "257", 
+      "compareId": "section-126_v1", 
       "churchId": "p1"
-    },
+    }, 
     {
-      "slug": "section-126-p2",
-      "type": "verse",
-      "number": "2",
-      "content": "I have seen your labor and toil in journeyings for my name.",
+      "type": "verse", 
+      "id": "v2", 
+      "content": "I have seen your labor and toil in journeyings for my name.", 
+      "contentHtml": "I have seen your labor and toil in journeyings for my name.", 
+      "number": "2", 
+      "pageNumber": "257", 
+      "compareId": "section-126_v2", 
       "churchId": "p2"
-    },
+    }, 
     {
-      "slug": "section-126-p3",
-      "type": "verse",
-      "number": "3",
-      "content": "I therefore command you to send my word abroad, and take especial care of your family from this time, henceforth and forever. Amen.",
+      "type": "verse", 
+      "id": "v3", 
+      "content": "I therefore command you to send my word abroad, and take especial care of your family from this time, henceforth and forever. Amen.", 
+      "contentHtml": "I therefore command you to send my word abroad, and take especial care of your family from this time, henceforth and forever. Amen.", 
+      "number": "3", 
+      "pageNumber": "257", 
+      "compareId": "section-126_v3", 
       "churchId": "p3"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-1260-section-126-female-voice-64k-eng.mp3", 
+      "id": null, 
+      "thumbUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org"
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-1260-section-126-male-voice-64k-eng.mp3", 
+      "id": null, 
+      "thumbUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org"
     }
   ]
 }
