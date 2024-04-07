@@ -18,7 +18,7 @@ from markdownify import MarkdownConverter, markdownify
 from resources import resources, config
 
 # python-scripture-scraper version
-VERSION = '2.0'
+VERSION = '2.1'
 
 # URL patterns
 languages_url = 'https://www.churchofjesuschrist.org/languages?lang=eng'
@@ -62,6 +62,7 @@ metadata_scriptures_language_template = {
     'book-of-mormon': [],
     'doctrine-and-covenants': [],
     'pearl-of-great-price': [],
+    'jst-appendix': [],
   },
 }
 
@@ -262,6 +263,16 @@ def gather_metadata_for_language(language):
     # Parse the scriptures page
     soup = BeautifulSoup(r.text, 'html.parser')
     available_uris = [a.attrs['href'].split('?')[0].replace('/study/', '/') for a in soup.select('#main a[href]')]
+    
+    if '/scriptures/study-helps' in available_uris:
+      r = requests.get(study_url.format('/scriptures/study-helps', language['church_lang']))
+      r.encoding = 'utf-8'
+      if r and r.status_code == 200:
+        soup = BeautifulSoup(r.text, 'html.parser')
+        available_study_help_uris = [a.attrs['href'].split('?')[0].replace('/study/', '/') for a in soup.select('#main a[href]')]
+        
+        if '/scriptures/jst' in available_study_help_uris:
+          available_uris.append('/scriptures/jst')
 
   else:
     # If no scriptures exist, skip the language
@@ -495,6 +506,7 @@ def gather_metadata_for_language(language):
           # Get translated titles for special cases:
           # psalm, psalms, section, sections, official-declaration, official-declarations
           # facsimile, facsimiles, abr/fac-1, abr/fac-2, abr/fac-3
+          # jst-gen/1-8, jst-psalms, jst-psalm
           if book_slug == 'psalms':
             if 'psalm' not in metadata_scriptures['languages'][bcp47_lang]['translatedNames']:
               metadata_scriptures['languages'][bcp47_lang]['translatedNames']['psalm'] = { 'name': None, 'abbrev': None, }
@@ -553,6 +565,22 @@ def gather_metadata_for_language(language):
               metadata_scriptures['mapToSlug'][facsimile_titles[1].text] = 'fac-2'
               metadata_scriptures['mapToSlug'][facsimile_titles[2].text] = 'fac-3'
             metadata_uri_to_name['/scriptures/pgp/abr'][bcp47_lang]['name'] = book_name
+          elif book_slug == 'jst-genesis':
+            jst_genesis_1_8_title = soup.select_one('a.list-tile[href^="/study/scriptures/jst/jst-gen/1-8"] .title').text
+            metadata_scriptures['languages'][bcp47_lang]['translatedNames']['1-8'] = {
+              'name': jst_genesis_1_8_title,
+              'abbrev': None,
+            }
+            metadata_scriptures['mapToSlug'][jst_genesis_1_8_title] = '1-8'
+            metadata_uri_to_name['/scriptures/jst/jst-gen'][bcp47_lang]['name'] = book_name
+          elif book_slug == 'jst-psalms':
+            if 'jst-psalm' not in metadata_scriptures['languages'][bcp47_lang]['translatedNames']:
+              metadata_scriptures['languages'][bcp47_lang]['translatedNames']['jst-psalm'] = { 'name': None, 'abbrev': None, }
+            metadata_scriptures['languages'][bcp47_lang]['translatedNames']['jst-psalm']['name'] = chapter_name_without_numbers
+            metadata_scriptures['languages'][bcp47_lang]['translatedNames']['jst-psalms']['name'] = book_name
+            metadata_scriptures['mapToSlug'][chapter_name_without_numbers] = 'jst-psalm'
+            metadata_scriptures['mapToSlug'][book_name] = 'jst-psalms'
+            metadata_uri_to_name['/scriptures/jst/jst-ps'][bcp47_lang]['name'] = chapter_name_without_numbers
 
 
 # Scrape full content for a given language

@@ -11,6 +11,7 @@ mapping_book_to_singular_slug = {
   'sections': 'section',
   'official-declarations': 'official-declaration',
   'facsimiles': 'facsimile',
+  'jst-psalms': 'jst-psalm',
 }
 
 # Church content uses three-letter codes that are based on ISO 639-3 (but not fully compliant). This dictionary provides a mapping from Church language codes to industry-standard BCP 47 language tags.
@@ -121,27 +122,31 @@ bible_version_info = {
   },
 }
 
-# First edition years for the Book of Mormon, Doctrine and Covenants, and Pearl of Great Price
+# First edition years for the Book of Mormon, Doctrine and Covenants, Pearl of Great Price, and JST Appendix
 first_edition_years = {
   'en': {
     'book-of-mormon': '1830',
     'doctrine-and-covenants': '1835',
     'pearl-of-great-price': '1851',
+    'jst-appendix': '1979',
   },
   'es': {
     'book-of-mormon': '1886',
     'doctrine-and-covenants': '1948',
     'pearl-of-great-price': '1948',
+    'jst-appendix': '1993',
   },
   'fr': {
     'book-of-mormon': '1852',
     'doctrine-and-covenants': '1958',
     'pearl-of-great-price': '1958',
+    'jst-appendix': '1988',
   },
   'pt': {
     'book-of-mormon': '1939',
     'doctrine-and-covenants': '1950',
     'pearl-of-great-price': '1950',
+    'jst-appendix': '1998',
   },
 }
 
@@ -661,6 +666,168 @@ metadata_structure = {
       },
     },
   },
+  'jst-appendix': {
+    'name': 'Joseph Smith Translation Appendix',
+    'abbrev': 'jst',
+    'churchUri': '/scriptures/jst',
+    'books': {
+      'jst-genesis': {
+        'churchUri': '/scriptures/jst/jst-gen',
+        'churchChapters': ['1-8', 9, 14, 15, 17, 19, 21, 48, 50],
+        'bookGroup': None,
+      },
+      'jst-exodus': {
+        'churchUri': '/scriptures/jst/jst-ex',
+        'churchChapters': [4, 18, 22, 32, 33, 34],
+        'bookGroup': None,
+      },
+      'jst-deuteronomy': {
+        'churchUri': '/scriptures/jst/jst-deut',
+        'churchChapters': [10],
+        'bookGroup': None,
+      },
+      'jst-1-samuel': {
+        'churchUri': '/scriptures/jst/jst-1-sam',
+        'churchChapters': [16],
+        'bookGroup': None,
+      },
+      'jst-2-samuel': {
+        'churchUri': '/scriptures/jst/jst-2-sam',
+        'churchChapters': [12],
+        'bookGroup': None,
+      },
+      'jst-1-chronicles': {
+        'churchUri': '/scriptures/jst/jst-1-chr',
+        'churchChapters': [21],
+        'bookGroup': None,
+      },
+      'jst-2-chronicles': {
+        'churchUri': '/scriptures/jst/jst-2-chr',
+        'churchChapters': [18],
+        'bookGroup': None,
+      },
+      'jst-psalms': {
+        'churchUri': '/scriptures/jst/jst-ps',
+        'churchChapters': [11, 14, 24, 109],
+        'bookGroup': None,
+      },
+      'jst-isaiah': {
+        'churchUri': '/scriptures/jst/jst-isa',
+        'churchChapters': [29, 42],
+        'bookGroup': None,
+      },
+      'jst-jeremiah': {
+        'churchUri': '/scriptures/jst/jst-jer',
+        'churchChapters': [26],
+        'bookGroup': None,
+      },
+      'jst-amos': {
+        'churchUri': '/scriptures/jst/jst-amos',
+        'churchChapters': [7],
+        'bookGroup': None,
+      },
+      'jst-matthew': {
+        'churchUri': '/scriptures/jst/jst-matt',
+        'churchChapters': [3, 4, 5, 6, 7, 9, 11, 12, 13, 16, 17, 18, 19, 21, 23, 26, 27],
+        'bookGroup': None,
+      },
+      'jst-mark': {
+        'churchUri': '/scriptures/jst/jst-mark',
+        'churchChapters': [2, 3, 7, 8, 9, 12, 14, 16],
+        'bookGroup': None,
+      },
+      'jst-luke': {
+        'churchUri': '/scriptures/jst/jst-luke',
+        'churchChapters': [1, 2, 3, 6, 9, 11, 12, 14, 16, 17, 18, 21, 23, 24],
+        'bookGroup': None,
+      },
+      'jst-john': {
+        'churchUri': '/scriptures/jst/jst-john',
+        'churchChapters': [1, 4, 6, 13, 14],
+        'bookGroup': None,
+      },
+      'jst-acts': {
+        'churchUri': '/scriptures/jst/jst-acts',
+        'churchChapters': [9, 22],
+        'bookGroup': None,
+      },
+      'jst-romans': {
+        'churchUri': '/scriptures/jst/jst-rom',
+        'churchChapters': [3, 4, 7, 8, 13],
+        'bookGroup': None,
+      },
+      'jst-1-corinthians': {
+        'churchUri': '/scriptures/jst/jst-1-cor',
+        'churchChapters': [7, 15],
+        'bookGroup': None,
+      },
+      'jst-2-corinthians': {
+        'churchUri': '/scriptures/jst/jst-2-cor',
+        'churchChapters': [5],
+        'bookGroup': None,
+      },
+      'jst-galatians': {
+        'churchUri': '/scriptures/jst/jst-gal',
+        'churchChapters': [3],
+        'bookGroup': None,
+      },
+      'jst-ephesians': {
+        'churchUri': '/scriptures/jst/jst-eph',
+        'churchChapters': [4],
+        'bookGroup': None,
+      },
+      'jst-colossians': {
+        'churchUri': '/scriptures/jst/jst-col',
+        'churchChapters': [2],
+        'bookGroup': None,
+      },
+      'jst-1-thessalonians': {
+        'churchUri': '/scriptures/jst/jst-1-thes',
+        'churchChapters': [4],
+        'bookGroup': None,
+      },
+      'jst-2-thessalonians': {
+        'churchUri': '/scriptures/jst/jst-2-thes',
+        'churchChapters': [2],
+        'bookGroup': None,
+      },
+      'jst-1-timothy': {
+        'churchUri': '/scriptures/jst/jst-1-tim',
+        'churchChapters': [2, 3, 6],
+        'bookGroup': None,
+      },
+      'jst-hebrews': {
+        'churchUri': '/scriptures/jst/jst-heb',
+        'churchChapters': [1, 4, 6, 7, 11],
+        'bookGroup': None,
+      },
+      'jst-james': {
+        'churchUri': '/scriptures/jst/jst-james',
+        'churchChapters': [1, 2],
+        'bookGroup': None,
+      },
+      'jst-1-peter': {
+        'churchUri': '/scriptures/jst/jst-1-pet',
+        'churchChapters': [3, 4],
+        'bookGroup': None,
+      },
+      'jst-2-peter': {
+        'churchUri': '/scriptures/jst/jst-2-pet',
+        'churchChapters': [3],
+        'bookGroup': None,
+      },
+      'jst-1-john': {
+        'churchUri': '/scriptures/jst/jst-1-jn',
+        'churchChapters': [2, 3, 4],
+        'bookGroup': None,
+      },
+      'jst-revelation': {
+        'churchUri': '/scriptures/jst/jst-rev',
+        'churchChapters': [1, 2, 5, 12, 19],
+        'bookGroup': None,
+      },
+    },
+  },
 }
 
 # Test data (only a few books and chapters are included, for faster testing)
@@ -762,6 +929,23 @@ test_data_structure = {
       'joseph-smith-history': {
         'churchUri': '/scriptures/pgp/js-h',
         'churchChapters': [1],
+        'bookGroup': None,
+      },
+    },
+  },
+  'jst-appendix': {
+    'name': 'Joseph Smith Translation Appendix',
+    'abbrev': 'jst',
+    'churchUri': '/scriptures/jst',
+    'books': {
+      'jst-genesis': {
+        'churchUri': '/scriptures/jst/jst-gen',
+        'churchChapters': ['1-8', 9],
+        'bookGroup': None,
+      },
+      'jst-psalms': {
+        'churchUri': '/scriptures/jst/jst-ps',
+        'churchChapters': [11],
         'bookGroup': None,
       },
     },
