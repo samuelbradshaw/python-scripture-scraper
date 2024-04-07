@@ -53,11 +53,12 @@ CREATE TABLE IF NOT EXISTS ChapterMedia (
   chmType TEXT NOT NULL,
   chmSubType TEXT,
   chmUrl TEXT,
-  chmThumbUrl TEXT,
+  chmImageUrl TEXT,
   chmStartSeconds TEXT,
   chmEndSeconds TEXT,
   chmSource TEXT,
   chmChurchAssetId TEXT,
+  chmChurchImageAssetId TEXT,
   FOREIGN KEY (pubKey) REFERENCES Publication (pubKey) ON DELETE RESTRICT ON UPDATE CASCADE
 );
 

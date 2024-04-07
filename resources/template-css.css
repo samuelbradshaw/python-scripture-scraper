@@ -17,6 +17,7 @@ h2, h3 { font-family: "Helvetica", sans-serif; }
 p { line-height: 1.4; }
 a { color: DarkOliveGreen; }
 img { max-width: 100%; }
+audio, video { width: 100%; }
 
 hr {
   height: 1px;

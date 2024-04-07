@@ -622,9 +622,8 @@ def output_full_content(bcp47_lang):
     if paragraph_type == 'image':
       image_asset_id = paragraph.get('data-assetid')
       image_alt = paragraph.get('alt', '')
-      image_filename = (paragraph.get('src') or '').split('/')[-1]
-      if image_asset_id and image_filename:
-        image_url = 'https://assets.ldscdn.org/{0}/{1}/{2}/{3}'.format(image_asset_id[0:2], image_asset_id[2:4], image_asset_id, image_filename)
+      if image_asset_id:
+        image_url = 'https://www.churchofjesuschrist.org/imgs/{0}/full/max/0/default'.format(image_asset_id)
         if content_type == 'html':
           content = '<img id="{0}{1}" src="{2}" alt="{3}" data-asset-id="{4}" loading="lazy" decoding="async">'.format(id_prefix, id, image_url, image_alt, image_asset_id)
         elif content_type == 'markdown':
@@ -757,8 +756,14 @@ def output_full_content(bcp47_lang):
               page.goto(study_url.format(chapter_uri, resources.mapping_bcp47_to_church_lang[bcp47_lang]))
               if page.query_selector('#content article[data-uri="{0}"]'.format(chapter_uri)):
                 page.locator('[data-testid="options-tab"]').click()
-                page.locator('[data-testid="download-menu-label"]').click()
-                page.wait_for_selector('[data-testid="downloads-panel-header"]')
+                page.wait_for_selector('[data-testid="options-panel-content"]')
+                if page.query_selector('[data-testid="options-panel-content"] label:not([class*="disable"]) [data-testid="download-menu-label"]'):
+                  page.locator('[data-testid="download-menu-label"]').click()
+                  try:
+                    page.wait_for_selector('[data-testid="downloads-panel-header"]')
+                  except Exception as e:
+                    sys.stdout.write(page.content())
+                    raise e
                 full_html = page.content()
                 soup = BeautifulSoup(full_html, 'html.parser')
               else:
@@ -781,6 +786,7 @@ def output_full_content(bcp47_lang):
             video_element = content.select_one('header video')
             downloads_element = soup.select_one('[data-testid="download-panel-content"]')
             if video_element:
+              # TODO: Figure out how to get video URLs. Videos don't load <source> elements when using Playwright (but they load in a regular browser).
               for source in video_element.select('source'):
                 if source.get('data-src'):
                   subtype = None
@@ -792,15 +798,19 @@ def output_full_content(bcp47_lang):
                     subtype = '720p'
                   elif source.get('data-height') == '1080':
                     subtype = '1080p'
+                  image_asset_id = None
+                  if 'assets.churchofjesuschrist.org' in video_element.get('data-poster'):
+                    image_asset_id = link.get('data-poster').split['/'][-2]
                   chapter_media.append({
                     'type': 'video',
                     'subtype': subtype,
                     'url': source.get('data-src'),
-                    'id': video_element.get('data-assetid'),
-                    'thumbUrl': video_element.get('data-poster'),
+                    'imageUrl': video_element.get('data-poster'),
                     'startSeconds': None,
                     'endSeconds': None,
                     'source': 'ChurchofJesusChrist.org',
+                    'churchAssetId': video_element.get('data-assetid'),
+                    'churchImageAssetId': image_asset_id,
                   })
             if downloads_element:
               for link in downloads_element.select('a'):
@@ -812,9 +822,9 @@ def output_full_content(bcp47_lang):
                     media_type = 'pdf'
                   subtype = None
                   if 'Male' in link.text:
-                    subtype = 'male'
+                    subtype = 'spoken-male'
                   elif 'Female' in link.text:
-                    subtype = 'female'
+                    subtype = 'spoken-female'
                   elif 'Vocal' in link.text:
                     subtype = 'music-vocal'
                   elif 'Accompaniment' in link.text:
@@ -826,11 +836,12 @@ def output_full_content(bcp47_lang):
                     'type': media_type,
                     'subtype': subtype,
                     'url': link.get('href').split('?')[0].split('#')[0],
-                    'id': asset_id,
-                    'thumbUrl': None,
+                    'imageUrl': None,
                     'startSeconds': None,
                     'endSeconds': None,
                     'source': 'ChurchofJesusChrist.org',
+                    'churchAssetId': asset_id,
+                    'churchImageAssetId': None,
                   })
 
             # Simplify HTML markup
@@ -955,11 +966,12 @@ def output_full_content(bcp47_lang):
                   'chmType': media_item.get('type'),
                   'chmSubType': media_item.get('subtype'),
                   'chmUrl': media_item.get('url'),
-                  'chmThumbUrl': media_item.get('thumbUrl'),
+                  'chmImageUrl': media_item.get('imageUrl'),
                   'chmStartSeconds': media_item.get('startSeconds'),
                   'chmEndSeconds': media_item.get('endSeconds'),
                   'chmSource': media_item.get('source'),
-                  'chmChurchAssetId': media_item.get('id'),
+                  'chmChurchAssetId': media_item.get('churchAssetId'),
+                  'chmChurchImageAssetId': media_item.get('churchImageAssetId'),
                 })
             
             if config.OUTPUT_AS_HTML:
@@ -968,6 +980,13 @@ def output_full_content(bcp47_lang):
               prepend_chapter_slug_to_paragraph_ids = True
               if not prepend_chapter_slug_to_paragraph_ids:
                 paragraph_id_prefix = ''
+              
+              # Add chapter media
+              for media_item in chapter_media:
+                if media_item.get('type') == 'audio':
+                  html_content += '\n<audio controls preload="metadata" data-subtype="{0}" src="{1}"></audio>\n'.format(media_item.get('subtype') or '', media_item.get('url'))
+                elif media_item.get('type') == 'video':
+                  html_content += '\n<video controls preload="metadata" data-subtype="{0}" src="{1}" poster="{2}"></video>\n'.format(media_item.get('subtype') or '', media_item.get('url'), media_item.get('imageUrl'))
             
             # Set the initial page number, if it's not already set (this will be used when processing paragraphs)
             first_page_number_element_in_chapter = soup.select_one('.page-break')
