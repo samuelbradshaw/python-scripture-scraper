@@ -80,7 +80,7 @@ def main():
   if config.USE_TEST_DATA:
     # Use test data (only includes a subset of chapters)
     metadata_structure = resources.test_data_structure
-    languages = get_languages([config.DEFAULT_LANG, 'en'])    
+    languages = get_languages([config.DEFAULT_LANG, 'en'])
     
   else:
     metadata_structure = resources.metadata_structure
@@ -307,7 +307,7 @@ def gather_metadata_for_language(language):
       footnotes = soup.select_one('.study-notes')
       if soup.select_one('#content article').attrs['data-uri'] == study_uri:
         if footnotes:
-          verse_range_separator_example = footnotes.select_one('#note1d_p1 a, #note1_d_p1 a').find_next_sibling('a').text  # 'Mosiah 1:2–3'
+          verse_range_separator_example = footnotes.select_one('#note2a_p1 a, #note2_a_p1 a').text  # 'Mos. 1:2–4'
           verse_group_separator_example = footnotes.select_one('#note1c_p1 a, #note1_c_p1 a').text  # 'D&C 68:25, 28'
           reference_separator = footnotes.select_one('#note1d_p1 a, #note1_d_p1 a').next_sibling.text  # '; '
           metadata_scriptures['languages'][bcp47_lang]['punctuation']['bookChapterSeparator'] = re.match(r'^[^\s]+(.*?)\d+', verse_range_separator_example).group(1)
@@ -336,48 +336,60 @@ def gather_metadata_for_language(language):
     r.encoding = 'utf-8'
     if r and r.status_code == 200:
       soup = BeautifulSoup(r.text, 'html.parser')
-      rows = soup.select('figure table tr')
       
       # Loop through known scripture structure and the list of abbreviations, and map them to each other
-      book_counter = 0
-      for pub, (publication_slug, publication_data) in enumerate(resources.metadata_structure.items()):
-        publication_name = soup.select_one('#figure{0}_title1'.format(pub+1)).text.strip()
-        publication_uri = publication_data['churchUri']
+      publications = ['old-testament', 'new-testament', 'book-of-mormon', 'doctrine-and-covenants', 'pearl-of-great-price']
+      for pub, publication_slug in enumerate(publications):
+        pub_number = pub + 1
+        publication_data = resources.metadata_structure.get(publication_slug)
+        publication_uri = publication_data.get('churchUri')
+        publication_name = soup.select_one('#figure{0}_title1'.format(pub_number)).text.strip()
+        rows = soup.select('#figure{0} table tr'.format(pub_number))
         
         # Add publication name to metadata_uri_to_name and metadata_scriptures
         if publication_uri not in metadata_uri_to_name:
           metadata_uri_to_name[publication_uri] = {}
         if publication_slug not in metadata_scriptures['languages'][bcp47_lang]['translatedNames']:
-          metadata_scriptures['languages'][bcp47_lang]['translatedNames'][publication_slug] = metadata_uri_to_name[publication_uri][bcp47_lang] = {
-            'name': publication_name,
-            'abbrev': None,
-          }
+          metadata_scriptures['languages'][bcp47_lang]['translatedNames'][publication_slug] = { 'name': publication_name, 'abbrev': None, }
           metadata_scriptures['mapToSlug'][publication_name] = publication_slug
+          metadata_uri_to_name[publication_uri][bcp47_lang] = { 'name': publication_name, 'abbrev': None, }
         
+        # Loop through scripture books in publication
+        book_counter = 0
         for book_slug, book_data in publication_data['books'].items():
           if not book_data.get('churchUri'):
             continue
           
           book_row = rows[book_counter]
-          book_name = book_row.select('td')[1].text.strip()
-          book_abbreviation = book_row.select('td')[0].text.strip()
+          if book_slug == 'official-declarations':
+            book_name = re.sub('[\dⅠ፩ទ–—]+?\.?', '', book_row.select('td')[1].text).strip()
+            book_abbreviation = re.sub('[\dⅠ፩ទ–—]+?\.?', '', book_row.select('td')[0].text).strip()
+          else:
+            book_name = book_row.select('td')[1].text.strip()
+            book_abbreviation = book_row.select('td')[0].text.strip()
           
           # Add book name and abbreviation to metadata_uri_to_name and metadata_scriptures
           if book_data['churchUri'] not in metadata_uri_to_name:
             metadata_uri_to_name[book_data['churchUri']] = {}
           if book_slug not in metadata_scriptures['languages'][bcp47_lang]['translatedNames']:
-            metadata_scriptures['languages'][bcp47_lang]['translatedNames'][book_slug] = metadata_uri_to_name[book_data['churchUri']][bcp47_lang] = {
-              'name': book_name,
-              'abbrev': book_abbreviation,
-            }
+            metadata_scriptures['languages'][bcp47_lang]['translatedNames'][book_slug] = { 'name': book_name, 'abbrev': book_abbreviation, }
             metadata_scriptures['mapToSlug'][book_name] = book_slug
             metadata_scriptures['mapToSlug'][book_abbreviation] = book_slug
+            metadata_uri_to_name[book_data['churchUri']][bcp47_lang] = { 'name': book_name, 'abbrev': book_abbreviation, }
+          
+          # Add singular book names for special cases
+          if book_slug in resources.mapping_book_to_singular_slug.keys():
+            singular_book_slug = resources.mapping_book_to_singular_slug.get(book_slug)
+            metadata_scriptures['languages'][bcp47_lang]['translatedNames'][singular_book_slug] = metadata_scriptures['languages'][bcp47_lang]['translatedNames'][book_slug].copy()          
           
           book_counter += 1
       
       # Get names and abbreviations for study helps
-      for r, row in enumerate(soup.select('#figure6 table tr')):
+      study_help_rows = soup.select('#figure6 table tr')
+      doctrine_and_covenants_rows = soup.select('#figure4 table tr')
+      for r, row in enumerate(study_help_rows):
         if bcp47_lang == 'en':
+          # Example: https://www.churchofjesuschrist.org/study/scriptures/quad/quad/abbreviations?lang=eng
           if r == 0:
             book_slug = 'joseph-smith-translation'
             book_uri = '/scriptures/jst'
@@ -395,13 +407,24 @@ def gather_metadata_for_language(language):
             book_uri = '/scriptures/gs'
           else:
             continue
-        else:
+        elif len(doctrine_and_covenants_rows) == 2:
+          # Example: https://www.churchofjesuschrist.org/study/scriptures/quad/quad/abbreviations?lang=ron
           if r == 0:
             book_slug = 'joseph-smith-translation'
             book_uri = '/scriptures/jst'
           elif r == 1:
             book_slug = 'guide-to-the-scriptures'
             book_uri = '/scriptures/gs'
+          else:
+            continue
+        else:
+          # Example: https://www.churchofjesuschrist.org/study/scriptures/quad/quad/abbreviations?lang=fra
+          if r == 0:
+            book_slug = 'guide-to-the-scriptures'
+            book_uri = '/scriptures/gs'
+          elif r == 1:
+            book_slug = 'joseph-smith-translation'
+            book_uri = '/scriptures/jst'
           else:
             continue
         
@@ -412,13 +435,11 @@ def gather_metadata_for_language(language):
         if book_uri not in metadata_uri_to_name:
           metadata_uri_to_name[book_uri] = {}
         if book_slug not in metadata_scriptures['languages'][bcp47_lang]['translatedNames']:
-          metadata_scriptures['languages'][bcp47_lang]['translatedNames'][book_slug] = metadata_uri_to_name[book_uri][bcp47_lang] = {
-            'name': book_name,
-            'abbrev': book_abbreviation,
-          }
+          metadata_scriptures['languages'][bcp47_lang]['translatedNames'][book_slug] = { 'name': book_name, 'abbrev': book_abbreviation, }
           metadata_scriptures['mapToSlug'][book_name] = book_slug
           metadata_scriptures['mapToSlug'][book_abbreviation] = book_slug
-  
+          metadata_uri_to_name[book_uri][bcp47_lang] = { 'name': book_name, 'abbrev': book_abbreviation, }
+          
   # Get book availability (and names if not fetched above) from the scripture publication table of contents
   for publication_slug, publication_data in metadata_structure.items():
     publication_uri = publication_data['churchUri']
@@ -435,16 +456,14 @@ def gather_metadata_for_language(language):
         if publication_uri not in metadata_uri_to_name:
           metadata_uri_to_name[publication_uri] = {}
         if publication_slug not in metadata_scriptures['languages'][bcp47_lang]['translatedNames']:
-          metadata_scriptures['languages'][bcp47_lang]['translatedNames'][publication_slug] = metadata_uri_to_name[publication_uri][bcp47_lang] = {
-            'name': publication_name,
-            'abbrev': None,
-          }
+          metadata_scriptures['languages'][bcp47_lang]['translatedNames'][publication_slug] = { 'name': publication_name, 'abbrev': None, }
           metadata_scriptures['mapToSlug'][publication_name] = publication_slug
-    
+          metadata_uri_to_name[publication_uri][bcp47_lang] = { 'name': publication_name, 'abbrev': None, }
+        
         for book_slug, book_data in publication_data['books'].items():
           
-          # Get the first chapter link (from the scripture publication's table of contents) that contains the book URI
-          first_chapter_link = table_of_contents.select_one('a.list-tile[href^="/study{0}"]'.format(book_data['churchUri']))
+          # Get the first chapter link from the book's table of contents
+          first_chapter_link = table_of_contents.select_one('a.list-tile[href^="/study{0}/{1}"]'.format(book_data['churchUri'], book_data['churchChapters'][0] if book_data['churchChapters'] else ''))
           if not first_chapter_link:
             # If book is missing from the publication (selections, or progressive publishing), skip it
             if book_data.get('churchUri'):
@@ -454,102 +473,86 @@ def gather_metadata_for_language(language):
           # Update availability data
           metadata_scriptures['languages'][bcp47_lang]['churchAvailability'][publication_slug].append(book_slug)
           
-          # Get the book name by looking for the preceding title
-          previous_title = first_chapter_link.find_previous(class_='title')
-          book_name = previous_title.text.strip()
+          # Get the chapter name
+          chapter_name = first_chapter_link.select_one('.title').text.strip()
+          chapter_name_without_numbers = re.sub('[\dⅠ፩ទ–—]+?\.?', '', chapter_name).strip()
           
-          # If the previous element is a list item, the chapter link title is the book title (single-chapter book like Enos)
-          if first_chapter_link.parent.find_previous_sibling('li'):
-            book_name = first_chapter_link.select_one('.title').text.strip()
+          # Get the book name by looking for the preceding title
+          book_name = first_chapter_link.find_previous(class_='label').text.strip()
+          
+          # If the previous element is a list item (excluding table of contents links), the chapter link title is the book title (single-chapter book like Enos)
+          if first_chapter_link.parent.find_previous_sibling('li') and not first_chapter_link.parent.find_previous_sibling('li').select_one('a.list-tile[href^="/study{0}/_contents"]'.format(book_data['churchUri'])):
+            book_name = chapter_name
         
           # Add book name to metadata_uri_to_name and metadata_scriptures
           if book_data['churchUri'] not in metadata_uri_to_name:
             metadata_uri_to_name[book_data['churchUri']] = {}
           if book_slug not in metadata_scriptures['languages'][bcp47_lang]['translatedNames']:
-            metadata_scriptures['languages'][bcp47_lang]['translatedNames'][book_slug] = metadata_uri_to_name[book_data['churchUri']][bcp47_lang] = {
-              'name': book_name,
-              'abbrev': None,
-            }
+            metadata_scriptures['languages'][bcp47_lang]['translatedNames'][book_slug] = { 'name': book_name, 'abbrev': None, }
             metadata_scriptures['mapToSlug'][book_name] = book_slug
-            
-  # Get singular book names: psalm, section, official-declaration
-  study_uri = '/manual/come-follow-me-for-individuals-and-families-old-testament-2022/33'
-  time.sleep(config.SECONDS_TO_PAUSE_BETWEEN_REQUESTS)
-  r = requests.get(study_url.format(study_uri, language['church_lang']))
-  r.encoding = 'utf-8'
-  if r and r.status_code == 200:
-    soup = BeautifulSoup(r.text, 'html.parser')
-    psalm_example = soup.select_one(f'#p9 a.scripture-ref[href^="/study/scriptures/ot/ps/2?"]').text  # 'Psalm 2'
-    try:
-      psalm_name = re.match(r'(.+?)\d+', psalm_example).group(1).strip()
-    except:
-      # Some languages, like Latvian, put the number first for Psalm (2. psalmā) or Section (1. nodaļa)
-      psalm_name = re.match(r'\d+\.*(.+)', psalm_example).group(1).strip()
-    metadata_scriptures['languages'][bcp47_lang]['translatedNames']['psalm'] = {
-      'name': psalm_name,
-      'abbrev': metadata_scriptures['languages'][bcp47_lang]['translatedNames'].get('psalms', {}).get('abbrev'),
-    }
-    metadata_scriptures['mapToSlug'][psalm_name] = 'psalm'      
-  if '/scriptures/dc-testament' in available_uris:
-    study_uri = '/scriptures/dc-testament/dc/1'
-    time.sleep(config.SECONDS_TO_PAUSE_BETWEEN_REQUESTS)
-    r = requests.get(study_url.format(study_uri, language['church_lang']))
-    r.encoding = 'utf-8'
-    if r and r.status_code == 200:
-      soup = BeautifulSoup(r.text, 'html.parser')
-      section_example = soup.select_one(f'p[id="title_number1"]').text  # 'Section 1'
-      try:
-        section_name = re.match(r'(.+?)(?:\d|Ⅰ|፩|一)+', section_example).group(1).strip()
-      except:
-        section_name = re.match(r'\d+\.*(.+)', section_example).group(1).strip()
-      metadata_scriptures['languages'][bcp47_lang]['translatedNames']['section'] = {
-        'name': section_name,
-        'abbrev': metadata_scriptures['languages'][bcp47_lang]['translatedNames'].get('sections', {}).get('abbrev'),
-      }
-      metadata_scriptures['mapToSlug'][section_name] = 'section'
-      try:
-        official_declaration_example = soup.select_one('a[href^="/study/scriptures/dc-testament/od/1"]').text  # 'Official Declaration 1'
-        try:
-          official_declaration_name = re.match(r'(.+?)(?:\d|Ⅰ|፩|一)+', official_declaration_example).group(1).strip()
-        except:
-          official_declaration_name = re.match(r'\d+\.*(.+)', official_declaration_example).group(1).strip()
-        metadata_scriptures['languages'][bcp47_lang]['translatedNames']['official-declaration'] = {
-          'name': official_declaration_name,
-          'abbrev': metadata_scriptures['languages'][bcp47_lang]['translatedNames'].get('official-declarations', {}).get('abbrev'),
-        }
-        metadata_scriptures['mapToSlug'][official_declaration_name] = 'official-declaration'      
-      except:
-        # Some languages, like Guaraní, don't have Official Declarations translated yet
-        pass
-  
-  # Get names of named chapters: fac-1, fac-2, fac-3
-  if '/scriptures/pgp' in available_uris:
-    study_uri = '/scriptures/pgp/abr'
-    time.sleep(config.SECONDS_TO_PAUSE_BETWEEN_REQUESTS)
-    r = requests.get(study_url.format(study_uri, language['church_lang']))
-    r.encoding = 'utf-8'
-    if r and r.status_code == 200:
-      soup = BeautifulSoup(r.text, 'html.parser')
-      chapter_titles = soup.select(f'a.list-tile[href^="/study{study_uri}/fac"]')
-      if chapter_titles:
-        # Some languages, like Hawaiian, don't have Abraham Facsimiles translated yet
-        metadata_scriptures['languages'][bcp47_lang]['translatedNames']['fac-1'] = {
-          'name': chapter_titles[0].text,
-          'abbrev': None,
-        }
-        metadata_scriptures['languages'][bcp47_lang]['translatedNames']['fac-2'] = {
-          'name': chapter_titles[1].text,
-          'abbrev': None,
-        }
-        metadata_scriptures['languages'][bcp47_lang]['translatedNames']['fac-3'] = {
-          'name': chapter_titles[2].text,
-          'abbrev': None,
-        }
-        metadata_scriptures['mapToSlug'][chapter_titles[0].text] = 'fac-1'
-        metadata_scriptures['mapToSlug'][chapter_titles[1].text] = 'fac-2'
-        metadata_scriptures['mapToSlug'][chapter_titles[2].text] = 'fac-3'
-
-  return    
+            metadata_uri_to_name[book_data['churchUri']][bcp47_lang] = { 'name': book_name, 'abbrev': None, }
+                    
+          # Get translated titles for special cases:
+          # psalm, psalms, section, sections, official-declaration, official-declarations
+          # facsimile, facsimiles, abr/fac-1, abr/fac-2, abr/fac-3
+          if book_slug == 'psalms':
+            if 'psalm' not in metadata_scriptures['languages'][bcp47_lang]['translatedNames']:
+              metadata_scriptures['languages'][bcp47_lang]['translatedNames']['psalm'] = { 'name': None, 'abbrev': None, }
+            metadata_scriptures['languages'][bcp47_lang]['translatedNames']['psalm']['name'] = chapter_name_without_numbers
+            metadata_scriptures['languages'][bcp47_lang]['translatedNames']['psalms']['name'] = book_name
+            metadata_scriptures['mapToSlug'][chapter_name_without_numbers] = 'psalm'
+            metadata_scriptures['mapToSlug'][book_name] = 'psalms'
+            metadata_uri_to_name['/scriptures/ot/ps'][bcp47_lang]['name'] = chapter_name_without_numbers
+          elif book_slug == 'sections':
+            if 'section' not in metadata_scriptures['languages'][bcp47_lang]['translatedNames']:
+              metadata_scriptures['languages'][bcp47_lang]['translatedNames']['section'] = { 'name': None, 'abbrev': None, }
+            metadata_scriptures['languages'][bcp47_lang]['translatedNames']['section']['name'] = chapter_name_without_numbers
+            metadata_scriptures['languages'][bcp47_lang]['translatedNames']['sections']['name'] = book_name
+            metadata_scriptures['mapToSlug'][chapter_name_without_numbers] = 'section'
+            metadata_scriptures['mapToSlug'][book_name] = 'sections'
+            metadata_uri_to_name['/scriptures/dc-testament/dc'][bcp47_lang]['name'] = publication_name
+          elif book_slug == 'official-declarations':
+            if 'official-declaration' not in metadata_scriptures['languages'][bcp47_lang]['translatedNames']:
+              metadata_scriptures['languages'][bcp47_lang]['translatedNames']['official-declaration'] = { 'name': None, 'abbrev': None, }
+            metadata_scriptures['languages'][bcp47_lang]['translatedNames']['official-declaration']['name'] = chapter_name_without_numbers
+            metadata_scriptures['languages'][bcp47_lang]['translatedNames']['official-declarations']['name'] = book_name
+            metadata_scriptures['mapToSlug'][chapter_name_without_numbers] = 'official-declaration'
+            metadata_scriptures['mapToSlug'][book_name] = 'official-declarations'
+            metadata_uri_to_name['/scriptures/dc-testament/od'][bcp47_lang]['name'] = chapter_name_without_numbers
+          elif book_slug == 'abraham':
+            first_chapter_link = table_of_contents.select_one('a.list-tile[href^="/study/scriptures/pgp/abr/fac-1"]')
+            if first_chapter_link:
+              chapter_name = first_chapter_link.select_one('.title').text.strip()
+              chapter_name_without_numbers = re.sub('[\dⅠ፩ទ–—]+?\.?', '', chapter_name).strip()
+              facsimiles_section_name = first_chapter_link.find_previous(class_='label').text.strip()
+              metadata_scriptures['languages'][bcp47_lang]['translatedNames']['facsimile'] = {
+                'name': chapter_name_without_numbers,
+                'abbrev': None,
+              }
+              metadata_scriptures['languages'][bcp47_lang]['translatedNames']['facsimiles'] = {
+                'name': facsimiles_section_name,
+                'abbrev': None,
+              }
+              metadata_scriptures['mapToSlug'][chapter_name_without_numbers] = 'facsimile'
+              metadata_scriptures['mapToSlug'][facsimiles_section_name] = 'facsimiles'
+            facsimile_titles = soup.select('a.list-tile[href^="/study/scriptures/pgp/abr/fac"]')
+            if facsimile_titles:
+              metadata_scriptures['languages'][bcp47_lang]['translatedNames']['fac-1'] = {
+                'name': facsimile_titles[0].text,
+                'abbrev': None,
+              }
+              metadata_scriptures['languages'][bcp47_lang]['translatedNames']['fac-2'] = {
+                'name': facsimile_titles[1].text,
+                'abbrev': None,
+              }
+              metadata_scriptures['languages'][bcp47_lang]['translatedNames']['fac-3'] = {
+                'name': facsimile_titles[2].text,
+                'abbrev': None,
+              }
+              metadata_scriptures['mapToSlug'][facsimile_titles[0].text] = 'fac-1'
+              metadata_scriptures['mapToSlug'][facsimile_titles[1].text] = 'fac-2'
+              metadata_scriptures['mapToSlug'][facsimile_titles[2].text] = 'fac-3'
+            metadata_uri_to_name['/scriptures/pgp/abr'][bcp47_lang]['name'] = book_name
 
 
 # Scrape full content for a given language
@@ -739,7 +742,7 @@ def output_full_content(bcp47_lang):
         previous_page_number = None
         for chapter in book_data['churchChapters']:
           chapter_number = str(chapter)
-          singular_book_slug = resources.mapping_plural_to_singular_book_slug.get(book_slug) or book_slug
+          singular_book_slug = resources.mapping_book_to_singular_slug.get(book_slug) or book_slug
           chapter_slug = '{0}-{1}'.format(singular_book_slug, chapter_number)
           chapter_uri = '{0}/{1}'.format(book_data['churchUri'], chapter_number)
       

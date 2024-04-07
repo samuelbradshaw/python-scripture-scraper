@@ -6,10 +6,11 @@ from unicodedata import normalize
 # MAPPINGS
 
 # A few book slugs need to be converted to singular when being used as part of a chapter slug
-mapping_plural_to_singular_book_slug = {
+mapping_book_to_singular_slug = {
   'psalms': 'psalm',
   'sections': 'section',
   'official-declarations': 'official-declaration',
+  'facsimiles': 'facsimile',
 }
 
 # Church content uses three-letter codes that are based on ISO 639-3 (but not fully compliant). This dictionary provides a mapping from Church language codes to industry-standard BCP 47 language tags.
@@ -755,7 +756,7 @@ test_data_structure = {
       },
       'abraham': {
         'churchUri': '/scriptures/pgp/abr',
-        'churchChapters': ['fac-3'],
+        'churchChapters': [1, 'fac-3'],
         'bookGroup': None,
       },
       'joseph-smith-history': {
