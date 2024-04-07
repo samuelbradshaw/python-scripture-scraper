@@ -522,6 +522,7 @@ def gather_metadata_for_language(language):
             metadata_scriptures['languages'][bcp47_lang]['translatedNames']['sections']['name'] = book_name
             metadata_scriptures['mapToSlug'][chapter_name_without_numbers] = 'section'
             metadata_scriptures['mapToSlug'][book_name] = 'sections'
+            metadata_scriptures['languages'][bcp47_lang]['translatedNames']['doctrine-and-covenants']['abbrev'] = metadata_scriptures['languages'][bcp47_lang]['translatedNames']['sections']['abbrev']
             metadata_uri_to_name['/scriptures/dc-testament/dc'][bcp47_lang]['name'] = publication_name
           elif book_slug == 'official-declarations':
             if 'official-declaration' not in metadata_scriptures['languages'][bcp47_lang]['translatedNames']:
@@ -948,7 +949,13 @@ def output_full_content(bcp47_lang):
             chapter_name = soup.select_one('[data-testid="readerview-header"] > span').text.strip()
             chapter_abbrev = None
             if metadata_scriptures['languages'][bcp47_lang]['translatedNames'][book_slug]['abbrev']:
-              chapter_abbrev = chapter_name.replace(metadata_scriptures['languages'][bcp47_lang]['translatedNames'][book_slug]['name'], metadata_scriptures['languages'][bcp47_lang]['translatedNames'][book_slug]['abbrev'])
+              if book_slug in resources.mapping_book_to_singular_slug.keys():
+                singular_book_slug = resources.mapping_book_to_singular_slug.get(book_slug)
+                if singular_book_slug == 'section':
+                  singular_book_slug = 'doctrine-and-covenants'
+                chapter_abbrev = chapter_name.replace(metadata_scriptures['languages'][bcp47_lang]['translatedNames'][singular_book_slug]['name'], metadata_scriptures['languages'][bcp47_lang]['translatedNames'][singular_book_slug]['abbrev'])
+              else:
+                chapter_abbrev = chapter_name.replace(metadata_scriptures['languages'][bcp47_lang]['translatedNames'][book_slug]['name'], metadata_scriptures['languages'][bcp47_lang]['translatedNames'][book_slug]['abbrev'])
             
             if config.OUTPUT_AS_JSON:
               chapter_dict = {

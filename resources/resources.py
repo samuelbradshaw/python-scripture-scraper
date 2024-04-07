@@ -842,7 +842,6 @@ test_data_structure = {
         'churchChapters': [1],
         'bookGroup': 'Books of the Law',
       },
-      #'exodus': {}, 'leviticus': {}, 'numbers': {}, 'deuteronomy': {}, 'joshua': {}, 'judges': {}, 'ruth': {}, '1-samuel': {}, '2-samuel': {}, '1-kings': {}, '2-kings': {}, '1-chronicles': {}, '2-chronicles': {}, 'ezra': {}, 'nehemiah': {}, 'esther': {}, 'job': {},
       'psalms': {
         'churchUri': '/scriptures/ot/ps',
         'churchChapters': [119],
