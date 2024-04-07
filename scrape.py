@@ -48,7 +48,7 @@ metadata_scriptures = {
 
 metadata_scriptures_language_template = {
   'punctuation': {
-    'bookChapterSeparator': ' ',
+    'bookChapterSeparator': ' ',
     'chapterVerseSeparator': ':',
     'verseRangeSeparator': '–',
     'verseGroupSeparator': ', ',
@@ -288,7 +288,7 @@ def gather_metadata_for_language(language):
   elif bcp47_lang == 'am':
     # Python regex doesn't recognize Amharic numerals correctly, so these values are hard-coded
     metadata_scriptures['languages'][bcp47_lang]['punctuation'] = {
-      'bookChapterSeparator': ' ',
+      'bookChapterSeparator': ' ',
       'chapterVerseSeparator': '፥',
       'verseRangeSeparator': '–',
       'verseGroupSeparator': '፣ ',
