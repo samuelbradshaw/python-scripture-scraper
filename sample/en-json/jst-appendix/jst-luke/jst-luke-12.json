@@ -1,0 +1,262 @@
+{
+  "name": "JST, Luke 12", 
+  "abbrev": null, 
+  "number": "12", 
+  "churchUri": "/scriptures/jst/jst-luke/12", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Luke 12:9–12. Compare Luke 12:9–10; see also JST, Matthew 12:37–38 and D&C 132:26–27", 
+      "contentHtml": "<strong>JST, Luke 12:9–12.</strong> Compare Luke 12:9–10; see also JST, Matthew 12:37–38 and D&amp;C 132:26–27", 
+      "number": null, 
+      "pageNumber": "790", 
+      "compareId": "jst-luke-12_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "But he who denieth me before men, shall be denied before the angels of God.", 
+      "contentHtml": "But he <em>who</em> denieth me before men, shall be denied before the angels of God.", 
+      "number": "9", 
+      "pageNumber": "790", 
+      "compareId": "jst-luke-12_v1", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "Now his disciples knew that he said this, because they had spoken evil against him before the people; for they were afraid to confess him before men.", 
+      "contentHtml": "<em>Now his disciples knew that he said this, because they had spoken evil against him before the people; for they were afraid to confess him before men.</em>", 
+      "number": "10", 
+      "pageNumber": "790", 
+      "compareId": "jst-luke-12_v2", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "And they reasoned among themselves, saying, He knoweth our hearts, and he speaketh to our condemnation, and we shall not be forgiven. But he answered them, and said unto them,", 
+      "contentHtml": "<em>And they reasoned among themselves, saying, He knoweth our hearts, and he speaketh to our condemnation, and we shall not be forgiven. But he answered them, and said unto them,</em>", 
+      "number": "11", 
+      "pageNumber": "790", 
+      "compareId": "jst-luke-12_v3", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "Whosoever shall speak a word against the Son of man, and repenteth, it shall be forgiven him; but unto him who blasphemeth against the Holy Ghost, it shall not be forgiven him.", 
+      "contentHtml": "Whosoever shall speak a word against the Son of man, <em>and repenteth,</em> it shall be forgiven him; but unto him <em>who</em> blasphemeth against the Holy Ghost, it shall not be forgiven him.", 
+      "number": "12", 
+      "pageNumber": "790", 
+      "compareId": "jst-luke-12_v4", 
+      "churchId": "p12"
+    }, 
+    {
+      "type": "section-title", 
+      "id": "st2", 
+      "content": "JST, Luke 12:41–57. Compare Luke 12:37–48", 
+      "contentHtml": "<strong>JST, Luke 12:41–57.</strong> Compare Luke 12:37–48", 
+      "number": null, 
+      "pageNumber": "790", 
+      "compareId": "jst-luke-12_st2", 
+      "churchId": "title2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "For, behold, he cometh in the first watch of the night, and he shall also come in the second watch, and again he shall come in the third watch.", 
+      "contentHtml": "<em>For, behold, he cometh in the first watch of the night, and he shall also come in the second watch, and again he shall come in the third watch.</em>", 
+      "number": "41", 
+      "pageNumber": "790", 
+      "compareId": "jst-luke-12_v5", 
+      "churchId": "p41"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "And verily I say unto you, He hath already come, as it is written of him; and again when he shall come in the second watch, or come in the third watch, blessed are those servants when he cometh, that he shall find so doing;", 
+      "contentHtml": "<em>And verily I say unto you, He hath already come, as it is written of him; and again when</em> he shall come in the second watch, or come in the third watch, blessed are those servants <em>when he cometh, that he shall</em> find so <em>doing;</em>", 
+      "number": "42", 
+      "pageNumber": "790", 
+      "compareId": "jst-luke-12_v6", 
+      "churchId": "p42"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "For the Lord of those servants shall gird himself, and make them to sit down to meat, and will come forth and serve them.", 
+      "contentHtml": "<em>For the Lord of those servants shall gird himself, and make them to sit down to meat, and will come forth and serve them.</em>", 
+      "number": "43", 
+      "pageNumber": "790", 
+      "compareId": "jst-luke-12_v7", 
+      "churchId": "p43"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "And now, verily I say these things unto you, that ye may know this, that the coming of the Lord is as a thief in the night.", 
+      "contentHtml": "<em>And now, verily I say these things unto you, that ye may know this, that the coming of the Lord is as a thief in the night.</em>", 
+      "number": "44", 
+      "pageNumber": "790", 
+      "compareId": "jst-luke-12_v8", 
+      "churchId": "p44"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "And it is like unto a man who is an householder, who, if he watcheth not his goods, the thief cometh in an hour of which he is not aware, and taketh his goods, and divideth them among his fellows.", 
+      "contentHtml": "<em>And it is like unto a man who is an householder, who, if he watcheth not his goods, the thief cometh in an hour of which he is not aware, and taketh his goods, and divideth them among his fellows.</em>", 
+      "number": "45", 
+      "pageNumber": "790", 
+      "compareId": "jst-luke-12_v9", 
+      "churchId": "p45"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "And they said among themselves, If the good man of the house had known what hour the thief would come, he would have watched, and not have suffered his house to be broken through and the loss of his goods.", 
+      "contentHtml": "<em>And they said among themselves,</em> If the good man of the house had known what hour the thief would come, he would have watched, and not have suffered his house to be broken through <em>and the loss of his goods.</em>", 
+      "number": "46", 
+      "pageNumber": "790", 
+      "compareId": "jst-luke-12_v10", 
+      "churchId": "p46"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "And he said unto them, Verily I say unto you, be ye therefore ready also; for the Son of man cometh at an hour when ye think not.", 
+      "contentHtml": "<em>And he said unto them, Verily I say unto you,</em> be ye therefore ready also; for the Son of man cometh at an hour when ye think not.", 
+      "number": "47", 
+      "pageNumber": "790", 
+      "compareId": "jst-luke-12_v11", 
+      "churchId": "p47"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "Then Peter said unto him, Lord, speakest thou this parable unto us, or unto all?", 
+      "contentHtml": "Then Peter said unto him, Lord, speakest thou this parable unto us, or unto all?", 
+      "number": "48", 
+      "pageNumber": "790", 
+      "compareId": "jst-luke-12_v12", 
+      "churchId": "p48"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v13", 
+      "content": "And the Lord said, I speak unto those whom the Lord shall make rulers over his household, to give his children their portion of meat in due season.", 
+      "contentHtml": "And the Lord said, <em>I speak unto those whom the Lord</em> shall make <em>rulers</em> over his household, to give <em>his children</em> their portion of meat in due season.", 
+      "number": "49", 
+      "pageNumber": "790", 
+      "compareId": "jst-luke-12_v13", 
+      "churchId": "p49"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v14", 
+      "content": "And they said, Who then is that faithful and wise servant?", 
+      "contentHtml": "<em>And they said, Who then is that faithful and wise servant?</em>", 
+      "number": "50", 
+      "pageNumber": "790", 
+      "compareId": "jst-luke-12_v14", 
+      "churchId": "p50"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v15", 
+      "content": "And the Lord said unto them, It is that servant who watcheth, to impart his portion of meat in due season.", 
+      "contentHtml": "<em>And the Lord said unto them, It is that servant who watcheth, to impart his portion of meat in due season.</em>", 
+      "number": "51", 
+      "pageNumber": "790", 
+      "compareId": "jst-luke-12_v15", 
+      "churchId": "p51"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v16", 
+      "content": "Blessed be that servant whom his Lord shall find, when he cometh, so doing.", 
+      "contentHtml": "Blessed <em>be</em> that servant whom his <em>Lord</em> shall find, when he cometh, so doing.", 
+      "number": "52", 
+      "pageNumber": "791", 
+      "compareId": "jst-luke-12_v16", 
+      "churchId": "p52"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v17", 
+      "content": "Of a truth I say unto you, that he will make him ruler over all that he hath.", 
+      "contentHtml": "Of a truth I say unto you, that he will make him ruler over all that he hath.", 
+      "number": "53", 
+      "pageNumber": "791", 
+      "compareId": "jst-luke-12_v17", 
+      "churchId": "p53"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v18", 
+      "content": "But the evil servant is he who is not found watching. And if that servant is not found watching, he will say in his heart, My Lord delayeth his coming; and shall begin to beat the menservants, and the maidens, and to eat, and drink, and to be drunken.", 
+      "contentHtml": "<em>But the evil servant is he who is not found watching. And if that servant is not found watching, he will</em> say in his heart, My Lord delayeth his coming; and shall begin to beat the menservants, and the maidens, and to eat, and drink, and to be drunken.", 
+      "number": "54", 
+      "pageNumber": "791", 
+      "compareId": "jst-luke-12_v18", 
+      "churchId": "p54"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v19", 
+      "content": "The Lord of that servant will come in a day he looketh not for, and at an hour when he is not aware, and will cut him down, and will appoint him his portion with the unbelievers.", 
+      "contentHtml": "The <em>Lord</em> of that servant will come in a day he looketh not for, and at an hour when he is not aware, and will cut him <em>down,</em> and will appoint him his portion with the unbelievers.", 
+      "number": "55", 
+      "pageNumber": "791", 
+      "compareId": "jst-luke-12_v19", 
+      "churchId": "p55"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v20", 
+      "content": "And that servant who knew his Lord’s will, and prepared not for his Lord’s coming, neither did according to his will, shall be beaten with many stripes.", 
+      "contentHtml": "And that servant who knew his <em>Lord’s</em> will, and prepared not <em>for his Lord’s coming,</em> neither did according to his will, shall be beaten with many stripes.", 
+      "number": "56", 
+      "pageNumber": "791", 
+      "compareId": "jst-luke-12_v20", 
+      "churchId": "p56"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v21", 
+      "content": "But he that knew not his Lord’s will, and did commit things worthy of stripes, shall be beaten with few. For unto whomsoever much is given, of him shall much be required; and to whom the Lord has committed much, of him will men ask the more.", 
+      "contentHtml": "But he that knew not <em>his Lord’s will,</em> and did commit things worthy of stripes, shall be beaten with few. For unto whomsoever much is given, of him shall much be required; and to whom <em>the Lord</em> has committed much, of him <em>will men</em> ask the more.", 
+      "number": "57", 
+      "pageNumber": "791", 
+      "compareId": "jst-luke-12_v21", 
+      "churchId": "p57"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0600-jst-luke-12-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0600-jst-luke-12-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

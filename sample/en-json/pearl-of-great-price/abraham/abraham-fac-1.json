@@ -27,8 +27,8 @@
     {
       "type": "image", 
       "id": "img1", 
-      "content": "https://assets.ldscdn.org/4b/34/4b344419a83be3d625e222be5c77c4453b0e0184/facsimile_one_book_of_abraham.png", 
-      "contentHtml": "<img id=\"abraham-fac-1_img1\" src=\"https://assets.ldscdn.org/4b/34/4b344419a83be3d625e222be5c77c4453b0e0184/facsimile_one_book_of_abraham.png\" alt=\"Facsimile 1\" data-asset-id=\"4b344419a83be3d625e222be5c77c4453b0e0184\" loading=\"lazy\" decoding=\"async\">", 
+      "content": "https://www.churchofjesuschrist.org/imgs/4b344419a83be3d625e222be5c77c4453b0e0184/full/max/0/default", 
+      "contentHtml": "<img id=\"abraham-fac-1_img1\" src=\"https://www.churchofjesuschrist.org/imgs/4b344419a83be3d625e222be5c77c4453b0e0184/full/max/0/default\" alt=\"Facsimile 1\" data-asset-id=\"4b344419a83be3d625e222be5c77c4453b0e0184\" loading=\"lazy\" decoding=\"async\">", 
       "number": null, 
       "pageNumber": "28", 
       "compareId": "abraham-fac-1_img1", 

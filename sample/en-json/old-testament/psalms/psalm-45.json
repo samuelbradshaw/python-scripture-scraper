@@ -1,6 +1,6 @@
 {
   "name": "Psalm 45", 
-  "abbrev": "Psalm 45", 
+  "abbrev": "Ps. 45", 
   "number": "45", 
   "churchUri": "/scriptures/ot/ps/45", 
   "paragraphs": [
@@ -198,23 +198,25 @@
   "media": [
     {
       "type": "audio", 
-      "subtype": "female", 
+      "subtype": "spoken-female", 
       "url": "https://media2.ldscdn.org/assets/scriptures/the-old-testament/2015-11-5230-psalm-045-female-voice-64k-eng.mp3", 
-      "id": null, 
-      "thumbUrl": null, 
+      "imageUrl": null, 
       "startSeconds": null, 
       "endSeconds": null, 
-      "source": "ChurchofJesusChrist.org"
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
     }, 
     {
       "type": "audio", 
-      "subtype": "male", 
+      "subtype": "spoken-male", 
       "url": "https://media2.ldscdn.org/assets/scriptures/the-old-testament/2015-11-5230-psalm-045-male-voice-64k-eng.mp3", 
-      "id": null, 
-      "thumbUrl": null, 
+      "imageUrl": null, 
       "startSeconds": null, 
       "endSeconds": null, 
-      "source": "ChurchofJesusChrist.org"
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
     }
   ]
 }

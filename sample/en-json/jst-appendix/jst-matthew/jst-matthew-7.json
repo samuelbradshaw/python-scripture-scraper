@@ -1,0 +1,232 @@
+{
+  "name": "JST, Matthew 7", 
+  "abbrev": null, 
+  "number": "7", 
+  "churchUri": "/scriptures/jst/jst-matt/7", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Matthew 7:1–2. Compare Matthew 7:1–2", 
+      "contentHtml": "<strong>JST, Matthew 7:1–2.</strong> Compare Matthew 7:1–2", 
+      "number": null, 
+      "pageNumber": "783", 
+      "compareId": "jst-matthew-7_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Now these are the words which Jesus taught his disciples that they should say unto the people.", 
+      "contentHtml": "<em>Now these are the words which Jesus taught his disciples that they should say unto the people.</em>", 
+      "number": "1", 
+      "pageNumber": "783", 
+      "compareId": "jst-matthew-7_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "Judge not unrighteously, that ye be not judged; but judge righteous judgment.", 
+      "contentHtml": "Judge not <em>unrighteously,</em> that ye be not judged; <em>but judge righteous judgment.</em>", 
+      "number": "2", 
+      "pageNumber": "783", 
+      "compareId": "jst-matthew-7_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "section-title", 
+      "id": "st2", 
+      "content": "JST, Matthew 7:4–8. Compare Matthew 7:3–5", 
+      "contentHtml": "<strong>JST, Matthew 7:4–8.</strong> Compare Matthew 7:3–5", 
+      "number": null, 
+      "pageNumber": "783", 
+      "compareId": "jst-matthew-7_st2", 
+      "churchId": "title2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "And again, ye shall say unto them, Why is it that thou beholdest the mote that is in thy brother’s eye, but considerest not the beam that is in thine own eye?", 
+      "contentHtml": "<em>And again, ye shall say unto them, Why is it that thou</em> beholdest the mote that is in thy brother’s eye, but considerest not the beam that is in thine own eye?", 
+      "number": "4", 
+      "pageNumber": "783", 
+      "compareId": "jst-matthew-7_v3", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "Or how wilt thou say to thy brother, Let me pull out the mote out of thine eye; and canst not behold a beam in thine own eye?", 
+      "contentHtml": "Or how wilt thou say to thy brother, Let me pull out the mote out of thine eye; <em>and canst not behold</em> a beam in thine own eye?", 
+      "number": "5", 
+      "pageNumber": "783", 
+      "compareId": "jst-matthew-7_v4", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "And Jesus said unto his disciples, Beholdest thou the scribes, and the Pharisees, and the priests, and the Levites? They teach in their synagogues, but do not observe the law, nor the commandments; and all have gone out of the way, and are under sin.", 
+      "contentHtml": "<em>And Jesus said unto his disciples, Beholdest thou the scribes, and the Pharisees, and the priests, and the Levites? They teach in their synagogues, but do not observe the law, nor the commandments; and all have gone out of the way, and are under sin.</em>", 
+      "number": "6", 
+      "pageNumber": "783", 
+      "compareId": "jst-matthew-7_v5", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "Go thou and say unto them, Why teach ye men the law and the commandments, when ye yourselves are the children of corruption?", 
+      "contentHtml": "<em>Go thou and say unto them, Why teach ye men the law and the commandments, when ye yourselves are the children of corruption?</em>", 
+      "number": "7", 
+      "pageNumber": "783", 
+      "compareId": "jst-matthew-7_v6", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "Say unto them, Ye hypocrites, first cast out the beam out of thine own eye; and then shalt thou see clearly to cast out the mote out of thy brother’s eye.", 
+      "contentHtml": "<em>Say unto them,</em> Ye hypocrites, first cast out the beam out of thine own eye; and then shalt thou see clearly to cast out the mote out of thy brother’s eye.", 
+      "number": "8", 
+      "pageNumber": "783", 
+      "compareId": "jst-matthew-7_v7", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "section-title", 
+      "id": "st3", 
+      "content": "JST, Matthew 7:9–11. Compare Matthew 7:6", 
+      "contentHtml": "<strong>JST, Matthew 7:9–11.</strong> Compare Matthew 7:6", 
+      "number": null, 
+      "pageNumber": "783", 
+      "compareId": "jst-matthew-7_st3", 
+      "churchId": "title3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "Go ye into the world, saying unto all, Repent, for the kingdom of heaven has come nigh unto you.", 
+      "contentHtml": "<em>Go ye into the world, saying unto all, Repent, for the kingdom of heaven has come nigh unto you.</em>", 
+      "number": "9", 
+      "pageNumber": "783", 
+      "compareId": "jst-matthew-7_v8", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "And the mysteries of the kingdom ye shall keep within yourselves; for it is not meet to give that which is holy unto the dogs; neither cast ye your pearls unto swine, lest they trample them under their feet.", 
+      "contentHtml": "<em>And the mysteries of the kingdom ye shall keep within yourselves; for it is not meet to</em> give that which is holy unto the dogs; neither cast ye your pearls <em>unto</em> swine, lest they trample them under their feet.", 
+      "number": "10", 
+      "pageNumber": "783", 
+      "compareId": "jst-matthew-7_v9", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "For the world cannot receive that which ye, yourselves, are not able to bear; wherefore ye shall not give your pearls unto them, lest they turn again and rend you.", 
+      "contentHtml": "<em>For the world cannot receive that which ye, yourselves, are not able to bear; wherefore ye shall not give your pearls unto them, lest they</em> turn again and rend you.", 
+      "number": "11", 
+      "pageNumber": "783", 
+      "compareId": "jst-matthew-7_v10", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "section-title", 
+      "id": "st4", 
+      "content": "JST, Matthew 7:12–17. Compare Matthew 7:7–8", 
+      "contentHtml": "<strong>JST, Matthew 7:12–17.</strong> Compare Matthew 7:7–8", 
+      "number": null, 
+      "pageNumber": "783,784", 
+      "compareId": "jst-matthew-7_st4", 
+      "churchId": "title4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "Say unto them, Ask of God; ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you.", 
+      "contentHtml": "<em>Say unto them, Ask of God;</em> ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you.", 
+      "number": "12", 
+      "pageNumber": "784", 
+      "compareId": "jst-matthew-7_v11", 
+      "churchId": "p12"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "For everyone that asketh, receiveth; and he that seeketh, findeth; and unto him that knocketh, it shall be opened.", 
+      "contentHtml": "For everyone that asketh, receiveth; and he that seeketh, findeth; and unto him that knocketh, it shall be opened.", 
+      "number": "13", 
+      "pageNumber": "784", 
+      "compareId": "jst-matthew-7_v12", 
+      "churchId": "p13"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v13", 
+      "content": "And then said his disciples unto him, They will say unto us, We ourselves are righteous, and need not that any man should teach us. God, we know, heard Moses and some of the prophets; but us he will not hear.", 
+      "contentHtml": "<em>And then said his disciples unto him, They will say unto us, We ourselves are righteous, and need not that any man should teach us. God, we know, heard Moses and some of the prophets; but us he will not hear.</em>", 
+      "number": "14", 
+      "pageNumber": "784", 
+      "compareId": "jst-matthew-7_v13", 
+      "churchId": "p14"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v14", 
+      "content": "And they will say, We have the law for our salvation, and that is sufficient for us.", 
+      "contentHtml": "<em>And they will say, We have the law for our salvation, and that is sufficient for us.</em>", 
+      "number": "15", 
+      "pageNumber": "784", 
+      "compareId": "jst-matthew-7_v14", 
+      "churchId": "p15"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v15", 
+      "content": "Then Jesus answered, and said unto his disciples, Thus shall ye say unto them,", 
+      "contentHtml": "<em>Then Jesus answered, and said unto his disciples, Thus shall ye say unto them,</em>", 
+      "number": "16", 
+      "pageNumber": "784", 
+      "compareId": "jst-matthew-7_v15", 
+      "churchId": "p16"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v16", 
+      "content": "What man among you, having a son, and he shall be standing out, and shall say, Father, open thy house that I may come in and sup with thee, will not say, Come in, my son; for mine is thine, and thine is mine?", 
+      "contentHtml": "<em>What man among you, having a son, and he shall be standing out, and shall say, Father, open thy house that I may come in and sup with thee, will not say, Come in, my son; for mine is thine, and thine is mine?</em>", 
+      "number": "17", 
+      "pageNumber": "784", 
+      "compareId": "jst-matthew-7_v16", 
+      "churchId": "p17"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0330-jst-matthew-7-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0330-jst-matthew-7-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

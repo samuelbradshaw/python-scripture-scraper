@@ -1,0 +1,52 @@
+{
+  "name": "JST, Matthew 23", 
+  "abbrev": null, 
+  "number": "23", 
+  "churchUri": "/scriptures/jst/jst-matt/23", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Matthew 23:6. Compare Matthew 23:9", 
+      "contentHtml": "<strong>JST, Matthew 23:6.</strong> Compare Matthew 23:9", 
+      "number": null, 
+      "pageNumber": "786", 
+      "compareId": "jst-matthew-23_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "And call no one your creator upon the earth, or your heavenly Father; for one is your creator and heavenly Father, even he who is in heaven.", 
+      "contentHtml": "And call no <em>one</em> your <em>creator</em> upon the earth, or <em>your heavenly Father;</em> for one is your <em>creator and heavenly</em> Father, <em>even he who</em> is in heaven.", 
+      "number": "6", 
+      "pageNumber": "786", 
+      "compareId": "jst-matthew-23_v1", 
+      "churchId": "p6"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0430-jst-matthew-236-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0430-jst-matthew-236-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

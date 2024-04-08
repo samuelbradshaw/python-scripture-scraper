@@ -1,0 +1,72 @@
+{
+  "name": "JST, Exodus 34", 
+  "abbrev": null, 
+  "number": "34", 
+  "churchUri": "/scriptures/jst/jst-ex/34", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Exodus 34:1–2, 14. Compare Exodus 34:1–2, 14; D&C 84:21–26", 
+      "contentHtml": "<strong>JST, Exodus 34:1–2, 14.</strong> Compare Exodus 34:1–2, 14; D&amp;C 84:21–26", 
+      "number": null, 
+      "pageNumber": "777,778", 
+      "compareId": "jst-exodus-34_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "And the Lord said unto Moses, Hew thee two other tables of stone, like unto the first, and I will write upon them also, the words of the law, according as they were written at the first on the tables which thou brakest; but it shall not be according to the first, for I will take away the priesthood out of their midst; therefore my holy order, and the ordinances thereof, shall not go before them; for my presence shall not go up in their midst, lest I destroy them.", 
+      "contentHtml": "And the Lord said unto Moses, Hew thee two <em>other</em> tables of stone, like unto the first, and I will write upon <em>them also,</em> the words <em>of the law, according as they were written at the</em> first <em>on the</em> tables which thou brakest; <em>but it shall not be according to the first, for I will take away the priesthood out of their midst; therefore my holy order, and the ordinances thereof, shall not go before them; for my presence shall not go up in their midst, lest I destroy them.</em>", 
+      "number": "1", 
+      "pageNumber": "778", 
+      "compareId": "jst-exodus-34_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "But I will give unto them the law as at the first, but it shall be after the law of a carnal commandment; for I have sworn in my wrath, that they shall not enter into my presence, into my rest, in the days of their pilgrimage. Therefore do as I have commanded thee, and be ready in the morning, and come up in the morning unto mount Sinai, and present thyself there to me, in the top of the mount.", 
+      "contentHtml": "<em>But I will give unto them the law as at the first, but it shall be after the law of a carnal commandment; for I have sworn in my wrath, that they shall not enter into my presence, into my rest, in the days of their pilgrimage. Therefore do as I have commanded thee,</em> and be ready in the morning, and come up in the morning unto mount Sinai, and present thyself there to me, in the top of the mount.", 
+      "number": "2", 
+      "pageNumber": "778", 
+      "compareId": "jst-exodus-34_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "For thou shalt worship no other god; for the Lord, whose name is Jehovah, is a jealous God.", 
+      "contentHtml": "For thou shalt worship no other god; for the Lord, whose name is <em>Jehovah,</em> is a jealous God.", 
+      "number": "14", 
+      "pageNumber": "778", 
+      "compareId": "jst-exodus-34_v3", 
+      "churchId": "p14"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0150-jst-exodus-341-2-14-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0150-jst-exodus-341-2-14-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

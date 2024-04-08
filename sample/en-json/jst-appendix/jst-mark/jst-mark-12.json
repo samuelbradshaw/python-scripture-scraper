@@ -1,0 +1,52 @@
+{
+  "name": "JST, Mark 12", 
+  "abbrev": null, 
+  "number": "12", 
+  "churchUri": "/scriptures/jst/jst-mark/12", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Mark 12:32. Compare Mark 12:27", 
+      "contentHtml": "<strong>JST, Mark 12:32.</strong> Compare Mark 12:27", 
+      "number": null, 
+      "pageNumber": "788", 
+      "compareId": "jst-mark-12_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "He is not therefore the God of the dead, but the God of the living; for he raiseth them up out of their graves. Ye therefore do greatly err.", 
+      "contentHtml": "He is not <em>therefore</em> the God of the dead, but the God of the living; <em>for he raiseth them up out of their graves.</em> Ye therefore do greatly err.", 
+      "number": "32", 
+      "pageNumber": "788", 
+      "compareId": "jst-mark-12_v1", 
+      "churchId": "p32"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0510-jst-mark-1232-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0510-jst-mark-1232-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

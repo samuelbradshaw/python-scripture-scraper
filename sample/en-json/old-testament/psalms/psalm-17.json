@@ -1,6 +1,6 @@
 {
   "name": "Psalm 17", 
-  "abbrev": "Psalm 17", 
+  "abbrev": "Ps. 17", 
   "number": "17", 
   "churchUri": "/scriptures/ot/ps/17", 
   "paragraphs": [
@@ -178,23 +178,25 @@
   "media": [
     {
       "type": "audio", 
-      "subtype": "female", 
+      "subtype": "spoken-female", 
       "url": "https://media2.ldscdn.org/assets/scriptures/the-old-testament/2015-11-4950-psalm-017-female-voice-64k-eng.mp3", 
-      "id": null, 
-      "thumbUrl": null, 
+      "imageUrl": null, 
       "startSeconds": null, 
       "endSeconds": null, 
-      "source": "ChurchofJesusChrist.org"
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
     }, 
     {
       "type": "audio", 
-      "subtype": "male", 
+      "subtype": "spoken-male", 
       "url": "https://media2.ldscdn.org/assets/scriptures/the-old-testament/2015-11-4950-psalm-017-male-voice-64k-eng.mp3", 
-      "id": null, 
-      "thumbUrl": null, 
+      "imageUrl": null, 
       "startSeconds": null, 
       "endSeconds": null, 
-      "source": "ChurchofJesusChrist.org"
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
     }
   ]
 }

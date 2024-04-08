@@ -1,0 +1,82 @@
+{
+  "name": "JST, Matthew 9", 
+  "abbrev": null, 
+  "number": "9", 
+  "churchUri": "/scriptures/jst/jst-matt/9", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Matthew 9:18–21. Compare Matthew 9:16–17", 
+      "contentHtml": "<strong>JST, Matthew 9:18–21.</strong> Compare Matthew 9:16–17", 
+      "number": null, 
+      "pageNumber": "784", 
+      "compareId": "jst-matthew-9_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Then said the Pharisees unto him, Why will ye not receive us with our baptism, seeing we keep the whole law?", 
+      "contentHtml": "<em>Then said the Pharisees unto him, Why will ye not receive us with our baptism, seeing we keep the whole law?</em>", 
+      "number": "18", 
+      "pageNumber": "784", 
+      "compareId": "jst-matthew-9_v1", 
+      "churchId": "p18"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "But Jesus said unto them, Ye keep not the law. If ye had kept the law, ye would have received me, for I am he who gave the law.", 
+      "contentHtml": "<em>But Jesus said unto them, Ye keep not the law. If ye had kept the law, ye would have received me, for I am he who gave the law.</em>", 
+      "number": "19", 
+      "pageNumber": "784", 
+      "compareId": "jst-matthew-9_v2", 
+      "churchId": "p19"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "I receive not you with your baptism, because it profiteth you nothing.", 
+      "contentHtml": "<em>I receive not you with your baptism, because it profiteth you nothing.</em>", 
+      "number": "20", 
+      "pageNumber": "784", 
+      "compareId": "jst-matthew-9_v3", 
+      "churchId": "p20"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "For when that which is new is come, the old is ready to be put away.", 
+      "contentHtml": "<em>For when that which is new is come, the old is ready to be put away.</em>", 
+      "number": "21", 
+      "pageNumber": "784", 
+      "compareId": "jst-matthew-9_v4", 
+      "churchId": "p21"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0340-jst-matthew-918-21-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0340-jst-matthew-918-21-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

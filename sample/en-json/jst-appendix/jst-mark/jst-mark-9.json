@@ -1,0 +1,152 @@
+{
+  "name": "JST, Mark 9", 
+  "abbrev": null, 
+  "number": "9", 
+  "churchUri": "/scriptures/jst/jst-mark/9", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Mark 9:3. Compare Mark 9:4", 
+      "contentHtml": "<strong>JST, Mark 9:3.</strong> Compare Mark 9:4", 
+      "number": null, 
+      "pageNumber": "787", 
+      "compareId": "jst-mark-9_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "And there appeared unto them Elias with Moses, or in other words, John the Baptist and Moses; and they were talking with Jesus.", 
+      "contentHtml": "And there appeared unto them Elias with Moses, <em>or in other words, John the Baptist and Moses;</em> and they were talking with Jesus.", 
+      "number": "3", 
+      "pageNumber": "787", 
+      "compareId": "jst-mark-9_v1", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "section-title", 
+      "id": "st2", 
+      "content": "JST, Mark 9:40–48. Compare Mark 9:43–48", 
+      "contentHtml": "<strong>JST, Mark 9:40–48.</strong> Compare Mark 9:43–48", 
+      "number": null, 
+      "pageNumber": "787", 
+      "compareId": "jst-mark-9_st2", 
+      "churchId": "title2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "Therefore, if thy hand offend thee, cut it off; or if thy brother offend thee and confess not and forsake not, he shall be cut off. It is better for thee to enter into life maimed, than having two hands, to go into hell.", 
+      "contentHtml": "<em>Therefore,</em> if thy hand offend thee, cut it off; <em>or if thy brother offend thee and confess not and forsake not, he shall be cut off.</em> It is better for thee to enter into life maimed, than having two hands, to go into hell.", 
+      "number": "40", 
+      "pageNumber": "787", 
+      "compareId": "jst-mark-9_v2", 
+      "churchId": "p40"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "For it is better for thee to enter into life without thy brother, than for thee and thy brother to be cast into hell; into the fire that never shall be quenched, where their worm dieth not, and the fire is not quenched.", 
+      "contentHtml": "<em>For it is better for thee to enter into life without thy brother, than for thee and thy brother to be cast into hell;</em> into the fire that never shall be quenched, where their worm dieth not, and the fire is not quenched.", 
+      "number": "41", 
+      "pageNumber": "787", 
+      "compareId": "jst-mark-9_v3", 
+      "churchId": "p41"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "And again, if thy foot offend thee, cut it off; for he that is thy standard, by whom thou walkest, if he become a transgressor, he shall be cut off.", 
+      "contentHtml": "And <em>again,</em> if thy foot offend thee, cut it off; <em>for he that is thy standard, by whom thou walkest, if he become a transgressor, he shall be cut off.</em>", 
+      "number": "42", 
+      "pageNumber": "787", 
+      "compareId": "jst-mark-9_v4", 
+      "churchId": "p42"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "It is better for thee, to enter halt into life, than having two feet to be cast into hell; into the fire that never shall be quenched.", 
+      "contentHtml": "It is better for thee, to enter halt into life, than having two feet to be cast into hell; into the fire that never shall be quenched.", 
+      "number": "43", 
+      "pageNumber": "787", 
+      "compareId": "jst-mark-9_v5", 
+      "churchId": "p43"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "Therefore, let every man stand or fall, by himself, and not for another; or not trusting another.", 
+      "contentHtml": "<em>Therefore, let every man stand or fall, by himself, and not for another; or not trusting another.</em>", 
+      "number": "44", 
+      "pageNumber": "788", 
+      "compareId": "jst-mark-9_v6", 
+      "churchId": "p44"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "Seek unto my Father, and it shall be done in that very moment what ye shall ask, if ye ask in faith, believing that ye shall receive.", 
+      "contentHtml": "<em>Seek unto my Father, and it shall be done in that very moment what ye shall ask, if ye ask in faith, believing that ye shall receive.</em>", 
+      "number": "45", 
+      "pageNumber": "788", 
+      "compareId": "jst-mark-9_v7", 
+      "churchId": "p45"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "And if thine eye which seeth for thee, him that is appointed to watch over thee to show thee light, become a transgressor and offend thee, pluck him out.", 
+      "contentHtml": "And if thine eye <em>which seeth for thee, him that is appointed to watch over thee to show thee light, become a transgressor and</em> offend thee, pluck <em>him</em> out.", 
+      "number": "46", 
+      "pageNumber": "788", 
+      "compareId": "jst-mark-9_v8", 
+      "churchId": "p46"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "It is better for thee to enter into the kingdom of God, with one eye, than having two eyes to be cast into hell fire.", 
+      "contentHtml": "It is better for thee to enter into the kingdom of God, with one eye, than having two eyes to be cast into hell fire.", 
+      "number": "47", 
+      "pageNumber": "788", 
+      "compareId": "jst-mark-9_v9", 
+      "churchId": "p47"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "For it is better that thyself should be saved, than to be cast into hell with thy brother, where their worm dieth not, and where the fire is not quenched.", 
+      "contentHtml": "<em>For it is better that thyself should be saved, than to be cast into hell with thy brother,</em> where their worm dieth not, and where the fire is not quenched.", 
+      "number": "48", 
+      "pageNumber": "788", 
+      "compareId": "jst-mark-9_v10", 
+      "churchId": "p48"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0500-jst-mark-9-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0500-jst-mark-9-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

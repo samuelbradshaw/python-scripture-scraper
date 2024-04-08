@@ -1,0 +1,52 @@
+{
+  "name": "JST, 1 John 4", 
+  "abbrev": null, 
+  "number": "4", 
+  "churchUri": "/scriptures/jst/jst-1-jn/4", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, 1 John 4:12. Compare 1 John 4:12", 
+      "contentHtml": "<strong>JST, 1 John 4:12.</strong> Compare 1 John 4:12", 
+      "number": null, 
+      "pageNumber": null, 
+      "compareId": "jst-1-john-4_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "No man hath seen God at any time, except them who believe. If we love one another, God dwelleth in us, and his love is perfected in us.", 
+      "contentHtml": "No man hath seen God at any time, <em>except them who believe.</em> If we love one another, God dwelleth in us, and his love is perfected in us.", 
+      "number": "12", 
+      "pageNumber": null, 
+      "compareId": "jst-1-john-4_v1", 
+      "churchId": "p12"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-1030-jst-1-john-412-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-1030-jst-1-john-412-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

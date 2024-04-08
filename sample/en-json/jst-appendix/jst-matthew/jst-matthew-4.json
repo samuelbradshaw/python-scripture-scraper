@@ -1,0 +1,152 @@
+{
+  "name": "JST, Matthew 4", 
+  "abbrev": null, 
+  "number": "4", 
+  "churchUri": "/scriptures/jst/jst-matt/4", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Matthew 4:1, 5–6, 8–9. Compare Matthew 4:1, 5–6, 8–9; similar changes were made in Luke 4:2, 5–11", 
+      "contentHtml": "<strong>JST, Matthew 4:1, 5–6, 8–9.</strong> Compare Matthew 4:1, 5–6, 8–9; similar changes were made in Luke 4:2, 5–11", 
+      "number": null, 
+      "pageNumber": "782", 
+      "compareId": "jst-matthew-4_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Then Jesus was led up of the Spirit, into the wilderness, to be with God.", 
+      "contentHtml": "Then <em>Jesus was</em> led up of the Spirit, into the wilderness, to be <em>with God.</em>", 
+      "number": "1", 
+      "pageNumber": "782", 
+      "compareId": "jst-matthew-4_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "Then Jesus was taken up into the holy city, and the Spirit setteth him on the pinnacle of the temple.", 
+      "contentHtml": "Then <em>Jesus was taken</em> up into the holy city, and <em>the Spirit</em> setteth him on <em>the</em> pinnacle of the temple.", 
+      "number": "5", 
+      "pageNumber": "782", 
+      "compareId": "jst-matthew-4_v2", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "Then the devil came unto him and said, If thou be the Son of God, cast thyself down, for it is written, He shall give his angels charge concerning thee, and in their hands they shall bear thee up, lest at any time thou dash thy foot against a stone.", 
+      "contentHtml": "<em>Then the devil came unto him and said,</em> If thou be the Son of God, cast thyself down, for it is written, He shall give his angels charge concerning thee, and in their hands they shall bear thee up, lest at any time thou dash thy foot against a stone.", 
+      "number": "6", 
+      "pageNumber": "782", 
+      "compareId": "jst-matthew-4_v3", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "And again, Jesus was in the Spirit, and it taketh him up into an exceeding high mountain, and showeth him all the kingdoms of the world and the glory of them.", 
+      "contentHtml": "<em>And</em> again, <em>Jesus was in the Spirit, and it</em> taketh him up into an exceeding high mountain, and showeth him all the kingdoms of the world and the glory of them.", 
+      "number": "8", 
+      "pageNumber": "782", 
+      "compareId": "jst-matthew-4_v4", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "And the devil came unto him again, and said, All these things will I give unto thee, if thou wilt fall down and worship me.", 
+      "contentHtml": "And <em>the devil came unto him again, and said,</em> All these things will I give <em>unto</em> thee, if thou wilt fall down and worship me.", 
+      "number": "9", 
+      "pageNumber": "782", 
+      "compareId": "jst-matthew-4_v5", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "section-title", 
+      "id": "st2", 
+      "content": "JST, Matthew 4:11. Compare Matthew 4:11", 
+      "contentHtml": "<strong>JST, Matthew 4:11.</strong> Compare Matthew 4:11", 
+      "number": null, 
+      "pageNumber": "782", 
+      "compareId": "jst-matthew-4_st2", 
+      "churchId": "title2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "And now Jesus knew that John was cast into prison, and he sent angels, and, behold, they came and ministered unto him.", 
+      "contentHtml": "<em>And now Jesus knew that John was cast into prison, and he sent angels,</em> and, behold, <em>they</em> came and ministered unto him.", 
+      "number": "11", 
+      "pageNumber": "782", 
+      "compareId": "jst-matthew-4_v6", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "section-title", 
+      "id": "st3", 
+      "content": "JST, Matthew 4:18. Compare Matthew 4:19", 
+      "contentHtml": "<strong>JST, Matthew 4:18.</strong> Compare Matthew 4:19", 
+      "number": null, 
+      "pageNumber": "782", 
+      "compareId": "jst-matthew-4_st3", 
+      "churchId": "title3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "And he said unto them, I am he of whom it is written by the prophets; follow me, and I will make you fishers of men.", 
+      "contentHtml": "And he <em>said</em> unto them, <em>I am he of whom it is written by the prophets;</em> follow me, and I will make you fishers of men.", 
+      "number": "18", 
+      "pageNumber": "782", 
+      "compareId": "jst-matthew-4_v7", 
+      "churchId": "p18"
+    }, 
+    {
+      "type": "section-title", 
+      "id": "st4", 
+      "content": "JST, Matthew 4:22. Compare Matthew 4:23", 
+      "contentHtml": "<strong>JST, Matthew 4:22.</strong> Compare Matthew 4:23", 
+      "number": null, 
+      "pageNumber": "782", 
+      "compareId": "jst-matthew-4_st4", 
+      "churchId": "title4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "And Jesus went about all Galilee teaching in their synagogues, and preaching the gospel of the kingdom; and healing all manner of sickness, and all manner of diseases among the people which believed on his name.", 
+      "contentHtml": "And Jesus went about all Galilee teaching in their synagogues, and preaching the gospel of the kingdom; and healing all manner of sickness, and all manner of <em>diseases</em> among the people <em>which believed on his name.</em>", 
+      "number": "22", 
+      "pageNumber": "782", 
+      "compareId": "jst-matthew-4_v8", 
+      "churchId": "p22"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0300-jst-matthew-4-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0300-jst-matthew-4-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

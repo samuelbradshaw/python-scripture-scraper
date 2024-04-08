@@ -1,0 +1,272 @@
+{
+  "name": "JST, Romans 7", 
+  "abbrev": null, 
+  "number": "7", 
+  "churchUri": "/scriptures/jst/jst-rom/7", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Romans 7:5–27. Compare Romans 7:5–25", 
+      "contentHtml": "<strong>JST, Romans 7:5–27.</strong> Compare Romans 7:5–25", 
+      "number": null, 
+      "pageNumber": "796", 
+      "compareId": "jst-romans-7_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "For when we were in the flesh, the motions of sin, which were not according to the law, did work in our members to bring forth fruit unto death.", 
+      "contentHtml": "For when we were in the flesh, the motions of sin, which were <em>not according to</em> the law, did work in our members to bring forth fruit unto death.", 
+      "number": "5", 
+      "pageNumber": "796", 
+      "compareId": "jst-romans-7_v1", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "But now we are delivered from the law wherein we were held, being dead to the law, that we should serve in newness of spirit, and not in the oldness of the letter.", 
+      "contentHtml": "But now we are delivered from the law wherein we were held, <em>being dead to the law,</em> that we should serve in newness of spirit, and not in the oldness of the letter.", 
+      "number": "6", 
+      "pageNumber": "796", 
+      "compareId": "jst-romans-7_v2", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "What shall we say then? Is the law sin? God forbid. Nay, I had not known sin, but by the law; for I had not known lust, except the law had said, Thou shalt not covet.", 
+      "contentHtml": "What shall we say then? Is the law sin? God forbid. Nay, I had not known sin, but by the law; for I had not known lust, except the law had said, Thou shalt not covet.", 
+      "number": "7", 
+      "pageNumber": "796", 
+      "compareId": "jst-romans-7_v3", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "But sin, taking occasion by the commandment, wrought in me all manner of concupiscence. For without the law sin was dead.", 
+      "contentHtml": "But sin, taking occasion by the commandment, wrought in me all manner of concupiscence. For without the law sin was dead.", 
+      "number": "8", 
+      "pageNumber": "796", 
+      "compareId": "jst-romans-7_v4", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "For once I was alive without transgression of the law, but when the commandment of Christ came, sin revived, and I died.", 
+      "contentHtml": "For <em>once</em> I was alive without <em>transgression of</em> the law, but when the commandment <em>of Christ</em> came, sin revived, and I died.", 
+      "number": "9", 
+      "pageNumber": "796", 
+      "compareId": "jst-romans-7_v5", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "And when I believed not the commandment of Christ which came, which was ordained to life, I found it condemned me unto death.", 
+      "contentHtml": "And <em>when I believed not</em> the commandment <em>of Christ which came,</em> which was ordained to life, I found <em>it condemned me</em> unto death.", 
+      "number": "10", 
+      "pageNumber": "796", 
+      "compareId": "jst-romans-7_v6", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "For sin, taking occasion, denied the commandment, and deceived me; and by it I was slain.", 
+      "contentHtml": "For sin, taking occasion, <em>denied</em> the commandment, <em>and</em> deceived me; and by it <em>I was slain.</em>", 
+      "number": "11", 
+      "pageNumber": "796", 
+      "compareId": "jst-romans-7_v7", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "Nevertheless, I found the law to be holy, and the commandment to be holy, and just, and good.", 
+      "contentHtml": "<em>Nevertheless, I found</em> the law <em>to be</em> holy, and the commandment <em>to be</em> holy, and just, and good.", 
+      "number": "12", 
+      "pageNumber": "796", 
+      "compareId": "jst-romans-7_v8", 
+      "churchId": "p12"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "Was then that which is good made death unto me? God forbid. But sin, that it might appear sin by that which is good working death in me; that sin, by the commandment, might become exceeding sinful.", 
+      "contentHtml": "Was then that which is good made death unto me? God forbid. But sin, that it might appear sin by that which is good working death in me; that sin, by the commandment, might become exceeding sinful.", 
+      "number": "13", 
+      "pageNumber": "796", 
+      "compareId": "jst-romans-7_v9", 
+      "churchId": "p13"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "For we know that the commandment is spiritual; but when I was under the law, I was yet carnal, sold under sin.", 
+      "contentHtml": "For we know that the <em>commandment</em> is spiritual; but <em>when I was under the law,</em> I <em>was yet</em> carnal, sold under sin.", 
+      "number": "14", 
+      "pageNumber": "796", 
+      "compareId": "jst-romans-7_v10", 
+      "churchId": "p14"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "But now I am spiritual; for that which I am commanded to do, I do; and that which I am commanded not to allow, I allow not.", 
+      "contentHtml": "<em>But now I am spiritual;</em> for that which <em>I am commanded to do, I do; and that which I am commanded not to allow,</em> I allow not.", 
+      "number": "15", 
+      "pageNumber": "796", 
+      "compareId": "jst-romans-7_v11", 
+      "churchId": "p15"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "For what I know is not right, I would not do; for that which is sin, I hate.", 
+      "contentHtml": "For what I <em>know is not right, I would</em> not <em>do; for that which is sin,</em> I hate.", 
+      "number": "16", 
+      "pageNumber": "796", 
+      "compareId": "jst-romans-7_v12", 
+      "churchId": "p16"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v13", 
+      "content": "If then I do not that which I would not allow, I consent unto the law, that it is good; and I am not condemned.", 
+      "contentHtml": "If then I do <em>not</em> that which I would not <em>allow,</em> I consent unto the law, that it is good; <em>and I am not condemned.</em>", 
+      "number": "17", 
+      "pageNumber": "796", 
+      "compareId": "jst-romans-7_v13", 
+      "churchId": "p17"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v14", 
+      "content": "Now then, it is no more I that do sin; but I seek to subdue that sin which dwelleth in me.", 
+      "contentHtml": "Now then, it is no more I that do <em>sin;</em> but I <em>seek to subdue that</em> sin which dwelleth in me.", 
+      "number": "18", 
+      "pageNumber": "796", 
+      "compareId": "jst-romans-7_v14", 
+      "churchId": "p18"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v15", 
+      "content": "For I know that in me, that is, in my flesh, dwelleth no good thing; for to will is present with me, but to perform that which is good I find not, only in Christ.", 
+      "contentHtml": "For I know that in me, that is, in my flesh, dwelleth no good thing; for to will is present with me, <em>but to</em> perform that which is good I find not, <em>only in Christ.</em>", 
+      "number": "19", 
+      "pageNumber": "796", 
+      "compareId": "jst-romans-7_v15", 
+      "churchId": "p19"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v16", 
+      "content": "For the good that I would have done when under the law, I find not to be good; therefore, I do it not.", 
+      "contentHtml": "For the good that I would <em>have done when under the law, I find not to be good; therefore,</em> I do <em>it</em> not.", 
+      "number": "20", 
+      "pageNumber": "796", 
+      "compareId": "jst-romans-7_v16", 
+      "churchId": "p20"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v17", 
+      "content": "But the evil which I would not do under the law, I find to be good; that, I do.", 
+      "contentHtml": "But the evil which I would not <em>do under the law, I find to be good;</em> that, I do.", 
+      "number": "21", 
+      "pageNumber": "796", 
+      "compareId": "jst-romans-7_v17", 
+      "churchId": "p21"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v18", 
+      "content": "Now if I do that, through the assistance of Christ, I would not do under the law, I am not under the law; and it is no more that I seek to do wrong, but to subdue sin that dwelleth in me.", 
+      "contentHtml": "Now if I do that, <em>through the assistance of Christ,</em> I would not <em>do under the law, I am not under the law; and</em> it is no more <em>that I seek to do wrong,</em> but <em>to subdue</em> sin that dwelleth in me.", 
+      "number": "22", 
+      "pageNumber": "796", 
+      "compareId": "jst-romans-7_v18", 
+      "churchId": "p22"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v19", 
+      "content": "I find then that under the law, that when I would do good evil was present with me; for I delight in the law of God after the inward man.", 
+      "contentHtml": "I find then <em>that under the</em> law, that when I would do good evil <em>was</em> present with me; for I delight in the law of God after the inward man.", 
+      "number": "23", 
+      "pageNumber": "796", 
+      "compareId": "jst-romans-7_v19", 
+      "churchId": "p23"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v20", 
+      "content": "And now I see another law, even the commandment of Christ, and it is imprinted in my mind.", 
+      "contentHtml": "<em>And now</em> I see another law, <em>even the commandment of Christ, and it is imprinted in my mind.</em>", 
+      "number": "24", 
+      "pageNumber": "796", 
+      "compareId": "jst-romans-7_v20", 
+      "churchId": "p24"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v21", 
+      "content": "But my members are warring against the law of my mind, and bringing me into captivity to the law of sin which is in my members.", 
+      "contentHtml": "<em>But</em> my members <em>are</em> warring against the law of my mind, and bringing me into captivity to the law of sin which is in my members.", 
+      "number": "25", 
+      "pageNumber": "796", 
+      "compareId": "jst-romans-7_v21", 
+      "churchId": "p25"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v22", 
+      "content": "And if I subdue not the sin which is in me, but with the flesh serve the law of sin; O wretched man that I am! who shall deliver me from the body of this death?", 
+      "contentHtml": "<em>And if I subdue not the sin which is in me, but with the flesh serve the law of sin;</em> O wretched man that I am! who shall deliver me from the body of this death?", 
+      "number": "26", 
+      "pageNumber": "796", 
+      "compareId": "jst-romans-7_v22", 
+      "churchId": "p26"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v23", 
+      "content": "I thank God through Jesus Christ our Lord, then, that so with the mind I myself serve the law of God.", 
+      "contentHtml": "I thank God through Jesus Christ our Lord, <em>then, that so</em> with the mind I myself serve the law of God.", 
+      "number": "27", 
+      "pageNumber": "796,797", 
+      "compareId": "jst-romans-7_v23", 
+      "churchId": "p27"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0770-jst-romans-75-27-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0770-jst-romans-75-27-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

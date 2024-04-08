@@ -1,0 +1,52 @@
+{
+  "name": "JST, Exodus 22", 
+  "abbrev": null, 
+  "number": "22", 
+  "churchUri": "/scriptures/jst/jst-ex/22", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Exodus 22:18. Compare Exodus 22:18", 
+      "contentHtml": "<strong>JST, Exodus 22:18.</strong> Compare Exodus 22:18", 
+      "number": null, 
+      "pageNumber": null, 
+      "compareId": "jst-exodus-22_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Thou shalt not suffer a murderer to live.", 
+      "contentHtml": "Thou shalt not suffer a <em>murderer</em> to live.", 
+      "number": "18", 
+      "pageNumber": null, 
+      "compareId": "jst-exodus-22_v1", 
+      "churchId": "p18"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0120-jst-exodus-2218-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0120-jst-exodus-2218-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

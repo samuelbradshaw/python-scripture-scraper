@@ -1,0 +1,82 @@
+{
+  "name": "JST, Psalm 24", 
+  "abbrev": null, 
+  "number": "24", 
+  "churchUri": "/scriptures/jst/jst-ps/24", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Psalm 24:7–10. Compare Psalm 24:7–10", 
+      "contentHtml": "<strong>JST, Psalm 24:7–10.</strong> Compare Psalm 24:7–10", 
+      "number": null, 
+      "pageNumber": "779", 
+      "compareId": "jst-psalm-24_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Lift up your heads, O ye generations of Jacob; and be ye lifted up; and the Lord strong and mighty; the Lord mighty in battle, who is the king of glory, shall establish you forever.", 
+      "contentHtml": "Lift up your heads, O ye <em>generations of Jacob;</em> and be ye lifted up; <em>and</em> the Lord strong and mighty; the Lord mighty in battle, who is the king of glory, <em>shall establish you forever.</em>", 
+      "number": "7", 
+      "pageNumber": "779", 
+      "compareId": "jst-psalm-24_v1", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "And he will roll away the heavens; and will come down to redeem his people; to make you an everlasting name; to establish you upon his everlasting rock.", 
+      "contentHtml": "<em>And he will roll away the heavens; and will come down to redeem his people; to make you an everlasting name; to establish you upon his everlasting rock.</em>", 
+      "number": "8", 
+      "pageNumber": "779,780", 
+      "compareId": "jst-psalm-24_v2", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "Lift up your heads, O ye generations of Jacob; lift up your heads, ye everlasting generations, and the Lord of hosts, the king of kings;", 
+      "contentHtml": "Lift up your heads, O ye <em>generations of Jacob;</em> lift up <em>your heads,</em> ye everlasting <em>generations,</em> and the <em>Lord of hosts, the king of kings;</em>", 
+      "number": "9", 
+      "pageNumber": "780", 
+      "compareId": "jst-psalm-24_v3", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "Even the king of glory shall come unto you; and shall redeem his people, and shall establish them in righteousness. Selah.", 
+      "contentHtml": "<em>Even</em> the king of glory shall come <em>unto you; and shall redeem his people, and shall establish them in righteousness.</em> Selah.", 
+      "number": "10", 
+      "pageNumber": "780", 
+      "compareId": "jst-psalm-24_v4", 
+      "churchId": "p10"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0230-jst-psalm-247-10-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0230-jst-psalm-247-10-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

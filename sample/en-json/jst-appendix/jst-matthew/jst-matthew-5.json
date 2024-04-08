@@ -1,0 +1,52 @@
+{
+  "name": "JST, Matthew 5", 
+  "abbrev": null, 
+  "number": "5", 
+  "churchUri": "/scriptures/jst/jst-matt/5", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Matthew 5:21. Compare Matthew 5:19", 
+      "contentHtml": "<strong>JST, Matthew 5:21.</strong> Compare Matthew 5:19", 
+      "number": null, 
+      "pageNumber": "782", 
+      "compareId": "jst-matthew-5_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Whosoever, therefore, shall break one of these least commandments, and shall teach men so to do, he shall in no wise be saved in the kingdom of heaven; but whosoever shall do and teach these commandments of the law until it be fulfilled, the same shall be called great, and shall be saved in the kingdom of heaven.", 
+      "contentHtml": "Whosoever, therefore, shall break one of these least commandments, and shall teach men so <em>to do, he shall in no wise be saved in the kingdom of heaven;</em> but whosoever shall do and teach <em>these commandments of the law until it be fulfilled,</em> the same shall be called great, <em>and shall be saved</em> in the kingdom of heaven.", 
+      "number": "21", 
+      "pageNumber": "782", 
+      "compareId": "jst-matthew-5_v1", 
+      "churchId": "p21"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0310-jst-matthew-521-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0310-jst-matthew-521-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

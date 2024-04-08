@@ -1,0 +1,102 @@
+{
+  "name": "JST, Matthew 13", 
+  "abbrev": null, 
+  "number": "13", 
+  "churchUri": "/scriptures/jst/jst-matt/13", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Matthew 13:39–44. Compare Matthew 13:39–42; see also D&C 86:1–7", 
+      "contentHtml": "<strong>JST, Matthew 13:39–44.</strong> Compare Matthew 13:39–42; see also D&amp;C 86:1–7", 
+      "number": null, 
+      "pageNumber": "784", 
+      "compareId": "jst-matthew-13_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "The harvest is the end of the world, or the destruction of the wicked.", 
+      "contentHtml": "The harvest is the end of the world, <em>or the destruction of the wicked.</em>", 
+      "number": "39", 
+      "pageNumber": "784", 
+      "compareId": "jst-matthew-13_v1", 
+      "churchId": "p39"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "The reapers are the angels, or the messengers sent of heaven.", 
+      "contentHtml": "The reapers are the angels, <em>or the messengers sent of heaven.</em>", 
+      "number": "40", 
+      "pageNumber": "784", 
+      "compareId": "jst-matthew-13_v2", 
+      "churchId": "p40"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "As, therefore, the tares are gathered and burned in the fire, so shall it be in the end of this world, or the destruction of the wicked.", 
+      "contentHtml": "As, therefore, the tares are gathered and burned in the fire, so shall it be in the end of this world, <em>or the destruction of the wicked.</em>", 
+      "number": "41", 
+      "pageNumber": "784", 
+      "compareId": "jst-matthew-13_v3", 
+      "churchId": "p41"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "For in that day, before the Son of man shall come, he shall send forth his angels and messengers of heaven.", 
+      "contentHtml": "<em>For in that day, before</em> the Son of man shall <em>come, he</em> shall send forth his angels <em>and messengers of heaven.</em>", 
+      "number": "42", 
+      "pageNumber": "784,785", 
+      "compareId": "jst-matthew-13_v4", 
+      "churchId": "p42"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "And they shall gather out of his kingdom all things that offend, and them which do iniquity, and shall cast them out among the wicked; and there shall be wailing and gnashing of teeth.", 
+      "contentHtml": "And they shall gather out of his kingdom all things that offend, and them which do iniquity, and shall cast them <em>out among the wicked; and</em> there shall be wailing and gnashing of teeth.", 
+      "number": "43", 
+      "pageNumber": "785", 
+      "compareId": "jst-matthew-13_v5", 
+      "churchId": "p43"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "For the world shall be burned with fire.", 
+      "contentHtml": "<em>For the world shall be burned with fire.</em>", 
+      "number": "44", 
+      "pageNumber": "785", 
+      "compareId": "jst-matthew-13_v6", 
+      "churchId": "p44"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0370-jst-matthew-1339-44-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0370-jst-matthew-1339-44-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

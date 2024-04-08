@@ -1,0 +1,142 @@
+{
+  "name": "JST, James 2", 
+  "abbrev": null, 
+  "number": "2", 
+  "churchUri": "/scriptures/jst/jst-james/2", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, James 2:1. Compare James 2:1", 
+      "contentHtml": "<strong>JST, James 2:1.</strong> Compare James 2:1", 
+      "number": null, 
+      "pageNumber": "800", 
+      "compareId": "jst-james-2_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "My brethren, ye cannot have the faith of our Lord Jesus Christ, the Lord of glory, and yet have respect to persons.", 
+      "contentHtml": "My brethren, <em>ye cannot</em> have the faith of our Lord Jesus Christ, the Lord of glory, <em>and yet have</em> respect <em>to</em> persons.", 
+      "number": "1", 
+      "pageNumber": "800,801", 
+      "compareId": "jst-james-2_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "section-title", 
+      "id": "st2", 
+      "content": "JST, James 2:14–21. Compare James 2:14–22", 
+      "contentHtml": "<strong>JST, James 2:14–21.</strong> Compare James 2:14–22", 
+      "number": null, 
+      "pageNumber": "801", 
+      "compareId": "jst-james-2_st2", 
+      "churchId": "title2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "What profit is it, my brethren, for a man to say he hath faith, and hath not works? can faith save him?", 
+      "contentHtml": "What profit <em>is it,</em> my brethren, <em>for</em> a man <em>to</em> say he hath faith, and hath not works? can faith save him?", 
+      "number": "14", 
+      "pageNumber": "801", 
+      "compareId": "jst-james-2_v2", 
+      "churchId": "p14"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "Yea, a man may say, I will show thee I have faith without works; but I say, Show me thy faith without works, and I will show thee my faith by my works.", 
+      "contentHtml": "Yea, a man may say, <em>I will show thee I have faith without works; but I say,</em> Show me thy faith without works, and I will show thee my faith by my works.", 
+      "number": "15", 
+      "pageNumber": "801", 
+      "compareId": "jst-james-2_v3", 
+      "churchId": "p15"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "For if a brother or sister be naked and destitute, and one of you say, Depart in peace, be warmed and filled; notwithstanding he give not those things which are needful to the body; what profit is your faith unto such?", 
+      "contentHtml": "<em>For</em> if a brother or sister be naked and destitute, and one of you say, Depart in peace, be warmed and filled; notwithstanding <em>he</em> give not those things which are needful to the body; what profit <em>is your faith unto such?</em>", 
+      "number": "16", 
+      "pageNumber": "801", 
+      "compareId": "jst-james-2_v4", 
+      "churchId": "p16"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "Even so faith, if it have not works is dead, being alone.", 
+      "contentHtml": "Even so faith, if it <em>have</em> not works is dead, being alone.", 
+      "number": "17", 
+      "pageNumber": "801", 
+      "compareId": "jst-james-2_v5", 
+      "churchId": "p17"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "Therefore wilt thou know, O vain man, that faith without works is dead and cannot save you?", 
+      "contentHtml": "<em>Therefore</em> wilt thou know, O vain man, that faith without works is dead <em>and cannot save you?</em>", 
+      "number": "18", 
+      "pageNumber": "801", 
+      "compareId": "jst-james-2_v6", 
+      "churchId": "p18"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "Thou believest there is one God; thou doest well; the devils also believe, and tremble; thou hast made thyself like unto them, not being justified.", 
+      "contentHtml": "Thou believest there is one God; thou doest well; the devils also believe, and tremble; <em>thou hast made thyself like unto them, not being justified.</em>", 
+      "number": "19", 
+      "pageNumber": "801", 
+      "compareId": "jst-james-2_v7", 
+      "churchId": "p19"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "Was not Abraham our father justified by works, when he had offered Isaac his son upon the altar?", 
+      "contentHtml": "Was not Abraham our father justified by works, when he had offered Isaac his son upon the altar?", 
+      "number": "20", 
+      "pageNumber": "801", 
+      "compareId": "jst-james-2_v8", 
+      "churchId": "p20"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "Seest thou how works wrought with his faith, and by works was faith made perfect?", 
+      "contentHtml": "Seest thou how <em>works</em> wrought with his <em>faith,</em> and by works was faith made perfect?", 
+      "number": "21", 
+      "pageNumber": "801", 
+      "compareId": "jst-james-2_v9", 
+      "churchId": "p21"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0970-jst-james-2-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0970-jst-james-2-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

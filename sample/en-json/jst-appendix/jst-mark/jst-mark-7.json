@@ -1,0 +1,72 @@
+{
+  "name": "JST, Mark 7", 
+  "abbrev": null, 
+  "number": "7", 
+  "churchUri": "/scriptures/jst/jst-mark/7", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Mark 7:10–12. Compare Mark 7:10", 
+      "contentHtml": "<strong>JST, Mark 7:10–12.</strong> Compare Mark 7:10", 
+      "number": null, 
+      "pageNumber": "787", 
+      "compareId": "jst-mark-7_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Full well is it written of you, by the prophets whom ye have rejected.", 
+      "contentHtml": "<em>Full well is it written of you, by the prophets whom ye have rejected.</em>", 
+      "number": "10", 
+      "pageNumber": "787", 
+      "compareId": "jst-mark-7_v1", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "They testified these things of a truth, and their blood shall be upon you.", 
+      "contentHtml": "<em>They testified these things of a truth, and their blood shall be upon you.</em>", 
+      "number": "11", 
+      "pageNumber": "787", 
+      "compareId": "jst-mark-7_v2", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "Ye have kept not the ordinances of God; for Moses said, Honor thy father and thy mother; and whoso curseth father or mother, let him die the death of the transgressor, as it is written in your law; but ye keep not the law.", 
+      "contentHtml": "<em>Ye have kept not the ordinances of God;</em> for Moses said, Honor thy father and thy mother; and whoso curseth father or mother, let him die the death <em>of the transgressor, as it is written in your law; but ye keep not the law.</em>", 
+      "number": "12", 
+      "pageNumber": "787", 
+      "compareId": "jst-mark-7_v3", 
+      "churchId": "p12"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0480-jst-mark-710-12-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0480-jst-mark-710-12-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

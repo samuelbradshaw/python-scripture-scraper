@@ -1,0 +1,52 @@
+{
+  "name": "JST, Luke 1", 
+  "abbrev": null, 
+  "number": "1", 
+  "churchUri": "/scriptures/jst/jst-luke/1", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Luke 1:8. Compare Luke 1:8", 
+      "contentHtml": "<strong>JST, Luke 1:8.</strong> Compare Luke 1:8", 
+      "number": null, 
+      "pageNumber": null, 
+      "compareId": "jst-luke-1_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "And while he executed the priest’s office before God, in the order of his priesthood,", 
+      "contentHtml": "And while he executed the priest’s office before God, in the order of his <em>priesthood,</em>", 
+      "number": "8", 
+      "pageNumber": null, 
+      "compareId": "jst-luke-1_v1", 
+      "churchId": "p8"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0540-jst-luke-18-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0540-jst-luke-18-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

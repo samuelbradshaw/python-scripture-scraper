@@ -1,0 +1,112 @@
+{
+  "name": "JST, Psalm 14", 
+  "abbrev": null, 
+  "number": "14", 
+  "churchUri": "/scriptures/jst/jst-ps/14", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Psalm 14:1–7. Compare Psalm 14:1–7", 
+      "contentHtml": "<strong>JST, Psalm 14:1–7.</strong> Compare Psalm 14:1–7", 
+      "number": null, 
+      "pageNumber": null, 
+      "compareId": "jst-psalm-14_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "The fool hath said in his heart, There is no man that hath seen God. Because he showeth himself not unto us, therefore there is no God. Behold, they are corrupt; they have done abominable works, and none of them doeth good.", 
+      "contentHtml": "The fool hath said in his heart, <em>There is no man that hath seen God. Because he showeth himself not unto us, therefore</em> there is no God. <em>Behold,</em> they are corrupt; they have done abominable works, <em>and none of them</em> doeth good.", 
+      "number": "1", 
+      "pageNumber": null, 
+      "compareId": "jst-psalm-14_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "For the Lord looked down from heaven upon the children of men, and by his voice said unto his servant, Seek ye among the children of men, to see if there are any that do understand God. And he opened his mouth unto the Lord, and said, Behold, all these who say they are thine.", 
+      "contentHtml": "<em>For</em> the Lord looked down from heaven upon the children of men, <em>and by his voice said unto his servant, Seek ye among the children of men,</em> to see if there <em>are</em> any that <em>do</em> understand God. <em>And he opened his mouth unto the Lord, and said, Behold, all these who say they are thine.</em>", 
+      "number": "2", 
+      "pageNumber": null, 
+      "compareId": "jst-psalm-14_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "The Lord answered, and said, They are all gone aside, they are together become filthy, thou canst behold none of them that are doing good, no, not one.", 
+      "contentHtml": "<em>The Lord answered, and said,</em> They are all gone aside, they are together become filthy, <em>thou canst behold</em> none <em>of them</em> that <em>are doing</em> good, no, not one.", 
+      "number": "3", 
+      "pageNumber": null, 
+      "compareId": "jst-psalm-14_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "All they have for their teachers are workers of iniquity, and there is no knowledge in them. They are they who eat up my people. They eat bread and call not upon the Lord.", 
+      "contentHtml": "<em>All they have for their teachers are</em> workers of iniquity, <em>and there is</em> no knowledge <em>in them. They are they</em> who eat up my people. They eat bread and call not upon the Lord.", 
+      "number": "4", 
+      "pageNumber": null, 
+      "compareId": "jst-psalm-14_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "They are in great fear, for God dwells in the generation of the righteous. He is the counsel of the poor, because they are ashamed of the wicked, and flee unto the Lord, for their refuge.", 
+      "contentHtml": "They <em>are</em> in great fear, for God <em>dwells</em> in the generation of the righteous. <em>He is the counsel of the poor, because they are ashamed of the wicked, and flee unto the Lord, for their refuge.</em>", 
+      "number": "5", 
+      "pageNumber": null, 
+      "compareId": "jst-psalm-14_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "They are ashamed of the counsel of the poor because the Lord is his refuge.", 
+      "contentHtml": "<em>They are ashamed of</em> the counsel of the poor because the Lord is his refuge.", 
+      "number": "6", 
+      "pageNumber": null, 
+      "compareId": "jst-psalm-14_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "Oh that Zion were established out of heaven, the salvation of Israel. O Lord, when wilt thou establish Zion? When the Lord bringeth back the captivity of his people, Jacob shall rejoice, Israel shall be glad.", 
+      "contentHtml": "Oh that <em>Zion were established out of heaven,</em> the salvation of Israel. <em>O Lord, when wilt thou establish Zion?</em> When the Lord bringeth back the captivity of his people, Jacob shall rejoice, Israel shall be glad.", 
+      "number": "7", 
+      "pageNumber": null, 
+      "compareId": "jst-psalm-14_v7", 
+      "churchId": "p7"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0220-jst-psalm-141-7-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0220-jst-psalm-141-7-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

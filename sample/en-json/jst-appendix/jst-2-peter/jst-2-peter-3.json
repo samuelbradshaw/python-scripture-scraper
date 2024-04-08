@@ -1,0 +1,152 @@
+{
+  "name": "JST, 2 Peter 3", 
+  "abbrev": null, 
+  "number": "3", 
+  "churchUri": "/scriptures/jst/jst-2-pet/3", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, 2 Peter 3:3–13. Compare 2 Peter 3:3–13", 
+      "contentHtml": "<strong>JST, 2 Peter 3:3–13.</strong> Compare 2 Peter 3:3–13", 
+      "number": null, 
+      "pageNumber": "801", 
+      "compareId": "jst-2-peter-3_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Knowing this first, that in the last days there shall come scoffers, walking after their own lusts.", 
+      "contentHtml": "Knowing this first, that <em>in the last days</em> there shall come scoffers, walking after their own lusts.", 
+      "number": "3", 
+      "pageNumber": "801", 
+      "compareId": "jst-2-peter-3_v1", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "Denying the Lord Jesus Christ, and saying, Where is the promise of his coming? for since the fathers fell asleep, all things must continue as they are, and have continued as they are from the beginning of the creation.", 
+      "contentHtml": "<em>Denying the Lord Jesus Christ,</em> and saying, Where is the promise of his coming? for since the fathers fell asleep, all things <em>must</em> continue as they <em>are, and have continued as they are</em> from the beginning of the creation.", 
+      "number": "4", 
+      "pageNumber": "801", 
+      "compareId": "jst-2-peter-3_v2", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "For this they willingly are ignorant of, that of old the heavens, and the earth standing in the water and out of the water, were created by the word of God;", 
+      "contentHtml": "For this they willingly are ignorant of, that <em>of old</em> the heavens, and the earth standing <em>in the water</em> and out of the water, <em>were created by the word of God;</em>", 
+      "number": "5", 
+      "pageNumber": "801", 
+      "compareId": "jst-2-peter-3_v3", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "And by the word of God, the world that then was, being overflowed with water perished;", 
+      "contentHtml": "<em>And by the word of God,</em> the world that then was, being overflowed with water perished;", 
+      "number": "6", 
+      "pageNumber": "801", 
+      "compareId": "jst-2-peter-3_v4", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "But the heavens, and the earth which are now, are kept in store by the same word, reserved unto fire against the day of judgment and perdition of ungodly men.", 
+      "contentHtml": "But the heavens, and the earth which are now, are kept in store <em>by the same word,</em> reserved unto fire against the day of judgment and perdition of ungodly men.", 
+      "number": "7", 
+      "pageNumber": "801", 
+      "compareId": "jst-2-peter-3_v5", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "But concerning the coming of the Lord, beloved, I would not have you ignorant of this one thing, that one day is with the Lord as a thousand years, and a thousand years as one day.", 
+      "contentHtml": "But <em>concerning the coming of the Lord,</em> beloved, <em>I would not have you</em> ignorant of this one thing, that one day is with the Lord as a thousand years, and a thousand years as one day.", 
+      "number": "8", 
+      "pageNumber": "801,802", 
+      "compareId": "jst-2-peter-3_v6", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "The Lord is not slack concerning his promise and coming, as some men count slackness; but long-suffering toward us, not willing that any should perish, but that all should come to repentance.", 
+      "contentHtml": "The Lord is not slack concerning his promise <em>and coming,</em> as some men count slackness; but long-suffering <em>toward us,</em> not willing that any should perish, but that all should come to repentance.", 
+      "number": "9", 
+      "pageNumber": "802", 
+      "compareId": "jst-2-peter-3_v7", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "But the day of the Lord will come as a thief in the night, in the which the heavens shall shake, and the earth also shall tremble, and the mountains shall melt, and pass away with a great noise, and the elements shall be filled with fervent heat; the earth also shall be filled, and the corruptible works which are therein shall be burned up.", 
+      "contentHtml": "But the day of the Lord will come as a thief in the night, in the which the heavens shall <em>shake, and the earth also shall tremble, and the mountains shall melt, and</em> pass away with a great noise, and the elements shall <em>be filled</em> with fervent heat; the earth also <em>shall be filled,</em> and the <em>corruptible</em> works <em>which</em> are therein shall be burned up.", 
+      "number": "10", 
+      "pageNumber": "802", 
+      "compareId": "jst-2-peter-3_v8", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "If then all these things shall be destroyed, what manner of persons ought ye to be in holy conduct and godliness,", 
+      "contentHtml": "<em>If</em> then all these things shall be <em>destroyed,</em> what manner of persons ought ye to be in holy <em>conduct</em> and godliness,", 
+      "number": "11", 
+      "pageNumber": "802", 
+      "compareId": "jst-2-peter-3_v9", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "Looking unto, and preparing for the day of the coming of the Lord wherein the corruptible things of the heavens being on fire, shall be dissolved, and the mountains shall melt with fervent heat?", 
+      "contentHtml": "Looking <em>unto,</em> and <em>preparing for the day of</em> the coming of the <em>Lord</em> wherein the <em>corruptible things of the</em> heavens being on fire, shall be dissolved, and the <em>mountains</em> shall melt with fervent heat?", 
+      "number": "12", 
+      "pageNumber": "802", 
+      "compareId": "jst-2-peter-3_v10", 
+      "churchId": "p12"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "Nevertheless, if we shall endure, we shall be kept according to his promise. And we look for a new heavens, and a new earth wherein dwelleth righteousness.", 
+      "contentHtml": "Nevertheless, <em>if we shall endure,</em> we <em>shall be kept</em> according to his promise. <em>And we</em> look for <em>a</em> new heavens, and a new earth wherein dwelleth righteousness.", 
+      "number": "13", 
+      "pageNumber": "802", 
+      "compareId": "jst-2-peter-3_v11", 
+      "churchId": "p13"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-1000-jst-2-peter-33-13-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-1000-jst-2-peter-33-13-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "name": "JST, Hebrews 7", 
+  "abbrev": null, 
+  "number": "7", 
+  "churchUri": "/scriptures/jst/jst-heb/7", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Hebrews 7:3. Compare Hebrews 7:3", 
+      "contentHtml": "<strong>JST, Hebrews 7:3.</strong> Compare Hebrews 7:3", 
+      "number": null, 
+      "pageNumber": "800", 
+      "compareId": "jst-hebrews-7_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "For this Melchizedek was ordained a priest after the order of the Son of God, which order was without father, without mother, without descent, having neither beginning of days, nor end of life. And all those who are ordained unto this priesthood are made like unto the Son of God, abiding a priest continually.", 
+      "contentHtml": "<em>For this Melchizedek was ordained a priest after the order of the Son of God, which order was</em> without father, without mother, without descent, having neither beginning of days, nor end of life. <em>And all those who are ordained unto this priesthood are</em> made like unto the Son of God, <em>abiding</em> a priest continually.", 
+      "number": "3", 
+      "pageNumber": "800", 
+      "compareId": "jst-hebrews-7_v1", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "section-title", 
+      "id": "st2", 
+      "content": "JST, Hebrews 7:19–21. Compare Hebrews 7:19–21", 
+      "contentHtml": "<strong>JST, Hebrews 7:19–21.</strong> Compare Hebrews 7:19–21", 
+      "number": null, 
+      "pageNumber": "800", 
+      "compareId": "jst-hebrews-7_st2", 
+      "churchId": "title2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "For the law was administered without an oath and made nothing perfect, but was only the bringing in of a better hope; by the which we draw nigh unto God.", 
+      "contentHtml": "For the law <em>was administered without an oath and</em> made nothing perfect, but <em>was only</em> the bringing in of a better hope; by the which we draw nigh unto God.", 
+      "number": "19", 
+      "pageNumber": "800", 
+      "compareId": "jst-hebrews-7_v2", 
+      "churchId": "p19"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "Inasmuch as this high priest was not without an oath, by so much was Jesus made the surety of a better testament.", 
+      "contentHtml": "Inasmuch as <em>this high priest was</em> not without an oath, <em>by so much was Jesus made the surety of a better testament.</em>", 
+      "number": "20", 
+      "pageNumber": "800", 
+      "compareId": "jst-hebrews-7_v3", 
+      "churchId": "p20"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "(For those priests were made without an oath; but this with an oath by him that said unto him, The Lord sware and will not repent, Thou art a priest forever after the order of Melchizedek;)", 
+      "contentHtml": "(For those priests were made without an oath; but this with an oath by him that said unto him, The Lord sware and will not repent, Thou art a priest forever after the order of Melchizedek;)", 
+      "number": "21", 
+      "pageNumber": "800", 
+      "compareId": "jst-hebrews-7_v4", 
+      "churchId": "p21"
+    }, 
+    {
+      "type": "section-title", 
+      "id": "st3", 
+      "content": "JST, Hebrews 7:25–26. Compare Hebrews 7:26–27", 
+      "contentHtml": "<strong>JST, Hebrews 7:25–26.</strong> Compare Hebrews 7:26–27", 
+      "number": null, 
+      "pageNumber": "800", 
+      "compareId": "jst-hebrews-7_st3", 
+      "churchId": "title3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "For such an high priest became us, who is holy, harmless, undefiled, separate from sinners, and made ruler over the heavens;", 
+      "contentHtml": "For such an high priest became us, who is holy, harmless, undefiled, separate from sinners, and made <em>ruler over</em> the heavens;", 
+      "number": "25", 
+      "pageNumber": "800", 
+      "compareId": "jst-hebrews-7_v5", 
+      "churchId": "p25"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "And not as those high priests who offered up sacrifice daily, first for their own sins, and then for the sins of the people; for he needeth not offer sacrifice for his own sins, for he knew no sins; but for the sins of the people. And this he did once, when he offered up himself.", 
+      "contentHtml": "<em>And not</em> as those high priests <em>who</em> offered up sacrifice <em>daily,</em> first for <em>their</em> own sins, and then for the <em>sins of the people;</em> for <em>he needeth not offer sacrifice for his own sins, for he knew no sins; but for the sins of the people. And</em> this he did once, when he offered up himself.", 
+      "number": "26", 
+      "pageNumber": "800", 
+      "compareId": "jst-hebrews-7_v6", 
+      "churchId": "p26"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0940-jst-hebrews-7-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0940-jst-hebrews-7-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

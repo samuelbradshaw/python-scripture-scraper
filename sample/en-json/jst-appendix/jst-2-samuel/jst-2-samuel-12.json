@@ -1,0 +1,52 @@
+{
+  "name": "JST, 2 Samuel 12", 
+  "abbrev": null, 
+  "number": "12", 
+  "churchUri": "/scriptures/jst/jst-2-sam/12", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, 2 Samuel 12:13. Compare 2 Samuel 12:13", 
+      "contentHtml": "<strong>JST, 2 Samuel 12:13.</strong> Compare 2 Samuel 12:13", 
+      "number": null, 
+      "pageNumber": null, 
+      "compareId": "jst-2-samuel-12_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "And David said unto Nathan, I have sinned against the Lord. And Nathan said unto David, The Lord also hath not put away thy sin that thou shalt not die.", 
+      "contentHtml": "And David said unto Nathan, I have sinned against the Lord. And Nathan said unto David, The Lord also hath <em>not</em> put away thy sin <em>that</em> thou shalt not die.", 
+      "number": "13", 
+      "pageNumber": null, 
+      "compareId": "jst-2-samuel-12_v1", 
+      "churchId": "p13"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0180-jst-2-samuel-1213-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0180-jst-2-samuel-1213-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "name": "JST, Matthew 21", 
+  "abbrev": null, 
+  "number": "21", 
+  "churchUri": "/scriptures/jst/jst-matt/21", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Matthew 21:33. Compare Matthew 21:32–33", 
+      "contentHtml": "<strong>JST, Matthew 21:33.</strong> Compare Matthew 21:32–33", 
+      "number": null, 
+      "pageNumber": "785", 
+      "compareId": "jst-matthew-21_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "For he that believed not John concerning me, cannot believe me, except he first repent.", 
+      "contentHtml": "<em>For he that believed not John concerning me, cannot believe me, except he first repent.</em>", 
+      "number": "33", 
+      "pageNumber": "785", 
+      "compareId": "jst-matthew-21_v1", 
+      "churchId": "p33"
+    }, 
+    {
+      "type": "section-title", 
+      "id": "st2", 
+      "content": "JST, Matthew 21:47–56. Compare Matthew 21:45–46", 
+      "contentHtml": "<strong>JST, Matthew 21:47–56.</strong> Compare Matthew 21:45–46", 
+      "number": null, 
+      "pageNumber": "785", 
+      "compareId": "jst-matthew-21_st2", 
+      "churchId": "title2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "And when the chief priests and Pharisees had heard his parables, they perceived that he spake of them.", 
+      "contentHtml": "And when the chief priests and Pharisees had heard his parables, they perceived that he spake of them.", 
+      "number": "47", 
+      "pageNumber": "785", 
+      "compareId": "jst-matthew-21_v2", 
+      "churchId": "p47"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "And they said among themselves, Shall this man think that he alone can spoil this great kingdom? And they were angry with him.", 
+      "contentHtml": "<em>And they said among themselves, Shall this man think that he alone can spoil this great kingdom? And they were angry with him.</em>", 
+      "number": "48", 
+      "pageNumber": "785,786", 
+      "compareId": "jst-matthew-21_v3", 
+      "churchId": "p48"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "But when they sought to lay hands on him, they feared the multitude, because they learned that the multitude took him for a prophet.", 
+      "contentHtml": "But when they sought to lay hands on him, they feared the multitude, because they <em>learned that the multitude</em> took him for a prophet.", 
+      "number": "49", 
+      "pageNumber": "786", 
+      "compareId": "jst-matthew-21_v4", 
+      "churchId": "p49"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "And now his disciples came to him, and Jesus said unto them, Marvel ye at the words of the parable which I spake unto them?", 
+      "contentHtml": "<em>And now his disciples came to him, and Jesus said unto them, Marvel ye at the words of the parable which I spake unto them?</em>", 
+      "number": "50", 
+      "pageNumber": "786", 
+      "compareId": "jst-matthew-21_v5", 
+      "churchId": "p50"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "Verily, I say unto you, I am the stone, and those wicked ones reject me.", 
+      "contentHtml": "<em>Verily, I say unto you, I am the stone, and those wicked ones reject me.</em>", 
+      "number": "51", 
+      "pageNumber": "786", 
+      "compareId": "jst-matthew-21_v6", 
+      "churchId": "p51"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "I am the head of the corner. These Jews shall fall upon me, and shall be broken.", 
+      "contentHtml": "<em>I am the head of the corner. These Jews shall fall upon me, and shall be broken.</em>", 
+      "number": "52", 
+      "pageNumber": "786", 
+      "compareId": "jst-matthew-21_v7", 
+      "churchId": "p52"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "And the kingdom of God shall be taken from them, and shall be given to a nation bringing forth the fruits thereof; (meaning the Gentiles.)", 
+      "contentHtml": "<em>And the kingdom of God shall be taken from them, and shall be given to a nation bringing forth the fruits thereof; (meaning the Gentiles.)</em>", 
+      "number": "53", 
+      "pageNumber": "786", 
+      "compareId": "jst-matthew-21_v8", 
+      "churchId": "p53"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "Wherefore, on whomsoever this stone shall fall, it shall grind him to powder.", 
+      "contentHtml": "<em>Wherefore, on whomsoever this stone shall fall, it shall grind him to powder.</em>", 
+      "number": "54", 
+      "pageNumber": "786", 
+      "compareId": "jst-matthew-21_v9", 
+      "churchId": "p54"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "And when the Lord therefore of the vineyard cometh, he will destroy those miserable, wicked men, and will let again his vineyard unto other husbandmen, even in the last days, who shall render him the fruits in their seasons.", 
+      "contentHtml": "<em>And when the Lord therefore of the vineyard cometh, he will destroy those miserable, wicked men, and will let again his vineyard unto other husbandmen, even in the last days, who shall render him the fruits in their seasons.</em>", 
+      "number": "55", 
+      "pageNumber": "786", 
+      "compareId": "jst-matthew-21_v10", 
+      "churchId": "p55"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "And then understood they the parable which he spake unto them, that the Gentiles should be destroyed also, when the Lord should descend out of heaven to reign in his vineyard, which is the earth and the inhabitants thereof.", 
+      "contentHtml": "<em>And then understood they the parable which he spake unto them, that the Gentiles should be destroyed also, when the Lord should descend out of heaven to reign in his vineyard, which is the earth and the inhabitants thereof.</em>", 
+      "number": "56", 
+      "pageNumber": "786", 
+      "compareId": "jst-matthew-21_v11", 
+      "churchId": "p56"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0420-jst-matthew-21-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0420-jst-matthew-21-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

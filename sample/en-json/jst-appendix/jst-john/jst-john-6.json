@@ -1,0 +1,52 @@
+{
+  "name": "JST, John 6", 
+  "abbrev": null, 
+  "number": "6", 
+  "churchUri": "/scriptures/jst/jst-john/6", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, John 6:44. Compare John 6:44", 
+      "contentHtml": "<strong>JST, John 6:44.</strong> Compare John 6:44", 
+      "number": null, 
+      "pageNumber": "794", 
+      "compareId": "jst-john-6_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "No man can come unto me, except he doeth the will of my Father who hath sent me. And this is the will of him who hath sent me, that ye receive the Son; for the Father beareth record of him; and he who receiveth the testimony, and doeth the will of him who sent me, I will raise up in the resurrection of the just.", 
+      "contentHtml": "No man can come unto me, except <em>he doeth the will of my</em> Father <em>who</em> hath sent me. <em>And this is the will of him who hath sent me, that ye receive the Son; for the Father beareth record of him; and he who receiveth the testimony, and doeth the will of him who sent me,</em> I will raise up <em>in the resurrection of the just.</em>", 
+      "number": "44", 
+      "pageNumber": "794", 
+      "compareId": "jst-john-6_v1", 
+      "churchId": "p44"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0700-jst-john-644-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0700-jst-john-644-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

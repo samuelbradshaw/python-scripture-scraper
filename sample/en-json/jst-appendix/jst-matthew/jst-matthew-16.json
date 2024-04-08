@@ -1,0 +1,92 @@
+{
+  "name": "JST, Matthew 16", 
+  "abbrev": null, 
+  "number": "16", 
+  "churchUri": "/scriptures/jst/jst-matt/16", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Matthew 16:25–29. Compare Matthew 16:24–26", 
+      "contentHtml": "<strong>JST, Matthew 16:25–29.</strong> Compare Matthew 16:24–26", 
+      "number": null, 
+      "pageNumber": "785", 
+      "compareId": "jst-matthew-16_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Then said Jesus unto his disciples, If any man will come after me, let him deny himself, and take up his cross and follow me.", 
+      "contentHtml": "Then said Jesus unto his disciples, If any man will come after me, let him deny himself, and take up his cross and follow me.", 
+      "number": "25", 
+      "pageNumber": "785", 
+      "compareId": "jst-matthew-16_v1", 
+      "churchId": "p25"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "And now for a man to take up his cross, is to deny himself all ungodliness, and every worldly lust, and keep my commandments.", 
+      "contentHtml": "<em>And now for a man to take up his cross, is to deny himself all ungodliness, and every worldly lust, and keep my commandments.</em>", 
+      "number": "26", 
+      "pageNumber": "785", 
+      "compareId": "jst-matthew-16_v2", 
+      "churchId": "p26"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "Break not my commandments for to save your lives; for whosoever will save his life in this world, shall lose it in the world to come.", 
+      "contentHtml": "<em>Break not my commandments for to save your lives;</em> for whosoever will save his life <em>in this world,</em> shall lose it <em>in the world to come.</em>", 
+      "number": "27", 
+      "pageNumber": "785", 
+      "compareId": "jst-matthew-16_v3", 
+      "churchId": "p27"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "And whosoever will lose his life in this world, for my sake, shall find it in the world to come.", 
+      "contentHtml": "And whosoever will lose his life <em>in this world,</em> for my sake, shall find it <em>in the world to come.</em>", 
+      "number": "28", 
+      "pageNumber": "785", 
+      "compareId": "jst-matthew-16_v4", 
+      "churchId": "p28"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "Therefore, forsake the world, and save your souls; for what is a man profited, if he shall gain the whole world, and lose his own soul? Or what shall a man give in exchange for his soul?", 
+      "contentHtml": "<em>Therefore, forsake the world, and save your souls;</em> for what is a man profited, if he shall gain the whole world, and lose his own soul? Or what shall a man give in exchange for his soul?", 
+      "number": "29", 
+      "pageNumber": "785", 
+      "compareId": "jst-matthew-16_v5", 
+      "churchId": "p29"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0380-jst-matthew-1625-29-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0380-jst-matthew-1625-29-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

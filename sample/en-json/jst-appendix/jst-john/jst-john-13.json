@@ -1,0 +1,72 @@
+{
+  "name": "JST, John 13", 
+  "abbrev": null, 
+  "number": "13", 
+  "churchUri": "/scriptures/jst/jst-john/13", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, John 13:8–10. Compare John 13:8–10", 
+      "contentHtml": "<strong>JST, John 13:8–10.</strong> Compare John 13:8–10", 
+      "number": null, 
+      "pageNumber": "794", 
+      "compareId": "jst-john-13_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Peter saith unto him, Thou needest not to wash my feet. Jesus answered him, If I wash thee not, thou hast no part with me.", 
+      "contentHtml": "Peter saith unto him, Thou <em>needest not to</em> wash my feet. Jesus answered him, If I wash thee not, thou hast no part with me.", 
+      "number": "8", 
+      "pageNumber": "795", 
+      "compareId": "jst-john-13_v1", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "Simon Peter saith unto him, Lord, not my feet only, but also my hands and my head.", 
+      "contentHtml": "Simon Peter saith unto him, Lord, not my feet only, but also my hands and my head.", 
+      "number": "9", 
+      "pageNumber": "795", 
+      "compareId": "jst-john-13_v2", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "Jesus saith to him, He that has washed his hands and his head, needeth not save to wash his feet, but is clean every whit; and ye are clean, but not all. Now this was the custom of the Jews under their law; wherefore, Jesus did this that the law might be fulfilled.", 
+      "contentHtml": "Jesus saith to him, He that <em>has</em> washed <em>his hands and his head,</em> needeth not save to wash his feet, but is clean every whit; and ye are clean, but not all. <em>Now this was the custom of the Jews under their law; wherefore, Jesus did this that the law might be fulfilled.</em>", 
+      "number": "10", 
+      "pageNumber": "795", 
+      "compareId": "jst-john-13_v3", 
+      "churchId": "p10"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0710-jst-john-138-10-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0710-jst-john-138-10-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "name": "JST, Exodus 4", 
+  "abbrev": null, 
+  "number": "4", 
+  "churchUri": "/scriptures/jst/jst-ex/4", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Exodus 4:21. Compare Exodus 4:21; 7:3, 13; 9:12; 10:1, 20, 27; 11:10; 14:4, 8, 17; Deuteronomy 2:30", 
+      "contentHtml": "<strong>JST, Exodus 4:21.</strong> Compare Exodus 4:21; 7:3, 13; 9:12; 10:1, 20, 27; 11:10; 14:4, 8, 17; Deuteronomy 2:30", 
+      "number": null, 
+      "pageNumber": null, 
+      "compareId": "jst-exodus-4_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "And the Lord said unto Moses, When thou goest to return into Egypt, see that thou do all those wonders before Pharaoh, which I have put in thine hand, and I will prosper thee; but Pharaoh will harden his heart, and he will not let the people go.", 
+      "contentHtml": "And the Lord said unto Moses, When thou goest to return into Egypt, see that thou do all those wonders before Pharaoh, which I have put in thine hand, <em>and I will prosper thee;</em> but <em>Pharaoh</em> will harden his heart, <em>and</em> he <em>will</em> not let the people go.", 
+      "number": "21", 
+      "pageNumber": null, 
+      "compareId": "jst-exodus-4_v1", 
+      "churchId": "p21"
+    }, 
+    {
+      "type": "section-title", 
+      "id": "st2", 
+      "content": "JST, Exodus 4:24–27. Compare Exodus 4:24–27", 
+      "contentHtml": "<strong>JST, Exodus 4:24–27.</strong> Compare Exodus 4:24–27", 
+      "number": null, 
+      "pageNumber": null, 
+      "compareId": "jst-exodus-4_st2", 
+      "churchId": "title2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "And it came to pass, that the Lord appeared unto him as he was in the way, by the inn. The Lord was angry with Moses, and his hand was about to fall upon him, to kill him; for he had not circumcised his son.", 
+      "contentHtml": "And it came to pass, <em>that the Lord appeared unto him as he was in</em> the way, <em>by</em> the inn. <em>The Lord was angry with Moses, and his hand was about to fall upon him,</em> to kill him; <em>for he had not circumcised his son.</em>", 
+      "number": "24", 
+      "pageNumber": null, 
+      "compareId": "jst-exodus-4_v2", 
+      "churchId": "p24"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "Then Zipporah took a sharp stone and circumcised her son, and cast the stone at his feet, and said, Surely thou art a bloody husband unto me.", 
+      "contentHtml": "Then Zipporah took a sharp stone and <em>circumcised</em> her son, and cast <em>the stone</em> at his feet, and said, Surely <em>thou art</em> a bloody husband unto me.", 
+      "number": "25", 
+      "pageNumber": null, 
+      "compareId": "jst-exodus-4_v3", 
+      "churchId": "p25"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "And the Lord spared Moses and let him go, because Zipporah, his wife, circumcised the child. And she said, Thou art a bloody husband. And Moses was ashamed, and hid his face from the Lord, and said, I have sinned before the Lord.", 
+      "contentHtml": "<em>And the Lord spared Moses and</em> let him go, <em>because Zipporah, his wife, circumcised the child. And</em> she said, Thou art a bloody husband. <em>And Moses was ashamed, and hid his face from the Lord, and said, I have sinned before the Lord.</em>", 
+      "number": "26", 
+      "pageNumber": null, 
+      "compareId": "jst-exodus-4_v4", 
+      "churchId": "p26"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "And the Lord said unto Aaron, Go into the wilderness to meet Moses, and he went and met him, in the mount of God; in the mount where God appeared unto him; and Aaron kissed him.", 
+      "contentHtml": "And the Lord said unto Aaron, Go into the wilderness to meet Moses, and he went and met him, in the mount of God; <em>in the mount where God appeared unto him;</em> and <em>Aaron</em> kissed him.", 
+      "number": "27", 
+      "pageNumber": null, 
+      "compareId": "jst-exodus-4_v5", 
+      "churchId": "p27"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0100-jst-exodus-4-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0100-jst-exodus-4-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "name": "JST, Matthew 18", 
+  "abbrev": null, 
+  "number": "18", 
+  "churchUri": "/scriptures/jst/jst-matt/18", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Matthew 18:11. Compare Matthew 18:11; see also Moroni 8", 
+      "contentHtml": "<strong>JST, Matthew 18:11.</strong> Compare Matthew 18:11; see also Moroni 8", 
+      "number": null, 
+      "pageNumber": "785", 
+      "compareId": "jst-matthew-18_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "For the Son of man is come to save that which was lost, and to call sinners to repentance; but these little ones have no need of repentance, and I will save them.", 
+      "contentHtml": "For the Son of man is come to save that which was lost, <em>and to call sinners to repentance; but these little ones have no need of repentance, and I will save them.</em>", 
+      "number": "11", 
+      "pageNumber": "785", 
+      "compareId": "jst-matthew-18_v1", 
+      "churchId": "p11"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0400-jst-matthew-1811-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0400-jst-matthew-1811-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "name": "JST, 1 Chronicles 21", 
+  "abbrev": null, 
+  "number": "21", 
+  "churchUri": "/scriptures/jst/jst-1-chr/21", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, 1 Chronicles 21:15. Compare 1 Chronicles 21:15", 
+      "contentHtml": "<strong>JST, 1 Chronicles 21:15.</strong> Compare 1 Chronicles 21:15", 
+      "number": null, 
+      "pageNumber": "778", 
+      "compareId": "jst-1-chronicles-21_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "And God sent an angel unto Jerusalem to destroy it. And the angel stretched forth his hand unto Jerusalem to destroy it; and God said to the angel, Stay now thine hand, it is enough; for as he was destroying, the Lord beheld Israel, that he repented him of the evil; therefore the Lord stayed the angel that destroyed, as he stood by the threshing floor of Ornan, the Jebusite.", 
+      "contentHtml": "And God sent an angel unto Jerusalem to destroy it. <em>And the angel stretched forth his hand unto Jerusalem to destroy it; and God said to the angel, Stay now thine hand, it is enough; for</em> as he was destroying, the Lord beheld <em>Israel, that</em> he repented him of the evil; <em>therefore the Lord stayed</em> the angel that destroyed, <em>as he</em> stood by the threshing floor of Ornan, the Jebusite.", 
+      "number": "15", 
+      "pageNumber": "778,779", 
+      "compareId": "jst-1-chronicles-21_v1", 
+      "churchId": "p15"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0190-jst-1-chronicles-2115-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0190-jst-1-chronicles-2115-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

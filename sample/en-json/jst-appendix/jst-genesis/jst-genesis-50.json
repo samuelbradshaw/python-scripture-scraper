@@ -1,0 +1,192 @@
+{
+  "name": "JST, Genesis 50", 
+  "abbrev": null, 
+  "number": "50", 
+  "churchUri": "/scriptures/jst/jst-gen/50", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Genesis 50:24–38. Compare Genesis 50:24–26; 2 Nephi 3:4–22", 
+      "contentHtml": "<strong>JST, Genesis 50:24–38.</strong> Compare Genesis 50:24–26; 2 Nephi 3:4–22", 
+      "number": null, 
+      "pageNumber": "775", 
+      "compareId": "jst-genesis-50_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "And Joseph said unto his brethren, I die, and go unto my fathers; and I go down to my grave with joy. The God of my father Jacob be with you, to deliver you out of affliction in the days of your bondage; for the Lord hath visited me, and I have obtained a promise of the Lord, that out of the fruit of my loins, the Lord God will raise up a righteous branch out of my loins; and unto thee, whom my father Jacob hath named Israel, a prophet; (not the Messiah who is called Shilo;) and this prophet shall deliver my people out of Egypt in the days of thy bondage.", 
+      "contentHtml": "And Joseph said unto his brethren, I die, <em>and go unto my fathers; and I go down to my grave with joy. The God of my father Jacob be with you, to deliver you out of affliction in the days of your bondage; for the Lord hath visited me, and I have obtained a promise of the Lord, that out of the fruit of my loins, the Lord God will raise up a righteous branch out of my loins; and unto thee, whom my father Jacob hath named Israel, a prophet; (not the Messiah who is called Shilo;) and this prophet shall deliver my people out of Egypt in the days of thy bondage.</em>", 
+      "number": "24", 
+      "pageNumber": "775", 
+      "compareId": "jst-genesis-50_v1", 
+      "churchId": "p24"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "And it shall come to pass that they shall be scattered again; and a branch shall be broken off, and shall be carried into a far country; nevertheless they shall be remembered in the covenants of the Lord, when the Messiah cometh; for he shall be made manifest unto them in the latter days, in the Spirit of power; and shall bring them out of darkness into light; out of hidden darkness, and out of captivity unto freedom.", 
+      "contentHtml": "<em>And it shall come to pass that they shall be scattered again; and a branch shall be broken off, and shall be carried into a far country; nevertheless they shall be remembered in the covenants of the Lord, when the Messiah cometh; for he shall be made manifest unto them in the latter days, in the Spirit of power; and shall bring them out of darkness into light; out of hidden darkness, and out of captivity unto freedom.</em>", 
+      "number": "25", 
+      "pageNumber": "775,776", 
+      "compareId": "jst-genesis-50_v2", 
+      "churchId": "p25"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "A seer shall the Lord my God raise up, who shall be a choice seer unto the fruit of my loins.", 
+      "contentHtml": "<em>A seer shall the Lord my God raise up, who shall be a choice seer unto the fruit of my loins.</em>", 
+      "number": "26", 
+      "pageNumber": "776", 
+      "compareId": "jst-genesis-50_v3", 
+      "churchId": "p26"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "Thus saith the Lord God of my fathers unto me, A choice seer will I raise up out of the fruit of thy loins, and he shall be esteemed highly among the fruit of thy loins; and unto him will I give commandment that he shall do a work for the fruit of thy loins, his brethren.", 
+      "contentHtml": "<em>Thus saith the Lord God of my fathers unto me, A choice seer will I raise up out of the fruit of thy loins, and he shall be esteemed highly among the fruit of thy loins; and unto him will I give commandment that he shall do a work for the fruit of thy loins, his brethren.</em>", 
+      "number": "27", 
+      "pageNumber": "776", 
+      "compareId": "jst-genesis-50_v4", 
+      "churchId": "p27"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "And he shall bring them to the knowledge of the covenants which I have made with thy fathers; and he shall do whatsoever work I shall command him.", 
+      "contentHtml": "<em>And he shall bring them to the knowledge of the covenants which I have made with thy fathers; and he shall do whatsoever work I shall command him.</em>", 
+      "number": "28", 
+      "pageNumber": "776", 
+      "compareId": "jst-genesis-50_v5", 
+      "churchId": "p28"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "And I will make him great in mine eyes, for he shall do my work; and he shall be great like unto him whom I have said I would raise up unto you, to deliver my people, O house of Israel, out of the land of Egypt; for a seer will I raise up to deliver my people out of the land of Egypt; and he shall be called Moses. And by this name he shall know that he is of thy house; for he shall be nursed by the king’s daughter, and shall be called her son.", 
+      "contentHtml": "<em>And I will make him great in mine eyes, for he shall do my work; and he shall be great like unto him whom I have said I would raise up unto you, to deliver my people, O house of Israel, out of the land of Egypt; for a seer will I raise up to deliver my people out of the land of Egypt; and he shall be called Moses. And by this name he shall know that he is of thy house; for he shall be nursed by the king’s daughter, and shall be called her son.</em>", 
+      "number": "29", 
+      "pageNumber": "776", 
+      "compareId": "jst-genesis-50_v6", 
+      "churchId": "p29"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "And again, a seer will I raise up out of the fruit of thy loins, and unto him will I give power to bring forth my word unto the seed of thy loins; and not to the bringing forth of my word only, saith the Lord, but to the convincing them of my word, which shall have already gone forth among them in the last days;", 
+      "contentHtml": "<em>And again, a seer will I raise up out of the fruit of thy loins, and unto him will I give power to bring forth my word unto the seed of thy loins; and not to the bringing forth of my word only, saith the Lord, but to the convincing them of my word, which shall have already gone forth among them in the last days;</em>", 
+      "number": "30", 
+      "pageNumber": "776", 
+      "compareId": "jst-genesis-50_v7", 
+      "churchId": "p30"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "Wherefore the fruit of thy loins shall write, and the fruit of the loins of Judah shall write; and that which shall be written by the fruit of thy loins, and also that which shall be written by the fruit of the loins of Judah, shall grow together unto the confounding of false doctrines, and laying down of contentions, and establishing peace among the fruit of thy loins, and bringing them to a knowledge of their fathers in the latter days; and also to the knowledge of my covenants, saith the Lord.", 
+      "contentHtml": "<em>Wherefore the fruit of thy loins shall write, and the fruit of the loins of Judah shall write; and that which shall be written by the fruit of thy loins, and also that which shall be written by the fruit of the loins of Judah, shall grow together unto the confounding of false doctrines, and laying down of contentions, and establishing peace among the fruit of thy loins, and bringing them to a knowledge of their fathers in the latter days; and also to the knowledge of my covenants, saith the Lord.</em>", 
+      "number": "31", 
+      "pageNumber": "776", 
+      "compareId": "jst-genesis-50_v8", 
+      "churchId": "p31"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "And out of weakness shall he be made strong, in that day when my work shall go forth among all my people, which shall restore them, who are of the house of Israel, in the last days.", 
+      "contentHtml": "<em>And out of weakness shall he be made strong, in that day when my work shall go forth among all my people, which shall restore them, who are of the house of Israel, in the last days.</em>", 
+      "number": "32", 
+      "pageNumber": "776", 
+      "compareId": "jst-genesis-50_v9", 
+      "churchId": "p32"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "And that seer will I bless, and they that seek to destroy him shall be confounded; for this promise I give unto you; for I will remember you from generation to generation; and his name shall be called Joseph, and it shall be after the name of his father; and he shall be like unto you; for the thing which the Lord shall bring forth by his hand shall bring my people unto salvation.", 
+      "contentHtml": "<em>And that seer will I bless, and they that seek to destroy him shall be confounded; for this promise I give unto you; for I will remember you from generation to generation; and his name shall be called Joseph, and it shall be after the name of his father; and he shall be like unto you; for the thing which the Lord shall bring forth by his hand shall bring my people unto salvation.</em>", 
+      "number": "33", 
+      "pageNumber": "776", 
+      "compareId": "jst-genesis-50_v10", 
+      "churchId": "p33"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "And the Lord sware unto Joseph that he would preserve his seed forever, saying, I will raise up Moses, and a rod shall be in his hand, and he shall gather together my people, and he shall lead them as a flock, and he shall smite the waters of the Red Sea with his rod.", 
+      "contentHtml": "<em>And the Lord sware unto Joseph that he would preserve his seed forever, saying, I will raise up Moses, and a rod shall be in his hand, and he shall gather together my people, and he shall lead them as a flock, and he shall smite the waters of the Red Sea with his rod.</em>", 
+      "number": "34", 
+      "pageNumber": "776", 
+      "compareId": "jst-genesis-50_v11", 
+      "churchId": "p34"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "And he shall have judgment, and shall write the word of the Lord. And he shall not speak many words, for I will write unto him my law by the finger of mine own hand. And I will make a spokesman for him, and his name shall be called Aaron.", 
+      "contentHtml": "<em>And he shall have judgment, and shall write the word of the Lord. And he shall not speak many words, for I will write unto him my law by the finger of mine own hand. And I will make a spokesman for him, and his name shall be called Aaron.</em>", 
+      "number": "35", 
+      "pageNumber": "776", 
+      "compareId": "jst-genesis-50_v12", 
+      "churchId": "p35"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v13", 
+      "content": "And it shall be done unto thee in the last days also, even as I have sworn. Therefore, Joseph said unto his brethren, God will surely visit you, and bring you out of this land, unto the land which he sware unto Abraham, and unto Isaac, and to Jacob.", 
+      "contentHtml": "<em>And it shall be done unto thee in the last days also, even as I have sworn. Therefore,</em> Joseph said unto his brethren, God will surely visit you, and bring you out of this land, unto the land which he sware unto Abraham, and unto Isaac, and to Jacob.", 
+      "number": "36", 
+      "pageNumber": "776", 
+      "compareId": "jst-genesis-50_v13", 
+      "churchId": "p36"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v14", 
+      "content": "And Joseph confirmed many other things unto his brethren, and took an oath of the children of Israel, saying unto them, God will surely visit you, and ye shall carry up my bones from hence.", 
+      "contentHtml": "And Joseph <em>confirmed many other things unto his brethren, and</em> took an oath of the children of Israel, saying unto them, God will surely visit you, and ye shall carry up my bones from hence.", 
+      "number": "37", 
+      "pageNumber": "776", 
+      "compareId": "jst-genesis-50_v14", 
+      "churchId": "p37"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v15", 
+      "content": "So Joseph died when he was an hundred and ten years old; and they embalmed him, and they put him in a coffin in Egypt; and he was kept from burial by the children of Israel, that he might be carried up and laid in the sepulchre with his father. And thus they remembered the oath which they sware unto him.", 
+      "contentHtml": "So Joseph died <em>when he was</em> an hundred and ten years old; and they embalmed him, and <em>they</em> put him in a coffin in Egypt; <em>and he was kept from burial by the children of Israel, that he might be carried up and laid in the sepulchre with his father. And thus they remembered the oath which they sware unto him.</em>", 
+      "number": "38", 
+      "pageNumber": "776,777", 
+      "compareId": "jst-genesis-50_v15", 
+      "churchId": "p38"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0090-jst-genesis-5024-38-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0090-jst-genesis-5024-38-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "name": "JST, Revelation 12", 
+  "abbrev": null, 
+  "number": "12", 
+  "churchUri": "/scriptures/jst/jst-rev/12", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Revelation 12:1–17. Compare Revelation 12:1–17", 
+      "contentHtml": "<strong>JST, Revelation 12:1–17.</strong> Compare Revelation 12:1–17", 
+      "number": null, 
+      "pageNumber": "803", 
+      "compareId": "jst-revelation-12_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "And there appeared a great sign in heaven, in the likeness of things on the earth; a woman clothed with the sun, and the moon under her feet, and upon her head a crown of twelve stars.", 
+      "contentHtml": "And there appeared a great <em>sign</em> in heaven, <em>in the likeness of things on the earth;</em> a woman clothed with the sun, and the moon under her feet, and upon her head a crown of twelve stars.", 
+      "number": "1", 
+      "pageNumber": "803", 
+      "compareId": "jst-revelation-12_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "And the woman being with child, cried, travailing in birth, and pained to be delivered.", 
+      "contentHtml": "And <em>the woman</em> being with child, cried, travailing in birth, and pained to be delivered.", 
+      "number": "2", 
+      "pageNumber": "803", 
+      "compareId": "jst-revelation-12_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "And she brought forth a man child, who was to rule all nations with a rod of iron; and her child was caught up unto God and his throne.", 
+      "contentHtml": "<em>And she brought forth a man child, who was to rule all nations with a rod of iron; and her child was caught up unto God and his throne.</em>", 
+      "number": "3", 
+      "pageNumber": "803", 
+      "compareId": "jst-revelation-12_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "And there appeared another sign in heaven; and behold, a great red dragon, having seven heads and ten horns, and seven crowns upon his heads. And his tail drew the third part of the stars of heaven, and did cast them to the earth. And the dragon stood before the woman which was delivered, ready to devour her child after it was born.", 
+      "contentHtml": "And there appeared another <em>sign</em> in heaven; and behold, a great red dragon, having seven heads and ten horns, and seven crowns upon his heads. And his tail drew the third part of the stars of heaven, and did cast them to the earth. And the dragon stood before the woman which was delivered, <em>ready</em> to devour her child <em>after</em> it was born.", 
+      "number": "4", 
+      "pageNumber": "803", 
+      "compareId": "jst-revelation-12_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "And the woman fled into the wilderness, where she had a place prepared of God, that they should feed her there a thousand two hundred and threescore years.", 
+      "contentHtml": "And the woman fled into the wilderness, where she <em>had</em> a place prepared of God, that they should feed her there a thousand two hundred and threescore <em>years.</em>", 
+      "number": "5", 
+      "pageNumber": "803", 
+      "compareId": "jst-revelation-12_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "And there was war in heaven; Michael and his angels fought against the dragon; and the dragon and his angels fought against Michael;", 
+      "contentHtml": "And there was war in heaven; Michael and his angels fought against the dragon; and the dragon and his angels <em>fought against Michael;</em>", 
+      "number": "6", 
+      "pageNumber": "803", 
+      "compareId": "jst-revelation-12_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "And the dragon prevailed not against Michael, neither the child, nor the woman which was the church of God, who had been delivered of her pains, and brought forth the kingdom of our God and his Christ.", 
+      "contentHtml": "And <em>the dragon</em> prevailed not <em>against Michael, neither the child, nor the woman which was the church of God, who had been delivered of her pains, and brought forth the kingdom of our God and his Christ.</em>", 
+      "number": "7", 
+      "pageNumber": "803", 
+      "compareId": "jst-revelation-12_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "Neither was there place found in heaven for the great dragon, who was cast out; that old serpent called the devil, and also called Satan, which deceiveth the whole world; he was cast out into the earth; and his angels were cast out with him.", 
+      "contentHtml": "Neither was <em>there</em> place found in heaven <em>for</em> the great dragon, <em>who</em> was cast out; that old serpent called the devil, and <em>also called</em> Satan, which deceiveth the whole world; he was cast out into the earth; and his angels were cast out with him.", 
+      "number": "8", 
+      "pageNumber": "803", 
+      "compareId": "jst-revelation-12_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "And I heard a loud voice saying in heaven, Now is come salvation, and strength, and the kingdom of our God, and the power of his Christ;", 
+      "contentHtml": "And I heard a loud voice saying in heaven, Now is come salvation, and strength, and the kingdom of our God, and the power of his Christ;", 
+      "number": "9", 
+      "pageNumber": "804", 
+      "compareId": "jst-revelation-12_v9", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "For the accuser of our brethren is cast down, which accused them before our God day and night.", 
+      "contentHtml": "For the accuser of our brethren is cast down, which accused them before our God day and night.", 
+      "number": "10", 
+      "pageNumber": "804", 
+      "compareId": "jst-revelation-12_v10", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "For they have overcome him by the blood of the Lamb, and by the word of their testimony; for they loved not their own lives, but kept the testimony even unto death. Therefore, rejoice O heavens, and ye that dwell in them.", 
+      "contentHtml": "<em>For</em> they <em>have overcome</em> him by the blood of the Lamb, and by the word of their testimony; <em>for</em> they loved not their own lives, <em>but kept the testimony even</em> unto death. Therefore, rejoice O heavens, and ye that dwell in them.", 
+      "number": "11", 
+      "pageNumber": "804", 
+      "compareId": "jst-revelation-12_v11", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "And after these things I heard another voice saying, Woe to the inhabiters of the earth, yea, and they who dwell upon the islands of the sea! for the devil is come down unto you, having great wrath, because he knoweth that he hath but a short time.", 
+      "contentHtml": "<em>And after these things I heard another voice saying,</em> Woe to the inhabiters of the earth, <em>yea,</em> and <em>they who dwell upon the islands</em> of the sea! for the devil is come down unto you, having great wrath, because he knoweth that he hath but a short time.", 
+      "number": "12", 
+      "pageNumber": "804", 
+      "compareId": "jst-revelation-12_v12", 
+      "churchId": "p12"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v13", 
+      "content": "For when the dragon saw that he was cast unto the earth, he persecuted the woman which brought forth the man-child.", 
+      "contentHtml": "<em>For</em> when the dragon saw that he was cast unto the earth, he persecuted the woman which brought forth the man-child.", 
+      "number": "13", 
+      "pageNumber": "804", 
+      "compareId": "jst-revelation-12_v13", 
+      "churchId": "p13"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v14", 
+      "content": "Therefore, to the woman were given two wings of a great eagle, that she might flee into the wilderness, into her place, where she is nourished for a time, and times, and half a time, from the face of the serpent.", 
+      "contentHtml": "<em>Therefore,</em> to the woman were given two wings of a great eagle, that she might <em>flee</em> into the wilderness, into her place, where she is nourished for a time, and times, and half a time, from the face of the serpent.", 
+      "number": "14", 
+      "pageNumber": "804", 
+      "compareId": "jst-revelation-12_v14", 
+      "churchId": "p14"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v15", 
+      "content": "And the serpent casteth out of his mouth water as a flood after the woman, that he might cause her to be carried away of the flood.", 
+      "contentHtml": "And the serpent casteth out of his mouth water as a flood after the woman, that he might cause her to be carried away of the flood.", 
+      "number": "15", 
+      "pageNumber": "804", 
+      "compareId": "jst-revelation-12_v15", 
+      "churchId": "p15"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v16", 
+      "content": "And the earth helpeth the woman, and the earth openeth her mouth, and swalloweth up the flood which the dragon casteth out of his mouth.", 
+      "contentHtml": "And the earth <em>helpeth</em> the woman, and the earth <em>openeth</em> her mouth, and <em>swalloweth</em> up the flood which the dragon <em>casteth</em> out of his mouth.", 
+      "number": "16", 
+      "pageNumber": "804", 
+      "compareId": "jst-revelation-12_v16", 
+      "churchId": "p16"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v17", 
+      "content": "Therefore, the dragon was wroth with the woman, and went to make war with the remnant of her seed, which keep the commandments of God, and have the testimony of Jesus Christ.", 
+      "contentHtml": "<em>Therefore,</em> the dragon was wroth with the woman, and went to make war with the remnant of her seed, which keep the commandments of God, and have the testimony of Jesus Christ.", 
+      "number": "17", 
+      "pageNumber": "804", 
+      "compareId": "jst-revelation-12_v17", 
+      "churchId": "p17"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-1070-jst-revelation-121-17-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-1070-jst-revelation-121-17-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

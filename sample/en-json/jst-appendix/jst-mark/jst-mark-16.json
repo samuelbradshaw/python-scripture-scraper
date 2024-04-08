@@ -1,0 +1,82 @@
+{
+  "name": "JST, Mark 16", 
+  "abbrev": null, 
+  "number": "16", 
+  "churchUri": "/scriptures/jst/jst-mark/16", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Mark 16:3–6. Compare Mark 16:4–7; Luke 24:2–4", 
+      "contentHtml": "<strong>JST, Mark 16:3–6.</strong> Compare Mark 16:4–7; Luke 24:2–4", 
+      "number": null, 
+      "pageNumber": "788", 
+      "compareId": "jst-mark-16_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "But when they looked, they saw that the stone was rolled away, (for it was very great,) and two angels sitting thereon, clothed in long white garments; and they were affrighted.", 
+      "contentHtml": "<em>But</em> when they looked, they saw that the stone was rolled away, (for it was very great,) <em>and two angels sitting thereon,</em> clothed in long white <em>garments;</em> and they were affrighted.", 
+      "number": "3", 
+      "pageNumber": "788", 
+      "compareId": "jst-mark-16_v1", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "But the angels said unto them, Be not affrighted; ye seek Jesus of Nazareth, who was crucified; he is risen; he is not here; behold the place where they laid him;", 
+      "contentHtml": "<em>But the angels said</em> unto them, Be not affrighted; ye seek Jesus of Nazareth, <em>who</em> was crucified; he is risen; he is not here; behold the place where they laid him;", 
+      "number": "4", 
+      "pageNumber": "788", 
+      "compareId": "jst-mark-16_v2", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "And go your way, tell his disciples and Peter, that he goeth before you into Galilee; there shall ye see him as he said unto you.", 
+      "contentHtml": "<em>And</em> go your way, tell his disciples and Peter, that he goeth before you into Galilee; there shall ye see him as he said unto you.", 
+      "number": "5", 
+      "pageNumber": "788", 
+      "compareId": "jst-mark-16_v3", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "And they, entering into the sepulcher, saw the place where they laid Jesus.", 
+      "contentHtml": "<em>And they, entering into the sepulcher, saw the place where they laid Jesus.</em>", 
+      "number": "6", 
+      "pageNumber": "789", 
+      "compareId": "jst-mark-16_v4", 
+      "churchId": "p6"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0530-jst-mark-163-6-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0530-jst-mark-163-6-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

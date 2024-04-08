@@ -1,0 +1,72 @@
+{
+  "name": "JST, Luke 24", 
+  "abbrev": null, 
+  "number": "24", 
+  "churchUri": "/scriptures/jst/jst-luke/24", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Luke 24:2–4. Compare Luke 24:2–5", 
+      "contentHtml": "<strong>JST, Luke 24:2–4.</strong> Compare Luke 24:2–5", 
+      "number": null, 
+      "pageNumber": "792", 
+      "compareId": "jst-luke-24_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "And they found the stone rolled away from the sepulcher, and two angels standing by it in shining garments.", 
+      "contentHtml": "And they found the stone rolled away from the sepulcher, <em>and two angels standing by it in shining garments.</em>", 
+      "number": "2", 
+      "pageNumber": "792", 
+      "compareId": "jst-luke-24_v1", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "And they entered into the sepulcher, and not finding the body of the Lord Jesus, they were much perplexed thereabout;", 
+      "contentHtml": "And they entered <em>into the sepulcher,</em> and <em>not finding</em> the body of the Lord Jesus, they were much perplexed thereabout;", 
+      "number": "3", 
+      "pageNumber": "792", 
+      "compareId": "jst-luke-24_v2", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "And were affrighted, and bowed down their faces to the earth. But behold the angels said unto them, Why seek ye the living among the dead?", 
+      "contentHtml": "And were <em>affrighted,</em> and bowed down their faces to the earth. <em>But behold the angels</em> said unto them, Why seek ye the living among the dead?", 
+      "number": "4", 
+      "pageNumber": "792,793", 
+      "compareId": "jst-luke-24_v3", 
+      "churchId": "p4"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0670-jst-luke-242-4-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0670-jst-luke-242-4-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

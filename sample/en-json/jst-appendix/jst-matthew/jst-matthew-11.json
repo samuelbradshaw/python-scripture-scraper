@@ -1,0 +1,72 @@
+{
+  "name": "JST, Matthew 11", 
+  "abbrev": null, 
+  "number": "11", 
+  "churchUri": "/scriptures/jst/jst-matt/11", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Matthew 11:13–15. Compare Matthew 11:10–11, 13–14", 
+      "contentHtml": "<strong>JST, Matthew 11:13–15.</strong> Compare Matthew 11:10–11, 13–14", 
+      "number": null, 
+      "pageNumber": "784", 
+      "compareId": "jst-matthew-11_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "But the days will come, when the violent shall have no power; for all the prophets and the law prophesied that it should be thus until John.", 
+      "contentHtml": "<em>But the days will come, when the violent shall have no power;</em> for all the prophets and the law prophesied <em>that it should be thus</em> until John.", 
+      "number": "13", 
+      "pageNumber": "784", 
+      "compareId": "jst-matthew-11_v1", 
+      "churchId": "p13"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "Yea, as many as have prophesied have foretold of these days.", 
+      "contentHtml": "<em>Yea, as many as have prophesied have foretold of these days.</em>", 
+      "number": "14", 
+      "pageNumber": "784", 
+      "compareId": "jst-matthew-11_v2", 
+      "churchId": "p14"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "And if ye will receive it, verily, he was the Elias, who was for to come and prepare all things.", 
+      "contentHtml": "And if ye will receive it, <em>verily, he was the</em> Elias, <em>who</em> was for to come <em>and prepare all things.</em>", 
+      "number": "15", 
+      "pageNumber": "784", 
+      "compareId": "jst-matthew-11_v3", 
+      "churchId": "p15"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0350-jst-matthew-1113-15-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0350-jst-matthew-1113-15-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

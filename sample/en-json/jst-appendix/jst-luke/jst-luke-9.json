@@ -1,0 +1,62 @@
+{
+  "name": "JST, Luke 9", 
+  "abbrev": null, 
+  "number": "9", 
+  "churchUri": "/scriptures/jst/jst-luke/9", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Luke 9:24–25. Compare Luke 9:24–25", 
+      "contentHtml": "<strong>JST, Luke 9:24–25.</strong> Compare Luke 9:24–25", 
+      "number": null, 
+      "pageNumber": "789,790", 
+      "compareId": "jst-luke-9_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "For whosoever will save his life, must be willing to lose it for my sake; and whosoever will be willing to lose his life for my sake, the same shall save it.", 
+      "contentHtml": "For whosoever will save his life, <em>must be willing to</em> lose it <em>for my sake; and</em> whosoever will <em>be willing to</em> lose his life for my sake, the same shall save it.", 
+      "number": "24", 
+      "pageNumber": "790", 
+      "compareId": "jst-luke-9_v1", 
+      "churchId": "p24"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "For what doth it profit a man if he gain the whole world, and yet he receive him not whom God hath ordained, and he lose his own soul, and he himself be a castaway?", 
+      "contentHtml": "For what <em>doth it profit a man</em> if he gain the whole world, <em>and yet he receive him not whom God hath ordained, and he</em> lose <em>his own soul, and he</em> himself be <em>a</em> castaway?", 
+      "number": "25", 
+      "pageNumber": "790", 
+      "compareId": "jst-luke-9_v2", 
+      "churchId": "p25"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0580-jst-luke-924-25-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0580-jst-luke-924-25-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "name": "JST, Romans 4", 
+  "abbrev": null, 
+  "number": "4", 
+  "churchUri": "/scriptures/jst/jst-rom/4", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Romans 4:2–5. Compare Romans 4:2–5", 
+      "contentHtml": "<strong>JST, Romans 4:2–5.</strong> Compare Romans 4:2–5", 
+      "number": null, 
+      "pageNumber": "795", 
+      "compareId": "jst-romans-4_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "For if Abraham were justified by the law of works, he hath to glory in himself; but not of God.", 
+      "contentHtml": "For if Abraham were justified by <em>the law of</em> works, he hath to glory <em>in himself;</em> but not <em>of</em> God.", 
+      "number": "2", 
+      "pageNumber": "795", 
+      "compareId": "jst-romans-4_v1", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "For what saith the scripture? Abraham believed God, and it was counted unto him for righteousness.", 
+      "contentHtml": "For what saith the scripture? Abraham believed God, and it was counted unto him for righteousness.", 
+      "number": "3", 
+      "pageNumber": "795", 
+      "compareId": "jst-romans-4_v2", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "Now to him who is justified by the law of works, is the reward reckoned, not of grace, but of debt.", 
+      "contentHtml": "Now to him <em>who is justified by the law of works,</em> is the reward reckoned, not of grace, but of debt.", 
+      "number": "4", 
+      "pageNumber": "795", 
+      "compareId": "jst-romans-4_v3", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "But to him that seeketh not to be justified by the law of works, but believeth on him who justifieth not the ungodly, his faith is counted for righteousness.", 
+      "contentHtml": "But to him that <em>seeketh not to be justified by the law of works,</em> but believeth on him who justifieth <em>not</em> the ungodly, his faith is counted for righteousness.", 
+      "number": "5", 
+      "pageNumber": "795", 
+      "compareId": "jst-romans-4_v4", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "section-title", 
+      "id": "st2", 
+      "content": "JST, Romans 4:16. Compare Romans 4:16", 
+      "contentHtml": "<strong>JST, Romans 4:16.</strong> Compare Romans 4:16", 
+      "number": null, 
+      "pageNumber": "795", 
+      "compareId": "jst-romans-4_st2", 
+      "churchId": "title2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "Therefore ye are justified of faith and works, through grace, to the end the promise might be sure to all the seed; not to them only who are of the law, but to them also who are of the faith of Abraham; who is the father of us all,", 
+      "contentHtml": "Therefore <em>ye are justified</em> of faith <em>and works, through</em> grace, to the end the promise might be sure to all the seed; not to <em>them</em> only <em>who are</em> of the law, but to <em>them</em> also <em>who are</em> of the faith of Abraham; who is the father of us all,", 
+      "number": "16", 
+      "pageNumber": "795,796", 
+      "compareId": "jst-romans-4_v5", 
+      "churchId": "p16"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0760-jst-romans-4-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0760-jst-romans-4-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

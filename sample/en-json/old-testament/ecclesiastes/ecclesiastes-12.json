@@ -158,23 +158,25 @@
   "media": [
     {
       "type": "audio", 
-      "subtype": "female", 
+      "subtype": "spoken-female", 
       "url": "https://media2.ldscdn.org/assets/scriptures/the-old-testament/2015-11-6710-ecclesiastes-12-female-voice-64k-eng.mp3", 
-      "id": null, 
-      "thumbUrl": null, 
+      "imageUrl": null, 
       "startSeconds": null, 
       "endSeconds": null, 
-      "source": "ChurchofJesusChrist.org"
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
     }, 
     {
       "type": "audio", 
-      "subtype": "male", 
+      "subtype": "spoken-male", 
       "url": "https://media2.ldscdn.org/assets/scriptures/the-old-testament/2015-11-6710-ecclesiastes-12-male-voice-64k-eng.mp3", 
-      "id": null, 
-      "thumbUrl": null, 
+      "imageUrl": null, 
       "startSeconds": null, 
       "endSeconds": null, 
-      "source": "ChurchofJesusChrist.org"
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
     }
   ]
 }

@@ -1,0 +1,52 @@
+{
+  "name": "JST, Luke 11", 
+  "abbrev": null, 
+  "number": "11", 
+  "churchUri": "/scriptures/jst/jst-luke/11", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Luke 11:53. Compare Luke 11:52", 
+      "contentHtml": "<strong>JST, Luke 11:53.</strong> Compare Luke 11:52", 
+      "number": null, 
+      "pageNumber": "790", 
+      "compareId": "jst-luke-11_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Woe unto you, lawyers! For ye have taken away the key of knowledge, the fullness of the scriptures; ye enter not in yourselves into the kingdom; and those who were entering in, ye hindered.", 
+      "contentHtml": "Woe unto you, lawyers! For ye have taken away the key of knowledge, <em>the fullness of the scriptures;</em> ye <em>enter</em> not in yourselves <em>into the kingdom;</em> and <em>those who</em> were entering in, ye hindered.", 
+      "number": "53", 
+      "pageNumber": "790", 
+      "compareId": "jst-luke-11_v1", 
+      "churchId": "p53"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0590-jst-luke-1153-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0590-jst-luke-1153-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

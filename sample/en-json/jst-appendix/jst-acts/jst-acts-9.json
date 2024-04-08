@@ -1,0 +1,52 @@
+{
+  "name": "JST, Acts 9", 
+  "abbrev": null, 
+  "number": "9", 
+  "churchUri": "/scriptures/jst/jst-acts/9", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Acts 9:7. Compare Acts 9:7; 22:9", 
+      "contentHtml": "<strong>JST, Acts 9:7.</strong> Compare Acts 9:7; 22:9", 
+      "number": null, 
+      "pageNumber": null, 
+      "compareId": "jst-acts-9_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "And they who were journeying with him saw indeed the light, and were afraid; but they heard not the voice of him who spake to him.", 
+      "contentHtml": "And <em>they who were journeying</em> with him <em>saw indeed the light, and were afraid; but they heard not the voice of him who spake to him.</em>", 
+      "number": "7", 
+      "pageNumber": null, 
+      "compareId": "jst-acts-9_v1", 
+      "churchId": "p7"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0730-jst-acts-97-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0730-jst-acts-97-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

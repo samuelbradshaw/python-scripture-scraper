@@ -1,0 +1,62 @@
+{
+  "name": "JST, 1 Timothy 3", 
+  "abbrev": null, 
+  "number": "3", 
+  "churchUri": "/scriptures/jst/jst-1-tim/3", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, 1 Timothy 3:15–16. Compare 1 Timothy 3:15–16", 
+      "contentHtml": "<strong>JST, 1 Timothy 3:15–16.</strong> Compare 1 Timothy 3:15–16", 
+      "number": null, 
+      "pageNumber": "799", 
+      "compareId": "jst-1-timothy-3_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "But if I tarry long, that thou mayest know how thou oughtest to behave thyself in the house of God, which is the church of the living God.", 
+      "contentHtml": "But if I tarry long, that thou mayest know how thou oughtest to behave thyself in the house of God, which is the church of the living God.", 
+      "number": "15", 
+      "pageNumber": "799", 
+      "compareId": "jst-1-timothy-3_v1", 
+      "churchId": "p15"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "The pillar and ground of the truth is, (and without controversy, great is the mystery of godliness,) God was manifest in the flesh, justified in the Spirit, seen of angels, preached unto the Gentiles, believed on in the world, received up into glory.", 
+      "contentHtml": "The pillar and ground of the truth <em>is,</em> (and without controversy, great is the mystery of godliness,) God was manifest in the flesh, justified in the Spirit, seen of angels, preached unto the Gentiles, believed on in the world, received up into glory.", 
+      "number": "16", 
+      "pageNumber": "799", 
+      "compareId": "jst-1-timothy-3_v2", 
+      "churchId": "p16"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0890-jst-1-timothy-315-16-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0890-jst-1-timothy-315-16-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

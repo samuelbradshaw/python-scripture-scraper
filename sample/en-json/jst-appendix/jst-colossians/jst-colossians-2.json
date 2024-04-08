@@ -1,0 +1,62 @@
+{
+  "name": "JST, Colossians 2", 
+  "abbrev": null, 
+  "number": "2", 
+  "churchUri": "/scriptures/jst/jst-col/2", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Colossians 2:21–22. Compare Colossians 2:20–23", 
+      "contentHtml": "<strong>JST, Colossians 2:21–22.</strong> Compare Colossians 2:20–23", 
+      "number": null, 
+      "pageNumber": null, 
+      "compareId": "jst-colossians-2_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Which are after the doctrines and commandments of men, who teach you to touch not, taste not, handle not; all those things which are to perish with the using?", 
+      "contentHtml": "<em>Which are after the doctrines and commandments of men, who teach you to</em> touch not, taste not, handle not; <em>all those things</em> which are to perish with the using?", 
+      "number": "21", 
+      "pageNumber": null, 
+      "compareId": "jst-colossians-2_v1", 
+      "churchId": "p21"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "Which things have indeed a show of wisdom in will worship, and humility, and neglecting the body as to the satisfying the flesh, not in any honor to God.", 
+      "contentHtml": "Which things have indeed a show of wisdom in will worship, and humility, and neglecting the body <em>as to the satisfying the flesh,</em> not in any honor to <em>God.</em>", 
+      "number": "22", 
+      "pageNumber": null, 
+      "compareId": "jst-colossians-2_v2", 
+      "churchId": "p22"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0850-jst-colossians-221-22-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0850-jst-colossians-221-22-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

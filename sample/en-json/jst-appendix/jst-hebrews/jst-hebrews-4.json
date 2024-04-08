@@ -1,0 +1,52 @@
+{
+  "name": "JST, Hebrews 4", 
+  "abbrev": null, 
+  "number": "4", 
+  "churchUri": "/scriptures/jst/jst-heb/4", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Hebrews 4:3. Compare Hebrews 4:3", 
+      "contentHtml": "<strong>JST, Hebrews 4:3.</strong> Compare Hebrews 4:3", 
+      "number": null, 
+      "pageNumber": null, 
+      "compareId": "jst-hebrews-4_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "For we who have believed do enter into rest, as he said, As I have sworn in my wrath, If they harden their hearts they shall not enter into my rest; also, I have sworn, If they will not harden their hearts, they shall enter into my rest; although the works of God were prepared, (or finished,) from the foundation of the world.", 
+      "contentHtml": "For we who have believed do enter into rest, as he said, As I have sworn in my wrath, If they <em>harden their hearts</em> they shall <em>not</em> enter into my rest; <em>also, I have sworn, If they will not harden their hearts, they shall enter into my rest;</em> although the works of God were <em>prepared, (or finished,)</em> from the foundation of the world.", 
+      "number": "3", 
+      "pageNumber": null, 
+      "compareId": "jst-hebrews-4_v1", 
+      "churchId": "p3"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0920-jst-hebrews-43-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0920-jst-hebrews-43-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

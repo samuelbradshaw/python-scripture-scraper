@@ -1,6 +1,6 @@
 {
   "name": "Psalm 77", 
-  "abbrev": "Psalm 77", 
+  "abbrev": "Ps. 77", 
   "number": "77", 
   "churchUri": "/scriptures/ot/ps/77", 
   "paragraphs": [
@@ -228,23 +228,25 @@
   "media": [
     {
       "type": "audio", 
-      "subtype": "female", 
+      "subtype": "spoken-female", 
       "url": "https://media2.ldscdn.org/assets/scriptures/the-old-testament/2015-11-5550-psalm-077-female-voice-64k-eng.mp3", 
-      "id": null, 
-      "thumbUrl": null, 
+      "imageUrl": null, 
       "startSeconds": null, 
       "endSeconds": null, 
-      "source": "ChurchofJesusChrist.org"
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
     }, 
     {
       "type": "audio", 
-      "subtype": "male", 
+      "subtype": "spoken-male", 
       "url": "https://media2.ldscdn.org/assets/scriptures/the-old-testament/2015-11-5550-psalm-077-male-voice-64k-eng.mp3", 
-      "id": null, 
-      "thumbUrl": null, 
+      "imageUrl": null, 
       "startSeconds": null, 
       "endSeconds": null, 
-      "source": "ChurchofJesusChrist.org"
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
     }
   ]
 }

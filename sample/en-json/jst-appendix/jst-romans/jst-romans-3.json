@@ -1,0 +1,82 @@
+{
+  "name": "JST, Romans 3", 
+  "abbrev": null, 
+  "number": "3", 
+  "churchUri": "/scriptures/jst/jst-rom/3", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Romans 3:5–8. Compare Romans 3:5–8", 
+      "contentHtml": "<strong>JST, Romans 3:5–8.</strong> Compare Romans 3:5–8", 
+      "number": null, 
+      "pageNumber": null, 
+      "compareId": "jst-romans-3_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "But if we remain in our unrighteousness and commend the righteousness of God, how dare we say, God is unrighteous who taketh vengeance? (I speak as a man who fears God,)", 
+      "contentHtml": "But if <em>we remain in</em> our unrighteousness <em>and</em> commend the righteousness of God, <em>how dare</em> we say, God is unrighteous who taketh vengeance? (I speak as a man <em>who fears God,</em>)", 
+      "number": "5", 
+      "pageNumber": null, 
+      "compareId": "jst-romans-3_v1", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "God forbid; for then how shall God judge the world?", 
+      "contentHtml": "God forbid; for then how shall God judge the world?", 
+      "number": "6", 
+      "pageNumber": null, 
+      "compareId": "jst-romans-3_v2", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "For if the truth of God hath more abounded through my lie, (as it is called of the Jews,) unto his glory; why yet am I also judged as a sinner? and not received? Because we are slanderously reported;", 
+      "contentHtml": "For if the truth of God hath more abounded through my lie, <em>(as it is called of the Jews,)</em> unto his glory; why yet am I also judged as a sinner? and not <em>received? Because</em> we <em>are</em> slanderously reported;", 
+      "number": "7", 
+      "pageNumber": null, 
+      "compareId": "jst-romans-3_v3", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "And some affirm that we say, (whose damnation is just,) Let us do evil that good may come. But this is false.", 
+      "contentHtml": "And some affirm that we say, <em>(whose damnation is just,)</em> Let us do evil that good may come. <em>But this is false.</em>", 
+      "number": "8", 
+      "pageNumber": null, 
+      "compareId": "jst-romans-3_v4", 
+      "churchId": "p8"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0750-jst-romans-35-8-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0750-jst-romans-35-8-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "name": "JST, 1 Peter 3", 
+  "abbrev": null, 
+  "number": "3", 
+  "churchUri": "/scriptures/jst/jst-1-pet/3", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, 1 Peter 3:20. Compare 1 Peter 3:20", 
+      "contentHtml": "<strong>JST, 1 Peter 3:20.</strong> Compare 1 Peter 3:20", 
+      "number": null, 
+      "pageNumber": null, 
+      "compareId": "jst-1-peter-3_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Some of whom were disobedient in the days of Noah, while the long-suffering of God waited, while the ark was preparing, wherein few, that is, eight souls were saved by water.", 
+      "contentHtml": "<em>Some of whom</em> were disobedient <em>in the days of Noah, while</em> the long-suffering of God waited, while the ark was preparing, wherein few, that is, eight souls were saved by water.", 
+      "number": "20", 
+      "pageNumber": null, 
+      "compareId": "jst-1-peter-3_v1", 
+      "churchId": "p20"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0980-jst-1-peter-320-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0980-jst-1-peter-320-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

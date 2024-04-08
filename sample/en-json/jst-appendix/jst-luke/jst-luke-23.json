@@ -1,0 +1,52 @@
+{
+  "name": "JST, Luke 23", 
+  "abbrev": null, 
+  "number": "23", 
+  "churchUri": "/scriptures/jst/jst-luke/23", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Luke 23:35. Compare Luke 23:34", 
+      "contentHtml": "<strong>JST, Luke 23:35.</strong> Compare Luke 23:34", 
+      "number": null, 
+      "pageNumber": "792", 
+      "compareId": "jst-luke-23_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Then said Jesus, Father, forgive them; for they know not what they do (Meaning the soldiers who crucified him,) and they parted his raiment and cast lots.", 
+      "contentHtml": "Then said Jesus, Father, forgive them; for they know not what they do <em>(Meaning the soldiers who crucified him,)</em> and they parted his raiment and cast lots.", 
+      "number": "35", 
+      "pageNumber": "792", 
+      "compareId": "jst-luke-23_v1", 
+      "churchId": "p35"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0660-jst-luke-2335-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0660-jst-luke-2335-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

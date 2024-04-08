@@ -1,0 +1,82 @@
+{
+  "name": "JST, Genesis 15", 
+  "abbrev": null, 
+  "number": "15", 
+  "churchUri": "/scriptures/jst/jst-gen/15", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Genesis 15:9–12. Compare Genesis 15:1–6", 
+      "contentHtml": "<strong>JST, Genesis 15:9–12.</strong> Compare Genesis 15:1–6", 
+      "number": null, 
+      "pageNumber": "773", 
+      "compareId": "jst-genesis-15_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "And Abram said, Lord God, how wilt thou give me this land for an everlasting inheritance?", 
+      "contentHtml": "<em>And Abram said, Lord God, how wilt thou give me this land for an everlasting inheritance?</em>", 
+      "number": "9", 
+      "pageNumber": "773", 
+      "compareId": "jst-genesis-15_v1", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "And the Lord said, Though thou wast dead, yet am I not able to give it thee?", 
+      "contentHtml": "<em>And the Lord said, Though thou wast dead, yet am I not able to give it thee?</em>", 
+      "number": "10", 
+      "pageNumber": "773", 
+      "compareId": "jst-genesis-15_v2", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "And if thou shalt die, yet thou shalt possess it, for the day cometh, that the Son of Man shall live; but how can he live if he be not dead? he must first be quickened.", 
+      "contentHtml": "<em>And if thou shalt die, yet thou shalt possess it, for the day cometh, that the Son of Man shall live; but how can he live if he be not dead? he must first be quickened.</em>", 
+      "number": "11", 
+      "pageNumber": "773", 
+      "compareId": "jst-genesis-15_v3", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "And it came to pass, that Abram looked forth and saw the days of the Son of Man, and was glad, and his soul found rest, and he believed in the Lord; and the Lord counted it unto him for righteousness.", 
+      "contentHtml": "<em>And it came to pass, that Abram looked forth and saw the days of the Son of Man, and was glad, and his soul found rest,</em> and he believed in the Lord; and <em>the Lord</em> counted it unto him for righteousness.", 
+      "number": "12", 
+      "pageNumber": "773", 
+      "compareId": "jst-genesis-15_v4", 
+      "churchId": "p12"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0040-jst-genesis-159-12-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0040-jst-genesis-159-12-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

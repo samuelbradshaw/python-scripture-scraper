@@ -1,0 +1,52 @@
+{
+  "name": "JST, John 14", 
+  "abbrev": null, 
+  "number": "14", 
+  "churchUri": "/scriptures/jst/jst-john/14", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, John 14:30. Compare John 14:30", 
+      "contentHtml": "<strong>JST, John 14:30.</strong> Compare John 14:30", 
+      "number": null, 
+      "pageNumber": "795", 
+      "compareId": "jst-john-14_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Hereafter I will not talk much with you; for the prince of darkness, who is of this world, cometh, but hath no power over me, but he hath power over you.", 
+      "contentHtml": "Hereafter I will not talk much with you; for the prince <em>of darkness, who is</em> of this world, cometh, <em>but</em> hath <em>no power over me, but he hath power over you.</em>", 
+      "number": "30", 
+      "pageNumber": "795", 
+      "compareId": "jst-john-14_v1", 
+      "churchId": "p30"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0720-jst-john-1430-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0720-jst-john-1430-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

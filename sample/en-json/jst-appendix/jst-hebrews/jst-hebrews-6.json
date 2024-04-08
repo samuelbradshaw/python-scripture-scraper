@@ -1,0 +1,142 @@
+{
+  "name": "JST, Hebrews 6", 
+  "abbrev": null, 
+  "number": "6", 
+  "churchUri": "/scriptures/jst/jst-heb/6", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Hebrews 6:1–10. Compare Hebrews 6:1–10", 
+      "contentHtml": "<strong>JST, Hebrews 6:1–10.</strong> Compare Hebrews 6:1–10", 
+      "number": null, 
+      "pageNumber": "799", 
+      "compareId": "jst-hebrews-6_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Therefore not leaving the principles of the doctrine of Christ, let us go on unto perfection; not laying again the foundation of repentance from dead works, and of faith toward God.", 
+      "contentHtml": "Therefore <em>not</em> leaving the principles of the doctrine of Christ, let us go on unto perfection; not laying again the foundation of repentance from dead works, and of faith toward God.", 
+      "number": "1", 
+      "pageNumber": "799", 
+      "compareId": "jst-hebrews-6_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "Of the doctrine of baptisms, of laying on of hands, and of the resurrection of the dead, and of eternal judgment.", 
+      "contentHtml": "Of the doctrine of baptisms, of laying on of hands, and of the resurrection of the dead, and of eternal judgment.", 
+      "number": "2", 
+      "pageNumber": "799", 
+      "compareId": "jst-hebrews-6_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "And we will go on unto perfection if God permit.", 
+      "contentHtml": "And <em>we will go on unto perfection</em> if God permit.", 
+      "number": "3", 
+      "pageNumber": "799", 
+      "compareId": "jst-hebrews-6_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "For he hath made it impossible for those who were once enlightened, and have tasted of the heavenly gift, and were made partakers of the Holy Ghost,", 
+      "contentHtml": "For <em>he hath made it</em> impossible for those who were once enlightened, and have tasted of the heavenly gift, and were made partakers of the Holy Ghost,", 
+      "number": "4", 
+      "pageNumber": "799", 
+      "compareId": "jst-hebrews-6_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "And have tasted the good word of God, and the powers of the world to come,", 
+      "contentHtml": "And have tasted the good word of God, and the powers of the world to come,", 
+      "number": "5", 
+      "pageNumber": "799", 
+      "compareId": "jst-hebrews-6_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "If they shall fall away, to be renewed again unto repentance; seeing they crucify unto themselves the Son of God afresh, and put him to an open shame.", 
+      "contentHtml": "If they shall fall away, to <em>be renewed</em> again unto repentance; seeing they crucify unto themselves the Son of God afresh, and put him to an open shame.", 
+      "number": "6", 
+      "pageNumber": "799", 
+      "compareId": "jst-hebrews-6_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "For the day cometh that the earth which drinketh in the rain that cometh oft upon it, and bringeth forth herbs meet for them who dwelleth thereon, by whom it is dressed, who now receiveth blessings from God, shall be cleansed with fire.", 
+      "contentHtml": "For <em>the day cometh that</em> the earth which drinketh in the rain that cometh oft upon it, and bringeth forth herbs meet for them <em>who dwelleth thereon,</em> by whom it is dressed, <em>who now</em> receiveth blessings from God, <em>shall be cleansed with fire.</em>", 
+      "number": "7", 
+      "pageNumber": "799,800", 
+      "compareId": "jst-hebrews-6_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "For that which beareth thorns and briers is rejected, and is nigh unto cursing; therefore they who bring not forth good fruits, shall be cast into the fire; for their end is to be burned.", 
+      "contentHtml": "<em>For</em> that which beareth thorns and briers is rejected, and is nigh unto cursing; <em>therefore they who bring not forth good fruits, shall be cast into the fire; for their</em> end is to be burned.", 
+      "number": "8", 
+      "pageNumber": "800", 
+      "compareId": "jst-hebrews-6_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "But, beloved, we are persuaded of better things of you, and things that accompany salvation, though we thus speak.", 
+      "contentHtml": "But, beloved, we are persuaded <em>of</em> better things of you, and things that accompany salvation, though we thus speak.", 
+      "number": "9", 
+      "pageNumber": "800", 
+      "compareId": "jst-hebrews-6_v9", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "For God is not unrighteous, therefore he will not forget your work and labor of love, which ye have showed toward his name, in that ye have ministered to the saints, and do minister.", 
+      "contentHtml": "For God is not unrighteous, <em>therefore he will not</em> forget your work and labor of love, which ye have showed toward his name, in that ye have ministered to the saints, and do minister.", 
+      "number": "10", 
+      "pageNumber": "800", 
+      "compareId": "jst-hebrews-6_v10", 
+      "churchId": "p10"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0930-jst-hebrews-61-10-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0930-jst-hebrews-61-10-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

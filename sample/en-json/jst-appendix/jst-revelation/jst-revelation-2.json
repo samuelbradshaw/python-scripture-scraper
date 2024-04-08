@@ -1,0 +1,82 @@
+{
+  "name": "JST, Revelation 2", 
+  "abbrev": null, 
+  "number": "2", 
+  "churchUri": "/scriptures/jst/jst-rev/2", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Revelation 2:22. Compare Revelation 2:22", 
+      "contentHtml": "<strong>JST, Revelation 2:22.</strong> Compare Revelation 2:22", 
+      "number": null, 
+      "pageNumber": "803", 
+      "compareId": "jst-revelation-2_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Behold, I will cast her into hell, and them that commit adultery with her into great tribulation, except they repent of their deeds.", 
+      "contentHtml": "Behold, I will cast her into <em>hell,</em> and them that commit adultery with her into great tribulation, except they repent of their deeds.", 
+      "number": "22", 
+      "pageNumber": "803", 
+      "compareId": "jst-revelation-2_v1", 
+      "churchId": "p22"
+    }, 
+    {
+      "type": "section-title", 
+      "id": "st2", 
+      "content": "JST, Revelation 2:26–27. Compare Revelation 2:26–27", 
+      "contentHtml": "<strong>JST, Revelation 2:26–27.</strong> Compare Revelation 2:26–27", 
+      "number": null, 
+      "pageNumber": "803", 
+      "compareId": "jst-revelation-2_st2", 
+      "churchId": "title2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "And to him who overcometh, and keepeth my commandments unto the end, will I give power over many kingdoms;", 
+      "contentHtml": "And <em>to him who</em> overcometh, and keepeth my <em>commandments</em> unto the end, will I give power over <em>many kingdoms;</em>", 
+      "number": "26", 
+      "pageNumber": "803", 
+      "compareId": "jst-revelation-2_v2", 
+      "churchId": "p26"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "And he shall rule them with the word of God; and they shall be in his hands as the vessels of clay in the hands of a potter; and he shall govern them by faith, with equity and justice, even as I received of my Father.", 
+      "contentHtml": "And he shall rule them with <em>the word of God; and they shall be in his hands</em> as the vessels <em>of clay in the hands</em> of a potter; <em>and he shall govern them by faith, with equity and justice,</em> even as I received of my Father.", 
+      "number": "27", 
+      "pageNumber": "803", 
+      "compareId": "jst-revelation-2_v3", 
+      "churchId": "p27"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-1050-jst-revelation-2-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-1050-jst-revelation-2-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

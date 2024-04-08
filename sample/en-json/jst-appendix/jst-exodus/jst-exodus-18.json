@@ -1,0 +1,52 @@
+{
+  "name": "JST, Exodus 18", 
+  "abbrev": null, 
+  "number": "18", 
+  "churchUri": "/scriptures/jst/jst-ex/18", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Exodus 18:1. Compare Exodus 18:1", 
+      "contentHtml": "<strong>JST, Exodus 18:1.</strong> Compare Exodus 18:1", 
+      "number": null, 
+      "pageNumber": null, 
+      "compareId": "jst-exodus-18_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "When Jethro, the high priest of Midian, Moses’ father-in-law, heard of all that God had done for Moses, and for Israel his people, and that the Lord had brought Israel out of Egypt;", 
+      "contentHtml": "When Jethro, the <em>high priest</em> of Midian, Moses’ father-in-law, heard of all that God had done for Moses, and for Israel his people, and that the Lord had brought Israel out of Egypt;", 
+      "number": "1", 
+      "pageNumber": null, 
+      "compareId": "jst-exodus-18_v1", 
+      "churchId": "p1"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0110-jst-exodus-181-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0110-jst-exodus-181-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

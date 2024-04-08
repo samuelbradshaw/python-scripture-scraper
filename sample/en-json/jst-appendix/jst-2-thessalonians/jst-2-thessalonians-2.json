@@ -1,0 +1,92 @@
+{
+  "name": "JST, 2 Thessalonians 2", 
+  "abbrev": null, 
+  "number": "2", 
+  "churchUri": "/scriptures/jst/jst-2-thes/2", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, 2 Thessalonians 2:2–3, 7–9. Compare 2 Thessalonians 2:2–9", 
+      "contentHtml": "<strong>JST, 2 Thessalonians 2:2–3, 7–9.</strong> Compare 2 Thessalonians 2:2–9", 
+      "number": null, 
+      "pageNumber": null, 
+      "compareId": "jst-2-thessalonians-2_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "That ye be not soon shaken in mind, or be troubled by letter, except ye receive it from us; neither by spirit, nor by word, as that the day of Christ is at hand.", 
+      "contentHtml": "That ye be not soon shaken in mind, or be troubled <em>by letter, except ye receive it from us;</em> neither by spirit, nor by word, as that the day of Christ is at hand.", 
+      "number": "2", 
+      "pageNumber": null, 
+      "compareId": "jst-2-thessalonians-2_v1", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "Let no man deceive you by any means; for there shall come a falling away first, and that man of sin be revealed, the son of perdition;", 
+      "contentHtml": "Let no man deceive you by any means; for there <em>shall</em> come a falling away first, and that man of sin be revealed, the son of perdition;", 
+      "number": "3", 
+      "pageNumber": null, 
+      "compareId": "jst-2-thessalonians-2_v2", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "For the mystery of iniquity doth already work, and he it is who now worketh, and Christ suffereth him to work, until the time is fulfilled that he shall be taken out of the way.", 
+      "contentHtml": "For the mystery of iniquity doth already work, <em>and he it is who now worketh, and Christ suffereth him to work,</em> until <em>the time is fulfilled that</em> he <em>shall</em> be taken out of the way.", 
+      "number": "7", 
+      "pageNumber": null, 
+      "compareId": "jst-2-thessalonians-2_v3", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "And then shall that wicked one be revealed, whom the Lord shall consume with the spirit of his mouth, and shall destroy with the brightness of his coming.", 
+      "contentHtml": "And then shall that wicked <em>one</em> be revealed, whom the Lord shall consume with the spirit of his mouth, and shall destroy with the brightness of his coming.", 
+      "number": "8", 
+      "pageNumber": null, 
+      "compareId": "jst-2-thessalonians-2_v4", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "Yea, the Lord, even Jesus, whose coming is not until after there cometh a falling away, by the working of Satan with all power, and signs and lying wonders,", 
+      "contentHtml": "<em>Yea, the Lord, even Jesus,</em> whose coming is <em>not until</em> after <em>there cometh a falling away, by</em> the working of Satan with all power, and signs and lying wonders,", 
+      "number": "9", 
+      "pageNumber": null, 
+      "compareId": "jst-2-thessalonians-2_v5", 
+      "churchId": "p9"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": null, 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0870-jst-2-thessalonians-22-3-7-9-fefmalemale-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0870-jst-2-thessalonians-22-3-7-9-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

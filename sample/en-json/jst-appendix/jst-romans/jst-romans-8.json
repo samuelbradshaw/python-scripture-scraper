@@ -1,0 +1,82 @@
+{
+  "name": "JST, Romans 8", 
+  "abbrev": null, 
+  "number": "8", 
+  "churchUri": "/scriptures/jst/jst-rom/8", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Romans 8:8. Compare Romans 8:8", 
+      "contentHtml": "<strong>JST, Romans 8:8.</strong> Compare Romans 8:8", 
+      "number": null, 
+      "pageNumber": "797", 
+      "compareId": "jst-romans-8_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "So then they that are after the flesh cannot please God.", 
+      "contentHtml": "So then they that are <em>after</em> the flesh cannot please God.", 
+      "number": "8", 
+      "pageNumber": "797", 
+      "compareId": "jst-romans-8_v1", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "section-title", 
+      "id": "st2", 
+      "content": "JST, Romans 8:29–30. Compare Romans 8:29–30", 
+      "contentHtml": "<strong>JST, Romans 8:29–30.</strong> Compare Romans 8:29–30", 
+      "number": null, 
+      "pageNumber": "797", 
+      "compareId": "jst-romans-8_st2", 
+      "churchId": "title2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "For him whom he did foreknow, he also did predestinate to be conformed to his own image, that he might be the firstborn among many brethren.", 
+      "contentHtml": "For <em>him</em> whom he did foreknow, he also did predestinate to be conformed to <em>his own</em> image, that he might be the firstborn among many brethren.", 
+      "number": "29", 
+      "pageNumber": "797", 
+      "compareId": "jst-romans-8_v2", 
+      "churchId": "p29"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "Moreover, him whom he did predestinate, him he also called; and him whom he called, him he also sanctified; and him whom he sanctified, him he also glorified.", 
+      "contentHtml": "Moreover, <em>him</em> whom he did predestinate, <em>him</em> he also called; and <em>him</em> whom he called, <em>him</em> he also <em>sanctified;</em> and <em>him</em> whom he <em>sanctified, him</em> he also glorified.", 
+      "number": "30", 
+      "pageNumber": "797", 
+      "compareId": "jst-romans-8_v3", 
+      "churchId": "p30"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0780-jst-romans-8-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0780-jst-romans-8-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

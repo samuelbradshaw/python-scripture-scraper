@@ -1,0 +1,92 @@
+{
+  "name": "JST, Mark 8", 
+  "abbrev": null, 
+  "number": "8", 
+  "churchUri": "/scriptures/jst/jst-mark/8", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Mark 8:37–38. Compare Mark 8:35", 
+      "contentHtml": "<strong>JST, Mark 8:37–38.</strong> Compare Mark 8:35", 
+      "number": null, 
+      "pageNumber": "787", 
+      "compareId": "jst-mark-8_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "For whosoever will save his life, shall lose it; or whosoever will save his life, shall be willing to lay it down for my sake; and if he is not willing to lay it down for my sake, he shall lose it.", 
+      "contentHtml": "For whosoever will save his life, shall lose it; <em>or whosoever will save his life, shall be willing to lay it down for my sake; and if he is not willing to lay it down for my sake, he shall lose it.</em>", 
+      "number": "37", 
+      "pageNumber": "787", 
+      "compareId": "jst-mark-8_v1", 
+      "churchId": "p37"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "But whosoever shall be willing to lose his life for my sake, and the gospel, the same shall save it.", 
+      "contentHtml": "But whosoever shall <em>be willing to</em> lose his life for my sake, and the gospel, the same shall save it.", 
+      "number": "38", 
+      "pageNumber": "787", 
+      "compareId": "jst-mark-8_v2", 
+      "churchId": "p38"
+    }, 
+    {
+      "type": "section-title", 
+      "id": "st2", 
+      "content": "JST, Mark 8:42–43. Compare Mark 8:38", 
+      "contentHtml": "<strong>JST, Mark 8:42–43.</strong> Compare Mark 8:38", 
+      "number": null, 
+      "pageNumber": "787", 
+      "compareId": "jst-mark-8_st2", 
+      "churchId": "title2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "And they shall not have part in that resurrection when he cometh.", 
+      "contentHtml": "<em>And they shall not have part in that resurrection when he cometh.</em>", 
+      "number": "42", 
+      "pageNumber": "787", 
+      "compareId": "jst-mark-8_v3", 
+      "churchId": "p42"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "For verily I say unto you, That he shall come; and he that layeth down his life for my sake and the gospel’s, shall come with him, and shall be clothed with his glory in the cloud, on the right hand of the Son of man.", 
+      "contentHtml": "<em>For verily I say unto you, That he shall come; and he that layeth down his life for my sake and the gospel’s, shall come with him, and shall be clothed with his glory in the cloud, on the right hand of the Son of man.</em>", 
+      "number": "43", 
+      "pageNumber": "787", 
+      "compareId": "jst-mark-8_v4", 
+      "churchId": "p43"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0490-jst-mark-8-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0490-jst-mark-8-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

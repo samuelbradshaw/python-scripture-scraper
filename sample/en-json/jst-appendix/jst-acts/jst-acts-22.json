@@ -1,0 +1,62 @@
+{
+  "name": "JST, Acts 22", 
+  "abbrev": null, 
+  "number": "22", 
+  "churchUri": "/scriptures/jst/jst-acts/22", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Acts 22:29–30. Compare Acts 22:29–30", 
+      "contentHtml": "<strong>JST, Acts 22:29–30.</strong> Compare Acts 22:29–30", 
+      "number": null, 
+      "pageNumber": null, 
+      "compareId": "jst-acts-22_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Then straightway they departed from him which should have examined him, and the chief captain also was afraid after he knew that he was a Roman, because he had bound him, and he loosed him from his bands.", 
+      "contentHtml": "Then straightway they departed from him which should have examined him, and the chief captain also was afraid after he knew that he was a Roman, because he had bound him, <em>and he loosed him from his bands.</em>", 
+      "number": "29", 
+      "pageNumber": null, 
+      "compareId": "jst-acts-22_v1", 
+      "churchId": "p29"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "On the morrow, because he would have known the certainty wherefore he was accused of the Jews, he commanded the chief priests and all their council to appear, and brought Paul down, and set him before them.", 
+      "contentHtml": "On the morrow, because he would have known the certainty wherefore he was accused of the Jews, <em>he</em> commanded the chief priests and all their council to appear, and brought Paul down, and set him before them.", 
+      "number": "30", 
+      "pageNumber": null, 
+      "compareId": "jst-acts-22_v2", 
+      "churchId": "p30"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0740-jst-acts-2229-30-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0740-jst-acts-2229-30-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

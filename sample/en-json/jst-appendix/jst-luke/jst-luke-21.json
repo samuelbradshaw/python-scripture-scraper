@@ -1,0 +1,92 @@
+{
+  "name": "JST, Luke 21", 
+  "abbrev": null, 
+  "number": "21", 
+  "churchUri": "/scriptures/jst/jst-luke/21", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Luke 21:24–26. Compare Luke 21:25–26", 
+      "contentHtml": "<strong>JST, Luke 21:24–26.</strong> Compare Luke 21:25–26", 
+      "number": null, 
+      "pageNumber": "792", 
+      "compareId": "jst-luke-21_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Now these things he spake unto them, concerning the destruction of Jerusalem. And then his disciples asked him, saying, Master, tell us concerning thy coming?", 
+      "contentHtml": "<em>Now these things he spake unto them, concerning the destruction of Jerusalem. And then his disciples asked him, saying, Master, tell us concerning thy coming?</em>", 
+      "number": "24", 
+      "pageNumber": "792", 
+      "compareId": "jst-luke-21_v1", 
+      "churchId": "p24"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "And he answered them, and said, In the generation in which the times of the Gentiles shall be fulfilled, there shall be signs in the sun, and in the moon, and in the stars; and upon the earth distress of nations with perplexity, like the sea and the waves roaring. The earth also shall be troubled, and the waters of the great deep;", 
+      "contentHtml": "<em>And he answered them, and said, In the generation in which the times of the Gentiles shall be fulfilled,</em> there shall be signs in the sun, and in the moon, and in the stars; and upon the earth distress of nations with perplexity, <em>like</em> the sea and the waves roaring. <em>The earth also shall be troubled, and the waters of the great deep;</em>", 
+      "number": "25", 
+      "pageNumber": "792", 
+      "compareId": "jst-luke-21_v2", 
+      "churchId": "p25"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "Men’s hearts failing them for fear, and for looking after those things which are coming on the earth. For the powers of heaven shall be shaken.", 
+      "contentHtml": "Men’s hearts failing them for fear, and for looking after those things which are coming on the earth. For the powers of heaven shall be shaken.", 
+      "number": "26", 
+      "pageNumber": "792", 
+      "compareId": "jst-luke-21_v3", 
+      "churchId": "p26"
+    }, 
+    {
+      "type": "section-title", 
+      "id": "st2", 
+      "content": "JST, Luke 21:32. Compare Luke 21:32", 
+      "contentHtml": "<strong>JST, Luke 21:32.</strong> Compare Luke 21:32", 
+      "number": null, 
+      "pageNumber": "792", 
+      "compareId": "jst-luke-21_st2", 
+      "churchId": "title2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "Verily I say unto you, this generation, the generation when the times of the Gentiles be fulfilled, shall not pass away till all be fulfilled.", 
+      "contentHtml": "Verily I say unto you, this generation, <em>the generation when the times of the Gentiles be fulfilled,</em> shall not pass away till all be fulfilled.", 
+      "number": "32", 
+      "pageNumber": "792", 
+      "compareId": "jst-luke-21_v4", 
+      "churchId": "p32"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0650-jst-luke-21-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0650-jst-luke-21-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "name": "JST, Psalm 109", 
+  "abbrev": null, 
+  "number": "109", 
+  "churchUri": "/scriptures/jst/jst-ps/109", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Psalm 109:4. Compare Psalm 109:4", 
+      "contentHtml": "<strong>JST, Psalm 109:4.</strong> Compare Psalm 109:4", 
+      "number": null, 
+      "pageNumber": "780", 
+      "compareId": "jst-psalm-109_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "And, notwithstanding my love, they are my adversaries; yet I will continue in prayer for them.", 
+      "contentHtml": "<em>And, notwithstanding</em> my love, they are my adversaries; <em>yet</em> I <em>will continue in</em> prayer <em>for them.</em>", 
+      "number": "4", 
+      "pageNumber": "780", 
+      "compareId": "jst-psalm-109_v1", 
+      "churchId": "p4"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0240-jst-psalm-1094-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0240-jst-psalm-1094-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "name": "JST, 1 Peter 4", 
+  "abbrev": null, 
+  "number": "4", 
+  "churchUri": "/scriptures/jst/jst-1-pet/4", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, 1 Peter 4:6. Compare 1 Peter 4:6", 
+      "contentHtml": "<strong>JST, 1 Peter 4:6.</strong> Compare 1 Peter 4:6", 
+      "number": null, 
+      "pageNumber": null, 
+      "compareId": "jst-1-peter-4_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Because of this, is the gospel preached to them who are dead, that they might be judged according to men in the flesh, but live in the spirit according to the will of God.", 
+      "contentHtml": "<em>Because of this, is</em> the gospel preached to them <em>who</em> are dead, that they might be judged according to men in the flesh, but live <em>in the spirit</em> according to <em>the will of</em> God.", 
+      "number": "6", 
+      "pageNumber": null, 
+      "compareId": "jst-1-peter-4_v1", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "section-title", 
+      "id": "st2", 
+      "content": "JST, 1 Peter 4:8. Compare 1 Peter 4:8", 
+      "contentHtml": "<strong>JST, 1 Peter 4:8.</strong> Compare 1 Peter 4:8", 
+      "number": null, 
+      "pageNumber": null, 
+      "compareId": "jst-1-peter-4_st2", 
+      "churchId": "title2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "And above all things have fervent charity among yourselves; for charity preventeth a multitude of sins.", 
+      "contentHtml": "And above all things have fervent charity among yourselves; for charity <em>preventeth a</em> multitude of sins.", 
+      "number": "8", 
+      "pageNumber": null, 
+      "compareId": "jst-1-peter-4_v2", 
+      "churchId": "p8"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0990-jst-1-peter-4-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0990-jst-1-peter-4-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

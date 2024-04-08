@@ -1,0 +1,242 @@
+{
+  "name": "JST, Matthew 3", 
+  "abbrev": null, 
+  "number": "3", 
+  "churchUri": "/scriptures/jst/jst-matt/3", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Matthew 3:4–6. Compare Matthew 2:4–6", 
+      "contentHtml": "<strong>JST, Matthew 3:4–6.</strong> Compare Matthew 2:4–6", 
+      "number": null, 
+      "pageNumber": "781", 
+      "compareId": "jst-matthew-3_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "And when he had gathered all the chief priests, and scribes of the people together, he demanded of them, saying, Where is the place that is written of by the prophets, in which Christ should be born? For he greatly feared, yet he believed not the prophets.", 
+      "contentHtml": "And when he had gathered all the chief priests, and scribes of the people together, he demanded of them, <em>saying, Where is the place that is written of by the prophets, in which</em> Christ should be born? <em>For he greatly feared, yet he believed not the prophets.</em>", 
+      "number": "4", 
+      "pageNumber": "781", 
+      "compareId": "jst-matthew-3_v1", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "And they said unto him, It is written by the prophets, that he should be born in Bethlehem of Judea, for thus have they said,", 
+      "contentHtml": "And they said unto him, <em>It is written by the prophets, that he should be born</em> in Bethlehem of Judea, for thus <em>have they said,</em>", 
+      "number": "5", 
+      "pageNumber": "781", 
+      "compareId": "jst-matthew-3_v2", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "The word of the Lord came unto us, saying, And thou Bethlehem, which lieth in the land of Judea, in thee shall be born a prince, which art not the least among the princes of Judea; for out of thee shall come the Messiah, who shall save my people Israel.", 
+      "contentHtml": "<em>The word of the Lord came unto us, saying,</em> And thou Bethlehem, <em>which lieth</em> in the land of Judea, <em>in thee shall be born a prince, which</em> art not the least among the princes of Judea; for out of thee shall come <em>the Messiah,</em> who shall <em>save</em> my people Israel.", 
+      "number": "6", 
+      "pageNumber": "781", 
+      "compareId": "jst-matthew-3_v3", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "section-title", 
+      "id": "st2", 
+      "content": "JST, Matthew 3:24–26. Compare Matthew 2:23", 
+      "contentHtml": "<strong>JST, Matthew 3:24–26.</strong> Compare Matthew 2:23", 
+      "number": null, 
+      "pageNumber": "781", 
+      "compareId": "jst-matthew-3_st2", 
+      "churchId": "title2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "And it came to pass that Jesus grew up with his brethren, and waxed strong, and waited upon the Lord for the time of his ministry to come.", 
+      "contentHtml": "<em>And it came to pass that Jesus grew up with his brethren, and waxed strong, and waited upon the Lord for the time of his ministry to come.</em>", 
+      "number": "24", 
+      "pageNumber": "781", 
+      "compareId": "jst-matthew-3_v4", 
+      "churchId": "p24"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "And he served under his father, and he spake not as other men, neither could he be taught; for he needed not that any man should teach him.", 
+      "contentHtml": "<em>And he served under his father, and he spake not as other men, neither could he be taught; for he needed not that any man should teach him.</em>", 
+      "number": "25", 
+      "pageNumber": "781", 
+      "compareId": "jst-matthew-3_v5", 
+      "churchId": "p25"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "And after many years, the hour of his ministry drew nigh.", 
+      "contentHtml": "<em>And after many years, the hour of his ministry drew nigh.</em>", 
+      "number": "26", 
+      "pageNumber": "781", 
+      "compareId": "jst-matthew-3_v6", 
+      "churchId": "p26"
+    }, 
+    {
+      "type": "section-title", 
+      "id": "st3", 
+      "content": "JST, Matthew 3:34–36. Compare Matthew 3:8–9", 
+      "contentHtml": "<strong>JST, Matthew 3:34–36.</strong> Compare Matthew 3:8–9", 
+      "number": null, 
+      "pageNumber": "781", 
+      "compareId": "jst-matthew-3_st3", 
+      "churchId": "title3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "Why is it that ye receive not the preaching of him whom God hath sent? If ye receive not this in your hearts, ye receive not me; and if ye receive not me, ye receive not him of whom I am sent to bear record; and for your sins ye have no cloak.", 
+      "contentHtml": "<em>Why is it that ye receive not the preaching of him whom God hath sent? If ye receive not this in your hearts, ye receive not me; and if ye receive not me, ye receive not him of whom I am sent to bear record; and for your sins ye have no cloak.</em>", 
+      "number": "34", 
+      "pageNumber": "781", 
+      "compareId": "jst-matthew-3_v7", 
+      "churchId": "p34"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "Repent, therefore, and bring forth fruits meet for repentance;", 
+      "contentHtml": "<em>Repent, therefore, and</em> bring forth fruits meet for repentance;", 
+      "number": "35", 
+      "pageNumber": "781", 
+      "compareId": "jst-matthew-3_v8", 
+      "churchId": "p35"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "And think not to say within yourselves, We are the children of Abraham, and we only have power to bring seed unto our father Abraham; for I say unto you that God is able of these stones to raise up children into Abraham.", 
+      "contentHtml": "And think not to say within yourselves, <em>We are the children of Abraham, and we only have power to bring seed unto our father Abraham;</em> for I say unto you that God is able of these stones to raise up children <em>into</em> Abraham.", 
+      "number": "36", 
+      "pageNumber": "781", 
+      "compareId": "jst-matthew-3_v9", 
+      "churchId": "p36"
+    }, 
+    {
+      "type": "section-title", 
+      "id": "st4", 
+      "content": "JST, Matthew 3:38–40. Compare Matthew 3:11–12", 
+      "contentHtml": "<strong>JST, Matthew 3:38–40.</strong> Compare Matthew 3:11–12", 
+      "number": null, 
+      "pageNumber": "781", 
+      "compareId": "jst-matthew-3_st4", 
+      "churchId": "title4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "I indeed baptize you with water, upon your repentance; and when he of whom I bear record cometh, who is mightier than I, whose shoes I am not worthy to bear, (or whose place I am not able to fill,) as I said, I indeed baptize you before he cometh, that when he cometh he may baptize you with the Holy Ghost and fire.", 
+      "contentHtml": "I indeed baptize you with water, <em>upon your</em> repentance; <em>and when he of whom I bear record cometh, who is</em> mightier than I, whose shoes I am not worthy to bear, <em>(or whose place I am not able to fill,) as I said, I indeed baptize you before he cometh, that when he cometh he may</em> baptize you with the Holy Ghost and fire.", 
+      "number": "38", 
+      "pageNumber": "781", 
+      "compareId": "jst-matthew-3_v10", 
+      "churchId": "p38"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "And it is he of whom I shall bear record, whose fan shall be in his hand, and he will thoroughly purge his floor, and gather his wheat into the garner; but in the fullness of his own time will burn up the chaff with unquenchable fire.", 
+      "contentHtml": "<em>And it is he of whom I shall bear record,</em> whose fan <em>shall be</em> in his hand, and he will thoroughly purge his floor, and gather his wheat into the garner; but <em>in the fullness of his own time</em> will burn up the chaff with unquenchable fire.", 
+      "number": "39", 
+      "pageNumber": "781", 
+      "compareId": "jst-matthew-3_v11", 
+      "churchId": "p39"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "Thus came John, preaching and baptizing in the river of Jordan; bearing record, that he who was coming after him had power to baptize with the Holy Ghost and fire.", 
+      "contentHtml": "<em>Thus came John, preaching and baptizing in the river of Jordan; bearing record, that he who was coming after him had power to baptize with the Holy Ghost and fire.</em>", 
+      "number": "40", 
+      "pageNumber": "781", 
+      "compareId": "jst-matthew-3_v12", 
+      "churchId": "p40"
+    }, 
+    {
+      "type": "section-title", 
+      "id": "st5", 
+      "content": "JST, Matthew 3:43–46. Compare Matthew 3:15–17", 
+      "contentHtml": "<strong>JST, Matthew 3:43–46.</strong> Compare Matthew 3:15–17", 
+      "number": null, 
+      "pageNumber": "781,782", 
+      "compareId": "jst-matthew-3_st5", 
+      "churchId": "title5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v13", 
+      "content": "And Jesus, answering, said unto him, Suffer me to be baptized of thee, for thus it becometh us to fulfill all righteousness. Then he suffered him.", 
+      "contentHtml": "And Jesus, answering, said unto him, Suffer <em>me to be baptized of thee,</em> for thus it becometh us to fulfill all righteousness. Then he suffered him.", 
+      "number": "43", 
+      "pageNumber": "782", 
+      "compareId": "jst-matthew-3_v13", 
+      "churchId": "p43"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v14", 
+      "content": "And John went down into the water and baptized him.", 
+      "contentHtml": "<em>And John went down into the water and baptized him.</em>", 
+      "number": "44", 
+      "pageNumber": "782", 
+      "compareId": "jst-matthew-3_v14", 
+      "churchId": "p44"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v15", 
+      "content": "And Jesus when he was baptized, went up straightway out of the water; and John saw, and lo, the heavens were opened unto him, and he saw the Spirit of God descending like a dove and lighting upon Jesus.", 
+      "contentHtml": "And Jesus when he was baptized, went up straightway out of the water; <em>and John saw,</em> and lo, the heavens were opened unto him, and he saw the Spirit of God descending like a dove and lighting upon <em>Jesus.</em>", 
+      "number": "45", 
+      "pageNumber": "782", 
+      "compareId": "jst-matthew-3_v15", 
+      "churchId": "p45"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v16", 
+      "content": "And lo, he heard a voice from heaven, saying, This is my beloved Son, in whom I am well pleased. Hear ye him.", 
+      "contentHtml": "And lo, <em>he heard</em> a voice from heaven, saying, This is my beloved Son, in whom I am well pleased. <em>Hear ye him.</em>", 
+      "number": "46", 
+      "pageNumber": "782", 
+      "compareId": "jst-matthew-3_v16", 
+      "churchId": "p46"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0290-jst-matthew-3-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0290-jst-matthew-3-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

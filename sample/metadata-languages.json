@@ -1,5 +1,5 @@
 {
-  "_about": "Generated 2023-08-01 by Python Scripture Scraper (https://github.com/samuelbradshaw/python-scripture-scraper)", 
+  "_about": "Generated 2024-04-07 by Python Scripture Scraper (https://github.com/samuelbradshaw/python-scripture-scraper)", 
   "languages": {
     "af": {
       "name": "Afrikaans", 
@@ -25,6 +25,11 @@
       "name": "Aymara", 
       "autonym": "Aymar Aru", 
       "churchLang": "aym"
+    }, 
+    "be": {
+      "name": "Belarusian", 
+      "autonym": "Беларуская", 
+      "churchLang": "bel"
     }, 
     "bg": {
       "name": "Bulgarian", 
@@ -96,6 +101,11 @@
       "autonym": "繁體中文 - 國語", 
       "churchLang": "zho"
     }, 
+    "cmn-Latn": {
+      "name": "Chinese, Romanized – Mandarin", 
+      "autonym": "漢語拼音", 
+      "churchLang": "cmn-Latn"
+    }, 
     "cs": {
       "name": "Czech", 
       "autonym": "Česky", 
@@ -150,11 +160,6 @@
       "name": "Basque", 
       "autonym": "Euskera", 
       "churchLang": "eus"
-    }, 
-    "fa": {
-      "name": "Farsi)", 
-      "autonym": "فارسی", 
-      "churchLang": "pes"
     }, 
     "fat": {
       "name": "Fante", 
@@ -346,6 +351,11 @@
       "autonym": "Mam", 
       "churchLang": "mam"
     }, 
+    "meu": {
+      "name": "Motu", 
+      "autonym": "Motu", 
+      "churchLang": "meu"
+    }, 
     "mg": {
       "name": "Malagasy", 
       "autonym": "Malagasy", 
@@ -455,6 +465,11 @@
       "name": "Palauan", 
       "autonym": "Palauan", 
       "churchLang": "pau"
+    }, 
+    "pes": {
+      "name": "Farsi)", 
+      "autonym": "فارسی", 
+      "churchLang": "pes"
     }, 
     "pl": {
       "name": "Polish", 
@@ -697,6 +712,8 @@
     "ase": "ase", 
     "ay": "ay", 
     "aym": "ay", 
+    "be": "be", 
+    "bel": "be", 
     "bg": "bg", 
     "bul": "bg", 
     "bi": "bi", 
@@ -719,6 +736,7 @@
     "zhs": "cmn-Hans", 
     "cmn-Hant": "cmn-Hant", 
     "zho": "cmn-Hant", 
+    "cmn-Latn": "cmn-Latn", 
     "cs": "cs", 
     "ces": "cs", 
     "cuk": "cuk", 
@@ -739,8 +757,6 @@
     "est": "et", 
     "eu": "eu", 
     "eus": "eu", 
-    "fa": "fa", 
-    "pes": "fa", 
     "fat": "fat", 
     "fi": "fi", 
     "fin": "fi", 
@@ -801,6 +817,7 @@
     "lv": "lv", 
     "lav": "lv", 
     "mam": "mam", 
+    "meu": "meu", 
     "mg": "mg", 
     "mlg": "mg", 
     "mh": "mh", 
@@ -839,6 +856,7 @@
     "pam": "pam", 
     "pap": "pap", 
     "pau": "pau", 
+    "pes": "pes", 
     "pl": "pl", 
     "pol": "pl", 
     "pon": "pon", 

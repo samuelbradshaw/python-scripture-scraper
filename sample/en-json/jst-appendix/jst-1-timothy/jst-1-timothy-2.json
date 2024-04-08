@@ -1,0 +1,52 @@
+{
+  "name": "JST, 1 Timothy 2", 
+  "abbrev": null, 
+  "number": "2", 
+  "churchUri": "/scriptures/jst/jst-1-tim/2", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, 1 Timothy 2:4. Compare 1 Timothy 2:4", 
+      "contentHtml": "<strong>JST, 1 Timothy 2:4.</strong> Compare 1 Timothy 2:4", 
+      "number": null, 
+      "pageNumber": "798,799", 
+      "compareId": "jst-1-timothy-2_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Who is willing to have all men to be saved, and to come unto the knowledge of the truth which is in Christ Jesus, who is the Only Begotten Son of God, and ordained to be a Mediator between God and man; who is one God, and hath power over all men.", 
+      "contentHtml": "Who <em>is willing to</em> have all men to be saved, and to come unto the knowledge of the truth <em>which is in Christ Jesus, who is the Only Begotten Son of God, and ordained to be a Mediator between God and man; who is one God, and hath power over all men.</em>", 
+      "number": "4", 
+      "pageNumber": "799", 
+      "compareId": "jst-1-timothy-2_v1", 
+      "churchId": "p4"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0880-jst-1-timothy-24-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0880-jst-1-timothy-24-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "name": "JST, Matthew 26", 
+  "abbrev": null, 
+  "number": "26", 
+  "churchUri": "/scriptures/jst/jst-matt/26", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Matthew 26:22, 24–25. Compare Matthew 26:26–28; JST, Mark 14:20–25", 
+      "contentHtml": "<strong>JST, Matthew 26:22, 24–25.</strong> Compare Matthew 26:26–28; JST, Mark 14:20–25", 
+      "number": null, 
+      "pageNumber": "786", 
+      "compareId": "jst-matthew-26_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "And as they were eating, Jesus took bread and brake it, and blessed it, and gave to his disciples, and said, Take, eat; this is in remembrance of my body which I give a ransom for you.", 
+      "contentHtml": "And as they were eating, Jesus took bread and <em>brake</em> it, and <em>blessed</em> it, and gave to <em>his</em> disciples, and said, Take, eat; this is <em>in remembrance of</em> my body <em>which I give a ransom for you.</em>", 
+      "number": "22", 
+      "pageNumber": "786", 
+      "compareId": "jst-matthew-26_v1", 
+      "churchId": "p22"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "For this is in remembrance of my blood of the new testament, which is shed for as many as shall believe on my name, for the remission of their sins.", 
+      "contentHtml": "For this is <em>in remembrance of</em> my blood of the new testament, which is shed for <em>as</em> many <em>as shall believe on my name,</em> for the remission of <em>their</em> sins.", 
+      "number": "24", 
+      "pageNumber": "786", 
+      "compareId": "jst-matthew-26_v2", 
+      "churchId": "p24"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "And I give unto you a commandment, that ye shall observe to do the things which ye have seen me do, and bear record of me even unto the end.", 
+      "contentHtml": "<em>And I give unto you a commandment, that ye shall observe to do the things which ye have seen me do, and bear record of me even unto the end.</em>", 
+      "number": "25", 
+      "pageNumber": "786", 
+      "compareId": "jst-matthew-26_v3", 
+      "churchId": "p25"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0440-jst-matthew-262224-25-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0440-jst-matthew-262224-25-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

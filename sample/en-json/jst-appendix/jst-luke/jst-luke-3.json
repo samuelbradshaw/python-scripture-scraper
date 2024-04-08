@@ -1,0 +1,152 @@
+{
+  "name": "JST, Luke 3", 
+  "abbrev": null, 
+  "number": "3", 
+  "churchUri": "/scriptures/jst/jst-luke/3", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Luke 3:4–11. Compare Luke 3:4–6", 
+      "contentHtml": "<strong>JST, Luke 3:4–11.</strong> Compare Luke 3:4–6", 
+      "number": null, 
+      "pageNumber": null, 
+      "compareId": "jst-luke-3_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "As it is written in the book of the prophet Esaias; and these are the words, saying, The voice of one crying in the wilderness, Prepare ye the way of the Lord, and make his paths straight.", 
+      "contentHtml": "As it is written in the book of the <em>prophet</em> Esaias; <em>and these are the words,</em> saying, The voice of one crying in the wilderness, Prepare ye the way of the Lord, and make his paths straight.", 
+      "number": "4", 
+      "pageNumber": null, 
+      "compareId": "jst-luke-3_v1", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "For behold, and lo, he shall come, as it is written in the book of the prophets, to take away the sins of the world, and to bring salvation unto the heathen nations, to gather together those who are lost, who are of the sheepfold of Israel;", 
+      "contentHtml": "<em>For behold, and lo, he shall come, as it is written in the book of the prophets, to take away the sins of the world, and to bring salvation unto the heathen nations, to gather together those who are lost, who are of the sheepfold of Israel;</em>", 
+      "number": "5", 
+      "pageNumber": null, 
+      "compareId": "jst-luke-3_v2", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "Yea, even the dispersed and afflicted; and also to prepare the way, and make possible the preaching of the gospel unto the Gentiles;", 
+      "contentHtml": "<em>Yea, even the dispersed and afflicted; and also to prepare the way, and make possible the preaching of the gospel unto the Gentiles;</em>", 
+      "number": "6", 
+      "pageNumber": null, 
+      "compareId": "jst-luke-3_v3", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "And to be a light unto all who sit in darkness, unto the uttermost parts of the earth; to bring to pass the resurrection from the dead, and to ascend up on high, to dwell on the right hand of the Father,", 
+      "contentHtml": "<em>And to be a light unto all who sit in darkness, unto the uttermost parts of the earth; to bring to pass the resurrection from the dead, and to ascend up on high, to dwell on the right hand of the Father,</em>", 
+      "number": "7", 
+      "pageNumber": null, 
+      "compareId": "jst-luke-3_v4", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "Until the fullness of time, and the law and the testimony shall be sealed, and the keys of the kingdom shall be delivered up again unto the Father;", 
+      "contentHtml": "<em>Until the fullness of time, and the law and the testimony shall be sealed, and the keys of the kingdom shall be delivered up again unto the Father;</em>", 
+      "number": "8", 
+      "pageNumber": null, 
+      "compareId": "jst-luke-3_v5", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "To administer justice unto all; to come down in judgment upon all, and to convince all the ungodly of their ungodly deeds, which they have committed; and all this in the day that he shall come;", 
+      "contentHtml": "<em>To administer justice unto all; to come down in judgment upon all, and to convince all the ungodly of their ungodly deeds, which they have committed; and all this in the day that he shall come;</em>", 
+      "number": "9", 
+      "pageNumber": null, 
+      "compareId": "jst-luke-3_v6", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "For it is a day of power; yea, every valley shall be filled, and every mountain and hill shall be brought low; the crooked shall be made straight, and the rough ways made smooth;", 
+      "contentHtml": "<em>For it is a day of power; yea,</em> every valley shall be filled, and every mountain and hill shall be brought low; the crooked shall be made straight, and the rough ways made smooth;", 
+      "number": "10", 
+      "pageNumber": null, 
+      "compareId": "jst-luke-3_v7", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "And all flesh shall see the salvation of God.", 
+      "contentHtml": "And all flesh shall see the salvation of God.", 
+      "number": "11", 
+      "pageNumber": null, 
+      "compareId": "jst-luke-3_v8", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "section-title", 
+      "id": "st2", 
+      "content": "JST, Luke 3:19–20. Compare Luke 3:10–13", 
+      "contentHtml": "<strong>JST, Luke 3:19–20.</strong> Compare Luke 3:10–13", 
+      "number": null, 
+      "pageNumber": null, 
+      "compareId": "jst-luke-3_st2", 
+      "churchId": "title2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "For it is well known unto you, Theophilus, that after the manner of the Jews, and according to the custom of their law in receiving money into the treasury, that out of the abundance which was received, was appointed unto the poor, every man his portion;", 
+      "contentHtml": "<em>For it is well known unto you, Theophilus, that after the manner of the Jews, and according to the custom of their law in receiving money into the treasury, that out of the abundance which was received, was appointed unto the poor, every man his portion;</em>", 
+      "number": "19", 
+      "pageNumber": null, 
+      "compareId": "jst-luke-3_v9", 
+      "churchId": "p19"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "And after this manner did the publicans also, wherefore John said unto them, Exact no more than that which is appointed you.", 
+      "contentHtml": "<em>And after this manner did the publicans also, wherefore John</em> said unto them, Exact no more than that which is appointed you.", 
+      "number": "20", 
+      "pageNumber": null, 
+      "compareId": "jst-luke-3_v10", 
+      "churchId": "p20"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0560-jst-luke-3-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0560-jst-luke-3-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

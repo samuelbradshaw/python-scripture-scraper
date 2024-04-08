@@ -1,0 +1,82 @@
+{
+  "name": "JST, Matthew 27", 
+  "abbrev": null, 
+  "number": "27", 
+  "churchUri": "/scriptures/jst/jst-matt/27", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Matthew 27:3–6. Compare Matthew 27:3–5; Acts 1:18", 
+      "contentHtml": "<strong>JST, Matthew 27:3–6.</strong> Compare Matthew 27:3–5; Acts 1:18", 
+      "number": null, 
+      "pageNumber": "786", 
+      "compareId": "jst-matthew-27_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Then Judas, who had betrayed him, when he saw that he was condemned, repented himself, and brought again the thirty pieces of silver to the chief priests and elders,", 
+      "contentHtml": "Then Judas, <em>who</em> had betrayed him, when he saw that he was condemned, repented himself, and brought again the thirty pieces of silver to the chief priests and elders,", 
+      "number": "3", 
+      "pageNumber": "786", 
+      "compareId": "jst-matthew-27_v1", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "Saying, I have sinned in that I have betrayed the innocent blood.", 
+      "contentHtml": "Saying, I have sinned in that I have betrayed the innocent blood.", 
+      "number": "4", 
+      "pageNumber": "786", 
+      "compareId": "jst-matthew-27_v2", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "And they said unto him, What is that to us? See thou to it; thy sins be upon thee.", 
+      "contentHtml": "And they said <em>unto him,</em> What is that to us? See thou to <em>it; thy sins be upon thee.</em>", 
+      "number": "5", 
+      "pageNumber": "786", 
+      "compareId": "jst-matthew-27_v3", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "And he cast down the pieces of silver in the temple, and departed, and went, and hanged himself on a tree. And straightway he fell down, and his bowels gushed out, and he died.", 
+      "contentHtml": "And he cast down the pieces of silver in the temple, and departed, and went, and hanged himself <em>on a tree. And straightway he fell down, and his bowels gushed out, and he died.</em>", 
+      "number": "6", 
+      "pageNumber": "786", 
+      "compareId": "jst-matthew-27_v4", 
+      "churchId": "p6"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0450-jst-matthew-273-6-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0450-jst-matthew-273-6-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

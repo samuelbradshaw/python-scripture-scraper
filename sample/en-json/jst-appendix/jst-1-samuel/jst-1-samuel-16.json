@@ -1,0 +1,82 @@
+{
+  "name": "JST, 1 Samuel 16", 
+  "abbrev": null, 
+  "number": "16", 
+  "churchUri": "/scriptures/jst/jst-1-sam/16", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, 1 Samuel 16:14–16, 23. Compare 1 Samuel 16:14–16, 23; similar changes were made to 1 Samuel 18:10 and 19:9", 
+      "contentHtml": "<strong>JST, 1 Samuel 16:14–16, 23.</strong> Compare 1 Samuel 16:14–16, 23; similar changes were made to 1 Samuel 18:10 and 19:9", 
+      "number": null, 
+      "pageNumber": null, 
+      "compareId": "jst-1-samuel-16_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "But the Spirit of the Lord departed from Saul, and an evil spirit which was not of the Lord troubled him.", 
+      "contentHtml": "But the Spirit of the Lord departed from Saul, and an evil spirit <em>which was not of</em> the Lord troubled him.", 
+      "number": "14", 
+      "pageNumber": null, 
+      "compareId": "jst-1-samuel-16_v1", 
+      "churchId": "p14"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "And Saul’s servants said unto him, Behold now, an evil spirit which is not of God troubleth thee.", 
+      "contentHtml": "And Saul’s servants said unto him, Behold now, an evil spirit <em>which is not of</em> God troubleth thee.", 
+      "number": "15", 
+      "pageNumber": null, 
+      "compareId": "jst-1-samuel-16_v2", 
+      "churchId": "p15"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "Let our lord now command thy servants, which are before thee, to seek out a man, who is a cunning player on a harp; and it shall come to pass, when the evil spirit, which is not of God, is upon thee, that he shall play with his hand, and thou shalt be well.", 
+      "contentHtml": "Let our lord now command thy servants, which are before thee, to seek out a man, who is a cunning player on a harp; and it shall come to pass, when the evil spirit, <em>which is not of</em> God, is upon thee, that he shall play with his hand, and thou shalt be well.", 
+      "number": "16", 
+      "pageNumber": null, 
+      "compareId": "jst-1-samuel-16_v3", 
+      "churchId": "p16"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "And it came to pass, when the evil spirit, which was not of God, was upon Saul, that David took a harp, and played with his hand; so Saul was refreshed, and was well, and the evil spirit departed from him.", 
+      "contentHtml": "And it came to pass, when the evil spirit, <em>which was not of</em> God, was upon Saul, that David took a harp, and played with his hand; so Saul was refreshed, and was well, and the evil spirit departed from him.", 
+      "number": "23", 
+      "pageNumber": null, 
+      "compareId": "jst-1-samuel-16_v4", 
+      "churchId": "p23"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0170-jst-1-samuel-1614-16-23-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0170-jst-1-samuel-1614-16-23-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

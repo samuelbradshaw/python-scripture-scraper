@@ -1,0 +1,42 @@
+{
+  "name": "JST, Genesis 1–8", 
+  "abbrev": null, 
+  "number": "1-8", 
+  "churchUri": "/scriptures/jst/jst-gen/1-8", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Genesis 1:1–8:18. Compare Genesis 1:1–6:13", 
+      "contentHtml": "<strong>JST, Genesis 1:1–8:18.</strong> Compare Genesis 1:1–6:13", 
+      "number": null, 
+      "pageNumber": "771,772", 
+      "compareId": "jst-genesis-1-8_st1", 
+      "churchId": "title1"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0010-jst-genesis-11-818-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0010-jst-genesis-11-818-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

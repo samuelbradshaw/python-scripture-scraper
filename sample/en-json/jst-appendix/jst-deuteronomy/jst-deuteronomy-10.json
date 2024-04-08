@@ -1,0 +1,52 @@
+{
+  "name": "JST, Deuteronomy 10", 
+  "abbrev": null, 
+  "number": "10", 
+  "churchUri": "/scriptures/jst/jst-deut/10", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Deuteronomy 10:2. Compare Deuteronomy 10:2", 
+      "contentHtml": "<strong>JST, Deuteronomy 10:2.</strong> Compare Deuteronomy 10:2", 
+      "number": null, 
+      "pageNumber": null, 
+      "compareId": "jst-deuteronomy-10_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "And I will write on the tables the words that were on the first tables, which thou brakest, save the words of the everlasting covenant of the holy priesthood, and thou shalt put them in the ark.", 
+      "contentHtml": "And I will write on the tables the words that were <em>on</em> the first tables, which thou brakest, <em>save the words of the everlasting covenant of the holy priesthood,</em> and thou shalt put them in the ark.", 
+      "number": "2", 
+      "pageNumber": null, 
+      "compareId": "jst-deuteronomy-10_v1", 
+      "churchId": "p2"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0160-jst-deuteronomy-102-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0160-jst-deuteronomy-102-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

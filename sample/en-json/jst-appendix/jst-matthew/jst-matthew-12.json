@@ -1,0 +1,62 @@
+{
+  "name": "JST, Matthew 12", 
+  "abbrev": null, 
+  "number": "12", 
+  "churchUri": "/scriptures/jst/jst-matt/12", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Matthew 12:37–38. Compare Matthew 12:43–44; see also JST, Luke 12:9–12", 
+      "contentHtml": "<strong>JST, Matthew 12:37–38.</strong> Compare Matthew 12:43–44; see also JST, Luke 12:9–12", 
+      "number": null, 
+      "pageNumber": "784", 
+      "compareId": "jst-matthew-12_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Then came some of the scribes and said unto him, Master, it is written that, Every sin shall be forgiven; but ye say, Whosoever speaketh against the Holy Ghost shall not be forgiven. And they asked him, saying, How can these things be?", 
+      "contentHtml": "<em>Then came some of the scribes and said unto him, Master, it is written that, Every sin shall be forgiven; but ye say, Whosoever speaketh against the Holy Ghost shall not be forgiven. And they asked him, saying, How can these things be?</em>", 
+      "number": "37", 
+      "pageNumber": "784", 
+      "compareId": "jst-matthew-12_v1", 
+      "churchId": "p37"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "And he said unto them, When the unclean spirit is gone out of a man, he walketh through dry places, seeking rest and findeth none; but when a man speaketh against the Holy Ghost, then he saith, I will return into my house from whence I came out; and when he is come, he findeth him empty, swept and garnished; for the good spirit leaveth him unto himself.", 
+      "contentHtml": "<em>And he said unto them,</em> When the unclean spirit is gone out of a man, he walketh through dry places, seeking rest and findeth none; <em>but when a man speaketh against the Holy Ghost,</em> then he saith, I will return into my house from whence I came out; and when he is come, he findeth <em>him</em> empty, swept and garnished; <em>for the good spirit leaveth him unto himself.</em>", 
+      "number": "38", 
+      "pageNumber": "784", 
+      "compareId": "jst-matthew-12_v2", 
+      "churchId": "p38"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0360-jst-matthew-1237-38-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0360-jst-matthew-1237-38-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

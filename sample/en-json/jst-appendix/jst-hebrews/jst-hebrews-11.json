@@ -1,0 +1,72 @@
+{
+  "name": "JST, Hebrews 11", 
+  "abbrev": null, 
+  "number": "11", 
+  "churchUri": "/scriptures/jst/jst-heb/11", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Hebrews 11:1. Compare Hebrews 11:1", 
+      "contentHtml": "<strong>JST, Hebrews 11:1.</strong> Compare Hebrews 11:1", 
+      "number": null, 
+      "pageNumber": "800", 
+      "compareId": "jst-hebrews-11_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Now faith is the assurance of things hoped for, the evidence of things not seen.", 
+      "contentHtml": "Now faith is the <em>assurance</em> of things hoped for, the evidence of things not seen.", 
+      "number": "1", 
+      "pageNumber": "800", 
+      "compareId": "jst-hebrews-11_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "section-title", 
+      "id": "st2", 
+      "content": "JST, Hebrews 11:35. Compare Hebrews 11:35", 
+      "contentHtml": "<strong>JST, Hebrews 11:35.</strong> Compare Hebrews 11:35", 
+      "number": null, 
+      "pageNumber": "800", 
+      "compareId": "jst-hebrews-11_st2", 
+      "churchId": "title2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "Women received their dead raised to life again; and others were tortured, not accepting deliverance; that they might obtain the first resurrection;", 
+      "contentHtml": "Women received their dead raised to life again; and others were tortured, not accepting deliverance; that they might obtain <em>the first</em> resurrection;", 
+      "number": "35", 
+      "pageNumber": "800", 
+      "compareId": "jst-hebrews-11_v2", 
+      "churchId": "p35"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0950-jst-hebrews-11-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0950-jst-hebrews-11-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

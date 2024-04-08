@@ -1,0 +1,62 @@
+{
+  "name": "JST, Exodus 33", 
+  "abbrev": null, 
+  "number": "33", 
+  "churchUri": "/scriptures/jst/jst-ex/33", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Exodus 33:20, 23. Compare Exodus 33:20, 23", 
+      "contentHtml": "<strong>JST, Exodus 33:20, 23.</strong> Compare Exodus 33:20, 23", 
+      "number": null, 
+      "pageNumber": null, 
+      "compareId": "jst-exodus-33_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "And he said unto Moses, Thou canst not see my face at this time, lest mine anger be kindled against thee also, and I destroy thee, and thy people; for there shall no man among them see me at this time, and live, for they are exceeding sinful. And no sinful man hath at any time, neither shall there be any sinful man at any time, that shall see my face and live.", 
+      "contentHtml": "And he said <em>unto Moses,</em> Thou canst not see my face <em>at this time, lest mine anger be kindled against thee also, and I destroy thee, and thy people;</em> for there shall no man <em>among them</em> see me <em>at this time,</em> and live, <em>for they are exceeding sinful. And no sinful man hath at any time, neither shall there be any sinful man at any time, that shall see my face and live.</em>", 
+      "number": "20", 
+      "pageNumber": null, 
+      "compareId": "jst-exodus-33_v1", 
+      "churchId": "p20"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "And I will take away mine hand, and thou shalt see my back parts, but my face shall not be seen, as at other times; for I am angry with my people Israel.", 
+      "contentHtml": "And I will take away mine hand, and thou shalt see my back parts, but my face shall not be seen, <em>as at other times; for I am angry with my people Israel.</em>", 
+      "number": "23", 
+      "pageNumber": null, 
+      "compareId": "jst-exodus-33_v2", 
+      "churchId": "p23"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0140-jst-exodus-332023-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0140-jst-exodus-332023-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

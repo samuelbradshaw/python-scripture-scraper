@@ -1,0 +1,52 @@
+{
+  "name": "JST, Exodus 32", 
+  "abbrev": null, 
+  "number": "32", 
+  "churchUri": "/scriptures/jst/jst-ex/32", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Exodus 32:14. Compare Exodus 32:14", 
+      "contentHtml": "<strong>JST, Exodus 32:14.</strong> Compare Exodus 32:14", 
+      "number": null, 
+      "pageNumber": null, 
+      "compareId": "jst-exodus-32_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "And the Lord said unto Moses, If they will repent of the evil which they have done, I will spare them, and turn away my fierce wrath; but, behold, thou shalt execute judgment upon all that will not repent of this evil this day. Therefore, see thou do this thing that I have commanded thee, or I will execute all that which I had thought to do unto my people.", 
+      "contentHtml": "And the Lord <em>said unto Moses, If they will repent</em> of the evil which <em>they have done, I will spare them, and turn away my fierce wrath; but, behold, thou shalt execute judgment upon all that will not repent of this evil this day. Therefore, see thou do this thing that I have commanded thee, or I will execute all that which I had</em> thought to do unto <em>my</em> people.", 
+      "number": "14", 
+      "pageNumber": null, 
+      "compareId": "jst-exodus-32_v1", 
+      "churchId": "p14"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0130-jst-exodus-3214-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0130-jst-exodus-3214-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

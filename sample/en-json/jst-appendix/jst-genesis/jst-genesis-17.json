@@ -1,0 +1,172 @@
+{
+  "name": "JST, Genesis 17", 
+  "abbrev": null, 
+  "number": "17", 
+  "churchUri": "/scriptures/jst/jst-gen/17", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Genesis 17:3–12. Compare Genesis 17:3–12", 
+      "contentHtml": "<strong>JST, Genesis 17:3–12.</strong> Compare Genesis 17:3–12", 
+      "number": null, 
+      "pageNumber": "773,774", 
+      "compareId": "jst-genesis-17_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "And it came to pass, that Abram fell on his face, and called upon the name of the Lord.", 
+      "contentHtml": "And <em>it came to pass, that</em> Abram fell on his face, <em>and called upon the name of the Lord.</em>", 
+      "number": "3", 
+      "pageNumber": "774", 
+      "compareId": "jst-genesis-17_v1", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "And God talked with him, saying, My people have gone astray from my precepts, and have not kept mine ordinances, which I gave unto their fathers;", 
+      "contentHtml": "And God talked with him, saying, <em>My people have gone astray from my precepts, and have not kept mine ordinances, which I gave unto their fathers;</em>", 
+      "number": "4", 
+      "pageNumber": "774", 
+      "compareId": "jst-genesis-17_v2", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "And they have not observed mine anointing, and the burial, or baptism wherewith I commanded them;", 
+      "contentHtml": "<em>And they have not observed mine anointing, and the burial, or baptism wherewith I commanded them;</em>", 
+      "number": "5", 
+      "pageNumber": "774", 
+      "compareId": "jst-genesis-17_v3", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "But have turned from the commandment, and taken unto themselves the washing of children, and the blood of sprinkling;", 
+      "contentHtml": "<em>But have turned from the commandment, and taken unto themselves the washing of children, and the blood of sprinkling;</em>", 
+      "number": "6", 
+      "pageNumber": "774", 
+      "compareId": "jst-genesis-17_v4", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "And have said that the blood of the righteous Abel was shed for sins; and have not known wherein they are accountable before me.", 
+      "contentHtml": "<em>And have said that the blood of the righteous Abel was shed for sins; and have not known wherein they are accountable before me.</em>", 
+      "number": "7", 
+      "pageNumber": "774", 
+      "compareId": "jst-genesis-17_v5", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "But as for thee, behold, I will make my covenant with thee, and thou shalt be a father of many nations.", 
+      "contentHtml": "<em>But</em> as for <em>thee,</em> behold, <em>I will make</em> my covenant with thee, and thou shalt be a father of many nations.", 
+      "number": "8", 
+      "pageNumber": "774", 
+      "compareId": "jst-genesis-17_v6", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "And this covenant I make, that thy children may be known among all nations. Neither shall thy name any more be called Abram, but thy name shall be called Abraham; for, a father of many nations have I made thee.", 
+      "contentHtml": "<em>And this covenant I make, that thy children may be known among all nations.</em> Neither shall thy name any more be called Abram, but thy name shall be called Abraham; for, a father of many nations have I made thee.", 
+      "number": "9", 
+      "pageNumber": "774", 
+      "compareId": "jst-genesis-17_v7", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "And I will make thee exceedingly fruitful, and I will make nations of thee, and kings shall come of thee, and of thy seed.", 
+      "contentHtml": "And I will make thee exceedingly fruitful, and I will make nations of thee, and kings shall come of thee, <em>and of thy seed.</em>", 
+      "number": "10", 
+      "pageNumber": "774", 
+      "compareId": "jst-genesis-17_v8", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "And I will establish a covenant of circumcision with thee, and it shall be my covenant between me and thee, and thy seed after thee, in their generations; that thou mayest know forever that children are not accountable before me until they are eight years old.", 
+      "contentHtml": "And I will establish <em>a covenant of circumcision with thee, and it shall be</em> my covenant between me and thee, and thy seed after thee, in their generations; <em>that thou mayest know forever that children are not accountable before me until they are eight years old.</em>", 
+      "number": "11", 
+      "pageNumber": "774", 
+      "compareId": "jst-genesis-17_v9", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "And thou shalt observe to keep all my covenants wherein I covenanted with thy fathers; and thou shalt keep the commandments which I have given thee with mine own mouth, and I will be a God unto thee and thy seed after thee.", 
+      "contentHtml": "<em>And thou shalt observe to keep all my covenants wherein I covenanted with thy fathers; and thou shalt keep the commandments which I have given thee with mine own mouth, and I will be a God unto thee and thy seed after thee.</em>", 
+      "number": "12", 
+      "pageNumber": "774", 
+      "compareId": "jst-genesis-17_v10", 
+      "churchId": "p12"
+    }, 
+    {
+      "type": "section-title", 
+      "id": "st2", 
+      "content": "JST, Genesis 17:23–24. Compare Genesis 17:17–18", 
+      "contentHtml": "<strong>JST, Genesis 17:23–24.</strong> Compare Genesis 17:17–18", 
+      "number": null, 
+      "pageNumber": "774", 
+      "compareId": "jst-genesis-17_st2", 
+      "churchId": "title2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "Then Abraham fell on his face and rejoiced, and said in his heart, There shall a child be born unto him that is an hundred years old, and Sarah that is ninety years old shall bear.", 
+      "contentHtml": "Then Abraham fell on his face and <em>rejoiced,</em> and said in his heart, <em>There</em> shall a child be born unto him that is an hundred years old, and Sarah that is ninety years old <em>shall bear.</em>", 
+      "number": "23", 
+      "pageNumber": "774", 
+      "compareId": "jst-genesis-17_v11", 
+      "churchId": "p23"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "And Abraham said unto God, Oh that Ishmael might live uprightly before thee!", 
+      "contentHtml": "And Abraham said unto God, Oh that Ishmael might live <em>uprightly</em> before thee!", 
+      "number": "24", 
+      "pageNumber": "774", 
+      "compareId": "jst-genesis-17_v12", 
+      "churchId": "p24"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0050-jst-genesis-17-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0050-jst-genesis-17-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

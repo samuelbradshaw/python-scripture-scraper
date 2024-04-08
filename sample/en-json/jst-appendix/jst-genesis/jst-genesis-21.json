@@ -1,0 +1,62 @@
+{
+  "name": "JST, Genesis 21", 
+  "abbrev": null, 
+  "number": "21", 
+  "churchUri": "/scriptures/jst/jst-gen/21", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Genesis 21:31–32. Compare Genesis 21:32–34", 
+      "contentHtml": "<strong>JST, Genesis 21:31–32.</strong> Compare Genesis 21:32–34", 
+      "number": null, 
+      "pageNumber": "775", 
+      "compareId": "jst-genesis-21_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Then Abimelech, and Phicol, the chief captain of his hosts, rose up, and they planted a grove in Beer-sheba, and called there on the name of the Lord; and they returned unto the land of the Philistines.", 
+      "contentHtml": "Then Abimelech, and Phicol, the chief captain of his hosts, rose up, <em>and they planted a grove in Beer-sheba, and called there on the name of the Lord;</em> and they returned unto the land of the Philistines.", 
+      "number": "31", 
+      "pageNumber": "775", 
+      "compareId": "jst-genesis-21_v1", 
+      "churchId": "p31"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "And Abraham worshiped the everlasting God, and sojourned in the land of the Philistines many days.", 
+      "contentHtml": "And Abraham <em>worshiped the everlasting God, and</em> sojourned in the land of the Philistines many days.", 
+      "number": "32", 
+      "pageNumber": "775", 
+      "compareId": "jst-genesis-21_v2", 
+      "churchId": "p32"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0070-jst-genesis-2131-32-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0070-jst-genesis-2131-32-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

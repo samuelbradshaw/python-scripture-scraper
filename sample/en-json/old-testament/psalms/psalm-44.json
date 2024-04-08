@@ -1,6 +1,6 @@
 {
   "name": "Psalm 44", 
-  "abbrev": "Psalm 44", 
+  "abbrev": "Ps. 44", 
   "number": "44", 
   "churchUri": "/scriptures/ot/ps/44", 
   "paragraphs": [
@@ -288,23 +288,25 @@
   "media": [
     {
       "type": "audio", 
-      "subtype": "female", 
+      "subtype": "spoken-female", 
       "url": "https://media2.ldscdn.org/assets/scriptures/the-old-testament/2015-11-5220-psalm-044-female-voice-64k-eng.mp3", 
-      "id": null, 
-      "thumbUrl": null, 
+      "imageUrl": null, 
       "startSeconds": null, 
       "endSeconds": null, 
-      "source": "ChurchofJesusChrist.org"
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
     }, 
     {
       "type": "audio", 
-      "subtype": "male", 
+      "subtype": "spoken-male", 
       "url": "https://media2.ldscdn.org/assets/scriptures/the-old-testament/2015-11-5220-psalm-044-male-voice-64k-eng.mp3", 
-      "id": null, 
-      "thumbUrl": null, 
+      "imageUrl": null, 
       "startSeconds": null, 
       "endSeconds": null, 
-      "source": "ChurchofJesusChrist.org"
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
     }
   ]
 }

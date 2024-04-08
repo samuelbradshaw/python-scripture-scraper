@@ -1,0 +1,402 @@
+{
+  "name": "JST, John 1", 
+  "abbrev": null, 
+  "number": "1", 
+  "churchUri": "/scriptures/jst/jst-john/1", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, John 1:1–34. Compare John 1:1–34", 
+      "contentHtml": "<strong>JST, John 1:1–34.</strong> Compare John 1:1–34", 
+      "number": null, 
+      "pageNumber": "793", 
+      "compareId": "jst-john-1_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "In the beginning was the gospel preached through the Son. And the gospel was the word, and the word was with the Son, and the Son was with God, and the Son was of God.", 
+      "contentHtml": "In the beginning was the <em>gospel preached through the Son. And the gospel was the word,</em> and the <em>word</em> was with <em>the Son, and the Son was with God,</em> and the <em>Son</em> was <em>of</em> God.", 
+      "number": "1", 
+      "pageNumber": "793", 
+      "compareId": "jst-john-1_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "The same was in the beginning with God.", 
+      "contentHtml": "The same was in the beginning with God.", 
+      "number": "2", 
+      "pageNumber": "793", 
+      "compareId": "jst-john-1_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "All things were made by him; and without him was not anything made which was made.", 
+      "contentHtml": "All things were made by him; and without him was not anything made which was made.", 
+      "number": "3", 
+      "pageNumber": "793", 
+      "compareId": "jst-john-1_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "In him was the gospel, and the gospel was the life, and the life was the light of men;", 
+      "contentHtml": "In him was <em>the gospel,</em> and <em>the gospel was the life,</em> and the life was the light of men;", 
+      "number": "4", 
+      "pageNumber": "793", 
+      "compareId": "jst-john-1_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "And the light shineth in the world, and the world perceiveth it not.", 
+      "contentHtml": "And the light shineth <em>in the world,</em> and the <em>world perceiveth</em> it not.", 
+      "number": "5", 
+      "pageNumber": "793", 
+      "compareId": "jst-john-1_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "There was a man sent from God, whose name was John.", 
+      "contentHtml": "There was a man sent from God, whose name was John.", 
+      "number": "6", 
+      "pageNumber": "793", 
+      "compareId": "jst-john-1_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "The same came into the world for a witness, to bear witness of the light, to bear record of the gospel through the Son, unto all, that through him men might believe.", 
+      "contentHtml": "The same came <em>into the world</em> for a witness, to bear witness of the <em>light, to bear record of the gospel through the Son, unto all,</em> that through him <em>men</em> might believe.", 
+      "number": "7", 
+      "pageNumber": "793", 
+      "compareId": "jst-john-1_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "He was not that light, but came to bear witness of that light,", 
+      "contentHtml": "He was not that <em>light,</em> but <em>came</em> to bear witness of that <em>light,</em>", 
+      "number": "8", 
+      "pageNumber": "793", 
+      "compareId": "jst-john-1_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "Which was the true light, which lighteth every man who cometh into the world;", 
+      "contentHtml": "Which was the true <em>light,</em> which lighteth every man <em>who</em> cometh into the world;", 
+      "number": "9", 
+      "pageNumber": "793", 
+      "compareId": "jst-john-1_v9", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "Even the Son of God. He who was in the world, and the world was made by him, and the world knew him not.", 
+      "contentHtml": "<em>Even the Son of God.</em> He <em>who</em> was in the world, and the world was made by him, and the world knew him not.", 
+      "number": "10", 
+      "pageNumber": "793", 
+      "compareId": "jst-john-1_v10", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "He came unto his own, and his own received him not.", 
+      "contentHtml": "He came unto his own, and his own received him not.", 
+      "number": "11", 
+      "pageNumber": "793", 
+      "compareId": "jst-john-1_v11", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "But as many as received him, to them gave he power to become the sons of God; only to them who believe on his name.", 
+      "contentHtml": "But as many as received him, to them gave he power to become the sons of God; <em>only</em> to them who believe on his name.", 
+      "number": "12", 
+      "pageNumber": "793", 
+      "compareId": "jst-john-1_v12", 
+      "churchId": "p12"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v13", 
+      "content": "He was born, not of blood, nor of the will of the flesh, nor of the will of man, but of God.", 
+      "contentHtml": "<em>He was</em> born, not of blood, nor of the will of the flesh, nor of the will of man, but of God.", 
+      "number": "13", 
+      "pageNumber": "793", 
+      "compareId": "jst-john-1_v13", 
+      "churchId": "p13"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v14", 
+      "content": "And the same word was made flesh, and dwelt among us, and we beheld his glory, the glory as of the Only Begotten of the Father, full of grace and truth.", 
+      "contentHtml": "And the <em>same word</em> was made flesh, and dwelt among us, and we beheld his glory, the glory as of the Only Begotten of the Father, full of grace and truth.", 
+      "number": "14", 
+      "pageNumber": "793", 
+      "compareId": "jst-john-1_v14", 
+      "churchId": "p14"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v15", 
+      "content": "John bear witness of him, and cried, saying, This is he of whom I spake; He who cometh after me, is preferred before me; for he was before me.", 
+      "contentHtml": "John <em>bear</em> witness of him, and cried, saying, This <em>is</em> he of whom I spake; He who cometh after me, is preferred before me; for he was before me.", 
+      "number": "15", 
+      "pageNumber": "793", 
+      "compareId": "jst-john-1_v15", 
+      "churchId": "p15"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v16", 
+      "content": "For in the beginning was the Word, even the Son, who is made flesh, and sent unto us by the will of the Father. And as many as believe on his name shall receive of his fullness. And of his fullness have all we received, even immortality and eternal life, through his grace.", 
+      "contentHtml": "<em>For in the beginning was the Word, even the Son, who is made flesh, and sent unto us by the will of the Father. And as many as believe on his name shall receive of his fullness.</em> And of his fullness have all we received, <em>even immortality and eternal life, through his</em> grace.", 
+      "number": "16", 
+      "pageNumber": "793", 
+      "compareId": "jst-john-1_v16", 
+      "churchId": "p16"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v17", 
+      "content": "For the law was given through Moses, but life and truth came through Jesus Christ.", 
+      "contentHtml": "For the law was given <em>through</em> Moses, but <em>life</em> and truth came <em>through</em> Jesus Christ.", 
+      "number": "17", 
+      "pageNumber": "793", 
+      "compareId": "jst-john-1_v17", 
+      "churchId": "p17"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v18", 
+      "content": "For the law was after a carnal commandment, to the administration of death; but the gospel was after the power of an endless life, through Jesus Christ, the Only Begotten Son, who is in the bosom of the Father.", 
+      "contentHtml": "<em>For the law was after a carnal commandment, to the administration of death; but the gospel was after the power of an endless life, through Jesus Christ, the Only Begotten Son, who is in the bosom of the Father.</em>", 
+      "number": "18", 
+      "pageNumber": "793", 
+      "compareId": "jst-john-1_v18", 
+      "churchId": "p18"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v19", 
+      "content": "And no man hath seen God at any time, except he hath borne record of the Son; for except it is through him no man can be saved.", 
+      "contentHtml": "<em>And</em> no man hath seen God at any time, <em>except he hath borne record of the Son; for except it is through him no man can be saved.</em>", 
+      "number": "19", 
+      "pageNumber": "793", 
+      "compareId": "jst-john-1_v19", 
+      "churchId": "p19"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v20", 
+      "content": "And this is the record of John, when the Jews sent priests and Levites from Jerusalem, to ask him; Who art thou?", 
+      "contentHtml": "And this is the record of John, when the Jews sent priests and Levites from Jerusalem, to ask him; Who art thou?", 
+      "number": "20", 
+      "pageNumber": "793", 
+      "compareId": "jst-john-1_v20", 
+      "churchId": "p20"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v21", 
+      "content": "And he confessed, and denied not that he was Elias; but confessed, saying; I am not the Christ.", 
+      "contentHtml": "And he confessed, and denied not <em>that he was Elias;</em> but confessed, <em>saying;</em> I am not the Christ.", 
+      "number": "21", 
+      "pageNumber": "793", 
+      "compareId": "jst-john-1_v21", 
+      "churchId": "p21"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v22", 
+      "content": "And they asked him, saying; How then art thou Elias? And he said, I am not that Elias who was to restore all things. And they asked him, saying, Art thou that prophet? And he answered, No.", 
+      "contentHtml": "And they asked him, <em>saying; How then art thou Elias?</em> And he said, I am not <em>that Elias who was to restore all things. And they asked him, saying,</em> Art thou that prophet? And he answered, No.", 
+      "number": "22", 
+      "pageNumber": "793", 
+      "compareId": "jst-john-1_v22", 
+      "churchId": "p22"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v23", 
+      "content": "Then said they unto him, Who art thou? that we may give an answer to them that sent us. What sayest thou of thyself?", 
+      "contentHtml": "Then said they unto him, Who art thou? that we may give an answer to them that sent us. What sayest thou of thyself?", 
+      "number": "23", 
+      "pageNumber": "793", 
+      "compareId": "jst-john-1_v23", 
+      "churchId": "p23"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v24", 
+      "content": "He said, I am the voice of one crying in the wilderness, Make straight the way of the Lord, as saith the prophet Esaias.", 
+      "contentHtml": "He said, I am the voice of one crying in the wilderness, Make straight the way of the Lord, as saith the prophet Esaias.", 
+      "number": "24", 
+      "pageNumber": "793", 
+      "compareId": "jst-john-1_v24", 
+      "churchId": "p24"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v25", 
+      "content": "And they who were sent were of the Pharisees.", 
+      "contentHtml": "And they who were sent were of the Pharisees.", 
+      "number": "25", 
+      "pageNumber": "793", 
+      "compareId": "jst-john-1_v25", 
+      "churchId": "p25"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v26", 
+      "content": "And they asked him, and said unto him; Why baptizest thou then, if thou be not the Christ, nor Elias who was to restore all things, neither that prophet?", 
+      "contentHtml": "And they asked him, and said unto him; Why baptizest thou then, if thou be not the Christ, nor Elias <em>who was to restore all things,</em> neither that prophet?", 
+      "number": "26", 
+      "pageNumber": "793,794", 
+      "compareId": "jst-john-1_v26", 
+      "churchId": "p26"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v27", 
+      "content": "John answered them, saying; I baptize with water, but there standeth one among you, whom ye know not;", 
+      "contentHtml": "John answered them, saying; I baptize with water, but there standeth one among you, whom ye know not;", 
+      "number": "27", 
+      "pageNumber": "794", 
+      "compareId": "jst-john-1_v27", 
+      "churchId": "p27"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v28", 
+      "content": "He it is of whom I bear record. He is that prophet, even Elias, who, coming after me, is preferred before me, whose shoe’s latchet I am not worthy to unloose, or whose place I am not able to fill; for he shall baptize, not only with water, but with fire, and with the Holy Ghost.", 
+      "contentHtml": "He it is <em>of whom I bear record. He is that prophet, even Elias,</em> who, coming after me, is preferred before me, whose shoe’s latchet I am not worthy to unloose, <em>or whose place I am not able to fill; for he shall baptize, not only with water, but with fire, and with the Holy Ghost.</em>", 
+      "number": "28", 
+      "pageNumber": "794", 
+      "compareId": "jst-john-1_v28", 
+      "churchId": "p28"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v29", 
+      "content": "The next day John seeth Jesus coming unto him, and said; Behold the Lamb of God, who taketh away the sin of the world!", 
+      "contentHtml": "The next day John seeth Jesus coming unto him, and said; Behold the Lamb of God, who taketh away the sin of the world!", 
+      "number": "29", 
+      "pageNumber": "794", 
+      "compareId": "jst-john-1_v29", 
+      "churchId": "p29"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v30", 
+      "content": "And John bare record of him unto the people, saying, This is he of whom I said; After me cometh a man who is preferred before me; for he was before me, and I knew him, and that he should be made manifest to Israel; therefore am I come baptizing with water.", 
+      "contentHtml": "<em>And John bare record of him unto the people, saying,</em> This is he of whom I said; After me cometh a man who is preferred before me; for he was before me, and I knew him, <em>and</em> that he should be made manifest to Israel; therefore am I come baptizing with water.", 
+      "number": "30", 
+      "pageNumber": "794", 
+      "compareId": "jst-john-1_v30", 
+      "churchId": "p30"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v31", 
+      "content": "And John bare record, saying; When he was baptized of me, I saw the Spirit descending from heaven like a dove, and it abode upon him.", 
+      "contentHtml": "And John bare record, saying; <em>When he was baptized of me,</em> I saw the Spirit descending from heaven like a dove, and it abode upon him.", 
+      "number": "31", 
+      "pageNumber": "794", 
+      "compareId": "jst-john-1_v31", 
+      "churchId": "p31"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v32", 
+      "content": "And I knew him; for he who sent me to baptize with water, the same said unto me; Upon whom thou shalt see the Spirit descending, and remaining on him, the same is he who baptizeth with the Holy Ghost.", 
+      "contentHtml": "And I knew him; <em>for</em> he who sent me to baptize with water, the same said unto me; Upon whom thou shalt see the Spirit descending, and remaining on him, the same is he who baptizeth with the Holy Ghost.", 
+      "number": "32", 
+      "pageNumber": "794", 
+      "compareId": "jst-john-1_v32", 
+      "churchId": "p32"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v33", 
+      "content": "And I saw, and bare record that this is the Son of God.", 
+      "contentHtml": "And I saw, and bare record that this is the Son of God.", 
+      "number": "33", 
+      "pageNumber": "794", 
+      "compareId": "jst-john-1_v33", 
+      "churchId": "p33"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v34", 
+      "content": "These things were done in Bethabara, beyond Jordan, where John was baptizing.", 
+      "contentHtml": "<em>These things were done in Bethabara, beyond Jordan, where John was baptizing.</em>", 
+      "number": "34", 
+      "pageNumber": "794", 
+      "compareId": "jst-john-1_v34", 
+      "churchId": "p34"
+    }, 
+    {
+      "type": "section-title", 
+      "id": "st2", 
+      "content": "JST, John 1:42. Compare John 1:42", 
+      "contentHtml": "<strong>JST, John 1:42.</strong> Compare John 1:42", 
+      "number": null, 
+      "pageNumber": "794", 
+      "compareId": "jst-john-1_st2", 
+      "churchId": "title2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v35", 
+      "content": "And he brought him to Jesus. And when Jesus beheld him, he said, Thou art Simon, the son of Jona, thou shalt be called Cephas, which is, by interpretation, a seer, or a stone. And they were fishermen. And they straightway left all, and followed Jesus.", 
+      "contentHtml": "And he brought him to Jesus. And when Jesus beheld him, he said, Thou art Simon, the son of Jona, thou shalt be called Cephas, which is, by interpretation, <em>a seer, or</em> a stone. <em>And they were fishermen. And they straightway left all, and followed Jesus.</em>", 
+      "number": "42", 
+      "pageNumber": "794", 
+      "compareId": "jst-john-1_v35", 
+      "churchId": "p42"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0680-jst-john-1-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0680-jst-john-1-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

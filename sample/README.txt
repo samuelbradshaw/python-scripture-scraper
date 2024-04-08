@@ -8,13 +8,13 @@ Users are responsible for complying with copyright and other laws in their use o
 
 --------
 
-Script version: 2.0
-Date generated: 2023-08-02 01:59:54.471393
+Script version: 2.1
+Date generated: 2024-04-07 20:01:47.100847
 
 DEFAULT_LANG = 'en'
 SCRAPE_FULL_CONTENT = True
 SCRAPE_METADATA_FOR_ALL_LANGUAGES = True
-SECONDS_TO_PAUSE_BETWEEN_REQUESTS = 1
+SECONDS_TO_PAUSE_BETWEEN_REQUESTS = 0.5
 JSON_INDENT = 2
 USE_TEST_DATA = False
 OUTPUT_AS_JSON = True

@@ -1,0 +1,92 @@
+{
+  "name": "JST, Psalm 11", 
+  "abbrev": null, 
+  "number": "11", 
+  "churchUri": "/scriptures/jst/jst-ps/11", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Psalm 11:1–5. Compare Psalm 11:1–5", 
+      "contentHtml": "<strong>JST, Psalm 11:1–5.</strong> Compare Psalm 11:1–5", 
+      "number": null, 
+      "pageNumber": null, 
+      "compareId": "jst-psalm-11_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "In that day thou shalt come, O Lord; and I will put my trust in thee. Thou shalt say unto thy people, for mine ear hath heard thy voice; thou shalt say unto every soul, Flee unto my mountain; and the righteous shall flee like a bird that is let go from the snare of the fowler.", 
+      "contentHtml": "<em>In that day thou shalt come, O Lord; and</em> I will put my trust <em>in thee. Thou shalt say unto thy people, for mine ear hath heard thy voice; thou shalt say unto every</em> soul, Flee unto <em>my</em> mountain; <em>and the righteous shall flee like</em> a bird <em>that is let go from the snare of the fowler.</em>", 
+      "number": "1", 
+      "pageNumber": null, 
+      "compareId": "jst-psalm-11_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "For the wicked bend their bow; lo, they make ready their arrow upon the string, that they may privily shoot at the upright in heart, to destroy their foundation.", 
+      "contentHtml": "For the wicked bend their bow; lo, they make ready their arrow upon the string, that they may privily shoot at the upright in heart, <em>to destroy their foundation.</em>", 
+      "number": "2", 
+      "pageNumber": null, 
+      "compareId": "jst-psalm-11_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "But the foundations of the wicked shall be destroyed, and what can they do?", 
+      "contentHtml": "<em>But</em> the foundations <em>of the wicked shall</em> be destroyed, <em>and</em> what can <em>they</em> do?", 
+      "number": "3", 
+      "pageNumber": null, 
+      "compareId": "jst-psalm-11_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "For the Lord, when he shall come into his holy temple, sitting upon God’s throne in heaven, his eyes shall pierce the wicked.", 
+      "contentHtml": "<em>For</em> the Lord, <em>when he shall come into</em> his holy temple, <em>sitting upon God’s</em> throne in heaven, his eyes <em>shall pierce the wicked.</em>", 
+      "number": "4", 
+      "pageNumber": null, 
+      "compareId": "jst-psalm-11_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "Behold his eyelids shall try the children of men, and he shall redeem the righteous, and they shall be tried. The Lord loveth the righteous, but the wicked, and him that loveth violence, his soul hateth.", 
+      "contentHtml": "Behold his eyelids <em>shall</em> try the children of men, <em>and he shall redeem the righteous, and they shall be tried.</em> The Lord <em>loveth</em> the righteous, but the wicked, and him that loveth violence, his soul hateth.", 
+      "number": "5", 
+      "pageNumber": null, 
+      "compareId": "jst-psalm-11_v5", 
+      "churchId": "p5"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0210-jst-psalm-111-5-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0210-jst-psalm-111-5-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

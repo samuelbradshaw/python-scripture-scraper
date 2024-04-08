@@ -1,0 +1,92 @@
+{
+  "name": "JST, Matthew 17", 
+  "abbrev": null, 
+  "number": "17", 
+  "churchUri": "/scriptures/jst/jst-matt/17", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Matthew 17:10–14. Compare Matthew 17:11–13", 
+      "contentHtml": "<strong>JST, Matthew 17:10–14.</strong> Compare Matthew 17:11–13", 
+      "number": null, 
+      "pageNumber": "785", 
+      "compareId": "jst-matthew-17_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "And Jesus answered and said unto them, Elias truly shall first come, and restore all things, as the prophets have written.", 
+      "contentHtml": "And Jesus answered and said unto them, Elias truly shall first come, and restore all things, <em>as the prophets have written.</em>", 
+      "number": "10", 
+      "pageNumber": "785", 
+      "compareId": "jst-matthew-17_v1", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "And again I say unto you that Elias has come already, concerning whom it is written, Behold, I will send my messenger, and he shall prepare the way before me; and they knew him not, and have done unto him, whatsoever they listed.", 
+      "contentHtml": "<em>And again</em> I say unto you that Elias has come already, <em>concerning whom it is written, Behold, I will send my messenger, and he shall prepare the way before me;</em> and they knew him not, and have done unto him, whatsoever they listed.", 
+      "number": "11", 
+      "pageNumber": "785", 
+      "compareId": "jst-matthew-17_v2", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "Likewise shall also the Son of man suffer of them.", 
+      "contentHtml": "Likewise shall also the Son of man suffer of them.", 
+      "number": "12", 
+      "pageNumber": "785", 
+      "compareId": "jst-matthew-17_v3", 
+      "churchId": "p12"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "But I say unto you, Who is Elias? Behold, this is Elias, whom I send to prepare the way before me.", 
+      "contentHtml": "<em>But I say unto you, Who is Elias? Behold, this is Elias, whom I send to prepare the way before me.</em>", 
+      "number": "13", 
+      "pageNumber": "785", 
+      "compareId": "jst-matthew-17_v4", 
+      "churchId": "p13"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "Then the disciples understood that he spake unto them of John the Baptist, and also of another who should come and restore all things, as it is written by the prophets.", 
+      "contentHtml": "Then the disciples understood that he spake unto them of John the Baptist, <em>and also of another who should come and restore all things, as it is written by the prophets.</em>", 
+      "number": "14", 
+      "pageNumber": "785", 
+      "compareId": "jst-matthew-17_v5", 
+      "churchId": "p14"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0390-jst-matthew-1710-14-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0390-jst-matthew-1710-14-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

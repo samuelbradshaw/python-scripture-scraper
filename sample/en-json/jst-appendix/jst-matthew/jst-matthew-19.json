@@ -1,0 +1,52 @@
+{
+  "name": "JST, Matthew 19", 
+  "abbrev": null, 
+  "number": "19", 
+  "churchUri": "/scriptures/jst/jst-matt/19", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Matthew 19:13. Compare Matthew 19:13", 
+      "contentHtml": "<strong>JST, Matthew 19:13.</strong> Compare Matthew 19:13", 
+      "number": null, 
+      "pageNumber": "785", 
+      "compareId": "jst-matthew-19_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Then were there brought unto him little children, that he should put his hands on them and pray. And the disciples rebuked them, saying, There is no need, for Jesus hath said, Such shall be saved.", 
+      "contentHtml": "Then were there brought unto him little children, that he should put his hands on them and pray. And the disciples rebuked them, <em>saying, There is no need, for Jesus hath said, Such shall be saved.</em>", 
+      "number": "13", 
+      "pageNumber": "785", 
+      "compareId": "jst-matthew-19_v1", 
+      "churchId": "p13"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0410-jst-matthew-1913-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0410-jst-matthew-1913-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

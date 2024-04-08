@@ -1,0 +1,92 @@
+{
+  "name": "JST, Isaiah 42", 
+  "abbrev": null, 
+  "number": "42", 
+  "churchUri": "/scriptures/jst/jst-isa/42", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Isaiah 42:19–23. Compare Isaiah 42:19–22", 
+      "contentHtml": "<strong>JST, Isaiah 42:19–23.</strong> Compare Isaiah 42:19–22", 
+      "number": null, 
+      "pageNumber": null, 
+      "compareId": "jst-isaiah-42_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "For I will send my servant unto you who are blind; yea, a messenger to open the eyes of the blind, and unstop the ears of the deaf;", 
+      "contentHtml": "<em>For I will send my servant unto you who are blind; yea, a messenger to open the eyes of the blind, and unstop the ears of the deaf;</em>", 
+      "number": "19", 
+      "pageNumber": null, 
+      "compareId": "jst-isaiah-42_v1", 
+      "churchId": "p19"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "And they shall be made perfect notwithstanding their blindness, if they will hearken unto the messenger, the Lord’s servant.", 
+      "contentHtml": "<em>And they shall be made perfect notwithstanding their blindness, if they will hearken unto the messenger,</em> the Lord’s servant.", 
+      "number": "20", 
+      "pageNumber": null, 
+      "compareId": "jst-isaiah-42_v2", 
+      "churchId": "p20"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "Thou art a people, seeing many things, but thou observest not; opening the ears to hear, but thou hearest not.", 
+      "contentHtml": "<em>Thou art a people,</em> seeing many things, but thou observest not; opening the ears <em>to hear, but thou</em> hearest not.", 
+      "number": "21", 
+      "pageNumber": null, 
+      "compareId": "jst-isaiah-42_v3", 
+      "churchId": "p21"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "The Lord is not well pleased with such a people, but for his righteousness’ sake he will magnify the law and make it honorable.", 
+      "contentHtml": "The Lord is <em>not</em> well pleased <em>with such a people, but</em> for his righteousness’ sake he will magnify the law and make it honorable.", 
+      "number": "22", 
+      "pageNumber": null, 
+      "compareId": "jst-isaiah-42_v4", 
+      "churchId": "p22"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "Thou art a people robbed and spoiled; thine enemies, all of them, have snared thee in holes, and they have hid thee in prison houses; they have taken thee for a prey, and none delivereth; for a spoil, and none saith, Restore.", 
+      "contentHtml": "<em>Thou art</em> a people robbed and spoiled; <em>thine enemies,</em> all of them, <em>have</em> snared <em>thee</em> in holes, and they <em>have hid thee</em> in prison houses; they <em>have taken thee</em> for a prey, and none delivereth; for a spoil, and none saith, Restore.", 
+      "number": "23", 
+      "pageNumber": null, 
+      "compareId": "jst-isaiah-42_v5", 
+      "churchId": "p23"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0260-jst-isaiah-4219-23-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0260-jst-isaiah-4219-23-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "name": "JST, Genesis 48", 
+  "abbrev": null, 
+  "number": "48", 
+  "churchUri": "/scriptures/jst/jst-gen/48", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Genesis 48:5–11. Compare Genesis 48:5–6", 
+      "contentHtml": "<strong>JST, Genesis 48:5–11.</strong> Compare Genesis 48:5–6", 
+      "number": null, 
+      "pageNumber": "775", 
+      "compareId": "jst-genesis-48_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "And now, of thy two sons, Ephraim and Manasseh, which were born unto thee in the land of Egypt, before I came unto thee into Egypt; behold, they are mine, and the God of my fathers shall bless them; even as Reuben and Simeon they shall be blessed, for they are mine; wherefore they shall be called after my name. (Therefore they were called Israel.)", 
+      "contentHtml": "And now, of thy two sons, Ephraim and Manasseh, which were born unto thee in the land of Egypt, before I came unto thee into Egypt; <em>behold, they</em> are mine, <em>and the God of my fathers shall bless them; even</em> as Reuben and Simeon they <em>shall be blessed, for they are</em> mine; <em>wherefore they shall be called after my name. (Therefore they were called Israel.)</em>", 
+      "number": "5", 
+      "pageNumber": "775", 
+      "compareId": "jst-genesis-48_v1", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "And thy issue which thou begettest after them, shall be thine, and shall be called after the name of their brethren in their inheritance, in the tribes; therefore they were called the tribes of Manasseh and of Ephraim.", 
+      "contentHtml": "And thy issue which thou begettest after them, shall be thine, and shall be called after the name of their brethren in their inheritance, <em>in the tribes; therefore they were called the tribes of Manasseh and of Ephraim.</em>", 
+      "number": "6", 
+      "pageNumber": "775", 
+      "compareId": "jst-genesis-48_v2", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "And Jacob said unto Joseph, When the God of my fathers appeared unto me in Luz, in the land of Canaan; he sware unto me, that he would give unto me, and unto my seed, the land for an everlasting possession.", 
+      "contentHtml": "<em>And Jacob said unto Joseph, When the God of my fathers appeared unto me in Luz, in the land of Canaan; he sware unto me, that he would give unto me, and unto my seed, the land for an everlasting possession.</em>", 
+      "number": "7", 
+      "pageNumber": "775", 
+      "compareId": "jst-genesis-48_v3", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "Therefore, O my son, he hath blessed me in raising thee up to be a servant unto me, in saving my house from death;", 
+      "contentHtml": "<em>Therefore, O my son, he hath blessed me in raising thee up to be a servant unto me, in saving my house from death;</em>", 
+      "number": "8", 
+      "pageNumber": "775", 
+      "compareId": "jst-genesis-48_v4", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "In delivering my people, thy brethren, from famine which was sore in the land; wherefore the God of thy fathers shall bless thee, and the fruit of thy loins, that they shall be blessed above thy brethren, and above thy father’s house;", 
+      "contentHtml": "<em>In delivering my people, thy brethren, from famine which was sore in the land; wherefore the God of thy fathers shall bless thee, and the fruit of thy loins, that they shall be blessed above thy brethren, and above thy father’s house;</em>", 
+      "number": "9", 
+      "pageNumber": "775", 
+      "compareId": "jst-genesis-48_v5", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "For thou hast prevailed, and thy father’s house hath bowed down unto thee, even as it was shown unto thee, before thou wast sold into Egypt by the hands of thy brethren; wherefore thy brethren shall bow down unto thee, from generation to generation, unto the fruit of thy loins forever;", 
+      "contentHtml": "<em>For thou hast prevailed, and thy father’s house hath bowed down unto thee, even as it was shown unto thee, before thou wast sold into Egypt by the hands of thy brethren; wherefore thy brethren shall bow down unto thee, from generation to generation, unto the fruit of thy loins forever;</em>", 
+      "number": "10", 
+      "pageNumber": "775", 
+      "compareId": "jst-genesis-48_v6", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "For thou shalt be a light unto my people, to deliver them in the days of their captivity, from bondage; and to bring salvation unto them, when they are altogether bowed down under sin.", 
+      "contentHtml": "<em>For thou shalt be a light unto my people, to deliver them in the days of their captivity, from bondage; and to bring salvation unto them, when they are altogether bowed down under sin.</em>", 
+      "number": "11", 
+      "pageNumber": "775", 
+      "compareId": "jst-genesis-48_v7", 
+      "churchId": "p11"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0080-jst-genesis-485-11-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0080-jst-genesis-485-11-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

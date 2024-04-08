@@ -1,0 +1,202 @@
+{
+  "name": "JST, Genesis 14", 
+  "abbrev": null, 
+  "number": "14", 
+  "churchUri": "/scriptures/jst/jst-gen/14", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Genesis 14:25–40. Compare Genesis 14:18–20", 
+      "contentHtml": "<strong>JST, Genesis 14:25–40.</strong> Compare Genesis 14:18–20", 
+      "number": null, 
+      "pageNumber": "772,773", 
+      "compareId": "jst-genesis-14_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "And Melchizedek lifted up his voice and blessed Abram.", 
+      "contentHtml": "<em>And Melchizedek lifted up his voice and blessed Abram.</em>", 
+      "number": "25", 
+      "pageNumber": "773", 
+      "compareId": "jst-genesis-14_v1", 
+      "churchId": "p25"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "Now Melchizedek was a man of faith, who wrought righteousness; and when a child he feared God, and stopped the mouths of lions, and quenched the violence of fire.", 
+      "contentHtml": "<em>Now Melchizedek was a man of faith, who wrought righteousness; and when a child he feared God, and stopped the mouths of lions, and quenched the violence of fire.</em>", 
+      "number": "26", 
+      "pageNumber": "773", 
+      "compareId": "jst-genesis-14_v2", 
+      "churchId": "p26"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "And thus, having been approved of God, he was ordained an high priest after the order of the covenant which God made with Enoch,", 
+      "contentHtml": "<em>And thus, having been approved of God, he was ordained an high priest after the order of the covenant which God made with Enoch,</em>", 
+      "number": "27", 
+      "pageNumber": "773", 
+      "compareId": "jst-genesis-14_v3", 
+      "churchId": "p27"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "It being after the order of the Son of God; which order came, not by man, nor the will of man; neither by father nor mother; neither by beginning of days nor end of years; but of God;", 
+      "contentHtml": "<em>It being after the order of the Son of God; which order came, not by man, nor the will of man; neither by father nor mother; neither by beginning of days nor end of years; but of God;</em>", 
+      "number": "28", 
+      "pageNumber": "773", 
+      "compareId": "jst-genesis-14_v4", 
+      "churchId": "p28"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "And it was delivered unto men by the calling of his own voice, according to his own will, unto as many as believed on his name.", 
+      "contentHtml": "<em>And it was delivered unto men by the calling of his own voice, according to his own will, unto as many as believed on his name.</em>", 
+      "number": "29", 
+      "pageNumber": "773", 
+      "compareId": "jst-genesis-14_v5", 
+      "churchId": "p29"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "For God having sworn unto Enoch and unto his seed with an oath by himself; that every one being ordained after this order and calling should have power, by faith, to break mountains, to divide the seas, to dry up waters, to turn them out of their course;", 
+      "contentHtml": "<em>For God having sworn unto Enoch and unto his seed with an oath by himself; that every one being ordained after this order and calling should have power, by faith, to break mountains, to divide the seas, to dry up waters, to turn them out of their course;</em>", 
+      "number": "30", 
+      "pageNumber": "773", 
+      "compareId": "jst-genesis-14_v6", 
+      "churchId": "p30"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "To put at defiance the armies of nations, to divide the earth, to break every band, to stand in the presence of God; to do all things according to his will, according to his command, subdue principalities and powers; and this by the will of the Son of God which was from before the foundation of the world.", 
+      "contentHtml": "<em>To put at defiance the armies of nations, to divide the earth, to break every band, to stand in the presence of God; to do all things according to his will, according to his command, subdue principalities and powers; and this by the will of the Son of God which was from before the foundation of the world.</em>", 
+      "number": "31", 
+      "pageNumber": "773", 
+      "compareId": "jst-genesis-14_v7", 
+      "churchId": "p31"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "And men having this faith, coming up unto this order of God, were translated and taken up into heaven.", 
+      "contentHtml": "<em>And men having this faith, coming up unto this order of God, were translated and taken up into heaven.</em>", 
+      "number": "32", 
+      "pageNumber": "773", 
+      "compareId": "jst-genesis-14_v8", 
+      "churchId": "p32"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "And now, Melchizedek was a priest of this order; therefore he obtained peace in Salem, and was called the Prince of peace.", 
+      "contentHtml": "<em>And now, Melchizedek was a priest of this order; therefore he obtained peace in Salem, and was called the Prince of peace.</em>", 
+      "number": "33", 
+      "pageNumber": "773", 
+      "compareId": "jst-genesis-14_v9", 
+      "churchId": "p33"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "And his people wrought righteousness, and obtained heaven, and sought for the city of Enoch which God had before taken, separating it from the earth, having reserved it unto the latter days, or the end of the world;", 
+      "contentHtml": "<em>And his people wrought righteousness, and obtained heaven, and sought for the city of Enoch which God had before taken, separating it from the earth, having reserved it unto the latter days, or the end of the world;</em>", 
+      "number": "34", 
+      "pageNumber": "773", 
+      "compareId": "jst-genesis-14_v10", 
+      "churchId": "p34"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "And hath said, and sworn with an oath, that the heavens and the earth should come together; and the sons of God should be tried so as by fire.", 
+      "contentHtml": "<em>And hath said, and sworn with an oath, that the heavens and the earth should come together; and the sons of God should be tried so as by fire.</em>", 
+      "number": "35", 
+      "pageNumber": "773", 
+      "compareId": "jst-genesis-14_v11", 
+      "churchId": "p35"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "And this Melchizedek, having thus established righteousness, was called the king of heaven by his people, or, in other words, the King of peace.", 
+      "contentHtml": "<em>And this Melchizedek, having thus established righteousness, was called the king of heaven by his people, or, in other words, the King of peace.</em>", 
+      "number": "36", 
+      "pageNumber": "773", 
+      "compareId": "jst-genesis-14_v12", 
+      "churchId": "p36"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v13", 
+      "content": "And he lifted up his voice, and he blessed Abram, being the high priest, and the keeper of the storehouse of God;", 
+      "contentHtml": "<em>And he lifted up his voice, and he blessed Abram, being the high priest, and the keeper of the storehouse of God;</em>", 
+      "number": "37", 
+      "pageNumber": "773", 
+      "compareId": "jst-genesis-14_v13", 
+      "churchId": "p37"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v14", 
+      "content": "Him whom God had appointed to receive tithes for the poor.", 
+      "contentHtml": "<em>Him whom God had appointed to receive tithes for the poor.</em>", 
+      "number": "38", 
+      "pageNumber": "773", 
+      "compareId": "jst-genesis-14_v14", 
+      "churchId": "p38"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v15", 
+      "content": "Wherefore, Abram paid unto him tithes of all that he had, of all the riches which he possessed, which God had given him more than that which he had need.", 
+      "contentHtml": "<em>Wherefore, Abram paid unto him tithes of all that he had, of all the riches which he possessed, which God had given him more than that which he had need.</em>", 
+      "number": "39", 
+      "pageNumber": "773", 
+      "compareId": "jst-genesis-14_v15", 
+      "churchId": "p39"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v16", 
+      "content": "And it came to pass, that God blessed Abram, and gave unto him riches, and honor, and lands for an everlasting possession; according to the covenant which he had made, and according to the blessing wherewith Melchizedek had blessed him.", 
+      "contentHtml": "<em>And it came to pass, that God blessed Abram, and gave unto him riches, and honor, and lands for an everlasting possession; according to the covenant which he had made, and according to the blessing wherewith Melchizedek had blessed him.</em>", 
+      "number": "40", 
+      "pageNumber": "773", 
+      "compareId": "jst-genesis-14_v16", 
+      "churchId": "p40"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0030-jst-genesis-1425-40-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0030-jst-genesis-1425-40-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

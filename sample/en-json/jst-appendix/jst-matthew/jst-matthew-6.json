@@ -1,0 +1,132 @@
+{
+  "name": "JST, Matthew 6", 
+  "abbrev": null, 
+  "number": "6", 
+  "churchUri": "/scriptures/jst/jst-matt/6", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Matthew 6:14. Compare Matthew 6:13; similar changes were made in Luke 11:4", 
+      "contentHtml": "<strong>JST, Matthew 6:14.</strong> Compare Matthew 6:13; similar changes were made in Luke 11:4", 
+      "number": null, 
+      "pageNumber": "782", 
+      "compareId": "jst-matthew-6_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "And suffer us not to be led into temptation, but deliver us from evil.", 
+      "contentHtml": "And <em>suffer</em> us not <em>to be led</em> into temptation, but deliver us from evil.", 
+      "number": "14", 
+      "pageNumber": "782", 
+      "compareId": "jst-matthew-6_v1", 
+      "churchId": "p14"
+    }, 
+    {
+      "type": "section-title", 
+      "id": "st2", 
+      "content": "JST, Matthew 6:22. Compare Matthew 6:22", 
+      "contentHtml": "<strong>JST, Matthew 6:22.</strong> Compare Matthew 6:22", 
+      "number": null, 
+      "pageNumber": "782,783", 
+      "compareId": "jst-matthew-6_st2", 
+      "churchId": "title2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "The light of the body is the eye; if therefore thine eye be single to the glory of God, thy whole body shall be full of light.", 
+      "contentHtml": "The light of the body is the eye; if therefore thine eye be single <em>to the glory of God,</em> thy whole body shall be full of light.", 
+      "number": "22", 
+      "pageNumber": "783", 
+      "compareId": "jst-matthew-6_v2", 
+      "churchId": "p22"
+    }, 
+    {
+      "type": "section-title", 
+      "id": "st3", 
+      "content": "JST, Matthew 6:25–27. Compare Matthew 6:25; 10:10", 
+      "contentHtml": "<strong>JST, Matthew 6:25–27.</strong> Compare Matthew 6:25; 10:10", 
+      "number": null, 
+      "pageNumber": "783", 
+      "compareId": "jst-matthew-6_st3", 
+      "churchId": "title3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "And, again, I say unto you, Go ye into the world, and care not for the world; for the world will hate you, and will persecute you, and will turn you out of their synagogues.", 
+      "contentHtml": "<em>And, again, I say unto you, Go ye into the world, and care not for the world; for the world will hate you, and will persecute you, and will turn you out of their synagogues.</em>", 
+      "number": "25", 
+      "pageNumber": "783", 
+      "compareId": "jst-matthew-6_v3", 
+      "churchId": "p25"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "Nevertheless, ye shall go forth from house to house, teaching the people; and I will go before you.", 
+      "contentHtml": "<em>Nevertheless, ye shall go forth from house to house, teaching the people; and I will go before you.</em>", 
+      "number": "26", 
+      "pageNumber": "783", 
+      "compareId": "jst-matthew-6_v4", 
+      "churchId": "p26"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "And your heavenly Father will provide for you, whatsoever things ye need for food, what ye shall eat; and for raiment, what ye shall wear or put on.", 
+      "contentHtml": "<em>And your heavenly Father will provide for you, whatsoever things ye need for food, what ye shall eat; and for raiment, what ye shall wear or put on.</em>", 
+      "number": "27", 
+      "pageNumber": "783", 
+      "compareId": "jst-matthew-6_v5", 
+      "churchId": "p27"
+    }, 
+    {
+      "type": "section-title", 
+      "id": "st4", 
+      "content": "JST, Matthew 6:38. Compare Matthew 6:33", 
+      "contentHtml": "<strong>JST, Matthew 6:38.</strong> Compare Matthew 6:33", 
+      "number": null, 
+      "pageNumber": "783", 
+      "compareId": "jst-matthew-6_st4", 
+      "churchId": "title4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "Wherefore, seek not the things of this world but seek ye first to build up the kingdom of God, and to establish his righteousness, and all these things shall be added unto you.", 
+      "contentHtml": "<em>Wherefore, seek not the things of this world</em> but seek ye first <em>to build up</em> the kingdom of God, and <em>to establish</em> his righteousness, and all these things shall be added unto you.", 
+      "number": "38", 
+      "pageNumber": "783", 
+      "compareId": "jst-matthew-6_v6", 
+      "churchId": "p38"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0320-jst-matthew-6-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0320-jst-matthew-6-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

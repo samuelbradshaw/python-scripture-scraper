@@ -1,0 +1,72 @@
+{
+  "name": "JST, Luke 14", 
+  "abbrev": null, 
+  "number": "14", 
+  "churchUri": "/scriptures/jst/jst-luke/14", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Luke 14:35–37. Compare Luke 14:34", 
+      "contentHtml": "<strong>JST, Luke 14:35–37.</strong> Compare Luke 14:34", 
+      "number": null, 
+      "pageNumber": "791", 
+      "compareId": "jst-luke-14_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Then certain of them came to him, saying, Good Master, we have Moses and the prophets, and whosoever shall live by them, shall he not have life?", 
+      "contentHtml": "<em>Then certain of them came to him, saying, Good Master, we have Moses and the prophets, and whosoever shall live by them, shall he not have life?</em>", 
+      "number": "35", 
+      "pageNumber": "791", 
+      "compareId": "jst-luke-14_v1", 
+      "churchId": "p35"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "And Jesus answered, saying, Ye know not Moses, neither the prophets; for if ye had known them, ye would have believed on me; for to this intent they were written. For I am sent that ye might have life. Therefore I will liken it unto salt which is good;", 
+      "contentHtml": "<em>And Jesus answered, saying, Ye know not Moses, neither the prophets; for if ye had known them, ye would have believed on me; for to this intent they were written. For I am sent that ye might have life. Therefore I will liken it unto</em> salt <em>which</em> is good;", 
+      "number": "36", 
+      "pageNumber": "791", 
+      "compareId": "jst-luke-14_v2", 
+      "churchId": "p36"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "But if the salt has lost its savor, wherewith shall it be seasoned?", 
+      "contentHtml": "But if the salt <em>has</em> lost <em>its</em> savor, wherewith shall it be seasoned?", 
+      "number": "37", 
+      "pageNumber": "791", 
+      "compareId": "jst-luke-14_v3", 
+      "churchId": "p37"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0610-jst-luke-1435-37-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0610-jst-luke-1435-37-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

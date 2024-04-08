@@ -1,0 +1,122 @@
+{
+  "name": "JST, Luke 16", 
+  "abbrev": null, 
+  "number": "16", 
+  "churchUri": "/scriptures/jst/jst-luke/16", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Luke 16:16–23. Compare Luke 16:16–18", 
+      "contentHtml": "<strong>JST, Luke 16:16–23.</strong> Compare Luke 16:16–18", 
+      "number": null, 
+      "pageNumber": "791", 
+      "compareId": "jst-luke-16_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "And they said unto him, We have the law, and the prophets; but as for this man we will not receive him to be our ruler; for he maketh himself to be a judge over us.", 
+      "contentHtml": "<em>And they said unto him, We have the law, and the prophets; but as for this man we will not receive him to be our ruler; for he maketh himself to be a judge over us.</em>", 
+      "number": "16", 
+      "pageNumber": "791", 
+      "compareId": "jst-luke-16_v1", 
+      "churchId": "p16"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "Then said Jesus unto them, The law and the prophets testify of me; yea, and all the prophets who have written, even until John, have foretold of these days.", 
+      "contentHtml": "<em>Then said Jesus unto them,</em> The law and the prophets <em>testify of me; yea, and all the prophets who have written, even</em> until John, <em>have foretold of these days.</em>", 
+      "number": "17", 
+      "pageNumber": "791", 
+      "compareId": "jst-luke-16_v2", 
+      "churchId": "p17"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "Since that time, the kingdom of God is preached, and every man who seeketh truth presseth into it.", 
+      "contentHtml": "Since that time, the kingdom of God is preached, and every man <em>who seeketh truth</em> presseth into it.", 
+      "number": "18", 
+      "pageNumber": "791", 
+      "compareId": "jst-luke-16_v3", 
+      "churchId": "p18"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "And it is easier for heaven and earth to pass, than for one tittle of the law to fail.", 
+      "contentHtml": "And it is easier for heaven and earth to pass, than for one tittle of the law to fail.", 
+      "number": "19", 
+      "pageNumber": "791", 
+      "compareId": "jst-luke-16_v4", 
+      "churchId": "p19"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "And why teach ye the law, and deny that which is written; and condemn him whom the Father hath sent to fulfill the law, that ye might all be redeemed?", 
+      "contentHtml": "<em>And why teach ye the law, and deny that which is written; and condemn him whom the Father hath sent to fulfill the law, that ye might all be redeemed?</em>", 
+      "number": "20", 
+      "pageNumber": "791", 
+      "compareId": "jst-luke-16_v5", 
+      "churchId": "p20"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "O fools! for you have said in your hearts, There is no God. And you pervert the right way; and the kingdom of heaven suffereth violence of you; and you persecute the meek; and in your violence you seek to destroy the kingdom; and ye take the children of the kingdom by force. Woe unto you, ye adulterers!", 
+      "contentHtml": "<em>O fools! for you have said in your hearts, There is no God. And you pervert the right way; and the kingdom of heaven suffereth violence of you; and you persecute the meek; and in your violence you seek to destroy the kingdom; and ye take the children of the kingdom by force. Woe unto you, ye adulterers!</em>", 
+      "number": "21", 
+      "pageNumber": "791", 
+      "compareId": "jst-luke-16_v6", 
+      "churchId": "p21"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "And they reviled him again, being angry for the saying, that they were adulterers.", 
+      "contentHtml": "<em>And they reviled him again, being angry for the saying, that they were adulterers.</em>", 
+      "number": "22", 
+      "pageNumber": "791", 
+      "compareId": "jst-luke-16_v7", 
+      "churchId": "p22"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "But he continued, saying, Whosoever putteth away his wife, and marrieth another, committeth adultery; and whosoever marrieth her who is put away from her husband, committeth adultery. Verily I say unto you, I will liken you unto the rich man.", 
+      "contentHtml": "<em>But he continued, saying,</em> Whosoever putteth away his wife, and marrieth another, committeth adultery; and whosoever marrieth her who is put away from her husband, committeth adultery. <em>Verily I say unto you, I will liken you unto the rich man.</em>", 
+      "number": "23", 
+      "pageNumber": "791", 
+      "compareId": "jst-luke-16_v8", 
+      "churchId": "p23"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0620-jst-luke-1616-23-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0620-jst-luke-1616-23-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

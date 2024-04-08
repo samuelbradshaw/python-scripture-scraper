@@ -1,0 +1,92 @@
+{
+  "name": "JST, Mark 3", 
+  "abbrev": null, 
+  "number": "3", 
+  "churchUri": "/scriptures/jst/jst-mark/3", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Mark 3:21–25. Compare Mark 3:28–30", 
+      "contentHtml": "<strong>JST, Mark 3:21–25.</strong> Compare Mark 3:28–30", 
+      "number": null, 
+      "pageNumber": "786", 
+      "compareId": "jst-mark-3_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "And then came certain men unto him, accusing him, saying, Why do ye receive sinners, seeing thou makest thyself the Son of God.", 
+      "contentHtml": "<em>And then came certain men unto him, accusing him, saying, Why do ye receive sinners, seeing thou makest thyself the Son of God.</em>", 
+      "number": "21", 
+      "pageNumber": "787", 
+      "compareId": "jst-mark-3_v1", 
+      "churchId": "p21"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "But he answered them and said, Verily I say unto you, All sins which men have committed, when they repent, shall be forgiven them; for I came to preach repentance unto the sons of men.", 
+      "contentHtml": "<em>But he answered them and said,</em> Verily I say unto you, All sins <em>which men have committed, when they repent,</em> shall be forgiven <em>them; for I came to preach repentance</em> unto the sons of men.", 
+      "number": "22", 
+      "pageNumber": "787", 
+      "compareId": "jst-mark-3_v2", 
+      "churchId": "p22"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "And blasphemies, wherewith soever they shall blaspheme, shall be forgiven them that come unto me, and do the works which they see me do.", 
+      "contentHtml": "And blasphemies, wherewith soever they shall blaspheme, <em>shall be forgiven them that come unto me, and do the works which they see me do.</em>", 
+      "number": "23", 
+      "pageNumber": "787", 
+      "compareId": "jst-mark-3_v3", 
+      "churchId": "p23"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "But there is a sin which shall not be forgiven. He that shall blaspheme against the Holy Ghost, hath never forgiveness; but is in danger of being cut down out of the world. And they shall inherit eternal damnation.", 
+      "contentHtml": "<em>But there is a sin which shall not be forgiven.</em> He that shall blaspheme against the Holy Ghost, hath never forgiveness; but is in danger of <em>being cut down out of the world. And they shall inherit</em> eternal damnation.", 
+      "number": "24", 
+      "pageNumber": "787", 
+      "compareId": "jst-mark-3_v4", 
+      "churchId": "p24"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "And this he said unto them because they said, He hath an unclean spirit.", 
+      "contentHtml": "<em>And this he said unto them</em> because they said, He hath an unclean spirit.", 
+      "number": "25", 
+      "pageNumber": "787", 
+      "compareId": "jst-mark-3_v5", 
+      "churchId": "p25"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0470-jst-mark-321-25-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0470-jst-mark-321-25-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

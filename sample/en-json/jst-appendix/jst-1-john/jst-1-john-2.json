@@ -1,0 +1,52 @@
+{
+  "name": "JST, 1 John 2", 
+  "abbrev": null, 
+  "number": "2", 
+  "churchUri": "/scriptures/jst/jst-1-jn/2", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, 1 John 2:1. Compare 1 John 2:1", 
+      "contentHtml": "<strong>JST, 1 John 2:1.</strong> Compare 1 John 2:1", 
+      "number": null, 
+      "pageNumber": null, 
+      "compareId": "jst-1-john-2_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "My little children, these things write I unto you, that ye sin not. But if any man sin and repent, we have an advocate with the Father, Jesus Christ the righteous;", 
+      "contentHtml": "My little children, these things write I unto you, that ye sin not. <em>But</em> if any man sin <em>and repent,</em> we have an advocate with the Father, Jesus Christ the righteous;", 
+      "number": "1", 
+      "pageNumber": null, 
+      "compareId": "jst-1-john-2_v1", 
+      "churchId": "p1"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-1010-jst-1-john-21-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-1010-jst-1-john-21-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

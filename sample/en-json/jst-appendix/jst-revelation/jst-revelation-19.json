@@ -1,0 +1,62 @@
+{
+  "name": "JST, Revelation 19", 
+  "abbrev": null, 
+  "number": "19", 
+  "churchUri": "/scriptures/jst/jst-rev/19", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Revelation 19:15, 21. Compare Revelation 19:15, 21", 
+      "contentHtml": "<strong>JST, Revelation 19:15, 21.</strong> Compare Revelation 19:15, 21", 
+      "number": null, 
+      "pageNumber": "804", 
+      "compareId": "jst-revelation-19_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "And out of his mouth proceedeth the word of God, and with it he will smite the nations; and he will rule them with the word of his mouth; and he treadeth the winepress in the fierceness and wrath of Almighty God.", 
+      "contentHtml": "And out of his mouth <em>proceedeth the word of God, and</em> with it he <em>will</em> smite the nations; and he <em>will</em> rule them with <em>the word of his mouth;</em> and he treadeth the winepress <em>in</em> the fierceness and wrath of Almighty God.", 
+      "number": "15", 
+      "pageNumber": "804", 
+      "compareId": "jst-revelation-19_v1", 
+      "churchId": "p15"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "And the remnant were slain with the word of him that sat upon the horse, which word proceeded out of his mouth; and all the fowls were filled with their flesh.", 
+      "contentHtml": "And the remnant were slain with the <em>word</em> of him that sat upon the horse, which <em>word</em> proceeded out of his mouth; and all the fowls were filled with their flesh.", 
+      "number": "21", 
+      "pageNumber": "804", 
+      "compareId": "jst-revelation-19_v2", 
+      "churchId": "p21"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-1080-jst-revelation-1915-21-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-1080-jst-revelation-1915-21-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

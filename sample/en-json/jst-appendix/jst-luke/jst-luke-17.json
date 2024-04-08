@@ -1,0 +1,112 @@
+{
+  "name": "JST, Luke 17", 
+  "abbrev": null, 
+  "number": "17", 
+  "churchUri": "/scriptures/jst/jst-luke/17", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Luke 17:21. Compare Luke 17:20–21", 
+      "contentHtml": "<strong>JST, Luke 17:21.</strong> Compare Luke 17:20–21", 
+      "number": null, 
+      "pageNumber": "791", 
+      "compareId": "jst-luke-17_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Neither shall they say, Lo, here! or, Lo, there! For, behold, the kingdom of God has already come unto you.", 
+      "contentHtml": "Neither shall they say, Lo, here! or, Lo, there! For, behold, the kingdom of God <em>has already come unto</em> you.", 
+      "number": "21", 
+      "pageNumber": "791,792", 
+      "compareId": "jst-luke-17_v1", 
+      "churchId": "p21"
+    }, 
+    {
+      "type": "section-title", 
+      "id": "st2", 
+      "content": "JST, Luke 17:36–40. Compare Luke 17:37", 
+      "contentHtml": "<strong>JST, Luke 17:36–40.</strong> Compare Luke 17:37", 
+      "number": null, 
+      "pageNumber": "792", 
+      "compareId": "jst-luke-17_st2", 
+      "churchId": "title2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "And they answered and said unto him, Where, Lord, shall they be taken?", 
+      "contentHtml": "And they answered and said unto him, Where, Lord, <em>shall they be taken?</em>", 
+      "number": "36", 
+      "pageNumber": "792", 
+      "compareId": "jst-luke-17_v2", 
+      "churchId": "p36"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "And he said unto them, Wheresoever the body is gathered; or, in other words, whithersoever the saints are gathered, thither will the eagles be gathered together; or, thither will the remainder be gathered together.", 
+      "contentHtml": "And he said unto them, Wheresoever the body is <em>gathered; or, in other words, whithersoever the saints are gathered,</em> thither will the eagles be gathered together; <em>or, thither will the remainder be gathered together.</em>", 
+      "number": "37", 
+      "pageNumber": "792", 
+      "compareId": "jst-luke-17_v3", 
+      "churchId": "p37"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "This he spake, signifying the gathering of his saints; and of angels descending and gathering the remainder unto them; the one from the bed, the other from the grinding, and the other from the field, whithersoever he listeth.", 
+      "contentHtml": "<em>This he spake, signifying the gathering of his saints; and of angels descending and gathering the remainder unto them; the one from the bed, the other from the grinding, and the other from the field, whithersoever he listeth.</em>", 
+      "number": "38", 
+      "pageNumber": "792", 
+      "compareId": "jst-luke-17_v4", 
+      "churchId": "p38"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "For verily there shall be new heavens, and a new earth, wherein dwelleth righteousness.", 
+      "contentHtml": "<em>For verily there shall be new heavens, and a new earth, wherein dwelleth righteousness.</em>", 
+      "number": "39", 
+      "pageNumber": "792", 
+      "compareId": "jst-luke-17_v5", 
+      "churchId": "p39"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "And there shall be no unclean thing; for the earth becoming old, even as a garment, having waxed in corruption, wherefore it vanisheth away, and the footstool remaineth sanctified, cleansed from all sin.", 
+      "contentHtml": "<em>And there shall be no unclean thing; for the earth becoming old, even as a garment, having waxed in corruption, wherefore it vanisheth away, and the footstool remaineth sanctified, cleansed from all sin.</em>", 
+      "number": "40", 
+      "pageNumber": "792", 
+      "compareId": "jst-luke-17_v6", 
+      "churchId": "p40"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0630-jst-luke-17-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0630-jst-luke-17-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

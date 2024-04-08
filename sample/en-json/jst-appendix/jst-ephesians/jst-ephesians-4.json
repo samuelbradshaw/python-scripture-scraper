@@ -1,0 +1,52 @@
+{
+  "name": "JST, Ephesians 4", 
+  "abbrev": null, 
+  "number": "4", 
+  "churchUri": "/scriptures/jst/jst-eph/4", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Ephesians 4:26. Compare Ephesians 4:26", 
+      "contentHtml": "<strong>JST, Ephesians 4:26.</strong> Compare Ephesians 4:26", 
+      "number": null, 
+      "pageNumber": null, 
+      "compareId": "jst-ephesians-4_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Can ye be angry, and not sin? let not the sun go down upon your wrath;", 
+      "contentHtml": "<em>Can ye be</em> angry, and <em>not sin?</em> let not the sun go down upon your wrath;", 
+      "number": "26", 
+      "pageNumber": null, 
+      "compareId": "jst-ephesians-4_v1", 
+      "churchId": "p26"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0840-jst-ephesians-426-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0840-jst-ephesians-426-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

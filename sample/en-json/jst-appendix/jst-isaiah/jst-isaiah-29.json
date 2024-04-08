@@ -1,0 +1,122 @@
+{
+  "name": "JST, Isaiah 29", 
+  "abbrev": null, 
+  "number": "29", 
+  "churchUri": "/scriptures/jst/jst-isa/29", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Isaiah 29:1–8. Compare Isaiah 29:1–8", 
+      "contentHtml": "<strong>JST, Isaiah 29:1–8.</strong> Compare Isaiah 29:1–8", 
+      "number": null, 
+      "pageNumber": null, 
+      "compareId": "jst-isaiah-29_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Woe to Ariel, to Ariel, the city where David dwelt! add ye year to year; let them kill sacrifices.", 
+      "contentHtml": "Woe to Ariel, to Ariel, the city where David dwelt! add ye year to year; let them kill sacrifices.", 
+      "number": "1", 
+      "pageNumber": null, 
+      "compareId": "jst-isaiah-29_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "Yet I will distress Ariel, and there shall be heaviness and sorrow; for thus hath the Lord said unto me, It shall be unto Ariel;", 
+      "contentHtml": "Yet I will distress Ariel, and there shall be heaviness and sorrow; <em>for thus hath the Lord said unto me,</em> It shall be unto Ariel;", 
+      "number": "2", 
+      "pageNumber": null, 
+      "compareId": "jst-isaiah-29_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "That I the Lord will camp against her round about, and will lay siege against her with a mount, and I will raise forts against her.", 
+      "contentHtml": "<em>That</em> I <em>the Lord</em> will camp against <em>her</em> round about, and will lay siege against <em>her</em> with a mount, and I will raise forts against <em>her.</em>", 
+      "number": "3", 
+      "pageNumber": null, 
+      "compareId": "jst-isaiah-29_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "And she shall be brought down, and shall speak out of the ground, and her speech shall be low out of the dust; and her voice shall be as of one that hath a familiar spirit, out of the ground, and her speech shall whisper out of the dust.", 
+      "contentHtml": "And <em>she shall</em> be brought down, and <em>shall</em> speak out of the ground, and <em>her</em> speech shall be low out of the dust; and <em>her</em> voice shall be as of one that hath a familiar spirit, out of the ground, and <em>her</em> speech shall whisper out of the dust.", 
+      "number": "4", 
+      "pageNumber": null, 
+      "compareId": "jst-isaiah-29_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "Moreover the multitude of her strangers shall be like small dust, and the multitude of the terrible ones shall be as chaff that passeth away; yea, it shall be at an instant suddenly.", 
+      "contentHtml": "Moreover the multitude of <em>her</em> strangers shall be like small dust, and the multitude of the terrible ones shall be as chaff that passeth away; yea, it shall be at an instant suddenly.", 
+      "number": "5", 
+      "pageNumber": null, 
+      "compareId": "jst-isaiah-29_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "For they shall be visited of the Lord of hosts with thunder, and with earthquake, and great noise, with storm and tempest, and the flame of devouring fire.", 
+      "contentHtml": "<em>For they shall</em> be visited of the Lord of hosts with thunder, and with earthquake, and great noise, with storm and tempest, and the flame of devouring fire.", 
+      "number": "6", 
+      "pageNumber": null, 
+      "compareId": "jst-isaiah-29_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "And the multitude of all the nations that fight against Ariel, even all that fight against her and her munition, and that distress her, shall be as a dream of a night vision.", 
+      "contentHtml": "And the multitude of all the nations that fight against Ariel, even all that fight against her and her munition, and that distress her, shall be as a dream of a night vision.", 
+      "number": "7", 
+      "pageNumber": null, 
+      "compareId": "jst-isaiah-29_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "Yea, it shall be unto them even as unto a hungry man who dreameth, and behold, he eateth, but he awaketh and his soul is empty; or like unto a thirsty man who dreameth, and behold, he drinketh, but he awaketh, and behold, he is faint, and his soul hath appetite. Yea, even so shall the multitude of all the nations be that fight against mount Zion.", 
+      "contentHtml": "<em>Yea,</em> it shall <em>be unto them even</em> as <em>unto</em> a hungry man <em>who</em> dreameth, and behold, he eateth, but he awaketh and his soul is empty; or <em>like unto</em> a thirsty man <em>who</em> dreameth, and behold, he drinketh, but he awaketh, and behold, he is faint, and his soul hath appetite. <em>Yea, even</em> so shall the multitude of all the nations be that fight against mount Zion.", 
+      "number": "8", 
+      "pageNumber": null, 
+      "compareId": "jst-isaiah-29_v8", 
+      "churchId": "p8"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0250-jst-isaiah-291-8-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0250-jst-isaiah-291-8-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}

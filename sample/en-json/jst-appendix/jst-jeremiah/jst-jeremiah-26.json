@@ -1,0 +1,52 @@
+{
+  "name": "JST, Jeremiah 26", 
+  "abbrev": null, 
+  "number": "26", 
+  "churchUri": "/scriptures/jst/jst-jer/26", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Jeremiah 26:13. Compare Jeremiah 26:13", 
+      "contentHtml": "<strong>JST, Jeremiah 26:13.</strong> Compare Jeremiah 26:13", 
+      "number": null, 
+      "pageNumber": "780", 
+      "compareId": "jst-jeremiah-26_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Therefore now, amend your ways and your doings, and obey the voice of the Lord your God, and repent, and the Lord will turn away the evil that he hath pronounced against you.", 
+      "contentHtml": "Therefore now, amend your ways and your doings, and obey the voice of the Lord your God, <em>and repent,</em> and the Lord will <em>turn away</em> the evil that he hath pronounced against you.", 
+      "number": "13", 
+      "pageNumber": "780,781", 
+      "compareId": "jst-jeremiah-26_v1", 
+      "churchId": "p13"
+    }
+  ], 
+  "media": [
+    {
+      "type": "audio", 
+      "subtype": "spoken-female", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0270-jst-jeremiah-2613-female-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }, 
+    {
+      "type": "audio", 
+      "subtype": "spoken-male", 
+      "url": "https://media2.ldscdn.org/assets/scriptures/selections-from-the-joseph-smith-translation/2015-11-0270-jst-jeremiah-2613-male-voice-64k-eng.mp3", 
+      "imageUrl": null, 
+      "startSeconds": null, 
+      "endSeconds": null, 
+      "source": "ChurchofJesusChrist.org", 
+      "churchAssetId": null, 
+      "churchImageAssetId": null
+    }
+  ]
+}
