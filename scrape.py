@@ -504,7 +504,7 @@ def gather_metadata_for_language(language):
             metadata_uri_to_name[book_data['churchUri']][bcp47_lang] = { 'name': book_name, 'abbrev': None, }
                     
           # Get translated titles for special cases:
-          # psalm, psalms, section, sections, official-declaration, official-declarations
+          # psalm, psalms, sections, official-declaration, official-declarations
           # facsimile, facsimiles, abr/fac-1, abr/fac-2, abr/fac-3
           # jst-gen/1-8, jst-psalms, jst-psalm
           if book_slug == 'psalms':
@@ -516,13 +516,8 @@ def gather_metadata_for_language(language):
             metadata_scriptures['mapToSlug'][book_name] = 'psalms'
             metadata_uri_to_name['/scriptures/ot/ps'][bcp47_lang]['name'] = chapter_name_without_numbers
           elif book_slug == 'sections':
-            if 'section' not in metadata_scriptures['languages'][bcp47_lang]['translatedNames']:
-              metadata_scriptures['languages'][bcp47_lang]['translatedNames']['section'] = { 'name': None, 'abbrev': None, }
-            metadata_scriptures['languages'][bcp47_lang]['translatedNames']['section']['name'] = chapter_name_without_numbers
             metadata_scriptures['languages'][bcp47_lang]['translatedNames']['sections']['name'] = book_name
-            metadata_scriptures['mapToSlug'][chapter_name_without_numbers] = 'section'
             metadata_scriptures['mapToSlug'][book_name] = 'sections'
-            metadata_scriptures['languages'][bcp47_lang]['translatedNames']['doctrine-and-covenants']['abbrev'] = metadata_scriptures['languages'][bcp47_lang]['translatedNames']['sections']['abbrev']
             metadata_uri_to_name['/scriptures/dc-testament/dc'][bcp47_lang]['name'] = publication_name
           elif book_slug == 'official-declarations':
             if 'official-declaration' not in metadata_scriptures['languages'][bcp47_lang]['translatedNames']:
@@ -772,7 +767,7 @@ def output_full_content(bcp47_lang):
         for chapter in book_data['churchChapters']:
           chapter_number = str(chapter)
           singular_book_slug = resources.mapping_book_to_singular_slug.get(book_slug) or book_slug
-          chapter_slug = '{0}-{1}'.format(singular_book_slug, chapter_number)
+          chapter_slug = '{0}-{1}'.format('section' if singular_book_slug == 'doctrine-and-covenants' else singular_book_slug, chapter_number)
           chapter_uri = '{0}/{1}'.format(book_data['churchUri'], chapter_number)
       
           # Get chapter content
@@ -952,8 +947,6 @@ def output_full_content(bcp47_lang):
             if metadata_scriptures['languages'][bcp47_lang]['translatedNames'][book_slug]['abbrev']:
               if book_slug in resources.mapping_book_to_singular_slug.keys():
                 singular_book_slug = resources.mapping_book_to_singular_slug.get(book_slug)
-                if singular_book_slug == 'section':
-                  singular_book_slug = 'doctrine-and-covenants'
                 chapter_abbrev = chapter_name.replace(metadata_scriptures['languages'][bcp47_lang]['translatedNames'][singular_book_slug]['name'], metadata_scriptures['languages'][bcp47_lang]['translatedNames'][singular_book_slug]['abbrev'])
               else:
                 chapter_abbrev = chapter_name.replace(metadata_scriptures['languages'][bcp47_lang]['translatedNames'][book_slug]['name'], metadata_scriptures['languages'][bcp47_lang]['translatedNames'][book_slug]['abbrev'])

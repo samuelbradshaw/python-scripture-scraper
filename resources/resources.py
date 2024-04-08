@@ -8,7 +8,7 @@ from unicodedata import normalize
 # A few book slugs need to be converted to singular when being used as part of a chapter slug
 mapping_book_to_singular_slug = {
   'psalms': 'psalm',
-  'sections': 'section',
+  'sections': 'doctrine-and-covenants',
   'official-declarations': 'official-declaration',
   'facsimiles': 'facsimile',
   'jst-psalms': 'jst-psalm',
