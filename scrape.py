@@ -373,8 +373,8 @@ def gather_metadata_for_language(language):
           
           book_row = rows[book_counter]
           if book_slug == 'official-declarations':
-            book_name = re.sub('[\dⅠ፩ទ–—]+?\.?', '', book_row.select('td')[1].text).strip()
-            book_abbreviation = re.sub('[\dⅠ፩ទ–—]+?\.?', '', book_row.select('td')[0].text).strip()
+            book_name = re.sub('[\dⅠ一፩ទ–—]+?\.?', '', book_row.select('td')[1].text).strip()
+            book_abbreviation = re.sub('[\dⅠ一፩ទ–—]+?\.?', '', book_row.select('td')[0].text).strip()
           else:
             book_name = book_row.select('td')[1].text.strip()
             book_abbreviation = book_row.select('td')[0].text.strip()
@@ -474,7 +474,7 @@ def gather_metadata_for_language(language):
         for book_slug, book_data in publication_data['books'].items():
           
           # Get the first chapter link from the book's table of contents
-          first_chapter_link = table_of_contents.select_one('a.list-tile[href^="/study{0}/{1}"]'.format(book_data['churchUri'], book_data['churchChapters'][0] if book_data['churchChapters'] else ''))
+          first_chapter_link = table_of_contents.select_one('a.list-tile[href^="/study{0}/{1}?"]'.format(book_data['churchUri'], book_data['churchChapters'][0] if book_data['churchChapters'] else '')) or table_of_contents.select_one('a.list-tile[href^="/study{0}/"]:not([href^="/study{0}/_contents"])'.format(book_data['churchUri']))
           if not first_chapter_link:
             # If book is missing from the publication (selections, or progressive publishing), skip it
             if book_data.get('churchUri'):
@@ -486,13 +486,13 @@ def gather_metadata_for_language(language):
           
           # Get the chapter name
           chapter_name = first_chapter_link.select_one('.title').text.strip()
-          chapter_name_without_numbers = re.sub('[\dⅠ፩ទ–—]+?\.?', '', chapter_name).strip()
+          chapter_name_without_numbers = re.sub('[\dⅠ一፩ទ–—]+?\.?', '', chapter_name).strip()
           
           # Get the book name by looking for the preceding title
           book_name = first_chapter_link.find_previous(class_='label').text.strip()
           
-          # If the previous element is a list item (excluding table of contents links), the chapter link title is the book title (single-chapter book like Enos)
-          if first_chapter_link.parent.find_previous_sibling('li') and not first_chapter_link.parent.find_previous_sibling('li').select_one('a.list-tile[href^="/study{0}/_contents"]'.format(book_data['churchUri'])):
+          # If the previous element is a list item from a different book, the chapter link title is the book title (single-chapter book like Enos)
+          if first_chapter_link.parent.find_previous_sibling('li') and not first_chapter_link.parent.find_previous_sibling('li').select_one('a.list-tile[href^="/study{0}/"]'.format(book_data['churchUri'])):
             book_name = chapter_name
         
           # Add book name to metadata_uri_to_name and metadata_scriptures
@@ -536,7 +536,7 @@ def gather_metadata_for_language(language):
             first_chapter_link = table_of_contents.select_one('a.list-tile[href^="/study/scriptures/pgp/abr/fac-1"]')
             if first_chapter_link:
               chapter_name = first_chapter_link.select_one('.title').text.strip()
-              chapter_name_without_numbers = re.sub('[\dⅠ፩ទ–—]+?\.?', '', chapter_name).strip()
+              chapter_name_without_numbers = re.sub('[\dⅠ一፩ទ–—]+?\.?', '', chapter_name).strip()
               facsimiles_section_name = first_chapter_link.find_previous(class_='label').text.strip()
               metadata_scriptures['languages'][bcp47_lang]['translatedNames']['facsimile'] = {
                 'name': chapter_name_without_numbers,
@@ -567,12 +567,13 @@ def gather_metadata_for_language(language):
               metadata_scriptures['mapToSlug'][facsimile_titles[2].text] = 'fac-3'
             metadata_uri_to_name['/scriptures/pgp/abr'][bcp47_lang]['name'] = book_name
           elif book_slug == 'jst-genesis':
-            jst_genesis_1_8_title = soup.select_one('a.list-tile[href^="/study/scriptures/jst/jst-gen/1-8"] .title').text
-            metadata_scriptures['languages'][bcp47_lang]['translatedNames']['1-8'] = {
-              'name': jst_genesis_1_8_title,
-              'abbrev': None,
-            }
-            metadata_scriptures['mapToSlug'][jst_genesis_1_8_title] = '1-8'
+            jst_genesis_1_8_title = soup.select_one('a.list-tile[href^="/study/scriptures/jst/jst-gen/1-8"] .title')
+            if jst_genesis_1_8_title:
+              metadata_scriptures['languages'][bcp47_lang]['translatedNames']['1-8'] = {
+                'name': jst_genesis_1_8_title.text,
+                'abbrev': None,
+              }
+              metadata_scriptures['mapToSlug'][jst_genesis_1_8_title.text] = '1-8'
             metadata_uri_to_name['/scriptures/jst/jst-gen'][bcp47_lang]['name'] = book_name
           elif book_slug == 'jst-psalms':
             if 'jst-psalm' not in metadata_scriptures['languages'][bcp47_lang]['translatedNames']:
