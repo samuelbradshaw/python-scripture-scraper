@@ -21,7 +21,7 @@ from resources import resources, config
 VERSION = '2.1'
 
 # URL patterns
-languages_url = 'https://www.churchofjesuschrist.org/languages?lang=eng'
+languages_url = 'https://www.churchofjesuschrist.org/languages/api/languages?lang=eng'
 study_url = 'https://www.churchofjesuschrist.org/study{0}?lang={1}&mboxDisable=1'
 abbreviations_url = 'https://www.churchofjesuschrist.org/study/scriptures/quad/quad/abbreviations?lang={0}&mboxDisable=1'
 
@@ -159,31 +159,20 @@ def get_languages(selected_langs=None):
   sys.stdout.write('\nGetting languages\n')
   languages = []
   
-  # Fetch the languages page
+  # Fetch the languages list
   r = requests.get(languages_url)
   r.encoding = 'utf-8'
   if r and r.status_code == 200:
-
-    # Parse the languages page
-    soup = BeautifulSoup(r.text, 'html.parser')
-    language_links = soup.select('.language-list a[data-lang]')
-    for link in language_links:
-      church_lang = link.attrs['data-lang']
-      try:
-        bcp47_lang = resources.mapping_church_lang_to_bcp47[church_lang]
-      except:
-        print_warning('Warning: Language “{0}” is not recognized and will be ignored (most likely it was added to Church content recently). To include this language, add it to the language mappings in resources.py.\n'.format(church_lang))
-        continue
-      autonym = link.text
-      name = re.match(r'^.*\((.+)\).*$', link.attrs['title'], flags=re.DOTALL).group(1).strip()
+    data = r.json()
+    for d in data:
+      bcp47_lang = d.get('bcp47Code', 'und')
       if not selected_langs or bcp47_lang in selected_langs:
-      
         # Add language to the languages list
         languages.append({
           'bcp47_lang': bcp47_lang,
-          'church_lang': church_lang,
-          'autonym': autonym,
-          'name': name,
+          'church_lang': d.get('legacyWeb', 'und'),
+          'autonym': d.get('endonym', '[Unknown]'),
+          'name': resources.mapping_bcp47_to_english_name.get(bcp47_lang, '[Unknown]'),
         })
   else:
     sys.exit('Error: Unable to connect to {0}'.format(languages_url))
