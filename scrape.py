@@ -352,6 +352,7 @@ def gather_metadata_for_language(language):
         if publication_slug not in metadata_scriptures['languages'][bcp47_lang]['translatedNames']:
           metadata_scriptures['languages'][bcp47_lang]['translatedNames'][publication_slug] = { 'name': publication_name, 'abbrev': None, }
           metadata_scriptures['mapToSlug'][publication_name] = publication_slug
+          metadata_scriptures['mapToSlug'][publication_uri] = publication_slug
           metadata_uri_to_name[publication_uri][bcp47_lang] = { 'name': publication_name, 'abbrev': None, }
         
         # Loop through scripture books in publication
@@ -369,13 +370,15 @@ def gather_metadata_for_language(language):
             book_abbreviation = book_row.select('td')[0].text.strip()
           
           # Add book name and abbreviation to metadata_uri_to_name and metadata_scriptures
-          if book_data['churchUri'] not in metadata_uri_to_name:
-            metadata_uri_to_name[book_data['churchUri']] = {}
+          book_uri = book_data['churchUri']
+          if book_uri not in metadata_uri_to_name:
+            metadata_uri_to_name[book_uri] = {}
           if book_slug not in metadata_scriptures['languages'][bcp47_lang]['translatedNames']:
             metadata_scriptures['languages'][bcp47_lang]['translatedNames'][book_slug] = { 'name': book_name, 'abbrev': book_abbreviation, }
             metadata_scriptures['mapToSlug'][book_name] = book_slug
             metadata_scriptures['mapToSlug'][book_abbreviation] = book_slug
-            metadata_uri_to_name[book_data['churchUri']][bcp47_lang] = { 'name': book_name, 'abbrev': book_abbreviation, }
+            metadata_scriptures['mapToSlug'][book_uri] = book_slug
+            metadata_uri_to_name[book_uri][bcp47_lang] = { 'name': book_name, 'abbrev': book_abbreviation, }
           
           # Add singular book names for special cases
           if book_slug in resources.mapping_book_to_singular_slug.keys():
