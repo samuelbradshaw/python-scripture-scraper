@@ -1007,3 +1007,22 @@ def create_sql_insert_statement(table_name, dict_list):
       
     statement += '\n'
   return statement
+
+# Get metadata summary
+def get_metadata_summary(metadata_scriptures):
+  first_lang_data = next(iter(metadata_scriptures['languages'].values()))
+  summary = {
+    'punctuation': dict((key, set()) for key in first_lang_data['punctuation'].keys()),
+    'numerals': [set() for x in range(10)],
+    'churchAvailability': dict((key, []) for key in first_lang_data['churchAvailability'].keys()),
+  }
+  for lang, data in metadata_scriptures['languages'].items():
+    for punctuation_type, punctuation_string in data['punctuation'].items():
+      summary['punctuation'][punctuation_type].add(punctuation_string)
+    if data['numerals'] is not None:
+      for index, numeral in enumerate(data['numerals']):
+        summary['numerals'][index].add(numeral)
+    for publication_slug, book_slugs in data['churchAvailability'].items():
+      if book_slugs:
+        summary['churchAvailability'][publication_slug].append(lang)
+  return summary

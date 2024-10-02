@@ -18,7 +18,7 @@ from markdownify import MarkdownConverter, markdownify
 from resources import resources, config
 
 # python-scripture-scraper version
-VERSION = '2.1'
+VERSION = '2.2'
 
 # URL patterns
 languages_url = 'https://www.churchofjesuschrist.org/languages/api/languages?lang=eng'
@@ -44,6 +44,7 @@ metadata_scriptures = {
   'languages': {},
   'mapToSlug': {},
   'structure': {},
+  'summary': {},
 }
 
 metadata_scriptures_language_template = {
@@ -53,6 +54,8 @@ metadata_scriptures_language_template = {
     'verseRangeSeparator': '–',
     'verseGroupSeparator': ', ',
     'referenceSeparator': '; ',
+    'openingParenthesis': ' (',
+    'closingParenthesis': ')',
   },
   'numerals': ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9'],
   'translatedNames': {},
@@ -64,10 +67,6 @@ metadata_scriptures_language_template = {
     'pearl-of-great-price': [],
     'jst-appendix': [],
   },
-}
-
-metadata_uri_to_name = {
-  '_about': 'Generated {0} by Python Scripture Scraper (https://github.com/samuelbradshaw/python-scripture-scraper)'.format(date_today),
 }
 
 def main():
@@ -93,6 +92,16 @@ def main():
       languages = get_languages([config.DEFAULT_LANG])
     
   metadata_scriptures['structure'] = metadata_structure
+  for publication_slug, publication_data in metadata_structure.items():
+    metadata_scriptures['mapToSlug'][publication_slug] = publication_slug
+    if publication_data['churchUri']:
+      metadata_scriptures['mapToSlug'][publication_data['churchUri']] = publication_slug
+    for book_slug, book_data in publication_data['books'].items():
+      metadata_scriptures['mapToSlug'][book_slug] = book_slug
+      if book_data['churchUri']:
+        metadata_scriptures['mapToSlug'][book_data['churchUri']] = book_slug
+  for plural, singular in resources.mapping_book_to_singular_slug.items():
+    metadata_scriptures['mapToSlug'][singular] = plural
   
   # Gather metadata for each language
   for language in languages:
@@ -115,17 +124,12 @@ def main():
 
   sys.stdout.write('Creating metadata-scriptures.json\n')
   metadata_scriptures['mapToSlug'] = dict(sorted(metadata_scriptures['mapToSlug'].items()))
+  metadata_scriptures['summary'] = resources.get_metadata_summary(metadata_scriptures)
   with open(os.path.join(output_directory, 'metadata-scriptures.json'), 'w', encoding='utf-8') as f:
-    json.dump(metadata_scriptures, fp=f, indent=config.JSON_INDENT, separators=(', ', ': '), ensure_ascii=False, sort_keys=False)
+    json.dump(metadata_scriptures, fp=f, indent=config.JSON_INDENT, separators=(', ', ': '), ensure_ascii=False, sort_keys=False, default=lambda x: list(x) if isinstance(x, set) else x)
   with open(os.path.join(output_directory, 'metadata-scriptures.min.json'), 'w', encoding='utf-8') as f:
-    json.dump(metadata_scriptures, fp=f, indent=None, separators=(',', ':'), ensure_ascii=False, sort_keys=False)
+    json.dump(metadata_scriptures, fp=f, indent=None, separators=(',', ':'), ensure_ascii=False, sort_keys=False, default=lambda x: list(x) if isinstance(x, set) else x)
 
-  sys.stdout.write('Creating metadata-uri-to-name.json\n')
-  with open(os.path.join(output_directory, 'metadata-uri-to-name.json'), 'w', encoding='utf-8') as f:
-    json.dump(metadata_uri_to_name, fp=f, indent=config.JSON_INDENT, separators=(', ', ': '), ensure_ascii=False, sort_keys=True)
-  with open(os.path.join(output_directory, 'metadata-uri-to-name.min.json'), 'w', encoding='utf-8') as f:
-    json.dump(metadata_uri_to_name, fp=f, indent=None, separators=(',', ':'), ensure_ascii=False, sort_keys=True)
-  
   if config.SCRAPE_FULL_CONTENT:
     # Output full content
     sys.stdout.write('\n')
@@ -293,6 +297,8 @@ def gather_metadata_for_language(language):
       'verseRangeSeparator': '–',
       'verseGroupSeparator': '፣ ',
       'referenceSeparator': '፤ ',
+      'openingParenthesis': ' (',
+      'closingParenthesis': ')',
     }
     # Amharic numerals can't be translated 1 to 1 with English numerals
     metadata_scriptures['languages'][bcp47_lang]['numerals'] = None
@@ -326,6 +332,15 @@ def gather_metadata_for_language(language):
           metadata_scriptures['languages'][bcp47_lang]['numerals'] = [verse_numbers[9].replace(verse_numbers[0], '')] + verse_numbers[:9]
     else:
       sys.exit('Error: Unable to connect to {0}'.format(study_url.format(study_uri, language['church_lang'])))
+  if bcp47_lang in ('cmn-Hans', 'cmn-Hant', 'yue-Hans', 'ja',):
+    metadata_scriptures['languages'][bcp47_lang]['punctuation']['openingParenthesis'] = '（'
+    metadata_scriptures['languages'][bcp47_lang]['punctuation']['closingParenthesis'] = '）'
+  elif bcp47_lang in ('ko',):
+    metadata_scriptures['languages'][bcp47_lang]['punctuation']['openingParenthesis'] = '('
+    metadata_scriptures['languages'][bcp47_lang]['punctuation']['closingParenthesis'] = ')'
+  else:
+    # TODO: Make sure parentheses are correct in other languages
+    pass
 
   # Attempt to get book names and abbreviations from "Abbreviations" content
   if '/scriptures/study-helps' in available_uris:
@@ -346,14 +361,10 @@ def gather_metadata_for_language(language):
         publication_name = soup.select_one('#figure{0}_title1'.format(pub_number)).text.strip()
         rows = soup.select('#figure{0} table tr'.format(pub_number))
         
-        # Add publication name to metadata_uri_to_name and metadata_scriptures
-        if publication_uri not in metadata_uri_to_name:
-          metadata_uri_to_name[publication_uri] = {}
+        # Add publication name to metadata_scriptures
         if publication_slug not in metadata_scriptures['languages'][bcp47_lang]['translatedNames']:
           metadata_scriptures['languages'][bcp47_lang]['translatedNames'][publication_slug] = { 'name': publication_name, 'abbrev': None, }
           metadata_scriptures['mapToSlug'][publication_name] = publication_slug
-          metadata_scriptures['mapToSlug'][publication_uri] = publication_slug
-          metadata_uri_to_name[publication_uri][bcp47_lang] = { 'name': publication_name, 'abbrev': None, }
         
         # Loop through scripture books in publication
         book_counter = 0
@@ -369,16 +380,12 @@ def gather_metadata_for_language(language):
             book_name = book_row.select('td')[1].text.strip()
             book_abbreviation = book_row.select('td')[0].text.strip()
           
-          # Add book name and abbreviation to metadata_uri_to_name and metadata_scriptures
+          # Add book name and abbreviation to metadata_scriptures
           book_uri = book_data['churchUri']
-          if book_uri not in metadata_uri_to_name:
-            metadata_uri_to_name[book_uri] = {}
           if book_slug not in metadata_scriptures['languages'][bcp47_lang]['translatedNames']:
             metadata_scriptures['languages'][bcp47_lang]['translatedNames'][book_slug] = { 'name': book_name, 'abbrev': book_abbreviation, }
             metadata_scriptures['mapToSlug'][book_name] = book_slug
             metadata_scriptures['mapToSlug'][book_abbreviation] = book_slug
-            metadata_scriptures['mapToSlug'][book_uri] = book_slug
-            metadata_uri_to_name[book_uri][bcp47_lang] = { 'name': book_name, 'abbrev': book_abbreviation, }
           
           # Add singular book names for special cases
           if book_slug in resources.mapping_book_to_singular_slug.keys():
@@ -434,14 +441,11 @@ def gather_metadata_for_language(language):
         book_name = row.select('td')[1].text.strip()
         book_abbreviation = row.select('td')[0].text.strip()
         
-        # Add book name and abbreviation to metadata_uri_to_name and metadata_scriptures
-        if book_uri not in metadata_uri_to_name:
-          metadata_uri_to_name[book_uri] = {}
+        # Add book name and abbreviation to metadata_scriptures
         if book_slug not in metadata_scriptures['languages'][bcp47_lang]['translatedNames']:
           metadata_scriptures['languages'][bcp47_lang]['translatedNames'][book_slug] = { 'name': book_name, 'abbrev': book_abbreviation, }
           metadata_scriptures['mapToSlug'][book_name] = book_slug
           metadata_scriptures['mapToSlug'][book_abbreviation] = book_slug
-          metadata_uri_to_name[book_uri][bcp47_lang] = { 'name': book_name, 'abbrev': book_abbreviation, }
           
   # Get book availability (and names if not fetched above) from the scripture publication table of contents
   for publication_slug, publication_data in metadata_structure.items():
@@ -455,13 +459,10 @@ def gather_metadata_for_language(language):
         table_of_contents = soup.select_one('#content .body')
         publication_name = table_of_contents.select_one('header').text.strip()
         
-        # Add publication name to metadata_uri_to_name and metadata_scriptures
-        if publication_uri not in metadata_uri_to_name:
-          metadata_uri_to_name[publication_uri] = {}
+        # Add publication name to metadata_scriptures
         if publication_slug not in metadata_scriptures['languages'][bcp47_lang]['translatedNames']:
           metadata_scriptures['languages'][bcp47_lang]['translatedNames'][publication_slug] = { 'name': publication_name, 'abbrev': None, }
           metadata_scriptures['mapToSlug'][publication_name] = publication_slug
-          metadata_uri_to_name[publication_uri][bcp47_lang] = { 'name': publication_name, 'abbrev': None, }
         
         for book_slug, book_data in publication_data['books'].items():
           
@@ -487,13 +488,10 @@ def gather_metadata_for_language(language):
           if first_chapter_link.parent.find_previous_sibling('li') and not first_chapter_link.parent.find_previous_sibling('li').select_one('a.list-tile[href^="/study{0}/"]'.format(book_data['churchUri'])):
             book_name = chapter_name
         
-          # Add book name to metadata_uri_to_name and metadata_scriptures
-          if book_data['churchUri'] not in metadata_uri_to_name:
-            metadata_uri_to_name[book_data['churchUri']] = {}
+          # Add book name to metadata_scriptures
           if book_slug not in metadata_scriptures['languages'][bcp47_lang]['translatedNames']:
             metadata_scriptures['languages'][bcp47_lang]['translatedNames'][book_slug] = { 'name': book_name, 'abbrev': None, }
             metadata_scriptures['mapToSlug'][book_name] = book_slug
-            metadata_uri_to_name[book_data['churchUri']][bcp47_lang] = { 'name': book_name, 'abbrev': None, }
                     
           # Get translated titles for special cases:
           # psalm, psalms, sections, official-declaration, official-declarations
@@ -506,11 +504,9 @@ def gather_metadata_for_language(language):
             metadata_scriptures['languages'][bcp47_lang]['translatedNames']['psalms']['name'] = book_name
             metadata_scriptures['mapToSlug'][chapter_name_without_numbers] = 'psalm'
             metadata_scriptures['mapToSlug'][book_name] = 'psalms'
-            metadata_uri_to_name['/scriptures/ot/ps'][bcp47_lang]['name'] = chapter_name_without_numbers
           elif book_slug == 'sections':
             metadata_scriptures['languages'][bcp47_lang]['translatedNames']['sections']['name'] = book_name
             metadata_scriptures['mapToSlug'][book_name] = 'sections'
-            metadata_uri_to_name['/scriptures/dc-testament/dc'][bcp47_lang]['name'] = publication_name
           elif book_slug == 'official-declarations':
             if 'official-declaration' not in metadata_scriptures['languages'][bcp47_lang]['translatedNames']:
               metadata_scriptures['languages'][bcp47_lang]['translatedNames']['official-declaration'] = { 'name': None, 'abbrev': None, }
@@ -518,7 +514,6 @@ def gather_metadata_for_language(language):
             metadata_scriptures['languages'][bcp47_lang]['translatedNames']['official-declarations']['name'] = book_name
             metadata_scriptures['mapToSlug'][chapter_name_without_numbers] = 'official-declaration'
             metadata_scriptures['mapToSlug'][book_name] = 'official-declarations'
-            metadata_uri_to_name['/scriptures/dc-testament/od'][bcp47_lang]['name'] = chapter_name_without_numbers
           elif book_slug == 'abraham':
             first_chapter_link = table_of_contents.select_one('a.list-tile[href^="/study/scriptures/pgp/abr/fac-1"]')
             if first_chapter_link:
@@ -552,7 +547,6 @@ def gather_metadata_for_language(language):
               metadata_scriptures['mapToSlug'][facsimile_titles[0].text] = 'fac-1'
               metadata_scriptures['mapToSlug'][facsimile_titles[1].text] = 'fac-2'
               metadata_scriptures['mapToSlug'][facsimile_titles[2].text] = 'fac-3'
-            metadata_uri_to_name['/scriptures/pgp/abr'][bcp47_lang]['name'] = book_name
           elif book_slug == 'jst-genesis':
             jst_genesis_1_8_title = soup.select_one('a.list-tile[href^="/study/scriptures/jst/jst-gen/1-8"] .title')
             if jst_genesis_1_8_title:
@@ -561,7 +555,6 @@ def gather_metadata_for_language(language):
                 'abbrev': None,
               }
               metadata_scriptures['mapToSlug'][jst_genesis_1_8_title.text] = '1-8'
-            metadata_uri_to_name['/scriptures/jst/jst-gen'][bcp47_lang]['name'] = book_name
           elif book_slug == 'jst-psalms':
             if 'jst-psalm' not in metadata_scriptures['languages'][bcp47_lang]['translatedNames']:
               metadata_scriptures['languages'][bcp47_lang]['translatedNames']['jst-psalm'] = { 'name': None, 'abbrev': None, }
@@ -569,7 +562,6 @@ def gather_metadata_for_language(language):
             metadata_scriptures['languages'][bcp47_lang]['translatedNames']['jst-psalms']['name'] = book_name
             metadata_scriptures['mapToSlug'][chapter_name_without_numbers] = 'jst-psalm'
             metadata_scriptures['mapToSlug'][book_name] = 'jst-psalms'
-            metadata_uri_to_name['/scriptures/jst/jst-ps'][bcp47_lang]['name'] = chapter_name_without_numbers
 
 
 # Scrape full content for a given language
