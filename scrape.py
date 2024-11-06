@@ -520,6 +520,8 @@ def gather_metadata_for_language(language):
               chapter_name = first_chapter_link.select_one('.title').text.strip()
               chapter_name_without_numbers = re.sub('[\dⅠ一፩ទ–—]+?\.?', '', chapter_name).strip()
               facsimiles_section_name = first_chapter_link.find_previous(class_='label').text.strip()
+              if facsimiles_section_name == book_name:
+                facsimiles_section_name = chapter_name_without_numbers
               metadata_scriptures['languages'][bcp47_lang]['translatedNames']['facsimile'] = {
                 'name': chapter_name_without_numbers,
                 'abbrev': None,

@@ -1,5 +1,5 @@
 {
-  "_about": "Generated 2024-04-07 by Python Scripture Scraper (https://github.com/samuelbradshaw/python-scripture-scraper)", 
+  "_about": "Generated 2024-11-06 by Python Scripture Scraper (https://github.com/samuelbradshaw/python-scripture-scraper)", 
   "languages": {
     "af": {
       "name": "Afrikaans", 
@@ -17,8 +17,8 @@
       "churchLang": "ara"
     }, 
     "ase": {
-      "name": "ASL", 
-      "autonym": "American Sign Language (ASL)", 
+      "name": "American Sign Language (ASL)", 
+      "autonym": "American Sign Language", 
       "churchLang": "ase"
     }, 
     "ay": {
@@ -30,6 +30,11 @@
       "name": "Belarusian", 
       "autonym": "Беларуская", 
       "churchLang": "bel"
+    }, 
+    "bfi": {
+      "name": "British Sign Language (BSL)", 
+      "autonym": "British Sign Language", 
+      "churchLang": "bfi"
     }, 
     "bg": {
       "name": "Bulgarian", 
@@ -53,7 +58,7 @@
     }, 
     "bm": {
       "name": "Bambara", 
-      "autonym": "Bambara", 
+      "autonym": "Bamanankan", 
       "churchLang": "bam"
     }, 
     "bn": {
@@ -67,12 +72,12 @@
       "churchLang": "cat"
     }, 
     "cag": {
-      "name": "Chulupi", 
+      "name": "Nivaclé", 
       "autonym": "Nivacle", 
       "churchLang": "cag"
     }, 
     "cak": {
-      "name": "Kaqchikel", 
+      "name": "Kaqchikel (Cakchiquel)", 
       "autonym": "Cakchiquel", 
       "churchLang": "cak"
     }, 
@@ -92,17 +97,17 @@
       "churchLang": "chk"
     }, 
     "cmn-Hans": {
-      "name": "Simplified Chinese/Mandarin", 
+      "name": "Mandarin (Simplified)", 
       "autonym": "简体中文 - 普通话", 
       "churchLang": "zhs"
     }, 
     "cmn-Hant": {
-      "name": "Traditional Chinese/Mandarin", 
+      "name": "Mandarin (Traditional)", 
       "autonym": "繁體中文 - 國語", 
       "churchLang": "zho"
     }, 
     "cmn-Latn": {
-      "name": "Chinese, Romanized – Mandarin", 
+      "name": "Mandarin (Romanized/Pinyin)", 
       "autonym": "漢語拼音", 
       "churchLang": "cmn-Latn"
     }, 
@@ -187,7 +192,7 @@
       "churchLang": "fra"
     }, 
     "gil": {
-      "name": "Kiribati", 
+      "name": "Kiribati (Gilbertese)", 
       "autonym": "Kiribati", 
       "churchLang": "gil"
     }, 
@@ -197,7 +202,7 @@
       "churchLang": "grn"
     }, 
     "guz": {
-      "name": "Kisii", 
+      "name": "Gusii (Kisii)", 
       "autonym": "EkeGusii", 
       "churchLang": "guz"
     }, 
@@ -208,11 +213,11 @@
     }, 
     "hi": {
       "name": "Hindi", 
-      "autonym": "हिन्दी, हिंदी", 
+      "autonym": "हिन्दी", 
       "churchLang": "hin"
     }, 
     "hif": {
-      "name": "HindiFiji", 
+      "name": "Hindi (Fiji)", 
       "autonym": "Fiji Hindi", 
       "churchLang": "hif"
     }, 
@@ -232,7 +237,7 @@
       "churchLang": "hrv"
     }, 
     "ht": {
-      "name": "HaitianCreole", 
+      "name": "Haitian Creole", 
       "autonym": "Kreyòl Ayisyen", 
       "churchLang": "hat"
     }, 
@@ -242,13 +247,13 @@
       "churchLang": "hun"
     }, 
     "hy": {
-      "name": "Armenian", 
+      "name": "Armenian (East)", 
       "autonym": "Հայերեն", 
       "churchLang": "hye"
     }, 
     "hyw": {
-      "name": "West)", 
-      "autonym": "Արեւմտահայերէն", 
+      "name": "Armenian (West)", 
+      "autonym": "արեւմտահայերէն", 
       "churchLang": "hyw"
     }, 
     "id": {
@@ -268,7 +273,7 @@
     }, 
     "is": {
       "name": "Icelandic", 
-      "autonym": "Íslenska", 
+      "autonym": "íslenska", 
       "churchLang": "isl"
     }, 
     "it": {
@@ -293,7 +298,7 @@
     }, 
     "kek": {
       "name": "Kekchi", 
-      "autonym": "Q'eqchi'", 
+      "autonym": "Q’eqchi’", 
       "churchLang": "kek"
     }, 
     "kk": {
@@ -302,7 +307,7 @@
       "churchLang": "kaz"
     }, 
     "km": {
-      "name": "Cambodian", 
+      "name": "Khmer (Cambodian)", 
       "autonym": "ភាសាខ្មែរ", 
       "churchLang": "khm"
     }, 
@@ -327,7 +332,7 @@
       "churchLang": "lin"
     }, 
     "lo": {
-      "name": "Lao", 
+      "name": "Laotian", 
       "autonym": "ພາສາລາວ", 
       "churchLang": "lao"
     }, 
@@ -397,7 +402,7 @@
       "churchLang": "mlt"
     }, 
     "my": {
-      "name": "Burmese", 
+      "name": "Burmese (Myanmar)", 
       "autonym": "ဗမာစာ", 
       "churchLang": "mya"
     }, 
@@ -422,12 +427,12 @@
       "churchLang": "nor"
     }, 
     "nr": {
-      "name": "Ndebele", 
+      "name": "Ndebele (Southern)", 
       "autonym": "isiNdebele", 
       "churchLang": "nbl"
     }, 
     "nso": {
-      "name": "Northern Sotho", 
+      "name": "Sotho (Northern)", 
       "autonym": "sePêdi", 
       "churchLang": "nso"
     }, 
@@ -452,7 +457,7 @@
       "churchLang": "pag"
     }, 
     "pam": {
-      "name": "Pampango", 
+      "name": "Pampango (Kapampangan)", 
       "autonym": "Pampango", 
       "churchLang": "pam"
     }, 
@@ -467,7 +472,7 @@
       "churchLang": "pau"
     }, 
     "pes": {
-      "name": "Farsi)", 
+      "name": "Persian (Iran) (Farsi)", 
       "autonym": "فارسی", 
       "churchLang": "pes"
     }, 
@@ -487,7 +492,7 @@
       "churchLang": "por"
     }, 
     "pt-PT": {
-      "name": "EuroPortuguese", 
+      "name": "Portuguese (Portugal)", 
       "autonym": "Português (Portugal)", 
       "churchLang": "ept"
     }, 
@@ -497,22 +502,22 @@
       "churchLang": "quc"
     }, 
     "quh": {
-      "name": "Quechua-Bolivia", 
+      "name": "Quechua (Bolivia)", 
       "autonym": "Quechua-Bolivia", 
       "churchLang": "quh"
     }, 
     "quz": {
-      "name": "Quechua Peru", 
+      "name": "Quechua (Peru)", 
       "autonym": "Yunkay Quechua", 
       "churchLang": "quz"
     }, 
     "qvi": {
-      "name": "Quichua Ecuador", 
+      "name": "Quichua (Ecuador)", 
       "autonym": "Kichwa", 
       "churchLang": "qvi"
     }, 
     "rar": {
-      "name": "Rarotongan", 
+      "name": "Rarotongan (Cook Islands Maori)", 
       "autonym": "Māori Kuki Airani", 
       "churchLang": "rar"
     }, 
@@ -527,7 +532,7 @@
       "churchLang": "rus"
     }, 
     "rw": {
-      "name": "Kinyarwanda", 
+      "name": "Rwanda", 
       "autonym": "Kinyarwanda", 
       "churchLang": "kin"
     }, 
@@ -567,18 +572,18 @@
       "churchLang": "srp"
     }, 
     "ss": {
-      "name": "Swati", 
+      "name": "Swazi", 
       "autonym": "siSwati", 
       "churchLang": "ssw"
     }, 
     "st": {
-      "name": "South Sotho", 
-      "autonym": "South Sotho", 
+      "name": "Sotho (Southern)", 
+      "autonym": "Sesotho", 
       "churchLang": "sot"
     }, 
     "sto": {
       "name": "Stoney Nakoda", 
-      "autonym": "I^ethka (Yethka)", 
+      "autonym": "Îethka (Yethka)", 
       "churchLang": "sto"
     }, 
     "sv": {
@@ -612,17 +617,17 @@
       "churchLang": "tgl"
     }, 
     "tn": {
-      "name": "Tswana", 
+      "name": "Tswana (Setswana)", 
       "autonym": "Setswana", 
       "churchLang": "tsn"
     }, 
     "to": {
       "name": "Tongan", 
-      "autonym": "Faka-tonga", 
+      "autonym": "Faka-Tonga", 
       "churchLang": "ton"
     }, 
     "tpi": {
-      "name": "TokPisin", 
+      "name": "Tok Pisin (Neomelanesian)", 
       "autonym": "Tok Pisin", 
       "churchLang": "tpi"
     }, 
@@ -632,7 +637,7 @@
       "churchLang": "tur"
     }, 
     "tvl": {
-      "name": "Tuvaluan", 
+      "name": "Tuvalu", 
       "autonym": "gana Tuvalu", 
       "churchLang": "tvl"
     }, 
@@ -672,7 +677,7 @@
       "churchLang": "war"
     }, 
     "xh": {
-      "name": "isiXhosa", 
+      "name": "Xhosa", 
       "autonym": "isiXhosa", 
       "churchLang": "xho"
     }, 
@@ -687,17 +692,17 @@
       "churchLang": "yor"
     }, 
     "yua": {
-      "name": "Maya", 
+      "name": "Maya (Yucatec)", 
       "autonym": "maayaʼ tʼàan", 
       "churchLang": "yua"
     }, 
     "yue-Hant": {
-      "name": "Traditional Chinese/Cantonese", 
+      "name": "Cantonese (Traditional)", 
       "autonym": "繁體中文 - 廣東話", 
       "churchLang": "yue"
     }, 
     "zu": {
-      "name": "isiZulu", 
+      "name": "Zulu", 
       "autonym": "isiZulu", 
       "churchLang": "zul"
     }
@@ -714,6 +719,7 @@
     "aym": "ay", 
     "be": "be", 
     "bel": "be", 
+    "bfi": "bfi", 
     "bg": "bg", 
     "bul": "bg", 
     "bi": "bi", 

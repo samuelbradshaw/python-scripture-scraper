@@ -1,5 +1,5 @@
 {
-  "_about": "Generated 2024-04-07 by Python Scripture Scraper (https://github.com/samuelbradshaw/python-scripture-scraper)", 
+  "_about": "Generated 2024-11-06 by Python Scripture Scraper (https://github.com/samuelbradshaw/python-scripture-scraper)", 
   "languages": {
     "af": {
       "punctuation": {
@@ -417,7 +417,7 @@
           "abbrev": null
         }, 
         "facsimiles": {
-          "name": "Abraham", 
+          "name": "Faksimilees", 
           "abbrev": null
         }, 
         "fac-1": {
@@ -1040,7 +1040,7 @@
           "abbrev": null
         }, 
         "facsimiles": {
-          "name": "አብርሐም", 
+          "name": "ቅርፅ", 
           "abbrev": null
         }, 
         "fac-1": {
@@ -1600,6 +1600,10 @@
         "helaman": {
           "name": "حيلامان", 
           "abbrev": null
+        }, 
+        "3-nephi": {
+          "name": "٣ نافي", 
+          "abbrev": null
         }
       }, 
       "churchAvailability": {
@@ -1683,7 +1687,8 @@
           "words-of-mormon", 
           "mosiah", 
           "alma", 
-          "helaman"
+          "helaman", 
+          "3-nephi"
         ], 
         "doctrine-and-covenants": [], 
         "pearl-of-great-price": [], 
@@ -2017,6 +2022,38 @@
         "jst-appendix": []
       }
     }, 
+    "bfi": {
+      "punctuation": {
+        "bookChapterSeparator": " ", 
+        "chapterVerseSeparator": ":", 
+        "verseRangeSeparator": "–", 
+        "verseGroupSeparator": ", ", 
+        "referenceSeparator": "; ", 
+        "openingParenthesis": " (", 
+        "closingParenthesis": ")"
+      }, 
+      "numerals": [
+        "0", 
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
+      "translatedNames": {}, 
+      "churchAvailability": {
+        "old-testament": [], 
+        "new-testament": [], 
+        "book-of-mormon": [], 
+        "doctrine-and-covenants": [], 
+        "pearl-of-great-price": [], 
+        "jst-appendix": []
+      }
+    }, 
     "bg": {
       "punctuation": {
         "bookChapterSeparator": " ", 
@@ -2050,7 +2087,7 @@
         }, 
         "exodus": {
           "name": "Изход", 
-          "abbrev": "Изход"
+          "abbrev": "Изх."
         }, 
         "leviticus": {
           "name": "Левит", 
@@ -2058,15 +2095,15 @@
         }, 
         "numbers": {
           "name": "Числа", 
-          "abbrev": "Числа"
+          "abbrev": "Чис."
         }, 
         "deuteronomy": {
           "name": "Второзаконие", 
-          "abbrev": "Втор."
+          "abbrev": "Вт."
         }, 
         "joshua": {
-          "name": "Исус Навиев", 
-          "abbrev": "Исус Н."
+          "name": "Исус Навин", 
+          "abbrev": "И. Н."
         }, 
         "judges": {
           "name": "Съдии", 
@@ -2077,19 +2114,19 @@
           "abbrev": "Рут"
         }, 
         "1-samuel": {
-          "name": "1 Царете", 
+          "name": "1 Царе", 
           "abbrev": "1 Цар."
         }, 
         "2-samuel": {
-          "name": "2 Царете", 
+          "name": "2 Царе", 
           "abbrev": "2 Цар."
         }, 
         "1-kings": {
-          "name": "3 Царете", 
+          "name": "3 Царе", 
           "abbrev": "3 Цар."
         }, 
         "2-kings": {
-          "name": "4 Царете", 
+          "name": "4 Царе", 
           "abbrev": "4 Цар."
         }, 
         "1-chronicles": {
@@ -2102,7 +2139,7 @@
         }, 
         "ezra": {
           "name": "Ездра", 
-          "abbrev": "Ездра"
+          "abbrev": "Езд."
         }, 
         "nehemiah": {
           "name": "Неемия", 
@@ -2113,20 +2150,20 @@
           "abbrev": "Ест."
         }, 
         "job": {
-          "name": "Иов", 
-          "abbrev": "Иов"
+          "name": "Йов", 
+          "abbrev": "Йов"
         }, 
         "psalms": {
           "name": "Псалми", 
-          "abbrev": "Псалми"
+          "abbrev": "Пс."
         }, 
         "psalm": {
           "name": "Псалми", 
-          "abbrev": "Псалми"
+          "abbrev": "Пс."
         }, 
         "proverbs": {
           "name": "Притчи", 
-          "abbrev": "Притчи"
+          "abbrev": "Пр."
         }, 
         "ecclesiastes": {
           "name": "Еклисиаст", 
@@ -2134,23 +2171,23 @@
         }, 
         "song-of-solomon": {
           "name": "Песен на песните", 
-          "abbrev": "Песен"
+          "abbrev": "П. П."
         }, 
         "isaiah": {
-          "name": "Исаия", 
-          "abbrev": "Исаия"
+          "name": "Исайя", 
+          "abbrev": "Ис."
         }, 
         "jeremiah": {
-          "name": "Еремия", 
-          "abbrev": "Ерем."
+          "name": "Йеремия", 
+          "abbrev": "Йер."
         }, 
         "lamentations": {
-          "name": "Плачът на Еремия", 
-          "abbrev": "Плач"
+          "name": "Плачът на Йеремия", 
+          "abbrev": "Плач."
         }, 
         "ezekiel": {
-          "name": "Езекиил", 
-          "abbrev": "Езек."
+          "name": "Йезекиил", 
+          "abbrev": "Йез."
         }, 
         "daniel": {
           "name": "Даниил", 
@@ -2158,11 +2195,11 @@
         }, 
         "hosea": {
           "name": "Осия", 
-          "abbrev": "Осия"
+          "abbrev": "Ос."
         }, 
         "joel": {
-          "name": "Иоил", 
-          "abbrev": "Иоил"
+          "name": "Йоил", 
+          "abbrev": "Йоил"
         }, 
         "amos": {
           "name": "Амос", 
@@ -2173,8 +2210,8 @@
           "abbrev": "Авд."
         }, 
         "jonah": {
-          "name": "Иона", 
-          "abbrev": "Иона"
+          "name": "Йона", 
+          "abbrev": "Йона"
         }, 
         "micah": {
           "name": "Михей", 
@@ -2186,7 +2223,7 @@
         }, 
         "habakkuk": {
           "name": "Авакум", 
-          "abbrev": "Авак."
+          "abbrev": "Ав."
         }, 
         "zephaniah": {
           "name": "Софония", 
@@ -2194,7 +2231,7 @@
         }, 
         "haggai": {
           "name": "Агей", 
-          "abbrev": "Агей"
+          "abbrev": "Аг."
         }, 
         "zechariah": {
           "name": "Захария", 
@@ -2209,56 +2246,56 @@
           "abbrev": null
         }, 
         "matthew": {
-          "name": "Матея", 
+          "name": "Матей", 
           "abbrev": "Мат."
         }, 
         "mark": {
-          "name": "Марка", 
-          "abbrev": "Марка"
+          "name": "Марк", 
+          "abbrev": "Марк"
         }, 
         "luke": {
           "name": "Лука", 
           "abbrev": "Лука"
         }, 
         "john": {
-          "name": "Иоана", 
-          "abbrev": "Иоана"
+          "name": "Йоан", 
+          "abbrev": "Йоан"
         }, 
         "acts": {
           "name": "Деянията на апостолите", 
-          "abbrev": "Деяния"
+          "abbrev": "Д. А."
         }, 
         "romans": {
-          "name": "Яковово", 
-          "abbrev": "Яков."
+          "name": "Послание на Яков", 
+          "abbrev": "П. Я."
         }, 
         "1-corinthians": {
-          "name": "1 Петрово", 
+          "name": "1 Петър", 
           "abbrev": "1 Пет."
         }, 
         "2-corinthians": {
-          "name": "2 Петрово", 
+          "name": "2 Петър", 
           "abbrev": "2 Пет."
         }, 
         "galatians": {
-          "name": "1 Иоаново", 
-          "abbrev": "1 Иоан."
+          "name": "1 Йоан", 
+          "abbrev": "1 Йоан"
         }, 
         "ephesians": {
-          "name": "2 Иоаново", 
-          "abbrev": "2 Иоан."
+          "name": "2 Йоан", 
+          "abbrev": "2 Йоан"
         }, 
         "philippians": {
-          "name": "3 Иоаново", 
-          "abbrev": "3 Иоан."
+          "name": "3 Йоан", 
+          "abbrev": "3 Йоан"
         }, 
         "colossians": {
-          "name": "Юдово", 
-          "abbrev": "Юд."
+          "name": "Юда", 
+          "abbrev": "Юда"
         }, 
         "1-thessalonians": {
           "name": "Римляните", 
-          "abbrev": "Римл."
+          "abbrev": "Рим."
         }, 
         "2-thessalonians": {
           "name": "1 Коринтяните", 
@@ -2274,38 +2311,38 @@
         }, 
         "titus": {
           "name": "Ефесяните", 
-          "abbrev": "Ефес."
+          "abbrev": "Еф."
         }, 
         "philemon": {
           "name": "Филипяните", 
-          "abbrev": "Филип."
+          "abbrev": "Фил."
         }, 
         "hebrews": {
           "name": "Колосяните", 
           "abbrev": "Кол."
         }, 
         "james": {
-          "name": "1 Солунците", 
+          "name": "1 Солуняните", 
           "abbrev": "1 Сол."
         }, 
         "1-peter": {
-          "name": "2 Солунците", 
+          "name": "2 Солуняните", 
           "abbrev": "2 Сол."
         }, 
         "2-peter": {
-          "name": "1 Тимотея", 
+          "name": "1 Тимотей", 
           "abbrev": "1 Тим."
         }, 
         "1-john": {
-          "name": "2 Тимотея", 
+          "name": "2 Тимотей", 
           "abbrev": "2 Тим."
         }, 
         "2-john": {
-          "name": "Тита", 
-          "abbrev": "Тита"
+          "name": "Тит", 
+          "abbrev": "Тит"
         }, 
         "3-john": {
-          "name": "Филимона", 
+          "name": "Филимон", 
           "abbrev": "Филим."
         }, 
         "jude": {
@@ -2313,60 +2350,60 @@
           "abbrev": "Евр."
         }, 
         "revelation": {
-          "name": "Откровението на Иоана", 
+          "name": "Откровението на Йоан", 
           "abbrev": "Откр."
         }, 
         "book-of-mormon": {
-          "name": "Книгата на Мормон", 
+          "name": "Книга на Мормон", 
           "abbrev": null
         }, 
         "1-nephi": {
           "name": "1 Нефи", 
-          "abbrev": "1 Не."
+          "abbrev": "1 Неф."
         }, 
         "2-nephi": {
           "name": "2 Нефи", 
-          "abbrev": "2 Не."
+          "abbrev": "2 Неф."
         }, 
         "jacob": {
           "name": "Яков", 
-          "abbrev": "Яков"
+          "abbrev": "Як."
         }, 
         "enos": {
           "name": "Енос", 
-          "abbrev": "Енос"
+          "abbrev": "Ен."
         }, 
         "jarom": {
           "name": "Яром", 
-          "abbrev": "Яром"
+          "abbrev": "Яр."
         }, 
         "omni": {
           "name": "Омний", 
-          "abbrev": "Омний"
+          "abbrev": "Омн."
         }, 
         "words-of-mormon": {
           "name": "Словата на Мормон", 
-          "abbrev": "С. на М."
+          "abbrev": "С. М."
         }, 
         "mosiah": {
           "name": "Мосия", 
-          "abbrev": "Мосия"
+          "abbrev": "Мос."
         }, 
         "alma": {
           "name": "Алма", 
-          "abbrev": "Алма"
+          "abbrev": "Ал."
         }, 
         "helaman": {
           "name": "Еламан", 
-          "abbrev": "Еламан"
+          "abbrev": "Ел."
         }, 
         "3-nephi": {
           "name": "3 Нефи", 
-          "abbrev": "3 Не."
+          "abbrev": "3 Неф."
         }, 
         "4-nephi": {
           "name": "4 Нефи", 
-          "abbrev": "4 Не."
+          "abbrev": "4 Неф."
         }, 
         "mormon": {
           "name": "Мормон", 
@@ -2374,22 +2411,22 @@
         }, 
         "ether": {
           "name": "Етер", 
-          "abbrev": "Етер"
+          "abbrev": "Ет."
         }, 
         "moroni": {
           "name": "Мороний", 
-          "abbrev": "Мор."
+          "abbrev": "Морон."
         }, 
         "doctrine-and-covenants": {
-          "name": "Учение и Завети", 
+          "name": "Учение и завети", 
           "abbrev": "У. и З."
         }, 
         "sections": {
-          "name": "Учение и Завети", 
+          "name": "Раздели", 
           "abbrev": "У. и З."
         }, 
         "official-declarations": {
-          "name": "Официално изявление", 
+          "name": "Официални изявления", 
           "abbrev": "О. И."
         }, 
         "official-declaration": {
@@ -2397,43 +2434,43 @@
           "abbrev": "О. И."
         }, 
         "pearl-of-great-price": {
-          "name": "Скъпоценен Бисер", 
+          "name": "Скъпоценен бисер", 
           "abbrev": null
         }, 
         "moses": {
           "name": "Моисей", 
-          "abbrev": "Моисей"
+          "abbrev": "Моис."
         }, 
         "abraham": {
           "name": "Авраам", 
           "abbrev": "Авр."
         }, 
         "joseph-smith-matthew": {
-          "name": "Джозеф Смит — Матея", 
-          "abbrev": "Дж. С. — М."
+          "name": "Джозеф Смит – Матей", 
+          "abbrev": "Дж. С. – М."
         }, 
         "joseph-smith-history": {
-          "name": "Джозеф Смит — История", 
-          "abbrev": "Дж. С. — И."
+          "name": "Джозеф Смит – История", 
+          "abbrev": "Дж. С. – И."
         }, 
         "articles-of-faith": {
           "name": "Символът на вярата", 
-          "abbrev": "С. на В."
+          "abbrev": "С. В."
+        }, 
+        "joseph-smith-translation": {
+          "name": "Превод на Джозеф Смит", 
+          "abbrev": "П. Дж. С."
         }, 
         "guide-to-the-scriptures": {
           "name": "Ръководство към Писанията", 
           "abbrev": "Р. П."
-        }, 
-        "joseph-smith-translation": {
-          "name": "Преводът на Джозеф Смит", 
-          "abbrev": "П. Дж. С."
         }, 
         "facsimile": {
           "name": "Изображение", 
           "abbrev": null
         }, 
         "facsimiles": {
-          "name": "Авраам", 
+          "name": "Изображения", 
           "abbrev": null
         }, 
         "fac-1": {
@@ -2449,123 +2486,139 @@
           "abbrev": null
         }, 
         "jst-appendix": {
-          "name": "Преводът на Джозеф Смит", 
+          "name": "Превод на Джозеф Смит, приложение", 
           "abbrev": null
         }, 
         "jst-genesis": {
-          "name": "П. ДЖ. С., Битие", 
+          "name": "П. Дж. С., Битие", 
+          "abbrev": null
+        }, 
+        "1-8": {
+          "name": "П. Дж. С., Битие 1–8", 
           "abbrev": null
         }, 
         "jst-exodus": {
-          "name": "П. ДЖ. С., Изход", 
+          "name": "П. Дж. С., Изход", 
           "abbrev": null
         }, 
         "jst-deuteronomy": {
-          "name": "П. ДЖ. С., Второзаконие", 
+          "name": "П. Дж. С., Второзаконие", 
           "abbrev": null
         }, 
         "jst-1-samuel": {
-          "name": "П. ДЖ. С., 1 Царете", 
+          "name": "П. Дж. С., 1 Царе", 
           "abbrev": null
         }, 
         "jst-2-samuel": {
-          "name": "П. ДЖ. С., 2 Царете", 
+          "name": "П. Дж. С., 2 Царе", 
+          "abbrev": null
+        }, 
+        "jst-1-chronicles": {
+          "name": "П. Дж. С., 1 Летописи", 
           "abbrev": null
         }, 
         "jst-2-chronicles": {
-          "name": "П. ДЖ. С., 2 Летописи", 
+          "name": "П. Дж. С., 2 Летописи", 
           "abbrev": null
         }, 
         "jst-psalms": {
-          "name": "П. ДЖ. С., Псалми", 
+          "name": "П. Дж. С., Псалми", 
           "abbrev": null
         }, 
         "jst-psalm": {
-          "name": "П. ДЖ. С., Псалми", 
+          "name": "П. Дж. С., Псалми", 
           "abbrev": null
         }, 
         "jst-isaiah": {
-          "name": "П. ДЖ. С., Исаия", 
+          "name": "П. Дж. С., Исайя", 
           "abbrev": null
         }, 
         "jst-jeremiah": {
-          "name": "П. ДЖ. С., Еремия", 
+          "name": "П. Дж. С., Йеремия", 
           "abbrev": null
         }, 
         "jst-amos": {
-          "name": "П. ДЖ. С., Амос", 
+          "name": "П. Дж. С., Амос", 
           "abbrev": null
         }, 
         "jst-matthew": {
-          "name": "П. ДЖ. С., Матея", 
+          "name": "П. Дж. С., Матей", 
           "abbrev": null
         }, 
         "jst-mark": {
-          "name": "П. ДЖ. С., Марка", 
+          "name": "П. Дж. С., Марк", 
           "abbrev": null
         }, 
         "jst-luke": {
-          "name": "П. ДЖ. С., Лука", 
+          "name": "П. Дж. С., Лука", 
           "abbrev": null
         }, 
         "jst-john": {
-          "name": "П. ДЖ. С., Иоана", 
+          "name": "П. Дж. С., Йоан", 
           "abbrev": null
         }, 
         "jst-acts": {
-          "name": "П. ДЖ. С., Деянията на апостолите", 
+          "name": "П. Дж. С., Деянията на апостолите", 
           "abbrev": null
         }, 
         "jst-romans": {
-          "name": "П. ДЖ. С., Римляните", 
+          "name": "П. Дж. С., Римляните", 
           "abbrev": null
         }, 
         "jst-1-corinthians": {
-          "name": "П. ДЖ. С., 1 Коринтяните", 
+          "name": "П. Дж. С., 1 Коринтяните", 
           "abbrev": null
         }, 
         "jst-2-corinthians": {
-          "name": "П. ДЖ. С., 2 Коринтяните", 
+          "name": "П. Дж. С., 2 Коринтяните", 
           "abbrev": null
         }, 
         "jst-galatians": {
-          "name": "П. ДЖ. С., Галатяните", 
+          "name": "П. Дж. С., Галатяните", 
           "abbrev": null
         }, 
         "jst-ephesians": {
-          "name": "П. ДЖ. С., Ефесяните", 
+          "name": "П. Дж. С., Ефесяните", 
+          "abbrev": null
+        }, 
+        "jst-colossians": {
+          "name": "П. Дж. С., Колосяните", 
           "abbrev": null
         }, 
         "jst-1-thessalonians": {
-          "name": "П. ДЖ. С., 1 Солунците", 
+          "name": "П. Дж. С., 1 Солуняните", 
           "abbrev": null
         }, 
         "jst-2-thessalonians": {
-          "name": "П. ДЖ. С., 2 Солунците", 
+          "name": "П. Дж. С., 2 Солуняните", 
           "abbrev": null
         }, 
         "jst-1-timothy": {
-          "name": "П. ДЖ. С., 1 Тимотея", 
+          "name": "П. Дж. С., 1 Тимотей", 
           "abbrev": null
         }, 
         "jst-hebrews": {
-          "name": "П. ДЖ. С., Евреите", 
+          "name": "П. Дж. С., Евреите", 
           "abbrev": null
         }, 
         "jst-james": {
-          "name": "П. ДЖ. С., Яковово", 
+          "name": "П. Дж. С., Послание на Яков", 
           "abbrev": null
         }, 
         "jst-1-peter": {
-          "name": "П. ДЖ. С., 1 Петрово", 
+          "name": "П. Дж. С., 1 Петър", 
+          "abbrev": null
+        }, 
+        "jst-2-peter": {
+          "name": "П. Дж. С., 2 Петър", 
           "abbrev": null
         }, 
         "jst-1-john": {
-          "name": "П. Дж. С., 1 Иоаново", 
+          "name": "П. Дж. С., 1 Йоан", 
           "abbrev": null
         }, 
         "jst-revelation": {
-          "name": "П. ДЖ. С., Откровението на Иоана", 
+          "name": "П. Дж. С., Откровението на Йоан", 
           "abbrev": null
         }
       }, 
@@ -2606,6 +2659,7 @@
           "jst-deuteronomy", 
           "jst-1-samuel", 
           "jst-2-samuel", 
+          "jst-1-chronicles", 
           "jst-2-chronicles", 
           "jst-psalms", 
           "jst-isaiah", 
@@ -2621,12 +2675,14 @@
           "jst-2-corinthians", 
           "jst-galatians", 
           "jst-ephesians", 
+          "jst-colossians", 
           "jst-1-thessalonians", 
           "jst-2-thessalonians", 
           "jst-1-timothy", 
           "jst-hebrews", 
           "jst-james", 
           "jst-1-peter", 
+          "jst-2-peter", 
           "jst-1-john", 
           "jst-revelation"
         ]
@@ -3048,7 +3104,7 @@
           "abbrev": null
         }, 
         "facsimiles": {
-          "name": "Ebraham", 
+          "name": "Ol Pikja Kopi", 
           "abbrev": null
         }, 
         "fac-1": {
@@ -3429,20 +3485,28 @@
         "closingParenthesis": ")"
       }, 
       "numerals": [
-        "0", 
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+        "০", 
+        "১", 
+        "২", 
+        "৩", 
+        "৪", 
+        "৫", 
+        "৬", 
+        "৭", 
+        "৮", 
+        "৯"
       ], 
       "translatedNames": {
         "book-of-mormon": {
           "name": "মরমনের পুস্তক", 
+          "abbrev": null
+        }, 
+        "1-nephi": {
+          "name": "১ নেফী", 
+          "abbrev": null
+        }, 
+        "2-nephi": {
+          "name": "২ নেফী", 
           "abbrev": null
         }, 
         "3-nephi": {
@@ -3454,6 +3518,8 @@
         "old-testament": [], 
         "new-testament": [], 
         "book-of-mormon": [
+          "1-nephi", 
+          "2-nephi", 
           "3-nephi"
         ], 
         "doctrine-and-covenants": [], 
@@ -3581,7 +3647,7 @@
           "abbrev": null
         }, 
         "facsimiles": {
-          "name": "D’Abraham", 
+          "name": "Facsímil", 
           "abbrev": null
         }, 
         "fac-1": {
@@ -4131,7 +4197,7 @@
           "abbrev": "D&P"
         }, 
         "sections": {
-          "name": "Ang Doktrina ug mga Pakigsaad", 
+          "name": "Mga Seksiyon", 
           "abbrev": "D&P"
         }, 
         "official-declarations": {
@@ -4179,7 +4245,7 @@
           "abbrev": null
         }, 
         "facsimiles": {
-          "name": "Abraham", 
+          "name": "Facsimile", 
           "abbrev": null
         }, 
         "fac-1": {
@@ -4995,7 +5061,7 @@
           "abbrev": null
         }, 
         "facsimiles": {
-          "name": "亚伯拉罕书", 
+          "name": "复制图", 
           "abbrev": null
         }, 
         "fac-1": {
@@ -5152,9 +5218,13 @@
           "genesis", 
           "exodus", 
           "leviticus", 
-          "numbers"
+          "numbers", 
+          "deuteronomy"
         ], 
-        "new-testament": [], 
+        "new-testament": [
+          "matthew", 
+          "mark"
+        ], 
         "book-of-mormon": [
           "1-nephi", 
           "2-nephi", 
@@ -5634,7 +5704,7 @@
           "abbrev": null
         }, 
         "facsimiles": {
-          "name": "亞伯拉罕書", 
+          "name": "複製圖", 
           "abbrev": null
         }, 
         "fac-1": {
@@ -5791,9 +5861,13 @@
           "genesis", 
           "exodus", 
           "leviticus", 
-          "numbers"
+          "numbers", 
+          "deuteronomy"
         ], 
-        "new-testament": [], 
+        "new-testament": [
+          "matthew", 
+          "mark"
+        ], 
         "book-of-mormon": [
           "1-nephi", 
           "2-nephi", 
@@ -6386,7 +6460,7 @@
           "abbrev": null
         }, 
         "facsimiles": {
-          "name": "Abraham", 
+          "name": "Faksimile", 
           "abbrev": null
         }, 
         "fac-1": {
@@ -9472,7 +9546,7 @@
           "abbrev": null
         }, 
         "facsimiles": {
-          "name": "Abraham", 
+          "name": "Facsímile Nº", 
           "abbrev": null
         }, 
         "fac-1": {
@@ -10174,7 +10248,7 @@
           "abbrev": null
         }, 
         "facsimiles": {
-          "name": "Aabrahami", 
+          "name": "Jäljend joonisest nr", 
           "abbrev": null
         }, 
         "fac-1": {
@@ -10821,7 +10895,7 @@
           "abbrev": null
         }, 
         "facsimiles": {
-          "name": "Abraham", 
+          "name": "Mfonyin", 
           "abbrev": null
         }, 
         "fac-1": {
@@ -11455,7 +11529,7 @@
           "abbrev": null
         }, 
         "facsimiles": {
-          "name": "Abraham", 
+          "name": "Kuvajäljennökset", 
           "abbrev": null
         }, 
         "fac-1": {
@@ -12157,7 +12231,7 @@
           "abbrev": null
         }, 
         "facsimiles": {
-          "name": "Eparaama", 
+          "name": "ILavelave ni itukutuku makawa", 
           "abbrev": null
         }, 
         "fac-1": {
@@ -12823,7 +12897,7 @@
           "abbrev": null
         }, 
         "facsimiles": {
-          "name": "Abraham", 
+          "name": "Fac-similé no", 
           "abbrev": null
         }, 
         "fac-1": {
@@ -13525,11 +13599,11 @@
           "abbrev": null
         }, 
         "facsimiles": {
-          "name": "Aberaam", 
+          "name": "Katotongan Koroboki", 
           "abbrev": null
         }, 
         "fac-1": {
-          "name": "Katooto 1", 
+          "name": "Katooto 1", 
           "abbrev": null
         }, 
         "fac-2": {
@@ -13863,7 +13937,7 @@
           "abbrev": null
         }, 
         "facsimiles": {
-          "name": "Abraham", 
+          "name": "Taʼangajoja", 
           "abbrev": null
         }, 
         "fac-1": {
@@ -14286,7 +14360,7 @@
           "abbrev": null
         }, 
         "facsimiles": {
-          "name": "इब्राहीम", 
+          "name": "प्रतिकृति", 
           "abbrev": null
         }, 
         "fac-1": {
@@ -14476,15 +14550,15 @@
           "abbrev": null
         }, 
         "official-declarations": {
-          "name": "Opisyal nga mga Pahayag", 
+          "name": "Opisyal nga mga Deklarasyon", 
           "abbrev": null
         }, 
         "official-declaration": {
-          "name": "Opisyal nga Pahayag", 
+          "name": "Opisyal nga Deklarasyon", 
           "abbrev": null
         }, 
         "pearl-of-great-price": {
-          "name": "Perlas nga Bilidhon", 
+          "name": "Ang Perlas nga Bilidhon", 
           "abbrev": null
         }, 
         "moses": {
@@ -15160,7 +15234,7 @@
           "abbrev": null
         }, 
         "facsimiles": {
-          "name": "Abraham", 
+          "name": "Preslici", 
           "abbrev": null
         }, 
         "fac-1": {
@@ -16428,7 +16502,7 @@
           "abbrev": null
         }, 
         "facsimiles": {
-          "name": "Ábrahám", 
+          "name": "képmásolat", 
           "abbrev": null
         }, 
         "fac-1": {
@@ -17043,7 +17117,7 @@
           "abbrev": null
         }, 
         "facsimiles": {
-          "name": "Աբրահամ", 
+          "name": "Վերատպում", 
           "abbrev": null
         }, 
         "fac-1": {
@@ -18324,7 +18398,7 @@
           "abbrev": null
         }, 
         "facsimiles": {
-          "name": "Abraham", 
+          "name": "Ihe esere ese na-ụdị ha dịbu nke", 
           "abbrev": null
         }, 
         "fac-1": {
@@ -18939,7 +19013,7 @@
           "abbrev": null
         }, 
         "facsimiles": {
-          "name": "Abraham", 
+          "name": "PaKsimile", 
           "abbrev": null
         }, 
         "fac-1": {
@@ -19554,7 +19628,7 @@
           "abbrev": null
         }, 
         "facsimiles": {
-          "name": "Bók Abrahams", 
+          "name": "Myndeftirlíking", 
           "abbrev": null
         }, 
         "fac-1": {
@@ -20188,7 +20262,7 @@
           "abbrev": null
         }, 
         "facsimiles": {
-          "name": "Abrahamo", 
+          "name": "Facsimile", 
           "abbrev": null
         }, 
         "fac-1": {
@@ -20890,7 +20964,7 @@
           "abbrev": null
         }, 
         "facsimiles": {
-          "name": "アブラハム書", 
+          "name": "模写", 
           "abbrev": null
         }, 
         "fac-1": {
@@ -21806,7 +21880,7 @@
           "abbrev": null
         }, 
         "facsimiles": {
-          "name": "Abraham", 
+          "name": "Jalam-uuch", 
           "abbrev": null
         }, 
         "fac-1": {
@@ -22523,7 +22597,7 @@
           "abbrev": null
         }, 
         "facsimiles": {
-          "name": "អ័ប្រាហាំ", 
+          "name": "វត្ថុ​ចម្លង​តាម លេខ​ី", 
           "abbrev": null
         }, 
         "fac-1": {
@@ -23138,7 +23212,7 @@
           "abbrev": null
         }, 
         "facsimiles": {
-          "name": "아브라함서", 
+          "name": "사본", 
           "abbrev": null
         }, 
         "fac-1": {
@@ -23552,7 +23626,7 @@
     }, 
     "ln": {
       "punctuation": {
-        "bookChapterSeparator": " ", 
+        "bookChapterSeparator": " ", 
         "chapterVerseSeparator": ":", 
         "verseRangeSeparator": "–", 
         "verseGroupSeparator": ", ", 
@@ -23573,68 +23647,548 @@
         "9"
       ], 
       "translatedNames": {
+        "old-testament": {
+          "name": "Boyokani ya Kala", 
+          "abbrev": null
+        }, 
+        "genesis": {
+          "name": "Genese", 
+          "abbrev": "Gen."
+        }, 
+        "exodus": {
+          "name": "Esode", 
+          "abbrev": "Esod."
+        }, 
+        "leviticus": {
+          "name": "Lewitiko", 
+          "abbrev": "Lew."
+        }, 
+        "numbers": {
+          "name": "Mituya", 
+          "abbrev": "Mit."
+        }, 
+        "deuteronomy": {
+          "name": "Dutelonome", 
+          "abbrev": "Dut."
+        }, 
+        "joshua": {
+          "name": "Yosua", 
+          "abbrev": "Yos."
+        }, 
+        "judges": {
+          "name": "Basambisi", 
+          "abbrev": "Bas."
+        }, 
+        "ruth": {
+          "name": "Luta", 
+          "abbrev": "Luta"
+        }, 
+        "1-samuel": {
+          "name": "1 Samwele", 
+          "abbrev": "1 Sam."
+        }, 
+        "2-samuel": {
+          "name": "2 Samwele", 
+          "abbrev": "2 Sam."
+        }, 
+        "1-kings": {
+          "name": "1 Mikonzi", 
+          "abbrev": "1 Mik."
+        }, 
+        "2-kings": {
+          "name": "2 Mikonzi", 
+          "abbrev": "2 Mik."
+        }, 
+        "1-chronicles": {
+          "name": "1 Ntango", 
+          "abbrev": "1 Nta."
+        }, 
+        "2-chronicles": {
+          "name": "2 Ntango", 
+          "abbrev": "2 Nta."
+        }, 
+        "ezra": {
+          "name": "Ejela", 
+          "abbrev": "Ejela"
+        }, 
+        "nehemiah": {
+          "name": "Nehemia", 
+          "abbrev": "Nehem."
+        }, 
+        "esther": {
+          "name": "Esetele", 
+          "abbrev": "Eset."
+        }, 
+        "job": {
+          "name": "Yobo", 
+          "abbrev": "Yob."
+        }, 
+        "psalms": {
+          "name": "Nzembo", 
+          "abbrev": "Nze."
+        }, 
+        "psalm": {
+          "name": "Nzembo", 
+          "abbrev": "Nze."
+        }, 
+        "proverbs": {
+          "name": "Masese", 
+          "abbrev": "Mas."
+        }, 
+        "ecclesiastes": {
+          "name": "Mosakoli", 
+          "abbrev": "Mosak."
+        }, 
+        "song-of-solomon": {
+          "name": "Loyembo ya Solomo", 
+          "abbrev": "Loyembo"
+        }, 
+        "isaiah": {
+          "name": "Yisaya", 
+          "abbrev": "Yis."
+        }, 
+        "jeremiah": {
+          "name": "Yilimia", 
+          "abbrev": "Yil."
+        }, 
+        "lamentations": {
+          "name": "Kolela", 
+          "abbrev": "Bil."
+        }, 
+        "ezekiel": {
+          "name": "Ejekiele", 
+          "abbrev": "Ejek."
+        }, 
+        "daniel": {
+          "name": "Danyele", 
+          "abbrev": "Dan."
+        }, 
+        "hosea": {
+          "name": "Hosea", 
+          "abbrev": "Hosea"
+        }, 
+        "joel": {
+          "name": "Yoele", 
+          "abbrev": "Yoele"
+        }, 
+        "amos": {
+          "name": "Amosa", 
+          "abbrev": "Amosa"
+        }, 
+        "obadiah": {
+          "name": "Obadia", 
+          "abbrev": "Obad."
+        }, 
+        "jonah": {
+          "name": "Yona", 
+          "abbrev": "Yona"
+        }, 
+        "micah": {
+          "name": "Mika", 
+          "abbrev": "Mika"
+        }, 
+        "nahum": {
+          "name": "Nahumu", 
+          "abbrev": "Nah."
+        }, 
+        "habakkuk": {
+          "name": "Habakuku", 
+          "abbrev": "Hab."
+        }, 
+        "zephaniah": {
+          "name": "Sefania", 
+          "abbrev": "Sefan."
+        }, 
+        "haggai": {
+          "name": "Hagai", 
+          "abbrev": "Hag."
+        }, 
+        "zechariah": {
+          "name": "Zekalia", 
+          "abbrev": "Zek."
+        }, 
+        "malachi": {
+          "name": "Malaki", 
+          "abbrev": "Mki."
+        }, 
+        "new-testament": {
+          "name": "Boyokani ya Sika", 
+          "abbrev": null
+        }, 
+        "matthew": {
+          "name": "Matai", 
+          "abbrev": "Mat."
+        }, 
+        "mark": {
+          "name": "Malako", 
+          "abbrev": "Mal."
+        }, 
+        "luke": {
+          "name": "Luka", 
+          "abbrev": "Luk."
+        }, 
+        "john": {
+          "name": "Yoane", 
+          "abbrev": "Yoan."
+        }, 
+        "acts": {
+          "name": "Misala", 
+          "abbrev": "Mis."
+        }, 
+        "romans": {
+          "name": "Baloma", 
+          "abbrev": "Lom."
+        }, 
+        "1-corinthians": {
+          "name": "1 Bakolinti", 
+          "abbrev": "1 Kol."
+        }, 
+        "2-corinthians": {
+          "name": "2 Bakolinti", 
+          "abbrev": "2 Kol."
+        }, 
+        "galatians": {
+          "name": "Bagalatia", 
+          "abbrev": "Gal."
+        }, 
+        "ephesians": {
+          "name": "Baefese", 
+          "abbrev": "Efe."
+        }, 
+        "philippians": {
+          "name": "Bafilipi", 
+          "abbrev": "Filip."
+        }, 
+        "colossians": {
+          "name": "Bakolose", 
+          "abbrev": "Kolos."
+        }, 
+        "1-thessalonians": {
+          "name": "1 Batesaloniki", 
+          "abbrev": "1 Tes."
+        }, 
+        "2-thessalonians": {
+          "name": "2 Batesaloniki", 
+          "abbrev": "2 Tes."
+        }, 
+        "1-timothy": {
+          "name": "1 Timote", 
+          "abbrev": "1 Tim."
+        }, 
+        "2-timothy": {
+          "name": "2 Timote", 
+          "abbrev": "2 Tim."
+        }, 
+        "titus": {
+          "name": "Tito", 
+          "abbrev": "Tit."
+        }, 
+        "philemon": {
+          "name": "Filemona", 
+          "abbrev": "Filem."
+        }, 
+        "hebrews": {
+          "name": "Baebele", 
+          "abbrev": "Ebe."
+        }, 
+        "james": {
+          "name": "Yakobo", 
+          "abbrev": "Yak."
+        }, 
+        "1-peter": {
+          "name": "1 Petelo", 
+          "abbrev": "1 Pet."
+        }, 
+        "2-peter": {
+          "name": "2 Petelo", 
+          "abbrev": "2 Pet."
+        }, 
+        "1-john": {
+          "name": "1 Yoane", 
+          "abbrev": "1 Yoan."
+        }, 
+        "2-john": {
+          "name": "2 Yoane", 
+          "abbrev": "2 Yoan."
+        }, 
+        "3-john": {
+          "name": "3 Yoane", 
+          "abbrev": "3 Yoan."
+        }, 
+        "jude": {
+          "name": "Yude", 
+          "abbrev": "Yud."
+        }, 
+        "revelation": {
+          "name": "Emoniseli", 
+          "abbrev": "Emon."
+        }, 
         "book-of-mormon": {
-          "name": "Buku ya Molomoni", 
+          "name": "Buku ya Mormon", 
           "abbrev": null
         }, 
         "1-nephi": {
           "name": "1 Nefi", 
-          "abbrev": null
+          "abbrev": "1 Nef."
         }, 
         "2-nephi": {
           "name": "2 Nefi", 
-          "abbrev": null
+          "abbrev": "2 Nef."
         }, 
         "jacob": {
           "name": "Yakobo", 
-          "abbrev": null
+          "abbrev": "Yako."
         }, 
         "enos": {
           "name": "Enosa", 
-          "abbrev": null
+          "abbrev": "Enos."
         }, 
         "jarom": {
-          "name": "Yalomi", 
-          "abbrev": null
+          "name": "Jarom", 
+          "abbrev": "Jar."
         }, 
         "omni": {
           "name": "Omini", 
-          "abbrev": null
+          "abbrev": "Omin."
         }, 
         "words-of-mormon": {
-          "name": "Maloba ma Molomoni", 
-          "abbrev": null
+          "name": "Maloba ya Mormon", 
+          "abbrev": "M ya M"
         }, 
         "mosiah": {
-          "name": "Moziya", 
-          "abbrev": null
+          "name": "Mosiya", 
+          "abbrev": "Mos."
         }, 
         "alma": {
-          "name": "Alama", 
-          "abbrev": null
+          "name": "Alma", 
+          "abbrev": "Alma"
         }, 
         "helaman": {
           "name": "Elamani", 
-          "abbrev": null
+          "abbrev": "Elam."
         }, 
         "3-nephi": {
           "name": "3 Nefi", 
-          "abbrev": null
+          "abbrev": "3 Nef."
         }, 
         "4-nephi": {
           "name": "4 Nefi", 
-          "abbrev": null
+          "abbrev": "4 Nef."
         }, 
         "mormon": {
-          "name": "Molomoni", 
-          "abbrev": null
+          "name": "Mormon", 
+          "abbrev": "Morm."
         }, 
         "ether": {
           "name": "Etele", 
-          "abbrev": null
+          "abbrev": "Etel."
         }, 
         "moroni": {
-          "name": "Moloni", 
+          "name": "Moroni", 
+          "abbrev": "Mor."
+        }, 
+        "doctrine-and-covenants": {
+          "name": "Malongi mpe Mayokani", 
+          "abbrev": "Mal&May"
+        }, 
+        "sections": {
+          "name": "Biteni", 
+          "abbrev": "Mal&May"
+        }, 
+        "official-declarations": {
+          "name": "Mayebisi ya Bakambi", 
+          "abbrev": "LiyBak"
+        }, 
+        "official-declaration": {
+          "name": "Liyebisi ya Bakambi", 
+          "abbrev": "LiyBak"
+        }, 
+        "pearl-of-great-price": {
+          "name": "Liyaka ya Ntalo Monene", 
+          "abbrev": null
+        }, 
+        "moses": {
+          "name": "Mose", 
+          "abbrev": "Mose"
+        }, 
+        "abraham": {
+          "name": "Abalayama", 
+          "abbrev": "Abal."
+        }, 
+        "joseph-smith-matthew": {
+          "name": "Joseph Smith—Matai", 
+          "abbrev": "JS—Mat."
+        }, 
+        "joseph-smith-history": {
+          "name": "Joseph Smith—Mambi ya Kala", 
+          "abbrev": "JS—Mambi ya Kala"
+        }, 
+        "articles-of-faith": {
+          "name": "Biteni ya Bondimi", 
+          "abbrev": "Bit. Bond."
+        }, 
+        "joseph-smith-translation": {
+          "name": "Bobongoli ya Joseph Smith", 
+          "abbrev": "BJS"
+        }, 
+        "guide-to-the-scriptures": {
+          "name": "Mokambi na Makomi", 
+          "abbrev": "MOMA"
+        }, 
+        "facsimile": {
+          "name": "Bilili ya Nkoma na Maboko", 
+          "abbrev": null
+        }, 
+        "facsimiles": {
+          "name": "Bilili ya nkoma na maboko", 
+          "abbrev": null
+        }, 
+        "fac-1": {
+          "name": "Bilili ya Nkoma na Maboko 1", 
+          "abbrev": null
+        }, 
+        "fac-2": {
+          "name": "Bilili ya Nkoma na Maboko 2", 
+          "abbrev": null
+        }, 
+        "fac-3": {
+          "name": "Bilili ya Nkoma na Maboko 3", 
+          "abbrev": null
+        }, 
+        "jst-appendix": {
+          "name": "Bobakisi na Bobongoli ya Joseph Smith", 
+          "abbrev": null
+        }, 
+        "jst-genesis": {
+          "name": "BJS, Genese", 
+          "abbrev": null
+        }, 
+        "1-8": {
+          "name": "BJS, Genese 1–8", 
+          "abbrev": null
+        }, 
+        "jst-exodus": {
+          "name": "BJS, Esode", 
+          "abbrev": null
+        }, 
+        "jst-deuteronomy": {
+          "name": "BJS, Dutelonome", 
+          "abbrev": null
+        }, 
+        "jst-1-samuel": {
+          "name": "BJS, 1 Samwele", 
+          "abbrev": null
+        }, 
+        "jst-2-samuel": {
+          "name": "BJS, 2 Samwele", 
+          "abbrev": null
+        }, 
+        "jst-1-chronicles": {
+          "name": "BJS, 1 Ntango", 
+          "abbrev": null
+        }, 
+        "jst-2-chronicles": {
+          "name": "BJS, 2 Ntango", 
+          "abbrev": null
+        }, 
+        "jst-psalms": {
+          "name": "BJS, Nzembo", 
+          "abbrev": null
+        }, 
+        "jst-psalm": {
+          "name": "BJS, Nzembo", 
+          "abbrev": null
+        }, 
+        "jst-isaiah": {
+          "name": "BJS, Yisaya", 
+          "abbrev": null
+        }, 
+        "jst-jeremiah": {
+          "name": "BJS, Yilimia", 
+          "abbrev": null
+        }, 
+        "jst-amos": {
+          "name": "BJS, Amosa", 
+          "abbrev": null
+        }, 
+        "jst-matthew": {
+          "name": "BJS, Matai", 
+          "abbrev": null
+        }, 
+        "jst-mark": {
+          "name": "BJS, Malako", 
+          "abbrev": null
+        }, 
+        "jst-luke": {
+          "name": "BJS, Luka", 
+          "abbrev": null
+        }, 
+        "jst-john": {
+          "name": "BJS, Yoane", 
+          "abbrev": null
+        }, 
+        "jst-acts": {
+          "name": "BJS, Misala", 
+          "abbrev": null
+        }, 
+        "jst-romans": {
+          "name": "BJS, Baloma", 
+          "abbrev": null
+        }, 
+        "jst-1-corinthians": {
+          "name": "BJS, 1 Bakolinti", 
+          "abbrev": null
+        }, 
+        "jst-2-corinthians": {
+          "name": "BJS, 2 Bakolinti", 
+          "abbrev": null
+        }, 
+        "jst-galatians": {
+          "name": "BJS, Bagalatia", 
+          "abbrev": null
+        }, 
+        "jst-ephesians": {
+          "name": "BJS, Baefese", 
+          "abbrev": null
+        }, 
+        "jst-colossians": {
+          "name": "BJS, Bakolose", 
+          "abbrev": null
+        }, 
+        "jst-1-thessalonians": {
+          "name": "BJS, 1 Batesaloniki", 
+          "abbrev": null
+        }, 
+        "jst-2-thessalonians": {
+          "name": "BJS, 2 Batesaloniki", 
+          "abbrev": null
+        }, 
+        "jst-1-timothy": {
+          "name": "BJS, 1 Timote", 
+          "abbrev": null
+        }, 
+        "jst-hebrews": {
+          "name": "BJS, Baebele", 
+          "abbrev": null
+        }, 
+        "jst-james": {
+          "name": "BJS, Yakobo", 
+          "abbrev": null
+        }, 
+        "jst-1-peter": {
+          "name": "BJS, 1 Petelo", 
+          "abbrev": null
+        }, 
+        "jst-2-peter": {
+          "name": "BJS, 2 Petelo", 
+          "abbrev": null
+        }, 
+        "jst-1-john": {
+          "name": "BJS, 1 Yoane", 
+          "abbrev": null
+        }, 
+        "jst-revelation": {
+          "name": "BJS, Emoniseli", 
           "abbrev": null
         }
       }, 
@@ -23658,9 +24212,50 @@
           "ether", 
           "moroni"
         ], 
-        "doctrine-and-covenants": [], 
-        "pearl-of-great-price": [], 
-        "jst-appendix": []
+        "doctrine-and-covenants": [
+          "sections", 
+          "official-declarations"
+        ], 
+        "pearl-of-great-price": [
+          "moses", 
+          "abraham", 
+          "joseph-smith-matthew", 
+          "joseph-smith-history", 
+          "articles-of-faith"
+        ], 
+        "jst-appendix": [
+          "jst-genesis", 
+          "jst-exodus", 
+          "jst-deuteronomy", 
+          "jst-1-samuel", 
+          "jst-2-samuel", 
+          "jst-1-chronicles", 
+          "jst-2-chronicles", 
+          "jst-psalms", 
+          "jst-isaiah", 
+          "jst-jeremiah", 
+          "jst-amos", 
+          "jst-matthew", 
+          "jst-mark", 
+          "jst-luke", 
+          "jst-john", 
+          "jst-acts", 
+          "jst-romans", 
+          "jst-1-corinthians", 
+          "jst-2-corinthians", 
+          "jst-galatians", 
+          "jst-ephesians", 
+          "jst-colossians", 
+          "jst-1-thessalonians", 
+          "jst-2-thessalonians", 
+          "jst-1-timothy", 
+          "jst-hebrews", 
+          "jst-james", 
+          "jst-1-peter", 
+          "jst-2-peter", 
+          "jst-1-john", 
+          "jst-revelation"
+        ]
       }
     }, 
     "lo": {
@@ -23691,15 +24286,15 @@
           "abbrev": null
         }, 
         "genesis": {
-          "name": "ປະຖົມ​ມະການ", 
+          "name": "ປະ​ຖົມ​ມະ​ການ", 
           "abbrev": "ປຖກ"
         }, 
         "exodus": {
-          "name": "ອົບ​ພະຍົບ", 
+          "name": "ອົບ​ພະ​ຍົບ", 
           "abbrev": "ອພຍ"
         }, 
         "leviticus": {
-          "name": "ລະບຽບ​ພວກ​ເລວີ", 
+          "name": "ລະ​ບຽບ​ພວກ​ເລ​ວີ", 
           "abbrev": "ລລວ"
         }, 
         "numbers": {
@@ -23731,11 +24326,11 @@
           "abbrev": "2 ຊມອ"
         }, 
         "1-kings": {
-          "name": "1 ກະສັດ", 
+          "name": "1 ກະ​ສັດ", 
           "abbrev": "1 ກສ"
         }, 
         "2-kings": {
-          "name": "2 ກະສັດ", 
+          "name": "2 ກະ​ສັດ", 
           "abbrev": "2 ກສ"
         }, 
         "1-chronicles": {
@@ -23747,15 +24342,15 @@
           "abbrev": "2 ຂຄ"
         }, 
         "ezra": {
-          "name": "ເອຊະຣາ", 
+          "name": "ເອ​ຊະ​ຣາ", 
           "abbrev": "ອຊຣ"
         }, 
         "nehemiah": {
-          "name": "ເນ​ເຫ​ມີຢາ", 
+          "name": "ເນ​ເຫ​ມີ​ຢາ", 
           "abbrev": "ນມຢ"
         }, 
         "esther": {
-          "name": "ເອສະເທີ", 
+          "name": "ເອ​ສະ​ເທີ", 
           "abbrev": "ອສທ"
         }, 
         "job": {
@@ -23783,11 +24378,11 @@
           "abbrev": "ຍພ"
         }, 
         "isaiah": {
-          "name": "ເອຊາ​ຢາ", 
+          "name": "ເອ​ຊາ​ຢາ", 
           "abbrev": "ອຊຢ"
         }, 
         "jeremiah": {
-          "name": "ເຢເຣ​ມີຢາ", 
+          "name": "ເຢ​ເຣ​ມີ​ຢາ", 
           "abbrev": "ຢມຢ"
         }, 
         "lamentations": {
@@ -23811,11 +24406,11 @@
           "abbrev": "ຢອ"
         }, 
         "amos": {
-          "name": "ອາໂມດ", 
+          "name": "ອາ​ໂມດ", 
           "abbrev": "ອມ"
         }, 
         "obadiah": {
-          "name": "ໂອບາ​ດີຢາ", 
+          "name": "ໂອ​ບາ​ດີ​ຢາ", 
           "abbrev": "ອບຢ"
         }, 
         "jonah": {
@@ -23835,7 +24430,7 @@
           "abbrev": "ຮບກ"
         }, 
         "zephaniah": {
-          "name": "ເຊ​ຟາ​ນີຢາ", 
+          "name": "ເຊ​ຟາ​ນີ​ຢາ", 
           "abbrev": "ຊຟຢ"
         }, 
         "haggai": {
@@ -23843,7 +24438,7 @@
           "abbrev": "ຮກ"
         }, 
         "zechariah": {
-          "name": "ເຊ​ກາ​ຣີຢາ", 
+          "name": "ເຊ​ກາ​ຣີ​ຢາ", 
           "abbrev": "ຊກຢ"
         }, 
         "malachi": {
@@ -23855,7 +24450,7 @@
           "abbrev": null
         }, 
         "matthew": {
-          "name": "ມັດທາຍ", 
+          "name": "ມັດ​ທາຍ", 
           "abbrev": "ມທ"
         }, 
         "mark": {
@@ -23863,11 +24458,11 @@
           "abbrev": "ມຣກ"
         }, 
         "luke": {
-          "name": "ລູກາ", 
+          "name": "ລູ​ກາ", 
           "abbrev": "ລກ"
         }, 
         "john": {
-          "name": "ໂຢຮັນ", 
+          "name": "ໂຢ​ຮັນ", 
           "abbrev": "ຢຮ"
         }, 
         "acts": {
@@ -23879,15 +24474,15 @@
           "abbrev": "ຣມ"
         }, 
         "1-corinthians": {
-          "name": "1 ໂກຣິນ​ໂທ", 
+          "name": "1 ໂກ​ຣິນ​ໂທ", 
           "abbrev": "1 ກຣທ"
         }, 
         "2-corinthians": {
-          "name": "2 ໂກຣິນ​ໂທ", 
+          "name": "2 ໂກ​ຣິນ​ໂທ", 
           "abbrev": "2 ກຣທ"
         }, 
         "galatians": {
-          "name": "ຄາລາເຕຍ", 
+          "name": "ຄາ​ລາ​ເຕຍ", 
           "abbrev": "ຄລຕ"
         }, 
         "ephesians": {
@@ -23899,15 +24494,15 @@
           "abbrev": "ຟລປ"
         }, 
         "colossians": {
-          "name": "ໂກໂລຊາຍ", 
+          "name": "ໂກ​ໂລ​ຊາຍ", 
           "abbrev": "ກລຊ"
         }, 
         "1-thessalonians": {
-          "name": "1 ເທສະ​ໂລນິກ", 
+          "name": "1 ເທ​ສະ​ໂລ​ນິກ", 
           "abbrev": "1 ທສນ"
         }, 
         "2-thessalonians": {
-          "name": "2 ເທສະ​ໂລນິກ", 
+          "name": "2 ເທ​ສະ​ໂລ​ນິກ", 
           "abbrev": "2 ທສນ"
         }, 
         "1-timothy": {
@@ -23919,7 +24514,7 @@
           "abbrev": "2 ຕມທ"
         }, 
         "titus": {
-          "name": "ຕີໂຕ", 
+          "name": "ຕີ​ໂຕ", 
           "abbrev": "ຕຕ"
         }, 
         "philemon": {
@@ -23927,7 +24522,7 @@
           "abbrev": "ຟລມ"
         }, 
         "hebrews": {
-          "name": "ເຮັບເຣີ", 
+          "name": "ເຮັບ​ເຣີ", 
           "abbrev": "ຮຣ"
         }, 
         "james": {
@@ -23935,23 +24530,23 @@
           "abbrev": "ຢກບ"
         }, 
         "1-peter": {
-          "name": "1 ເປໂຕ", 
+          "name": "1 ເປ​ໂຕ", 
           "abbrev": "1 ປຕ"
         }, 
         "2-peter": {
-          "name": "2 ເປໂຕ", 
+          "name": "2 ເປ​ໂຕ", 
           "abbrev": "2 ປຕ"
         }, 
         "1-john": {
-          "name": "1 ໂຢຮັນ", 
+          "name": "1 ໂຢ​ຮັນ", 
           "abbrev": "1 ຢຮ"
         }, 
         "2-john": {
-          "name": "2 ໂຢຮັນ", 
+          "name": "2 ໂຢ​ຮັນ", 
           "abbrev": "2 ຢຮ"
         }, 
         "3-john": {
-          "name": "3 ໂຢຮັນ", 
+          "name": "3 ໂຢ​ຮັນ", 
           "abbrev": "3 ຢຮ"
         }, 
         "jude": {
@@ -23959,39 +24554,39 @@
           "abbrev": "ຢດ"
         }, 
         "revelation": {
-          "name": "ພຣະ​ນິມິດ", 
+          "name": "ພຣະ​ນິ​ມິດ", 
           "abbrev": "ພນມ"
         }, 
         "book-of-mormon": {
-          "name": "ພຣະ​ຄຳ​ພີ​ມໍມອນ", 
+          "name": "ພຣະ​ຄຳ​ພີ​ມໍ​ມອນ", 
           "abbrev": null
         }, 
         "1-nephi": {
-          "name": "1 ນີໄຟ", 
+          "name": "1 ນີ​ໄຟ", 
           "abbrev": "1 ນຟ"
         }, 
         "2-nephi": {
-          "name": "2 ນີໄຟ", 
+          "name": "2 ນີ​ໄຟ", 
           "abbrev": "2 ນຟ"
         }, 
         "jacob": {
-          "name": "ຢາໂຄບ", 
+          "name": "ຢາ​ໂຄບ", 
           "abbrev": "ຢຄ"
         }, 
         "enos": {
-          "name": "ເອໂນດ", 
+          "name": "ເອ​ໂນດ", 
           "abbrev": "ອນ"
         }, 
         "jarom": {
-          "name": "ເຈຣອມ", 
+          "name": "ເຈ​ຣອມ", 
           "abbrev": "ຈຣ"
         }, 
         "omni": {
-          "name": "ອອມໄນ", 
+          "name": "ອອມ​ໄນ", 
           "abbrev": "ອມນ"
         }, 
         "words-of-mormon": {
-          "name": "ຄຳ​ຂອງ​ມໍມອນ", 
+          "name": "ຄຳ​ຂອງ​ມໍ​ມອນ", 
           "abbrev": "ຄມ"
         }, 
         "mosiah": {
@@ -23999,7 +24594,7 @@
           "abbrev": "ມຊຢ"
         }, 
         "alma": {
-          "name": "ແອວມາ", 
+          "name": "ແອວ​ມາ", 
           "abbrev": "ແອວ"
         }, 
         "helaman": {
@@ -24007,19 +24602,19 @@
           "abbrev": "ຮລມ"
         }, 
         "3-nephi": {
-          "name": "3 ນີໄຟ", 
+          "name": "3 ນີ​ໄຟ", 
           "abbrev": "3 ນຟ"
         }, 
         "4-nephi": {
-          "name": "4 ນີໄຟ", 
+          "name": "4 ນີ​ໄຟ", 
           "abbrev": "4 ນຟ"
         }, 
         "mormon": {
-          "name": "ມໍມອນ", 
+          "name": "ມໍ​ມອນ", 
           "abbrev": "ມມ"
         }, 
         "ether": {
-          "name": "ອີເທີ", 
+          "name": "ອີ​ເທີ", 
           "abbrev": "ອທ"
         }, 
         "moroni": {
@@ -24027,7 +24622,7 @@
           "abbrev": "ມຣນ"
         }, 
         "doctrine-and-covenants": {
-          "name": "ຄຳ​ສອນ ແລະ ພັນທະ​ສັນ​ຍາ", 
+          "name": "ຄຳ​ສອນ ແລະ ພັນ​ທະ​ສັນ​ຍາ", 
           "abbrev": "ຄພ"
         }, 
         "sections": {
@@ -24047,7 +24642,7 @@
           "abbrev": null
         }, 
         "moses": {
-          "name": "ໂມເຊ", 
+          "name": "ໂມ​ເຊ", 
           "abbrev": "ມຊ"
         }, 
         "abraham": {
@@ -24055,11 +24650,11 @@
           "abbrev": "ອຣຮ"
         }, 
         "joseph-smith-matthew": {
-          "name": "ໂຈເຊັບ ສະມິດ—ມັດທາຍ", 
+          "name": "ໂຈ​ເຊັບ ສະ​ມິດ—ມັດ​ທາຍ", 
           "abbrev": "ຈສ—ມ"
         }, 
         "joseph-smith-history": {
-          "name": "ໂຈເຊັບ ສະມິດ—ປະຫວັດ", 
+          "name": "ໂຈ​ເຊັບ ສະ​ມິດ—ປະ​ຫວັດ", 
           "abbrev": "ຈສ—ປ"
         }, 
         "articles-of-faith": {
@@ -24067,7 +24662,7 @@
           "abbrev": "ຫຼຊ"
         }, 
         "joseph-smith-translation": {
-          "name": "ການ​ແປ​ຂອງ​ໂຈເຊັບ ສະມິດ", 
+          "name": "ການ​ແປ​ຂອງ​ໂຈ​ເຊັບ ສະ​ມິດ", 
           "abbrev": "ປຈສ"
         }, 
         "guide-to-the-scriptures": {
@@ -24079,7 +24674,7 @@
           "abbrev": null
         }, 
         "facsimiles": {
-          "name": "ອັບ​ຣາ​ຮາມ", 
+          "name": "ສຳ​ເນົາ", 
           "abbrev": null
         }, 
         "fac-1": {
@@ -24095,19 +24690,19 @@
           "abbrev": null
         }, 
         "jst-appendix": {
-          "name": "ການ​ແປ​ຂອງ​ໂຈເຊັບ ສະມິດ ພາກ​ຫ້ອຍ​ທ້າຍ", 
+          "name": "ການ​ແປ​ຂອງ​ໂຈ​ເຊັບ ສະ​ມິດ ພາກ​ຫ້ອຍ​ທ້າຍ", 
           "abbrev": null
         }, 
         "jst-genesis": {
-          "name": "ປຈສ, ປະຖົມ​ມະການ", 
+          "name": "ປຈສ, ປະ​ຖົມ​ມະ​ການ", 
           "abbrev": null
         }, 
         "1-8": {
-          "name": "ປຈສ, ປະຖົມ​ມະການ 1–8", 
+          "name": "ປຈສ, ປະ​ຖົມ​ມະ​ການ 1–8", 
           "abbrev": null
         }, 
         "jst-exodus": {
-          "name": "ປຈສ, ອົບ​ພະຍົບ", 
+          "name": "ປຈສ, ອົບ​ພະ​ຍົບ", 
           "abbrev": null
         }, 
         "jst-deuteronomy": {
@@ -24139,19 +24734,19 @@
           "abbrev": null
         }, 
         "jst-isaiah": {
-          "name": "ປຈສ, ເອຊາ​ຢາ", 
+          "name": "ປຈສ, ເອ​ຊາ​ຢາ", 
           "abbrev": null
         }, 
         "jst-jeremiah": {
-          "name": "ປຈສ, ເຢເຣ​ມີຢາ", 
+          "name": "ປຈສ, ເຢ​ເຣ​ມີ​ຢາ", 
           "abbrev": null
         }, 
         "jst-amos": {
-          "name": "ປຈສ, ອາໂມດ", 
+          "name": "ປຈສ, ອາ​ໂມດ", 
           "abbrev": null
         }, 
         "jst-matthew": {
-          "name": "ປຈສ, ມັດທາຍ", 
+          "name": "ປຈສ, ມັດ​ທາຍ", 
           "abbrev": null
         }, 
         "jst-mark": {
@@ -24159,11 +24754,11 @@
           "abbrev": null
         }, 
         "jst-luke": {
-          "name": "ປຈສ, ລູກາ", 
+          "name": "ປຈສ, ລູ​ກາ", 
           "abbrev": null
         }, 
         "jst-john": {
-          "name": "ປຈສ, ໂຢຮັນ", 
+          "name": "ປຈສ, ໂຢ​ຮັນ", 
           "abbrev": null
         }, 
         "jst-acts": {
@@ -24175,15 +24770,15 @@
           "abbrev": null
         }, 
         "jst-1-corinthians": {
-          "name": "ປຈສ, 1 ໂກຣິນ​ໂທ", 
+          "name": "ປຈສ, 1 ໂກ​ຣິນ​ໂທ", 
           "abbrev": null
         }, 
         "jst-2-corinthians": {
-          "name": "ປຈສ, 2 ໂກຣິນ​ໂທ", 
+          "name": "ປຈສ, 2 ໂກ​ຣິນ​ໂທ", 
           "abbrev": null
         }, 
         "jst-galatians": {
-          "name": "ປຈສ, ຄາລາເຕຍ", 
+          "name": "ປຈສ, ຄາ​ລາ​ເຕຍ", 
           "abbrev": null
         }, 
         "jst-ephesians": {
@@ -24191,15 +24786,15 @@
           "abbrev": null
         }, 
         "jst-colossians": {
-          "name": "ປຈສ, ໂກໂລຊາຍ", 
+          "name": "ປຈສ, ໂກ​ໂລ​ຊາຍ", 
           "abbrev": null
         }, 
         "jst-1-thessalonians": {
-          "name": "ປຈສ, 1 ເທສະ​ໂລນິກ", 
+          "name": "ປຈສ, 1 ເທ​ສະ​ໂລ​ນິກ", 
           "abbrev": null
         }, 
         "jst-2-thessalonians": {
-          "name": "ປຈສ, 2 ເທສະ​ໂລນິກ", 
+          "name": "ປຈສ, 2 ເທ​ສະ​ໂລ​ນິກ", 
           "abbrev": null
         }, 
         "jst-1-timothy": {
@@ -24207,7 +24802,7 @@
           "abbrev": null
         }, 
         "jst-hebrews": {
-          "name": "ປຈສ, ເຮັບເຣີ", 
+          "name": "ປຈສ, ເຮັບ​ເຣີ", 
           "abbrev": null
         }, 
         "jst-james": {
@@ -24215,19 +24810,19 @@
           "abbrev": null
         }, 
         "jst-1-peter": {
-          "name": "ປຈສ, 1 ເປໂຕ", 
+          "name": "ປຈສ, 1 ເປ​ໂຕ", 
           "abbrev": null
         }, 
         "jst-2-peter": {
-          "name": "ປຈສ, 2 ເປໂຕ", 
+          "name": "ປຈສ, 2 ເປ​ໂຕ", 
           "abbrev": null
         }, 
         "jst-1-john": {
-          "name": "ປຈສ, 1 ໂຢຮັນ", 
+          "name": "ປຈສ, 1 ໂຢ​ຮັນ", 
           "abbrev": null
         }, 
         "jst-revelation": {
-          "name": "ປຈສ, ພຣະ​ນິມິດ", 
+          "name": "ປຈສ, ພຣະ​ນິ​ມິດ", 
           "abbrev": null
         }
       }, 
@@ -24713,7 +25308,7 @@
           "abbrev": null
         }, 
         "facsimiles": {
-          "name": "Abraomo knyga", 
+          "name": "faksimilė", 
           "abbrev": null
         }, 
         "fac-1": {
@@ -24934,11 +25529,92 @@
         "8", 
         "9"
       ], 
-      "translatedNames": {}, 
+      "translatedNames": {
+        "book-of-mormon": {
+          "name": "Mukanda wa Molomo", 
+          "abbrev": null
+        }, 
+        "1-nephi": {
+          "name": "1 Nefi", 
+          "abbrev": null
+        }, 
+        "2-nephi": {
+          "name": "2 Nefi", 
+          "abbrev": null
+        }, 
+        "jacob": {
+          "name": "Yakoba", 
+          "abbrev": null
+        }, 
+        "enos": {
+          "name": "Enosha", 
+          "abbrev": null
+        }, 
+        "jarom": {
+          "name": "Yaloma", 
+          "abbrev": null
+        }, 
+        "omni": {
+          "name": "Omoni", 
+          "abbrev": null
+        }, 
+        "words-of-mormon": {
+          "name": "Miaku ya Molomo", 
+          "abbrev": null
+        }, 
+        "mosiah": {
+          "name": "Mosiya", 
+          "abbrev": null
+        }, 
+        "alma": {
+          "name": "Alama", 
+          "abbrev": null
+        }, 
+        "helaman": {
+          "name": "Helamana", 
+          "abbrev": null
+        }, 
+        "3-nephi": {
+          "name": "3 Nefi", 
+          "abbrev": null
+        }, 
+        "4-nephi": {
+          "name": "4 Nefi", 
+          "abbrev": null
+        }, 
+        "mormon": {
+          "name": "Molomo", 
+          "abbrev": null
+        }, 
+        "ether": {
+          "name": "Etele", 
+          "abbrev": null
+        }, 
+        "moroni": {
+          "name": "Moloni", 
+          "abbrev": null
+        }
+      }, 
       "churchAvailability": {
         "old-testament": [], 
         "new-testament": [], 
-        "book-of-mormon": [], 
+        "book-of-mormon": [
+          "1-nephi", 
+          "2-nephi", 
+          "jacob", 
+          "enos", 
+          "jarom", 
+          "omni", 
+          "words-of-mormon", 
+          "mosiah", 
+          "alma", 
+          "helaman", 
+          "3-nephi", 
+          "4-nephi", 
+          "mormon", 
+          "ether", 
+          "moroni"
+        ], 
         "doctrine-and-covenants": [], 
         "pearl-of-great-price": [], 
         "jst-appendix": []
@@ -25360,7 +26036,7 @@
           "abbrev": null
         }, 
         "facsimiles": {
-          "name": "Ābrahāma", 
+          "name": "Faksimils nr.", 
           "abbrev": null
         }, 
         "fac-1": {
@@ -26114,7 +26790,7 @@
           "abbrev": null
         }, 
         "facsimiles": {
-          "name": "Abrahama", 
+          "name": "Tahadika", 
           "abbrev": null
         }, 
         "fac-1": {
@@ -26748,7 +27424,7 @@
           "abbrev": null
         }, 
         "facsimiles": {
-          "name": "Ebream", 
+          "name": "Lukkuun Kape ko", 
           "abbrev": null
         }, 
         "fac-1": {
@@ -27054,11 +27730,11 @@
           "abbrev": null
         }, 
         "doctrine-and-covenants": {
-          "name": "Ko ngā Kawenata me ngā Whakahaunga", 
+          "name": "Whakaakoranga me ngā Kawenata", 
           "abbrev": null
         }, 
         "sections": {
-          "name": "Wāhanga", 
+          "name": "Ngā Wāhanga", 
           "abbrev": null
         }, 
         "official-declarations": {
@@ -27390,11 +28066,11 @@
           "abbrev": null
         }, 
         "1-nephi": {
-          "name": "1 Нифай", 
+          "name": "1 Нифай", 
           "abbrev": null
         }, 
         "2-nephi": {
-          "name": "2 Нифай", 
+          "name": "2 Нифай", 
           "abbrev": null
         }, 
         "jacob": {
@@ -27410,7 +28086,7 @@
           "abbrev": null
         }, 
         "omni": {
-          "name": "Омнаи", 
+          "name": "Омнай", 
           "abbrev": null
         }, 
         "words-of-mormon": {
@@ -27430,11 +28106,11 @@
           "abbrev": null
         }, 
         "3-nephi": {
-          "name": "3 Нифай", 
+          "name": "3 Нифай", 
           "abbrev": null
         }, 
         "4-nephi": {
-          "name": "4 Нифай", 
+          "name": "4 Нифай", 
           "abbrev": null
         }, 
         "mormon": {
@@ -27450,19 +28126,19 @@
           "abbrev": null
         }, 
         "doctrine-and-covenants": {
-          "name": "Сургаал ба Гэрээ", 
+          "name": "Сургаал ба Гэрээнүүд", 
           "abbrev": null
         }, 
         "sections": {
-          "name": "Сургаал ба Гэрээ", 
+          "name": "Хэсгүүд", 
           "abbrev": null
         }, 
         "official-declarations": {
-          "name": "АЛБАН ТУНХАГ—1", 
+          "name": "Албан тунхгууд", 
           "abbrev": null
         }, 
         "official-declaration": {
-          "name": "OD", 
+          "name": "Албан тунхаг", 
           "abbrev": null
         }, 
         "pearl-of-great-price": {
@@ -27470,31 +28146,31 @@
           "abbrev": null
         }, 
         "moses": {
-          "name": "Мосегийн Номноос Сонгож Авсан Цуглуулгууд", 
+          "name": "Мосе", 
           "abbrev": null
         }, 
         "abraham": {
-          "name": "Абрахамын Ном", 
+          "name": "Абрахам", 
           "abbrev": null
         }, 
         "facsimile": {
-          "name": "АБРАХАМЫН Дугаар", 
+          "name": "Хуулбар", 
           "abbrev": null
         }, 
         "facsimiles": {
-          "name": "Абрахамын Ном", 
+          "name": "Хуулбар", 
           "abbrev": null
         }, 
         "fac-1": {
-          "name": "АБРАХАМЫН Дугаар 1", 
+          "name": "Хуулбар 1", 
           "abbrev": null
         }, 
         "fac-2": {
-          "name": "АБРАХАМЫН Дугаар 2", 
+          "name": "Хуулбар 2", 
           "abbrev": null
         }, 
         "fac-3": {
-          "name": "АБРАХАМЫН Дугаар 3", 
+          "name": "Хуулбар 3", 
           "abbrev": null
         }, 
         "joseph-smith-matthew": {
@@ -27506,7 +28182,7 @@
           "abbrev": null
         }, 
         "articles-of-faith": {
-          "name": "Итгэлийн Тунхаг", 
+          "name": "Итгэлийн тунхгууд", 
           "abbrev": null
         }
       }, 
@@ -27960,7 +28636,7 @@
           "abbrev": null
         }, 
         "facsimiles": {
-          "name": "Abraham", 
+          "name": "Salinan", 
           "abbrev": null
         }, 
         "fac-1": {
@@ -28260,6 +28936,10 @@
         "ether": {
           "name": "Għeter", 
           "abbrev": null
+        }, 
+        "moroni": {
+          "name": "Moroni", 
+          "abbrev": null
         }
       }, 
       "churchAvailability": {
@@ -28279,7 +28959,8 @@
           "3-nephi", 
           "4-nephi", 
           "mormon", 
-          "ether"
+          "ether", 
+          "moroni"
         ], 
         "doctrine-and-covenants": [], 
         "pearl-of-great-price": [], 
@@ -28503,6 +29184,14 @@
         "sections": {
           "name": "खण्डहरू", 
           "abbrev": null
+        }, 
+        "official-declarations": {
+          "name": "आधिकारिक घोषणाहरू", 
+          "abbrev": null
+        }, 
+        "official-declaration": {
+          "name": "आधिकारिक घोषणा", 
+          "abbrev": null
         }
       }, 
       "churchAvailability": {
@@ -28526,7 +29215,8 @@
           "moroni"
         ], 
         "doctrine-and-covenants": [
-          "sections"
+          "sections", 
+          "official-declarations"
         ], 
         "pearl-of-great-price": [], 
         "jst-appendix": []
@@ -29036,7 +29726,7 @@
           "abbrev": null
         }, 
         "facsimiles": {
-          "name": "Abraham", 
+          "name": "Facsimile nr.", 
           "abbrev": null
         }, 
         "fac-1": {
@@ -29642,7 +30332,7 @@
           "abbrev": "Moses"
         }, 
         "abraham": {
-          "name": "Abrahams bok", 
+          "name": "Abraham", 
           "abbrev": "Abr"
         }, 
         "joseph-smith-matthew": {
@@ -29670,7 +30360,7 @@
           "abbrev": null
         }, 
         "facsimiles": {
-          "name": "Abrahams bok", 
+          "name": "Faksimiler", 
           "abbrev": null
         }, 
         "fac-1": {
@@ -30112,6 +30802,30 @@
         "alma": {
           "name": "Alima", 
           "abbrev": null
+        }, 
+        "helaman": {
+          "name": "Helamani", 
+          "abbrev": null
+        }, 
+        "3-nephi": {
+          "name": "3 Nefi", 
+          "abbrev": null
+        }, 
+        "4-nephi": {
+          "name": "4 Nefi", 
+          "abbrev": null
+        }, 
+        "mormon": {
+          "name": "Mormoni", 
+          "abbrev": null
+        }, 
+        "ether": {
+          "name": "Eteri", 
+          "abbrev": null
+        }, 
+        "moroni": {
+          "name": "Moroni", 
+          "abbrev": null
         }
       }, 
       "churchAvailability": {
@@ -30126,7 +30840,13 @@
           "omni", 
           "words-of-mormon", 
           "mosiah", 
-          "alma"
+          "alma", 
+          "helaman", 
+          "3-nephi", 
+          "4-nephi", 
+          "mormon", 
+          "ether", 
+          "moroni"
         ], 
         "doctrine-and-covenants": [], 
         "pearl-of-great-price": [], 
@@ -30390,7 +31110,7 @@
       ], 
       "translatedNames": {
         "book-of-mormon": {
-          "name": "Selekshonnan For Di E Buki Di Mormon", 
+          "name": "Selekshonnan For Di E Buki di Mormon", 
           "abbrev": null
         }, 
         "1-nephi": {
@@ -31887,7 +32607,7 @@
           "abbrev": null
         }, 
         "facsimiles": {
-          "name": "Abraão", 
+          "name": "Fac-símile", 
           "abbrev": null
         }, 
         "fac-1": {
@@ -32702,7 +33422,7 @@
           "abbrev": null
         }, 
         "facsimiles": {
-          "name": "Aberahama", 
+          "name": "Tataanga Numero", 
           "abbrev": null
         }, 
         "fac-1": {
@@ -33180,7 +33900,7 @@
           "abbrev": null
         }, 
         "facsimiles": {
-          "name": "Avraam", 
+          "name": "Facsimil", 
           "abbrev": null
         }, 
         "fac-1": {
@@ -33795,7 +34515,7 @@
           "abbrev": null
         }, 
         "facsimiles": {
-          "name": "Авраам", 
+          "name": "Факсимиле", 
           "abbrev": null
         }, 
         "fac-1": {
@@ -34192,7 +34912,7 @@
           "abbrev": null
         }, 
         "facsimiles": {
-          "name": "ආබ්‍රහම්", 
+          "name": "අනු ලිපිය", 
           "abbrev": null
         }, 
         "fac-1": {
@@ -34654,7 +35374,7 @@
           "abbrev": null
         }, 
         "facsimiles": {
-          "name": "Abrahám", 
+          "name": "Faksimile", 
           "abbrev": null
         }, 
         "fac-1": {
@@ -35288,7 +36008,7 @@
           "abbrev": null
         }, 
         "facsimiles": {
-          "name": "Abraham", 
+          "name": "Faksimile", 
           "abbrev": null
         }, 
         "fac-1": {
@@ -35922,7 +36642,7 @@
           "abbrev": null
         }, 
         "facsimiles": {
-          "name": "Aperaamo", 
+          "name": "Ata", 
           "abbrev": null
         }, 
         "fac-1": {
@@ -36537,7 +37257,7 @@
           "abbrev": null
         }, 
         "facsimiles": {
-          "name": "Abrahama", 
+          "name": "Mufanikiso", 
           "abbrev": null
         }, 
         "fac-1": {
@@ -37152,7 +37872,7 @@
           "abbrev": null
         }, 
         "facsimiles": {
-          "name": "Abrahami", 
+          "name": "Faksimile", 
           "abbrev": null
         }, 
         "fac-1": {
@@ -37767,7 +38487,7 @@
           "abbrev": null
         }, 
         "facsimiles": {
-          "name": "Аврам", 
+          "name": "Цртеж", 
           "abbrev": null
         }, 
         "fac-1": {
@@ -38047,6 +38767,38 @@
         "alma": {
           "name": "Alima", 
           "abbrev": null
+        }, 
+        "helaman": {
+          "name": "Hilamani", 
+          "abbrev": null
+        }, 
+        "3-nephi": {
+          "name": "3 Nefi", 
+          "abbrev": null
+        }, 
+        "4-nephi": {
+          "name": "4 Nefi", 
+          "abbrev": null
+        }, 
+        "mormon": {
+          "name": "Mormon", 
+          "abbrev": null
+        }, 
+        "ether": {
+          "name": "Etheri", 
+          "abbrev": null
+        }, 
+        "moroni": {
+          "name": "Moroni", 
+          "abbrev": null
+        }, 
+        "doctrine-and-covenants": {
+          "name": "IMfundziso neTivumelwano", 
+          "abbrev": null
+        }, 
+        "sections": {
+          "name": "Tigaba", 
+          "abbrev": null
         }
       }, 
       "churchAvailability": {
@@ -38061,9 +38813,17 @@
           "omni", 
           "words-of-mormon", 
           "mosiah", 
-          "alma"
+          "alma", 
+          "helaman", 
+          "3-nephi", 
+          "4-nephi", 
+          "mormon", 
+          "ether", 
+          "moroni"
         ], 
-        "doctrine-and-covenants": [], 
+        "doctrine-and-covenants": [
+          "sections"
+        ], 
         "pearl-of-great-price": [], 
         "jst-appendix": []
       }
@@ -39571,7 +40331,7 @@
           "abbrev": null
         }, 
         "facsimiles": {
-          "name": "ஆபிரகாம்", 
+          "name": "நகல்", 
           "abbrev": null
         }, 
         "fac-1": {
@@ -39753,7 +40513,7 @@
           "abbrev": null
         }, 
         "facsimiles": {
-          "name": "అబ్రాహాము", 
+          "name": "నమూనా", 
           "abbrev": null
         }, 
         "fac-1": {
@@ -40231,7 +40991,7 @@
           "abbrev": null
         }, 
         "facsimiles": {
-          "name": "อับราฮัม", 
+          "name": "สำเนาหมายเลข", 
           "abbrev": null
         }, 
         "fac-1": {
@@ -40798,7 +41558,7 @@
           "abbrev": "D at T"
         }, 
         "sections": {
-          "name": "Ang Doktrina at mga Tipan", 
+          "name": "Mga Bahagi", 
           "abbrev": "D at T"
         }, 
         "official-declarations": {
@@ -40806,7 +41566,7 @@
           "abbrev": "OP"
         }, 
         "official-declaration": {
-          "name": "Opisyal na Pahayag", 
+          "name": "Opisyal nga Pahayag", 
           "abbrev": "OP"
         }, 
         "pearl-of-great-price": {
@@ -40846,7 +41606,7 @@
           "abbrev": null
         }, 
         "facsimiles": {
-          "name": "Abraham", 
+          "name": "Paksimile", 
           "abbrev": null
         }, 
         "fac-1": {
@@ -41165,7 +41925,7 @@
           "abbrev": null
         }, 
         "facsimiles": {
-          "name": "Aberahame", 
+          "name": "Fekese", 
           "abbrev": null
         }, 
         "fac-1": {
@@ -41275,8 +42035,8 @@
           "abbrev": "Teut."
         }, 
         "joshua": {
-          "name": "Siosiua", 
-          "abbrev": "Siosiua"
+          "name": "Sosiua", 
+          "abbrev": "Sosiua"
         }, 
         "judges": {
           "name": "Fakamaau", 
@@ -41379,7 +42139,7 @@
           "abbrev": "ʻĀmosi"
         }, 
         "obadiah": {
-          "name": "ʻŌpataia", 
+          "name": "ʻOpataia", 
           "abbrev": "ʻOpat."
         }, 
         "jonah": {
@@ -41435,7 +42195,7 @@
           "abbrev": "Sione"
         }, 
         "acts": {
-          "name": "Ngāue ʻa e Kau ʻAposetoló", 
+          "name": "Ngāue", 
           "abbrev": "Ngāue"
         }, 
         "romans": {
@@ -41467,12 +42227,12 @@
           "abbrev": "Kolose"
         }, 
         "1-thessalonians": {
-          "name": "1 Tēsalonika", 
-          "abbrev": "1 Tēsal."
+          "name": "1 Tesalonika", 
+          "abbrev": "1 Tesal."
         }, 
         "2-thessalonians": {
-          "name": "2 Tēsalonika", 
-          "abbrev": "2 Tēsal."
+          "name": "2 Tesalonika", 
+          "abbrev": "2 Tesal."
         }, 
         "1-timothy": {
           "name": "1 Tīmote", 
@@ -41556,7 +42316,7 @@
         }, 
         "words-of-mormon": {
           "name": "Ngaahi Lea ʻa Molomona", 
-          "abbrev": "Ng. Lea ʻa M."
+          "abbrev": "Ng. Lea ʻa M."
         }, 
         "mosiah": {
           "name": "Mōsaia", 
@@ -41591,15 +42351,15 @@
           "abbrev": "Molonai"
         }, 
         "doctrine-and-covenants": {
-          "name": "Tokāteline mo e Ngaahi Fuakavá", 
-          "abbrev": "T&F"
-        }, 
-        "sections": {
           "name": "Tokāteline mo e Ngaahi Fuakava", 
           "abbrev": "T&F"
         }, 
+        "sections": {
+          "name": "Ngaahi Vahé", 
+          "abbrev": "T&F"
+        }, 
         "official-declarations": {
-          "name": "Fanongonongo Fakamafaiʻi", 
+          "name": "Ngaahi Fanongonongo Fakamafaiʻi", 
           "abbrev": "FFkm"
         }, 
         "official-declaration": {
@@ -41627,43 +42387,47 @@
           "abbrev": "SS—H"
         }, 
         "articles-of-faith": {
-          "name": "Tefito ʻo e Tuí", 
+          "name": "Ngaahi Tefito ʻo e Tuí", 
           "abbrev": "TT"
-        }, 
-        "guide-to-the-scriptures": {
-          "name": "Fakahinohino ki he Ngaahi Folofolá", 
-          "abbrev": "FFL"
         }, 
         "joseph-smith-translation": {
           "name": "Liliu ʻa Siosefa Sāmitá", 
           "abbrev": "LSS"
         }, 
+        "guide-to-the-scriptures": {
+          "name": "Fakahinohino ki he Ngaahi Folofolá", 
+          "abbrev": "FFL"
+        }, 
         "facsimile": {
-          "name": "Facsimile", 
+          "name": "Tatau Moʻoni", 
           "abbrev": null
         }, 
         "facsimiles": {
-          "name": "ʻĒpalahame", 
+          "name": "Tatau Moʻoni", 
           "abbrev": null
         }, 
         "fac-1": {
-          "name": "Facsimile 1", 
+          "name": "Tatau Moʻoni 1", 
           "abbrev": null
         }, 
         "fac-2": {
-          "name": "Facsimile 2", 
+          "name": "Tatau Moʻoni 2", 
           "abbrev": null
         }, 
         "fac-3": {
-          "name": "Facsimile 3", 
+          "name": "Tatau Moʻoni 3", 
           "abbrev": null
         }, 
         "jst-appendix": {
-          "name": "Liliu ʻe Siosefa Sāmita", 
+          "name": "Fakalahi ki he Liliu ʻa Siosefa Sāmitá", 
           "abbrev": null
         }, 
         "jst-genesis": {
           "name": "LSS, Sēnesi", 
+          "abbrev": null
+        }, 
+        "1-8": {
+          "name": "LSS, Sēnesi 1–8", 
           "abbrev": null
         }, 
         "jst-exodus": {
@@ -41680,6 +42444,10 @@
         }, 
         "jst-2-samuel": {
           "name": "LSS, 2 Samuela", 
+          "abbrev": null
+        }, 
+        "jst-1-chronicles": {
+          "name": "LSS, 1 Fakamatala Meʻa Hokohoko", 
           "abbrev": null
         }, 
         "jst-2-chronicles": {
@@ -41746,12 +42514,16 @@
           "name": "LSS, ʻEfesō", 
           "abbrev": null
         }, 
+        "jst-colossians": {
+          "name": "LSS, Kolose", 
+          "abbrev": null
+        }, 
         "jst-1-thessalonians": {
-          "name": "LSS, 1 Tēsalonika", 
+          "name": "LSS, 1 Tesalonika", 
           "abbrev": null
         }, 
         "jst-2-thessalonians": {
-          "name": "LSS, 2 Tēsalonika", 
+          "name": "LSS, 2 Tesalonika", 
           "abbrev": null
         }, 
         "jst-1-timothy": {
@@ -41768,6 +42540,10 @@
         }, 
         "jst-1-peter": {
           "name": "LSS, 1 Pita", 
+          "abbrev": null
+        }, 
+        "jst-2-peter": {
+          "name": "LSS, 2 Pita", 
           "abbrev": null
         }, 
         "jst-1-john": {
@@ -41884,6 +42660,7 @@
           "jst-deuteronomy", 
           "jst-1-samuel", 
           "jst-2-samuel", 
+          "jst-1-chronicles", 
           "jst-2-chronicles", 
           "jst-psalms", 
           "jst-isaiah", 
@@ -41899,12 +42676,14 @@
           "jst-2-corinthians", 
           "jst-galatians", 
           "jst-ephesians", 
+          "jst-colossians", 
           "jst-1-thessalonians", 
           "jst-2-thessalonians", 
           "jst-1-timothy", 
           "jst-hebrews", 
           "jst-james", 
           "jst-1-peter", 
+          "jst-2-peter", 
           "jst-1-john", 
           "jst-revelation"
         ]
@@ -42429,7 +43208,7 @@
           "abbrev": null
         }, 
         "facsimiles": {
-          "name": "İbrahim", 
+          "name": "Faksimile", 
           "abbrev": null
         }, 
         "fac-1": {
@@ -42711,7 +43490,7 @@
           "abbrev": null
         }, 
         "facsimiles": {
-          "name": "Abraham", 
+          "name": "Nhwɛsoɔ Pɛpɛɛpɛ", 
           "abbrev": null
         }, 
         "fac-1": {
@@ -42893,7 +43672,7 @@
           "abbrev": null
         }, 
         "facsimiles": {
-          "name": "Aberahama", 
+          "name": "Hōho’a", 
           "abbrev": null
         }, 
         "fac-1": {
@@ -43740,6 +44519,14 @@
           "name": "ایلما", 
           "abbrev": null
         }, 
+        "helaman": {
+          "name": "ہیلیمن", 
+          "abbrev": null
+        }, 
+        "3-nephi": {
+          "name": "۳ نِیفی", 
+          "abbrev": null
+        }, 
         "doctrine-and-covenants": {
           "name": "عقائد اور عہُود", 
           "abbrev": null
@@ -43773,7 +44560,7 @@
           "abbrev": null
         }, 
         "facsimiles": {
-          "name": "ابرہام", 
+          "name": "شبِیہ", 
           "abbrev": null
         }, 
         "fac-1": {
@@ -43813,7 +44600,9 @@
           "omni", 
           "words-of-mormon", 
           "mosiah", 
-          "alma"
+          "alma", 
+          "helaman", 
+          "3-nephi"
         ], 
         "doctrine-and-covenants": [
           "sections", 
@@ -44967,7 +45756,7 @@
           "abbrev": null
         }, 
         "facsimiles": {
-          "name": "Abraham", 
+          "name": "Efana Kanye", 
           "abbrev": null
         }, 
         "fac-1": {
@@ -45418,7 +46207,7 @@
           "abbrev": null
         }, 
         "facsimiles": {
-          "name": "Abráhámù", 
+          "name": "Àwòrán", 
           "abbrev": null
         }, 
         "fac-1": {
@@ -45575,8 +46364,8 @@
         "verseRangeSeparator": "-", 
         "verseGroupSeparator": "，", 
         "referenceSeparator": "；", 
-        "openingParenthesis": "（", 
-        "closingParenthesis": "）"
+        "openingParenthesis": " (", 
+        "closingParenthesis": ")"
       }, 
       "numerals": [
         "0", 
@@ -45984,7 +46773,7 @@
           "abbrev": null
         }, 
         "facsimiles": {
-          "name": "亞伯拉罕書", 
+          "name": "複製圖", 
           "abbrev": null
         }, 
         "fac-1": {
@@ -46137,8 +46926,17 @@
         }
       }, 
       "churchAvailability": {
-        "old-testament": [], 
-        "new-testament": [], 
+        "old-testament": [
+          "genesis", 
+          "exodus", 
+          "leviticus", 
+          "numbers", 
+          "deuteronomy"
+        ], 
+        "new-testament": [
+          "matthew", 
+          "mark"
+        ], 
         "book-of-mormon": [
           "1-nephi", 
           "2-nephi", 
@@ -46618,7 +47416,7 @@
           "abbrev": null
         }, 
         "facsimiles": {
-          "name": "Abrahama", 
+          "name": "Umfanekiso wokuqala", 
           "abbrev": null
         }, 
         "fac-1": {
@@ -46963,6 +47761,8 @@
     "/scriptures/pgp/js-h": "joseph-smith-history", 
     "/scriptures/pgp/js-m": "joseph-smith-matthew", 
     "/scriptures/pgp/moses": "moses", 
+    "1 Mga Taga-Corinto": "1-corinthians", 
+    "1 faksimilė": "fac-1", 
     "1-chronicles": "1-chronicles", 
     "1-corinthians": "1-corinthians", 
     "1-john": "1-john", 
@@ -46973,135 +47773,6 @@
     "1-samuel": "1-samuel", 
     "1-thessalonians": "1-thessalonians", 
     "1-timothy": "1-timothy", 
-    "2-chronicles": "2-chronicles", 
-    "2-corinthians": "2-corinthians", 
-    "2-john": "2-john", 
-    "2-kings": "2-kings", 
-    "2-maccabees": "2-maccabees", 
-    "2-nephi": "2-nephi", 
-    "2-peter": "2-peter", 
-    "2-samuel": "2-samuel", 
-    "2-thessalonians": "2-thessalonians", 
-    "2-timothy": "2-timothy", 
-    "3-john": "3-john", 
-    "3-nephi": "3-nephi", 
-    "4-nephi": "4-nephi", 
-    "abraham": "abraham", 
-    "acts": "acts", 
-    "alma": "alma", 
-    "amos": "amos", 
-    "articles-of-faith": "articles-of-faith", 
-    "baruch": "baruch", 
-    "book-of-mormon": "book-of-mormon", 
-    "colossians": "colossians", 
-    "daniel": "daniel", 
-    "deuteronomy": "deuteronomy", 
-    "doctrine-and-covenants": "sections", 
-    "ecclesiastes": "ecclesiastes", 
-    "enos": "enos", 
-    "ephesians": "ephesians", 
-    "esther": "esther", 
-    "ether": "ether", 
-    "exodus": "exodus", 
-    "ezekiel": "ezekiel", 
-    "ezra": "ezra", 
-    "facsimile": "facsimiles", 
-    "galatians": "galatians", 
-    "genesis": "genesis", 
-    "habakkuk": "habakkuk", 
-    "haggai": "haggai", 
-    "hebrews": "hebrews", 
-    "helaman": "helaman", 
-    "hosea": "hosea", 
-    "isaiah": "isaiah", 
-    "jacob": "jacob", 
-    "james": "james", 
-    "jarom": "jarom", 
-    "jeremiah": "jeremiah", 
-    "job": "job", 
-    "joel": "joel", 
-    "john": "john", 
-    "jonah": "jonah", 
-    "joseph-smith-history": "joseph-smith-history", 
-    "joseph-smith-matthew": "joseph-smith-matthew", 
-    "joshua": "joshua", 
-    "jst-1-chronicles": "jst-1-chronicles", 
-    "jst-1-corinthians": "jst-1-corinthians", 
-    "jst-1-john": "jst-1-john", 
-    "jst-1-peter": "jst-1-peter", 
-    "jst-1-samuel": "jst-1-samuel", 
-    "jst-1-thessalonians": "jst-1-thessalonians", 
-    "jst-1-timothy": "jst-1-timothy", 
-    "jst-2-chronicles": "jst-2-chronicles", 
-    "jst-2-corinthians": "jst-2-corinthians", 
-    "jst-2-peter": "jst-2-peter", 
-    "jst-2-samuel": "jst-2-samuel", 
-    "jst-2-thessalonians": "jst-2-thessalonians", 
-    "jst-acts": "jst-acts", 
-    "jst-amos": "jst-amos", 
-    "jst-appendix": "jst-appendix", 
-    "jst-colossians": "jst-colossians", 
-    "jst-deuteronomy": "jst-deuteronomy", 
-    "jst-ephesians": "jst-ephesians", 
-    "jst-exodus": "jst-exodus", 
-    "jst-galatians": "jst-galatians", 
-    "jst-genesis": "jst-genesis", 
-    "jst-hebrews": "jst-hebrews", 
-    "jst-isaiah": "jst-isaiah", 
-    "jst-james": "jst-james", 
-    "jst-jeremiah": "jst-jeremiah", 
-    "jst-john": "jst-john", 
-    "jst-luke": "jst-luke", 
-    "jst-mark": "jst-mark", 
-    "jst-matthew": "jst-matthew", 
-    "jst-psalm": "jst-psalms", 
-    "jst-psalms": "jst-psalms", 
-    "jst-revelation": "jst-revelation", 
-    "jst-romans": "jst-romans", 
-    "jude": "jude", 
-    "judges": "judges", 
-    "judith": "judith", 
-    "lamentations": "lamentations", 
-    "leviticus": "leviticus", 
-    "luke": "luke", 
-    "malachi": "malachi", 
-    "mark": "mark", 
-    "matthew": "matthew", 
-    "micah": "micah", 
-    "mormon": "mormon", 
-    "moroni": "moroni", 
-    "moses": "moses", 
-    "mosiah": "mosiah", 
-    "nahum": "nahum", 
-    "nehemiah": "nehemiah", 
-    "new-testament": "new-testament", 
-    "numbers": "numbers", 
-    "obadiah": "obadiah", 
-    "official-declaration": "official-declarations", 
-    "official-declarations": "official-declarations", 
-    "old-testament": "old-testament", 
-    "omni": "omni", 
-    "pearl-of-great-price": "pearl-of-great-price", 
-    "philemon": "philemon", 
-    "philippians": "philippians", 
-    "proverbs": "proverbs", 
-    "psalm": "psalms", 
-    "psalms": "psalms", 
-    "revelation": "revelation", 
-    "romans": "romans", 
-    "ruth": "ruth", 
-    "sections": "sections", 
-    "sirach": "sirach", 
-    "song-of-solomon": "song-of-solomon", 
-    "titus": "titus", 
-    "tobit": "tobit", 
-    "wisdom-of-solomon": "wisdom-of-solomon", 
-    "words-of-mormon": "words-of-mormon", 
-    "zechariah": "zechariah", 
-    "zephaniah": "zephaniah", 
-    "1 Mga Taga-Corinto": "1-corinthians", 
-    "1 faksimilė": "fac-1", 
-    "1 Нифай": "1-nephi", 
     "1-е к Коринфянам": "1-corinthians", 
     "1-е к Тимофею": "1-timothy", 
     "1-е к Фессалоникийцам": "1-thessalonians", 
@@ -47200,6 +47871,8 @@
     "1 Ahemfo": "1-kings", 
     "1 Ar-ari": "1-kings", 
     "1 Ari": "1-kings", 
+    "1 Bakolinti": "1-corinthians", 
+    "1 Batesaloniki": "1-thessalonians", 
     "1 Betero": "1-peter", 
     "1 CRTô": "1-corinthians", 
     "1 Cesa.": "1-thessalonians", 
@@ -47331,6 +48004,8 @@
     "1 Mga Hari": "1-kings", 
     "1 Mga Taga-Corinto": "1-corinthians", 
     "1 Mga Taga-Tesalonica": "1-thessalonians", 
+    "1 Mik.": "1-kings", 
+    "1 Mikonzi": "1-kings", 
     "1 Mos": "genesis", 
     "1 Mos.": "genesis", 
     "1 Moseboken": "genesis", 
@@ -47348,6 +48023,7 @@
     "1 Ne": "1-nephi", 
     "1 Ne.": "1-nephi", 
     "1 Nef": "1-nephi", 
+    "1 Nef.": "1-nephi", 
     "1 Nefi": "1-nephi", 
     "1 Nefia": "1-nephi", 
     "1 Nefio knyga": "1-nephi", 
@@ -47369,6 +48045,8 @@
     "1 Niphai": "1-nephi", 
     "1 No.": "1-chronicles", 
     "1 Nofoaiga a Tupu": "1-chronicles", 
+    "1 Nta.": "1-chronicles", 
+    "1 Ntango": "1-chronicles", 
     "1 Nya.": "1-chronicles", 
     "1 Né": "1-nephi", 
     "1 Né.": "1-nephi", 
@@ -47386,6 +48064,7 @@
     "1 Pet": "1-peter", 
     "1 Pet.": "1-peter", 
     "1 Pete.": "1-peter", 
+    "1 Petelo": "1-peter", 
     "1 Peter": "1-peter", 
     "1 Petera": "1-peter", 
     "1 Peteru": "1-peter", 
@@ -47439,6 +48118,7 @@
     "1 Samuelit": "1-samuel", 
     "1 Samuelsboken": "1-samuel", 
     "1 Samuelu": "1-samuel", 
+    "1 Samwele": "1-samuel", 
     "1 Samweli": "1-samuel", 
     "1 Samyèl": "1-samuel", 
     "1 Sione": "1-john", 
@@ -47458,6 +48138,7 @@
     "1 Tes": "1-thessalonians", 
     "1 Tes.": "1-thessalonians", 
     "1 Tesa.": "1-thessalonians", 
+    "1 Tesal.": "1-thessalonians", 
     "1 Tesalonia": "1-thessalonians", 
     "1 Tesaloniana": "1-thessalonians", 
     "1 Tesaloniceni": "1-thessalonians", 
@@ -47507,8 +48188,6 @@
     "1 Tupu": "1-kings", 
     "1 Tê Sa Lô Ni Ca": "1-thessalonians", 
     "1 Tím": "1-timothy", 
-    "1 Tēsal.": "1-thessalonians", 
-    "1 Tēsalonika": "1-thessalonians", 
     "1 Tīm.": "1-timothy", 
     "1 Tīmote": "1-timothy", 
     "1 Uea": "1-kings", 
@@ -47519,6 +48198,8 @@
     "1 Wafalme": "1-kings", 
     "1 Wakorintho": "1-corinthians", 
     "1 Wathesalonike": "1-thessalonians", 
+    "1 Yoan.": "1-john", 
+    "1 Yoane": "1-john", 
     "1 Yoh.": "1-john", 
     "1 Yohana": "1-john", 
     "1 Yohanes": "1-john", 
@@ -47531,42 +48212,41 @@
     "1 Јн": "1-john", 
     "1 Дн": "1-chronicles", 
     "1 Ин.": "1-john", 
-    "1 Иоан.": "galatians", 
-    "1 Иоаново": "galatians", 
+    "1 Йоан": "galatians", 
     "1 Кор": "1-corinthians", 
     "1 Кор.": "1-corinthians", 
     "1 Коринтяните": "2-thessalonians", 
     "1 Лет.": "1-chronicles", 
     "1 Летописи": "1-chronicles", 
     "1 Не": "1-nephi", 
-    "1 Не.": "1-nephi", 
     "1 Неф.": "1-nephi", 
     "1 Нефи": "1-nephi", 
     "1 Нефий": "1-nephi", 
+    "1 Нифай": "1-nephi", 
     "1 Пар.": "1-chronicles", 
     "1 Пет": "1-peter", 
     "1 Пет.": "1-peter", 
-    "1 Петрово": "1-corinthians", 
+    "1 Петър": "1-corinthians", 
     "1 Сам": "1-samuel", 
     "1 Сам.": "1-samuel", 
     "1 Сол": "1-thessalonians", 
     "1 Сол.": "1-thessalonians", 
-    "1 Солунците": "james", 
+    "1 Солуняните": "james", 
     "1 Тим": "1-timothy", 
     "1 Тим.": "1-timothy", 
-    "1 Тимотея": "2-peter", 
+    "1 Тимотей": "2-peter", 
     "1 Фес.": "1-thessalonians", 
     "1 Хр.": "1-chronicles", 
     "1 Цар": "1-kings", 
     "1 Цар.": "1-kings", 
-    "1 Царете": "1-samuel", 
+    "1 Царе": "1-samuel", 
     "1 Նեփի": "1-nephi", 
     "1 नफी": "1-nephi", 
     "1 நேபி": "1-nephi", 
     "1 నీఫై": "1-nephi", 
     "1 ກຣທ": "1-corinthians", 
     "1 ກສ": "1-kings", 
-    "1 ກະສັດ": "1-kings", 
+    "1 ກະ​ສັດ": "1-kings", 
     "1 ຂຄ": "1-chronicles", 
     "1 ຂ່າວ​ຄາວ": "1-chronicles", 
     "1 ຊມອ": "1-samuel", 
@@ -47575,13 +48255,13 @@
     "1 ຕີ​ໂມ​ທຽວ": "1-timothy", 
     "1 ທສນ": "1-thessalonians", 
     "1 ນຟ": "1-nephi", 
-    "1 ນີໄຟ": "1-nephi", 
+    "1 ນີ​ໄຟ": "1-nephi", 
     "1 ປຕ": "1-peter", 
     "1 ຢຮ": "1-john", 
-    "1 ເທສະ​ໂລນິກ": "1-thessalonians", 
-    "1 ເປໂຕ": "1-peter", 
-    "1 ໂກຣິນ​ໂທ": "1-corinthians", 
-    "1 ໂຢຮັນ": "1-john", 
+    "1 ເທ​ສະ​ໂລ​ນິກ": "1-thessalonians", 
+    "1 ເປ​ໂຕ": "1-peter", 
+    "1 ໂກ​ຣິນ​ໂທ": "1-corinthians", 
+    "1 ໂຢ​ຮັນ": "1-john", 
     "1 ნეფი": "1-nephi", 
     "1‑ші Нефи": "1-nephi", 
     "1コリ": "1-corinthians", 
@@ -47594,7 +48274,16 @@
     "2 Tim.": "2-timothy", 
     "2 Timoteo": "2-timothy", 
     "2 faksimilė": "fac-2", 
-    "2 Нифай": "2-nephi", 
+    "2-chronicles": "2-chronicles", 
+    "2-corinthians": "2-corinthians", 
+    "2-john": "2-john", 
+    "2-kings": "2-kings", 
+    "2-maccabees": "2-maccabees", 
+    "2-nephi": "2-nephi", 
+    "2-peter": "2-peter", 
+    "2-samuel": "2-samuel", 
+    "2-thessalonians": "2-thessalonians", 
+    "2-timothy": "2-timothy", 
     "2-е к Коринфянам": "2-corinthians", 
     "2-е к Тимофею": "2-timothy", 
     "2-е к Фессалоникийцам": "2-thessalonians", 
@@ -47693,6 +48382,8 @@
     "2 Ahemfo": "2-kings", 
     "2 Ar-ari": "2-kings", 
     "2 Ari": "2-kings", 
+    "2 Bakolinti": "2-corinthians", 
+    "2 Batesaloniki": "2-thessalonians", 
     "2 Betero": "2-peter", 
     "2 CRTô": "2-corinthians", 
     "2 Cesa.": "2-thessalonians", 
@@ -47824,6 +48515,8 @@
     "2 Mga Hari": "2-kings", 
     "2 Mga Taga-Corinto": "2-corinthians", 
     "2 Mga Taga-Tesalonica": "2-thessalonians", 
+    "2 Mik.": "2-kings", 
+    "2 Mikonzi": "2-kings", 
     "2 Mos": "exodus", 
     "2 Mos.": "exodus", 
     "2 Moseboken": "exodus", 
@@ -47841,6 +48534,7 @@
     "2 Ne": "2-nephi", 
     "2 Ne.": "2-nephi", 
     "2 Nef": "2-nephi", 
+    "2 Nef.": "2-nephi", 
     "2 Nefi": "2-nephi", 
     "2 Nefia": "2-nephi", 
     "2 Nefio knyga": "2-nephi", 
@@ -47862,6 +48556,8 @@
     "2 Niphai": "2-nephi", 
     "2 No.": "2-chronicles", 
     "2 Nofoaiga a Tupu": "2-chronicles", 
+    "2 Nta.": "2-chronicles", 
+    "2 Ntango": "2-chronicles", 
     "2 Nya.": "2-chronicles", 
     "2 Né": "2-nephi", 
     "2 Né.": "2-nephi", 
@@ -47879,6 +48575,7 @@
     "2 Pet": "2-peter", 
     "2 Pet.": "2-peter", 
     "2 Pete.": "2-peter", 
+    "2 Petelo": "2-peter", 
     "2 Peter": "2-peter", 
     "2 Petera": "2-peter", 
     "2 Peteru": "2-peter", 
@@ -47932,6 +48629,7 @@
     "2 Samuelit": "2-samuel", 
     "2 Samuelsboken": "2-samuel", 
     "2 Samuelu": "2-samuel", 
+    "2 Samwele": "2-samuel", 
     "2 Samweli": "2-samuel", 
     "2 Samyèl": "2-samuel", 
     "2 Sione": "2-john", 
@@ -47951,6 +48649,7 @@
     "2 Tes": "2-thessalonians", 
     "2 Tes.": "2-thessalonians", 
     "2 Tesa.": "2-thessalonians", 
+    "2 Tesal.": "2-thessalonians", 
     "2 Tesalonia": "2-thessalonians", 
     "2 Tesaloniana": "2-thessalonians", 
     "2 Tesaloniceni": "2-thessalonians", 
@@ -48000,8 +48699,6 @@
     "2 Tupu": "2-kings", 
     "2 Tê Sa Lô Ni Ca": "2-thessalonians", 
     "2 Tím": "2-timothy", 
-    "2 Tēsal.": "2-thessalonians", 
-    "2 Tēsalonika": "2-thessalonians", 
     "2 Tīm.": "2-timothy", 
     "2 Tīmote": "2-timothy", 
     "2 Uea": "2-kings", 
@@ -48012,6 +48709,8 @@
     "2 Wafalme": "2-kings", 
     "2 Wakorintho": "2-corinthians", 
     "2 Wathesalonike": "2-thessalonians", 
+    "2 Yoan.": "2-john", 
+    "2 Yoane": "2-john", 
     "2 Yoh.": "2-john", 
     "2 Yohana": "2-john", 
     "2 Yohanes": "2-john", 
@@ -48024,42 +48723,41 @@
     "2 Јн": "2-john", 
     "2 Дн": "2-chronicles", 
     "2 Ин.": "2-john", 
-    "2 Иоан.": "ephesians", 
-    "2 Иоаново": "ephesians", 
+    "2 Йоан": "ephesians", 
     "2 Кор": "2-corinthians", 
     "2 Кор.": "2-corinthians", 
     "2 Коринтяните": "1-timothy", 
     "2 Лет.": "2-chronicles", 
     "2 Летописи": "2-chronicles", 
     "2 Не": "2-nephi", 
-    "2 Не.": "2-nephi", 
     "2 Неф.": "2-nephi", 
     "2 Нефи": "2-nephi", 
     "2 Нефий": "2-nephi", 
+    "2 Нифай": "2-nephi", 
     "2 Пар.": "2-chronicles", 
     "2 Пет": "2-peter", 
     "2 Пет.": "2-peter", 
-    "2 Петрово": "2-corinthians", 
+    "2 Петър": "2-corinthians", 
     "2 Сам": "2-samuel", 
     "2 Сам.": "2-samuel", 
     "2 Сол": "2-thessalonians", 
     "2 Сол.": "2-thessalonians", 
-    "2 Солунците": "1-peter", 
+    "2 Солуняните": "1-peter", 
     "2 Тим": "2-timothy", 
     "2 Тим.": "2-timothy", 
-    "2 Тимотея": "1-john", 
+    "2 Тимотей": "1-john", 
     "2 Фес.": "2-thessalonians", 
     "2 Хр.": "2-chronicles", 
     "2 Цар": "2-kings", 
     "2 Цар.": "2-kings", 
-    "2 Царете": "2-samuel", 
+    "2 Царе": "2-samuel", 
     "2 Նեփի": "2-nephi", 
     "2 नफी": "2-nephi", 
     "2 நேபி": "2-nephi", 
     "2 నీఫై": "2-nephi", 
     "2 ກຣທ": "2-corinthians", 
     "2 ກສ": "2-kings", 
-    "2 ກະສັດ": "2-kings", 
+    "2 ກະ​ສັດ": "2-kings", 
     "2 ຂຄ": "2-chronicles", 
     "2 ຂ່າວ​ຄາວ": "2-chronicles", 
     "2 ຊມອ": "2-samuel", 
@@ -48068,13 +48766,13 @@
     "2 ຕີ​ໂມ​ທຽວ": "2-timothy", 
     "2 ທສນ": "2-thessalonians", 
     "2 ນຟ": "2-nephi", 
-    "2 ນີໄຟ": "2-nephi", 
+    "2 ນີ​ໄຟ": "2-nephi", 
     "2 ປຕ": "2-peter", 
     "2 ຢຮ": "2-john", 
-    "2 ເທສະ​ໂລນິກ": "2-thessalonians", 
-    "2 ເປໂຕ": "2-peter", 
-    "2 ໂກຣິນ​ໂທ": "2-corinthians", 
-    "2 ໂຢຮັນ": "2-john", 
+    "2 ເທ​ສະ​ໂລ​ນິກ": "2-thessalonians", 
+    "2 ເປ​ໂຕ": "2-peter", 
+    "2 ໂກ​ຣິນ​ໂທ": "2-corinthians", 
+    "2 ໂຢ​ຮັນ": "2-john", 
     "2 ნეფი": "2-nephi", 
     "2‑ші Нефи": "2-nephi", 
     "2コリ": "2-corinthians", 
@@ -48084,7 +48782,8 @@
     "2ペテ": "2-peter", 
     "2ヨハ": "2-john", 
     "3 faksimilė": "fac-3", 
-    "3 Нифай": "3-nephi", 
+    "3-john": "3-john", 
+    "3-nephi": "3-nephi", 
     "3-е Иоанна": "3-john", 
     "3-я Царств": "1-kings", 
     "3. YUHANNA": "3-john", 
@@ -48150,6 +48849,7 @@
     "3 Ne": "3-nephi", 
     "3 Ne.": "3-nephi", 
     "3 Nef": "3-nephi", 
+    "3 Nef.": "3-nephi", 
     "3 Nefi": "3-nephi", 
     "3 Nefia": "3-nephi", 
     "3 Nefio knyga": "3-nephi", 
@@ -48177,34 +48877,35 @@
     "3 Nīfai": "3-nephi", 
     "3 Nīwhai": "3-nephi", 
     "3 Sione": "3-john", 
+    "3 Yoan.": "3-john", 
+    "3 Yoane": "3-john", 
     "3 Yoh.": "3-john", 
     "3 Yohana": "3-john", 
     "3 Yohanes": "3-john", 
     "3 Іван.": "3-john", 
     "3 Јн": "3-john", 
     "3 Ин.": "3-john", 
-    "3 Иоан.": "philippians", 
-    "3 Иоаново": "philippians", 
+    "3 Йоан": "philippians", 
     "3 Не": "3-nephi", 
-    "3 Не.": "3-nephi", 
     "3 Неф.": "3-nephi", 
     "3 Нефи": "3-nephi", 
     "3 Нефий": "3-nephi", 
+    "3 Нифай": "3-nephi", 
     "3 Цар.": "1-kings", 
-    "3 Царете": "1-kings", 
+    "3 Царе": "1-kings", 
     "3 Նեփի": "3-nephi", 
     "3 नफी": "3-nephi", 
     "3 நேபி": "3-nephi", 
     "3 నీఫై": "3-nephi", 
     "3 ນຟ": "3-nephi", 
-    "3 ນີໄຟ": "3-nephi", 
+    "3 ນີ​ໄຟ": "3-nephi", 
     "3 ຢຮ": "3-john", 
-    "3 ໂຢຮັນ": "3-john", 
+    "3 ໂຢ​ຮັນ": "3-john", 
     "3 ნეფი": "3-nephi", 
     "3ニフ": "3-nephi", 
     "3ヨハ": "3-john", 
     "3니": "3-nephi", 
-    "4 Нифай": "4-nephi", 
+    "4-nephi": "4-nephi", 
     "4-я Царств": "2-kings", 
     "4. Moos.": "numbers", 
     "4. Moosese": "numbers", 
@@ -48228,6 +48929,7 @@
     "4 Ne": "4-nephi", 
     "4 Ne.": "4-nephi", 
     "4 Nef": "4-nephi", 
+    "4 Nef.": "4-nephi", 
     "4 Nefi": "4-nephi", 
     "4 Nefia": "4-nephi", 
     "4 Nefio knyga": "4-nephi", 
@@ -48255,18 +48957,18 @@
     "4 Nīfai": "4-nephi", 
     "4 Nīwhai": "4-nephi", 
     "4 Не": "4-nephi", 
-    "4 Не.": "4-nephi", 
     "4 Неф.": "4-nephi", 
     "4 Нефи": "4-nephi", 
     "4 Нефий": "4-nephi", 
+    "4 Нифай": "4-nephi", 
     "4 Цар.": "2-kings", 
-    "4 Царете": "2-kings", 
+    "4 Царе": "2-kings", 
     "4 Նեփի": "4-nephi", 
     "4 नफी": "4-nephi", 
     "4 நேபி": "4-nephi", 
     "4 నీఫై": "4-nephi", 
     "4 ນຟ": "4-nephi", 
-    "4 ນີໄຟ": "4-nephi", 
+    "4 ນີ​ໄຟ": "4-nephi", 
     "4 ნეფი": "4-nephi", 
     "4ニフ": "4-nephi", 
     "4니": "4-nephi", 
@@ -48339,7 +49041,7 @@
     "ATM": "words-of-mormon", 
     "AV": "official-declarations", 
     "Aabr": "abraham", 
-    "Aabrahami": "facsimiles", 
+    "Aabrahami": "abraham", 
     "Aam.": "amos", 
     "Aamoksen kirja": "amos", 
     "Aamos": "amos", 
@@ -48354,6 +49056,8 @@
     "Abakik": "habakkuk", 
     "Abakuk": "habakkuk", 
     "Abakuka": "habakkuk", 
+    "Abal.": "abraham", 
+    "Abalayama": "abraham", 
     "Abd": "obadiah", 
     "Abd.": "obadiah", 
     "Abdia": "obadiah", 
@@ -48365,23 +49069,22 @@
     "Abdyas": "obadiah", 
     "Abdías": "obadiah", 
     "Abe.": "abraham", 
-    "Aberaam": "facsimiles", 
-    "Aberahama": "facsimiles", 
-    "Aberahame": "facsimiles", 
+    "Aberaam": "abraham", 
+    "Aberahama": "abraham", 
+    "Aberahame": "abraham", 
     "Abr": "abraham", 
     "Abr.": "abraham", 
-    "Abraham": "facsimiles", 
-    "Abrahama": "facsimiles", 
-    "Abrahami": "facsimiles", 
-    "Abrahamo": "facsimiles", 
+    "Abraham": "abraham", 
+    "Abrahama": "abraham", 
+    "Abrahami": "abraham", 
+    "Abrahamo": "abraham", 
     "Abrahamova knjiga": "abraham", 
     "Abrahams Bog": "abraham", 
-    "Abrahams bok": "facsimiles", 
-    "Abrahám": "facsimiles", 
-    "Abraomo knyga": "facsimiles", 
+    "Abrahám": "abraham", 
+    "Abraomo knyga": "abraham", 
     "Abraram": "abraham", 
-    "Abraão": "facsimiles", 
-    "Abráhámù": "facsimiles", 
+    "Abraão": "abraham", 
+    "Abráhámù": "abraham", 
     "Abschnitt": "sections", 
     "Abụ nke abụ": "song-of-solomon", 
     "Abụ Ọma": "psalms", 
@@ -48497,10 +49200,9 @@
     "Andre Krønikebok": "2-chronicles", 
     "Andre Mosebok": "exodus", 
     "Andre Samuelsbok": "2-samuel", 
-    "Ang Doktrina at mga Tipan": "sections", 
-    "Ang Doktrina ug mga Pakigsaad": "sections", 
     "Ang Giya ngadto sa mga Kasulatan.": "guide-to-the-scriptures", 
     "Ang Hubad ni Joseph Smith": "jst-appendix", 
+    "Ang Perlas nga Bilidhon": "pearl-of-great-price", 
     "Ang mga Artikulo sa Hugot nga Pagtuo": "articles-of-faith", 
     "Ang mga Saligan ng Pananampalataya": "articles-of-faith", 
     "Anhang: Joseph-Smith-Übersetzung": "jst-appendix", 
@@ -48520,7 +49222,7 @@
     "Apd": "acts", 
     "Ape.": "abraham", 
     "Apendiks Terjemahan Joseph Smith": "jst-appendix", 
-    "Aperaamo": "facsimiles", 
+    "Aperaamo": "abraham", 
     "Aperahama": "abraham", 
     "Apg": "acts", 
     "Apg.": "acts", 
@@ -48568,7 +49270,7 @@
     "Asɔre no Dawurubɔ": "official-declarations", 
     "At": "official-declarations", 
     "At.": "acts", 
-    "Ata": "facsimile", 
+    "Ata": "facsimiles", 
     "Ata 1": "fac-1", 
     "Ata 2": "fac-2", 
     "Ata 3": "fac-3", 
@@ -48583,7 +49285,7 @@
     "Augstā Dziesma": "song-of-solomon", 
     "Augstā Dz.": "song-of-solomon", 
     "Avr.": "abraham", 
-    "Avraam": "facsimiles", 
+    "Avraam": "abraham", 
     "Awa’b’ejil Yehom": "official-declaration", 
     "Awit": "psalms", 
     "Awit ni Solomon": "song-of-solomon", 
@@ -48633,23 +49335,46 @@
     "BDJS, Ê Phê Sô": "jst-ephesians", 
     "BDJS, Ê Sai": "jst-isaiah", 
     "BJS": "joseph-smith-translation", 
+    "BJS, 1 Bakolinti": "jst-1-corinthians", 
+    "BJS, 1 Batesaloniki": "jst-1-thessalonians", 
     "BJS, 1 Johannes": "jst-1-john", 
     "BJS, 1 Korinthe": "jst-1-corinthians", 
     "BJS, 1 Kronieken": "jst-1-chronicles", 
+    "BJS, 1 Ntango": "jst-1-chronicles", 
+    "BJS, 1 Petelo": "jst-1-peter", 
     "BJS, 1 Petrus": "jst-1-peter", 
     "BJS, 1 Samuel": "jst-1-samuel", 
+    "BJS, 1 Samwele": "jst-1-samuel", 
     "BJS, 1 Thessalonicenzen": "jst-1-thessalonians", 
+    "BJS, 1 Timote": "jst-1-timothy", 
     "BJS, 1 Timotheüs": "jst-1-timothy", 
+    "BJS, 1 Yoane": "jst-1-john", 
+    "BJS, 2 Bakolinti": "jst-2-corinthians", 
+    "BJS, 2 Batesaloniki": "jst-2-thessalonians", 
     "BJS, 2 Korinthe": "jst-2-corinthians", 
     "BJS, 2 Kronieken": "jst-2-chronicles", 
+    "BJS, 2 Ntango": "jst-2-chronicles", 
+    "BJS, 2 Petelo": "jst-2-peter", 
     "BJS, 2 Petrus": "jst-2-peter", 
     "BJS, 2 Samuel": "jst-2-samuel", 
+    "BJS, 2 Samwele": "jst-2-samuel", 
     "BJS, 2 Thessalonicenzen": "jst-2-thessalonians", 
     "BJS, Amos": "jst-amos", 
+    "BJS, Amosa": "jst-amos", 
+    "BJS, Baebele": "jst-hebrews", 
+    "BJS, Baefese": "jst-ephesians", 
+    "BJS, Bagalatia": "jst-galatians", 
+    "BJS, Bakolose": "jst-colossians", 
+    "BJS, Baloma": "jst-romans", 
     "BJS, Deuteronomium": "jst-deuteronomy", 
+    "BJS, Dutelonome": "jst-deuteronomy", 
     "BJS, Efeze": "jst-ephesians", 
+    "BJS, Emoniseli": "jst-revelation", 
+    "BJS, Esode": "jst-exodus", 
     "BJS, Exodus": "jst-exodus", 
     "BJS, Galaten": "jst-galatians", 
+    "BJS, Genese": "jst-genesis", 
+    "BJS, Genese 1–8": "1-8", 
     "BJS, Genesis": "jst-genesis", 
     "BJS, Genesis 1–8": "1-8", 
     "BJS, Handelingen": "jst-acts", 
@@ -48659,23 +49384,40 @@
     "BJS, Jesaja": "jst-isaiah", 
     "BJS, Johannes": "jst-john", 
     "BJS, Kolossenzen": "jst-colossians", 
+    "BJS, Luka": "jst-luke", 
     "BJS, Lukas": "jst-luke", 
+    "BJS, Malako": "jst-mark", 
     "BJS, Markus": "jst-mark", 
+    "BJS, Matai": "jst-matthew", 
     "BJS, Mattheüs": "jst-matthew", 
+    "BJS, Misala": "jst-acts", 
+    "BJS, Nzembo": "jst-psalms", 
     "BJS, Openbaring": "jst-revelation", 
     "BJS, Psalm": "jst-psalm", 
     "BJS, Psalmen": "jst-psalms", 
     "BJS, Romeinen": "jst-romans", 
+    "BJS, Yakobo": "jst-james", 
+    "BJS, Yilimia": "jst-jeremiah", 
+    "BJS, Yisaya": "jst-isaiah", 
+    "BJS, Yoane": "jst-john", 
     "BK": "guide-to-the-scriptures", 
     "BM": "official-declarations", 
     "Babyor ku Mormon": "book-of-mormon", 
     "Bades el Mlengai er a Babier er a Mormon": "book-of-mormon", 
+    "Baebele": "hebrews", 
+    "Baefese": "ephesians", 
+    "Bafilipi": "philippians", 
     "Bag-ong Tugon": "new-testament", 
+    "Bagalatia": "galatians", 
     "Bagian": "sections", 
     "Bagong Tipan": "new-testament", 
     "Bahagian": "sections", 
+    "Bakolose": "colossians", 
+    "Baloma": "romans", 
     "Baro a Tulag": "new-testament", 
+    "Bas.": "judges", 
     "Basahon ni Mormon": "book-of-mormon", 
+    "Basambisi": "judges", 
     "Bha. Kho.": "articles-of-faith", 
     "Bhuku raMormoni": "book-of-mormon", 
     "Bible Dictionary": "bible-dictionary", 
@@ -48683,15 +49425,27 @@
     "Bijbelvertaling van Joseph Smith – aanhangsel": "jst-appendix", 
     "Bil.": "numbers", 
     "Bilangan": "numbers", 
+    "Bilili ya Nkoma na Maboko": "facsimile", 
+    "Bilili ya Nkoma na Maboko 1": "fac-1", 
+    "Bilili ya Nkoma na Maboko 2": "fac-2", 
+    "Bilili ya Nkoma na Maboko 3": "fac-3", 
+    "Bilili ya nkoma na maboko": "facsimiles", 
     "Bire.": "philemon", 
     "Biremon": "philemon", 
     "Biri.": "philippians", 
+    "Bit. Bond.": "articles-of-faith", 
+    "Biteni": "sections", 
+    "Biteni ya Bondimi": "articles-of-faith", 
     "Blg.": "numbers", 
+    "Bobakisi na Bobongoli ya Joseph Smith": "jst-appendix", 
+    "Bobongoli ya Joseph Smith": "joseph-smith-translation", 
     "Boek van Mormon": "book-of-mormon", 
     "Bok in Mormon": "book-of-mormon", 
     "Bokin’i Môrmôna": "book-of-mormon", 
     "Book of Mormon": "book-of-mormon", 
     "Bota a Ɔsom Bo Mapã": "pearl-of-great-price", 
+    "Boyokani ya Kala": "old-testament", 
+    "Boyokani ya Sika": "new-testament", 
     "Br": "numbers", 
     "Brangusis Perlas": "pearl-of-great-price", 
     "Brevet til hebreerne": "hebrews", 
@@ -48702,14 +49456,14 @@
     "Buka ea Mormone": "book-of-mormon", 
     "Buka ya ga Momone": "book-of-mormon", 
     "Buku la Mormoni": "book-of-mormon", 
-    "Buku ya Molomoni": "book-of-mormon", 
+    "Buku ya Mormon": "book-of-mormon", 
     "Bwaeao ae Bati Bona": "pearl-of-great-price", 
     "Bwaeb.": "lamentations", 
     "Bwaebwaeti": "lamentations", 
     "Bwai ni Kairi nakon Koroboki aika Tabu": "guide-to-the-scriptures", 
     "Bír.": "judges", 
     "Bírák könyve": "judges", 
-    "Bók Abrahams": "facsimiles", 
+    "Bók Abrahams": "abraham", 
     "Bók Móse": "moses", 
     "Bölümler": "sections", 
     "Bōn.": "numbers", 
@@ -48856,6 +49610,7 @@
     "Danieri": "daniel", 
     "Daniël": "daniel", 
     "Daniēla grāmata": "daniel", 
+    "Danyele": "daniel", 
     "Danyèl": "daniel", 
     "Daníel": "daniel", 
     "Das Buch Mormon": "book-of-mormon", 
@@ -48966,6 +49721,7 @@
     "Dudziro yaJoseph Smith": "jst-appendix", 
     "Dut": "deuteronomy", 
     "Dut.": "deuteronomy", 
+    "Dutelonome": "deuteronomy", 
     "Duteronomi": "deuteronomy", 
     "Dutronome": "deuteronomy", 
     "DyC": "sections", 
@@ -49055,7 +49811,7 @@
     "Džozefo Smito vertimas": "joseph-smith-translation", 
     "Džozefs Smits—Mateja evaņģēlijs": "joseph-smith-matthew", 
     "Džozefs Smits—Vēsture": "joseph-smith-history", 
-    "D’Abraham": "facsimiles", 
+    "D’Abraham": "abraham", 
     "E Xơ Ra": "ezra", 
     "EFESLİLER": "ephesians", 
     "ELÇİLERİN İŞLERİ": "acts", 
@@ -49069,9 +49825,9 @@
     "Ebeto": "ephesians", 
     "Ebr": "abraham", 
     "Ebr.": "hebrews", 
-    "Ebraham": "facsimiles", 
+    "Ebraham": "abraham", 
     "Ebre": "hebrews", 
-    "Ebream": "facsimiles", 
+    "Ebream": "abraham", 
     "Ebrei": "hebrews", 
     "Eb’ li Awa’b’ejil Yehom": "official-declarations", 
     "Eb’ li Tasal": "sections", 
@@ -49092,7 +49848,7 @@
     "Ecēhiēla grāmata": "ezekiel", 
     "Ef": "ephesians", 
     "Ef.": "ephesians", 
-    "Efana Kanye": "facsimile", 
+    "Efana Kanye": "facsimiles", 
     "Efana Kanye 1": "fac-1", 
     "Efana Kanye 2": "fac-2", 
     "Efana Kanye 3": "fac-3", 
@@ -49131,6 +49887,9 @@
     "Egetabu Kieritang’ani Kia Nephi": "1-nephi", 
     "Egz.": "exodus", 
     "Egzòd": "exodus", 
+    "Ejek.": "ezekiel", 
+    "Ejekiele": "ezekiel", 
+    "Ejela": "ezra", 
     "EkaJakobe": "james", 
     "EkaJuda": "jude", 
     "EkaYakobi": "james", 
@@ -49151,10 +49910,13 @@
     "Eksodosy": "exodus", 
     "El Llibre de Mormó": "book-of-mormon", 
     "Ela.": "helaman", 
+    "Elam.": "helaman", 
     "Elaman": "helaman", 
     "Elamani": "helaman", 
     "Els Articles de Fe": "articles-of-faith", 
     "EmaVi aMormon": "words-of-mormon", 
+    "Emon.": "revelation", 
+    "Emoniseli": "revelation", 
     "Emosi": "amos", 
     "Emọs": "amos", 
     "En": "enos", 
@@ -49162,8 +49924,10 @@
     "Eno.": "enos", 
     "Enoha": "enos", 
     "Enos": "enos", 
+    "Enos.": "enos", 
     "Enosa": "enos", 
     "Enose": "enos", 
+    "Enosha": "enos", 
     "Enoshe": "enos", 
     "Enoshi": "enos", 
     "Enoshs Bog": "enos", 
@@ -49187,7 +49951,7 @@
     "Enô.": "enos", 
     "Enôsa": "enos", 
     "Epa.": "abraham", 
-    "Eparaama": "facsimiles", 
+    "Eparaama": "abraham", 
     "Epe.": "hebrews", 
     "Eperu": "hebrews", 
     "Eph": "ephesians", 
@@ -49212,12 +49976,16 @@
     "Esekielu": "ezekiel", 
     "Esekíel": "ezekiel", 
     "Esera": "ezra", 
+    "Eset.": "esther", 
     "Eseta": "esther", 
+    "Esetele": "esther", 
     "Esi.": "esther", 
     "Esik": "ezekiel", 
     "Esikel": "ezekiel", 
     "Esiteri": "esther", 
     "Eski Antlaşma": "old-testament", 
+    "Esod.": "exodus", 
+    "Esode": "exodus", 
     "Esodo": "exodus", 
     "Esoto": "exodus", 
     "Esr": "ezra", 
@@ -49251,6 +50019,7 @@
     "Ete.": "ether", 
     "Etek.": "ezekiel", 
     "Etekiera": "ezekiel", 
+    "Etel.": "ether", 
     "Etele": "ether", 
     "Eter": "ether", 
     "Etera": "ether", 
@@ -49379,17 +50148,17 @@
     "Faamasino": "judges", 
     "Faata.": "proverbs", 
     "Faataoto": "proverbs", 
-    "Fac-similé no": "facsimile", 
+    "Fac-similé no": "facsimiles", 
     "Fac-similé no 1": "fac-1", 
     "Fac-similé no 2": "fac-2", 
     "Fac-similé no 3": "fac-3", 
-    "Fac-símile": "facsimile", 
+    "Fac-símile": "facsimiles", 
     "Fac-símile 1": "fac-1", 
     "Fac-símile 2": "fac-2", 
     "Fac-símile 3": "fac-3", 
-    "Facsimil": "facsimile", 
-    "Facsimile": "facsimile", 
-    "Facsimile nr.": "facsimile", 
+    "Facsimil": "facsimiles", 
+    "Facsimile": "facsimiles", 
+    "Facsimile nr.": "facsimiles", 
     "Facsimile nr. 1": "fac-1", 
     "Facsimile nr. 2": "fac-2", 
     "Facsimile nr. 3": "fac-3", 
@@ -49401,8 +50170,8 @@
     "Facsimil 1": "fac-1", 
     "Facsimil 2": "fac-2", 
     "Facsimil 3": "fac-3", 
-    "Facsímil": "facsimile", 
-    "Facsímile Nº": "facsimile", 
+    "Facsímil": "facsimiles", 
+    "Facsímile Nº": "facsimiles", 
     "Facsímile Nº 1": "fac-1", 
     "Facsímile Nº 2": "fac-2", 
     "Facsímile Nº 3": "fac-3", 
@@ -49414,11 +50183,13 @@
     "Failimọn": "philemon", 
     "Fakahinohino ki he Ngaahi Folofolá": "guide-to-the-scriptures", 
     "Fakahā": "revelation", 
+    "Fakalahi ki he Liliu ʻa Siosefa Sāmitá": "jst-appendix", 
     "Fakam.": "judges", 
     "Fakamaau": "judges", 
     "Faksimil": "facsimile", 
-    "Faksimile": "facsimile", 
+    "Faksimile": "facsimiles", 
     "Faksimilee": "facsimile", 
+    "Faksimilees": "facsimiles", 
     "Faksimilee 1": "fac-1", 
     "Faksimilee 2": "fac-2", 
     "Faksimilee 3": "fac-3", 
@@ -49427,7 +50198,7 @@
     "Faksimile 1": "fac-1", 
     "Faksimile 2": "fac-2", 
     "Faksimile 3": "fac-3", 
-    "Faksimils nr.": "facsimile", 
+    "Faksimils nr.": "facsimiles", 
     "Faksimils nr. 1": "fac-1", 
     "Faksimils nr. 2": "fac-2", 
     "Faksimils nr. 3": "fac-3", 
@@ -49439,7 +50210,7 @@
     "Faksymile Ⅲ": "fac-3", 
     "Faksymilia": "facsimiles", 
     "Fanekem-pinoana": "articles-of-faith", 
-    "Fanongonongo Fakamafaiʻi": "official-declarations", 
+    "Fanongonongo Fakamafaiʻi": "official-declaration", 
     "Fapi Thin ku Mormon": "words-of-mormon", 
     "Fapte": "acts", 
     "Faptele Apostolilor": "acts", 
@@ -49457,7 +50228,7 @@
     "FeM.": "words-of-mormon", 
     "Feagaiga Fou": "new-testament", 
     "Feagaiga Tuai": "old-testament", 
-    "Fekese": "facsimile", 
+    "Fekese": "facsimiles", 
     "Fekese 1": "fac-1", 
     "Fekese 2": "fac-2", 
     "Fekese 3": "fac-3", 
@@ -49629,6 +50400,7 @@
     "Gen": "genesis", 
     "Gen.": "genesis", 
     "Genesa": "genesis", 
+    "Genese": "genesis", 
     "Genesi": "genesis", 
     "Genesis": "genesis", 
     "Genesisy": "genesis", 
@@ -49931,7 +50703,7 @@
     "Hākopa": "jacob", 
     "Hōhepa Mete—Hītori": "joseph-smith-history", 
     "Hōhepa Mete—Matiu": "joseph-smith-matthew", 
-    "Hōho’a": "facsimile", 
+    "Hōho’a": "facsimiles", 
     "Hōho’a 1": "fac-1", 
     "Hōho’a 2": "fac-2", 
     "Hōho’a 3": "fac-3", 
@@ -49948,10 +50720,12 @@
     "IEksodus": "exodus", 
     "IGenesis": "genesis", 
     "IGugu leNani eliKhulu": "pearl-of-great-price", 
+    "ILavelave ni itukutuku makawa": "facsimiles", 
     "ILevitikus": "leviticus", 
     "IMbali—kaJoseph Smith": "joseph-smith-history", 
     "IMfundiso neMinqophiso": "sections", 
     "IMfundiso neziVumelwano": "sections", 
+    "IMfundziso neTivumelwano": "doctrine-and-covenants", 
     "INcwadi kaMormoni": "book-of-mormon", 
     "INcwadzi yaMormon": "book-of-mormon", 
     "INg.": "song-of-solomon", 
@@ -49996,7 +50770,7 @@
     "Ieremia": "jeremiah", 
     "Igitabo cya Morumoni": "book-of-mormon", 
     "Ihder": "ether", 
-    "Ihe esere ese na-ụdị ha dịbu nke": "facsimile", 
+    "Ihe esere ese na-ụdị ha dịbu nke": "facsimiles", 
     "Ihe esere ese na-ụdị ha dịbu nke 1": "fac-1", 
     "Ihe esere ese na-ụdị ha dịbu nke 2": "fac-2", 
     "Ihe esere ese na-ụdị ha dịbu nke 3": "fac-3", 
@@ -50526,6 +51300,7 @@
     "JS—LS": "joseph-smith-history", 
     "JS—M": "joseph-smith-matthew", 
     "JS—MTƠ": "joseph-smith-matthew", 
+    "JS—Mambi ya Kala": "joseph-smith-history", 
     "JS—Mat.": "joseph-smith-matthew", 
     "JS—Mateyu": "joseph-smith-matthew", 
     "JS—Math.": "joseph-smith-matthew", 
@@ -50641,7 +51416,7 @@
     "Jak bok": "jacob", 
     "Jak brev": "james", 
     "Jakòb": "jacob", 
-    "Jalam-uuch": "facsimile", 
+    "Jalam-uuch": "facsimiles", 
     "Jalam-uuch 1": "fac-1", 
     "Jalam-uuch 2": "fac-2", 
     "Jalam-uuch 3": "fac-3", 
@@ -50851,6 +51626,8 @@
     "Joseph Smith—Keeb Kwm": "joseph-smith-history", 
     "Joseph Smith—Lịch Sử": "joseph-smith-history", 
     "Joseph Smith—Ma Thi Ơ": "joseph-smith-matthew", 
+    "Joseph Smith—Mambi ya Kala": "joseph-smith-history", 
+    "Joseph Smith—Matai": "joseph-smith-matthew", 
     "Joseph Smith—Matei": "joseph-smith-matthew", 
     "Joseph Smith—Mateo": "joseph-smith-matthew", 
     "Joseph Smith—Mateu": "joseph-smith-matthew", 
@@ -50948,7 +51725,7 @@
     "Járom": "jarom", 
     "Járom könyve": "jarom", 
     "Járọ́mù": "jarom", 
-    "Jäljend joonisest nr": "facsimile", 
+    "Jäljend joonisest nr": "facsimiles", 
     "Jäljend joonisest nr 1": "fac-1", 
     "Jäljend joonisest nr 2": "fac-2", 
     "Jäljend joonisest nr 3": "fac-3", 
@@ -51041,9 +51818,10 @@
     "Katak im Bujen Ko": "sections", 
     "Katanoata ae Kariaiakaki": "official-declarations", 
     "Katooto": "facsimile", 
-    "Katooto 1": "fac-1", 
+    "Katooto 1": "fac-1", 
     "Katooto 2": "fac-2", 
     "Katooto 3": "fac-3", 
+    "Katotongan Koroboki": "facsimiles", 
     "Kaw.": "proverbs", 
     "Kay Filemon": "philemon", 
     "Kay Tito": "titus", 
@@ -51107,7 +51885,6 @@
     "Knjiga o Ruti": "ruth", 
     "Knjiga o Sucima": "judges", 
     "Ko e Falu a Veveheaga mai he Tohi a Moromona": "book-of-mormon", 
-    "Ko ngā Kawenata me ngā Whakahaunga": "doctrine-and-covenants", 
     "Ko ngā Kupu a Moromona": "words-of-mormon", 
     "Ko ngā Tikanga o te Whakapono": "articles-of-faith", 
     "Ko ngā Whakapuakitanga Tūturu": "official-declarations", 
@@ -51119,9 +51896,11 @@
     "Kohtumõistjate": "judges", 
     "Kol": "colossians", 
     "Kol.": "colossians", 
+    "Kolela": "lamentations", 
     "Kolmas Johanneksen kirje": "3-john", 
     "Kolmas Mooseksen kirja": "leviticus", 
     "Kolo.": "colossians", 
+    "Kolos.": "colossians", 
     "Kolosa": "colossians", 
     "Kolose": "colossians", 
     "Kolosenses": "colossians", 
@@ -51197,6 +51976,7 @@
     "Kun": "leviticus", 
     "Kunigų knyga": "leviticus", 
     "Kutoka": "exodus", 
+    "Kuvajäljennökset": "facsimiles", 
     "Kuvajäljennös": "facsimile", 
     "Kuvajäljennös 1": "fac-1", 
     "Kuvajäljennös 2": "fac-2", 
@@ -51225,19 +52005,22 @@
     "LMMôn": "words-of-mormon", 
     "LR": "guide-to-the-scriptures", 
     "LSS": "joseph-smith-translation", 
+    "LSS, 1 Fakamatala Meʻa Hokohoko": "jst-1-chronicles", 
     "LSS, 1 Kolinitō": "jst-1-corinthians", 
     "LSS, 1 Pita": "jst-1-peter", 
     "LSS, 1 Samuela": "jst-1-samuel", 
     "LSS, 1 Sione": "jst-1-john", 
-    "LSS, 1 Tēsalonika": "jst-1-thessalonians", 
+    "LSS, 1 Tesalonika": "jst-1-thessalonians", 
     "LSS, 1 Tīmote": "jst-1-timothy", 
     "LSS, 2 Fakamatala Meʻa Hokohoko": "jst-2-chronicles", 
     "LSS, 2 Kolinitō": "jst-2-corinthians", 
+    "LSS, 2 Pita": "jst-2-peter", 
     "LSS, 2 Samuela": "jst-2-samuel", 
-    "LSS, 2 Tēsalonika": "jst-2-thessalonians", 
+    "LSS, 2 Tesalonika": "jst-2-thessalonians", 
     "LSS, Fakahā": "jst-revelation", 
     "LSS, Hepelū": "jst-hebrews", 
     "LSS, Kalētia": "jst-galatians", 
+    "LSS, Kolose": "jst-colossians", 
     "LSS, Loma": "jst-romans", 
     "LSS, Luke": "jst-luke", 
     "LSS, Maʻake": "jst-mark", 
@@ -51248,6 +52031,7 @@
     "LSS, Sione": "jst-john", 
     "LSS, Sēmisi": "jst-james", 
     "LSS, Sēnesi": "jst-genesis", 
+    "LSS, Sēnesi 1–8": "1-8", 
     "LSS, Teutalōnome": "jst-deuteronomy", 
     "LSS, ʻEfesō": "jst-ephesians", 
     "LSS, ʻEkesōtosi": "jst-exodus", 
@@ -51303,6 +52087,8 @@
     "Levitski zakonik": "leviticus", 
     "Levítico": "leviticus", 
     "Levítikus": "leviticus", 
+    "Lew.": "leviticus", 
+    "Lewitiko": "leviticus", 
     "Li Jaltesinb’il ru xb’aan laj Jose Smith": "joseph-smith-translation", 
     "LiP.": "deuteronomy", 
     "Liaaj.": "lamentations", 
@@ -51314,7 +52100,6 @@
     "Ligji i Përtërirë": "deuteronomy", 
     "Lik": "luke", 
     "Liliu ʻa Siosefa Sāmitá": "joseph-smith-translation", 
-    "Liliu ʻe Siosefa Sāmita": "jst-appendix", 
     "Lio.": "luke", 
     "Lioka": "luke", 
     "List Jakuba": "james", 
@@ -51333,6 +52118,9 @@
     "Livre de Mormon": "book-of-mormon", 
     "Livro de Mórmon": "book-of-mormon", 
     "Lix Hu laj Mormon": "book-of-mormon", 
+    "LiyBak": "official-declarations", 
+    "Liyaka ya Ntalo Monene": "pearl-of-great-price", 
+    "Liyebisi ya Bakambi": "official-declaration", 
     "Ljóð": "song-of-solomon", 
     "Ljóðaljóðin": "song-of-solomon", 
     "Lk": "luke", 
@@ -51340,7 +52128,10 @@
     "Llu.": "luke", 
     "Lluka": "luke", 
     "Llyfr Mormon": "book-of-mormon", 
+    "Lom.": "romans", 
     "Loma": "romans", 
+    "Loyembo": "song-of-solomon", 
+    "Loyembo ya Solomo": "song-of-solomon", 
     "Lu": "luke", 
     "Lu Ca": "luke", 
     "Lu.": "luke", 
@@ -51358,11 +52149,13 @@
     "Lukasevangeliet": "luke", 
     "Lukas’ evangelium": "luke", 
     "Luke": "luke", 
+    "Lukkuun Kape ko": "facsimiles", 
     "Lukács Evangéliuma": "luke", 
     "Lukáš": "luke", 
     "Lulu ya Thamani Kuu": "pearl-of-great-price", 
     "Lumang Tipan": "old-testament", 
     "Lus Qhuab Qhia thiab Kev Khi Lus": "doctrine-and-covenants", 
+    "Luta": "ruth", 
     "Lute": "ruth", 
     "Luuk.": "luke", 
     "Luuka": "luke", 
@@ -51394,6 +52187,7 @@
     "MK Jaak.": "jacob", 
     "MLChi": "malachi", 
     "MMôn": "mormon", 
+    "MOMA": "guide-to-the-scriptures", 
     "MR": "official-declarations", 
     "MRNi": "moroni", 
     "MSz": "words-of-mormon", 
@@ -51417,6 +52211,7 @@
     "Makala ya Imani": "articles-of-faith", 
     "Maklumat Resmi": "official-declarations", 
     "Mal": "malachi", 
+    "Mal&May": "sections", 
     "Mal.": "malachi", 
     "Mala.": "malachi", 
     "Malachi": "malachi", 
@@ -51434,6 +52229,7 @@
     "Malakias": "malachi", 
     "Malakias’ Bog": "malachi", 
     "Malakiás próféta könyve": "malachi", 
+    "Malako": "mark", 
     "Malakí": "malachi", 
     "Malaquias": "malachi", 
     "Malaquías": "malachi", 
@@ -51442,7 +52238,8 @@
     "Maleahija grāmata": "malachi", 
     "Maleakhi": "malachi", 
     "Maleági": "malachi", 
-    "Maloba ma Molomoni": "words-of-mormon", 
+    "Maloba ya Mormon": "words-of-mormon", 
+    "Malongi mpe Mayokani": "sections", 
     "Mamona": "mormon", 
     "Maneno ya Mormoni": "words-of-mormon", 
     "Manga Piniling Kasaysayan Na Hali Sa An Libro ni Mormon": "book-of-mormon", 
@@ -51474,9 +52271,12 @@
     "Markusevangeliet": "mark", 
     "Markus’ evangelium": "mark", 
     "Markúsarguðspjall": "mark", 
+    "Mas.": "proverbs", 
+    "Masese": "proverbs", 
     "Mat": "matthew", 
     "Mat.": "matthew", 
     "Mata.": "matthew", 
+    "Matai": "matthew", 
     "Mataio": "matthew", 
     "Mataio—Iosepha Semita": "joseph-smith-matthew", 
     "Matamko Rasmi": "official-declarations", 
@@ -51523,6 +52323,7 @@
     "Mauxes": "moses", 
     "Mauxiyas": "mosiah", 
     "Mawu a Mormoni": "words-of-mormon", 
+    "Mayebisi ya Bakambi": "official-declarations", 
     "Mazmur": "psalms", 
     "Mazwi": "words-of-mormon", 
     "Mazwi aMormoni": "words-of-mormon", 
@@ -51536,12 +52337,13 @@
     "Mdo.": "acts", 
     "Mekwalo ya Tumelo": "articles-of-faith", 
     "Mf&V": "sections", 
-    "Mfonyin": "facsimile", 
+    "Mfonyin": "facsimiles", 
     "Mfonyin 1": "fac-1", 
     "Mfonyin 2": "fac-2", 
     "Mfonyin 3": "fac-3", 
     "Mga Artikulo sang Pagtuo": "articles-of-faith", 
     "Mga Awit": "psalms", 
+    "Mga Bahagi": "sections", 
     "Mga Bilang": "numbers", 
     "Mga Buhat": "acts", 
     "Mga Gawa": "acts", 
@@ -51555,6 +52357,7 @@
     "Mga Pulong ni Mormon": "words-of-mormon", 
     "Mga Salita ni Mormon": "words-of-mormon", 
     "Mga Salmo": "psalms", 
+    "Mga Seksiyon": "sections", 
     "Mga Seksyon": "sections", 
     "Mga Taga-Colosas": "colossians", 
     "Mga Taga-Efeso": "ephesians", 
@@ -51566,6 +52369,7 @@
     "Mi Chê": "micah", 
     "Mi.": "micah", 
     "MiChê": "micah", 
+    "Miaku ya Molomo": "words-of-mormon", 
     "Mic.": "micah", 
     "Mica": "micah", 
     "Micah": "micah", 
@@ -51597,12 +52401,16 @@
     "Miqueas": "micah", 
     "Miqueias": "micah", 
     "Miquias": "micah", 
+    "Mis.": "acts", 
     "Mis. yeCh.": "articles-of-faith", 
+    "Misala": "acts", 
     "Misimboti yeChitendero": "articles-of-faith", 
     "Mit.": "proverbs", 
     "Mithali": "proverbs", 
+    "Mituya": "numbers", 
     "Mk": "mark", 
     "Mk.": "mark", 
+    "Mki.": "malachi", 
     "Mkpu.": "revelation", 
     "Mkpughe": "revelation", 
     "Ml": "malachi", 
@@ -51625,10 +52433,11 @@
     "Mojžiš": "moses", 
     "Mojžíš": "moses", 
     "Mok": "ecclesiastes", 
+    "Mokambi na Makomi": "guide-to-the-scriptures", 
     "Mokytojo knyga": "ecclesiastes", 
     "Molom.": "mormon", 
+    "Molomo": "mormon", 
     "Molomona": "mormon", 
-    "Molomoni": "mormon", 
     "Molonai": "moroni", 
     "Moloni": "moroni", 
     "Moma.": "mormon", 
@@ -51715,6 +52524,8 @@
     "Mosaea": "mosiah", 
     "Mosaeya": "mosiah", 
     "Mosaia": "mosiah", 
+    "Mosak.": "ecclesiastes", 
+    "Mosakoli": "ecclesiastes", 
     "Mosaya": "mosiah", 
     "Mosaịa": "mosiah", 
     "Mose": "moses", 
@@ -51748,7 +52559,6 @@
     "Mozes": "moses", 
     "Mozijeva knjiga": "mosiah", 
     "Mozijo knyga": "mosiah", 
-    "Moziya": "mosiah", 
     "Mozus": "moses", 
     "Mozya": "mosiah", 
     "Mozės knyga": "moses", 
@@ -51774,10 +52584,11 @@
     "Mt": "matthew", 
     "Mt.": "matthew", 
     "Mudre izreke": "proverbs", 
-    "Mufanikiso": "facsimile", 
+    "Mufanikiso": "facsimiles", 
     "Mufanikiso 2": "fac-2", 
     "Mufanikiso 3": "fac-3", 
     "Mufanikiso 1": "fac-1", 
+    "Mukanda wa Molomo": "book-of-mormon", 
     "Muparidzi": "ecclesiastes", 
     "Musa": "moses", 
     "Mutiara yang Sangat Berharga": "pearl-of-great-price", 
@@ -51786,7 +52597,7 @@
     "Mwakoro": "sections", 
     "Mwanzo": "genesis", 
     "Mwongozo wa Maandiko": "guide-to-the-scriptures", 
-    "Myndeftirlíking": "facsimile", 
+    "Myndeftirlíking": "facsimiles", 
     "Myndeftirlíking 1": "fac-1", 
     "Myndeftirlíking 2": "fac-2", 
     "Myndeftirlíking 3": "fac-3", 
@@ -51796,6 +52607,7 @@
     "M kaM": "words-of-mormon", 
     "M ne N": "words-of-mormon", 
     "M ya I": "articles-of-faith", 
+    "M ya M": "words-of-mormon", 
     "Mác": "mark", 
     "Márk": "mark", 
     "Márk Evangéliuma": "mark", 
@@ -51909,6 +52721,7 @@
     "Nahumin kirja": "nahum", 
     "Nahumo knyga": "nahum", 
     "Nahums Bog": "nahum", 
+    "Nahumu": "nahum", 
     "Nahúm": "nahum", 
     "Najter Chaq’rab’": "old-testament", 
     "Nakala Halisi": "facsimile", 
@@ -51971,6 +52784,7 @@
     "Neh.": "nehemiah", 
     "Neham": "nahum", 
     "Nehem": "nehemiah", 
+    "Nehem.": "nehemiah", 
     "Nehemaea": "nehemiah", 
     "Nehemaia": "nehemiah", 
     "Nehemia": "nehemiah", 
@@ -51997,17 +52811,20 @@
     "New Testament": "new-testament", 
     "Ney.": "nehemiah", 
     "Neyemi": "nehemiah", 
-    "Ng. Lea ʻa M.": "words-of-mormon", 
+    "Ng. Lea ʻa M.": "words-of-mormon", 
+    "Ngaahi Fanongonongo Fakamafaiʻi": "official-declarations", 
     "Ngaahi Lea ʻa Molomona": "words-of-mormon", 
+    "Ngaahi Tefito ʻo e Tuí": "articles-of-faith", 
+    "Ngaahi Vahé": "sections", 
     "NgokukaJohane": "john", 
     "NgokukaLuka": "luke", 
     "NgokukaMarku": "mark", 
     "NgokukaMathewu": "matthew", 
+    "Ngā Wāhanga": "sections", 
     "Ngāue": "acts", 
-    "Ngāue ʻa e Kau ʻAposetoló": "acts", 
     "Nhoroondo—yaJoseph Smith": "joseph-smith-history", 
     "Nhungamiri kuMagwaro Matsvene": "guide-to-the-scriptures", 
-    "Nhwɛsoɔ Pɛpɛɛpɛ": "facsimile", 
+    "Nhwɛsoɔ Pɛpɛɛpɛ": "facsimiles", 
     "Nhwɛsoɔ Pɛpɛɛpɛ 1": "fac-1", 
     "Nhwɛsoɔ Pɛpɛɛpɛ 2": "fac-2", 
     "Nhwɛsoɔ Pɛpɛɛpɛ 3": "fac-3", 
@@ -52059,6 +52876,8 @@
     "Nya testamentet": "new-testament", 
     "Nyi.": "revelation", 
     "Nyikyerɛ": "revelation", 
+    "Nze.": "psalms", 
+    "Nzembo": "psalms", 
     "N an M": "words-of-mormon", 
     "Náh.": "nahum", 
     "Náhum próféta könyve": "nahum", 
@@ -52079,7 +52898,7 @@
     "Nōmipa": "numbers", 
     "O Folafolaga Aloaia": "official-declarations", 
     "O Tetemanti": "old-testament", 
-    "OD": "official-declaration", 
+    "OD": "official-declarations", 
     "OE": "official-declarations", 
     "OL": "sections", 
     "OMorm": "words-of-mormon", 
@@ -52140,6 +52959,7 @@
     "Okwu n’ile nke Mọmọn": "words-of-mormon", 
     "Ol Krae": "lamentations", 
     "Ol Ofisol Toktok": "official-declarations", 
+    "Ol Pikja Kopi": "facsimiles", 
     "Ol Proveb": "proverbs", 
     "Ol Sam": "psalms", 
     "Ol Seksen": "sections", 
@@ -52154,6 +52974,7 @@
     "Omanai": "omni", 
     "Omb.": "lamentations", 
     "Omi.": "omni", 
+    "Omin.": "omni", 
     "Ominae": "omni", 
     "Ominai": "omni", 
     "Omini": "omni", 
@@ -52184,8 +53005,9 @@
     "Opinberunarbókin": "revelation", 
     "Opisial a Palawag": "official-declarations", 
     "Opisyal na Pahayag": "official-declarations", 
+    "Opisyal nga Deklarasyon": "official-declaration", 
     "Opisyal nga Pahayag": "official-declaration", 
-    "Opisyal nga mga Pahayag": "official-declarations", 
+    "Opisyal nga mga Deklarasyon": "official-declarations", 
     "Oppi ja liitot": "sections", 
     "Ord": "proverbs", 
     "Ords.": "proverbs", 
@@ -52401,7 +53223,7 @@
     "PTLLKý": "deuteronomy", 
     "PTS": "guide-to-the-scriptures", 
     "Pa": "words-of-mormon", 
-    "PaKsimile": "facsimile", 
+    "PaKsimile": "facsimiles", 
     "PaKsimile 1": "fac-1", 
     "Pagannurotan ti Pammati": "articles-of-faith", 
     "Pagsasalin ni Joseph Smith": "joseph-smith-translation", 
@@ -52409,7 +53231,7 @@
     "Pail.": "philemon", 
     "Pailimōn": "philemon", 
     "Pakartoto įstatymo knyga": "deuteronomy", 
-    "Paksimile": "facsimile", 
+    "Paksimile": "facsimiles", 
     "Paksimile 1": "fac-1", 
     "Paksimile 2": "fac-2", 
     "Paksimile 3": "fac-3", 
@@ -52458,7 +53280,6 @@
     "Perla di Gran Prezzo": "pearl-of-great-price", 
     "Perla me Vlerë të Madhe": "pearl-of-great-price", 
     "Perlas a Kapatgan": "pearl-of-great-price", 
-    "Perlas nga Bilidhon": "pearl-of-great-price", 
     "Perlas nga Labing Bililhon": "pearl-of-great-price", 
     "Perle de Grand Prix": "pearl-of-great-price", 
     "Perła Wielkiej Wartości": "pearl-of-great-price", 
@@ -52541,6 +53362,7 @@
     "Pregovori": "proverbs", 
     "Preklad Josepha Smitha": "joseph-smith-translation", 
     "Preklad Josepha Smitha Sprievodca": "jst-appendix", 
+    "Preslici": "facsimiles", 
     "Preslik br.": "facsimile", 
     "Preslik br. 1": "fac-1", 
     "Preslik br. 2": "fac-2", 
@@ -52826,7 +53648,7 @@
     "Salamans Mācītājs": "ecclesiastes", 
     "Salamo": "psalms", 
     "Saliamono Giesmių giesmė": "song-of-solomon", 
-    "Salinan": "facsimile", 
+    "Salinan": "facsimiles", 
     "Salinan 1": "fac-1", 
     "Salinan 2": "fac-2", 
     "Salinan 3": "fac-3", 
@@ -52859,6 +53681,7 @@
     "Sef": "zephaniah", 
     "Sef.": "zephaniah", 
     "Sefa.": "zephaniah", 
+    "Sefan.": "zephaniah", 
     "Sefanaea": "zephaniah", 
     "Sefanaia": "zephaniah", 
     "Sefania": "zephaniah", 
@@ -52883,7 +53706,7 @@
     "Seken Tesalonaeka": "2-thessalonians", 
     "Seken Timoti": "2-timothy", 
     "Seksyon yo": "sections", 
-    "Selekshonnan For Di E Buki Di Mormon": "book-of-mormon", 
+    "Selekshonnan For Di E Buki di Mormon": "book-of-mormon", 
     "Selem.": "jeremiah", 
     "Selemaia": "jeremiah", 
     "Senasis Testamentas": "old-testament", 
@@ -52901,7 +53724,6 @@
     "Siope": "job", 
     "Siosefa Sāmita—Hisitōlia": "joseph-smith-history", 
     "Siosefa Sāmita—Mātiu": "joseph-smith-matthew", 
-    "Siosiua": "joshua", 
     "Sir.": "lamentations", 
     "Sk": "numbers", 
     "Skaičių knyga": "numbers", 
@@ -52930,6 +53752,7 @@
     "Song": "song-of-solomon", 
     "Song of Solomon": "song-of-solomon", 
     "Sophonie": "zephaniah", 
+    "Sosiua": "joshua", 
     "Soud.": "judges", 
     "Soudců": "judges", 
     "Soģu": "judges", 
@@ -53235,7 +54058,7 @@
     "Taga-Filipos": "philippians", 
     "Taga-Galacia": "galatians", 
     "Taga-Roma": "romans", 
-    "Tahadika": "facsimile", 
+    "Tahadika": "facsimiles", 
     "Tahadika 1": "fac-1", 
     "Tahadika 2": "fac-2", 
     "Tahadika 3": "fac-3", 
@@ -53253,12 +54076,16 @@
     "Taniela": "daniel", 
     "Tanielu": "daniel", 
     "Taniera": "daniel", 
-    "Tataanga Numero": "facsimile", 
+    "Tataanga Numero": "facsimiles", 
     "Tataanga Numero 1": "fac-1", 
     "Tataanga Numero 2": "fac-2", 
     "Tataanga Numero 3": "fac-3", 
+    "Tatau Moʻoni": "facsimiles", 
+    "Tatau Moʻoni 1": "fac-1", 
+    "Tatau Moʻoni 2": "fac-2", 
+    "Tatau Moʻoni 3": "fac-3", 
     "Tawa kaq Nefi": "4-nephi", 
-    "Taʼangajoja": "facsimile", 
+    "Taʼangajoja": "facsimiles", 
     "Taʼangajoja 1": "fac-1", 
     "Taʼangajoja Nº 2": "fac-2", 
     "Taịtọs": "titus", 
@@ -53278,7 +54105,6 @@
     "Te mau Hīro’a fa’aro’o": "articles-of-faith", 
     "Teb.": "zephaniah", 
     "Tebania": "zephaniah", 
-    "Tefito ʻo e Tuí": "articles-of-faith", 
     "Teisėjų knyga": "judges", 
     "Tej Nqe Kev Ntseeg": "articles-of-faith", 
     "Tej Tshooj": "sections", 
@@ -53302,6 +54128,7 @@
     "TiM": "words-of-mormon", 
     "Tiago": "james", 
     "Ticības apliecinājumi": "articles-of-faith", 
+    "Tigaba": "sections", 
     "Tiitusele": "titus", 
     "Tiko Voli Mai na Lekutu": "numbers", 
     "Tiko.": "numbers", 
@@ -53330,7 +54157,6 @@
     "Toinen kirje tessalonikalaisille": "2-thessalonians", 
     "Toinen kuninkaiden kirja": "2-kings", 
     "Tokāteline mo e Ngaahi Fuakava": "sections", 
-    "Tokāteline mo e Ngaahi Fuakavá": "sections", 
     "Ton.": "song-of-solomon", 
     "Tononkiran’i Solomona": "song-of-solomon", 
     "Topical Guide": "topical-guide", 
@@ -53606,6 +54432,7 @@
     "Walawi": "leviticus", 
     "Warekaia Iteraera": "numbers", 
     "Warumi": "romans", 
+    "Whakaakoranga me ngā Kawenata": "doctrine-and-covenants", 
     "Whakapuakitanga Tūturu": "official-declaration", 
     "Why.": "revelation", 
     "Wim.": "song-of-solomon", 
@@ -53619,7 +54446,6 @@
     "Worte Mormons": "words-of-mormon", 
     "WvM": "words-of-mormon", 
     "W of M": "words-of-mormon", 
-    "Wāhanga": "sections", 
     "XCRi": "zechariah", 
     "Xa Cha Ri": "zechariah", 
     "Xjaltesinkil ru li Santil Hu xb’aan laj Jose Smith Apendice": "jst-appendix", 
@@ -53640,7 +54466,9 @@
     "Yak. (Bib.)": "james", 
     "Yak. (KM)": "jacob", 
     "Yakhauj": "jacob", 
+    "Yako.": "jacob", 
     "Yakob": "jacob", 
+    "Yakoba": "jacob", 
     "Yakobi": "jacob", 
     "Yakobo": "jacob", 
     "Yakobo (Bib.)": "james", 
@@ -53648,7 +54476,7 @@
     "Yakobus": "james", 
     "Yakub": "jacob", 
     "Yakup": "jacob", 
-    "Yalomi": "jarom", 
+    "Yaloma": "jarom", 
     "Yaloos": "jarom", 
     "Yar.": "jarom", 
     "Yarom": "jarom", 
@@ -53663,11 +54491,20 @@
     "Yes.": "isaiah", 
     "Yesaya": "isaiah", 
     "Yesibili kaNefi": "2-nephi", 
+    "Yil.": "jeremiah", 
+    "Yilimia": "jeremiah", 
+    "Yis.": "isaiah", 
+    "Yisaya": "isaiah", 
     "Yl.": "joel", 
     "Yn.": "john", 
+    "Yoan.": "john", 
+    "Yoane": "john", 
+    "Yob.": "job", 
     "Yobhi": "job", 
+    "Yobo": "job", 
     "Yoe.": "joel", 
     "Yoel": "joel", 
+    "Yoele": "joel", 
     "Yoeli": "joel", 
     "Yoh.": "john", 
     "Yohana": "john", 
@@ -53683,6 +54520,7 @@
     "Yud.": "jude", 
     "Yuda": "jude", 
     "Yudas": "jude", 
+    "Yude": "jude", 
     "Yun.": "jonah", 
     "Yunus": "jonah", 
     "Y ni V": "articles-of-faith", 
@@ -53732,6 +54570,7 @@
     "Zefanja": "zephaniah", 
     "Zefanya": "zephaniah", 
     "Zek.": "zechariah", 
+    "Zekalia": "zechariah", 
     "Zekaraia": "zechariah", 
     "Zekaraịa": "zechariah", 
     "Zekaria": "zechariah", 
@@ -53750,7 +54589,34 @@
     "Zsoltárok": "psalms", 
     "Zvaka.": "revelation", 
     "Zvakazarurwa": "revelation", 
-    "faksimilė": "facsimile", 
+    "abraham": "abraham", 
+    "acts": "acts", 
+    "alma": "alma", 
+    "amos": "amos", 
+    "articles-of-faith": "articles-of-faith", 
+    "baruch": "baruch", 
+    "book-of-mormon": "book-of-mormon", 
+    "colossians": "colossians", 
+    "daniel": "daniel", 
+    "deuteronomy": "deuteronomy", 
+    "doctrine-and-covenants": "sections", 
+    "ecclesiastes": "ecclesiastes", 
+    "enos": "enos", 
+    "ephesians": "ephesians", 
+    "esther": "esther", 
+    "ether": "ether", 
+    "exodus": "exodus", 
+    "ezekiel": "ezekiel", 
+    "ezra": "ezra", 
+    "facsimile": "facsimiles", 
+    "faksimilė": "facsimiles", 
+    "galatians": "galatians", 
+    "genesis": "genesis", 
+    "habakkuk": "habakkuk", 
+    "haggai": "haggai", 
+    "hebrews": "hebrews", 
+    "helaman": "helaman", 
+    "hosea": "hosea", 
     "iDusidusi ki na iVolanikalou": "guide-to-the-scriptures", 
     "iVaka.": "deuteronomy", 
     "iVakadewa nei Josefa Simici Ai Kuri": "jst-appendix", 
@@ -53766,15 +54632,101 @@
     "iVakavakadewa nei Josefa Simici": "joseph-smith-translation", 
     "iVola i Momani": "book-of-mormon", 
     "iWase": "sections", 
+    "isaiah": "isaiah", 
     "iskay kaq Nefi": "2-nephi", 
+    "jacob": "jacob", 
+    "james": "james", 
+    "jarom": "jarom", 
+    "jeremiah": "jeremiah", 
+    "job": "job", 
+    "joel": "joel", 
+    "john": "john", 
+    "jonah": "jonah", 
+    "joseph-smith-history": "joseph-smith-history", 
+    "joseph-smith-matthew": "joseph-smith-matthew", 
+    "joshua": "joshua", 
+    "jst-1-chronicles": "jst-1-chronicles", 
+    "jst-1-corinthians": "jst-1-corinthians", 
+    "jst-1-john": "jst-1-john", 
+    "jst-1-peter": "jst-1-peter", 
+    "jst-1-samuel": "jst-1-samuel", 
+    "jst-1-thessalonians": "jst-1-thessalonians", 
+    "jst-1-timothy": "jst-1-timothy", 
+    "jst-2-chronicles": "jst-2-chronicles", 
+    "jst-2-corinthians": "jst-2-corinthians", 
+    "jst-2-peter": "jst-2-peter", 
+    "jst-2-samuel": "jst-2-samuel", 
+    "jst-2-thessalonians": "jst-2-thessalonians", 
+    "jst-acts": "jst-acts", 
+    "jst-amos": "jst-amos", 
+    "jst-appendix": "jst-appendix", 
+    "jst-colossians": "jst-colossians", 
+    "jst-deuteronomy": "jst-deuteronomy", 
+    "jst-ephesians": "jst-ephesians", 
+    "jst-exodus": "jst-exodus", 
+    "jst-galatians": "jst-galatians", 
+    "jst-genesis": "jst-genesis", 
+    "jst-hebrews": "jst-hebrews", 
+    "jst-isaiah": "jst-isaiah", 
+    "jst-james": "jst-james", 
+    "jst-jeremiah": "jst-jeremiah", 
+    "jst-john": "jst-john", 
+    "jst-luke": "jst-luke", 
+    "jst-mark": "jst-mark", 
+    "jst-matthew": "jst-matthew", 
+    "jst-psalm": "jst-psalms", 
+    "jst-psalms": "jst-psalms", 
+    "jst-revelation": "jst-revelation", 
+    "jst-romans": "jst-romans", 
+    "jude": "jude", 
+    "judges": "judges", 
+    "judith": "judith", 
     "kinsa kaq Nefi": "3-nephi", 
-    "képmásolat": "facsimile", 
+    "képmásolat": "facsimiles", 
+    "lamentations": "lamentations", 
+    "leviticus": "leviticus", 
+    "luke": "luke", 
+    "malachi": "malachi", 
+    "mark": "mark", 
+    "matthew": "matthew", 
+    "micah": "micah", 
+    "mormon": "mormon", 
+    "moroni": "moroni", 
+    "moses": "moses", 
+    "mosiah": "mosiah", 
+    "nahum": "nahum", 
+    "nehemiah": "nehemiah", 
+    "new-testament": "new-testament", 
+    "numbers": "numbers", 
+    "obadiah": "obadiah", 
+    "official-declaration": "official-declarations", 
+    "official-declarations": "official-declarations", 
     "oficialus pareiškimas": "official-declarations", 
     "oficiālā deklarācija": "official-declaration", 
+    "old-testament": "old-testament", 
+    "omni": "omni", 
+    "pearl-of-great-price": "pearl-of-great-price", 
+    "philemon": "philemon", 
+    "philippians": "philippians", 
+    "proverbs": "proverbs", 
+    "psalm": "psalms", 
+    "psalms": "psalms", 
+    "revelation": "revelation", 
+    "romans": "romans", 
+    "ruth": "ruth", 
+    "sections": "sections", 
+    "sirach": "sirach", 
+    "song-of-solomon": "song-of-solomon", 
+    "titus": "titus", 
+    "tobit": "tobit", 
     "uq kaq Nefi": "1-nephi", 
     "vJS, Efeso": "jst-ephesians", 
+    "wisdom-of-solomon": "wisdom-of-solomon", 
+    "words-of-mormon": "words-of-mormon", 
+    "zechariah": "zechariah", 
+    "zephaniah": "zephaniah", 
     "Àomǔnǎi Shū": "omni", 
-    "Àwòrán": "facsimile", 
+    "Àwòrán": "facsimiles", 
     "Àwòrán 1": "fac-1", 
     "Àwòrán 2": "fac-2", 
     "Àwòrán 3": "fac-3", 
@@ -53783,7 +54735,7 @@
     "Àwọn Ìpín": "sections", 
     "Àwọn Ọ̀rọ̀ ti Mọ́mọ́nì": "words-of-mormon", 
     "Ábr.": "abraham", 
-    "Ábrahám": "facsimiles", 
+    "Ábrahám": "abraham", 
     "Álmà": "alma", 
     "Ámos": "amos", 
     "Ámós": "amos", 
@@ -53888,7 +54840,7 @@
     "Þýðing Josephs Smith": "joseph-smith-translation", 
     "Þýðing Josephs Smith Viðauki": "jst-appendix", 
     "Ābr.": "abraham", 
-    "Ābrahāma": "facsimiles", 
+    "Ābrahāma": "abraham", 
     "Ā’ěrmǎ Shū": "alma", 
     "ČV": "articles-of-faith", 
     "Četrta Mojzesova knjiga (Numeri)": "numbers", 
@@ -53909,7 +54861,7 @@
     "Īj.": "job", 
     "Ījaba grāmata": "job", 
     "İBRANİLER": "hebrews", 
-    "İbrahim": "facsimiles", 
+    "İbrahim": "abraham", 
     "İman Maddeleri": "articles-of-faith", 
     "Łuk.": "luke", 
     "Ŋwed Mormon": "book-of-mormon", 
@@ -53938,14 +54890,14 @@
     "ʻEta": "ether", 
     "ʻIsikeli": "ezekiel", 
     "ʻOpat.": "obadiah", 
+    "ʻOpataia": "obadiah", 
     "ʻĀmosi": "amos", 
     "ʻĒpa.": "abraham", 
-    "ʻĒpalahame": "facsimiles", 
+    "ʻĒpalahame": "abraham", 
     "ʻĒsela": "ezra", 
     "ʻĒseta": "esther", 
     "ʻĪnosi": "enos", 
     "ʻĪsaia": "isaiah", 
-    "ʻŌpataia": "obadiah", 
     "Άλμα": "alma", 
     "Ήλαμαν": "helaman", 
     "Όμνι": "omni", 
@@ -54000,14 +54952,8 @@
     "Џозеф Смит-Матеј": "joseph-smith-matthew", 
     "Џозеф Смит – Матеј": "joseph-smith-matthew", 
     "Џозеф Смит—Историја": "joseph-smith-history", 
-    "АБРАХАМЫН Дугаар": "facsimile", 
-    "АБРАХАМЫН Дугаар 1": "fac-1", 
-    "АБРАХАМЫН Дугаар 2": "fac-2", 
-    "АБРАХАМЫН Дугаар 3": "fac-3", 
-    "АЛБАН ТУНХАГ—1": "official-declarations", 
-    "Абрахамын Ном": "facsimiles", 
+    "Абрахам": "abraham", 
     "Ав.": "habakkuk", 
-    "Авак.": "habakkuk", 
     "Авакум": "habakkuk", 
     "Авв.": "habakkuk", 
     "Аввакум": "habakkuk", 
@@ -54017,14 +54963,17 @@
     "Авк": "habakkuk", 
     "Авр": "abraham", 
     "Авр.": "abraham", 
-    "Авраам": "facsimiles", 
-    "Аврам": "facsimiles", 
+    "Авраам": "abraham", 
+    "Аврам": "abraham", 
+    "Аг.": "haggai", 
     "Агг.": "haggai", 
     "Аггей": "haggai", 
     "Агей": "haggai", 
     "Агеј": "haggai", 
     "Агуу Үнэт Сувд": "pearl-of-great-price", 
     "Ал.": "alma", 
+    "Албан тунхаг": "official-declaration", 
+    "Албан тунхгууд": "official-declarations", 
     "Алма": "alma", 
     "Ам.": "amos", 
     "Амос": "amos", 
@@ -54041,6 +54990,7 @@
     "Вих.": "exodus", 
     "Вихід": "exodus", 
     "Водич кроз Света писма": "guide-to-the-scriptures", 
+    "Вт.": "deuteronomy", 
     "Втор.": "deuteronomy", 
     "Второзаконие": "deuteronomy", 
     "Гал": "galatians", 
@@ -54048,6 +54998,7 @@
     "Галатяните": "2-timothy", 
     "Гел.": "helaman", 
     "Геламан": "helaman", 
+    "Д. А.": "acts", 
     "ДС—Іст.": "joseph-smith-history", 
     "ДС—Мт.": "joseph-smith-matthew", 
     "Дан": "daniel", 
@@ -54058,14 +55009,14 @@
     "Деян.": "acts", 
     "Деяния": "acts", 
     "Деянията на апостолите": "acts", 
-    "Дж. С. — И.": "joseph-smith-history", 
-    "Дж. С. — М.": "joseph-smith-matthew", 
+    "Дж. С. – И.": "joseph-smith-history", 
+    "Дж. С. – М.": "joseph-smith-matthew", 
     "ДжС–Ист.": "joseph-smith-history", 
     "ДжС–Мф.": "joseph-smith-matthew", 
     "Джозеф Смит – История": "joseph-smith-history", 
     "Джозеф Смит – от Матфея": "joseph-smith-matthew", 
-    "Джозеф Смит — История": "joseph-smith-history", 
-    "Джозеф Смит — Матея": "joseph-smith-matthew", 
+    "Джозеф Смит – История": "joseph-smith-history", 
+    "Джозеф Смит – Матей": "joseph-smith-matthew", 
     "Джозеф Сміт—Історія": "joseph-smith-history", 
     "Джозеф Сміт—Матвій": "joseph-smith-matthew", 
     "Дорогоцінна Перлина": "pearl-of-great-price", 
@@ -54093,26 +55044,23 @@
     "Евреите": "jude", 
     "Езд.": "ezra", 
     "Ездра": "ezra", 
-    "Езек.": "ezekiel", 
-    "Езекиил": "ezekiel", 
     "Еккл.": "ecclesiastes", 
     "Екклесиаст": "ecclesiastes", 
     "Екл.": "ecclesiastes", 
     "Еклисиаст": "ecclesiastes", 
+    "Ел.": "helaman", 
     "Еламан": "helaman", 
     "Ен.": "enos", 
     "Енос": "enos", 
-    "Ерем.": "jeremiah", 
-    "Еремия": "jeremiah", 
     "Ест.": "esther", 
     "Естир": "esther", 
     "Есф.": "esther", 
     "Есфирь": "esther", 
+    "Ет.": "ether", 
     "Етер": "ether", 
     "Еф": "ephesians", 
     "Еф.": "ephesians", 
     "Ефер": "ether", 
-    "Ефес.": "titus", 
     "Ефесяните": "titus", 
     "Жаром": "jarom", 
     "Жақып": "jacob", 
@@ -54122,6 +55070,7 @@
     "Захария": "zechariah", 
     "Званични проглас": "official-declaration", 
     "Званични прогласи": "official-declarations", 
+    "И. Н.": "joshua", 
     "ИЏС": "joseph-smith-history", 
     "ИНа": "joshua", 
     "Иаков": "jacob", 
@@ -54136,13 +55085,13 @@
     "Изображение 1": "fac-1", 
     "Изображение 2": "fac-2", 
     "Изображение 3": "fac-3", 
+    "Изображения": "facsimiles", 
+    "Изх.": "exodus", 
     "Изход": "exodus", 
     "Иисус Навин": "joshua", 
     "Ин.": "john", 
     "Инос": "enos", 
-    "Иоана": "john", 
     "Иов": "job", 
-    "Иоил": "joel", 
     "Иоиль": "joel", 
     "Иона": "jonah", 
     "Иосеф Смит—Матай": "joseph-smith-matthew", 
@@ -54150,16 +55099,22 @@
     "Ис.": "isaiah", 
     "Иса": "isaiah", 
     "Исаия": "isaiah", 
+    "Исайя": "isaiah", 
     "Историја Џозефа Смита": "joseph-smith-history", 
-    "Исус Н.": "joshua", 
-    "Исус Навиев": "joshua", 
+    "Исус Навин": "joshua", 
     "Исх.": "exodus", 
     "Исход": "exodus", 
-    "Итгэлийн Тунхаг": "articles-of-faith", 
+    "Итгэлийн тунхгууд": "articles-of-faith", 
     "Иуд.": "jude", 
     "Иуды": "jude", 
     "Ифер": "ether", 
+    "Йез.": "ezekiel", 
+    "Йезекиил": "ezekiel", 
+    "Йер.": "jeremiah", 
+    "Йеремия": "jeremiah", 
+    "Йоан": "john", 
     "Йов": "job", 
+    "Йоил": "joel", 
     "Йона": "jonah", 
     "Йоіл": "joel", 
     "К Галатам": "galatians", 
@@ -54194,6 +55149,7 @@
     "Книга Судей": "judges", 
     "Книга Якова": "jacob", 
     "Книга Ярома": "jarom", 
+    "Книга на Мормон": "book-of-mormon", 
     "Книга пророка Єзекіїля": "ezekiel", 
     "Книга пророка Єремії": "jeremiah", 
     "Книга пророка Ісаї": "isaiah", 
@@ -54256,9 +55212,9 @@
     "Мал": "malachi", 
     "Мал.": "malachi", 
     "Малахия": "malachi", 
-    "Марка": "mark", 
+    "Марк": "mark", 
     "Мат.": "matthew", 
-    "Матея": "matthew", 
+    "Матей": "matthew", 
     "Мих": "micah", 
     "Мих.": "micah", 
     "Михей": "micah", 
@@ -54268,7 +55224,6 @@
     "Моис.": "moses", 
     "Моисей": "moses", 
     "Мойс.": "moses", 
-    "Мор.": "moroni", 
     "Морм": "mormon", 
     "Морм.": "mormon", 
     "Мормон": "mormon", 
@@ -54284,7 +55239,7 @@
     "Мороний": "moroni", 
     "Мос": "mosiah", 
     "Мос.": "mosiah", 
-    "Мосегийн Номноос Сонгож Авсан Цуглуулгууд": "moses", 
+    "Мосе": "moses", 
     "Мосия": "mosiah", 
     "Мосија": "mosiah", 
     "Мојсеј": "moses", 
@@ -54311,7 +55266,8 @@
     "Ог.": "haggai", 
     "Одсеци": "sections", 
     "Ом.": "omni", 
-    "Омнаи": "omni", 
+    "Омн.": "omni", 
+    "Омнай": "omni", 
     "Омни": "omni", 
     "Омний": "omni", 
     "Ос.": "hosea", 
@@ -54325,43 +55281,50 @@
     "Откр.": "revelation", 
     "Откривење Јованово": "revelation", 
     "Откровение": "revelation", 
-    "Откровението на Иоана": "revelation", 
-    "Официално изявление": "official-declarations", 
+    "Откровението на Йоан": "revelation", 
+    "Официални изявления": "official-declarations", 
+    "Официално изявление": "official-declaration", 
     "Официальное заявление": "official-declaration", 
     "Официальные заявления": "official-declarations", 
     "Официјална Објава": "official-declaration", 
     "Официјални Објави": "official-declarations", 
     "Офіційна декларація": "official-declaration", 
     "Офіційні декларації": "official-declarations", 
-    "П. ДЖ. С., 1 Коринтяните": "jst-1-corinthians", 
-    "П. ДЖ. С., 1 Петрово": "jst-1-peter", 
-    "П. ДЖ. С., 1 Солунците": "jst-1-thessalonians", 
-    "П. ДЖ. С., 1 Тимотея": "jst-1-timothy", 
-    "П. ДЖ. С., 1 Царете": "jst-1-samuel", 
-    "П. ДЖ. С., 2 Коринтяните": "jst-2-corinthians", 
-    "П. ДЖ. С., 2 Летописи": "jst-2-chronicles", 
-    "П. ДЖ. С., 2 Солунците": "jst-2-thessalonians", 
-    "П. ДЖ. С., 2 Царете": "jst-2-samuel", 
-    "П. ДЖ. С., Амос": "jst-amos", 
-    "П. ДЖ. С., Битие": "jst-genesis", 
-    "П. ДЖ. С., Второзаконие": "jst-deuteronomy", 
-    "П. ДЖ. С., Галатяните": "jst-galatians", 
-    "П. ДЖ. С., Деянията на апостолите": "jst-acts", 
-    "П. ДЖ. С., Евреите": "jst-hebrews", 
-    "П. ДЖ. С., Еремия": "jst-jeremiah", 
-    "П. ДЖ. С., Ефесяните": "jst-ephesians", 
-    "П. ДЖ. С., Изход": "jst-exodus", 
-    "П. ДЖ. С., Иоана": "jst-john", 
-    "П. ДЖ. С., Исаия": "jst-isaiah", 
-    "П. ДЖ. С., Лука": "jst-luke", 
-    "П. ДЖ. С., Марка": "jst-mark", 
-    "П. ДЖ. С., Матея": "jst-matthew", 
-    "П. ДЖ. С., Откровението на Иоана": "jst-revelation", 
-    "П. ДЖ. С., Псалми": "jst-psalms", 
-    "П. ДЖ. С., Римляните": "jst-romans", 
-    "П. ДЖ. С., Яковово": "jst-james", 
     "П. Дж. С.": "joseph-smith-translation", 
-    "П. Дж. С., 1 Иоаново": "jst-1-john", 
+    "П. Дж. С., 1 Йоан": "jst-1-john", 
+    "П. Дж. С., 1 Коринтяните": "jst-1-corinthians", 
+    "П. Дж. С., 1 Летописи": "jst-1-chronicles", 
+    "П. Дж. С., 1 Петър": "jst-1-peter", 
+    "П. Дж. С., 1 Солуняните": "jst-1-thessalonians", 
+    "П. Дж. С., 1 Тимотей": "jst-1-timothy", 
+    "П. Дж. С., 1 Царе": "jst-1-samuel", 
+    "П. Дж. С., 2 Коринтяните": "jst-2-corinthians", 
+    "П. Дж. С., 2 Летописи": "jst-2-chronicles", 
+    "П. Дж. С., 2 Петър": "jst-2-peter", 
+    "П. Дж. С., 2 Солуняните": "jst-2-thessalonians", 
+    "П. Дж. С., 2 Царе": "jst-2-samuel", 
+    "П. Дж. С., Амос": "jst-amos", 
+    "П. Дж. С., Битие": "jst-genesis", 
+    "П. Дж. С., Битие 1–8": "1-8", 
+    "П. Дж. С., Второзаконие": "jst-deuteronomy", 
+    "П. Дж. С., Галатяните": "jst-galatians", 
+    "П. Дж. С., Деянията на апостолите": "jst-acts", 
+    "П. Дж. С., Евреите": "jst-hebrews", 
+    "П. Дж. С., Ефесяните": "jst-ephesians", 
+    "П. Дж. С., Изход": "jst-exodus", 
+    "П. Дж. С., Исайя": "jst-isaiah", 
+    "П. Дж. С., Йеремия": "jst-jeremiah", 
+    "П. Дж. С., Йоан": "jst-john", 
+    "П. Дж. С., Колосяните": "jst-colossians", 
+    "П. Дж. С., Лука": "jst-luke", 
+    "П. Дж. С., Марк": "jst-mark", 
+    "П. Дж. С., Матей": "jst-matthew", 
+    "П. Дж. С., Откровението на Йоан": "jst-revelation", 
+    "П. Дж. С., Послание на Яков": "jst-james", 
+    "П. Дж. С., Псалми": "jst-psalms", 
+    "П. Дж. С., Римляните": "jst-romans", 
+    "П. П.": "song-of-solomon", 
+    "П. Я.": "romans", 
     "ПЈер": "lamentations", 
     "ПЏС": "joseph-smith-translation", 
     "ПЏС, Јеванђеље по Јовану": "jst-john", 
@@ -54476,7 +55439,6 @@
     "Перше послання св. апостола Павла до солунян": "1-thessalonians", 
     "Перше соборне послання св. апостола Івана": "1-john", 
     "Перше соборне послання св. апостола Петра": "1-peter", 
-    "Песен": "song-of-solomon", 
     "Песен на песните": "song-of-solomon", 
     "Песма над песмама": "song-of-solomon", 
     "Песн.": "song-of-solomon", 
@@ -54485,13 +55447,15 @@
     "Плач Єремії": "lamentations", 
     "Плач Јеремијин": "lamentations", 
     "Плач Иеремии": "lamentations", 
-    "Плачът на Еремия": "lamentations", 
+    "Плач.": "lamentations", 
+    "Плачът на Йеремия": "lamentations", 
     "Пнп": "song-of-solomon", 
     "Повтор.": "deuteronomy", 
     "Повторення Закону": "deuteronomy", 
     "Поглавја": "sections", 
     "Понз": "deuteronomy", 
     "Пос": "genesis", 
+    "Послание на Яков": "romans", 
     "Посланица Јаковљева": "james", 
     "Посланица Јеврејима": "hebrews", 
     "Посланица Јудина": "jude", 
@@ -54522,7 +55486,8 @@
     "Прва посланица Тимотију": "1-timothy", 
     "Превод Џозефа Смита": "joseph-smith-translation", 
     "Превод Џозефа Смита Додатак": "jst-appendix", 
-    "Преводът на Джозеф Смит": "jst-appendix", 
+    "Превод на Джозеф Смит": "joseph-smith-translation", 
+    "Превод на Джозеф Смит, приложение": "jst-appendix", 
     "Приложение: Перевод Джозефа Смита": "jst-appendix", 
     "Притч.": "proverbs", 
     "Притчи": "proverbs", 
@@ -54539,11 +55504,11 @@
     "Р. П.": "guide-to-the-scriptures", 
     "РМор": "words-of-mormon", 
     "РСП": "guide-to-the-scriptures", 
+    "Раздели": "sections", 
     "Разделы": "sections", 
     "Речи Мормонове": "words-of-mormon", 
     "Рим": "romans", 
     "Рим.": "romans", 
-    "Римл.": "1-thessalonians", 
     "Римляните": "1-thessalonians", 
     "Розділи": "sections", 
     "Руководство к Священным Писаниям": "guide-to-the-scriptures", 
@@ -54552,12 +55517,11 @@
     "Руфь": "ruth", 
     "Ръководство към Писанията": "guide-to-the-scriptures", 
     "С. В.": "articles-of-faith", 
-    "С. на В.": "articles-of-faith", 
-    "С. на М.": "words-of-mormon", 
+    "С. М.": "words-of-mormon", 
     "Символът на вярата": "articles-of-faith", 
     "Символы веры": "articles-of-faith", 
     "Скапоцениот Бисер": "pearl-of-great-price", 
-    "Скъпоценен Бисер": "pearl-of-great-price", 
+    "Скъпоценен бисер": "pearl-of-great-price", 
     "Сл. М.": "words-of-mormon", 
     "Сл. Морм.": "words-of-mormon", 
     "Слова Мормона": "words-of-mormon", 
@@ -54572,11 +55536,10 @@
     "Старий Завіт": "old-testament", 
     "Суд": "judges", 
     "Суд.": "judges", 
-    "Сургаал ба Гэрээ": "sections", 
+    "Сургаал ба Гэрээнүүд": "doctrine-and-covenants", 
     "Съд.": "judges", 
     "Съдии": "judges", 
     "Тит": "titus", 
-    "Тита": "2-john", 
     "Третє соборне послання св. апостола Івана": "3-john", 
     "Третій Нефій": "3-nephi", 
     "Трећа посланица Јованова": "3-john", 
@@ -54585,12 +55548,12 @@
     "УЗ": "sections", 
     "УиЗ": "sections", 
     "Уложення віри": "articles-of-faith", 
-    "Учение и Завети": "sections", 
     "Учение и Заветы": "sections", 
+    "Учение и завети": "sections", 
     "Учення і Завіти": "sections", 
     "Учење и Завети": "doctrine-and-covenants", 
     "Учење и завети": "sections", 
-    "Факсимиле": "facsimile", 
+    "Факсимиле": "facsimiles", 
     "Факсимиле 1": "fac-1", 
     "Факсимиле 2": "fac-2", 
     "Факсимиле 3": "fac-3", 
@@ -54603,15 +55566,19 @@
     "Фил.": "philippians", 
     "Филим": "philemon", 
     "Филим.": "philemon", 
-    "Филимона": "3-john", 
-    "Филип.": "philemon", 
+    "Филимон": "3-john", 
     "Филипяните": "philemon", 
     "Флм.": "philemon", 
     "Флп.": "philippians", 
     "Хел": "helaman", 
     "Хеламан": "helaman", 
     "Хиламан": "helaman", 
-    "Цртеж": "facsimile", 
+    "Хуулбар": "facsimiles", 
+    "Хуулбар 1": "fac-1", 
+    "Хуулбар 2": "fac-2", 
+    "Хуулбар 3": "fac-3", 
+    "Хэсгүүд": "sections", 
+    "Цртеж": "facsimiles", 
     "Цртеж 1": "fac-1", 
     "Цртеж 2": "fac-2", 
     "Цртеж 3": "fac-3", 
@@ -54622,11 +55589,9 @@
     "Числа": "numbers", 
     "Чланци вере": "articles-of-faith", 
     "Юд.": "jude", 
-    "Юдово": "colossians", 
+    "Юда": "colossians", 
     "Як.": "james", 
     "Яков": "jacob", 
-    "Яков.": "romans", 
-    "Яковово": "romans", 
     "Яр.": "jarom", 
     "Яром": "jarom", 
     "Ա Թագ.": "1-samuel", 
@@ -54639,7 +55604,7 @@
     "Աբդիա": "obadiah", 
     "Աբդիայի Մարգարեությունը": "obadiah", 
     "Աբր.": "abraham", 
-    "Աբրահամ": "facsimiles", 
+    "Աբրահամ": "abraham", 
     "Ալմա": "alma", 
     "Ամբ.": "habakkuk", 
     "Ամբակումի Մարգարեությունը": "habakkuk", 
@@ -54821,7 +55786,7 @@
     "Սոփ.": "zephaniah", 
     "Սոփոնիայի Մարգարեությունը": "zephaniah", 
     "Վարդապետություն և Ուխտեր": "sections", 
-    "Վերատպում": "facsimile", 
+    "Վերատպում": "facsimiles", 
     "Վերատպում 1": "fac-1", 
     "Վերատպում 2": "fac-2", 
     "Վերատպում 3": "fac-3", 
@@ -54846,7 +55811,7 @@
     "إنجيل مرقس": "mark", 
     "إنجيل يوحنا": "john", 
     "ابراهیم": "abraham", 
-    "ابرہام": "facsimiles", 
+    "ابرہام": "abraham", 
     "ارکان دین": "articles-of-faith", 
     "اصول و پیمان ها": "doctrine-and-covenants", 
     "اعلامیه های رسمی": "official-declarations", 
@@ -54896,7 +55861,7 @@
     "رونوشت عینی ۳": "fac-3", 
     "زكريا": "zechariah", 
     "سخنان مورمون": "words-of-mormon", 
-    "شبِیہ": "facsimile", 
+    "شبِیہ": "facsimiles", 
     "شبِیہ ۱": "fac-1", 
     "شبِیہ ۲": "fac-2", 
     "شبِیہ ۳": "fac-3", 
@@ -54951,7 +55916,9 @@
     "يونان": "jonah", 
     "١ نافي": "1-nephi", 
     "٢ نافي": "2-nephi", 
+    "٣ نافي": "3-nephi", 
     "کتاب مورمون": "book-of-mormon", 
+    "ہیلیمن": "helaman", 
     "یروم": "jarom", 
     "یعروم": "jarom", 
     "یعقوب": "jacob", 
@@ -54960,6 +55927,7 @@
     "۱ نیفای": "1-nephi", 
     "۲ نِیفی": "2-nephi", 
     "۲ نیفای": "2-nephi", 
+    "۳ نِیفی": "3-nephi", 
     "۳ نیفای": "3-nephi", 
     "۴ نیفای": "4-nephi", 
     "अधिकारिक घोषणा": "official-declaration", 
@@ -54967,8 +55935,10 @@
     "अनमोल मोती": "pearl-of-great-price", 
     "अलमा": "alma", 
     "अल्मा": "alma", 
+    "आधिकारिक घोषणा": "official-declaration", 
+    "आधिकारिक घोषणाहरू": "official-declarations", 
     "इनोस": "enos", 
-    "इब्राहीम": "facsimiles", 
+    "इब्राहीम": "abraham", 
     "ईथर": "ether", 
     "एतेर": "ether", 
     "एनोश": "enos", 
@@ -54979,7 +55949,7 @@
     "जेरम": "jarom", 
     "जोसफ स्मिथ—इतिहास": "joseph-smith-history", 
     "जोसफ स्मिथ—मत्ती": "joseph-smith-matthew", 
-    "प्रतिकृति": "facsimile", 
+    "प्रतिकृति": "facsimiles", 
     "प्रतिकृति 1": "fac-1", 
     "प्रतिकृति 2": "fac-2", 
     "प्रतिकृति 3": "fac-3", 
@@ -55005,10 +55975,12 @@
     "३ नफी": "3-nephi", 
     "४ नफी": "4-nephi", 
     "মরমনের পুস্তক": "book-of-mormon", 
+    "১ নেফী": "1-nephi", 
+    "২ নেফী": "2-nephi", 
     "৩ নেফী": "3-nephi", 
     "அதிகாரப்பூர்வ பிரகடனங்கள்": "official-declarations", 
     "அதிகாரப்பூர்வ பிரகடனம்": "official-declaration", 
-    "ஆபிரகாம்": "facsimiles", 
+    "ஆபிரகாம்": "abraham", 
     "ஆல்மா": "alma", 
     "ஏத்தேர்": "ether", 
     "ஏனோஸ்": "enos", 
@@ -55017,7 +55989,7 @@
     "கோட்பாடும் உடன்படிக்கைகளும்": "doctrine-and-covenants", 
     "ஜோசப் ஸ்மித்—மத்தேயு": "joseph-smith-matthew", 
     "ஜோசப் ஸ்மித்—வரலாறு": "joseph-smith-history", 
-    "நகல்": "facsimile", 
+    "நகல்": "facsimiles", 
     "நகல் 2": "fac-2", 
     "நகல் 3": "fac-3", 
     "நகல் 1": "fac-1", 
@@ -55034,7 +56006,7 @@
     "விலையேறப்பெற்ற முத்து": "pearl-of-great-price", 
     "అధికారిక ప్రకటన": "official-declaration", 
     "అధికారిక ప్రకటనలు": "official-declarations", 
-    "అబ్రాహాము": "facsimiles", 
+    "అబ్రాహాము": "abraham", 
     "అమూల్యమైన ముత్యము": "pearl-of-great-price", 
     "ఆల్మా": "alma", 
     "ఈథర్": "ether", 
@@ -55044,7 +56016,7 @@
     "జేరమ్": "jarom", 
     "జోసెఫ్ స్మిత్—చరిత్ర": "joseph-smith-history", 
     "జోసెఫ్ స్మిత్—మత్తయి": "joseph-smith-matthew", 
-    "నమూనా": "facsimile", 
+    "నమూనా": "facsimiles", 
     "నమూనా 1": "fac-1", 
     "నమూనా 2": "fac-2", 
     "నమూనా 3": "fac-3", 
@@ -55059,11 +56031,11 @@
     "సిద్ధాంతము మరియు నిబంధనలు": "doctrine-and-covenants", 
     "హీలమన్": "helaman", 
     "අනගි මුතු ඇටය": "pearl-of-great-price", 
-    "අනු ලිපිය": "facsimile", 
+    "අනු ලිපිය": "facsimiles", 
     "අනු ලිපිය 1": "fac-1", 
     "අනු ලිපිය 2": "fac-2", 
     "අනු ලිපිය 3": "fac-3", 
-    "ආබ්‍රහම්": "facsimiles", 
+    "ආබ්‍රහම්": "abraham", 
     "ඇදහිල්ලේ කරුණු": "articles-of-faith", 
     "කොටස්": "sections", 
     "ජෝසෆ් ස්මිත්—ඉතිහාසය": "joseph-smith-history", 
@@ -55175,7 +56147,7 @@
     "ศฟย.": "zephaniah", 
     "สดด.": "psalms", 
     "สภษ.": "proverbs", 
-    "สำเนาหมายเลข": "facsimile", 
+    "สำเนาหมายเลข": "facsimiles", 
     "สำเนาหมายเลข ๑": "fac-1", 
     "สำเนาหมายเลข ๒": "fac-2", 
     "สำเนาหมายเลข ๓": "fac-3", 
@@ -55191,7 +56163,7 @@
     "อสย.": "isaiah", 
     "ออมไน": "omni", 
     "อับรา.": "abraham", 
-    "อับราฮัม": "facsimiles", 
+    "อับราฮัม": "abraham", 
     "อาโมส": "amos", 
     "อิสยาห์": "isaiah", 
     "อีนัส": "enos", 
@@ -55268,8 +56240,8 @@
     "๔ นีไฟ": "4-nephi", 
     "ກຈກ": "acts", 
     "ກລຊ": "colossians", 
-    "ການ​ແປ​ຂອງ​ໂຈເຊັບ ສະມິດ": "joseph-smith-translation", 
-    "ການ​ແປ​ຂອງ​ໂຈເຊັບ ສະມິດ ພາກ​ຫ້ອຍ​ທ້າຍ": "jst-appendix", 
+    "ການ​ແປ​ຂອງ​ໂຈ​ເຊັບ ສະ​ມິດ": "joseph-smith-translation", 
+    "ການ​ແປ​ຂອງ​ໂຈ​ເຊັບ ສະ​ມິດ ພາກ​ຫ້ອຍ​ທ້າຍ": "jst-appendix", 
     "ກິດ​ຈະ​ການ": "acts", 
     "ຂປ": "official-declarations", 
     "ຂໍ້​ປະ​ກາດ​ຢ່າງ​ເປັນ​ທາງ​ການ": "official-declarations", 
@@ -55277,9 +56249,9 @@
     "ຄມ": "words-of-mormon", 
     "ຄມພ": "guide-to-the-scriptures", 
     "ຄລຕ": "galatians", 
-    "ຄາລາເຕຍ": "galatians", 
-    "ຄຳ​ຂອງ​ມໍມອນ": "words-of-mormon", 
-    "ຄຳ​ສອນ ແລະ ພັນທະ​ສັນ​ຍາ": "sections", 
+    "ຄາ​ລາ​ເຕຍ": "galatians", 
+    "ຄຳ​ຂອງ​ມໍ​ມອນ": "words-of-mormon", 
+    "ຄຳ​ສອນ ແລະ ພັນ​ທະ​ສັນ​ຍາ": "sections", 
     "ຄູ່​ມື​ພຣະ​ຄຳ​ພີ": "guide-to-the-scriptures", 
     "ຈບຊ": "numbers", 
     "ຈຣ": "jarom", 
@@ -55293,7 +56265,7 @@
     "ດນອ": "daniel", 
     "ດາ​ນີ​ເອນ": "daniel", 
     "ຕຕ": "titus", 
-    "ຕີໂຕ": "titus", 
+    "ຕີ​ໂຕ": "titus", 
     "ນມຢ": "nehemiah", 
     "ນຣ": "ruth", 
     "ນຮ": "nahum", 
@@ -55303,47 +56275,47 @@
     "ປຈສ, 1 ຂ່າວ​ຄາວ": "jst-1-chronicles", 
     "ປຈສ, 1 ຊາ​ມູ​ເອນ": "jst-1-samuel", 
     "ປຈສ, 1 ຕີ​ໂມ​ທຽວ": "jst-1-timothy", 
-    "ປຈສ, 1 ເທສະ​ໂລນິກ": "jst-1-thessalonians", 
-    "ປຈສ, 1 ເປໂຕ": "jst-1-peter", 
-    "ປຈສ, 1 ໂກຣິນ​ໂທ": "jst-1-corinthians", 
-    "ປຈສ, 1 ໂຢຮັນ": "jst-1-john", 
+    "ປຈສ, 1 ເທ​ສະ​ໂລ​ນິກ": "jst-1-thessalonians", 
+    "ປຈສ, 1 ເປ​ໂຕ": "jst-1-peter", 
+    "ປຈສ, 1 ໂກ​ຣິນ​ໂທ": "jst-1-corinthians", 
+    "ປຈສ, 1 ໂຢ​ຮັນ": "jst-1-john", 
     "ປຈສ, 2 ຂ່າວ​ຄາວ": "jst-2-chronicles", 
     "ປຈສ, 2 ຊາ​ມູ​ເອນ": "jst-2-samuel", 
-    "ປຈສ, 2 ເທສະ​ໂລນິກ": "jst-2-thessalonians", 
-    "ປຈສ, 2 ເປໂຕ": "jst-2-peter", 
-    "ປຈສ, 2 ໂກຣິນ​ໂທ": "jst-2-corinthians", 
+    "ປຈສ, 2 ເທ​ສະ​ໂລ​ນິກ": "jst-2-thessalonians", 
+    "ປຈສ, 2 ເປ​ໂຕ": "jst-2-peter", 
+    "ປຈສ, 2 ໂກ​ຣິນ​ໂທ": "jst-2-corinthians", 
     "ປຈສ, ກິດ​ຈະ​ການ": "jst-acts", 
-    "ປຈສ, ຄາລາເຕຍ": "jst-galatians", 
-    "ປຈສ, ປະຖົມ​ມະການ": "jst-genesis", 
-    "ປຈສ, ປະຖົມ​ມະການ 1–8": "1-8", 
-    "ປຈສ, ພຣະ​ນິມິດ": "jst-revelation", 
+    "ປຈສ, ຄາ​ລາ​ເຕຍ": "jst-galatians", 
+    "ປຈສ, ປະ​ຖົມ​ມະ​ການ": "jst-genesis", 
+    "ປຈສ, ປະ​ຖົມ​ມະ​ການ 1–8": "1-8", 
+    "ປຈສ, ພຣະ​ນິ​ມິດ": "jst-revelation", 
     "ປຈສ, ພຣະ​ບັນ​ຍັດ​ສອງ": "jst-deuteronomy", 
-    "ປຈສ, ມັດທາຍ": "jst-matthew", 
+    "ປຈສ, ມັດ​ທາຍ": "jst-matthew", 
     "ປຈສ, ມາ​ຣະ​ໂກ": "jst-mark", 
     "ປຈສ, ຢາ​ໂກ​ໂບ": "jst-james", 
-    "ປຈສ, ລູກາ": "jst-luke", 
-    "ປຈສ, ອາໂມດ": "jst-amos", 
-    "ປຈສ, ອົບ​ພະຍົບ": "jst-exodus", 
+    "ປຈສ, ລູ​ກາ": "jst-luke", 
+    "ປຈສ, ອາ​ໂມດ": "jst-amos", 
+    "ປຈສ, ອົບ​ພະ​ຍົບ": "jst-exodus", 
     "ປຈສ, ເພງ​ສັນ​ລະ​ເສີນ": "jst-psalms", 
-    "ປຈສ, ເຢເຣ​ມີຢາ": "jst-jeremiah", 
-    "ປຈສ, ເອຊາ​ຢາ": "jst-isaiah", 
+    "ປຈສ, ເຢ​ເຣ​ມີ​ຢາ": "jst-jeremiah", 
+    "ປຈສ, ເອ​ຊາ​ຢາ": "jst-isaiah", 
     "ປຈສ, ເອ​ເຟ​ໂຊ": "jst-ephesians", 
-    "ປຈສ, ເຮັບເຣີ": "jst-hebrews", 
-    "ປຈສ, ໂກໂລຊາຍ": "jst-colossians", 
-    "ປຈສ, ໂຢຮັນ": "jst-john", 
+    "ປຈສ, ເຮັບ​ເຣີ": "jst-hebrews", 
+    "ປຈສ, ໂກ​ໂລ​ຊາຍ": "jst-colossians", 
+    "ປຈສ, ໂຢ​ຮັນ": "jst-john", 
     "ປຈສ, ໂຣມ": "jst-romans", 
     "ປຍຈ": "ecclesiastes", 
     "ປຖກ": "genesis", 
-    "ປະຖົມ​ມະການ": "genesis", 
+    "ປະ​ຖົມ​ມະ​ການ": "genesis", 
     "ປັນ​ຍາ​ຈານ": "ecclesiastes", 
     "ຜປ": "judges", 
     "ພຄຄ": "lamentations", 
     "ພນມ": "revelation", 
     "ພບຍ": "deuteronomy", 
-    "ພຣະ​ຄຳ​ພີ​ມໍມອນ": "book-of-mormon", 
+    "ພຣະ​ຄຳ​ພີ​ມໍ​ມອນ": "book-of-mormon", 
     "ພຣະ​ຄຳ​ພີ​ເດີມ": "old-testament", 
     "ພຣະ​ຄຳ​ພີ​ໃໝ່": "new-testament", 
-    "ພຣະ​ນິມິດ": "revelation", 
+    "ພຣະ​ນິ​ມິດ": "revelation", 
     "ພຣະ​ບັນ​ຍັດ​ສອງ": "deuteronomy", 
     "ພວກ​ຜູ້​ປົກ​ຄອງ": "judges", 
     "ພສສ": "psalms", 
@@ -55360,11 +56332,11 @@
     "ມຣກ": "mark", 
     "ມຣນ": "moroni", 
     "ມລກ": "malachi", 
-    "ມັດທາຍ": "matthew", 
+    "ມັດ​ທາຍ": "matthew", 
     "ມາ​ຣະ​ໂກ": "mark", 
     "ມາ​ລາ​ກີ": "malachi", 
     "ມີ​ກາ": "micah", 
-    "ມໍມອນ": "mormon", 
+    "ມໍ​ມອນ": "mormon", 
     "ຢກບ": "james", 
     "ຢຄ": "jacob", 
     "ຢຊ": "joshua", 
@@ -55373,15 +56345,16 @@
     "ຢມຢ": "jeremiah", 
     "ຢອ": "joel", 
     "ຢຮ": "john", 
-    "ຢາໂຄບ": "jacob", 
     "ຢາ​ໂກ​ໂບ": "james", 
+    "ຢາ​ໂຄບ": "jacob", 
     "ຢູ​ດາ": "jude", 
     "ຣມ": "romans", 
     "ລກ": "luke", 
     "ລລວ": "leviticus", 
-    "ລະບຽບ​ພວກ​ເລວີ": "leviticus", 
-    "ລູກາ": "luke", 
+    "ລະ​ບຽບ​ພວກ​ເລ​ວີ": "leviticus", 
+    "ລູ​ກາ": "luke", 
     "ສພສ": "proverbs", 
+    "ສຳ​ເນົາ": "facsimiles", 
     "ສຳ​ເນົາ ເລກ​ທີ": "facsimile", 
     "ສຳ​ເນົາ ເລກ​ທີ 1": "fac-1", 
     "ສຳ​ເນົາ ເລກ​ທີ 2": "fac-2", 
@@ -55401,11 +56374,11 @@
     "ອມນ": "omni", 
     "ອຣຮ": "abraham", 
     "ອສທ": "esther", 
-    "ອອມໄນ": "omni", 
-    "ອັບ​ຣາ​ຮາມ": "facsimiles", 
-    "ອາໂມດ": "amos", 
-    "ອີເທີ": "ether", 
-    "ອົບ​ພະຍົບ": "exodus", 
+    "ອອມ​ໄນ": "omni", 
+    "ອັບ​ຣາ​ຮາມ": "abraham", 
+    "ອາ​ໂມດ": "amos", 
+    "ອີ​ເທີ": "ether", 
+    "ອົບ​ພະ​ຍົບ": "exodus", 
     "ຮກ": "haggai", 
     "ຮບກ": "habakkuk", 
     "ຮຣ": "hebrews", 
@@ -55414,35 +56387,35 @@
     "ຮັກ​ກາຍ": "haggai", 
     "ຮາ​ບາ​ກຸກ": "habakkuk", 
     "ຮີ​ລາ​ມັນ": "helaman", 
-    "ເຈຣອມ": "jarom", 
-    "ເຊ​ກາ​ຣີຢາ": "zechariah", 
-    "ເຊ​ຟາ​ນີຢາ": "zephaniah", 
-    "ເນ​ເຫ​ມີຢາ": "nehemiah", 
+    "ເຈ​ຣອມ": "jarom", 
+    "ເຊ​ກາ​ຣີ​ຢາ": "zechariah", 
+    "ເຊ​ຟາ​ນີ​ຢາ": "zephaniah", 
+    "ເນ​ເຫ​ມີ​ຢາ": "nehemiah", 
     "ເພງ​ຄ່ຳ​ຄວນ": "lamentations", 
     "ເພງ​ສັນ​ລະ​ເສີນ": "psalms", 
-    "ເຢເຣ​ມີຢາ": "jeremiah", 
-    "ເອຊະຣາ": "ezra", 
-    "ເອຊາ​ຢາ": "isaiah", 
-    "ເອສະເທີ": "esther", 
-    "ເອໂນດ": "enos", 
+    "ເຢ​ເຣ​ມີ​ຢາ": "jeremiah", 
+    "ເອ​ຊະ​ຣາ": "ezra", 
+    "ເອ​ຊາ​ຢາ": "isaiah", 
+    "ເອ​ສະ​ເທີ": "esther", 
     "ເອ​ເຊ​ກຽນ": "ezekiel", 
     "ເອ​ເຟ​ໂຊ": "ephesians", 
-    "ເຮັບເຣີ": "hebrews", 
+    "ເອ​ໂນດ": "enos", 
+    "ເຮັບ​ເຣີ": "hebrews", 
     "ແອວ": "alma", 
-    "ແອວມາ": "alma", 
-    "ໂກໂລຊາຍ": "colossians", 
-    "ໂຈເຊັບ ສະມິດ—ປະຫວັດ": "joseph-smith-history", 
-    "ໂຈເຊັບ ສະມິດ—ມັດທາຍ": "joseph-smith-matthew", 
-    "ໂມເຊ": "moses", 
+    "ແອວ​ມາ": "alma", 
+    "ໂກ​ໂລ​ຊາຍ": "colossians", 
+    "ໂຈ​ເຊັບ ສະ​ມິດ—ປະ​ຫວັດ": "joseph-smith-history", 
+    "ໂຈ​ເຊັບ ສະ​ມິດ—ມັດ​ທາຍ": "joseph-smith-matthew", 
+    "ໂມ​ເຊ": "moses", 
     "ໂມ​ໂຣ​ໄນ": "moroni", 
     "ໂມ​ໄຊ​ຢາ": "mosiah", 
     "ໂຢບ": "job", 
-    "ໂຢຮັນ": "john", 
     "ໂຢ​ຊວຍ": "joshua", 
     "ໂຢ​ນາ": "jonah", 
+    "ໂຢ​ຮັນ": "john", 
     "ໂຢ​ເອນ": "joel", 
     "ໂຣມ": "romans", 
-    "ໂອບາ​ດີຢາ": "obadiah", 
+    "ໂອ​ບາ​ດີ​ຢາ": "obadiah", 
     "ໂຮ​ເສ​ອາ": "hosea", 
     "ໄຂ່​ມຸກ​ອັນ​ລ້ຳ​ຄ່າ": "pearl-of-great-price", 
     "မောဇိယ": "mosiah", 
@@ -55537,7 +56510,7 @@
     "ቃላት": "words-of-mormon", 
     "ቄላ.": "colossians", 
     "ቅ.መ.መ.": "guide-to-the-scriptures", 
-    "ቅርፅ": "facsimile", 
+    "ቅርፅ": "facsimiles", 
     "ቅርፅ ፩": "fac-1", 
     "ቅርፅ ፪": "fac-2", 
     "ቅርፅ ፫": "fac-3", 
@@ -55569,7 +56542,7 @@
     "አስተዳደሪያዊ አዋጆች": "official-declarations", 
     "አስቴ.": "esther", 
     "አብር.": "abraham", 
-    "አብርሐም": "facsimiles", 
+    "አብርሐም": "abraham", 
     "አብድ.": "obadiah", 
     "አዲስ ኪዳን": "new-testament", 
     "ኢሳ.": "isaiah", 
@@ -55825,7 +56798,7 @@
     "វត្ថុ​ចម្លង​តាម លេខ​ទី ១": "fac-1", 
     "វត្ថុ​ចម្លង​តាម លេខ​ទី ២": "fac-2", 
     "វត្ថុ​ចម្លង​តាម លេខ​ទី ៣": "fac-3", 
-    "វត្ថុ​ចម្លង​តាម លេខ​ី": "facsimile", 
+    "វត្ថុ​ចម្លង​តាម លេខ​ី": "facsimiles", 
     "វិវរ.": "revelation", 
     "វិវរណៈ": "revelation", 
     "ស.ប.": "guide-to-the-scriptures", 
@@ -55862,7 +56835,7 @@
     "អែសរ៉ា": "ezra", 
     "អោមណៃ": "omni", 
     "អ័ប្រា.": "abraham", 
-    "អ័ប្រាហាំ": "facsimiles", 
+    "អ័ប្រាហាំ": "abraham", 
     "១ កូរិន.": "1-corinthians", 
     "១ ថែស្សា.": "1-thessalonians", 
     "១ ធីម៉ូ.": "1-timothy", 
@@ -56027,7 +57000,7 @@
     "Ⅴ Ks. Mojżeszowa": "deuteronomy", 
     "Ⅴ Mojż.": "deuteronomy", 
     "アブ": "abraham", 
-    "アブラハム書": "facsimiles", 
+    "アブラハム書": "abraham", 
     "アモ": "amos", 
     "アモス書": "amos", 
     "アル": "alma", 
@@ -56152,9 +57125,9 @@
     "乃": "moroni", 
     "书": "joshua", 
     "亚": "zechariah", 
-    "亚伯拉罕书": "facsimiles", 
+    "亚伯拉罕书": "abraham", 
     "亞": "zechariah", 
-    "亞伯拉罕書": "facsimiles", 
+    "亞伯拉罕書": "abraham", 
     "代上": "1-chronicles", 
     "代下": "2-chronicles", 
     "以": "ether", 
@@ -56245,7 +57218,7 @@
     "士师记": "judges", 
     "士師": "judges", 
     "士師記": "judges", 
-    "复制图": "facsimile", 
+    "复制图": "facsimiles", 
     "复制图1": "fac-1", 
     "复制图2": "fac-2", 
     "复制图3": "fac-3", 
@@ -56350,7 +57323,7 @@
     "林前": "1-corinthians", 
     "林后": "2-corinthians", 
     "林後": "2-corinthians", 
-    "模写": "facsimile", 
+    "模写": "facsimiles", 
     "模写一": "fac-1", 
     "模写三": "fac-3", 
     "模写二": "fac-2", 
@@ -56519,7 +57492,7 @@
     "腓立比书": "philippians", 
     "腓立比書": "philippians", 
     "舊約": "old-testament", 
-    "複製圖": "facsimile", 
+    "複製圖": "facsimiles", 
     "複製圖1": "fac-1", 
     "複製圖2": "fac-2", 
     "複製圖3": "fac-3", 
@@ -56643,7 +57616,7 @@
     "사도행전": "acts", 
     "사무엘상": "1-samuel", 
     "사무엘하": "2-samuel", 
-    "사본": "facsimile", 
+    "사본": "facsimiles", 
     "사본 1": "fac-1", 
     "사본 2": "fac-2", 
     "사본 3": "fac-3", 
@@ -56671,7 +57644,7 @@
     "아가": "song-of-solomon", 
     "아모스": "amos", 
     "아브": "abraham", 
-    "아브라함서": "facsimiles", 
+    "아브라함서": "abraham", 
     "안내": "guide-to-the-scriptures", 
     "암": "amos", 
     "애": "lamentations", 
@@ -59271,27 +60244,27 @@
   "summary": {
     "punctuation": {
       "bookChapterSeparator": [
-        " ", 
         " ", 
+        " ", 
         ""
       ], 
       "chapterVerseSeparator": [
-        ":", 
-        "፥", 
         "：", 
-        "."
+        "፥", 
+        ".", 
+        ":"
       ], 
       "verseRangeSeparator": [
-        "–", 
+        "~", 
         "-", 
         "－", 
-        "~"
+        "–"
       ], 
       "verseGroupSeparator": [
-        ", ", 
         "፣ ", 
-        "，", 
-        ","
+        ",", 
+        ", ", 
+        "，"
       ], 
       "referenceSeparator": [
         "; ", 
@@ -59304,100 +60277,110 @@
         "("
       ], 
       "closingParenthesis": [
-        "）", 
-        ")"
+        ")", 
+        "）"
       ]
     }, 
     "numerals": [
       [
-        "0", 
-        "٠", 
-        "០", 
-        "၀", 
         "०", 
+        "០", 
+        "๐", 
         "۰", 
-        "๐"
+        "٠", 
+        "၀", 
+        "০", 
+        "0"
       ], 
       [
         "1", 
-        "١", 
         "១", 
-        "၁", 
-        "१", 
         "۱", 
-        "๑"
+        "১", 
+        "๑", 
+        "١", 
+        "၁", 
+        "१"
       ], 
       [
-        "2", 
-        "٢", 
-        "២", 
         "၂", 
+        "٢", 
         "२", 
         "۲", 
+        "២", 
+        "2", 
+        "২", 
         "๒"
       ], 
       [
-        "3", 
         "٣", 
-        "៣", 
         "၃", 
-        "३", 
+        "๓", 
+        "៣", 
+        "৩", 
         "۳", 
-        "๓"
+        "३", 
+        "3"
       ], 
       [
         "4", 
-        "٤", 
-        "៤", 
-        "၄", 
-        "४", 
         "۴", 
-        "๔"
+        "৪", 
+        "๔", 
+        "៤", 
+        "४", 
+        "٤", 
+        "၄"
       ], 
       [
-        "5", 
-        "٥", 
-        "៥", 
+        "৫", 
         "၅", 
-        "५", 
         "۵", 
+        "٥", 
+        "५", 
+        "៥", 
+        "5", 
         "๕"
       ], 
       [
-        "6", 
-        "٦", 
-        "៦", 
+        "৬", 
         "၆", 
-        "६", 
+        "٦", 
         "۶", 
-        "๖"
+        "6", 
+        "६", 
+        "๖", 
+        "៦"
       ], 
       [
-        "7", 
-        "٧", 
-        "៧", 
-        "၇", 
         "७", 
+        "৭", 
         "۷", 
-        "๗"
+        "٧", 
+        "๗", 
+        "7", 
+        "៧", 
+        "၇"
       ], 
       [
-        "8", 
         "٨", 
         "៨", 
         "၈", 
+        "৮", 
         "८", 
         "۸", 
-        "๘"
+        "๘", 
+        "8"
       ], 
       [
-        "9", 
-        "٩", 
-        "៩", 
+        "৯", 
         "၉", 
+        "9", 
         "९", 
+        "៩", 
         "۹", 
-        "๙"
+        "๙", 
+        "٩"
       ]
     ], 
     "churchAvailability": {
@@ -59415,10 +60398,13 @@
         "ko", 
         "pt", 
         "to", 
-        "tr"
+        "tr", 
+        "yue-Hant"
       ], 
       "new-testament": [
         "ar", 
+        "cmn-Hans", 
+        "cmn-Hant", 
         "de", 
         "en", 
         "es", 
@@ -59429,7 +60415,8 @@
         "ko", 
         "pt", 
         "to", 
-        "tr"
+        "tr", 
+        "yue-Hant"
       ], 
       "book-of-mormon": [
         "af", 
@@ -59489,6 +60476,7 @@
         "ln", 
         "lo", 
         "lt", 
+        "lua", 
         "lv", 
         "mam", 
         "mg", 
@@ -59594,6 +60582,7 @@
         "kek", 
         "km", 
         "ko", 
+        "ln", 
         "lo", 
         "lt", 
         "lv", 
@@ -59622,6 +60611,7 @@
         "sn", 
         "sq", 
         "sr", 
+        "ss", 
         "sv", 
         "sw", 
         "ta", 
@@ -59683,6 +60673,7 @@
         "kek", 
         "km", 
         "ko", 
+        "ln", 
         "lo", 
         "lt", 
         "lv", 
@@ -59758,6 +60749,7 @@
         "kek", 
         "km", 
         "ko", 
+        "ln", 
         "lo", 
         "lt", 
         "lv", 
