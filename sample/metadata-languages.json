@@ -1,5 +1,5 @@
 {
-  "_about": "Generated 2024-11-06 by Python Scripture Scraper (https://github.com/samuelbradshaw/python-scripture-scraper)", 
+  "_about": "Generated 2025-06-08 by Python Scripture Scraper (https://github.com/samuelbradshaw/python-scripture-scraper)", 
   "languages": {
     "af": {
       "name": "Afrikaans", 
@@ -95,6 +95,11 @@
       "name": "Chuukese", 
       "autonym": "Fosun Chuuk", 
       "churchLang": "chk"
+    }, 
+    "ckb": {
+      "name": "[Unknown]", 
+      "autonym": "زمانێ سۆرانی‎", 
+      "churchLang": "ckb"
     }, 
     "cmn-Hans": {
       "name": "Mandarin (Simplified)", 
@@ -308,7 +313,7 @@
     }, 
     "km": {
       "name": "Khmer (Cambodian)", 
-      "autonym": "ភាសាខ្មែរ", 
+      "autonym": "ខ្មែរ‎", 
       "churchLang": "khm"
     }, 
     "ko": {
@@ -673,7 +678,7 @@
     }, 
     "war": {
       "name": "Waray", 
-      "autonym": "Waray", 
+      "autonym": "Waray Waray", 
       "churchLang": "war"
     }, 
     "xh": {
@@ -738,6 +743,7 @@
     "ch": "ch", 
     "cha": "ch", 
     "chk": "chk", 
+    "ckb": "ckb", 
     "cmn-Hans": "cmn-Hans", 
     "zhs": "cmn-Hans", 
     "cmn-Hant": "cmn-Hant", 

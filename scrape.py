@@ -314,7 +314,7 @@ def gather_metadata_for_language(language):
       if soup.select_one('#content article').attrs['data-uri'] == study_uri:
         if footnotes:
           verse_range_separator_example = footnotes.select_one('#note2a_p1 a, #note2_a_p1 a').text  # 'Mos. 1:2–4'
-          verse_group_separator_example = footnotes.select_one('#note1c_p1 a, #note1_c_p1 a').text  # 'D&C 68:25, 28'
+          verse_group_separator_example = footnotes.select_one('a[href^="/study/scriptures/dc-testament/dc/68?"], span[data-legacy-href^="/study/scriptures/dc-testament/dc/68?"]').text  # 'D&C 68:25, 28'
           reference_separator = footnotes.select_one('#note1d_p1 a, #note1_d_p1 a').next_sibling.text  # '; '
           metadata_scriptures['languages'][bcp47_lang]['punctuation']['bookChapterSeparator'] = re.match(r'^[^\s]+(.*?)\d+', verse_range_separator_example).group(1)
           metadata_scriptures['languages'][bcp47_lang]['punctuation']['chapterVerseSeparator'] = re.match(r'^.+?\d+(.+?)\d+', verse_range_separator_example).group(1)
@@ -374,8 +374,8 @@ def gather_metadata_for_language(language):
           
           book_row = rows[book_counter]
           if book_slug == 'official-declarations':
-            book_name = re.sub('[\dⅠ一፩ទ–—]+?\.?', '', book_row.select('td')[1].text).strip()
-            book_abbreviation = re.sub('[\dⅠ一፩ទ–—]+?\.?', '', book_row.select('td')[0].text).strip()
+            book_name = re.sub(r'[\dⅠ一፩ទ–—]+?\.?', '', book_row.select('td')[1].text).strip()
+            book_abbreviation = re.sub(r'[\dⅠ一፩ទ–—]+?\.?', '', book_row.select('td')[0].text).strip()
           else:
             book_name = book_row.select('td')[1].text.strip()
             book_abbreviation = book_row.select('td')[0].text.strip()
@@ -479,7 +479,7 @@ def gather_metadata_for_language(language):
           
           # Get the chapter name
           chapter_name = first_chapter_link.select_one('.title').text.strip()
-          chapter_name_without_numbers = re.sub('[\dⅠ一፩ទ–—]+?\.?', '', chapter_name).strip()
+          chapter_name_without_numbers = re.sub(r'[\dⅠ一፩ទ–—]+?\.?', '', chapter_name).strip()
           
           # Get the book name by looking for the preceding title
           book_name = first_chapter_link.find_previous(class_='label').text.strip()
@@ -518,7 +518,7 @@ def gather_metadata_for_language(language):
             first_chapter_link = table_of_contents.select_one('a.list-tile[href^="/study/scriptures/pgp/abr/fac-1"]')
             if first_chapter_link:
               chapter_name = first_chapter_link.select_one('.title').text.strip()
-              chapter_name_without_numbers = re.sub('[\dⅠ一፩ទ–—]+?\.?', '', chapter_name).strip()
+              chapter_name_without_numbers = re.sub(r'[\dⅠ一፩ទ–—]+?\.?', '', chapter_name).strip()
               facsimiles_section_name = first_chapter_link.find_previous(class_='label').text.strip()
               if facsimiles_section_name == book_name:
                 facsimiles_section_name = chapter_name_without_numbers
@@ -792,6 +792,20 @@ def output_full_content(bcp47_lang):
           if soup:
             content = soup.select_one('#content')            
             
+            def get_asset_id_from_url(url):
+              asset_id = None
+              if url.startswith('https://assets.churchofjesuschrist.org/') and len(url.split('/')) >= 6:
+                # https://assets.churchofjesuschrist.org/2a/c7/2ac705f7319f3003d90312611e92174c5a592ea9/2ac705f7319f3003d90312611e92174c5a592ea9.jpeg
+                asset_id = url.split('/')[5].split('-')[0]
+              elif url.startswith('https://assets.churchofjesuschrist.org/') and len(url.split('/')) >= 3:
+                # https://assets.churchofjesuschrist.org/f46a1ae462e1511f17d50b7f2069d4c670486069
+                # https://assets.churchofjesuschrist.org/e6fa64f880ff11efae28022e7e432ed98f153e55-128k-en.mp3
+                asset_id = url.split('/')[3].split('-')[0]
+              elif url.startswith('https://www.churchofjesuschrist.org/imgs/') or url.startswith('https://churchofjesuschrist.org/imgs/'):
+                # https://www.churchofjesuschrist.org/imgs/e7a316c6da6886cb66baf00ae111719641c5c4bd/full/640%2C/0/default
+                asset_id = url.split('/')[4]
+              return asset_id
+            
             # Get media info
             chapter_media = []
             video_element = content.select_one('header video')
@@ -809,9 +823,7 @@ def output_full_content(bcp47_lang):
                     subtype = '720p'
                   elif source.get('data-height') == '1080':
                     subtype = '1080p'
-                  image_asset_id = None
-                  if 'assets.churchofjesuschrist.org' in video_element.get('data-poster'):
-                    image_asset_id = link.get('data-poster').split['/'][-2]
+                  image_asset_id = get_asset_id_from_url(link.get('data-poster'))
                   chapter_media.append({
                     'type': 'video',
                     'subtype': subtype,
@@ -840,9 +852,7 @@ def output_full_content(bcp47_lang):
                     subtype = 'music-vocal'
                   elif 'Accompaniment' in link.text:
                     subtype = 'music-accompaniment'
-                  asset_id = None
-                  if 'assets.churchofjesuschrist.org' in link.get('href'):
-                    asset_id = link.get('href').split['/'][-2]
+                  asset_id = get_asset_id_from_url(link.get('href'))
                   chapter_media.append({
                     'type': media_type,
                     'subtype': subtype,
